@@ -1,0 +1,11 @@
+{
+  "id": "1A-my-id",
+  "order": 1,
+  "unit": "Unit 1 — Identity",
+  "title": "My ID",
+  "contentMd": "## Present Perfect Simple и Continuous\n\nОба времени связывают прошлое с настоящим. Часто с *live, work, study* можно сказать и так и так: *I've lived here* ≈ *I've been living here*.\n\n- **Simple** — акцент на **результате**: *He's passed all his exams.*\n- **Continuous** — на **процессе**: *He's been studying for his exams.*\n- На вопросы **How many / How much / How far** → чаще **simple**: *We've interviewed 100 people.*\n- На **How long** или долгое действие → **continuous**: *We've been waiting forty minutes!*\n- **Завершённое** сейчас → simple (*I've missed the bus*). **Ещё не закончено** → continuous (*I've been learning Mandarin*).\n- Глаголы состояния (*know, believe, own*…) — **только simple**, не *been knowing*. С *always / ever / never* — **simple**: *I've always baked my own bread.*",
+  "examples": [
+    "How long have you been studying English?",
+    "I've sent five emails this morning."
+  ]
+}

@@ -1,0 +1,16 @@
+# PDF пособий — локально; структура папок — в git (.gitkeep)
+toExtract/*
+!toExtract/.gitkeep
+!toExtract/*/
+toExtract/*/*
+!toExtract/*/.gitkeep
+node_modules/
+dist/
+app/public/content/
+*.tsbuildinfo
+.idea/
+.cursor/
+__pycache__/
+*.pyc
+.env
+.DS_Store

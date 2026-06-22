@@ -1,0 +1,11 @@
+{
+  "lessonId": "1A-my-id",
+  "title": "My ID — новые слова",
+  "items": [
+    { "term": "reliable", "translation": "надёжный", "example": "She is very reliable." },
+    { "term": "optimistic", "translation": "оптимистичный", "example": "He's always optimistic about the future." },
+    { "term": "ambitious", "translation": "амбициозный", "example": "She's very ambitious and works hard." },
+    { "term": "outgoing", "translation": "открытый, контактный", "example": "He's outgoing and makes friends easily." },
+    { "term": "stubborn", "translation": "упрямый", "example": "Don't be so stubborn — listen to reason." }
+  ]
+}

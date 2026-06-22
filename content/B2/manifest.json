@@ -1,0 +1,19 @@
+{
+  "level": "B2",
+  "title": "Speakout B2",
+  "source": {
+    "sb": "extract/SB.txt",
+    "wb": "extract/WB.txt"
+  },
+  "studyOrder": [
+    { "type": "rule", "id": "1A-my-id" },
+    { "type": "vocabulary", "id": "1A-my-id" },
+    { "type": "phrases", "id": "1A-my-id" },
+    { "type": "idioms", "id": "1A-my-id" },
+    { "type": "rule", "id": "1B-memory" },
+    { "type": "vocabulary", "id": "1B-memory" },
+    { "type": "phrases", "id": "1B-memory" },
+    { "type": "idioms", "id": "1B-memory" }
+  ],
+  "testDays": ["day-01"]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ec912d2498d4",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I have been knowing him for years.",
+      "I have known him for years.",
+      "I am knowing him for years.",
+      "I know him since 2020."
+    ],
+    "correctIndex": 1,
+    "explanation": "State verbs like 'know' are not used in continuous forms. Use Present Perfect Simple: 'I have known him for years.'",
+    "relatedRuleIds": ["1A-my-id"]
+  },
+  {
+    "id": "867cb42c9563",
+    "question": "Choose the best answer: How long ___ you ___ English?",
+    "options": [
+      "do / study",
+      "have / studied",
+      "have / been studying",
+      "are / studying"
+    ],
+    "correctIndex": 2,
+    "explanation": "With 'How long' about an ongoing action, Present Perfect Continuous is natural: 'How long have you been studying English?'",
+    "relatedRuleIds": ["1A-my-id"]
+  },
+  {
+    "id": "08937f854e99",
+    "question": "Which is correct?",
+    "options": [
+      "My idea is building an app.",
+      "My idea is to build an app.",
+      "My idea is build an app.",
+      "My idea building an app."
+    ],
+    "correctIndex": 1,
+    "explanation": "After 'be' (My idea is...), we use the infinitive with 'to': 'My idea is to build an app.'",
+    "relatedRuleIds": ["1B-memory"]
+  },
+  {
+    "id": "80a81a4a79fa",
+    "question": "Remember ___ the door before you leave.",
+    "options": [
+      "to lock",
+      "locking",
+      "lock",
+      "locked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Remember to do' means don't forget to do something in the future. 'Remember to lock the door.'",
+    "relatedRuleIds": ["1B-memory"]
+  },
+  {
+    "id": "945c1e90625a",
+    "question": "She stopped ___ a coffee on her way.",
+    "options": [
+      "to have",
+      "having",
+      "have",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stop to do' means pause in order to do something else. She stopped (walking) to have a coffee.",
+    "relatedRuleIds": ["1B-memory"]
+  }
+]

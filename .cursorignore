@@ -1,0 +1,30 @@
+﻿# Dependencies & build output
+node_modules/
+dist/
+app/dist/
+*.tsbuildinfo
+
+# Content copy for Vite (synced from content/ by scripts/run_app.py)
+app/public/content/
+
+# Raw PDF text — large (~800 KB SB + ~370 KB WB); open explicitly when generating lessons
+content/**/extract/
+SB_extracted.txt
+WB_extracted.txt
+
+# Source PDFs (local only, not in git)
+toExtract/
+
+# Lockfiles — rarely needed for AI work
+**/package-lock.json
+
+# IDE, cache, secrets
+.idea/
+.cursor/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Git metadata
+.git/

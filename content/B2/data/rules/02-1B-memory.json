@@ -1,0 +1,11 @@
+{
+  "id": "1B-memory",
+  "order": 2,
+  "unit": "Unit 1 — Identity",
+  "title": "Memory",
+  "contentMd": "## To infinitive и -ing\n\n- После **be** — *to*: *My idea is to build an app.*\n- **Цель** — *to* или формально **so as (not) to**: *She ran so as not to be late.*\n- После **предлога** — только **-ing**: *by working hard.*\n\n### try / remember / forget / stop + to или -ing — разный смысл\n\n| Конструкция | Значение |\n|---|---|\n| *try to do* | пытаться сделать |\n| *try doing* | попробовать как вариант |\n| *remember to do* | не забыть сделать |\n| *remember doing* | помнить, что делал |\n| *forget to do* | забыть сделать |\n| *forget doing* | не помнить, что делал |\n| *stop to do* | остановиться, чтобы сделать другое |\n| *stop doing* | перестать делать |",
+  "examples": [
+    "My idea is to build an app.",
+    "She stopped to have a coffee on her way."
+  ]
+}
