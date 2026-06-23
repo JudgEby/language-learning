@@ -1,0 +1,31 @@
+{
+  "lessonId": "7C-let-me-explain",
+  "title": "Let me explain — новые слова",
+  "items": [
+    {
+      "term": "ingredient",
+      "translation": "ингредиент",
+      "example": "Add the ingredients one by one."
+    },
+    {
+      "term": "procedure",
+      "translation": "процедура",
+      "example": "Follow the procedure carefully."
+    },
+    {
+      "term": "step-by-step",
+      "translation": "пошаговый",
+      "example": "She gave step-by-step instructions."
+    },
+    {
+      "term": "technique",
+      "translation": "техника",
+      "example": "It takes practice to master the technique."
+    },
+    {
+      "term": "demonstrate",
+      "translation": "показать, продемонстрировать",
+      "example": "Let me demonstrate how it works."
+    }
+  ]
+}

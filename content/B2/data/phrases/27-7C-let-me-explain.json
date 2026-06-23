@@ -1,0 +1,21 @@
+{
+  "lessonId": "7C-let-me-explain",
+  "title": "Let me explain — фразы",
+  "items": [
+    {
+      "phrase": "walk (sb) through (sth)",
+      "translation": "пошагово объяснить",
+      "example": "I'll walk you through the process."
+    },
+    {
+      "phrase": "figure out",
+      "translation": "разобраться",
+      "example": "It took me ages to figure out."
+    },
+    {
+      "phrase": "carry out",
+      "translation": "выполнить",
+      "example": "Carry out the steps in order."
+    }
+  ]
+}

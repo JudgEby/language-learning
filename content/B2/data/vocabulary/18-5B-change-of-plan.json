@@ -1,0 +1,31 @@
+{
+  "lessonId": "5B-change-of-plan",
+  "title": "Change of plan — новые слова",
+  "items": [
+    {
+      "term": "career path",
+      "translation": "карьерный путь",
+      "example": "His career path took an unexpected turn."
+    },
+    {
+      "term": "freelance",
+      "translation": "фриланс",
+      "example": "She went freelance after ten years in-house."
+    },
+    {
+      "term": "redundancy",
+      "translation": "сокращение (на работе)",
+      "example": "He faced redundancy last year."
+    },
+    {
+      "term": "sector",
+      "translation": "сектор",
+      "example": "The tech sector is growing fast."
+    },
+    {
+      "term": "aspiration",
+      "translation": "стремление, амбиция",
+      "example": "Young people's aspirations are changing."
+    }
+  ]
+}

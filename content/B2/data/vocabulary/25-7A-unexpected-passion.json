@@ -1,0 +1,31 @@
+{
+  "lessonId": "7A-unexpected-passion",
+  "title": "An unexpected passion — новые слова",
+  "items": [
+    {
+      "term": "passion",
+      "translation": "страсть, увлечение",
+      "example": "She discovered a passion for pottery."
+    },
+    {
+      "term": "coincidence",
+      "translation": "совпадение",
+      "example": "It was pure coincidence."
+    },
+    {
+      "term": "turning point",
+      "translation": "переломный момент",
+      "example": "That workshop was a turning point."
+    },
+    {
+      "term": "inspiration",
+      "translation": "вдохновение",
+      "example": "Nature is her main inspiration."
+    },
+    {
+      "term": "hobby",
+      "translation": "хобби",
+      "example": "His hobby became a career."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "lessonId": "8B-if-the-world",
+  "title": "If the world... — новые слова",
+  "items": [
+    {
+      "term": "poverty",
+      "translation": "бедность",
+      "example": "Millions still live in poverty."
+    },
+    {
+      "term": "inequality",
+      "translation": "неравенство",
+      "example": "Income inequality is growing."
+    },
+    {
+      "term": "humanitarian",
+      "translation": "гуманитарный",
+      "example": "They provide humanitarian aid."
+    },
+    {
+      "term": "sustainability",
+      "translation": "устойчивое развитие",
+      "example": "Sustainability must be a priority."
+    },
+    {
+      "term": "global issue",
+      "translation": "глобальная проблема",
+      "example": "Climate change is a global issue."
+    }
+  ]
+}

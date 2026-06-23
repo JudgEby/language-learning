@@ -1,0 +1,13 @@
+{
+  "id": "5D-team-player",
+  "order": 20,
+  "unit": "Unit 5 — Work",
+  "title": "Are you a team player?",
+  "contentMd": "## Non-defining relative clauses — комментарии\n\n### Простая суть\n\nNon-defining clauses — как ремарка в скобках: дополнительный комментарий, не определение. Всегда с запятыми. **That** здесь нельзя.\n\n### Как это работает\n\n- **, which … ,** — о вещах и ситуациях\n- **, who … ,** — о людях\n- **, where … ,** — о местах\n- **, whose … ,** — чьё\n\n### Живые примеры\n\n- Our team, **which won the award** last year, is expanding. — Наша команда, которая выиграла награду в прошлом году, расширяется.\n- Sarah, **who leads the project**, is on holiday this week. — Сара, которая ведёт проект, на этой неделе в отпуске.\n- The meeting was cancelled, **which was a relief**. — Встречу отменили — что было облегчением.\n- James, **whose presentation was excellent**, got promoted. — Джеймс, чья презентация была отличной, получил повышение.\n\n### Лайфхак для запоминания\n\nЗапятые + **who/which/where/whose**. Никакого **that** и нельзя выбросить местоимение. Это комментарий, не определение.",
+  "examples": [
+    "Our team, **which won the award** last year, is expanding.",
+    "Sarah, **who leads the project**, is on holiday this week.",
+    "The meeting was cancelled, **which was a relief**.",
+    "James, **whose presentation was excellent**, got promoted."
+  ]
+}

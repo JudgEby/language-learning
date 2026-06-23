@@ -1,0 +1,21 @@
+{
+  "lessonId": "1C-much-rather",
+  "title": "I'd much rather... — фразы",
+  "items": [
+    {
+      "phrase": "to be honest",
+      "translation": "если честно",
+      "example": "To be honest, I'd rather stay in."
+    },
+    {
+      "phrase": "if I had the choice",
+      "translation": "если бы у меня был выбор",
+      "example": "If I had the choice, I'd live by the sea."
+    },
+    {
+      "phrase": "given the choice",
+      "translation": "имея выбор",
+      "example": "Given the choice, I'd take the train."
+    }
+  ]
+}

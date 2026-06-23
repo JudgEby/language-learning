@@ -1,0 +1,21 @@
+{
+  "lessonId": "4D-ancient-traditions",
+  "title": "Ancient traditions — фразы",
+  "items": [
+    {
+      "phrase": "pass down",
+      "translation": "передавать из поколения в поколение",
+      "example": "Recipes are passed down through families."
+    },
+    {
+      "phrase": "die out",
+      "translation": "вымереть, исчезнуть",
+      "example": "Many languages are dying out."
+    },
+    {
+      "phrase": "stand the test of time",
+      "translation": "выдержать испытание временем",
+      "example": "This building has stood the test of time."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lessonId": "6A-pay-attention",
+  "title": "Pay attention! — фразы",
+  "items": [
+    {
+      "phrase": "pay attention",
+      "translation": "обращать внимание",
+      "example": "Pay attention to the details."
+    },
+    {
+      "phrase": "zone out",
+      "translation": "отключиться, задуматься",
+      "example": "I zoned out during the lecture."
+    },
+    {
+      "phrase": "stay focused",
+      "translation": "оставаться сосредоточенным",
+      "example": "It's hard to stay focused all day."
+    }
+  ]
+}

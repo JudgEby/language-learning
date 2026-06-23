@@ -1,0 +1,31 @@
+{
+  "lessonId": "4C-keep-moving",
+  "title": "Keep moving — новые слова",
+  "items": [
+    {
+      "term": "cardio",
+      "translation": "кардионагрузка",
+      "example": "Cardio strengthens your heart."
+    },
+    {
+      "term": "stamina",
+      "translation": "выносливость",
+      "example": "Running builds stamina."
+    },
+    {
+      "term": "sedentary",
+      "translation": "сидячий (образ жизни)",
+      "example": "A sedentary lifestyle is unhealthy."
+    },
+    {
+      "term": "workout",
+      "translation": "тренировка",
+      "example": "I do a workout three times a week."
+    },
+    {
+      "term": "endorphins",
+      "translation": "эндорфины",
+      "example": "Exercise releases endorphins."
+    }
+  ]
+}

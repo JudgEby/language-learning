@@ -1,0 +1,7 @@
+{
+  "questionsPerDay": 20,
+  "days": [
+    ["lesson-id-1", "lesson-id-2", "lesson-id-3"],
+    ["lesson-id-4", "lesson-id-5"]
+  ]
+}

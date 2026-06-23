@@ -1,0 +1,31 @@
+{
+  "lessonId": "8C-online-communities",
+  "title": "Online communities — новые слова",
+  "items": [
+    {
+      "term": "forum",
+      "translation": "форум",
+      "example": "She's active on several forums."
+    },
+    {
+      "term": "moderator",
+      "translation": "модератор",
+      "example": "Moderators enforce the rules."
+    },
+    {
+      "term": "troll",
+      "translation": "тролль",
+      "example": "Don't feed the trolls."
+    },
+    {
+      "term": "engagement",
+      "translation": "вовлечённость",
+      "example": "Community engagement is high."
+    },
+    {
+      "term": "anonymous",
+      "translation": "анонимный",
+      "example": "Users can post anonymously."
+    }
+  ]
+}

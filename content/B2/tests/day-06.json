@@ -1,0 +1,752 @@
+[
+  {
+    "id": "03633a279566",
+    "question": "I wish I ___ better French.",
+    "options": [
+      "speak",
+      "spoke",
+      "have spoken",
+      "will speak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wish about present → past simple (unreal present).",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "6d218a1b6e51",
+    "question": "I wish I ___ harder at school.",
+    "options": [
+      "studied",
+      "had studied",
+      "study",
+      "would study"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regret about past → wish + past perfect.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "ff5076f5d076",
+    "question": "If only we ___ earlier!",
+    "options": [
+      "knew",
+      "had known",
+      "know",
+      "would know"
+    ],
+    "correctIndex": 1,
+    "explanation": "'If only' + past perfect for past regret.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "9559bd1af9c0",
+    "question": "I ___ have taken that opportunity.",
+    "options": [
+      "should",
+      "shouldn't",
+      "must",
+      "can't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should have' + pp — regret about past.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "03534ff6de1d",
+    "question": "You ___ have said that to her.",
+    "options": [
+      "shouldn't",
+      "should",
+      "must",
+      "can't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't have' — criticism of past action.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "468fd0a6315b",
+    "question": "I ___ have been a musician.",
+    "options": [
+      "could",
+      "can",
+      "must",
+      "will"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Could have' — missed opportunity.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "09eae66af346",
+    "question": "If only I ___ said yes!",
+    "options": [
+      "have",
+      "had",
+      "did",
+      "would"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past regret: 'If only I had…'.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "887e61ceeb6a",
+    "question": "Choose the correct collocation: Seize the moment — don't wait.",
+    "options": [
+      "seize the moment",
+      "sustainability",
+      "delighted",
+      "delegate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'seize the moment' (ловить момент). Full sentence: Seize the moment — don't wait.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "4489239e16f8",
+    "question": "___, preheat the oven to 180°C.",
+    "options": [
+      "First",
+      "Finally",
+      "Eventually",
+      "In the end"
+    ],
+    "correctIndex": 0,
+    "explanation": "'First' — sequence marker for step 1.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "d06a28d3565c",
+    "question": "___, mix the dry ingredients.",
+    "options": [
+      "Then",
+      "Initially",
+      "To start with",
+      "First"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Then/Next' for following steps.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "57231bc39cfe",
+    "question": "What you need to do is ___ the green button.",
+    "options": [
+      "press",
+      "pressing",
+      "to press",
+      "pressed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What you need to do is' + bare infinitive.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "efec38c5bfc3",
+    "question": "Don't forget ___ the pan.",
+    "options": [
+      "oil",
+      "to oil",
+      "oiling",
+      "oiled"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't forget to' + infinitive.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "4131e94be1a5",
+    "question": "___, add the eggs and stir.",
+    "options": [
+      "After that",
+      "To start with",
+      "Initially",
+      "First"
+    ],
+    "correctIndex": 0,
+    "explanation": "'After that' — next step in sequence.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "cb9d66857c0a",
+    "question": "I'll walk you ___ the process.",
+    "options": [
+      "through",
+      "over",
+      "across",
+      "into"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Walk sb through' = explain step by step.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "e549c077f536",
+    "question": "In other ___, mix slowly.",
+    "options": [
+      "words",
+      "word",
+      "way",
+      "ways"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In other words' — clarification.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "78b696a3e079",
+    "question": "___ she's talented, she works incredibly hard.",
+    "options": [
+      "Although",
+      "Despite",
+      "In spite of",
+      "However"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Although' + clause for concession.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "785529b07dcc",
+    "question": "___ the challenges, they succeeded.",
+    "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Even though"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Despite/In spite of' + noun (not clause).",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "ae228bf77cd6",
+    "question": "___ not having formal training, she performed well.",
+    "options": [
+      "Despite",
+      "Although",
+      "However",
+      "Even though"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Despite' + -ing.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "45619922176b",
+    "question": "She's young. ___, she's very experienced.",
+    "options": [
+      "However",
+      "Although",
+      "Despite",
+      "In spite of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'However' links contrasting sentences.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "c921d0f56eb0",
+    "question": "It was raining. ___, we went out.",
+    "options": [
+      "Even so",
+      "Although",
+      "Despite",
+      "In spite of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Even so' = nevertheless.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "2c93d6aa0ea9",
+    "question": "___ I admire talent, hard work matters more.",
+    "options": [
+      "While",
+      "Despite",
+      "In spite of",
+      "However"
+    ],
+    "correctIndex": 0,
+    "explanation": "'While' can introduce concession.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "ea4e1512b5f8",
+    "question": "___ his age, he runs marathons.",
+    "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "While"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Despite his age' — noun phrase after despite.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "5813023cbe79",
+    "question": "___ in a co-living space, you meet many people.",
+    "options": [
+      "Live",
+      "Living",
+      "Lived",
+      "To live"
+    ],
+    "correctIndex": 1,
+    "explanation": "Present participle clause (-ing) for reason/circumstance.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "d6d05393e445",
+    "question": "___ in the city centre, the building is popular.",
+    "options": [
+      "Locating",
+      "Located",
+      "Location",
+      "Locate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past participle (-ed) for passive meaning.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "1f9499aad75f",
+    "question": "___ finished work, she joined the communal dinner.",
+    "options": [
+      "Having",
+      "Have",
+      "Had",
+      "Has"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Having + pp' — one action before another.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "edbaf0e34c41",
+    "question": "___ been told the rules, they moved in.",
+    "options": [
+      "Having",
+      "Being",
+      "Have",
+      "Had"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Having been + pp' — passive, earlier action.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "0dbf7f302b73",
+    "question": "___ anyone, he felt nervous at first.",
+    "options": [
+      "Not knowing",
+      "Not known",
+      "Not know",
+      "Didn't know"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negative participle clause: 'Not knowing…'.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "f62bbb6abc8f",
+    "question": "___ in the 1920s, the house has been converted.",
+    "options": [
+      "Built",
+      "Building",
+      "Build",
+      "To build"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past participle for passive: 'Built in…'.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "e98f600587ca",
+    "question": "___ a shared space, noise can be an issue.",
+    "options": [
+      "Being",
+      "Been",
+      "Be",
+      "Was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Being' + complement in participle clause.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "8b677f0107b3",
+    "question": "___ we act now, climate change will worsen.",
+    "options": [
+      "Unless",
+      "If",
+      "Provided",
+      "As long as"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Unless' = if not.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "89fddc394150",
+    "question": "Take an umbrella ___ it rains.",
+    "options": [
+      "if",
+      "in case",
+      "unless",
+      "even if"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In case' = as a precaution (not 'if').",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "cb3834fc4cd0",
+    "question": "___ everyone cooperates, we can succeed.",
+    "options": [
+      "Provided that",
+      "Unless",
+      "In case",
+      "Even if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Provided that' = on condition that.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "3cab2abf741a",
+    "question": "___ we reduce emissions, some damage will remain.",
+    "options": [
+      "Even if",
+      "Unless",
+      "In case",
+      "Provided"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Even if' = despite the condition.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "476f1e6dc48b",
+    "question": "The project continues ___ there's funding.",
+    "options": [
+      "as long as",
+      "unless",
+      "in case",
+      "even if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As long as' = provided that.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "a7fd8ddfa43c",
+    "question": "___ or not they agree, we'll proceed.",
+    "options": [
+      "Whether",
+      "If",
+      "Unless",
+      "Even"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Whether or not' — both possibilities.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "1fa48c043a40",
+    "question": "___ everyone had clean water, what would change?",
+    "options": [
+      "Suppose",
+      "Unless",
+      "In case",
+      "Even if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Suppose/Supposing' for hypothetical questions.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "a13076dbf612",
+    "question": "Which best introduces a thesis in a discussion?",
+    "options": [
+      "I believe online communities are beneficial.",
+      "I don't know.",
+      "Whatever.",
+      "Who cares?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clear thesis: belief + topic.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "fb71e3ea8807",
+    "question": "Which adds evidence to an argument?",
+    "options": [
+      "For example, study groups help students.",
+      "I like pizza.",
+      "Yesterday was Monday.",
+      "The sky is blue."
+    ],
+    "correctIndex": 0,
+    "explanation": "'For example' introduces supporting evidence.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "64f3ccb7d6c6",
+    "question": "Which acknowledges the other side?",
+    "options": [
+      "Admittedly, there are risks, but the benefits outweigh them.",
+      "You're stupid.",
+      "I win.",
+      "No comment."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Admittedly' concedes a counterpoint.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "d994d29afd67",
+    "question": "Which is a strong conclusion?",
+    "options": [
+      "In conclusion, online communities foster connection when used responsibly.",
+      "So yeah.",
+      "Maybe.",
+      "I forgot."
+    ],
+    "correctIndex": 0,
+    "explanation": "'In conclusion' + restated thesis.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "a7a5a7f97a8d",
+    "question": "Building on what Maria said, ___",
+    "options": [
+      "I'd add that moderation is key.",
+      "I hate Maria.",
+      "Maria is wrong.",
+      "Let's change topic."
+    ],
+    "correctIndex": 0,
+    "explanation": "Referencing others' points builds argument.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "d2698fa0bd13",
+    "question": "Which linker shows contrast in argument?",
+    "options": [
+      "However, anonymity can cause problems.",
+      "Therefore, I agree completely.",
+      "Similarly, I agree.",
+      "Also, same point."
+    ],
+    "correctIndex": 0,
+    "explanation": "'However' introduces a contrasting point.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "d7df6d9844c8",
+    "question": "To strengthen your argument, you should ___.",
+    "options": [
+      "provide reasons and examples",
+      "shout louder",
+      "ignore counterarguments",
+      "use only fillers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reasons and examples support a thesis.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
+  },
+  {
+    "id": "1b8c7e1b4489",
+    "question": "Things are ___ better.",
+    "options": [
+      "get",
+      "getting",
+      "got",
+      "gotten"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Get + adjective' describes a change of state.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "8500d9449786",
+    "question": "They ___ married last year.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Get married' — common get collocation.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "23d2426a00ac",
+    "question": "I need to ___ dressed before we leave.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get dressed' has a passive-like meaning.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "58cebeba531f",
+    "question": "She ___ a second shot at the competition.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Get a second shot' — get + noun phrase.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "f2dfd3a857ae",
+    "question": "I'll ___ in touch soon.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get in touch' is a fixed collocation.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "4d62cabde748",
+    "question": "He finally ___ over the disappointment.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Get over' = recover from something.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  },
+  {
+    "id": "163d837d99a2",
+    "question": "We need to ___ rid of this old furniture.",
+    "options": [
+      "get",
+      "got",
+      "getting",
+      "gets"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get rid of' — common phrasal verb with get.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
+  }
+]

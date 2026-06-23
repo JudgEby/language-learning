@@ -1,0 +1,9 @@
+[
+  {
+    "question": "Which sentence is correct?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "correctIndex": 1,
+    "explanation": "Why the answer is correct.",
+    "relatedRuleIds": ["lesson-id-1"]
+  }
+]

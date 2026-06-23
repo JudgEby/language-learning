@@ -1,0 +1,31 @@
+{
+  "lessonId": "8A-new-way-of-living",
+  "title": "A new way of living — новые слова",
+  "items": [
+    {
+      "term": "co-living",
+      "translation": "совместное проживание",
+      "example": "Co-living is popular among young professionals."
+    },
+    {
+      "term": "communal",
+      "translation": "общий",
+      "example": "There's a communal kitchen and lounge."
+    },
+    {
+      "term": "affordable housing",
+      "translation": "доступное жильё",
+      "example": "Cities need more affordable housing."
+    },
+    {
+      "term": "tenant",
+      "translation": "арендатор",
+      "example": "Tenants share cleaning duties."
+    },
+    {
+      "term": "amenities",
+      "translation": "удобства",
+      "example": "The building has great amenities."
+    }
+  ]
+}

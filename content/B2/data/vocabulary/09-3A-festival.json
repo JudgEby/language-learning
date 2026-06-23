@@ -1,0 +1,31 @@
+{
+  "lessonId": "3A-festival",
+  "title": "Festival — новые слова",
+  "items": [
+    {
+      "term": "headline",
+      "translation": "быть хедлайнером",
+      "example": "A famous DJ will headline the festival."
+    },
+    {
+      "term": "venue",
+      "translation": "площадка, место проведения",
+      "example": "The venue holds 10,000 people."
+    },
+    {
+      "term": "line-up",
+      "translation": "состав (участников)",
+      "example": "The line-up includes three international acts."
+    },
+    {
+      "term": "eco-friendly",
+      "translation": "экологичный",
+      "example": "They organised an eco-friendly festival."
+    },
+    {
+      "term": "carbon-neutral",
+      "translation": "углеродно-нейтральный",
+      "example": "The event aims to be carbon-neutral."
+    }
+  ]
+}

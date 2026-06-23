@@ -1,0 +1,13 @@
+{
+  "id": "6C-my-advice",
+  "order": 23,
+  "unit": "Unit 6 — Psychology",
+  "title": "Here's my advice",
+  "contentMd": "## Как просить и давать совет тактично\n\n### Простая суть\n\nСовет — как приправа: мало — скучно, много — обидно. **If I were you** мягче, чем **You should**. Вопрос вместо приказа звучит как забота.\n\n### Как это работает\n\n- Просьба: **I was wondering if you could… / What would you do?**\n- Мягкий совет: **If I were you… / It might be worth…-ing**\n- Избегай: **You must** → лучше **It could be a good idea to…**\n\n### Живые примеры\n\n- **If I were you**, I'd talk to HR before resigning. — На твоём месте я бы поговорил с HR до увольнения.\n- **It might be worth taking** a few days off to clear your head. — Возможно, стоит взять пару дней отдыха, чтобы проветрить голову.\n- **Have you considered** speaking to a mentor about this? — Ты думал поговорить с наставником об этом?\n- **What would you do** in my situation? — Что бы ты сделал на моём месте?\n\n### Лайфхак для запоминания\n\nДавить → **If I were you / might be worth**. Критиковать → **I see it a bit differently**. В чате: **Building on what Maria said…**",
+  "examples": [
+    "**If I were you**, I'd talk to HR before resigning.",
+    "**It might be worth taking** a few days off to clear your head.",
+    "**Have you considered** speaking to a mentor about this?",
+    "**What would you do** in my situation?"
+  ]
+}

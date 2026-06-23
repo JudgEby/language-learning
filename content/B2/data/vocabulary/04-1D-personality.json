@@ -1,0 +1,31 @@
+{
+  "lessonId": "1D-personality",
+  "title": "Personality — новые слова",
+  "items": [
+    {
+      "term": "conscientious",
+      "translation": "добросовестный",
+      "example": "She's a conscientious worker."
+    },
+    {
+      "term": "impulsive",
+      "translation": "импульсивный",
+      "example": "Don't make impulsive decisions."
+    },
+    {
+      "term": "reserved",
+      "translation": "сдержанный",
+      "example": "He's quite reserved around strangers."
+    },
+    {
+      "term": "spontaneous",
+      "translation": "спонтанный",
+      "example": "We made a spontaneous trip to the coast."
+    },
+    {
+      "term": "assertive",
+      "translation": "уверенный в себе",
+      "example": "You need to be more assertive at work."
+    }
+  ]
+}

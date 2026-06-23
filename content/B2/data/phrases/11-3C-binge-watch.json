@@ -1,0 +1,21 @@
+{
+  "lessonId": "3C-binge-watch",
+  "title": "Binge-watch — фразы",
+  "items": [
+    {
+      "phrase": "get hooked on",
+      "translation": "подсесть на",
+      "example": "I got hooked on the series after one episode."
+    },
+    {
+      "phrase": "spoil (sth) for (sb)",
+      "translation": "испортить (рассказав сюжет)",
+      "example": "Don't spoil it for me!"
+    },
+    {
+      "phrase": "catch up on",
+      "translation": "наверстать (просмотр)",
+      "example": "I need to catch up on the latest season."
+    }
+  ]
+}

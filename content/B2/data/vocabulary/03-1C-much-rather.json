@@ -1,0 +1,36 @@
+{
+  "lessonId": "1C-much-rather",
+  "title": "I'd much rather... — новые слова",
+  "items": [
+    {
+      "term": "delighted",
+      "translation": "в восторге",
+      "example": "She was delighted with the news."
+    },
+    {
+      "term": "frustrated",
+      "translation": "разочарованный, раздражённый",
+      "example": "He felt frustrated by the delay."
+    },
+    {
+      "term": "anxious",
+      "translation": "тревожный, беспокойный",
+      "example": "I'm anxious about the exam results."
+    },
+    {
+      "term": "thrilled",
+      "translation": "в восторге, взволнованный",
+      "example": "We were thrilled to hear you'd won."
+    },
+    {
+      "term": "disappointed",
+      "translation": "разочарованный",
+      "example": "They were disappointed with the service."
+    },
+    {
+      "term": "relieved",
+      "translation": "с облегчением",
+      "example": "I was relieved when the test was over."
+    }
+  ]
+}

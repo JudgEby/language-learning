@@ -1,0 +1,16 @@
+{
+  "lessonId": "5A-first-day",
+  "title": "First day! — идиомы",
+  "items": [
+    {
+      "idiom": "learn the ropes",
+      "translation": "освоить азы",
+      "example": "My mentor helped me learn the ropes."
+    },
+    {
+      "idiom": "a steep learning curve",
+      "translation": "крутая кривая обучения",
+      "example": "The first week was a steep learning curve."
+    }
+  ]
+}

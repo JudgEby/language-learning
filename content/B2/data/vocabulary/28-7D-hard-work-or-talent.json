@@ -1,0 +1,31 @@
+{
+  "lessonId": "7D-hard-work-or-talent",
+  "title": "Hard work or talent? — новые слова",
+  "items": [
+    {
+      "term": "talent",
+      "translation": "талант",
+      "example": "She has a natural talent for music."
+    },
+    {
+      "term": "dedication",
+      "translation": "преданность делу",
+      "example": "Success requires dedication."
+    },
+    {
+      "term": "perseverance",
+      "translation": "настойчивость",
+      "example": "Perseverance beats talent sometimes."
+    },
+    {
+      "term": "gifted",
+      "translation": "одарённый",
+      "example": "He's a gifted pianist."
+    },
+    {
+      "term": "work ethic",
+      "translation": "трудовая этика",
+      "example": "Her work ethic is impressive."
+    }
+  ]
+}

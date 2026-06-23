@@ -1,0 +1,21 @@
+{
+  "lessonId": "4B-sleep",
+  "title": "Sleep — фразы",
+  "items": [
+    {
+      "phrase": "get a good night's sleep",
+      "translation": "хорошо выспаться",
+      "example": "Try to get a good night's sleep."
+    },
+    {
+      "phrase": "drift off",
+      "translation": "заснуть",
+      "example": "I usually drift off within minutes."
+    },
+    {
+      "phrase": "sleep in",
+      "translation": "выспаться (долго)",
+      "example": "I love sleeping in on Sundays."
+    }
+  ]
+}

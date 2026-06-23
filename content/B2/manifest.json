@@ -6,14 +6,525 @@
     "wb": "extract/WB.txt"
   },
   "studyOrder": [
-    { "type": "rule", "id": "1A-my-id" },
-    { "type": "vocabulary", "id": "1A-my-id" },
-    { "type": "phrases", "id": "1A-my-id" },
-    { "type": "idioms", "id": "1A-my-id" },
-    { "type": "rule", "id": "1B-memory" },
-    { "type": "vocabulary", "id": "1B-memory" },
-    { "type": "phrases", "id": "1B-memory" },
-    { "type": "idioms", "id": "1B-memory" }
+    {
+      "type": "rule",
+      "id": "1A-my-id"
+    },
+    {
+      "type": "vocabulary",
+      "id": "1A-my-id"
+    },
+    {
+      "type": "phrases",
+      "id": "1A-my-id"
+    },
+    {
+      "type": "idioms",
+      "id": "1A-my-id"
+    },
+    {
+      "type": "rule",
+      "id": "1B-memory"
+    },
+    {
+      "type": "vocabulary",
+      "id": "1B-memory"
+    },
+    {
+      "type": "phrases",
+      "id": "1B-memory"
+    },
+    {
+      "type": "idioms",
+      "id": "1B-memory"
+    },
+    {
+      "type": "rule",
+      "id": "1C-much-rather"
+    },
+    {
+      "type": "vocabulary",
+      "id": "1C-much-rather"
+    },
+    {
+      "type": "phrases",
+      "id": "1C-much-rather"
+    },
+    {
+      "type": "idioms",
+      "id": "1C-much-rather"
+    },
+    {
+      "type": "rule",
+      "id": "1D-personality"
+    },
+    {
+      "type": "vocabulary",
+      "id": "1D-personality"
+    },
+    {
+      "type": "phrases",
+      "id": "1D-personality"
+    },
+    {
+      "type": "idioms",
+      "id": "1D-personality"
+    },
+    {
+      "type": "rule",
+      "id": "2A-real-or-virtual"
+    },
+    {
+      "type": "vocabulary",
+      "id": "2A-real-or-virtual"
+    },
+    {
+      "type": "phrases",
+      "id": "2A-real-or-virtual"
+    },
+    {
+      "type": "idioms",
+      "id": "2A-real-or-virtual"
+    },
+    {
+      "type": "rule",
+      "id": "2B-closer-to-nature"
+    },
+    {
+      "type": "vocabulary",
+      "id": "2B-closer-to-nature"
+    },
+    {
+      "type": "phrases",
+      "id": "2B-closer-to-nature"
+    },
+    {
+      "type": "idioms",
+      "id": "2B-closer-to-nature"
+    },
+    {
+      "type": "rule",
+      "id": "2C-amazing-lives"
+    },
+    {
+      "type": "vocabulary",
+      "id": "2C-amazing-lives"
+    },
+    {
+      "type": "phrases",
+      "id": "2C-amazing-lives"
+    },
+    {
+      "type": "idioms",
+      "id": "2C-amazing-lives"
+    },
+    {
+      "type": "rule",
+      "id": "2D-time-traveller"
+    },
+    {
+      "type": "vocabulary",
+      "id": "2D-time-traveller"
+    },
+    {
+      "type": "phrases",
+      "id": "2D-time-traveller"
+    },
+    {
+      "type": "idioms",
+      "id": "2D-time-traveller"
+    },
+    {
+      "type": "rule",
+      "id": "3A-festival"
+    },
+    {
+      "type": "vocabulary",
+      "id": "3A-festival"
+    },
+    {
+      "type": "phrases",
+      "id": "3A-festival"
+    },
+    {
+      "type": "idioms",
+      "id": "3A-festival"
+    },
+    {
+      "type": "rule",
+      "id": "3B-performers"
+    },
+    {
+      "type": "vocabulary",
+      "id": "3B-performers"
+    },
+    {
+      "type": "phrases",
+      "id": "3B-performers"
+    },
+    {
+      "type": "idioms",
+      "id": "3B-performers"
+    },
+    {
+      "type": "rule",
+      "id": "3C-binge-watch"
+    },
+    {
+      "type": "vocabulary",
+      "id": "3C-binge-watch"
+    },
+    {
+      "type": "phrases",
+      "id": "3C-binge-watch"
+    },
+    {
+      "type": "idioms",
+      "id": "3C-binge-watch"
+    },
+    {
+      "type": "rule",
+      "id": "3D-music-lover"
+    },
+    {
+      "type": "vocabulary",
+      "id": "3D-music-lover"
+    },
+    {
+      "type": "phrases",
+      "id": "3D-music-lover"
+    },
+    {
+      "type": "idioms",
+      "id": "3D-music-lover"
+    },
+    {
+      "type": "rule",
+      "id": "4A-making-changes"
+    },
+    {
+      "type": "vocabulary",
+      "id": "4A-making-changes"
+    },
+    {
+      "type": "phrases",
+      "id": "4A-making-changes"
+    },
+    {
+      "type": "idioms",
+      "id": "4A-making-changes"
+    },
+    {
+      "type": "rule",
+      "id": "4B-sleep"
+    },
+    {
+      "type": "vocabulary",
+      "id": "4B-sleep"
+    },
+    {
+      "type": "phrases",
+      "id": "4B-sleep"
+    },
+    {
+      "type": "idioms",
+      "id": "4B-sleep"
+    },
+    {
+      "type": "rule",
+      "id": "4C-keep-moving"
+    },
+    {
+      "type": "vocabulary",
+      "id": "4C-keep-moving"
+    },
+    {
+      "type": "phrases",
+      "id": "4C-keep-moving"
+    },
+    {
+      "type": "idioms",
+      "id": "4C-keep-moving"
+    },
+    {
+      "type": "rule",
+      "id": "4D-ancient-traditions"
+    },
+    {
+      "type": "vocabulary",
+      "id": "4D-ancient-traditions"
+    },
+    {
+      "type": "phrases",
+      "id": "4D-ancient-traditions"
+    },
+    {
+      "type": "idioms",
+      "id": "4D-ancient-traditions"
+    },
+    {
+      "type": "rule",
+      "id": "5A-first-day"
+    },
+    {
+      "type": "vocabulary",
+      "id": "5A-first-day"
+    },
+    {
+      "type": "phrases",
+      "id": "5A-first-day"
+    },
+    {
+      "type": "idioms",
+      "id": "5A-first-day"
+    },
+    {
+      "type": "rule",
+      "id": "5B-change-of-plan"
+    },
+    {
+      "type": "vocabulary",
+      "id": "5B-change-of-plan"
+    },
+    {
+      "type": "phrases",
+      "id": "5B-change-of-plan"
+    },
+    {
+      "type": "idioms",
+      "id": "5B-change-of-plan"
+    },
+    {
+      "type": "rule",
+      "id": "5C-on-mute"
+    },
+    {
+      "type": "vocabulary",
+      "id": "5C-on-mute"
+    },
+    {
+      "type": "phrases",
+      "id": "5C-on-mute"
+    },
+    {
+      "type": "idioms",
+      "id": "5C-on-mute"
+    },
+    {
+      "type": "rule",
+      "id": "5D-team-player"
+    },
+    {
+      "type": "vocabulary",
+      "id": "5D-team-player"
+    },
+    {
+      "type": "phrases",
+      "id": "5D-team-player"
+    },
+    {
+      "type": "idioms",
+      "id": "5D-team-player"
+    },
+    {
+      "type": "rule",
+      "id": "6A-pay-attention"
+    },
+    {
+      "type": "vocabulary",
+      "id": "6A-pay-attention"
+    },
+    {
+      "type": "phrases",
+      "id": "6A-pay-attention"
+    },
+    {
+      "type": "idioms",
+      "id": "6A-pay-attention"
+    },
+    {
+      "type": "rule",
+      "id": "6B-quiet"
+    },
+    {
+      "type": "vocabulary",
+      "id": "6B-quiet"
+    },
+    {
+      "type": "phrases",
+      "id": "6B-quiet"
+    },
+    {
+      "type": "idioms",
+      "id": "6B-quiet"
+    },
+    {
+      "type": "rule",
+      "id": "6C-my-advice"
+    },
+    {
+      "type": "vocabulary",
+      "id": "6C-my-advice"
+    },
+    {
+      "type": "phrases",
+      "id": "6C-my-advice"
+    },
+    {
+      "type": "idioms",
+      "id": "6C-my-advice"
+    },
+    {
+      "type": "rule",
+      "id": "6D-lie-to-you"
+    },
+    {
+      "type": "vocabulary",
+      "id": "6D-lie-to-you"
+    },
+    {
+      "type": "phrases",
+      "id": "6D-lie-to-you"
+    },
+    {
+      "type": "idioms",
+      "id": "6D-lie-to-you"
+    },
+    {
+      "type": "rule",
+      "id": "7A-unexpected-passion"
+    },
+    {
+      "type": "vocabulary",
+      "id": "7A-unexpected-passion"
+    },
+    {
+      "type": "phrases",
+      "id": "7A-unexpected-passion"
+    },
+    {
+      "type": "idioms",
+      "id": "7A-unexpected-passion"
+    },
+    {
+      "type": "rule",
+      "id": "7B-i-wish"
+    },
+    {
+      "type": "vocabulary",
+      "id": "7B-i-wish"
+    },
+    {
+      "type": "phrases",
+      "id": "7B-i-wish"
+    },
+    {
+      "type": "idioms",
+      "id": "7B-i-wish"
+    },
+    {
+      "type": "rule",
+      "id": "7C-let-me-explain"
+    },
+    {
+      "type": "vocabulary",
+      "id": "7C-let-me-explain"
+    },
+    {
+      "type": "phrases",
+      "id": "7C-let-me-explain"
+    },
+    {
+      "type": "idioms",
+      "id": "7C-let-me-explain"
+    },
+    {
+      "type": "rule",
+      "id": "7D-hard-work-or-talent"
+    },
+    {
+      "type": "vocabulary",
+      "id": "7D-hard-work-or-talent"
+    },
+    {
+      "type": "phrases",
+      "id": "7D-hard-work-or-talent"
+    },
+    {
+      "type": "idioms",
+      "id": "7D-hard-work-or-talent"
+    },
+    {
+      "type": "rule",
+      "id": "8A-new-way-of-living"
+    },
+    {
+      "type": "vocabulary",
+      "id": "8A-new-way-of-living"
+    },
+    {
+      "type": "phrases",
+      "id": "8A-new-way-of-living"
+    },
+    {
+      "type": "idioms",
+      "id": "8A-new-way-of-living"
+    },
+    {
+      "type": "rule",
+      "id": "8B-if-the-world"
+    },
+    {
+      "type": "vocabulary",
+      "id": "8B-if-the-world"
+    },
+    {
+      "type": "phrases",
+      "id": "8B-if-the-world"
+    },
+    {
+      "type": "idioms",
+      "id": "8B-if-the-world"
+    },
+    {
+      "type": "rule",
+      "id": "8C-online-communities"
+    },
+    {
+      "type": "vocabulary",
+      "id": "8C-online-communities"
+    },
+    {
+      "type": "phrases",
+      "id": "8C-online-communities"
+    },
+    {
+      "type": "idioms",
+      "id": "8C-online-communities"
+    },
+    {
+      "type": "rule",
+      "id": "8D-second-shot"
+    },
+    {
+      "type": "vocabulary",
+      "id": "8D-second-shot"
+    },
+    {
+      "type": "phrases",
+      "id": "8D-second-shot"
+    },
+    {
+      "type": "idioms",
+      "id": "8D-second-shot"
+    }
   ],
-  "testDays": ["day-01"]
+  "testDays": [
+    "day-01",
+    "day-02",
+    "day-03",
+    "day-04",
+    "day-05",
+    "day-06"
+  ]
 }

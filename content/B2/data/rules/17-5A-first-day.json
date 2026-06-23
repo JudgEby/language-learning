@@ -1,0 +1,13 @@
+{
+  "id": "5A-first-day",
+  "order": 17,
+  "unit": "Unit 5 — Work",
+  "title": "First day!",
+  "contentMd": "## Past Perfect Simple и Continuous\n\n### Простая суть\n\nPast Perfect — «ещё более прошлое»: сначала одно, потом другое. Как два кадра: «к тому моменту уже…». Continuous подчёркивает длительность до того момента.\n\n### Как это работает\n\n- **had + V3** → завершённый факт до момента в прошлом\n- **had been + -ing** → процесс до момента в прошлом\n- Маркеры: **already, just, by the time, before, after**\n\n### Живые примеры\n\n- When I arrived, the meeting **had already started**. — Когда я пришёл, собрание уже началось.\n- I **had been waiting** for an hour when she finally came. — Я ждал уже час, когда она наконец пришла.\n- I'd **never met** my colleagues before that day. — До того дня я никогда не встречал коллег.\n- She **had been preparing** for weeks before the interview. — Она готовилась неделями до собеседования.\n\n### Лайфхак для запоминания\n\nДва действия в прошлом → более раннее в **had + V3**. Важна длительность «до» → **had been + -ing**.",
+  "examples": [
+    "When I arrived, the meeting **had already started**.",
+    "I **had been waiting** for an hour when she finally came.",
+    "I'd **never met** my colleagues before that day.",
+    "She **had been preparing** for weeks before the interview."
+  ]
+}

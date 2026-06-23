@@ -1,0 +1,31 @@
+{
+  "lessonId": "6A-pay-attention",
+  "title": "Pay attention! — новые слова",
+  "items": [
+    {
+      "term": "distraction",
+      "translation": "отвлечение",
+      "example": "Social media is a major distraction."
+    },
+    {
+      "term": "concentration",
+      "translation": "концентрация",
+      "example": "Noise affects my concentration."
+    },
+    {
+      "term": "multitask",
+      "translation": "делать несколько дел сразу",
+      "example": "I try not to multitask."
+    },
+    {
+      "term": "mindfulness",
+      "translation": "осознанность",
+      "example": "Mindfulness helps reduce stress."
+    },
+    {
+      "term": "procrastinate",
+      "translation": "откладывать на потом",
+      "example": "I tend to procrastinate when bored."
+    }
+  ]
+}

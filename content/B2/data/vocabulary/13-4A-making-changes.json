@@ -1,0 +1,31 @@
+{
+  "lessonId": "4A-making-changes",
+  "title": "Making changes — новые слова",
+  "items": [
+    {
+      "term": "lifestyle change",
+      "translation": "изменение образа жизни",
+      "example": "She made a major lifestyle change."
+    },
+    {
+      "term": "wellbeing",
+      "translation": "благополучие",
+      "example": "Exercise improves your wellbeing."
+    },
+    {
+      "term": "routine",
+      "translation": "рутина",
+      "example": "I'm trying to build a healthier routine."
+    },
+    {
+      "term": "habit",
+      "translation": "привычка",
+      "example": "It takes time to break a bad habit."
+    },
+    {
+      "term": "commitment",
+      "translation": "обязательство, приверженность",
+      "example": "It requires real commitment."
+    }
+  ]
+}

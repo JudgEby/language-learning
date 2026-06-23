@@ -1,0 +1,16 @@
+{
+  "lessonId": "3D-music-lover",
+  "title": "Music lover? — идиомы",
+  "items": [
+    {
+      "idiom": "face the music",
+      "translation": "принять последствия",
+      "example": "You'll have to face the music eventually."
+    },
+    {
+      "idiom": "music to my ears",
+      "translation": "музыка для моих ушей",
+      "example": "That news was music to my ears."
+    }
+  ]
+}

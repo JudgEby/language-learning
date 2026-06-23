@@ -1,0 +1,21 @@
+{
+  "lessonId": "8D-second-shot",
+  "title": "Second shot — фразы",
+  "items": [
+    {
+      "phrase": "get involved",
+      "translation": "включиться, принять участие",
+      "example": "More people should get involved."
+    },
+    {
+      "phrase": "get back on your feet",
+      "translation": "встать на ноги",
+      "example": "The charity helps people get back on their feet."
+    },
+    {
+      "phrase": "give back",
+      "translation": "отдавать обществу",
+      "example": "Successful people often want to give back."
+    }
+  ]
+}

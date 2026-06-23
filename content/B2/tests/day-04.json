@@ -1,0 +1,752 @@
+[
+  {
+    "id": "a9b0bccac515",
+    "question": "People ___ to live without electricity.",
+    "options": [
+      "use",
+      "used",
+      "would use",
+      "are using"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Used to' + infinitive for past habits/states.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "d955fbb2cdc9",
+    "question": "We ___ gather every harvest. (repeated past action)",
+    "options": [
+      "use to",
+      "used to",
+      "would",
+      "will"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Would' for repeated past actions (with time context).",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "96ba1469d278",
+    "question": "___ days, traditions are changing.",
+    "options": [
+      "These",
+      "This",
+      "Those",
+      "That"
+    ],
+    "correctIndex": 0,
+    "explanation": "'These days / nowadays' = at present.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "7dff19f2e9b7",
+    "question": "Customs changed ___ over time.",
+    "options": [
+      "little by little",
+      "in the long run",
+      "from time to time",
+      "back then"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Little by little' = gradually.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "d4a3664f2d67",
+    "question": "___ ancient times, life was very different.",
+    "options": [
+      "In",
+      "On",
+      "At",
+      "By"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In ancient times / in the past'.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "29dcb5bc5606",
+    "question": "We visit the village ___ in a while.",
+    "options": [
+      "once",
+      "one",
+      "at",
+      "for"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Once in a while' = occasionally.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "49a3e574e569",
+    "question": "It will pay off ___ the long run.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In the long run' = eventually over a long period.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "495a14c81f66",
+    "question": "Which word means 'наследие'?",
+    "options": [
+      "heritage",
+      "gifted",
+      "inequality",
+      "cliffhanger"
+    ],
+    "correctIndex": 0,
+    "explanation": "'heritage' means наследие. Example: We must protect our cultural heritage.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "5178c81caa25",
+    "question": "Which word means 'обычай'?",
+    "options": [
+      "delegate",
+      "ingredient",
+      "collaborate",
+      "custom"
+    ],
+    "correctIndex": 3,
+    "explanation": "'custom' means обычай. Example: It's a local custom to greet elders first.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "6db702eec6aa",
+    "question": "Choose the correct collocation: This building has stood the test of time.",
+    "options": [
+      "sector",
+      "binge-watch",
+      "stand the test of time",
+      "procrastinate"
+    ],
+    "correctIndex": 2,
+    "explanation": "'stand the test of time' (выдержать испытание временем). Full sentence: This building has stood the test of time.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "7f235f265ce5",
+    "question": "When I arrived, the meeting ___ already ___.",
+    "options": [
+      "has … started",
+      "had … started",
+      "was … starting",
+      "is … started"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Perfect — earlier past action before another past action.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "8dfaea9ed316",
+    "question": "I ___ for an hour when she finally came.",
+    "options": [
+      "had been waiting",
+      "have been waiting",
+      "was waiting",
+      "waited"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Perfect Continuous — duration before a past moment.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "cefc835a0047",
+    "question": "She ___ never ___ in an office before.",
+    "options": [
+      "has … worked",
+      "had … worked",
+      "was … working",
+      "did … work"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Perfect with 'before' referring to earlier past.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "a4ed08145115",
+    "question": "By the time I got there, they ___.",
+    "options": [
+      "left",
+      "have left",
+      "had left",
+      "were leaving"
+    ],
+    "correctIndex": 2,
+    "explanation": "'By the time' + past → Past Perfect.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "40824892b494",
+    "question": "He ___ all night, so he was exhausted.",
+    "options": [
+      "had been studying",
+      "has been studying",
+      "was studying",
+      "studied"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Perfect Continuous explaining a past state.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "de3415cafff7",
+    "question": "After I ___ my CV, I sent it out.",
+    "options": [
+      "had updated",
+      "have updated",
+      "updated",
+      "was updating"
+    ],
+    "correctIndex": 0,
+    "explanation": "Earlier action → Past Perfect before 'sent'.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "8b38ee682c9f",
+    "question": "They ___ just ___ when we called.",
+    "options": [
+      "have … left",
+      "had … left",
+      "were … leaving",
+      "left"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Just' + Past Perfect for very recent earlier action.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "e58bd1148c91",
+    "question": "Which word means 'вводный инструктаж'?",
+    "options": [
+      "cliffhanger",
+      "relieved",
+      "optimistic",
+      "induction"
+    ],
+    "correctIndex": 3,
+    "explanation": "'induction' means вводный инструктаж. Example: We had an induction on our first day.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "079b30cbef5b",
+    "question": "Choose the correct collocation: It took me a month to find my feet.",
+    "options": [
+      "find your feet",
+      "mentor",
+      "dilemma",
+      "endangered"
+    ],
+    "correctIndex": 0,
+    "explanation": "'find your feet' (освоиться). Full sentence: It took me a month to find my feet.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "7e5783bff25c",
+    "question": "Which word means 'коллега'?",
+    "options": [
+      "endorphins",
+      "colleague",
+      "gifted",
+      "lifestyle change"
+    ],
+    "correctIndex": 1,
+    "explanation": "'colleague' means коллега. Example: My colleagues were very welcoming.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "f02a12559c7e",
+    "question": "I ___ to study law, but I changed my mind.",
+    "options": [
+      "was going",
+      "am going",
+      "went",
+      "had gone"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Was/were going to' for past plans that changed.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "cdd37498f0f5",
+    "question": "She ___ to become a doctor.",
+    "options": [
+      "had planned",
+      "has planned",
+      "was planning",
+      "plans"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Had planned/intended to' — formal past intention.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "0c1579e33924",
+    "question": "He said he ___ call, but he never did.",
+    "options": [
+      "will",
+      "would",
+      "is going to",
+      "has"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would' for future in the past / reported speech.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "2bb278050013",
+    "question": "I knew I ___ regret it.",
+    "options": [
+      "will",
+      "would",
+      "am going to",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "Future in the past → 'would'.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "6ed4b491099c",
+    "question": "We ___ to move abroad, but the pandemic happened.",
+    "options": [
+      "are going",
+      "were going",
+      "have gone",
+      "go"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past plan: 'were going to'.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "03b5a5f9efa3",
+    "question": "I ___ I'd stay in one job forever.",
+    "options": [
+      "think",
+      "thought",
+      "have thought",
+      "am thinking"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Thought' + would for past expectation.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "74ec9da00bd8",
+    "question": "They ___ intended to launch in spring.",
+    "options": [
+      "have",
+      "had",
+      "were",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Had intended to' — past intention.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "2c1fdcad5cf0",
+    "question": "Complete the sentence: He wants to ___ quickly.",
+    "options": [
+      "multitask",
+      "communal",
+      "nomadic",
+      "climb the ladder"
+    ],
+    "correctIndex": 3,
+    "explanation": "'climb the ladder' (двигаться по карьерной лестнице). Full sentence: He wants to climb the ladder quickly.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "6c5a02a9b45b",
+    "question": "Which word means 'стремление, амбиция'?",
+    "options": [
+      "aspiration",
+      "affordable housing",
+      "procedure",
+      "empower"
+    ],
+    "correctIndex": 0,
+    "explanation": "'aspiration' means стремление, амбиция. Example: Young people's aspirations are changing.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "23ebf7fde0a3",
+    "question": "Complete the sentence: She decided to ___ at forty.",
+    "options": [
+      "ambitious",
+      "change career",
+      "stage fright",
+      "rehearsal"
+    ],
+    "correctIndex": 1,
+    "explanation": "'change career' (сменить карьеру). Full sentence: She decided to change career at forty.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "d595c4644429",
+    "question": "The problem is ___ the connection keeps dropping.",
+    "options": [
+      "what",
+      "that",
+      "which",
+      "if"
+    ],
+    "correctIndex": 1,
+    "explanation": "'The problem is that…' to describe an issue.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "a4b654b1fee1",
+    "question": "Sorry, I can't hear you — you're on ___.",
+    "options": [
+      "hold",
+      "mute",
+      "pause",
+      "break"
+    ],
+    "correctIndex": 1,
+    "explanation": "Video call vocabulary: 'on mute'.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "242e44457ec8",
+    "question": "Which is a natural way to suggest a solution on a video call?",
+    "options": [
+      "Shall we switch to a phone call?",
+      "You must switch to a phone call.",
+      "Switch to a phone call now!",
+      "I switched to a phone call yesterday."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shall we…?' politely suggests a solution.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "935b98a8493d",
+    "question": "The best thing would be ___ restart the app.",
+    "options": [
+      "to",
+      "for",
+      "that",
+      "and"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The best thing would be to…' + infinitive.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "8ed976781f8f",
+    "question": "We're having trouble ___ the software.",
+    "options": [
+      "with",
+      "for",
+      "to",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Having trouble with' + noun.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "c44116dd1c85",
+    "question": "___ don't we take a short break?",
+    "options": [
+      "Why",
+      "What",
+      "How",
+      "When"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Why don't we…?' — suggestion.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "1a56b49e4888",
+    "question": "It looks like we ___ have a problem with the bandwidth.",
+    "options": [
+      "must",
+      "might",
+      "will",
+      "should"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Might' softens the problem statement.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "c90b62b5e1d2",
+    "question": "Which word means 'видеозвонок'?",
+    "options": [
+      "melody",
+      "mentor",
+      "video call",
+      "stage fright"
+    ],
+    "correctIndex": 2,
+    "explanation": "'video call' means видеозвонок. Example: We have daily video calls with the team.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "4cafb8bdf42d",
+    "question": "Choose the correct collocation: We ran into problems with the software.",
+    "options": [
+      "teamwork",
+      "run into problems",
+      "wilderness",
+      "ancestor"
+    ],
+    "correctIndex": 1,
+    "explanation": "'run into problems' (столкнуться с проблемами). Full sentence: We ran into problems with the software.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "133dceb9eac4",
+    "question": "Complete the sentence: Everyone needs to ___ five minutes early.",
+    "options": [
+      "probation",
+      "log in",
+      "anxious",
+      "short-term memory"
+    ],
+    "correctIndex": 1,
+    "explanation": "'log in' (войти в систему). Full sentence: Everyone needs to log in five minutes early.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "4f9cd77f20f2",
+    "question": "Our team, ___ won the award last year, is expanding.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "where"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining clause for things → 'which' (not 'that').",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "c0956e0f50e4",
+    "question": "Sarah, ___ leads the project, is on holiday.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining clause for people → 'who'.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "e69b305285d0",
+    "question": "James, ___ presentation was excellent, got promoted.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "that"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Whose' for possession in non-defining clauses.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "6f69c7b8f3e5",
+    "question": "The meeting was cancelled, ___ was a relief.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "what"
+    ],
+    "correctIndex": 1,
+    "explanation": "Comment clause with 'which' referring to the whole idea.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "3226d4ad7d18",
+    "question": "Our office, ___ I've worked for five years, is closing.",
+    "options": [
+      "that",
+      "where",
+      "which",
+      "who"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Where' for places in non-defining clauses.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "7a2f63f22d0c",
+    "question": "Which sentence is correct?",
+    "options": [
+      "My manager, that is supportive, agreed.",
+      "My manager, who is supportive, agreed.",
+      "My manager who is supportive, agreed.",
+      "My manager, which is supportive, agreed."
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining: commas + 'who' for people.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "4f77b843c533",
+    "question": "You cannot omit the relative pronoun in ___.",
+    "options": [
+      "defining clauses",
+      "non-defining clauses",
+      "both types",
+      "neither type"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining clauses require the relative pronoun.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "bac4848dd87c",
+    "question": "Choose the correct collocation: We all pitched in to finish on time.",
+    "options": [
+      "pitch in",
+      "conscientious",
+      "innovation",
+      "ritual"
+    ],
+    "correctIndex": 0,
+    "explanation": "'pitch in' (помочь, включиться). Full sentence: We all pitched in to finish on time.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "b1e8c5cc2943",
+    "question": "Choose the correct collocation: Everyone needs to pull their weight.",
+    "options": [
+      "sustainable",
+      "pull your weight",
+      "cliffhanger",
+      "venue"
+    ],
+    "correctIndex": 1,
+    "explanation": "'pull your weight' (вносить свой вклад). Full sentence: Everyone needs to pull their weight.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "5c7060339de6",
+    "question": "Which word means 'ответственность'?",
+    "options": [
+      "perfect recall",
+      "mentor",
+      "ancestor",
+      "accountability"
+    ],
+    "correctIndex": 3,
+    "explanation": "'accountability' means ответственность. Example: There's a culture of accountability here.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  }
+]

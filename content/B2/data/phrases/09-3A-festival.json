@@ -1,0 +1,21 @@
+{
+  "lessonId": "3A-festival",
+  "title": "Festival — фразы",
+  "items": [
+    {
+      "phrase": "sell out",
+      "translation": "распродаться",
+      "example": "Tickets sold out in minutes."
+    },
+    {
+      "phrase": "warm up",
+      "translation": "разогревать (публику)",
+      "example": "A local band warmed up the crowd."
+    },
+    {
+      "phrase": "pull out",
+      "translation": "отказаться от участия",
+      "example": "The singer pulled out at the last minute."
+    }
+  ]
+}

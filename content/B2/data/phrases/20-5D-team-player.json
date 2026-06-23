@@ -1,0 +1,21 @@
+{
+  "lessonId": "5D-team-player",
+  "title": "Are you a team player? — фразы",
+  "items": [
+    {
+      "phrase": "pull your weight",
+      "translation": "вносить свой вклад",
+      "example": "Everyone needs to pull their weight."
+    },
+    {
+      "phrase": "pitch in",
+      "translation": "помочь, включиться",
+      "example": "We all pitched in to finish on time."
+    },
+    {
+      "phrase": "work well under pressure",
+      "translation": "работать под давлением",
+      "example": "She works well under pressure."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lessonId": "6B-quiet",
+  "title": "Quiet — фразы",
+  "items": [
+    {
+      "phrase": "come out of your shell",
+      "translation": "раскрепоститься",
+      "example": "It took years to come out of my shell."
+    },
+    {
+      "phrase": "need space",
+      "translation": "нуждаться в личном пространстве",
+      "example": "Sometimes I just need space."
+    },
+    {
+      "phrase": "drain your energy",
+      "translation": "высасывать энергию",
+      "example": "Small talk can drain my energy."
+    }
+  ]
+}

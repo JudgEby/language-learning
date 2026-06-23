@@ -2,7 +2,15 @@
   "lessonId": "1A-my-id",
   "title": "My ID — идиомы",
   "items": [
-    { "idiom": "eye-opener", "translation": "открыло глаза", "example": "The trip to India was a real eye-opener." },
-    { "idiom": "stand up for yourself", "translation": "постоять за себя", "example": "You need to stand up for yourself sometimes." }
+    {
+      "idiom": "eye-opener",
+      "translation": "открыло глаза",
+      "example": "The trip to India was a real eye-opener."
+    },
+    {
+      "idiom": "stand up for yourself",
+      "translation": "постоять за себя",
+      "example": "You need to stand up for yourself sometimes."
+    }
   ]
 }

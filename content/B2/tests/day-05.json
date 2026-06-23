@@ -1,0 +1,752 @@
+[
+  {
+    "id": "375a67dc719f",
+    "question": "You ___ reply to every email instantly.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "must",
+      "have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' = no obligation (unlike 'mustn't' = prohibition).",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "9610ba8d6d9e",
+    "question": "Students ___ cheat on exams.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "needn't to",
+      "not have to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mustn't' = prohibition.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "d6ca2f293735",
+    "question": "You ___ take a break if you need one.",
+    "options": [
+      "must",
+      "can",
+      "mustn't",
+      "don't have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can' = permission.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "4d45cf2b36e2",
+    "question": "Employees ___ allowed to share passwords.",
+    "options": [
+      "aren't",
+      "mustn't",
+      "don't have to",
+      "needn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not allowed to' = formal prohibition.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "ad978323fa8e",
+    "question": "You ___ turn off notifications during meetings.",
+    "options": [
+      "should",
+      "mustn't",
+      "can't to",
+      "don't allowed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' for advice.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "a13b2f020a61",
+    "question": "You'd ___ pay attention — it's important.",
+    "options": [
+      "better",
+      "best",
+      "good",
+      "well"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Had better' for strong advice/warning.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "f3da4382f959",
+    "question": "___ we allowed to work from home?",
+    "options": [
+      "Are",
+      "Do",
+      "Have",
+      "Must"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Are we allowed to…?' — asking permission.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "3b753d8a3199",
+    "question": "Complete the sentence: It's hard to ___ all day.",
+    "options": [
+      "engagement",
+      "solitude",
+      "stay focused",
+      "demonstrate"
+    ],
+    "correctIndex": 2,
+    "explanation": "'stay focused' (оставаться сосредоточенным). Full sentence: It's hard to stay focused all day.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "c468cd4aa3eb",
+    "question": "Which word means 'делать несколько дел сразу'?",
+    "options": [
+      "multitask",
+      "ambitious",
+      "luxurious",
+      "ingredient"
+    ],
+    "correctIndex": 0,
+    "explanation": "'multitask' means делать несколько дел сразу. Example: I try not to multitask.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "8f09d2bfe749",
+    "question": "Which word means 'отвлечение'?",
+    "options": [
+      "distraction",
+      "induction",
+      "connectivity",
+      "mute"
+    ],
+    "correctIndex": 0,
+    "explanation": "'distraction' means отвлечение. Example: Social media is a major distraction.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "22057eb205d9",
+    "question": "He told me ___ the door.",
+    "options": [
+      "close",
+      "to close",
+      "closing",
+      "closed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Tell sb to do' — reported order.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "9da3d0f30fc1",
+    "question": "She asked me ___ her.",
+    "options": [
+      "help",
+      "to help",
+      "helping",
+      "helped"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Ask sb to do' — reported request.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "58106ef6baed",
+    "question": "She advised me ___ overwork.",
+    "options": [
+      "don't",
+      "not to",
+      "to not",
+      "not"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Advise sb not to do'.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "1160f0d5cf9e",
+    "question": "He suggested ___ a break.",
+    "options": [
+      "take",
+      "to take",
+      "taking",
+      "taken"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Suggest' + -ing (or 'that' + clause).",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "9fb09d09db2c",
+    "question": "She warned him ___ interrupt.",
+    "options": [
+      "to not",
+      "not to",
+      "don't",
+      "not"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Warn sb not to do'.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "f8628c991b0d",
+    "question": "He reminded me ___ the report.",
+    "options": [
+      "send",
+      "to send",
+      "sending",
+      "sent"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Remind sb to do'.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "49b95889dbe8",
+    "question": "She asked if I ___ help her.",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reported request: 'could' (backshift).",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "ee447a314126",
+    "question": "Which word means 'экстраверт'?",
+    "options": [
+      "communal",
+      "stamina",
+      "anxious",
+      "extrovert"
+    ],
+    "correctIndex": 3,
+    "explanation": "'extrovert' means экстраверт. Example: Extroverts gain energy from socialising.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "fe240dc08673",
+    "question": "Which word means 'интроверт'?",
+    "options": [
+      "impact",
+      "introvert",
+      "humanitarian",
+      "concentration"
+    ],
+    "correctIndex": 1,
+    "explanation": "'introvert' means интроверт. Example: As an introvert, she needs quiet time.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "d4d13ba4df00",
+    "question": "Choose the correct collocation: Small talk can drain my energy.",
+    "options": [
+      "perspective",
+      "drain your energy",
+      "tactful",
+      "tenant"
+    ],
+    "correctIndex": 1,
+    "explanation": "'drain your energy' (высасывать энергию). Full sentence: Small talk can drain my energy.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "9089d2009efc",
+    "question": "If I ___ you, I'd talk to HR first.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "correctIndex": 2,
+    "explanation": "'If I were you' — tactful advice (subjunctive).",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "c144afd474b9",
+    "question": "It might be worth ___ a few days off.",
+    "options": [
+      "take",
+      "taking",
+      "to take",
+      "taken"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Worth' + -ing.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "19417fe28056",
+    "question": "___ you considered speaking to a mentor?",
+    "options": [
+      "Have",
+      "Did",
+      "Do",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have you considered…?' — tactful suggestion.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "3cac09c08d09",
+    "question": "I was wondering if you ___ give me some advice.",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "shall"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could' makes the request more polite.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "d8043f20f37b",
+    "question": "You might want ___ try a different approach.",
+    "options": [
+      "to",
+      "for",
+      "and",
+      "that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Might want to' + infinitive.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "0a79902bcaf3",
+    "question": "Which is the most tactful?",
+    "options": [
+      "You must quit.",
+      "It could be a good idea to take a break.",
+      "That's wrong.",
+      "You have to listen to me."
+    ],
+    "correctIndex": 1,
+    "explanation": "Softer phrasing avoids direct pressure.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "6fc933e1227c",
+    "question": "What would you do in my ___?",
+    "options": [
+      "situation",
+      "situating",
+      "situated",
+      "situates"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In my situation' — asking for advice.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "14f39ea59c1a",
+    "question": "Complete the sentence: Where can I ___ on careers?",
+    "options": [
+      "inequality",
+      "demonstrate",
+      "rehearsal",
+      "get advice"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get advice' (получить совет). Full sentence: Where can I get advice on careers?",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "1d09d85b024e",
+    "question": "Which word means 'тактичный'?",
+    "options": [
+      "tactful",
+      "coincidence",
+      "headline",
+      "guidance"
+    ],
+    "correctIndex": 0,
+    "explanation": "'tactful' means тактичный. Example: She gave tactful feedback.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "d2b5198a4edb",
+    "question": "Which word means 'дилемма'?",
+    "options": [
+      "dilemma",
+      "commitment",
+      "step-by-step",
+      "streaming"
+    ],
+    "correctIndex": 0,
+    "explanation": "'dilemma' means дилемма. Example: I'm facing a real dilemma.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "febb7f0ae8aa",
+    "question": "___, it all started when I missed the train.",
+    "options": [
+      "Well",
+      "Therefore",
+      "However",
+      "Moreover"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Well' is a common filler to start a story.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "02c70a026f81",
+    "question": "So, ___, what happened was…",
+    "options": [
+      "basically",
+      "formally",
+      "precisely",
+      "exactly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Basically' — filler summarising.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "5e104d4adb2b",
+    "question": "I mean, it's not that ___.",
+    "options": [
+      "simple",
+      "simply",
+      "simplify",
+      "simpler"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I mean…' — filler for clarification.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "715005fdd42a",
+    "question": "___ shall I put it? It's complicated.",
+    "options": [
+      "How",
+      "What",
+      "Why",
+      "When"
+    ],
+    "correctIndex": 0,
+    "explanation": "'How shall I put it?' — hesitation filler.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "772c6d24649f",
+    "question": "The thing is, I ___ sure what happened.",
+    "options": [
+      "am not pretty",
+      "am not very",
+      "'m pretty",
+      "'m not pretty"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'm pretty sure' — hedging for natural speech.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "4628a380c899",
+    "question": "To be ___, I wasn't even there.",
+    "options": [
+      "honest",
+      "honesty",
+      "honestly",
+      "honestest"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To be honest…' — filler for emphasis.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "cffe92180b41",
+    "question": "As far as I ___, that's the truth.",
+    "options": [
+      "remember",
+      "remind",
+      "remembering",
+      "remembers"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As far as I remember' — cautious filler.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "4336cf61dd8d",
+    "question": "Which word means 'убедительный'?",
+    "options": [
+      "landmark",
+      "cutting-edge",
+      "initiative",
+      "convincing"
+    ],
+    "correctIndex": 3,
+    "explanation": "'convincing' means убедительный. Example: Her story sounded convincing.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "47c17c713fdc",
+    "question": "Which word means 'подозрительный'?",
+    "options": [
+      "suspicious",
+      "missed chance",
+      "mission",
+      "spontaneous"
+    ],
+    "correctIndex": 0,
+    "explanation": "'suspicious' means подозрительный. Example: That explanation sounds suspicious.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "633817043476",
+    "question": "Complete the sentence: Just ___.",
+    "options": [
+      "remote",
+      "tell the truth",
+      "endorphins",
+      "step-by-step"
+    ],
+    "correctIndex": 1,
+    "explanation": "'tell the truth' (говорить правду). Full sentence: Just tell the truth.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "0b2839937ff0",
+    "question": "She ___ worked incredibly hard to get there.",
+    "options": [
+      "must have",
+      "can't have",
+      "must",
+      "should"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past deduction → 'must have' + past participle.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "e2776cc6e69f",
+    "question": "He ___ have known about the surprise.",
+    "options": [
+      "must",
+      "can't",
+      "should",
+      "would"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negative past deduction → 'can't/couldn't have'.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "d916f6a984c8",
+    "question": "They ___ have met by chance at the gallery.",
+    "options": [
+      "must",
+      "might",
+      "can't",
+      "won't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Might have' = possible past event.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "9894c6f7e0c5",
+    "question": "She ___ have done it alone.",
+    "options": [
+      "must",
+      "couldn't",
+      "should",
+      "would"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Couldn't have' = almost impossible in the past.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "252b31ec1ab0",
+    "question": "That ___ have been around 2010.",
+    "options": [
+      "would",
+      "will",
+      "must",
+      "can"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Would have been' for past speculation.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "de5ea7266934",
+    "question": "He ___ have forgotten the appointment.",
+    "options": [
+      "must",
+      "could",
+      "can't",
+      "won't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could have' = possible explanation.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "f117791e0884",
+    "question": "The paint is fresh. Someone ___ it recently.",
+    "options": [
+      "must have painted",
+      "must paint",
+      "can't have painted",
+      "might paint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Evidence → 'must have' + past participle.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "bc0b01129924",
+    "question": "Which word means 'страсть, увлечение'?",
+    "options": [
+      "audition",
+      "connectivity",
+      "passion",
+      "preservation"
+    ],
+    "correctIndex": 2,
+    "explanation": "'passion' means страсть, увлечение. Example: She discovered a passion for pottery.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "1955dd56c7e4",
+    "question": "Choose the correct collocation: I took up photography last year.",
+    "options": [
+      "delegate",
+      "streaming",
+      "demonstrate",
+      "take up (a hobby)"
+    ],
+    "correctIndex": 3,
+    "explanation": "'take up (a hobby)' (начать заниматься). Full sentence: I took up photography last year.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "9b2d5d77aab7",
+    "question": "Which word means 'совпадение'?",
+    "options": [
+      "coincidence",
+      "routine",
+      "extrovert",
+      "procrastinate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'coincidence' means совпадение. Example: It was pure coincidence.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lessonId": "5C-on-mute",
+  "title": "You're on mute! — фразы",
+  "items": [
+    {
+      "phrase": "drop out",
+      "translation": "пропадать (связь)",
+      "example": "My audio keeps dropping out."
+    },
+    {
+      "phrase": "log in",
+      "translation": "войти в систему",
+      "example": "Everyone needs to log in five minutes early."
+    },
+    {
+      "phrase": "run into problems",
+      "translation": "столкнуться с проблемами",
+      "example": "We ran into problems with the software."
+    }
+  ]
+}

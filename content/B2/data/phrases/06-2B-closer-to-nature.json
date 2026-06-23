@@ -1,0 +1,21 @@
+{
+  "lessonId": "2B-closer-to-nature",
+  "title": "Closer to nature — фразы",
+  "items": [
+    {
+      "phrase": "carbon footprint",
+      "translation": "углеродный след",
+      "example": "Try to reduce your carbon footprint."
+    },
+    {
+      "phrase": "in the wild",
+      "translation": "в дикой природе",
+      "example": "You can see dolphins in the wild here."
+    },
+    {
+      "phrase": "at one with nature",
+      "translation": "в гармонии с природой",
+      "example": "She feels at one with nature when hiking."
+    }
+  ]
+}

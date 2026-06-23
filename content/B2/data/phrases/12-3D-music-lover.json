@@ -1,0 +1,21 @@
+{
+  "lessonId": "3D-music-lover",
+  "title": "Music lover? — фразы",
+  "items": [
+    {
+      "phrase": "have a ear for music",
+      "translation": "иметь слух",
+      "example": "She has a great ear for music."
+    },
+    {
+      "phrase": "turn up the volume",
+      "translation": "прибавить громкость",
+      "example": "Can you turn up the volume?"
+    },
+    {
+      "phrase": "sing along",
+      "translation": "подпевать",
+      "example": "Everyone was singing along."
+    }
+  ]
+}

@@ -2,8 +2,20 @@
   "lessonId": "1B-memory",
   "title": "Memory — идиомы",
   "items": [
-    { "idiom": "go in one ear and out the other", "translation": "в одно ухо влетело, в другое вылетело", "example": "Everything he said went in one ear and out the other." },
-    { "idiom": "rings a bell", "translation": "что-то напоминает", "example": "That name rings a bell, but I can't remember where I heard it." },
-    { "idiom": "slip my mind", "translation": "вылетело из головы", "example": "I'm sorry — it completely slipped my mind." }
+    {
+      "idiom": "go in one ear and out the other",
+      "translation": "в одно ухо влетело, в другое вылетело",
+      "example": "Everything he said went in one ear and out the other."
+    },
+    {
+      "idiom": "rings a bell",
+      "translation": "что-то напоминает",
+      "example": "That name rings a bell, but I can't remember where I heard it."
+    },
+    {
+      "idiom": "slip my mind",
+      "translation": "вылетело из головы",
+      "example": "I'm sorry — it completely slipped my mind."
+    }
   ]
 }

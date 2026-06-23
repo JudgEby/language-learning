@@ -1,0 +1,31 @@
+{
+  "lessonId": "5D-team-player",
+  "title": "Are you a team player? — новые слова",
+  "items": [
+    {
+      "term": "collaborate",
+      "translation": "сотрудничать",
+      "example": "We collaborate on most projects."
+    },
+    {
+      "term": "delegate",
+      "translation": "делегировать",
+      "example": "A good manager knows how to delegate."
+    },
+    {
+      "term": "teamwork",
+      "translation": "командная работа",
+      "example": "Teamwork is essential in this role."
+    },
+    {
+      "term": "autonomous",
+      "translation": "самостоятельный",
+      "example": "I prefer working autonomously."
+    },
+    {
+      "term": "accountability",
+      "translation": "ответственность",
+      "example": "There's a culture of accountability here."
+    }
+  ]
+}

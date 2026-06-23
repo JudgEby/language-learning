@@ -1,0 +1,13 @@
+{
+  "id": "8B-if-the-world",
+  "order": 30,
+  "unit": "Unit 8 — Community",
+  "title": "If the world...",
+  "contentMd": "## Conditionals with conjunctions\n\n### Простая суть\n\nУсловные предложения — не только **if**. **Unless** = если не. **As long as** = при условии что. **In case** = на всякий случай (не «если»!).\n\n### Как это работает\n\n- **Unless** = if not\n- **Provided (that) / As long as** — при условии\n- **In case** — «на случай если» (предосторожность)\n- **Even if** — даже если\n- **Whether or not** — независимо от того\n\n### Живые примеры\n\n- **Unless** we act now, climate change will worsen. — Если мы не начнём действовать сейчас, изменение климата усугубится.\n- **Even if** we try our best, we may not succeed. — Даже если мы сделаем всё возможное, можем не добиться успеха.\n- Take an umbrella **in case** it rains. — Возьми зонт на случай дождя.\n- **As long as** there's funding, the project continues. — Пока есть финансирование, проект продолжается.\n\n### Лайфхак для запоминания\n\n**Unless** = **if not**. **In case** ≠ **if**: in case = заранее, на всякий случай. **Even if** = уступка «даже если».",
+  "examples": [
+    "**Unless** we act now, climate change will worsen.",
+    "**Even if** we try our best, we may not succeed.",
+    "Take an umbrella **in case** it rains.",
+    "**As long as** there's funding, the project continues."
+  ]
+}

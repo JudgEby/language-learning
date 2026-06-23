@@ -1,0 +1,21 @@
+{
+  "lessonId": "8B-if-the-world",
+  "title": "If the world... — фразы",
+  "items": [
+    {
+      "phrase": "make a difference",
+      "translation": "изменить ситуацию к лучшему",
+      "example": "Small actions can make a difference."
+    },
+    {
+      "phrase": "raise awareness",
+      "translation": "повысить осведомлённость",
+      "example": "Campaigns raise awareness."
+    },
+    {
+      "phrase": "tackle (a problem)",
+      "translation": "браться за проблему",
+      "example": "We need to tackle homelessness."
+    }
+  ]
+}

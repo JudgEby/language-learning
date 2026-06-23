@@ -1,0 +1,31 @@
+{
+  "lessonId": "3B-performers",
+  "title": "Performers — новые слова",
+  "items": [
+    {
+      "term": "stage fright",
+      "translation": "страх сцены",
+      "example": "Even professionals get stage fright."
+    },
+    {
+      "term": "rehearsal",
+      "translation": "репетиция",
+      "example": "We have a final rehearsal tomorrow."
+    },
+    {
+      "term": "audition",
+      "translation": "прослушивание",
+      "example": "She passed the audition easily."
+    },
+    {
+      "term": "improvise",
+      "translation": "импровизировать",
+      "example": "Good actors can improvise when needed."
+    },
+    {
+      "term": "encore",
+      "translation": "на бис",
+      "example": "The crowd demanded an encore."
+    }
+  ]
+}

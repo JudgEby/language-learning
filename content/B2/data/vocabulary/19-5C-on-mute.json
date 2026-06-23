@@ -1,0 +1,31 @@
+{
+  "lessonId": "5C-on-mute",
+  "title": "You're on mute! — новые слова",
+  "items": [
+    {
+      "term": "video call",
+      "translation": "видеозвонок",
+      "example": "We have daily video calls with the team."
+    },
+    {
+      "term": "mute",
+      "translation": "отключить микрофон",
+      "example": "Please mute yourself when not speaking."
+    },
+    {
+      "term": "share screen",
+      "translation": "демонстрировать экран",
+      "example": "Can you share your screen?"
+    },
+    {
+      "term": "bandwidth",
+      "translation": "пропускная способность",
+      "example": "Poor bandwidth causes lag."
+    },
+    {
+      "term": "connectivity",
+      "translation": "подключение",
+      "example": "Connectivity issues disrupted the meeting."
+    }
+  ]
+}

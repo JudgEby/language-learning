@@ -1,0 +1,31 @@
+{
+  "lessonId": "4B-sleep",
+  "title": "Sleep — новые слова",
+  "items": [
+    {
+      "term": "insomnia",
+      "translation": "бессонница",
+      "example": "She suffers from insomnia."
+    },
+    {
+      "term": "nap",
+      "translation": "дремота, короткий сон",
+      "example": "A short nap can help you focus."
+    },
+    {
+      "term": "circadian rhythm",
+      "translation": "циркадный ритм",
+      "example": "Shift work disrupts your circadian rhythm."
+    },
+    {
+      "term": "sleep deprivation",
+      "translation": "недосыпание",
+      "example": "Sleep deprivation affects concentration."
+    },
+    {
+      "term": "drowsy",
+      "translation": "сонный",
+      "example": "I feel drowsy after lunch."
+    }
+  ]
+}

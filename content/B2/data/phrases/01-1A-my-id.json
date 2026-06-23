@@ -2,8 +2,20 @@
   "lessonId": "1A-my-id",
   "title": "My ID — фразы",
   "items": [
-    { "phrase": "take risks", "translation": "рисковать", "example": "She loves to take risks when travelling." },
-    { "phrase": "take after (sb)", "translation": "быть похожим на (родственника)", "example": "He takes after his father." },
-    { "phrase": "first-born", "translation": "первенец в семье", "example": "As the first-born, she felt responsible for her siblings." }
+    {
+      "phrase": "take risks",
+      "translation": "рисковать",
+      "example": "She loves to take risks when travelling."
+    },
+    {
+      "phrase": "take after (sb)",
+      "translation": "быть похожим на (родственника)",
+      "example": "He takes after his father."
+    },
+    {
+      "phrase": "first-born",
+      "translation": "первенец в семье",
+      "example": "As the first-born, she felt responsible for her siblings."
+    }
   ]
 }

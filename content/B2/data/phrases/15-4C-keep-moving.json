@@ -1,0 +1,21 @@
+{
+  "lessonId": "4C-keep-moving",
+  "title": "Keep moving — фразы",
+  "items": [
+    {
+      "phrase": "work out",
+      "translation": "тренироваться",
+      "example": "I work out at the gym twice a week."
+    },
+    {
+      "phrase": "warm up",
+      "translation": "разминаться",
+      "example": "Always warm up before exercising."
+    },
+    {
+      "phrase": "push yourself",
+      "translation": "заставлять себя (стараться)",
+      "example": "You need to push yourself harder."
+    }
+  ]
+}

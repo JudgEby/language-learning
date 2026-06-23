@@ -1,0 +1,31 @@
+{
+  "lessonId": "2D-time-traveller",
+  "title": "The time traveller — новые слова",
+  "items": [
+    {
+      "term": "era",
+      "translation": "эпоха",
+      "example": "The Victorian era fascinates many historians."
+    },
+    {
+      "term": "century",
+      "translation": "век",
+      "example": "Life was very different a century ago."
+    },
+    {
+      "term": "ancestor",
+      "translation": "предок",
+      "example": "My ancestors came from Ireland."
+    },
+    {
+      "term": "civilisation",
+      "translation": "цивилизация",
+      "example": "Ancient civilisations built incredible monuments."
+    },
+    {
+      "term": "landmark",
+      "translation": "достопримечательность",
+      "example": "The castle is a famous landmark."
+    }
+  ]
+}

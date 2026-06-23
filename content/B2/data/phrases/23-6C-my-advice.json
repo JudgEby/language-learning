@@ -1,0 +1,21 @@
+{
+  "lessonId": "6C-my-advice",
+  "title": "Here's my advice — фразы",
+  "items": [
+    {
+      "phrase": "get advice",
+      "translation": "получить совет",
+      "example": "Where can I get advice on careers?"
+    },
+    {
+      "phrase": "take someone's advice",
+      "translation": "послушать совет",
+      "example": "I should have taken her advice."
+    },
+    {
+      "phrase": "seek help",
+      "translation": "обратиться за помощью",
+      "example": "Don't be afraid to seek help."
+    }
+  ]
+}

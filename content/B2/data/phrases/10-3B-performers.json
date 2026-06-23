@@ -1,0 +1,21 @@
+{
+  "lessonId": "3B-performers",
+  "title": "Performers — фразы",
+  "items": [
+    {
+      "phrase": "come alive",
+      "translation": "оживать, расцветать",
+      "example": "She really comes alive on stage."
+    },
+    {
+      "phrase": "nail a performance",
+      "translation": "блестяще выступить",
+      "example": "He nailed the performance."
+    },
+    {
+      "phrase": "mess up",
+      "translation": "облажаться",
+      "example": "Don't worry if you mess up — keep going."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "lessonId": "2B-closer-to-nature",
+  "title": "Closer to nature — новые слова",
+  "items": [
+    {
+      "term": "biodiversity",
+      "translation": "биоразнообразие",
+      "example": "The rainforest has incredible biodiversity."
+    },
+    {
+      "term": "ecosystem",
+      "translation": "экосистема",
+      "example": "Pollution damages the entire ecosystem."
+    },
+    {
+      "term": "endangered",
+      "translation": "находящийся под угрозой",
+      "example": "Several species are endangered."
+    },
+    {
+      "term": "sustainable",
+      "translation": "устойчивый, экологичный",
+      "example": "We need sustainable farming methods."
+    },
+    {
+      "term": "wilderness",
+      "translation": "дикая природа",
+      "example": "They camped deep in the wilderness."
+    }
+  ]
+}

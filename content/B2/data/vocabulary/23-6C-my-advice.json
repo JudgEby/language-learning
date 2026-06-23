@@ -1,0 +1,31 @@
+{
+  "lessonId": "6C-my-advice",
+  "title": "Here's my advice — новые слова",
+  "items": [
+    {
+      "term": "guidance",
+      "translation": "руководство, наставление",
+      "example": "I need some guidance on this."
+    },
+    {
+      "term": "dilemma",
+      "translation": "дилемма",
+      "example": "I'm facing a real dilemma."
+    },
+    {
+      "term": "perspective",
+      "translation": "точка зрения",
+      "example": "Thanks for offering a fresh perspective."
+    },
+    {
+      "term": "tactful",
+      "translation": "тактичный",
+      "example": "She gave tactful feedback."
+    },
+    {
+      "term": "mentor",
+      "translation": "наставник",
+      "example": "My mentor gave me invaluable advice."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lessonId": "4B-sleep",
+  "title": "Sleep — идиомы",
+  "items": [
+    {
+      "idiom": "sleep like a log",
+      "translation": "спать как убитый",
+      "example": "After the hike, I slept like a log."
+    },
+    {
+      "idiom": "not sleep a wink",
+      "translation": "не сомкнуть глаз",
+      "example": "I didn't sleep a wink before the interview."
+    }
+  ]
+}

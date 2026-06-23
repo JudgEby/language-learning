@@ -1,0 +1,21 @@
+{
+  "lessonId": "2D-time-traveller",
+  "title": "The time traveller — фразы",
+  "items": [
+    {
+      "phrase": "step back in time",
+      "translation": "вернуться в прошлое",
+      "example": "Visiting the museum felt like stepping back in time."
+    },
+    {
+      "phrase": "ahead of its time",
+      "translation": "опережающий своё время",
+      "example": "The design was ahead of its time."
+    },
+    {
+      "phrase": "a thing of the past",
+      "translation": "пережиток прошлого",
+      "example": "Handwritten letters are becoming a thing of the past."
+    }
+  ]
+}

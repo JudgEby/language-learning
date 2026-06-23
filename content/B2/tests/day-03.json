@@ -1,0 +1,752 @@
+[
+  {
+    "id": "d952b44c9423",
+    "question": "I've watched about ___ seasons or so.",
+    "options": [
+      "ten",
+      "tenth",
+      "tens",
+      "tenery"
+    ],
+    "correctIndex": 0,
+    "explanation": "'About/around/roughly' + number for approximation.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "56b7ee6f2d9f",
+    "question": "It lasts something ___ forty minutes per episode.",
+    "options": [
+      "as",
+      "like",
+      "about",
+      "of"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Something like' = approximately.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "b73f77b57b5b",
+    "question": "It's ___ addictive.",
+    "options": [
+      "kind of",
+      "kind to",
+      "kinds of",
+      "kind for"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Kind of / sort of' = vague description.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "b2201915f688",
+    "question": "We watched Netflix ___ something.",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Or something' — vague ending.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "6ee2aa7638d6",
+    "question": "There were ___ twenty episodes in total.",
+    "options": [
+      "around",
+      "roundly",
+      "surround",
+      "rounded"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Around/about' for approximate numbers.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "5c17d117b4ca",
+    "question": "Which is vague language?",
+    "options": [
+      "exactly twelve",
+      "a couple of hours",
+      "precisely 47 minutes",
+      "specifically three"
+    ],
+    "correctIndex": 1,
+    "explanation": "'A couple of' is intentionally imprecise.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "285381bf0647",
+    "question": "I've seen five seasons ___ .",
+    "options": [
+      "or so",
+      "or such",
+      "or like",
+      "or kind"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Or so' after a number = approximately.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "7713d19b619f",
+    "question": "Which word means 'интригующий финал серии'?",
+    "options": [
+      "step-by-step",
+      "rehearsal",
+      "cliffhanger",
+      "self-sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "'cliffhanger' means интригующий финал серии. Example: The episode ended on a cliffhanger.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "4c54da08ff5d",
+    "question": "Complete the sentence: I need to ___ the latest season.",
+    "options": [
+      "routine",
+      "catch up on",
+      "multitask",
+      "long-term memory"
+    ],
+    "correctIndex": 1,
+    "explanation": "'catch up on' (наверстать (просмотр)). Full sentence: I need to catch up on the latest season.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "e0fe35067d01",
+    "question": "Which word means 'стриминг'?",
+    "options": [
+      "headline",
+      "unconventional",
+      "workout",
+      "streaming"
+    ],
+    "correctIndex": 3,
+    "explanation": "'streaming' means стриминг. Example: Streaming has changed how we watch TV.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "39a60198a730",
+    "question": "I ___ love live music!",
+    "options": [
+      "do",
+      "am",
+      "have",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emphatic 'do' in present for emphasis.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "14b4b1d716cd",
+    "question": "She ___ play the guitar brilliantly.",
+    "options": [
+      "do",
+      "does",
+      "is",
+      "has"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emphatic 'does' with third person singular.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "d40638f4f554",
+    "question": "I ___ enjoy the concert, even though I was tired.",
+    "options": [
+      "do",
+      "did",
+      "have",
+      "was"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emphatic 'did' in the past.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "f2df37ea255e",
+    "question": "He ___ tell you — you just weren't listening!",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "has"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past emphasis with 'did'.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "4acf8f85a87a",
+    "question": "Which sentence uses emphatic do correctly?",
+    "options": [
+      "Do I love jazz? Yes!",
+      "I do love jazz!",
+      "I do loves jazz.",
+      "I do loving jazz."
+    ],
+    "correctIndex": 1,
+    "explanation": "Emphatic do + base verb in affirmative.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "161c10358699",
+    "question": "I ___ want to leave early, but I had to.",
+    "options": [
+      "do",
+      "did",
+      "does",
+      "done"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emphatic 'did' for contrast in the past.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "592929059773",
+    "question": "They ___ support local bands.",
+    "options": [
+      "do",
+      "are",
+      "have",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present emphatic: 'They do support…'.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "1ae3e80c39cd",
+    "question": "Which word means 'трек'?",
+    "options": [
+      "opportunity",
+      "solitude",
+      "track",
+      "custom"
+    ],
+    "correctIndex": 2,
+    "explanation": "'track' means трек. Example: This is my favourite track on the album.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "9201d621c580",
+    "question": "Which word means 'концерт (неформально)'?",
+    "options": [
+      "ambitious",
+      "delegate",
+      "melody",
+      "gig"
+    ],
+    "correctIndex": 3,
+    "explanation": "'gig' means концерт (неформально). Example: We're going to a gig on Saturday.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "f8bf00eef904",
+    "question": "Which word means 'мелодия'?",
+    "options": [
+      "procrastinate",
+      "spin-off",
+      "melody",
+      "carbon-neutral"
+    ],
+    "correctIndex": 2,
+    "explanation": "'melody' means мелодия. Example: The melody is incredibly catchy.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "65fa2f152515",
+    "question": "This time next year, I ___ abroad.",
+    "options": [
+      "will live",
+      "will be living",
+      "will have lived",
+      "live"
+    ],
+    "correctIndex": 1,
+    "explanation": "Future Continuous — action in progress at a future moment.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "e0bf8d53218c",
+    "question": "By 2030, I ___ my degree.",
+    "options": [
+      "will finish",
+      "will be finishing",
+      "will have finished",
+      "finish"
+    ],
+    "correctIndex": 2,
+    "explanation": "Future Perfect — completed before a future time.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "b048243c0816",
+    "question": "By December, I ___ here for ten years.",
+    "options": [
+      "will work",
+      "will be working",
+      "will have been working",
+      "work"
+    ],
+    "correctIndex": 2,
+    "explanation": "Future Perfect Continuous — duration up to a future point.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "7ffbb99d12d1",
+    "question": "___ you ___ the car tomorrow evening?",
+    "options": [
+      "Will … use",
+      "Will … be using",
+      "Do … use",
+      "Are … using"
+    ],
+    "correctIndex": 1,
+    "explanation": "Future Continuous for an action in progress at a specific future time.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "b2de7204de5b",
+    "question": "By then, she ___ her job.",
+    "options": [
+      "will leave",
+      "will be leaving",
+      "will have left",
+      "leaves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Future Perfect: completed before 'by then'.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "d1290b88738e",
+    "question": "At 8 p.m. tomorrow we ___ dinner.",
+    "options": [
+      "will have",
+      "will be having",
+      "will have had",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "Action in progress at a specific future time → Future Continuous.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "e11e124e8329",
+    "question": "By next month, they ___ the renovation.",
+    "options": [
+      "will complete",
+      "will be completing",
+      "will have completed",
+      "complete"
+    ],
+    "correctIndex": 2,
+    "explanation": "'By' + future time → Future Perfect.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "e73fe5783f26",
+    "question": "Choose the correct collocation: Don't fall back into old habits.",
+    "options": [
+      "perfect recall",
+      "disappointed",
+      "hobby",
+      "fall back into (old habits)"
+    ],
+    "correctIndex": 3,
+    "explanation": "'fall back into (old habits)' (снова впасть в старые привычки). Full sentence: Don't fall back into old habits.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "922f7ed5490e",
+    "question": "Which word means 'рутина'?",
+    "options": [
+      "communal",
+      "carbon-neutral",
+      "guidance",
+      "routine"
+    ],
+    "correctIndex": 3,
+    "explanation": "'routine' means рутина. Example: I'm trying to build a healthier routine.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "f9884f2321fa",
+    "question": "Which word means 'привычка'?",
+    "options": [
+      "outgoing",
+      "poverty",
+      "concentration",
+      "habit"
+    ],
+    "correctIndex": 3,
+    "explanation": "'habit' means привычка. Example: It takes time to break a bad habit.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "97d8e6c63be8",
+    "question": "Sleep ___ by stress.",
+    "options": [
+      "affects",
+      "is affected",
+      "is affecting",
+      "affected"
+    ],
+    "correctIndex": 1,
+    "explanation": "Present Simple passive: is/are + past participle.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "2f28df16706d",
+    "question": "The study ___ last year.",
+    "options": [
+      "conducted",
+      "was conducted",
+      "was conducting",
+      "has conducted"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Simple passive: was/were + past participle.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "e16af61efa31",
+    "question": "Participants ___ carefully last night.",
+    "options": [
+      "were monitored",
+      "monitored",
+      "were monitoring",
+      "have monitored"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past passive — focus on the action done to participants.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "498c83d464d1",
+    "question": "The results ___ published soon.",
+    "options": [
+      "will publish",
+      "will be published",
+      "are publishing",
+      "publish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Future passive: will be + past participle.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "b6490584b198",
+    "question": "Noise levels ___ be reduced.",
+    "options": [
+      "must",
+      "must be",
+      "must been",
+      "must being"
+    ],
+    "correctIndex": 1,
+    "explanation": "Modal passive: modal + be + past participle.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "0d1f0e4b1fc7",
+    "question": "The data ___ already ___ analysed.",
+    "options": [
+      "has … been",
+      "have … been",
+      "was … been",
+      "is … be"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect passive: has/have been + pp.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "fd569a010923",
+    "question": "Which sentence is passive?",
+    "options": [
+      "Researchers conducted the study.",
+      "The study was conducted by researchers.",
+      "Researchers are conducting the study.",
+      "Researchers will conduct the study."
+    ],
+    "correctIndex": 1,
+    "explanation": "Passive puts focus on 'the study', not the agent.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "c32b3f808bea",
+    "question": "Complete the sentence: I usually ___ within minutes.",
+    "options": [
+      "circadian rhythm",
+      "drift off",
+      "teamwork",
+      "workplace"
+    ],
+    "correctIndex": 1,
+    "explanation": "'drift off' (заснуть). Full sentence: I usually drift off within minutes.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "6a50084bf3ca",
+    "question": "Choose the correct collocation: I love sleeping in on Sundays.",
+    "options": [
+      "cardio",
+      "work ethic",
+      "sleep in",
+      "relieved"
+    ],
+    "correctIndex": 2,
+    "explanation": "'sleep in' (выспаться (долго)). Full sentence: I love sleeping in on Sundays.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "138538a73bc4",
+    "question": "Which word means 'бессонница'?",
+    "options": [
+      "workout",
+      "remote",
+      "insomnia",
+      "forum"
+    ],
+    "correctIndex": 2,
+    "explanation": "'insomnia' means бессонница. Example: She suffers from insomnia.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "b7e94c8cac2e",
+    "question": "Which phrase shows complete agreement?",
+    "options": [
+      "I couldn't agree more.",
+      "I disagree completely.",
+      "I'm not sure about that.",
+      "That's not what I think."
+    ],
+    "correctIndex": 0,
+    "explanation": "'I couldn't agree more' = full agreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "f4d5ccd837dc",
+    "question": "Which is a polite way to disagree?",
+    "options": [
+      "You're wrong.",
+      "That's rubbish.",
+      "I see your point, however…",
+      "No way!"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I see your point, however…' — polite partial disagreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "079dad2f591e",
+    "question": "___ what I think.",
+    "options": [
+      "That's exactly",
+      "That's opposite",
+      "That's never",
+      "That's hardly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's exactly what I think' — strong agreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "646668adf5df",
+    "question": "I agree up ___ a point, but…",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "for"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Up to a point' = partial agreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "5fde2df493aa",
+    "question": "Which shows partial agreement?",
+    "options": [
+      "I completely agree.",
+      "That's true to some extent.",
+      "You're absolutely right.",
+      "I couldn't agree more."
+    ],
+    "correctIndex": 1,
+    "explanation": "'To some extent' limits the agreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "54ac90f7accc",
+    "question": "You're absolutely ___.",
+    "options": [
+      "right",
+      "wrongly",
+      "disagree",
+      "agreeing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'You're absolutely right' — emphatic agreement.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "8d0c009d5f15",
+    "question": "Yes, but ___ the other hand…",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correctIndex": 1,
+    "explanation": "'On the other hand' introduces a contrasting view.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "8e6b6dd75816",
+    "question": "Complete the sentence: Always ___ before exercising.",
+    "options": [
+      "warm up",
+      "global issue",
+      "relieved",
+      "step-by-step"
+    ],
+    "correctIndex": 0,
+    "explanation": "'warm up' (разминаться). Full sentence: Always warm up before exercising.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "ab2b32ac87dd",
+    "question": "Complete the sentence: I ___ at the gym twice a week.",
+    "options": [
+      "rehearsal",
+      "work out",
+      "video call",
+      "custom"
+    ],
+    "correctIndex": 1,
+    "explanation": "'work out' (тренироваться). Full sentence: I work out at the gym twice a week.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "09a7ee5a56c4",
+    "question": "Which word means 'эндорфины'?",
+    "options": [
+      "conscientious",
+      "endorphins",
+      "breakthrough",
+      "accountability"
+    ],
+    "correctIndex": 1,
+    "explanation": "'endorphins' means эндорфины. Example: Exercise releases endorphins.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  }
+]

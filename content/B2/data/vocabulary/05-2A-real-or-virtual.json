@@ -1,0 +1,36 @@
+{
+  "lessonId": "2A-real-or-virtual",
+  "title": "Real or virtual? — новые слова",
+  "items": [
+    {
+      "term": "virtual reality",
+      "translation": "виртуальная реальность",
+      "example": "Virtual reality is used in training simulations."
+    },
+    {
+      "term": "artificial intelligence",
+      "translation": "искусственный интеллект",
+      "example": "Artificial intelligence is advancing rapidly."
+    },
+    {
+      "term": "breakthrough",
+      "translation": "прорыв",
+      "example": "Scientists announced a major breakthrough."
+    },
+    {
+      "term": "innovation",
+      "translation": "инновация",
+      "example": "The company is known for innovation."
+    },
+    {
+      "term": "remote",
+      "translation": "удалённый",
+      "example": "Many people now work remotely."
+    },
+    {
+      "term": "cutting-edge",
+      "translation": "передовой",
+      "example": "They use cutting-edge technology."
+    }
+  ]
+}

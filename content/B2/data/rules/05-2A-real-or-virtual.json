@@ -1,0 +1,13 @@
+{
+  "id": "2A-real-or-virtual",
+  "order": 5,
+  "unit": "Unit 2 — Different worlds",
+  "title": "Real or virtual?",
+  "contentMd": "## Вероятность в будущем\n\n### Простая суть\n\nКогда говорим о будущем без гадания на кофейной гуще, английский даёт «шкалу уверенности»: от «точно будет» до «может, а может нет». Чем сильнее уверенность — тем сильнее формулировка.\n\n### Как это работает\n\n- **will definitely/certainly/probably** + V\n- **be bound/sure/likely/unlikely to** + V\n- **It's likely/unlikely that** + clause\n- **may/might/could well** + V\n- **There's a good/fair chance that…**\n\n### Живые примеры\n\n- VR is **bound to become** more popular in the next decade. — VR почти наверняка станет популярнее в ближайшее десятилетие.\n- Robots **probably won't replace** all jobs, but many will change. — Роботы, скорее всего, не заменят все профессии, но многие изменятся.\n- **There's a fair chance that** we'll work from home more often. — Вполне возможно, что мы чаще будем работать из дома.\n- AI **might well transform** education — we're already seeing it. — ИИ вполне может преобразить образование — мы это уже видим.\n\n### Лайфхак для запоминания\n\n**Bound to** = почти 100%. **Likely** = вероятно, но слабее. **Might/could well** = «вполне может» — осторожная ставка.",
+  "examples": [
+    "VR is **bound to become** more popular in the next decade.",
+    "Robots **probably won't replace** all jobs, but many will change.",
+    "**There's a fair chance that** we'll work from home more often.",
+    "AI **might well transform** education — we're already seeing it."
+  ]
+}

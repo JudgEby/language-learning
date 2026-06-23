@@ -25,6 +25,8 @@ python scripts/run_app.py
 ```
 eng/
 ├── AGENTS.md                 # инструкции для ИИ-агентов (схемы JSON, workflows)
+├── prompts/
+│   └── rule-generation-style.md  # стиль генерации правил (редактируемый промпт)
 ├── toExtract/                # вход: PDF пособий (папки в git, PDF — локально)
 │   └── B2/
 │       ├── SB.pdf            # Student's Book
@@ -40,8 +42,14 @@ eng/
 │       │   └── idioms/       # идиомы
 │       └── tests/            # day-01.json, day-02.json, ...
 ├── scripts/
-│   ├── extract_pdf.py        # экстракт PDF → content/
-│   └── run_app.py            # запуск dev-сервера
+│   ├── extract_pdf.py              # PDF → content/{level}/extract/
+│   ├── sync_level.py               # синхронизация studyOrder и index.json
+│   ├── validate_level.py           # проверка JSON и тестов
+│   ├── fix_test_ids.py             # пересчёт id вопросов тестов
+│   ├── generate_vocab_questions.py # автогенерация лексических вопросов
+│   ├── assemble_tests.py           # сборка day-NN.json из test_plan.json
+│   ├── build_rule_md.py            # шаблон contentMd для правил
+│   └── run_app.py                  # запуск dev-сервера
 └── app/                      # React-приложение (Vite + TypeScript + Zustand)
 ```
 
@@ -73,7 +81,15 @@ python scripts/extract_pdf.py B2       # только B2
 
 Референс для первой генерации: [`KONSPEKT_Speakout_B2.md`](KONSPEKT_Speakout_B2.md) (приложение его не читает).
 
-### 4. Запустить приложение
+### 4. Синхронизировать и проверить (после генерации агентом)
+
+```bash
+python scripts/sync_level.py B2       # пересобрать studyOrder и index.json
+python scripts/validate_level.py B2   # проверить схемы, id тестов, ссылки
+python scripts/fix_test_ids.py B2     # пересчитать id, если агент ошибся
+```
+
+### 5. Запустить приложение
 
 ```bash
 python scripts/run_app.py
@@ -95,19 +111,18 @@ npm run build
 ### Полное обучение по уровню
 
 ```
-Прочитай AGENTS.md и сгенерируй обучение для уровня B2.
+Прочитай AGENTS.md и prompts/rule-generation-style.md. Сгенерируй обучение для уровня B2.
 
 Источники:
 - content/B2/extract/SB.txt — грамматика и структура уроков
 - content/B2/extract/WB.txt — дополнительная лексика из Workbook
-- KONSPEKT_Speakout_B2.md — референс по стилю и содержанию (если нужно)
 
 Сделай:
 1. JSON-файлы для всех уроков в content/B2/data/rules/, vocabulary/, phrases/, idioms/
 2. index.json в каждой подпапке data/
 3. Обнови content/B2/manifest.json: title = "Speakout B2", studyOrder — плоский список (rule → vocabulary → phrases → idioms для каждого урока)
 
-Стиль: простой язык, как лучший учитель; объяснения на русском, примеры на английском.
+Правила (contentMd): строго по структуре и тону из prompts/rule-generation-style.md. Лексика/фразы/идиомы: объяснения на русском, примеры на английском.
 ```
 
 ### Тесты на N дней
@@ -128,12 +143,12 @@ npm run build
 ### Один урок (дополнение или перегенерация)
 
 ```
-Прочитай AGENTS.md и сгенерируй обучение для урока 1A My ID уровня B2.
+Прочитай AGENTS.md и prompts/rule-generation-style.md. Сгенерируй обучение для урока 1A My ID уровня B2.
 
 Источники: content/B2/extract/SB.txt, content/B2/extract/WB.txt
 
 Создай или обнови:
-- content/B2/data/rules/01-1A-my-id.json
+- content/B2/data/rules/01-1A-my-id.json  (contentMd — по prompts/rule-generation-style.md)
 - content/B2/data/vocabulary/01-1A-my-id.json
 - content/B2/data/phrases/01-1A-my-id.json
 - content/B2/data/idioms/01-1A-my-id.json
@@ -177,6 +192,7 @@ npm run build
 ### Советы
 
 - Указывайте **конкретные пути к файлам** — агент точнее поймёт источник
+- Стиль правил настраивается в [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md) — меняйте промпт там, не в AGENTS.md
 - Для больших пособий генерируйте **по юнитам** (Unit 1, Unit 2…), а не всё сразу
 - После генерации запустите `python scripts/run_app.py` и проверьте материал в приложении
 
@@ -202,11 +218,37 @@ npm run build
 
 - **Extract из PDF** — `.txt` с маркерами страниц (`--- PAGE N ---`)
 - **Данные для приложения** — JSON (см. схемы в [`AGENTS.md`](AGENTS.md))
-- **Текст правил** — markdown внутри поля `contentMd` (объяснения на русском, примеры на английском)
+- **Текст правил** — markdown внутри поля `contentMd` (структура и тон — [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md); объяснения на русском, примеры на английском)
+
+## Скрипты для любого уровня
+
+Все утилиты принимают id уровня первым аргументом (`B2`, `C1`, …).
+
+| Скрипт | Назначение |
+|--------|------------|
+| `extract_pdf.py [LEVEL]` | Извлечь PDF, создать скелет `content/{level}/` |
+| `sync_level.py LEVEL` | Пересобрать `studyOrder` и `data/*/index.json` из файлов уроков |
+| `validate_level.py LEVEL` | Проверить JSON, `studyOrder`, id тестов, `relatedRuleIds` |
+| `fix_test_ids.py LEVEL` | Пересчитать SHA-256 id во всех `tests/day-*.json` |
+| `generate_vocab_questions.py LEVEL` | Сгенерировать вопросы по лексике/фразам (stdout или `--output`) |
+| `assemble_tests.py LEVEL` | Собрать тесты из `test_plan.json` + опциональных `tests/sources/` |
+| `build_rule_md.py` | Собрать `contentMd` по секциям стиля из `prompts/rule-generation-style.md` |
+
+Шаблоны для тестов: [`prompts/test-plan.example.json`](prompts/test-plan.example.json), [`prompts/grammar-questions.example.json`](prompts/grammar-questions.example.json).
+
+Типичный workflow для нового уровня:
+
+1. `python scripts/extract_pdf.py C1`
+2. Агент генерирует JSON в `content/C1/data/` (и при необходимости тесты)
+3. `python scripts/sync_level.py C1`
+4. `python scripts/validate_level.py C1`
+
+Для тестов с автодополнением лексикой: скопируйте `test_plan.example.json` → `content/C1/test_plan.json`, положите грамматические вопросы в `content/C1/tests/sources/{lessonId}.json`, затем `python scripts/assemble_tests.py C1`.
 
 ## Добавление нового уровня
 
 1. Создайте `toExtract/C1/` и положите туда `SB.pdf` / `WB.pdf`
 2. Запустите `python scripts/extract_pdf.py C1`
 3. Попросите ИИ-агента сгенерировать контент для C1 по `AGENTS.md`
-4. Уровень появится на главной странице автоматически
+4. `python scripts/sync_level.py C1 && python scripts/validate_level.py C1`
+5. Уровень появится на главной странице автоматически

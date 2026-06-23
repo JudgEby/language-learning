@@ -1,0 +1,13 @@
+{
+  "id": "5C-on-mute",
+  "order": 19,
+  "unit": "Unit 5 — Work",
+  "title": "You're on mute!",
+  "contentMd": "## Описание проблем и предложение решений\n\n### Простая суть\n\nНа видеозвонке важна формула: **проблема → решение**. Сначала мягко назови, что не так, потом предложи конкретный шаг — иначе все кивают, а микрофон всё ещё выключен.\n\n### Как это работает\n\n- Проблема: **The issue is… / We're having trouble with…**\n- Смягчение: **It looks like… / I'm not sure if it's just me, but…**\n- Решение: **How about…? / Shall I…? / Why don't we…?**\n\n### Живые примеры\n\n- Sorry, but I **can't hear you** — **you're on mute**. — Извини, не слышу — ты на мьюте.\n- The connection **keeps dropping** — **shall we switch** to a phone call? — Связь постоянно обрывается — переключимся на звонок?\n- **Could everyone** unmute when they want to speak? — Можете все включать микрофон, когда хотите сказать?\n- **How about** sharing the slides again? I can't see them. — Как насчёт того, чтобы снова показать слайды? Я их не вижу.\n\n### Лайфхак для запоминания\n\nФормула: **Name the problem + Offer a fix**. На мьюте → прямо и вежливо: *You're on mute — could you unmute?*",
+  "examples": [
+    "Sorry, but I **can't hear you** — **you're on mute**.",
+    "The connection **keeps dropping** — **shall we switch** to a phone call?",
+    "**Could everyone** unmute when they want to speak?",
+    "**How about** sharing the slides again? I can't see them."
+  ]
+}

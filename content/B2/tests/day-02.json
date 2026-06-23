@@ -1,0 +1,752 @@
+[
+  {
+    "id": "7593a3a7ff5e",
+    "question": "___ species are endangered.",
+    "options": [
+      "Much",
+      "Many",
+      "A little",
+      "A great deal of"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Many' is used with countable nouns (species).",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "c64bd6a15f15",
+    "question": "There isn't ___ rainfall here.",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Much' with uncountable nouns in negative sentences.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "4dcb9cbcf46b",
+    "question": "___ people visit this remote valley.",
+    "options": [
+      "Few",
+      "A few",
+      "Little",
+      "A little"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Few' (without 'a') = not many — negative tone.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "132b39c4d6a5",
+    "question": "We've made ___ progress on the project.",
+    "options": [
+      "few",
+      "little",
+      "a few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Little progress' — uncountable, negative tone.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "986ab27707e7",
+    "question": "There are ___ birds returning to the lake.",
+    "options": [
+      "a few",
+      "few",
+      "little",
+      "much"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A few' = some (positive) with countable nouns.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "3fb17e8dfb40",
+    "question": "We need ___ water for the trip.",
+    "options": [
+      "enough",
+      "several",
+      "many",
+      "few"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enough' works with both countable and uncountable.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "7a187040c688",
+    "question": "___ of the forest has been destroyed.",
+    "options": [
+      "Most",
+      "Many",
+      "Few",
+      "Several"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Most of' + uncountable or plural noun.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "256e567b842c",
+    "question": "Complete the sentence: She feels ___ when hiking.",
+    "options": [
+      "lyrics",
+      "at one with nature",
+      "work ethic",
+      "ritual"
+    ],
+    "correctIndex": 1,
+    "explanation": "'at one with nature' (в гармонии с природой). Full sentence: She feels at one with nature when hiking.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "ec0674fdbc4b",
+    "question": "Which word means 'экосистема'?",
+    "options": [
+      "rebellious",
+      "ecosystem",
+      "gig",
+      "short-term memory"
+    ],
+    "correctIndex": 1,
+    "explanation": "'ecosystem' means экосистема. Example: Pollution damages the entire ecosystem.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "bac4f2187a49",
+    "question": "Which word means 'дикая природа'?",
+    "options": [
+      "plot twist",
+      "venue",
+      "wilderness",
+      "procrastinate"
+    ],
+    "correctIndex": 2,
+    "explanation": "'wilderness' means дикая природа. Example: They camped deep in the wilderness.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "e19509182cbd",
+    "question": "She ___ earn a fortune. (I'm almost sure)",
+    "options": [
+      "must",
+      "can't",
+      "might not",
+      "needn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Must' for strong deduction about the present.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "e755151aafbd",
+    "question": "They ___ be short of money. (I doubt it)",
+    "options": [
+      "must",
+      "can't",
+      "should",
+      "would"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can't' for negative deduction.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "0d75760243e5",
+    "question": "He ___ live abroad. (it's possible)",
+    "options": [
+      "must",
+      "might",
+      "can't",
+      "won't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Might/may/could' for possibility.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "0b7dafaf773d",
+    "question": "I bet she ___ used to luxury.",
+    "options": [
+      "is",
+      "was",
+      "has",
+      "does"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I bet' + present tense for speculation.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "38258863d267",
+    "question": "There's no way she ___ this alone.",
+    "options": [
+      "does",
+      "did",
+      "has done",
+      "is doing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'There's no way' + present for strong disbelief.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "c8be2aaeefe9",
+    "question": "I reckon he ___ incredibly hard.",
+    "options": [
+      "work",
+      "works",
+      "is working",
+      "worked"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I reckon' + present simple for opinion.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "25a49dceb1c7",
+    "question": "It's highly ___ that he's self-made.",
+    "options": [
+      "likely",
+      "impossible",
+      "unlikely",
+      "bound"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It's highly likely that…' for strong probability.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "cdc4e9540bbb",
+    "question": "Which word means 'минималистичный'?",
+    "options": [
+      "minimalist",
+      "endorphins",
+      "encore",
+      "mission"
+    ],
+    "correctIndex": 0,
+    "explanation": "'minimalist' means минималистичный. Example: He follows a minimalist lifestyle.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "fb7b2d4005de",
+    "question": "Which word means 'роскошный'?",
+    "options": [
+      "reliable",
+      "luxurious",
+      "suspicious",
+      "memorable"
+    ],
+    "correctIndex": 1,
+    "explanation": "'luxurious' means роскошный. Example: They live in a luxurious apartment.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "6e3eacc4e84b",
+    "question": "Complete the sentence: The spy seemed to ___.",
+    "options": [
+      "lead a double life",
+      "solitude",
+      "cliffhanger",
+      "recharge"
+    ],
+    "correctIndex": 0,
+    "explanation": "'lead a double life' (вести двойную жизнь). Full sentence: The spy seemed to lead a double life.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "7593cf82a05e",
+    "question": "After the hike I was absolutely ___.",
+    "options": [
+      "tired",
+      "exhausted",
+      "very tired",
+      "tiring"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Exhausted' is an extreme adjective — no 'very' needed.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "1df5b0e3c6ed",
+    "question": "The room was ___ — it hadn't been cleaned for weeks.",
+    "options": [
+      "very dirty",
+      "dirty",
+      "filthy",
+      "dirt"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Filthy' = extremely dirty.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "893b0730a8e0",
+    "question": "I was ___ when I heard the news.",
+    "options": [
+      "very surprised",
+      "surprised",
+      "astonished",
+      "surprising"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Astonished/stunned' = extremely surprised.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "2d95c9188383",
+    "question": "Which is an extreme adjective?",
+    "options": [
+      "hungry",
+      "starving",
+      "a bit hungry",
+      "quite hungry"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Starving' replaces 'very hungry'.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "afa7803c8493",
+    "question": "The film was absolutely ___!",
+    "options": [
+      "good",
+      "fantastic",
+      "very good",
+      "well"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Fantastic/brilliant' are extreme adjectives for 'very good'.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "10993c2c8cd5",
+    "question": "She was ___ at the unexpected question.",
+    "options": [
+      "very stunned",
+      "stunned",
+      "stunning",
+      "stun"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Stunned' = extremely surprised; don't add 'very'.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "1084aa473961",
+    "question": "Which sentence is natural?",
+    "options": [
+      "I was very furious.",
+      "I was furious.",
+      "I was very furiously.",
+      "I furious was."
+    ],
+    "correctIndex": 1,
+    "explanation": "Extreme adjectives like 'furious' are used without 'very'.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "27f9cdde8115",
+    "question": "Which word means 'достопримечательность'?",
+    "options": [
+      "landmark",
+      "routine",
+      "colleague",
+      "tactful"
+    ],
+    "correctIndex": 0,
+    "explanation": "'landmark' means достопримечательность. Example: The castle is a famous landmark.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "56fb5c27505f",
+    "question": "Which word means 'предок'?",
+    "options": [
+      "streaming",
+      "thrilled",
+      "ancestor",
+      "unconventional"
+    ],
+    "correctIndex": 2,
+    "explanation": "'ancestor' means предок. Example: My ancestors came from Ireland.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "efee4858dbe6",
+    "question": "Choose the correct collocation: Visiting the museum felt like stepping back in time.",
+    "options": [
+      "step back in time",
+      "stubborn",
+      "relieved",
+      "collaborate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'step back in time' (вернуться в прошлое). Full sentence: Visiting the museum felt like stepping back in time.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "09789ab911a8",
+    "question": "The festival ___ takes place in July is eco-friendly.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Defining clause for things → 'which/that'.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "fd5f9878e1b7",
+    "question": "Glastonbury, ___ is in Somerset, is world-famous.",
+    "options": [
+      "that",
+      "which",
+      "who",
+      "where"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining clause → 'which', not 'that'.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "a9fb6ded6ed6",
+    "question": "The band ___ we saw was amazing.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Object relative pronoun for things — 'which/that' (can be omitted).",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "f1b758b1771c",
+    "question": "The town ___ the festival is held is small.",
+    "options": [
+      "which",
+      "where",
+      "whose",
+      "who"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Where' for places.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "8528b30bc81e",
+    "question": "The artist ___ album won is performing tonight.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Whose' shows possession.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "af07d687777d",
+    "question": "My brother, ___ lives in Berlin, is coming too.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "where"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining clause for people → 'who' (not 'that').",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "0d489ff1cb6b",
+    "question": "People ___ love music come from everywhere.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subject relative pronoun for people → 'who'.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "cfb904ce88b6",
+    "question": "Which word means 'быть хедлайнером'?",
+    "options": [
+      "innovation",
+      "headline",
+      "fib",
+      "global issue"
+    ],
+    "correctIndex": 1,
+    "explanation": "'headline' means быть хедлайнером. Example: A famous DJ will headline the festival.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "10f9e70e0dd8",
+    "question": "Which word means 'экологичный'?",
+    "options": [
+      "wellbeing",
+      "global issue",
+      "eco-friendly",
+      "innovation"
+    ],
+    "correctIndex": 2,
+    "explanation": "'eco-friendly' means экологичный. Example: They organised an eco-friendly festival.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "93287fe77d4a",
+    "question": "Choose the correct collocation: The singer pulled out at the last minute.",
+    "options": [
+      "ancestor",
+      "pull out",
+      "co-living",
+      "thrilled"
+    ],
+    "correctIndex": 1,
+    "explanation": "'pull out' (отказаться от участия). Full sentence: The singer pulled out at the last minute.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "71f73ef8e60d",
+    "question": "___ was at the theatre that I met her.",
+    "options": [
+      "It",
+      "There",
+      "That",
+      "What"
+    ],
+    "correctIndex": 0,
+    "explanation": "It-cleft: It was + focus + that + clause.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "e7d853989d3b",
+    "question": "It was John ___ gave me the tickets.",
+    "options": [
+      "which",
+      "who",
+      "that",
+      "whose"
+    ],
+    "correctIndex": 1,
+    "explanation": "It was + person + who (or that).",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "b6b35259f3e3",
+    "question": "___ I love is the atmosphere.",
+    "options": [
+      "What",
+      "That",
+      "Which",
+      "It"
+    ],
+    "correctIndex": 0,
+    "explanation": "What-cleft: What + clause + is/was.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "0a1d9940e7be",
+    "question": "___ surprised me was her confidence.",
+    "options": [
+      "What",
+      "It",
+      "That",
+      "Which"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What surprised me was…' — wh-cleft.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "2eda11126eac",
+    "question": "___ I want is a chance to perform.",
+    "options": [
+      "All what",
+      "All that",
+      "All which",
+      "What all"
+    ],
+    "correctIndex": 1,
+    "explanation": "'All (that) I want' — relative clause with 'that'.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "99a9ad78d2b0",
+    "question": "Choose the cleft sentence.",
+    "options": [
+      "I met her at the theatre.",
+      "At the theatre I met her.",
+      "It was at the theatre that I met her.",
+      "The theatre is where I met her it."
+    ],
+    "correctIndex": 2,
+    "explanation": "Cleft structure emphasises 'at the theatre'.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "b4c338bded58",
+    "question": "It ___ her voice that moved the audience.",
+    "options": [
+      "is",
+      "was",
+      "were",
+      "has"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past event → 'It was… that'.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "955f1a05f239",
+    "question": "Which word means 'репетиция'?",
+    "options": [
+      "rehearsal",
+      "custom",
+      "optimistic",
+      "rebellious"
+    ],
+    "correctIndex": 0,
+    "explanation": "'rehearsal' means репетиция. Example: We have a final rehearsal tomorrow.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "eda0bf58d939",
+    "question": "Complete the sentence: Don't worry if you ___ — keep going.",
+    "options": [
+      "delighted",
+      "nomadic",
+      "mess up",
+      "melody"
+    ],
+    "correctIndex": 2,
+    "explanation": "'mess up' (облажаться). Full sentence: Don't worry if you mess up — keep going.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "b13e0af0d9cb",
+    "question": "Choose the correct collocation: She really comes alive on stage.",
+    "options": [
+      "remorse",
+      "come alive",
+      "century",
+      "commitment"
+    ],
+    "correctIndex": 1,
+    "explanation": "'come alive' (оживать, расцветать). Full sentence: She really comes alive on stage.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  }
+]

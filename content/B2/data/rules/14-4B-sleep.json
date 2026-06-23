@@ -1,0 +1,13 @@
+{
+  "id": "4B-sleep",
+  "order": 14,
+  "unit": "Unit 4 — Lifestyle",
+  "title": "Sleep",
+  "contentMd": "## Passive voice — пассивный залог\n\n### Простая суть\n\nПассив сдвигает фокус с «кто сделал» на «что произошло». В статьях о здоровье и сне так говорят о фактах и исследованиях — неважно, кто именно их провёл.\n\n### Как это работает\n\n- **be + V3** в нужном времени\n- Present: *is/are + done* | Past: *was/were + done*\n- Perfect: *has/have been + done* | Future: *will be + done*\n- Агент: **by + noun** | Разговорно: **get + V3**\n\n### Живые примеры\n\n- Sleep **is affected** by stress and screen time. — На сон влияют стресс и экраны.\n- The study **was conducted** on over 2,000 adults. — Исследование провели на более чем 2000 взрослых.\n- New guidelines **have been published** this month. — В этом месяце опубликовали новые рекомендации.\n- I **got woken** up by the neighbour's alarm at 5 a.m. — Соседский будильник разбудил меня в пять утра.\n\n### Лайфхак для запоминания\n\nВажен факт, не автор → passive. Нужен исполнитель → **by**. Разговорно и эмоционально → **get + V3**.",
+  "examples": [
+    "Sleep **is affected** by stress and screen time.",
+    "The study **was conducted** on over 2,000 adults.",
+    "New guidelines **have been published** this month.",
+    "I **got woken** up by the neighbour's alarm at 5 a.m."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "lessonId": "7B-i-wish",
+  "title": "I wish! — новые слова",
+  "items": [
+    {
+      "term": "regret",
+      "translation": "сожаление",
+      "example": "He expressed deep regret."
+    },
+    {
+      "term": "opportunity",
+      "translation": "возможность",
+      "example": "I missed a great opportunity."
+    },
+    {
+      "term": "missed chance",
+      "translation": "упущенный шанс",
+      "example": "It was a missed chance I'll never forget."
+    },
+    {
+      "term": "hindsight",
+      "translation": "задним числом",
+      "example": "In hindsight, I made the wrong choice."
+    },
+    {
+      "term": "remorse",
+      "translation": "угрызения совести",
+      "example": "She felt remorse for years."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lessonId": "2A-real-or-virtual",
+  "title": "Real or virtual? — фразы",
+  "items": [
+    {
+      "phrase": "keep up with",
+      "translation": "успевать за, не отставать",
+      "example": "It's hard to keep up with new technology."
+    },
+    {
+      "phrase": "phase out",
+      "translation": "постепенно отменять",
+      "example": "They're phasing out old systems."
+    },
+    {
+      "phrase": "on the horizon",
+      "translation": "на горизонте, впереди",
+      "example": "Major changes are on the horizon."
+    }
+  ]
+}

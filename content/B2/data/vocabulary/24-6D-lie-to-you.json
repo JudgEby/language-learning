@@ -1,0 +1,31 @@
+{
+  "lessonId": "6D-lie-to-you",
+  "title": "Would I lie to you? — новые слова",
+  "items": [
+    {
+      "term": "bluff",
+      "translation": "блефовать",
+      "example": "I think he's bluffing."
+    },
+    {
+      "term": "convincing",
+      "translation": "убедительный",
+      "example": "Her story sounded convincing."
+    },
+    {
+      "term": "genuine",
+      "translation": "искренний, подлинный",
+      "example": "Was his apology genuine?"
+    },
+    {
+      "term": "suspicious",
+      "translation": "подозрительный",
+      "example": "That explanation sounds suspicious."
+    },
+    {
+      "term": "fib",
+      "translation": "небольшая ложь",
+      "example": "It's just a little fib — no harm done."
+    }
+  ]
+}

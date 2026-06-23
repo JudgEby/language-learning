@@ -1,0 +1,31 @@
+{
+  "lessonId": "8D-second-shot",
+  "title": "Second shot — новые слова",
+  "items": [
+    {
+      "term": "mission",
+      "translation": "миссия",
+      "example": "Our mission is to reduce waste."
+    },
+    {
+      "term": "volunteer",
+      "translation": "волонтёр",
+      "example": "She works as a volunteer."
+    },
+    {
+      "term": "initiative",
+      "translation": "инициатива",
+      "example": "The local initiative supports refugees."
+    },
+    {
+      "term": "impact",
+      "translation": "влияние, эффект",
+      "example": "The project had a real impact."
+    },
+    {
+      "term": "empower",
+      "translation": "давать силы, расширять возможности",
+      "example": "Education empowers communities."
+    }
+  ]
+}

@@ -3,9 +3,11 @@
   "order": 2,
   "unit": "Unit 1 — Identity",
   "title": "Memory",
-  "contentMd": "## To infinitive и -ing\n\n- После **be** — *to*: *My idea is to build an app.*\n- **Цель** — *to* или формально **so as (not) to**: *She ran so as not to be late.*\n- После **предлога** — только **-ing**: *by working hard.*\n\n### try / remember / forget / stop + to или -ing — разный смысл\n\n| Конструкция | Значение |\n|---|---|\n| *try to do* | пытаться сделать |\n| *try doing* | попробовать как вариант |\n| *remember to do* | не забыть сделать |\n| *remember doing* | помнить, что делал |\n| *forget to do* | забыть сделать |\n| *forget doing* | не помнить, что делал |\n| *stop to do* | остановиться, чтобы сделать другое |\n| *stop doing* | перестать делать |",
+  "contentMd": "## To infinitive и -ing\n\n### Простая суть\n\nПосле одних глаголов нужен **to do**, после других — **doing**. А ещё одни и те же глаголы (*try, remember, stop*) меняют смысл в зависимости от формы — как переключатель «до / во время / после».\n\n### Как это работает\n\n- После **be** → **to**: *My idea is to…*\n- Цель → **to** / **so as (not) to**\n- После предлога → только **-ing**: *by working…*\n- **try to** = пытаться | **try doing** = попробовать способ\n- **remember to** = не забыть | **remember doing** = помнить факт\n- **stop to** = остановиться, чтобы | **stop doing** = бросить\n\n### Живые примеры\n\n- My idea is **to build** an app that helps people memorise words. — Моя идея — сделать приложение для запоминания слов.\n- I **remember locking** the door, but I can't find my keys. — Помню, что запирал дверь, но ключей нет.\n- Don't forget **to set** an alarm — the exam is at 8. — Не забудь поставить будильник — экзамен в 8.\n- She **stopped to have** a coffee on her way to work. — Она остановилась выпить кофе по дороге на работу.\n\n### Лайфхак для запоминания\n\nСпроси: «Это про план/цель (to) или про процесс/воспоминание (-ing)?» У *stop* спроси: «Остановилась ради чего-то (to) или перестала делать (doing)?»",
   "examples": [
-    "My idea is to build an app.",
-    "She stopped to have a coffee on her way."
+    "My idea is **to build** an app that helps people memorise words.",
+    "I **remember locking** the door, but I can't find my keys.",
+    "Don't forget **to set** an alarm — the exam is at 8.",
+    "She **stopped to have** a coffee on her way to work."
   ]
 }

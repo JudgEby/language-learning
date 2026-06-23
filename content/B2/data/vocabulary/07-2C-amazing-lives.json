@@ -1,0 +1,31 @@
+{
+  "lessonId": "2C-amazing-lives",
+  "title": "Amazing lives — новые слова",
+  "items": [
+    {
+      "term": "nomadic",
+      "translation": "кочевой",
+      "example": "They lead a nomadic lifestyle."
+    },
+    {
+      "term": "luxurious",
+      "translation": "роскошный",
+      "example": "They live in a luxurious apartment."
+    },
+    {
+      "term": "minimalist",
+      "translation": "минималистичный",
+      "example": "He follows a minimalist lifestyle."
+    },
+    {
+      "term": "self-sufficient",
+      "translation": "самодостаточный",
+      "example": "They grow their own food and are self-sufficient."
+    },
+    {
+      "term": "unconventional",
+      "translation": "нетрадиционный",
+      "example": "Her career path has been unconventional."
+    }
+  ]
+}

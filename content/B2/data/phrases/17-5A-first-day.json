@@ -1,0 +1,21 @@
+{
+  "lessonId": "5A-first-day",
+  "title": "First day! — фразы",
+  "items": [
+    {
+      "phrase": "break the ice",
+      "translation": "растопить лёд",
+      "example": "Coffee breaks help break the ice."
+    },
+    {
+      "phrase": "find your feet",
+      "translation": "освоиться",
+      "example": "It took me a month to find my feet."
+    },
+    {
+      "phrase": "hit the ground running",
+      "translation": "сразу включиться в работу",
+      "example": "She hit the ground running on day one."
+    }
+  ]
+}

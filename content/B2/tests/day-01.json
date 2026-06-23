@@ -1,67 +1,752 @@
 [
   {
-    "id": "ec912d2498d4",
+    "id": "abee48d14f98",
     "question": "Which sentence is correct?",
     "options": [
-      "I have been knowing him for years.",
-      "I have known him for years.",
-      "I am knowing him for years.",
-      "I know him since 2020."
+      "I have been knowing her for years.",
+      "I have known her for years.",
+      "I am knowing her since 2020.",
+      "I know her since five years."
     ],
     "correctIndex": 1,
-    "explanation": "State verbs like 'know' are not used in continuous forms. Use Present Perfect Simple: 'I have known him for years.'",
-    "relatedRuleIds": ["1A-my-id"]
+    "explanation": "State verbs like 'know' are not used in continuous forms. Use Present Perfect Simple.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
   },
   {
-    "id": "867cb42c9563",
-    "question": "Choose the best answer: How long ___ you ___ English?",
+    "id": "71b323a30d2d",
+    "question": "How long ___ you ___ English?",
     "options": [
-      "do / study",
-      "have / studied",
-      "have / been studying",
-      "are / studying"
+      "do … study",
+      "have … been studying",
+      "are … studying",
+      "did … study"
+    ],
+    "correctIndex": 1,
+    "explanation": "'How long' with an ongoing action favours Present Perfect Continuous.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "6fc446addd9e",
+    "question": "We've ___ forty people today. (number completed)",
+    "options": [
+      "been interviewing",
+      "interviewed",
+      "interviewing",
+      "been interviewed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'How many' → Present Perfect Simple — focus on the result/count.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "2055a2f057d0",
+    "question": "She's ___ Mandarin for two years and still isn't fluent.",
+    "options": [
+      "learnt",
+      "been learning",
+      "learning",
+      "learns"
+    ],
+    "correctIndex": 1,
+    "explanation": "An unfinished ongoing action → Present Perfect Continuous.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "9b83fd7e66dd",
+    "question": "Which sentence is correct?",
+    "options": [
+      "He's passed all his exams.",
+      "He's been passing all his exams.",
+      "He passed all his exams already.",
+      "He's pass all his exams."
+    ],
+    "correctIndex": 0,
+    "explanation": "Completed achievement with present relevance → Present Perfect Simple.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "45253452830b",
+    "question": "I ___ five emails this morning.",
+    "options": [
+      "have been sending",
+      "have sent",
+      "am sending",
+      "was sending"
+    ],
+    "correctIndex": 1,
+    "explanation": "Completed actions in an unfinished time period (this morning) → Present Perfect Simple.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "94e50759873d",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "We've been waiting since forty minutes.",
+      "We've waited for forty minutes!",
+      "We've been waiting for forty minutes!",
+      "We wait forty minutes."
     ],
     "correctIndex": 2,
-    "explanation": "With 'How long' about an ongoing action, Present Perfect Continuous is natural: 'How long have you been studying English?'",
-    "relatedRuleIds": ["1A-my-id"]
+    "explanation": "'How long' + ongoing wait → Present Perfect Continuous with 'for'.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
   },
   {
-    "id": "08937f854e99",
-    "question": "Which is correct?",
+    "id": "70833f7f8e0b",
+    "question": "Which word means 'любящий приключения'?",
     "options": [
-      "My idea is building an app.",
-      "My idea is to build an app.",
-      "My idea is build an app.",
-      "My idea building an app."
+      "adventurous",
+      "streaming",
+      "affordable housing",
+      "multitask"
+    ],
+    "correctIndex": 0,
+    "explanation": "'adventurous' means любящий приключения. Example: She's adventurous and loves travelling.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "f75d18854e49",
+    "question": "Which word means 'оптимистичный'?",
+    "options": [
+      "colleague",
+      "circadian rhythm",
+      "optimistic",
+      "custom"
+    ],
+    "correctIndex": 2,
+    "explanation": "'optimistic' means оптимистичный. Example: He's always optimistic about the future.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "5e647a23e045",
+    "question": "Which word means 'амбициозный'?",
+    "options": [
+      "ambitious",
+      "custom",
+      "thrilled",
+      "ritual"
+    ],
+    "correctIndex": 0,
+    "explanation": "'ambitious' means амбициозный. Example: She's very ambitious and works hard.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "5c20f3ff21b4",
+    "question": "My idea is ___ an app.",
+    "options": [
+      "building",
+      "to build",
+      "build",
+      "built"
     ],
     "correctIndex": 1,
-    "explanation": "After 'be' (My idea is...), we use the infinitive with 'to': 'My idea is to build an app.'",
-    "relatedRuleIds": ["1B-memory"]
+    "explanation": "After 'be' (is), use to-infinitive.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
   },
   {
-    "id": "80a81a4a79fa",
-    "question": "Remember ___ the door before you leave.",
+    "id": "3af9d26c82db",
+    "question": "She stopped ___ a coffee on her way.",
+    "options": [
+      "having",
+      "to have",
+      "have",
+      "had"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Stop to do' = stop in order to do something else.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "1e951456ae8d",
+    "question": "She stopped ___ coffee last year.",
+    "options": [
+      "to drink",
+      "drinking",
+      "drink",
+      "drunk"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Stop doing' = give up a habit.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "b720ba5b420a",
+    "question": "I remember ___ the door. (I did it)",
     "options": [
       "to lock",
       "locking",
       "lock",
       "locked"
     ],
-    "correctIndex": 0,
-    "explanation": "'Remember to do' means don't forget to do something in the future. 'Remember to lock the door.'",
-    "relatedRuleIds": ["1B-memory"]
+    "correctIndex": 1,
+    "explanation": "'Remember doing' = recall a past action.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
   },
   {
-    "id": "945c1e90625a",
-    "question": "She stopped ___ a coffee on her way.",
+    "id": "952140dfa846",
+    "question": "Don't forget ___ your keys.",
     "options": [
-      "to have",
-      "having",
-      "have",
-      "had"
+      "taking",
+      "to take",
+      "take",
+      "taken"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Forget to do' = fail to do something.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "6ba6bf5dfb25",
+    "question": "Try ___ harder — you might pass.",
+    "options": [
+      "to work",
+      "working",
+      "work",
+      "worked"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Try doing' = experiment with a different method.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "48c87f0d59ab",
+    "question": "She ran quickly so as ___ late.",
+    "options": [
+      "not being",
+      "not to be",
+      "to not be",
+      "not be"
+    ],
+    "correctIndex": 1,
+    "explanation": "Purpose: 'so as (not) to' + infinitive.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "41719cfe6bac",
+    "question": "Choose the correct collocation: We had to learn the poem by heart.",
+    "options": [
+      "streaming",
+      "mindfulness",
+      "impulsive",
+      "learn by heart"
+    ],
+    "correctIndex": 3,
+    "explanation": "'learn by heart' (выучить наизусть). Full sentence: We had to learn the poem by heart.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "cc200874c270",
+    "question": "Complete the sentence: Could you ___ about what happened?",
+    "options": [
+      "perfect recall",
+      "talent",
+      "refresh my memory",
+      "melody"
+    ],
+    "correctIndex": 2,
+    "explanation": "'refresh my memory' (освежить в памяти). Full sentence: Could you refresh my memory about what happened?",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "514b8489dfeb",
+    "question": "Which word means 'точное воспроизведение'?",
+    "options": [
+      "perfect recall",
+      "aspiration",
+      "cliffhanger",
+      "sedentary"
     ],
     "correctIndex": 0,
-    "explanation": "'Stop to do' means pause in order to do something else. She stopped (walking) to have a coffee.",
-    "relatedRuleIds": ["1B-memory"]
+    "explanation": "'perfect recall' means точное воспроизведение. Example: She has perfect recall of every detail.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "cb2f43e23805",
+    "question": "I'd rather ___ at home tonight.",
+    "options": [
+      "staying",
+      "stay",
+      "to stay",
+      "stayed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd rather' + bare infinitive (no 'to').",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "28258549f42a",
+    "question": "I'd rather you ___ smoke in here.",
+    "options": [
+      "don't",
+      "didn't",
+      "won't",
+      "not"
+    ],
+    "correctIndex": 1,
+    "explanation": "With a different subject after 'rather', use past simple.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "3086d8f8a9ad",
+    "question": "I'd prefer ___ in the morning.",
+    "options": [
+      "meeting",
+      "to meet",
+      "meet",
+      "met"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd prefer' + to-infinitive.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "6defc7958167",
+    "question": "I'd prefer it if you ___ before visiting.",
+    "options": [
+      "call",
+      "called",
+      "will call",
+      "calling"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd prefer it if' + past simple for other people.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "fcc760acb6ca",
+    "question": "I prefer reading ___ watching TV.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Prefer -ing to -ing' is the standard pattern.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "4d0525be1776",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I'd much rather to go by train.",
+      "I'd much rather go by train than fly.",
+      "I'd much rather going by train.",
+      "I'd much rather go by train than flying."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Much rather' + bare infinitive; 'than' + bare infinitive.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "db4b8b576589",
+    "question": "She ___ stay in a hotel than sleep on the floor.",
+    "options": [
+      "would rather",
+      "would prefer",
+      "would like",
+      "would want"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Would rather' expresses preference without 'to'.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "8ec70313c28e",
+    "question": "Choose the correct collocation: To be honest, I'd rather stay in.",
+    "options": [
+      "to be honest",
+      "carbon-neutral",
+      "binge-watch",
+      "step-by-step"
+    ],
+    "correctIndex": 0,
+    "explanation": "'to be honest' (если честно). Full sentence: To be honest, I'd rather stay in.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "a1c12090cf81",
+    "question": "Choose the correct collocation: If I had the choice, I'd live by the sea.",
+    "options": [
+      "wilderness",
+      "thrilled",
+      "if I had the choice",
+      "empower"
+    ],
+    "correctIndex": 2,
+    "explanation": "'if I had the choice' (если бы у меня был выбор). Full sentence: If I had the choice, I'd live by the sea.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "a63ba6bf7433",
+    "question": "Choose the correct collocation: Given the choice, I'd take the train.",
+    "options": [
+      "solitude",
+      "mindfulness",
+      "given the choice",
+      "nomadic"
+    ],
+    "correctIndex": 2,
+    "explanation": "'given the choice' (имея выбор). Full sentence: Given the choice, I'd take the train.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "27d49070d6b5",
+    "question": "___ I love parties, my sister prefers quiet evenings.",
+    "options": [
+      "While",
+      "During",
+      "Until",
+      "Since"
+    ],
+    "correctIndex": 0,
+    "explanation": "'While' can introduce contrasting ideas: 'whereas/although'.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "8337509450c9",
+    "question": "Tom is very organised, ___ his brother is chaotic.",
+    "options": [
+      "while",
+      "during",
+      "meanwhile",
+      "until"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Whereas/while' link contrasting facts about two subjects.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "23fd16cdf1c6",
+    "question": "Which connector is most formal?",
+    "options": [
+      "whereas",
+      "whilst",
+      "but",
+      "however"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Whilst' is more formal, especially in British English.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "c36ae02061c6",
+    "question": "___ he loves sport, she prefers art.",
+    "options": [
+      "Whilst",
+      "During",
+      "For",
+      "Since"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Whilst' introduces contrast (like 'whereas').",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "ccac9afab775",
+    "question": "Which sentence shows contrast (not time)?",
+    "options": [
+      "While I was cooking, he set the table.",
+      "While I enjoy cooking, I hate washing up.",
+      "While two hours, we waited.",
+      "While the oven, preheat it."
+    ],
+    "correctIndex": 1,
+    "explanation": "Here 'while' = 'although', contrasting two preferences.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "ffd64ca521c7",
+    "question": "She's very outgoing, ___ her twin is quite shy.",
+    "options": [
+      "whereas",
+      "because",
+      "so",
+      "if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Whereas' contrasts two people.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "2189575edd43",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Whilst enjoying city life, he prefers the countryside.",
+      "Whilst she enjoys city life, he prefers the countryside.",
+      "Whilst she enjoys city life, prefers he the countryside.",
+      "Whilst she enjoy city life, he prefers the countryside."
+    ],
+    "correctIndex": 1,
+    "explanation": "Two full clauses with normal word order after 'whilst'.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "8521e4c18c27",
+    "question": "Which word means 'сдержанный'?",
+    "options": [
+      "endangered",
+      "reserved",
+      "convincing",
+      "sector"
+    ],
+    "correctIndex": 1,
+    "explanation": "'reserved' means сдержанный. Example: He's quite reserved around strangers.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "0770cbf87054",
+    "question": "Which word means 'спонтанный'?",
+    "options": [
+      "circadian rhythm",
+      "thrilled",
+      "spontaneous",
+      "solitude"
+    ],
+    "correctIndex": 2,
+    "explanation": "'spontaneous' means спонтанный. Example: We made a spontaneous trip to the coast.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "8c312bf39e9d",
+    "question": "Choose the correct collocation: He comes across as confident.",
+    "options": [
+      "probation",
+      "track",
+      "come across as",
+      "delegate"
+    ],
+    "correctIndex": 2,
+    "explanation": "'come across as' (производить впечатление). Full sentence: He comes across as confident.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "0455753e6bca",
+    "question": "VR is ___ to become more popular.",
+    "options": [
+      "bound",
+      "likely",
+      "sure",
+      "unlikely"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be bound to' = almost certain to happen.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "4d9258941e06",
+    "question": "He's ___ to agree with that idea.",
+    "options": [
+      "bound",
+      "unlikely",
+      "certain",
+      "definitely"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Be unlikely to' + infinitive.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "59cbe2969724",
+    "question": "It's ___ that we'll work from home more.",
+    "options": [
+      "likely",
+      "bound",
+      "definitely",
+      "certainly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It's likely that' + clause.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "21308c00c7d8",
+    "question": "Robots probably ___ replace all jobs.",
+    "options": [
+      "will",
+      "won't",
+      "are",
+      "have"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Probably' with negative prediction → 'won't'.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "2493f5205ac5",
+    "question": "Technology ___ definitely change how we work.",
+    "options": [
+      "will",
+      "is",
+      "has",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Will definitely' for strong future certainty.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "101742ce32ea",
+    "question": "Prices ___ well fall next year.",
+    "options": [
+      "may",
+      "must",
+      "will",
+      "should"
+    ],
+    "correctIndex": 0,
+    "explanation": "'May/might/could well' = quite possible.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "0f1556ac993c",
+    "question": "Which sentence is correct?",
+    "options": [
+      "It's unlikely that prices will fall.",
+      "It's unlikely prices will to fall.",
+      "It's unlikely that prices falling.",
+      "It's unlikely for prices will fall."
+    ],
+    "correctIndex": 0,
+    "explanation": "'It's unlikely that' + subject + will + verb.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "cac8e5481519",
+    "question": "Which word means 'передовой'?",
+    "options": [
+      "lyrics",
+      "cutting-edge",
+      "communal",
+      "gifted"
+    ],
+    "correctIndex": 1,
+    "explanation": "'cutting-edge' means передовой. Example: They use cutting-edge technology.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "8f0c91b957b8",
+    "question": "Which word means 'искусственный интеллект'?",
+    "options": [
+      "humanitarian",
+      "cliffhanger",
+      "drowsy",
+      "artificial intelligence"
+    ],
+    "correctIndex": 3,
+    "explanation": "'artificial intelligence' means искусственный интеллект. Example: Artificial intelligence is advancing rapidly.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "6b1a1f3d5cce",
+    "question": "Which word means 'виртуальная реальность'?",
+    "options": [
+      "sustainability",
+      "virtual reality",
+      "delighted",
+      "cliffhanger"
+    ],
+    "correctIndex": 1,
+    "explanation": "'virtual reality' means виртуальная реальность. Example: Virtual reality is used in training simulations.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
   }
 ]

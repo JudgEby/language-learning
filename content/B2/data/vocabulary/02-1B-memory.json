@@ -2,9 +2,30 @@
   "lessonId": "1B-memory",
   "title": "Memory — новые слова",
   "items": [
-    { "term": "long-term memory", "translation": "долговременная память", "example": "Some facts stay in long-term memory for years." },
-    { "term": "short-term memory", "translation": "кратковременная память", "example": "Phone numbers are often in short-term memory." },
-    { "term": "perfect recall", "translation": "точное воспроизведение", "example": "She has perfect recall of every detail." },
-    { "term": "false memories", "translation": "ложные воспоминания", "example": "Research shows that false memories are common." }
+    {
+      "term": "long-term memory",
+      "translation": "долговременная память",
+      "example": "Some facts stay in long-term memory for years."
+    },
+    {
+      "term": "short-term memory",
+      "translation": "кратковременная память",
+      "example": "Phone numbers are often in short-term memory."
+    },
+    {
+      "term": "perfect recall",
+      "translation": "точное воспроизведение",
+      "example": "She has perfect recall of every detail."
+    },
+    {
+      "term": "false memories",
+      "translation": "ложные воспоминания",
+      "example": "Research shows that false memories are common."
+    },
+    {
+      "term": "memorable",
+      "translation": "запоминающийся",
+      "example": "It was a truly memorable experience."
+    }
   ]
 }

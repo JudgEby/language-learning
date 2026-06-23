@@ -1,0 +1,21 @@
+{
+  "lessonId": "6D-lie-to-you",
+  "title": "Would I lie to you? — фразы",
+  "items": [
+    {
+      "phrase": "tell the truth",
+      "translation": "говорить правду",
+      "example": "Just tell the truth."
+    },
+    {
+      "phrase": "make up (a story)",
+      "translation": "придумать (историю)",
+      "example": "Did you make that up?"
+    },
+    {
+      "phrase": "hard to believe",
+      "translation": "трудно поверить",
+      "example": "His excuse is hard to believe."
+    }
+  ]
+}

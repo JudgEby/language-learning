@@ -1,0 +1,21 @@
+{
+  "lessonId": "8A-new-way-of-living",
+  "title": "A new way of living — фразы",
+  "items": [
+    {
+      "phrase": "move in",
+      "translation": "въехать",
+      "example": "We moved in last month."
+    },
+    {
+      "phrase": "split the rent",
+      "translation": "делить аренду",
+      "example": "We split the rent equally."
+    },
+    {
+      "phrase": "feel at home",
+      "translation": "чувствовать себя как дома",
+      "example": "It took a while to feel at home."
+    }
+  ]
+}

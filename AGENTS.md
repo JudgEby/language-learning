@@ -6,6 +6,8 @@
 
 ```
 eng/
+├── prompts/
+│   └── rule-generation-style.md  # промпт стиля для генерации правил (редактируемый)
 ├── toExtract/{LEVEL}/          # PDF пособий (SB.pdf, WB.pdf) — локально; папки в git
 ├── content/{LEVEL}/            # сгенерированные данные
 │   ├── manifest.json           # метаданные уровня, порядок обучения и тестов
@@ -57,13 +59,13 @@ eng/
   "order": 1,
   "unit": "Unit 1 — Identity",
   "title": "My ID",
-  "contentMd": "## Present Perfect Simple and Continuous\n\nПростым языком...",
+  "contentMd": "## Present Perfect Simple and Continuous\n\n### Простая суть\n\n...",
   "examples": ["How long have you been studying English?"]
 }
 ```
 
 - `contentMd` — markdown, объяснения на **русском**, примеры на **английском**
-- Стиль: как лучший учитель — просто, с примерами, без академического жаргона
+- **Стиль и структура** — всегда следуй [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md): секции «Простая суть», «Как это работает», «Живые примеры», «Лайфхак для запоминания»
 
 ### Лексика — data/vocabulary/01-1A-my-id.json
 
@@ -141,37 +143,44 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 
 ---
 
-## Workflow: «Сгенерируй обучение для уровня B2»
+## Workflow: «Сгенерируй обучение для уровня {LEVEL}»
 
-1. Прочитать `content/B2/extract/SB.txt` — основной источник грамматики и структуры уроков
-2. Прочитать `content/B2/extract/WB.txt` — дополнительная лексика, фразы, идиомы из Workbook
-3. Определить порядок уроков по пособию (1A, 1B, 1C, 2A, …)
-4. Для каждого урока создать 4 JSON-файла в `data/rules/`, `data/vocabulary/`, `data/phrases/`, `data/idioms/`
-5. Обновить `content/B2/manifest.json`:
-   - `studyOrder` — плоский список: rule → vocabulary → phrases → idioms для каждого урока
+1. Прочитать **`prompts/rule-generation-style.md`** — обязательный стиль для поля `contentMd` в правилах
+2. Прочитать `content/{LEVEL}/extract/SB.txt` — основной источник грамматики и структуры уроков
+3. Прочитать `content/{LEVEL}/extract/WB.txt` — дополнительная лексика, фразы, идиомы из Workbook
+4. Определить порядок уроков по пособию (1A, 1B, 1C, 2A, …)
+5. Для каждого урока создать 4 JSON-файла в `data/rules/`, `data/vocabulary/`, `data/phrases/`, `data/idioms/`
+6. Обновить `content/{LEVEL}/manifest.json`:
    - `title` — человекочитаемое название уровня
-6. Не перезаписывать `extract/` — только `data/` и `manifest.json`
+   - `studyOrder` — можно пересобрать: `python scripts/sync_level.py {LEVEL}`
+7. Не перезаписывать `extract/` — только `data/` и `manifest.json`
+8. Проверить: `python scripts/validate_level.py {LEVEL}`
 
 **Стиль контента:**
-- Объяснения правил — простым языком, как лучший учитель
-- Примеры предложений — на английском
+- Правила (`contentMd`) — строго по `prompts/rule-generation-style.md`
+- Примеры предложений в правилах — на английском
 - Переводы слов/фраз — на русском
 - Включать материал из Workbook, где он дополняет урок
 
 ---
 
-## Workflow: «Сгенерируй тесты для уровня B2 на N дней по 1 часу»
+## Workflow: «Сгенерируй тесты для уровня {LEVEL} на N дней»
 
-1. Прочитать сгенерированные правила в `content/B2/data/rules/`
+**Вариант A — агент пишет тесты целиком:**
+
+1. Прочитать правила в `content/{LEVEL}/data/rules/`
 2. Рассчитать ~15–20 вопросов на день (≈1 час)
 3. Создать `tests/day-01.json` … `tests/day-NN.json`
-4. Каждый вопрос:
-   - ≤4 варианта, все на английском
-   - `correctIndex` (0-based)
-   - `explanation` — почему ответ верный/неверный
-   - `relatedRuleIds` — связанные правила
-   - `id` — по формуле хэша выше
-5. Обновить `manifest.json` → `testDays`: `["day-01", "day-02", ...]`
+4. Каждый вопрос: ≤4 варианта, `correctIndex`, `explanation`, `relatedRuleIds`, `id` по формуле хэша
+5. Обновить `manifest.json` → `testDays`
+6. `python scripts/fix_test_ids.py {LEVEL}` и `python scripts/validate_level.py {LEVEL}`
+
+**Вариант B — сборка из плана + лексика:**
+
+1. Скопировать шаблон `prompts/test-plan.example.json` → `content/{LEVEL}/test_plan.json`
+2. Грамматические вопросы (без `id`) — в `content/{LEVEL}/tests/sources/{lessonId}.json` (см. `prompts/grammar-questions.example.json`)
+3. `python scripts/assemble_tests.py {LEVEL}` — дополнит дни лексическими вопросами из vocabulary/phrases
+4. `python scripts/validate_level.py {LEVEL}`
 
 **Типы вопросов:** выбор правильного предложения, грамматика, лексика в контексте, коллокации.
 
@@ -179,20 +188,23 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 
 ## Workflow: «Правила возьми из такого-то файла»
 
+Перед генерацией прочитать **`prompts/rule-generation-style.md`**.
+
 Пользователь может указать конкретный источник:
 - `content/B2/extract/SB.txt` — сырой текст пособия
 - `content/B2/data/rules/01-1A-my-id.json` — уже сгенерированное правило
-- `KONSPEKT_Speakout_B2.md` — человеческий конспект (референс, не используется приложением)
 
-Использовать указанный файл как основной источник для генерации.
+Использовать указанный файл как основной источник для генерации; переписать грамматику в `contentMd` по промпту стиля.
 
 ---
 
 ## Проверка перед завершением
 
+Запустить `python scripts/validate_level.py {LEVEL}` или вручную:
+
 - [ ] Все JSON валидны
 - [ ] `id` в файлах совпадают с именами и `studyOrder`
-- [ ] `studyOrder` отражает порядок пособия
-- [ ] У каждого теста вычислен `id` по формуле
+- [ ] `studyOrder` отражает порядок пособия (`sync_level.py` при необходимости)
+- [ ] У каждого теста вычислен `id` по формуле (`fix_test_ids.py` при необходимости)
 - [ ] Не более 4 вариантов в каждом вопросе
 - [ ] `relatedRuleIds` ссылаются на существующие правила

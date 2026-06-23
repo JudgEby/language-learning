@@ -1,0 +1,31 @@
+{
+  "lessonId": "3D-music-lover",
+  "title": "Music lover? — новые слова",
+  "items": [
+    {
+      "term": "gig",
+      "translation": "концерт (неформально)",
+      "example": "We're going to a gig on Saturday."
+    },
+    {
+      "term": "lyrics",
+      "translation": "текст песни",
+      "example": "I never understand the lyrics."
+    },
+    {
+      "term": "melody",
+      "translation": "мелодия",
+      "example": "The melody is incredibly catchy."
+    },
+    {
+      "term": "genre",
+      "translation": "жанр",
+      "example": "What genre of music do you prefer?"
+    },
+    {
+      "term": "track",
+      "translation": "трек",
+      "example": "This is my favourite track on the album."
+    }
+  ]
+}

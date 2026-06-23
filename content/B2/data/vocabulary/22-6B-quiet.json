@@ -1,0 +1,31 @@
+{
+  "lessonId": "6B-quiet",
+  "title": "Quiet — новые слова",
+  "items": [
+    {
+      "term": "introvert",
+      "translation": "интроверт",
+      "example": "As an introvert, she needs quiet time."
+    },
+    {
+      "term": "extrovert",
+      "translation": "экстраверт",
+      "example": "Extroverts gain energy from socialising."
+    },
+    {
+      "term": "recharge",
+      "translation": "восстанавливать силы",
+      "example": "I need alone time to recharge."
+    },
+    {
+      "term": "overstimulated",
+      "translation": "перегруженный (стимулами)",
+      "example": "Open offices leave me overstimulated."
+    },
+    {
+      "term": "solitude",
+      "translation": "уединение",
+      "example": "She enjoys moments of solitude."
+    }
+  ]
+}

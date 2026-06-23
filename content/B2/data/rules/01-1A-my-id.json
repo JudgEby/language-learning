@@ -3,9 +3,11 @@
   "order": 1,
   "unit": "Unit 1 — Identity",
   "title": "My ID",
-  "contentMd": "## Present Perfect Simple и Continuous\n\nОба времени связывают прошлое с настоящим. Часто с *live, work, study* можно сказать и так и так: *I've lived here* ≈ *I've been living here*.\n\n- **Simple** — акцент на **результате**: *He's passed all his exams.*\n- **Continuous** — на **процессе**: *He's been studying for his exams.*\n- На вопросы **How many / How much / How far** → чаще **simple**: *We've interviewed 100 people.*\n- На **How long** или долгое действие → **continuous**: *We've been waiting forty minutes!*\n- **Завершённое** сейчас → simple (*I've missed the bus*). **Ещё не закончено** → continuous (*I've been learning Mandarin*).\n- Глаголы состояния (*know, believe, own*…) — **только simple**, не *been knowing*. С *always / ever / never* — **simple**: *I've always baked my own bread.*",
+  "contentMd": "## Present Perfect Simple и Continuous\n\n### Простая суть\n\nОба времени говорят: «это связано с сейчас». Представь два фотоальбома: **Simple** — снимок «готово!» (результат), **Continuous** — видео «ещё в процессе». С глаголами вроде *know, believe, own* continuous не используем — нельзя «знать в процессе».\n\n### Как это работает\n\n- **Simple:** have/has + V3 → результат, факт, «сколько раз»\n- **Continuous:** have/has been + -ing → процесс, «как долго»\n- **How many/much/far?** → чаще simple\n- **How long?** → чаще continuous\n- Завершено сейчас → simple; ещё продолжается → continuous\n\n### Живые примеры\n\n- **How long have you been studying** English? — I've **been studying** for three years. — Сколько ты уже учишь английский? — Учу уже три года.\n- I've **sent** five emails this morning — my inbox is empty now. — Я отправил пять писем сегодня утром — входящие пустые.\n- She's **passed** all her exams! We're so proud. — Она сдала все экзамены! Мы так гордимся.\n- We've **been waiting** forty minutes — where is the bus? — Мы ждём уже сорок минут — где автобус?\n\n### Лайфхак для запоминания\n\nСпроси себя: «Мне важен результат или сам процесс?» Результат → Simple. Процесс и длительность → Continuous. А если глагол про чувство или знание — только Simple, без «been knowing».",
   "examples": [
-    "How long have you been studying English?",
-    "I've sent five emails this morning."
+    "**How long have you been studying** English? — I've **been studying** for three years.",
+    "I've **sent** five emails this morning — my inbox is empty now.",
+    "She's **passed** all her exams! We're so proud.",
+    "We've **been waiting** forty minutes — where is the bus?"
   ]
 }

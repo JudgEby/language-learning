@@ -1,0 +1,31 @@
+{
+  "lessonId": "4D-ancient-traditions",
+  "title": "Ancient traditions — новые слова",
+  "items": [
+    {
+      "term": "heritage",
+      "translation": "наследие",
+      "example": "We must protect our cultural heritage."
+    },
+    {
+      "term": "custom",
+      "translation": "обычай",
+      "example": "It's a local custom to greet elders first."
+    },
+    {
+      "term": "ritual",
+      "translation": "ритуал",
+      "example": "The ceremony follows an ancient ritual."
+    },
+    {
+      "term": "craftsmanship",
+      "translation": "мастерство, ремесло",
+      "example": "The pottery shows incredible craftsmanship."
+    },
+    {
+      "term": "preservation",
+      "translation": "сохранение",
+      "example": "Preservation of traditions is important."
+    }
+  ]
+}

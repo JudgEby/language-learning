@@ -2,8 +2,20 @@
   "lessonId": "1B-memory",
   "title": "Memory — фразы",
   "items": [
-    { "phrase": "learn by heart", "translation": "выучить наизусть", "example": "We had to learn the poem by heart." },
-    { "phrase": "refresh my memory", "translation": "освежить в памяти", "example": "Could you refresh my memory about what happened?" },
-    { "phrase": "on the tip of my tongue", "translation": "вертится на языке", "example": "His name is on the tip of my tongue." }
+    {
+      "phrase": "learn by heart",
+      "translation": "выучить наизусть",
+      "example": "We had to learn the poem by heart."
+    },
+    {
+      "phrase": "refresh my memory",
+      "translation": "освежить в памяти",
+      "example": "Could you refresh my memory about what happened?"
+    },
+    {
+      "phrase": "on the tip of my tongue",
+      "translation": "вертится на языке",
+      "example": "His name is on the tip of my tongue."
+    }
   ]
 }

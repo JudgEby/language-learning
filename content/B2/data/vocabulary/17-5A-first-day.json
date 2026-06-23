@@ -1,0 +1,31 @@
+{
+  "lessonId": "5A-first-day",
+  "title": "First day! — новые слова",
+  "items": [
+    {
+      "term": "induction",
+      "translation": "вводный инструктаж",
+      "example": "We had an induction on our first day."
+    },
+    {
+      "term": "probation",
+      "translation": "испытательный срок",
+      "example": "She's still on probation."
+    },
+    {
+      "term": "orientation",
+      "translation": "ориентация, адаптация",
+      "example": "Orientation lasts three days."
+    },
+    {
+      "term": "colleague",
+      "translation": "коллега",
+      "example": "My colleagues were very welcoming."
+    },
+    {
+      "term": "workplace",
+      "translation": "рабочее место",
+      "example": "I was nervous about the new workplace."
+    }
+  ]
+}

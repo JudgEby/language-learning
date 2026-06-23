@@ -1,0 +1,21 @@
+{
+  "lessonId": "2C-amazing-lives",
+  "title": "Amazing lives — фразы",
+  "items": [
+    {
+      "phrase": "live off the grid",
+      "translation": "жить автономно",
+      "example": "They live off the grid in the mountains."
+    },
+    {
+      "phrase": "make a living",
+      "translation": "зарабатывать на жизнь",
+      "example": "How does she make a living?"
+    },
+    {
+      "phrase": "lead a double life",
+      "translation": "вести двойную жизнь",
+      "example": "The spy seemed to lead a double life."
+    }
+  ]
+}

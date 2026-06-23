@@ -1,0 +1,31 @@
+{
+  "lessonId": "3C-binge-watch",
+  "title": "Binge-watch — новые слова",
+  "items": [
+    {
+      "term": "binge-watch",
+      "translation": "смотреть запой",
+      "example": "I binge-watched the whole series in a weekend."
+    },
+    {
+      "term": "cliffhanger",
+      "translation": "интригующий финал серии",
+      "example": "The episode ended on a cliffhanger."
+    },
+    {
+      "term": "spin-off",
+      "translation": "спин-офф",
+      "example": "There's a new spin-off of the original show."
+    },
+    {
+      "term": "plot twist",
+      "translation": "неожиданный поворот сюжета",
+      "example": "Nobody expected that plot twist."
+    },
+    {
+      "term": "streaming",
+      "translation": "стриминг",
+      "example": "Streaming has changed how we watch TV."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "3A-festival",
+  "order": 9,
+  "unit": "Unit 3 — Showtime",
+  "title": "Festival",
+  "contentMd": "## Relative clauses — придаточные определительные\n\n### Простая суть\n\nПридаточные с **who/which/that** — как подпись к фото: «человек, **который**…» или «фестиваль, **который**…». Без запятых — без подписи непонятно о ком речь. С запятыми — просто дополнительная справка.\n\n### Как это работает\n\n- **Defining** (без запятых): *The band **that** we saw…*\n- **Non-defining** (с запятыми): *Glastonbury, **which** is in Somerset, …*\n- В non-defining нельзя **that** и нельзя опускать who/which\n- **where** (место), **whose** (чьё)\n\n### Живые примеры\n\n- The festival **that takes place** in July is completely eco-friendly. — Фестиваль, который проходит в июле, полностью экологичный.\n- Glastonbury, **which is** in Somerset, is world-famous. — Гластонбери, который находится в Сомерсете, всемирно известен.\n- The town **where** the festival is held is pretty small. — Городок, где проходит фестиваль, довольно маленький.\n- The artist **whose** album won is performing tonight. — Артист, чей альбом победил, выступает сегодня вечером.\n\n### Лайфхак для запоминания\n\nЗапятые = «можно выкинуть без потери сути?» Нет → defining, без запятых. Да → non-defining, с запятыми и только **who/which**.",
+  "examples": [
+    "The festival **that takes place** in July is completely eco-friendly.",
+    "Glastonbury, **which is** in Somerset, is world-famous.",
+    "The town **where** the festival is held is pretty small.",
+    "The artist **whose** album won is performing tonight."
+  ]
+}
