@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { CheckMark, PageHeader } from '../components/Layout';
 import { loadManifest, loadTestDay } from '../lib/loadContent';
 import type { Manifest, TestQuestion } from '../lib/types';
-import { useProgressStore } from '../store/progressStore';
+import { useCompletedTests } from '../store/progressStore';
 
 interface DaySummary {
   dayId: string;
@@ -16,7 +16,7 @@ export function TestsListPage() {
   const [days, setDays] = useState<DaySummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const isTestComplete = useProgressStore((s) => s.isTestComplete);
+  const completedTests = useCompletedTests(level);
 
   useEffect(() => {
     let cancelled = false;
@@ -67,7 +67,7 @@ export function TestsListPage() {
           </div>
           <ol className="numbered-list">
             {day.questions.map((q, i) => {
-              const done = isTestComplete(level, q.id);
+              const done = completedTests.includes(q.id);
               return (
                 <li key={q.id}>
                   <Link

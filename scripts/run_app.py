@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Start the React dev server for the English learning app."""
+"""Start the React dev server for the Languages learning app."""
 from __future__ import annotations
 
 import os

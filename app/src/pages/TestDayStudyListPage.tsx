@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { CheckMark, PageHeader } from '../components/Layout';
+import { StudyListToolbar } from '../components/StudyListToolbar';
 import {
   collectStudyItemsForTestDay,
   loadManifest,
@@ -8,7 +9,7 @@ import {
   resolveStudyTitle,
 } from '../lib/loadContent';
 import { STUDY_TYPE_LABELS, studyKey, type StudyOrderItem } from '../lib/types';
-import { useProgressStore } from '../store/progressStore';
+import { useProgressStore, useCompletedStudy } from '../store/progressStore';
 
 interface StudyListItem extends StudyOrderItem {
   index: number;
@@ -21,7 +22,10 @@ export function TestDayStudyListPage() {
   const [dayLabel, setDayLabel] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const isStudyComplete = useProgressStore((s) => s.isStudyComplete);
+  const completedStudy = useCompletedStudy(level);
+  const toggleStudyComplete = useProgressStore((s) => s.toggleStudyComplete);
+
+  const itemKeys = items.map((item) => studyKey(item.type, item.id));
 
   useEffect(() => {
     let cancelled = false;
@@ -73,6 +77,7 @@ export function TestDayStudyListPage() {
         title={`Материалы — ${dayLabel}`}
         backTo={`/${level}/tests`}
         backLabel="К тестам"
+        actions={<StudyListToolbar level={level} keys={itemKeys} />}
       />
       {items.length === 0 ? (
         <p className="status">Нет материалов для этого дня.</p>
@@ -80,7 +85,7 @@ export function TestDayStudyListPage() {
         <ol className="numbered-list">
           {items.map((item) => {
             const key = studyKey(item.type, item.id);
-            const done = isStudyComplete(level, key);
+            const done = completedStudy.includes(key);
             return (
               <li key={key}>
                 <Link
@@ -92,7 +97,10 @@ export function TestDayStudyListPage() {
                     <span className="list-type">{STUDY_TYPE_LABELS[item.type]}</span>
                     <span className="list-title">{item.label}</span>
                   </span>
-                  <CheckMark done={done} />
+                  <CheckMark
+                    done={done}
+                    onChange={() => toggleStudyComplete(level, key)}
+                  />
                 </Link>
               </li>
             );

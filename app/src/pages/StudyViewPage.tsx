@@ -4,7 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import { PageHeader } from '../components/Layout';
 import { loadLexicon, loadRule } from '../lib/loadContent';
 import { parseStudyKey, studyKey, type Lexicon, type Rule } from '../lib/types';
-import { useProgressStore } from '../store/progressStore';
+import { useProgressStore, useCompletedStudy } from '../store/progressStore';
 
 export function StudyViewPage() {
   const { level = '', studyKeyParam = '', dayId } = useParams();
@@ -23,8 +23,8 @@ export function StudyViewPage() {
   const [error, setError] = useState<string | null>(null);
 
   const markStudyComplete = useProgressStore((s) => s.markStudyComplete);
-  const isStudyComplete = useProgressStore((s) => s.isStudyComplete);
-  const done = isStudyComplete(level, key);
+  const completedStudy = useCompletedStudy(level);
+  const done = completedStudy.includes(key);
 
   useEffect(() => {
     let cancelled = false;

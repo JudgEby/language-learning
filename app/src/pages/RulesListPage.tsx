@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { CheckMark, PageHeader } from '../components/Layout';
+import { StudyListToolbar } from '../components/StudyListToolbar';
 import { loadManifest, resolveStudyTitle } from '../lib/loadContent';
 import { STUDY_TYPE_LABELS, studyKey, type Manifest, type StudyOrderItem } from '../lib/types';
-import { useProgressStore } from '../store/progressStore';
+import { useProgressStore, useCompletedStudy } from '../store/progressStore';
 
 interface StudyListItem extends StudyOrderItem {
   index: number;
@@ -15,7 +16,10 @@ export function RulesListPage() {
   const [items, setItems] = useState<StudyListItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const isStudyComplete = useProgressStore((s) => s.isStudyComplete);
+  const completedStudy = useCompletedStudy(level);
+  const toggleStudyComplete = useProgressStore((s) => s.toggleStudyComplete);
+
+  const itemKeys = items.map((item) => studyKey(item.type, item.id));
 
   useEffect(() => {
     let cancelled = false;
@@ -52,11 +56,16 @@ export function RulesListPage() {
 
   return (
     <div className="page">
-      <PageHeader title="Обучение" backTo={`/${level}`} backLabel="К уровню" />
+      <PageHeader
+        title="Обучение"
+        backTo={`/${level}`}
+        backLabel="К уровню"
+        actions={<StudyListToolbar level={level} keys={itemKeys} />}
+      />
       <ol className="numbered-list">
         {items.map((item) => {
           const key = studyKey(item.type, item.id);
-          const done = isStudyComplete(level, key);
+          const done = completedStudy.includes(key);
           return (
             <li key={key}>
               <Link to={`/${level}/rules/${encodeURIComponent(key)}`} className="list-link">
@@ -65,7 +74,10 @@ export function RulesListPage() {
                   <span className="list-type">{STUDY_TYPE_LABELS[item.type]}</span>
                   <span className="list-title">{item.label}</span>
                 </span>
-                <CheckMark done={done} />
+                <CheckMark
+                  done={done}
+                  onChange={() => toggleStudyComplete(level, key)}
+                />
               </Link>
             </li>
           );

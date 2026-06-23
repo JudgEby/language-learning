@@ -131,16 +131,30 @@ export function TestViewPage() {
           )}
         </div>
 
-        <aside className="test-sidebar">
+        <aside className={`test-sidebar${showRules ? ' test-sidebar--open' : ''}`}>
           <button
             type="button"
-            className="btn btn-secondary"
+            className="test-sidebar-toggle"
+            aria-expanded={showRules}
+            aria-controls="test-rules-panel"
+            title={showRules ? 'Свернуть правила' : 'Развернуть справку по правилам'}
             onClick={() => setShowRules((v) => !v)}
           >
-            Правила
+            <span className="test-sidebar-toggle__chevron" aria-hidden="true" />
+            <span className="test-sidebar-toggle__label">
+              <span className="test-sidebar-toggle__title">Правила</span>
+              {showRules && rules.length > 0 && (
+                <span className="test-sidebar-toggle__meta">{rules.length}</span>
+              )}
+            </span>
+            {!showRules && rules.length > 0 && (
+              <span className="test-sidebar-toggle__badge" aria-hidden="true">
+                {rules.length}
+              </span>
+            )}
           </button>
           {showRules && (
-            <div className="rules-panel">
+            <div className="rules-panel" id="test-rules-panel">
               {rules.length === 0 ? (
                 <p className="status">Нет связанных правил.</p>
               ) : (
