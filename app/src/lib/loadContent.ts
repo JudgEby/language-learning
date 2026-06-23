@@ -7,6 +7,7 @@ import type {
   StudyType,
   TestQuestion,
 } from './types';
+import { studyKey } from './types';
 
 const CONTENT_BASE = '/content';
 
@@ -76,6 +77,30 @@ export async function loadRulesForIds(
     ruleIds.map((id) => loadRule(level, id).catch(() => null)),
   );
   return rules.filter((r): r is Rule => r !== null);
+}
+
+/** Study items (rules, vocabulary, phrases, idioms) for lessons referenced in test day questions. */
+export function collectStudyItemsForTestDay(
+  questions: TestQuestion[],
+  studyOrder: StudyOrderItem[],
+): StudyOrderItem[] {
+  const lessonIds = new Set<string>();
+  for (const q of questions) {
+    for (const id of q.relatedRuleIds) {
+      lessonIds.add(id);
+    }
+  }
+
+  const seen = new Set<string>();
+  const items: StudyOrderItem[] = [];
+  for (const item of studyOrder) {
+    if (!lessonIds.has(item.id)) continue;
+    const key = studyKey(item.type, item.id);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    items.push(item);
+  }
+  return items;
 }
 
 export async function resolveStudyTitle(

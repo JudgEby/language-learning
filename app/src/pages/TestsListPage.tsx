@@ -56,7 +56,15 @@ export function TestsListPage() {
       <PageHeader title="Тесты" backTo={`/${level}`} backLabel="К уровню" />
       {days.map((day) => (
         <section key={day.dayId} className="test-day-section">
-          <h2>{day.label}</h2>
+          <div className="test-day-header">
+            <h2>{day.label}</h2>
+            <Link
+              to={`/${level}/tests/${day.dayId}/study`}
+              className="btn btn-secondary btn-sm"
+            >
+              Правила
+            </Link>
+          </div>
           <ol className="numbered-list">
             {day.questions.map((q, i) => {
               const done = isTestComplete(level, q.id);

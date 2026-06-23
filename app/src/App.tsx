@@ -3,6 +3,7 @@ import { HomePage } from './pages/HomePage';
 import { LevelPage } from './pages/LevelPage';
 import { RulesListPage } from './pages/RulesListPage';
 import { StudyViewPage } from './pages/StudyViewPage';
+import { TestDayStudyListPage } from './pages/TestDayStudyListPage';
 import { TestsListPage } from './pages/TestsListPage';
 import { TestViewPage } from './pages/TestViewPage';
 
@@ -16,6 +17,11 @@ export default function App() {
           <Route path="/:level/rules" element={<RulesListPage />} />
           <Route path="/:level/rules/:studyKeyParam" element={<StudyViewPage />} />
           <Route path="/:level/tests" element={<TestsListPage />} />
+          <Route path="/:level/tests/:dayId/study" element={<TestDayStudyListPage />} />
+          <Route
+            path="/:level/tests/:dayId/study/:studyKeyParam"
+            element={<StudyViewPage />}
+          />
           <Route path="/:level/tests/:dayId/:questionIndex" element={<TestViewPage />} />
         </Routes>
       </main>

@@ -7,10 +7,15 @@ import { parseStudyKey, studyKey, type Lexicon, type Rule } from '../lib/types';
 import { useProgressStore } from '../store/progressStore';
 
 export function StudyViewPage() {
-  const { level = '', studyKeyParam = '' } = useParams();
+  const { level = '', studyKeyParam = '', dayId } = useParams();
   const navigate = useNavigate();
   const key = decodeURIComponent(studyKeyParam);
   const { type, id } = parseStudyKey(key);
+  const fromTestDay = Boolean(dayId);
+  const listPath = fromTestDay
+    ? `/${level}/tests/${dayId}/study`
+    : `/${level}/rules`;
+  const listLabel = fromTestDay ? 'К материалам дня' : 'К списку';
 
   const [rule, setRule] = useState<Rule | null>(null);
   const [lexicon, setLexicon] = useState<Lexicon | null>(null);
@@ -53,7 +58,7 @@ export function StudyViewPage() {
 
   return (
     <div className="page">
-      <PageHeader title={title} backTo={`/${level}/rules`} backLabel="К списку" />
+      <PageHeader title={title} backTo={listPath} backLabel={listLabel} />
 
       <div className="study-content">
         {rule && (
@@ -100,9 +105,9 @@ export function StudyViewPage() {
         <button
           type="button"
           className="btn btn-secondary"
-          onClick={() => navigate(`/${level}/rules`)}
+          onClick={() => navigate(listPath)}
         >
-          К списку
+          {listLabel}
         </button>
       </div>
     </div>
