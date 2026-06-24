@@ -1,11 +1,10 @@
-# Инструкции для ИИ-агентов — платформа изучения английского
+# Инструкции для ИИ-агентов — Languages Learning
 
-Этот проект помогает изучать английский по уровням (B2 и др.). ИИ-агенты генерируют обучающие материалы и тесты на основе извлечённого текста из PDF.
+Платформа для изучения языков по уровням. ИИ-агенты генерируют обучающие материалы и тесты на основе извлечённого текста из PDF.
 
 ## Структура проекта
 
 ```
-eng/
 ├── prompts/
 │   └── rule-generation-style.md  # промпт стиля для генерации правил (редактируемый)
 ├── toExtract/{LEVEL}/          # PDF пособий (SB.pdf, WB.pdf) — локально; папки в git
@@ -21,10 +20,12 @@ eng/
 └── app/                        # React-приложение (читает content/)
 ```
 
+`{LEVEL}` — id курса (латиница, без пробелов).
+
 ## Именование файлов
 
-- Префикс с порядковым номером: `01-1A-my-id.json`, `02-1B-memory.json`
-- `id` внутри JSON — slug урока: `1A-my-id`, `1B-memory` (без префикса)
+- Префикс с порядковым номером: `01-lesson-slug.json`, `02-another-lesson.json`
+- `id` внутри JSON — slug урока: `lesson-slug`, `another-lesson` (без префикса)
 - Один файл на урок в каждой категории (rules, vocabulary, phrases, idioms)
 
 ## JSON-схемы
@@ -33,15 +34,15 @@ eng/
 
 ```json
 {
-  "level": "B2",
-  "title": "Speakout B2",
+  "level": "LEVEL_ID",
+  "title": "Course title",
   "source": { "sb": "extract/SB.txt", "wb": "extract/WB.txt" },
   "studyOrder": [
-    { "type": "rule", "id": "1A-my-id" },
-    { "type": "vocabulary", "id": "1A-my-id" },
-    { "type": "phrases", "id": "1A-my-id" },
-    { "type": "idioms", "id": "1A-my-id" },
-    { "type": "rule", "id": "1B-memory" }
+    { "type": "rule", "id": "lesson-slug" },
+    { "type": "vocabulary", "id": "lesson-slug" },
+    { "type": "phrases", "id": "lesson-slug" },
+    { "type": "idioms", "id": "lesson-slug" },
+    { "type": "rule", "id": "another-lesson" }
   ],
   "testDays": ["day-01", "day-02"]
 }
@@ -49,56 +50,56 @@ eng/
 
 `studyOrder` — **плоский** список элементов для UI: для каждого урока порядок rule → vocabulary → phrases → idioms.
 
-Ключ прогресса в приложении: `{type}:{id}` → `rule:1A-my-id`, `vocabulary:1A-my-id`.
+Ключ прогресса в приложении: `{type}:{id}` → `rule:lesson-slug`, `vocabulary:lesson-slug`.
 
-### Правило — data/rules/01-1A-my-id.json
+### Правило — data/rules/01-lesson-slug.json
 
 ```json
 {
-  "id": "1A-my-id",
+  "id": "lesson-slug",
   "order": 1,
-  "unit": "Unit 1 — Identity",
-  "title": "My ID",
-  "contentMd": "## Present Perfect Simple and Continuous\n\n### Простая суть\n\n...",
-  "examples": ["How long have you been studying English?"]
+  "unit": "Unit 1 — Topic",
+  "title": "Lesson title",
+  "contentMd": "## Grammar topic\n\n### Простая суть\n\n...",
+  "examples": ["Example sentence in the target language."]
 }
 ```
 
-- `contentMd` — markdown, объяснения на **русском**, примеры на **английском**
+- `contentMd` — markdown: объяснения на **языке обучения** (родной или пояснительный), примеры на **изучаемом языке**
 - **Стиль и структура** — всегда следуй [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md): секции «Простая суть», «Как это работает», «Живые примеры», «Лайфхак для запоминания»
 
-### Лексика — data/vocabulary/01-1A-my-id.json
+### Лексика — data/vocabulary/01-lesson-slug.json
 
 ```json
 {
-  "lessonId": "1A-my-id",
-  "title": "My ID — новые слова",
+  "lessonId": "lesson-slug",
+  "title": "Lesson title — новые слова",
   "items": [
-    { "term": "reliable", "translation": "надёжный", "example": "She is very reliable." }
+    { "term": "word", "translation": "перевод", "example": "Example sentence." }
   ]
 }
 ```
 
-### Фразы — data/phrases/01-1A-my-id.json
+### Фразы — data/phrases/01-lesson-slug.json
 
 ```json
 {
-  "lessonId": "1A-my-id",
-  "title": "My ID — фразы",
+  "lessonId": "lesson-slug",
+  "title": "Lesson title — фразы",
   "items": [
-    { "phrase": "take after (sb)", "translation": "быть похожим на (родственника)", "example": "She takes after her mother." }
+    { "phrase": "collocation", "translation": "перевод", "example": "Example sentence." }
   ]
 }
 ```
 
-### Идиомы — data/idioms/01-1A-my-id.json
+### Идиомы — data/idioms/01-lesson-slug.json
 
 ```json
 {
-  "lessonId": "1A-my-id",
-  "title": "My ID — идиомы",
+  "lessonId": "lesson-slug",
+  "title": "Lesson title — идиомы",
   "items": [
-    { "idiom": "eye-opener", "translation": "открыло глаза", "example": "The trip was a real eye-opener." }
+    { "idiom": "idiom", "translation": "перевод", "example": "Example sentence." }
   ]
 }
 ```
@@ -110,17 +111,17 @@ eng/
   {
     "id": "a3f8c2b91e4d",
     "question": "Which sentence is correct?",
-    "options": ["I have been knowing him", "I have known him", "I am knowing him", "I know him since 2020"],
+    "options": ["Option A", "Option B", "Option C", "Option D"],
     "correctIndex": 1,
-    "explanation": "State verbs like 'know' are not used in continuous forms.",
-    "relatedRuleIds": ["1A-my-id"]
+    "explanation": "Brief explanation of the correct answer.",
+    "relatedRuleIds": ["lesson-slug"]
   }
 ]
 ```
 
-- Вопрос и варианты — на **английском**
+- Вопрос и варианты — на **изучаемом языке**
 - Не более **4** вариантов ответа
-- `explanation` — на английском (можно кратко на русском в скобках)
+- `explanation` — на изучаемом языке (можно кратко на языке обучения в скобках)
 - `relatedRuleIds` — id правил, к которым относится вопрос
 
 ### Формула id теста
@@ -148,18 +149,18 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 1. Прочитать **`prompts/rule-generation-style.md`** — обязательный стиль для поля `contentMd` в правилах
 2. Прочитать `content/{LEVEL}/extract/SB.txt` — основной источник грамматики и структуры уроков
 3. Прочитать `content/{LEVEL}/extract/WB.txt` — дополнительная лексика, фразы, идиомы из Workbook
-4. Определить порядок уроков по пособию (1A, 1B, 1C, 2A, …)
+4. Определить порядок уроков по пособию
 5. Для каждого урока создать 4 JSON-файла в `data/rules/`, `data/vocabulary/`, `data/phrases/`, `data/idioms/`
 6. Обновить `content/{LEVEL}/manifest.json`:
-   - `title` — человекочитаемое название уровня
+   - `title` — человекочитаемое название курса
    - `studyOrder` — можно пересобрать: `python scripts/sync_level.py {LEVEL}`
 7. Не перезаписывать `extract/` — только `data/` и `manifest.json`
 8. Проверить: `python scripts/validate_level.py {LEVEL}`
 
 **Стиль контента:**
 - Правила (`contentMd`) — строго по `prompts/rule-generation-style.md`
-- Примеры предложений в правилах — на английском
-- Переводы слов/фраз — на русском
+- Примеры предложений в правилах — на изучаемом языке
+- Переводы слов/фраз — на языке обучения
 - Включать материал из Workbook, где он дополняет урок
 
 ---
@@ -191,8 +192,8 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 Перед генерацией прочитать **`prompts/rule-generation-style.md`**.
 
 Пользователь может указать конкретный источник:
-- `content/B2/extract/SB.txt` — сырой текст пособия
-- `content/B2/data/rules/01-1A-my-id.json` — уже сгенерированное правило
+- `content/{LEVEL}/extract/SB.txt` — сырой текст пособия
+- `content/{LEVEL}/data/rules/{NN}-{lesson-id}.json` — уже сгенерированное правило
 
 Использовать указанный файл как основной источник для генерации; переписать грамматику в `contentMd` по промпту стиля.
 

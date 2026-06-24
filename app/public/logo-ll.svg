@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 56" fill="none" role="img" aria-label="Languages Learning">
+  <defs>
+    <linearGradient id="ll-gradient" x1="0" y1="56" x2="88" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff1493"/>
+      <stop offset="35%" stop-color="#8338ec"/>
+      <stop offset="65%" stop-color="#fb5607"/>
+      <stop offset="100%" stop-color="#ffbe0b"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ll-gradient)" d="M6 4h16v4H14v34h26v10H6V4z"/>
+  <path fill="url(#ll-gradient)" d="M48 4h16v4H56v34h26v10H48V4z"/>
+</svg>

@@ -112,7 +112,7 @@ export const useProgressStore = create<ProgressState>()(
       isTestComplete: (level, testId) =>
         getLevel(get(), level).completedTests.includes(testId),
     }),
-    { name: 'eng-progress' },
+    { name: 'languages-learning-progress' },
   ),
 );
 

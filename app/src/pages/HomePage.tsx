@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Logo } from '../components/Logo';
 import { PageHeader } from '../components/Layout';
 import { listLevels } from '../lib/loadContent';
 import type { LevelSummary } from '../lib/types';
@@ -21,7 +22,10 @@ export function HomePage() {
 
   return (
     <div className="page">
-      <PageHeader title="Изучение английского" />
+      <PageHeader
+        title="Languages Learning"
+        actions={<Logo width={48} height={31} aria-hidden />}
+      />
       {levels.length === 0 ? (
         <p className="status">Нет доступных уровней. Добавьте контент в папку content/.</p>
       ) : (
