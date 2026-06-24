@@ -1,4 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { ThemeProvider } from './components/ThemeProvider';
+import { ThemeToggle } from './components/ThemeToggle';
 import { HomePage } from './pages/HomePage';
 import { LevelPage } from './pages/LevelPage';
 import { RulesListPage } from './pages/RulesListPage';
@@ -9,7 +11,9 @@ import { TestViewPage } from './pages/TestViewPage';
 
 export default function App() {
   return (
+    <ThemeProvider>
     <BrowserRouter>
+      <ThemeToggle />
       <main className="app-shell">
         <Routes>
           <Route path="/" element={<HomePage />} />
@@ -26,5 +30,6 @@ export default function App() {
         </Routes>
       </main>
     </BrowserRouter>
+    </ThemeProvider>
   );
 }
