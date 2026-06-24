@@ -22,7 +22,7 @@ export function StudyListToolbar({ level, keys }: StudyListToolbarProps) {
         disabled={allComplete}
         onClick={() => markStudyCompleteBulk(level, keys)}
       >
-        Выделить
+        Отметить
       </button>
       <button
         type="button"
