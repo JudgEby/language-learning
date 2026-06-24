@@ -1,0 +1,14 @@
+{
+  "lessonId": "im-just-looking",
+  "title": "I'm just looking — фразы",
+  "items": [
+    { "phrase": "Can I try this on?", "translation": "Можно это примерить?", "example": "Can I try this on? I need to check the size." },
+    { "phrase": "Do you have this in a different size?", "translation": "У вас есть это другого размера?", "example": "Do you have this in a different size? The small is too tight." },
+    { "phrase": "I'd like a refund, please.", "translation": "Я хотел бы вернуть деньги, пожалуйста.", "example": "I'd like a refund, please. This doesn't work properly." },
+    { "phrase": "How much does this cost?", "translation": "Сколько это стоит?", "example": "How much does this cost? I can't see a price tag." },
+    { "phrase": "I'm just looking, thanks.", "translation": "Я просто смотрю, спасибо.", "example": "I'm just looking, thanks. I'll let you know if I need help." },
+    { "phrase": "I'll take it.", "translation": "Я беру это.", "example": "I'll take it. Do you accept credit cards?" },
+    { "phrase": "Can I pay by card?", "translation": "Можно оплатить картой?", "example": "Can I pay by card or is it cash only?" },
+    { "phrase": "Is there a warranty?", "translation": "Есть гарантия?", "example": "Is there a warranty on this laptop?" }
+  ]
+}

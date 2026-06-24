@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cc7f8ed692e7",
+    "question": "Complete: 'I ___ be afraid of the dark, but now I'm fine.'",
+    "options": [
+      "used to",
+      "use to",
+      "was used to",
+      "did use to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to' — past habit/state that is no longer true.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "d9cf6240bc9e",
+    "question": "Choose the correct negative:",
+    "options": [
+      "She didn't use to enjoy cooking, now she's a chef!",
+      "She didn't used to enjoy cooking.",
+      "She used not to enjoy.",
+      "She used to not enjoy."
+    ],
+    "correctIndex": 0,
+    "explanation": "Negative: 'didn't use to' (without 'd').",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "8268ae727d56",
+    "question": "Complete the question: '___ you use to have long hair?'",
+    "options": [
+      "Did",
+      "Do",
+      "Used",
+      "Have"
+    ],
+    "correctIndex": 0,
+    "explanation": "Question: 'Did you use to...?' (without 'd').",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "19a8c2e8d45d",
+    "question": "What does 'I used to smoke, but I quit last year' mean?",
+    "options": [
+      "Я курю, но брошу в следующем году.",
+      "Раньше я курил, но бросил в прошлом году.",
+      "Я использовал сигареты.",
+      "Я курил в прошлом году."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Used to' + verb means 'раньше делал, а сейчас нет'.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "ef8cc4de34da",
+    "question": "Complete: 'He used to smoke, but he ___ last year.'",
+    "options": [
+      "quit",
+      "quite",
+      "quiet",
+      "quote"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Quit' — past simple of 'quit' (бросил).",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "8617b8b97b1c",
+    "question": "What does 'used to' express?",
+    "options": [
+      "привычку в настоящем",
+      "привычку в прошлом, которой сейчас нет",
+      "будущее намерение",
+      "обязанность"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Used to' = past habit/state no longer true.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "3ec3a92024d8",
+    "question": "Complete: 'I went to the library ___ study in peace.'",
+    "options": [
+      "because",
+      "to",
+      "so",
+      "for"
+    ],
+    "correctIndex": 1,
+    "explanation": "'To' + verb expresses purpose (зачем).",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "7316b828b91a",
+    "question": "Choose the correct sentence expressing cause:",
+    "options": [
+      "She passed the exam because she worked hard.",
+      "She passed the exam to work hard.",
+      "She passed the exam so she worked hard.",
+      "She passed the exam for working hard."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Because' gives the reason/cause.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "cd76844afd0f",
+    "question": "Complete: 'He forgot his keys, ___ he couldn't get into the house.'",
+    "options": [
+      "because",
+      "so",
+      "to",
+      "so that"
+    ],
+    "correctIndex": 1,
+    "explanation": "'So' introduces the result (and what happened next).",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "100b8f368b4c",
+    "question": "What does 'so that' express?",
+    "options": [
+      "причину",
+      "результат",
+      "цель с оттенком 'чтобы'",
+      "противопоставление"
+    ],
+    "correctIndex": 2,
+    "explanation": "'So that' expresses purpose, like 'для того чтобы'.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "a95ae3042560",
+    "question": "Complete: 'I'll leave early so that I ___ miss the train.'",
+    "options": [
+      "won't",
+      "don't",
+      "didn't",
+      "wouldn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'So that I won't miss' — purpose clause with future meaning.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "0f546faa9f60",
+    "question": "Complete: 'The flight was cancelled because ___ the storm.'",
+    "options": [
+      "of",
+      "for",
+      "from",
+      "with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Because of' + noun (the storm).",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "the-great-impostor",
+  "order": 20,
+  "unit": "Unit 7 — Changes",
+  "title": "The great impostor",
+  "contentMd": "## Purpose, cause and result\n\n### Простая суть\n\nКогда мы объясняем, **зачем** что-то сделали (цель), **почему** это произошло (причина) и **что из этого вышло** (результат), в английском есть удобные конструкции. *To* отвечает на вопрос «зачем?», *because* — на «почему?», *so* — на «и что в итоге?», а *so that* — это «чтобы» с оттенком цели.\n\n### Как это работает\n\n- **Purpose (цель)**: *to* + глагол. *I went to the shop **to** buy milk.*\n- **Cause (причина)**: *because* + предложение. *I stayed home **because** I was tired.* / *because of* + существительное. *I stayed home **because of** the rain.*\n- **Result (результат)**: *so* + предложение. *I was tired, **so** I stayed home.*\n- **More specific purpose (уточнённая цель)**: *so that* + can/could/would. *I saved money **so that** I could travel.*\n\n### Живые примеры\n\n- I went to the library **to** study in peace. (Я пошёл в библиотеку, чтобы спокойно позаниматься.)\n- She passed the exam **because** she worked hard. (Она сдала экзамен, потому что много занималась.)\n- The flight was cancelled **because of** the storm. (Рейс отменили из-за шторма.)\n- He forgot his keys, **so** he couldn't get into the house. (Он забыл ключи, поэтому не мог попасть в дом.)\n- I'll leave early **so that** I don't miss the train. (Я выйду пораньше, чтобы не опоздать на поезд.)\n\n### Лайфхак для запоминания\n\n*To* — это стрелочка «→» (цель). *Because* — это ответ на «Why?» (причина). *So* — это стрелочка «→ следствие» (результат). А *so that* — это *to* с запасом прочности: используй его, когда цель сложнее одного глагола.",
+  "examples": [
+    "I went to the library to study in peace.",
+    "She passed the exam because she worked hard.",
+    "He forgot his keys, so he couldn't get into the house.",
+    "I'll leave early so that I don't miss the train."
+  ]
+}

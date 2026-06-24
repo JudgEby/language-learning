@@ -1,0 +1,13 @@
+{
+  "id": "can-you-tell-me",
+  "order": 21,
+  "unit": "Unit 7 — Changes",
+  "title": "Can you tell me",
+  "contentMd": "## Finding out information\n\n### Простая суть\n\nВежливость в английском — это не только *please* и *thank you*. Когда мы хотим спросить информацию, но не хотим звучать как робот-полицейский, мы используем специальные «обёртки» для вопросов: *Could you tell me…*, *Do you know…*, *I'd like to know…*. После них порядок слов меняется: вопрос превращается в утверждение.\n\n### Как это работает\n\n- **Could you tell me** + вопросительное слово + подлежащее + глагол… *Could you tell me where the station **is**?* (не *is the station*)\n- **Do you know** + if / вопросительное слово + подлежащее + глагол. *Do you know **if** he's coming?*\n- **I'd like to know** + вопросительное слово + подлежащее + глагол. *I'd like to know what time **it starts**.*\n- **I was wondering if** + подлежащее + глагол. *I was wondering if you could help me.*\n\nГлавное правило: после вежливого вступления прямой порядок слов (как в утверждении), а не перевёрнутый как в обычном вопросе.\n\n### Живые примеры\n\n- **Could you tell me** where the nearest bank **is**? (Не подскажете, где ближайший банк?)\n- **Do you know if** there's a restaurant nearby? (Вы не знаете, есть ли поблизости ресторан?)\n- **I'd like to know** what time the museum **opens**. (Хотелось бы узнать, во сколько открывается музей.)\n- **I was wondering if** you could give me a hand. (Я думал, не могли бы вы помочь.)\n- **Do you know** when the bus **arrives**? (Вы не знаете, когда прибывает автобус?)\n\n### Лайфхак для запоминания\n\nВежливый вопрос = «обёртка» (Could you tell me…) + обычное утверждение (where the bank is). Забудь про перевёрнутый порядок. Если внутри стоит *if* — значит ответ будет «да» или «нет». Если вопросительное слово (where, when, what) — жди конкретную информацию.",
+  "examples": [
+    "Could you tell me where the nearest bank is?",
+    "Do you know if there's a restaurant nearby?",
+    "I'd like to know what time the museum opens.",
+    "Do you know when the bus arrives?"
+  ]
+}

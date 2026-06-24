@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2d1fcf5e3321",
+    "question": "Complete: 'There's ___ sugar in this cake — it's too sweet.'",
+    "options": [
+      "too many",
+      "too much",
+      "enough",
+      "very"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Too much' + uncountable (sugar).",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "fc1a1f9e7983",
+    "question": "Complete: 'There are ___ people in the room.'",
+    "options": [
+      "too much",
+      "too many",
+      "too",
+      "enough"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Too many' + countable (people).",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "a7e5cc69c83a",
+    "question": "Complete: 'We don't have ___ chairs for everyone.'",
+    "options": [
+      "too many",
+      "enough",
+      "too much",
+      "very"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Enough chairs' — sufficient quantity.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "b9758499a66b",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The soup is hot enough now.",
+      "The soup is enough hot.",
+      "The soup is too enough hot.",
+      "The soup is hot too much."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enough' after adjectives: 'hot enough'.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "4092d06eeb97",
+    "question": "Complete: 'Can I ___ you?' — 'No thanks, I'm just looking.'",
+    "options": [
+      "help",
+      "ask",
+      "assist",
+      "serve"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can I help you?' — shop assistant's greeting.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "ec551b30a7df",
+    "question": "Complete: 'How much ___ this dress?'",
+    "options": [
+      "does",
+      "is",
+      "cost",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "'How much is this...?' — asking price.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "ff2bae6f1a88",
+    "question": "Complete: 'I'd like a ___, please. This shirt is damaged.'",
+    "options": [
+      "refund",
+      "return",
+      "exchange",
+      "change"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'd like a refund' — запрос возврата денег.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "487976f8f51d",
+    "question": "Complete: 'Can I ___ this on?' (try clothes before buying)",
+    "options": [
+      "take",
+      "try",
+      "wear",
+      "put"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Try on' = 'примерить'.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "a7c71028ea59",
+    "question": "He's the guy ___ helped me with my homework.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Who' for people in relative clauses.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "c303da6c8a39",
+    "question": "That's the café ___ we first met.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Where' for places.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "6da3bc43da7b",
+    "question": "Do you know the girl ___ father is a famous actor?",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Whose' for possession.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "1d1cd690f028",
+    "question": "I lost the necklace ___ my grandmother gave me.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Which' (or 'that') for things.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  }
+]

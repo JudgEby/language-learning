@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bbc77384b3b6",
+    "question": "Complete: 'I was travelling around Italy when I ___ my best friend.'",
+    "options": [
+      "met",
+      "was meeting",
+      "have met",
+      "meet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past simple for the main event interrupting a continuous action.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "b598fe89a8e4",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "While we were driving to the coast, it started to rain.",
+      "While we drove, it was starting to rain.",
+      "While we were driving, it was raining.",
+      "While we drive, it starts to rain."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past continuous (background) + past simple (interrupting event).",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "9495dea09c5d",
+    "question": "Complete: 'She ___ on the train when the inspector woke her.'",
+    "options": [
+      "slept",
+      "was sleeping",
+      "has slept",
+      "sleeps"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past continuous for ongoing background action.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "ea18a43c7100",
+    "question": "Complete: 'I want ___ Japan next spring.'",
+    "options": [
+      "visit",
+      "to visit",
+      "visiting",
+      "visited"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Want to + verb'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "13eb861d1d49",
+    "question": "Complete: 'She enjoys ___ local food when she travels.'",
+    "options": [
+      "try",
+      "to try",
+      "trying",
+      "tried"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Enjoy + -ing'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "3166131e6fff",
+    "question": "Complete: 'Go straight ___ until you see a supermarket.'",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Go straight on' — directions.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "8baad73faa22",
+    "question": "What does 'You can't miss it!' mean?",
+    "options": [
+      "Ты не сможешь это не заметить.",
+      "Ты можешь пропустить.",
+      "Это легко потерять.",
+      "Ты не умеешь пропускать."
+    ],
+    "correctIndex": 0,
+    "explanation": "'You can't miss it!' = 'не пройдёшь мимо!'.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "168e8961a7f0",
+    "question": "Complete: 'The museum is ___ the train station.' (across from)",
+    "options": [
+      "next",
+      "opposite",
+      "between",
+      "on"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Opposite' = 'напротив'.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "6aff4b3dfbc3",
+    "question": "Complete: 'I suggest ___ a guided tour.'",
+    "options": [
+      "take",
+      "to take",
+      "taking",
+      "took"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Suggest + -ing'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "423ad6e8ed23",
+    "question": "What does 'book in advance' mean?",
+    "options": [
+      "отменить бронь",
+      "забронировать заранее",
+      "заплатить на месте",
+      "проверить"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Book in advance' = 'бронировать заранее'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "8245565143e7",
+    "question": "Complete: '___ me, how do I get to the station?'",
+    "options": [
+      "Excuse",
+      "Sorry",
+      "Pardon",
+      "Forgive"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Excuse me' — polite way to start asking for directions.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "e7987b459297",
+    "question": "Complete: 'Take the first ___ on the right.'",
+    "options": [
+      "turning",
+      "turn",
+      "turned",
+      "turns"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take the first turning on the right' — standard direction.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  }
+]

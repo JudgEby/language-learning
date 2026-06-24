@@ -1,0 +1,14 @@
+{
+  "lessonId": "treasure-hunt",
+  "title": "Treasure hunt — фразы",
+  "items": [
+    { "phrase": "I can't afford a new car.", "translation": "Я не могу позволить себе новую машину.", "example": "I can't afford a new car right now, maybe next year." },
+    { "phrase": "It costs a fortune.", "translation": "Это стоит целое состояние.", "example": "That designer handbag costs a fortune!" },
+    { "phrase": "I'm broke.", "translation": "Я на мели / без денег.", "example": "I can't go out tonight, I'm broke." },
+    { "phrase": "It's a bargain.", "translation": "Это очень выгодная покупка.", "example": "I paid only ten dollars for this jacket — it's a bargain!" },
+    { "phrase": "It's not worth it.", "translation": "Это того не стоит.", "example": "Don't buy that old phone, it's not worth it." },
+    { "phrase": "I'm short of cash.", "translation": "У меня мало наличных.", "example": "I'm short of cash, can I pay by card?" },
+    { "phrase": "That's a rip-off.", "translation": "Это грабёж / развод по деньгам.", "example": "Fifty pounds for a T-shirt? That's a rip-off!" },
+    { "phrase": "It's on me.", "translation": "Я угощаю / я плачу.", "example": "Don't worry about the bill, it's on me." }
+  ]
+}

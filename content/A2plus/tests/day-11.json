@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cba2228359b9",
+    "question": "Complete the polite question: 'Could you tell me where the nearest bank ___?'",
+    "options": [
+      "is",
+      "does",
+      "it is",
+      "is it"
+    ],
+    "correctIndex": 0,
+    "explanation": "After polite 'Could you tell me', use statement word order (no inversion).",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "a39d652cd08f",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Do you know if there's a restaurant nearby?",
+      "Do you know is there a restaurant?",
+      "Do you know there is a restaurant?",
+      "Do you know if is there a restaurant?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Do you know if...' + statement word order.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "af1b470f65be",
+    "question": "Complete: 'I'd like to know what time the museum ___.'",
+    "options": [
+      "opens",
+      "does open",
+      "open",
+      "opening"
+    ],
+    "correctIndex": 0,
+    "explanation": "After 'I'd like to know', use statement order: 'what time the museum opens'.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "aeaff39a3513",
+    "question": "What does 'I was wondering if you could help me' express?",
+    "options": [
+      "a direct order",
+      "a very polite request",
+      "a past action",
+      "a fact"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I was wondering if...' is a very polite way to ask for help.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "342741d54370",
+    "question": "Complete: 'Do you know ___ the bus arrives?'",
+    "options": [
+      "when",
+      "that",
+      "what",
+      "where"
+    ],
+    "correctIndex": 0,
+    "explanation": "'When' — asking about time.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "380df3b2dd51",
+    "question": "What does 'give me a hand' mean?",
+    "options": [
+      "дать руку",
+      "помочь",
+      "пожать руку",
+      "помахать рукой"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Give me a hand' means 'помочь'.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "cb46ca09949c",
+    "question": "Complete: 'He's the guy ___ helped me with my homework.'",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Who' for people in relative clauses.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "d39a1c7c28e8",
+    "question": "Choose the correct relative pronoun for things:",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "where"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Which' (or 'that') for things and animals.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "8b8225ea01ff",
+    "question": "Complete: 'That's the café ___ we first met.'",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Where' for places.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "728caa137265",
+    "question": "Complete: 'Do you know the girl ___ father is a famous actor?'",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "whose"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Whose' expresses possession (чей/чья/чьё).",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "9d0d30aaf170",
+    "question": "What does 'relative clause' help us do?",
+    "options": [
+      "ask a question",
+      "add information about a noun",
+      "make a negative",
+      "talk about the future"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relative clauses add extra information about a noun.",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  },
+  {
+    "id": "7a55a71c6d6b",
+    "question": "Complete: 'I lost the necklace ___ my grandmother gave me.'",
+    "options": [
+      "who",
+      "where",
+      "which",
+      "whose"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Which' (or 'that') for a thing (necklace).",
+    "relatedRuleIds": [
+      "treasure-hunt"
+    ]
+  }
+]

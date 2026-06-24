@@ -1,0 +1,16 @@
+{
+  "lessonId": "caught-on-film",
+  "title": "Caught on film — новые слова",
+  "items": [
+    { "term": "director", "translation": "режиссёр", "example": "The director won an award for his latest film." },
+    { "term": "script", "translation": "сценарий", "example": "The script was written by a famous screenwriter." },
+    { "term": "cast", "translation": "актёрский состав", "example": "The film has an all-star cast." },
+    { "term": "blockbuster", "translation": "блокбастер, кассовый фильм", "example": "Avengers is one of the biggest blockbusters of all time." },
+    { "term": "soundtrack", "translation": "саундтрек, музыка к фильму", "example": "The soundtrack was composed by Hans Zimmer." },
+    { "term": "scene", "translation": "сцена, эпизод", "example": "My favourite scene is the car chase." },
+    { "term": "role", "translation": "роль", "example": "She played the role of a detective." },
+    { "term": "audition", "translation": "прослушивание, кастинг", "example": "He went to an audition for a TV commercial." },
+    { "term": "premiere", "translation": "премьера", "example": "The premiere will take place next Friday." },
+    { "term": "review", "translation": "рецензия, отзыв", "example": "The film got mixed reviews from critics." }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "lessonId": "free-in-nyc",
+  "title": "Free in NYC — фразы",
+  "items": [
+    { "phrase": "Are you free on…?", "translation": "Ты свободен… (в какой-то день)?", "example": "Are you free on Saturday afternoon?" },
+    { "phrase": "How about…?", "translation": "Как насчёт…?", "example": "How about going to see a show?" },
+    { "phrase": "Shall we…?", "translation": "Может, …?", "example": "Shall we meet at the museum entrance?" },
+    { "phrase": "I'll pick you up at…", "translation": "Я заеду за тобой в…", "example": "I'll pick you up at seven o'clock." },
+    { "phrase": "What time shall we meet?", "translation": "Во сколько встречаемся?", "example": "What time shall we meet at the station?" },
+    { "phrase": "Does… work for you?", "translation": "…вам подходит?", "example": "Does six o'clock work for you?" },
+    { "phrase": "Let's meet at…", "translation": "Давай встретимся у/в…", "example": "Let's meet at the main entrance." }
+  ]
+}

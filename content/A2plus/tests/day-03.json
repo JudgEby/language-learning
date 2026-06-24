@@ -1,0 +1,182 @@
+[
+  {
+    "id": "5c2b85c5e572",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I always arrive before 8 a.m.",
+      "I arrive always before 8 a.m.",
+      "Always I arrive before 8 a.m.",
+      "I arrive before always 8 a.m."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Always' goes before the main verb 'arrive'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "de5791f1bc83",
+    "question": "Complete: 'She ___ rarely stressed because she plans everything.'",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "rarely is"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adverbs of frequency go AFTER the verb 'to be' — 'she is rarely'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "63326c10f1ad",
+    "question": "Put the adverb in the correct place: 'I ___ work at weekends.' (don't often)",
+    "options": [
+      "don't often work",
+      "don't work often",
+      "often don't work",
+      "work don't often"
+    ],
+    "correctIndex": 0,
+    "explanation": "In negatives, 'often' goes after the auxiliary 'don't'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "cddc31368c0b",
+    "question": "Which adverb means 'almost never'?",
+    "options": [
+      "usually",
+      "often",
+      "hardly ever",
+      "sometimes"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Hardly ever' means 5% — almost never.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "d35325cc5d12",
+    "question": "Complete: 'A sales rep usually ___ a lot for work.'",
+    "options": [
+      "travel",
+      "travels",
+      "travelling",
+      "travelled"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Travels' — third person singular in present simple.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "29e130ce7ede",
+    "question": "Which phrase means 'работать удалённо'?",
+    "options": [
+      "work outdoors",
+      "work remotely",
+      "work full-time",
+      "work part-time"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Work remotely' means 'работать удалённо'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "29cd588c0eed",
+    "question": "Complete the sentence: 'I love ___ outside when the weather is nice.'",
+    "options": [
+      "work",
+      "working",
+      "worked",
+      "to working"
+    ],
+    "correctIndex": 1,
+    "explanation": "After 'love', use the -ing form: 'love working'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "5cc45176b3ff",
+    "question": "Which sentence means you are neutral about something?",
+    "options": [
+      "I love commuting.",
+      "I don't mind commuting.",
+      "I can't stand commuting.",
+      "I hate commuting."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't mind' is neutral — you're not against it.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "0877e69d255d",
+    "question": "Choose the correct translation: 'I can't stand working in an open-plan office.'",
+    "options": [
+      "Обожаю работать в опенспейсе.",
+      "Терпеть не могу работать в опенспейсе.",
+      "Не против работать в опенспейсе.",
+      "Люблю работать в опенспейсе."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can't stand' means 'терпеть не могу'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "2f2ebc2bdd2f",
+    "question": "Complete: 'Do you like ___ in the fashion industry?'",
+    "options": [
+      "work",
+      "working",
+      "worked",
+      "to working"
+    ],
+    "correctIndex": 1,
+    "explanation": "After 'like' in questions, use -ing form: 'Do you like working'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "aaf168e9bd8f",
+    "question": "What does 'not my cup of tea' mean?",
+    "options": [
+      "это не мой чай",
+      "не моё, не по душе",
+      "очень люблю",
+      "в самый раз"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Not my cup of tea' means 'не моё, не по душе'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "86b94768e9d5",
+    "question": "Complete: 'I could never do a ___ job — I need flexibility.'",
+    "options": [
+      "nine-to-five",
+      "five-to-nine",
+      "nine-to-nine",
+      "part-time"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A nine-to-five job' means a regular office job from 9 a.m. to 5 p.m.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "lessonId": "what-can-i-do-for-you",
+  "title": "What can I do for you? — фразы",
+  "items": [
+    { "phrase": "Could you possibly...?", "translation": "Не могли бы вы (возможно)...?", "example": "Could you possibly help me carry these bags?" },
+    { "phrase": "Would you mind...?", "translation": "Вы не против...?", "example": "Would you mind opening the window? It's hot in here." },
+    { "phrase": "I'd be happy to...", "translation": "Я с удовольствием...", "example": "I'd be happy to help you with the project." },
+    { "phrase": "Is there anything I can do?", "translation": "Могу ли я чем-то помочь?", "example": "Is there anything I can do to help you prepare?" },
+    { "phrase": "Let me know if you need anything", "translation": "Дай мне знать, если тебе что-то нужно", "example": "Let me know if you need anything for the party." },
+    { "phrase": "Can I give you a hand?", "translation": "Могу я помочь тебе?", "example": "Can I give you a hand with the decorations?" }
+  ]
+}

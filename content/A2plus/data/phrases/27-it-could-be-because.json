@@ -1,0 +1,14 @@
+{
+  "lessonId": "it-could-be-because",
+  "title": "It could be because — фразы",
+  "items": [
+    { "phrase": "It could be a bear.", "translation": "Возможно, это медведь.", "example": "I see something moving in the bushes — it could be a bear." },
+    { "phrase": "It must be a wolf.", "translation": "Должно быть, это волк.", "example": "Look at those tracks — it must be a wolf." },
+    { "phrase": "It can't be a deer.", "translation": "Не может быть, чтобы это был олень.", "example": "Deer don't live in this area, so it can't be a deer." },
+    { "phrase": "They might be endangered.", "translation": "Возможно, они находятся под угрозой исчезновения.", "example": "We need to protect these animals because they might be endangered." },
+    { "phrase": "This must be their habitat.", "translation": "Должно быть, это их среда обитания.", "example": "Look at all the nests — this must be their habitat." },
+    { "phrase": "It could be because of climate change.", "translation": "Возможно, это из-за изменения климата.", "example": "The ice is melting — it could be because of climate change." },
+    { "phrase": "That can't be a wild animal.", "translation": "Не может быть, чтобы это было дикое животное.", "example": "That can't be a wild animal — it's too close to the houses." },
+    { "phrase": "The species might become extinct soon.", "translation": "Этот вид может скоро исчезнуть.", "example": "If we don't act, the species might become extinct soon." }
+  ]
+}

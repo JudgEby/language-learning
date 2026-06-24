@@ -1,0 +1,182 @@
+[
+  {
+    "id": "899ad99351ae",
+    "question": "Complete: 'He said he ___ really nervous before the audition.'",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "will be"
+    ],
+    "correctIndex": 1,
+    "explanation": "Backshift: 'is' → 'was' in reported speech.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "a86af0258d7a",
+    "question": "Complete: 'She told me she ___ never been to a film premiere.'",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "will have"
+    ],
+    "correctIndex": 1,
+    "explanation": "Backshift: 'have been' → 'had been'.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "eb182ca9ec71",
+    "question": "Complete: 'They asked if I ___ seen the film.'",
+    "options": [
+      "have",
+      "had",
+      "did",
+      "was"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have seen' → 'had seen'.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "b27273aa1579",
+    "question": "Complete: 'If I ___ famous, I would hate the paparazzi.'",
+    "options": [
+      "am",
+      "were",
+      "was",
+      "will be"
+    ],
+    "correctIndex": 1,
+    "explanation": "'If I were' — second conditional subjunctive.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "086dc9bf5c8f",
+    "question": "Complete: 'If she ___ more free time, she could take acting classes.'",
+    "options": [
+      "had",
+      "has",
+      "will have",
+      "would have"
+    ],
+    "correctIndex": 0,
+    "explanation": "Second conditional: 'If + past simple'.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "41d06fab410f",
+    "question": "Complete: 'What ___ you do if you met your favourite actor?'",
+    "options": [
+      "will",
+      "would",
+      "do",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would' in the result clause of second conditional.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "377d532dd83e",
+    "question": "Complete: '___ you possibly help me with this report?'",
+    "options": [
+      "Could",
+      "Can",
+      "Will",
+      "Do"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Could you possibly' — polite request.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "fce7625a7fdd",
+    "question": "Complete: 'Would you like ___ to call a taxi?'",
+    "options": [
+      "me",
+      "I",
+      "that",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Would you like me to...' — polite offer.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "b90a2f422ec1",
+    "question": "Complete: 'I'll ___ the door for you.' (offering)",
+    "options": [
+      "get",
+      "getting",
+      "to get",
+      "got"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'll + base verb' for spontaneous offers.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "962ad82287ad",
+    "question": "What does 'Shall I make some tea?' mean?",
+    "options": [
+      "Ты сделаешь чай?",
+      "Может, мне заварить чай?",
+      "Чай уже готов.",
+      "Я люблю чай."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Shall I...?' = 'Может, мне...?' — предложение помощи.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "0597c695e95c",
+    "question": "Complete: 'Would you mind ___ for a moment?'",
+    "options": [
+      "wait",
+      "waiting",
+      "to wait",
+      "waited"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would you mind + -ing'.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "5904af15dd46",
+    "question": "Complete: 'The actor said he ___ sign autographs after the show.'",
+    "options": [
+      "will",
+      "would",
+      "can",
+      "must"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Will' → 'would' in reported speech.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  }
+]

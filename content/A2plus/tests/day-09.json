@@ -1,0 +1,182 @@
+[
+  {
+    "id": "9687a78ad0b3",
+    "question": "Which sentence expresses the highest certainty?",
+    "options": [
+      "I might try that new restaurant.",
+      "I may go to the party.",
+      "I'll be 30 next year.",
+      "Maybe I'll cook tonight."
+    ],
+    "correctIndex": 2,
+    "explanation": "'Will' expresses the highest certainty (fact or strong prediction).",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "f503af7d12fb",
+    "question": "Complete: 'Scientists say it ___ take another decade to perfect the technology.'",
+    "options": [
+      "will",
+      "may",
+      "might",
+      "can"
+    ],
+    "correctIndex": 1,
+    "explanation": "'May' — 50% possibility, appropriate for scientific uncertainty.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "47083c1ec67e",
+    "question": "Choose the sentence with 'might' expressing low probability:",
+    "options": [
+      "I might try that new vegan restaurant this weekend — I'm not sure yet.",
+      "It will rain tomorrow.",
+      "The sun rises in the east.",
+      "I can swim."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Might' = low probability (~20-30%), uncertain.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "f9c4dbd21378",
+    "question": "Complete: 'I'll ___ order pizza tonight.'",
+    "options": [
+      "probably",
+      "maybe",
+      "perhaps",
+      "might"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Probably' goes after 'will': 'I'll probably order pizza.'",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "0971fd7a5a74",
+    "question": "What does 'plant-based food' mean?",
+    "options": [
+      "еда животного происхождения",
+      "еда на растительной основе",
+      "фаст-фуд",
+      "замороженная еда"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Plant-based food' means 'еда на растительной основе'.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "f51c04894811",
+    "question": "Complete: 'We won't solve world hunger ___, but we'll make progress.'",
+    "options": [
+      "overnight",
+      "daytime",
+      "tonight",
+      "yesterday"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Overnight' — 'за одну ночь' (quickly).",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "851b60068b4d",
+    "question": "Complete: 'I've got a terrible ___ and my eyes hurt.'",
+    "options": [
+      "headache",
+      "head hurt",
+      "head pain",
+      "headache pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I've got a headache' — the correct way to say 'у меня болит голова'.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "d574f7a73baf",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "My throat hurts when I swallow.",
+      "My throat hurt when I swallow.",
+      "I'm throat hurts.",
+      "My throat is hurt."
+    ],
+    "correctIndex": 0,
+    "explanation": "'My throat hurts' — correct possessive + verb.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "74b8b05bfe96",
+    "question": "Complete: 'I feel ___ and I've got a high temperature.'",
+    "options": [
+      "dizzy",
+      "dizz",
+      "dizziness",
+      "dizzing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I feel dizzy' — adjective after 'feel'.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "4561fb9e9980",
+    "question": "What does the doctor ask?",
+    "options": [
+      "How do you feel?",
+      "What do you feel?",
+      "How are you feel?",
+      "What you feel?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'How do you feel?' is what a doctor asks.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "94f343a4cced",
+    "question": "Complete: 'He's got a bad ___ and a runny nose.'",
+    "options": [
+      "cough",
+      "coughing",
+      "coughs",
+      "cough-up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A bad cough' — noun form.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "cef32fc05416",
+    "question": "What does 'I feel sick' mean?",
+    "options": [
+      "Я чувствую себя больным / меня тошнит",
+      "Я болею",
+      "Я здоров",
+      "Я устал"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I feel sick' means 'меня тошнит / я плохо себя чувствую'.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  }
+]

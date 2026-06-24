@@ -1,0 +1,13 @@
+{
+  "lessonId": "relax",
+  "title": "Relax — фразы",
+  "items": [
+    { "phrase": "Why don't we…?", "translation": "Почему бы нам не…?", "example": "Why don't we go to the botanical garden this weekend?" },
+    { "phrase": "You should try…", "translation": "Тебе стоит попробовать…", "example": "You should try the new Italian restaurant downtown." },
+    { "phrase": "What about…?", "translation": "Как насчёт…?", "example": "What about visiting the art gallery on Sunday?" },
+    { "phrase": "I recommend…", "translation": "Я рекомендую…", "example": "I recommend taking a walking tour of the old town." },
+    { "phrase": "Let's…", "translation": "Давай…", "example": "Let's check out that new theme park." },
+    { "phrase": "It's worth visiting…", "translation": "Стоит посетить…", "example": "It's worth visiting the concert hall — the acoustics are amazing." },
+    { "phrase": "If I were you, I'd…", "translation": "На твоём месте я бы…", "example": "If I were you, I'd book tickets in advance." }
+  ]
+}

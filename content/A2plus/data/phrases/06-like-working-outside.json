@@ -1,0 +1,13 @@
+{
+  "lessonId": "like-working-outside",
+  "title": "Like working outside — фразы",
+  "items": [
+    { "phrase": "In my opinion", "translation": "По моему мнению", "example": "In my opinion, working from home is more productive." },
+    { "phrase": "I'd rather…", "translation": "Я бы лучше / предпочёл…", "example": "I'd rather work outside than sit in an office all day." },
+    { "phrase": "It's not my cup of tea", "translation": "Это не моё / не по мне", "example": "Working in retail is not my cup of tea." },
+    { "phrase": "As far as I'm concerned", "translation": "Насколько я считаю / что касается меня", "example": "As far as I'm concerned, flexible hours are the best." },
+    { "phrase": "To be honest", "translation": "Честно говоря", "example": "To be honest, I don't enjoy working at weekends." },
+    { "phrase": "I prefer… to…", "translation": "Я предпочитаю…, а не…", "example": "I prefer working outdoors to sitting at a desk." },
+    { "phrase": "The best thing about… is…", "translation": "Лучшее в… это…", "example": "The best thing about my job is the flexible hours." }
+  ]
+}

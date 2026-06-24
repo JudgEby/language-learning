@@ -1,0 +1,13 @@
+{
+  "lessonId": "can-i-take-a-message",
+  "title": "Can I take a message? — фразы",
+  "items": [
+    { "phrase": "Hello, this is … speaking", "translation": "Здравствуйте, это … говорит", "example": "Hello, this is Maria Gonzalez speaking." },
+    { "phrase": "I'm calling about…", "translation": "Я звоню по поводу…", "example": "I'm calling about the job advertisement I saw online." },
+    { "phrase": "Can I take a message?", "translation": "Могу я передать сообщение?", "example": "She's not available right now. Can I take a message?" },
+    { "phrase": "Could you ask … to call me back?", "translation": "Не могли бы вы попросить … перезвонить мне?", "example": "Could you ask Mr Brown to call me back when he arrives?" },
+    { "phrase": "I'll put you through", "translation": "Я соединю вас", "example": "One moment, I'll put you through to the reception desk." },
+    { "phrase": "Hold the line, please", "translation": "Оставайтесь на линии, пожалуйста", "example": "Hold the line, please, I'll see if he is free." },
+    { "phrase": "I'm afraid the line is busy", "translation": "Боюсь, линия занята", "example": "I'm afraid the line is busy. Would you like to hold?" }
+  ]
+}

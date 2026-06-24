@@ -1,0 +1,13 @@
+{
+  "id": "treasure-hunt",
+  "order": 22,
+  "unit": "Unit 8 — Money",
+  "title": "Treasure hunt",
+  "contentMd": "## Relative clauses\n\n### Простая суть\n\nПридаточные определительные предложения — это как добавление тега к существительному. Ты говоришь «тот самый человек, который…» или «книга, которая…». В английском за это отвечают слова *who* (для людей), *which/that* (для вещей), *where* (для мест) и *whose* (для принадлежности). Они помогают уточнить, о ком или о чём именно речь.\n\n### Как это работает\n\n- **who** — для людей. *The woman **who** lives next door is a doctor.*\n- **which** — для вещей и животных. *The book **which** I bought is amazing.*\n- **that** — и для людей, и для вещей (неформально). *The man **that** called you is my brother.*\n- **where** — для мест. *The restaurant **where** we met is closed now.*\n- **whose** — для принадлежности (чей/чья/чьё). *The student **whose** bag was stolen is upset.*\n\nВ английском есть **определительные** (без запятых — важная информация) и **описательные** (с запятыми — дополнительная информация). На уровне A2 достаточно освоить первые.\n\n### Живые примеры\n\n- He's the guy **who** helped me with my homework. (Он тот парень, который помог мне с домашкой.)\n- This is the house **that** my grandfather built. (Это дом, который построил мой дедушка.)\n- That's the café **where** we first met. (Это то кафе, где мы впервые встретились.)\n- Do you know the girl **whose** father is a famous actor? (Ты знаешь девушку, чей отец — известный актёр?)\n- I lost the necklace **which** my grandmother gave me. (Я потеряла ожерелье, которое подарила мне бабушка.)\n\n### Лайфхак для запоминания\n\n*Who* = человек (буква *w* похожа на человечка). *Which* = вещь (буква *i* как вещь). *Where* = место (в слове *where* слышится *here* — «здесь», то есть место). *Whose* — «чья вещь?» (ownership — владение). Не можешь выбрать между *who* и *whom*? На A2 просто используй *who* для всего.",
+  "examples": [
+    "He's the guy who helped me with my homework.",
+    "This is the house that my grandfather built.",
+    "That's the café where we first met.",
+    "Do you know the girl whose father is a famous actor?"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "lessonId": "treasure-hunt",
+  "title": "Treasure hunt — идиомы",
+  "items": [
+    { "idiom": "cost a fortune", "translation": "стоить целое состояние", "example": "The renovation cost a fortune but the house looks amazing now." },
+    { "idiom": "broke", "translation": "на мели, без денег", "example": "I can't come to the restaurant — I'm completely broke until payday." }
+  ]
+}

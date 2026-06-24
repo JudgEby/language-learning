@@ -13,6 +13,7 @@ interface ProgressState {
   toggleStudyComplete: (level: string, key: string) => void;
   clearStudyComplete: (level: string, keys: string[]) => void;
   markTestComplete: (level: string, testId: string) => void;
+  resetTests: (level: string) => void;
   isStudyComplete: (level: string, key: string) => boolean;
   isTestComplete: (level: string, testId: string) => boolean;
 }
@@ -102,6 +103,18 @@ export const useProgressStore = create<ProgressState>()(
                 ...current,
                 completedTests: [...current.completedTests, testId],
               },
+            },
+          };
+        }),
+
+      resetTests: (level) =>
+        set((state) => {
+          const current = getLevel(state, level);
+          if (current.completedTests.length === 0) return state;
+          return {
+            levels: {
+              ...state.levels,
+              [level]: { ...current, completedTests: [] },
             },
           };
         }),

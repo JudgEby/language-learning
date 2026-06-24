@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0dc00a3a62ad",
+    "question": "Complete: 'You ___ wear a uniform at this school.' (obligation)",
+    "options": [
+      "can",
+      "have to",
+      "mustn't",
+      "don't have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have to' — external obligation.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "af015bd8b027",
+    "question": "What does 'You mustn't use your phone during the exam' mean?",
+    "options": [
+      "Ты не обязан пользоваться телефоном.",
+      "Нельзя пользоваться телефоном.",
+      "Ты можешь пользоваться телефоном.",
+      "Телефон не нужен."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Mustn't' = строгий запрет.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "d57bd0d52aef",
+    "question": "Complete: 'You ___ borrow books from the library.' (permission)",
+    "options": [
+      "must",
+      "can",
+      "have to",
+      "mustn't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can' — разрешение.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "27ac315c710e",
+    "question": "Complete: 'We ___ go to school on Saturdays — it's optional.'",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "can't",
+      "shouldn't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' = 'не обязательно'.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "1bedac8d06b9",
+    "question": "Choose the correct advice:",
+    "options": [
+      "You should practise speaking every day.",
+      "You should to practise.",
+      "You should practising.",
+      "You are should practise."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should + base verb' — giving advice.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "19e16c2ea8d0",
+    "question": "Complete: 'Why ___ you join a language exchange group?'",
+    "options": [
+      "don't",
+      "do",
+      "aren't",
+      "won't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Why don't you...' — friendly suggestion.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "9673f37ae567",
+    "question": "Complete: 'If I ___ you, I'd start preparing earlier.'",
+    "options": [
+      "am",
+      "were",
+      "was",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanation": "'If I were you' — fixed expression for giving advice.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "65ecf714f213",
+    "question": "Which verb takes the -ing form?",
+    "options": [
+      "want",
+      "need",
+      "avoid",
+      "plan"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Avoid' + -ing. Want, need, plan take 'to + verb'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "1432acb004bc",
+    "question": "Complete: 'You ought ___ see a doctor.'",
+    "options": [
+      "to",
+      "—",
+      "for",
+      "that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Ought to' + verb (same meaning as 'should').",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "ec1c22b2f7aa",
+    "question": "Complete: 'Have you ever ___ a poem?'",
+    "options": [
+      "write",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Have you ever written' — past participle of 'write'.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "0dfbd7531539",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "You can borrow books from the library for two weeks.",
+      "You must borrow books.",
+      "You don't have to borrow books.",
+      "You can't borrow books."
+    ],
+    "correctIndex": 0,
+    "explanation": "Permission statement.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "7713558ca22f",
+    "question": "What does 'ought to' express?",
+    "options": [
+      "запрет",
+      "совет (чуть более формально, чем should)",
+      "разрешение",
+      "возможность"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Ought to' expresses advice, slightly more formal than 'should'.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  }
+]

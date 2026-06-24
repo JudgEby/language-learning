@@ -1,0 +1,16 @@
+{
+  "lessonId": "i-totally-disagree",
+  "title": "I totally disagree — новые слова",
+  "items": [
+    { "term": "download", "translation": "скачивать, загружать", "example": "I need to download the latest version of the app." },
+    { "term": "upload", "translation": "загружать (на сервер)", "example": "She uploaded the photos to her profile." },
+    { "term": "blog", "translation": "блог", "example": "He writes a blog about travel and technology." },
+    { "term": "website", "translation": "веб-сайт", "example": "The website is down for maintenance." },
+    { "term": "app", "translation": "приложение", "example": "This app helps you learn new words every day." },
+    { "term": "subscription", "translation": "подписка", "example": "I have a monthly subscription to the streaming service." },
+    { "term": "update", "translation": "обновление", "example": "There's a new update for the operating system." },
+    { "term": "password", "translation": "пароль", "example": "Don't share your password with anyone." },
+    { "term": "username", "translation": "имя пользователя", "example": "Enter your username to log in." },
+    { "term": "login / log in", "translation": "вход / входить", "example": "You need to log in to access your account." }
+  ]
+}

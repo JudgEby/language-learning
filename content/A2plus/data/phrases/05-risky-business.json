@@ -1,0 +1,12 @@
+{
+  "lessonId": "risky-business",
+  "title": "Risky business — фразы",
+  "items": [
+    { "phrase": "I usually start work at…", "translation": "Я обычно начинаю работу в…", "example": "I usually start work at nine in the morning." },
+    { "phrase": "I often have meetings in the afternoon", "translation": "У меня часто бывают встречи днём", "example": "I often have meetings in the afternoon, so mornings are quieter." },
+    { "phrase": "I hardly ever…", "translation": "Я почти никогда…", "example": "I hardly ever check my emails at the weekend." },
+    { "phrase": "I never work late", "translation": "Я никогда не работаю допоздна", "example": "I never work late because I like to spend time with my family." },
+    { "phrase": "How often do you…?", "translation": "Как часто ты…?", "example": "How often do you travel for business?" },
+    { "phrase": "Once a week / Twice a month", "translation": "Раз в неделю / Два раза в месяц", "example": "I visit clients once a week." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lessonId": "what-can-i-do-for-you",
+  "title": "What can I do for you? — новые слова",
+  "items": [
+    { "term": "do a favour", "translation": "сделать одолжение", "example": "Could you do me a favour and carry this bag?" },
+    { "term": "lend a hand", "translation": "помочь (протянуть руку помощи)", "example": "Could you lend me a hand with the boxes?" },
+    { "term": "make an effort", "translation": "приложить усилие", "example": "She made an effort to arrive on time." },
+    { "term": "take a risk", "translation": "рискнуть", "example": "He took a risk by investing in the new project." },
+    { "term": "make a decision", "translation": "принять решение", "example": "I need to make a decision by tomorrow." },
+    { "term": "keep a promise", "translation": "сдержать обещание", "example": "She always keeps her promises." },
+    { "term": "tell a lie", "translation": "солгать", "example": "He told a lie to avoid getting into trouble." },
+    { "term": "tell the truth", "translation": "сказать правду", "example": "You should always tell the truth." },
+    { "term": "have a guess", "translation": "попробовать угадать", "example": "Have a guess how much this costs." },
+    { "term": "give a hand", "translation": "помочь", "example": "Can you give me a hand with the luggage?" }
+  ]
+}

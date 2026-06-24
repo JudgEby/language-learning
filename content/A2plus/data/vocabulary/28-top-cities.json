@@ -1,0 +1,16 @@
+{
+  "lessonId": "top-cities",
+  "title": "Top cities — новые слова",
+  "items": [
+    { "term": "crowded", "translation": "людный, переполненный", "example": "The city centre is always crowded at weekends." },
+    { "term": "lively", "translation": "оживлённый, живой", "example": "The market is very lively in the morning." },
+    { "term": "polluted", "translation": "загрязнённый", "example": "The air in industrial areas is heavily polluted." },
+    { "term": "safe", "translation": "безопасный", "example": "This neighbourhood is very safe, even at night." },
+    { "term": "modern", "translation": "современный", "example": "The city has many modern skyscrapers." },
+    { "term": "historic", "translation": "исторический", "example": "We walked through the historic district of the city." },
+    { "term": "spacious", "translation": "просторный", "example": "The new square is very spacious and open." },
+    { "term": "quiet", "translation": "тихий, спокойный", "example": "I prefer quiet residential areas to busy centres." },
+    { "term": "convenient", "translation": "удобный", "example": "The public transport system is very convenient." },
+    { "term": "atmosphere", "translation": "атмосфера", "example": "The atmosphere in the old town is very charming." }
+  ]
+}

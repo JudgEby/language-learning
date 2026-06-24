@@ -1,0 +1,14 @@
+{
+  "lessonId": "living-the-dream",
+  "title": "Living the dream — фразы",
+  "items": [
+    { "phrase": "I used to live in a small town.", "translation": "Раньше я жил в маленьком городе.", "example": "I used to live in a small town, but now I live in the city." },
+    { "phrase": "I didn't use to like spicy food.", "translation": "Раньше мне не нравилась острая еда.", "example": "I didn't use to like spicy food, but now I love it." },
+    { "phrase": "Did you use to play the guitar?", "translation": "Ты раньше играл на гитаре?", "example": "Did you use to play the guitar when you were younger?" },
+    { "phrase": "I never used to get up early.", "translation": "Раньше я никогда не вставал рано.", "example": "I never used to get up early, but now I do." },
+    { "phrase": "He used to be very shy.", "translation": "Раньше он был очень застенчивым.", "example": "He used to be very shy, but now he's quite confident." },
+    { "phrase": "She used to have a dog.", "translation": "Раньше у неё была собака.", "example": "She used to have a dog when she was a child." },
+    { "phrase": "What did you use to do at weekends?", "translation": "Чем ты раньше занимался по выходным?", "example": "What did you use to do at weekends before you had kids?" },
+    { "phrase": "I used to think that was true.", "translation": "Раньше я думал, что это правда.", "example": "I used to think that was true, but now I know it's a myth." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lessonId": "green-living",
+  "title": "Green living — фразы",
+  "items": [
+    { "phrase": "much better than", "translation": "гораздо лучше, чем", "example": "Public transport is much better than driving in the city centre." },
+    { "phrase": "not as expensive as", "translation": "не такой дорогой, как", "example": "Solar energy is not as expensive as it was ten years ago." },
+    { "phrase": "the most important", "translation": "самый важный", "example": "Reducing waste is the most important thing we can do." },
+    { "phrase": "a lot cheaper than", "translation": "намного дешевле, чем", "example": "Recycling is a lot cheaper than producing new materials." },
+    { "phrase": "as big as", "translation": "такой же большой, как", "example": "The new park is as big as three football fields." },
+    { "phrase": "slightly better than", "translation": "немного лучше, чем", "example": "This solution is slightly better than the previous one." },
+    { "phrase": "far more efficient", "translation": "гораздо эффективнее", "example": "Electric cars are far more efficient than petrol cars." },
+    { "phrase": "the least harmful", "translation": "наименее вредный", "example": "Walking is the least harmful form of transport." }
+  ]
+}

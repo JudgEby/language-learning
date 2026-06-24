@@ -1,0 +1,16 @@
+{
+  "lessonId": "a-lucky-break",
+  "title": "A lucky break — новые слова",
+  "items": [
+    { "term": "lucky break", "translation": "счастливый шанс, удача", "example": "Getting that audition was a lucky break for her." },
+    { "term": "information", "translation": "информация", "example": "The film contains useful information about the industry." },
+    { "term": "director", "translation": "режиссёр", "example": "A good director brings the script to life." },
+    { "term": "actor", "translation": "актёр", "example": "He is the highest-paid actor in Hollywood." },
+    { "term": "happiness", "translation": "счастье", "example": "Fame doesn't always bring happiness." },
+    { "term": "achievement", "translation": "достижение", "example": "Winning the award was a great achievement." },
+    { "term": "popularity", "translation": "популярность", "example": "Her popularity grew after the successful film." },
+    { "term": "entertainment", "translation": "развлечение", "example": "The film industry is part of the entertainment business." },
+    { "term": "competition", "translation": "конкуренция", "example": "There is a lot of competition for roles in Hollywood." },
+    { "term": "celebration", "translation": "празднование", "example": "There was a big celebration after the premiere." }
+  ]
+}

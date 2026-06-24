@@ -1,0 +1,494 @@
+{
+  "level": "A2plus",
+  "title": "Speakout 2nd Edition Pre-intermediate (A2+)",
+  "source": {
+    "sb": "extract/SB.txt",
+    "wb": "extract/WB.txt"
+  },
+  "studyOrder": [
+    {
+      "type": "rule",
+      "id": "feeling-good"
+    },
+    {
+      "type": "vocabulary",
+      "id": "feeling-good"
+    },
+    {
+      "type": "phrases",
+      "id": "feeling-good"
+    },
+    {
+      "type": "rule",
+      "id": "true-love"
+    },
+    {
+      "type": "vocabulary",
+      "id": "true-love"
+    },
+    {
+      "type": "phrases",
+      "id": "true-love"
+    },
+    {
+      "type": "rule",
+      "id": "nice-day"
+    },
+    {
+      "type": "vocabulary",
+      "id": "nice-day"
+    },
+    {
+      "type": "phrases",
+      "id": "nice-day"
+    },
+    {
+      "type": "rule",
+      "id": "the-company-4u"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-company-4u"
+    },
+    {
+      "type": "phrases",
+      "id": "the-company-4u"
+    },
+    {
+      "type": "rule",
+      "id": "risky-business"
+    },
+    {
+      "type": "vocabulary",
+      "id": "risky-business"
+    },
+    {
+      "type": "phrases",
+      "id": "risky-business"
+    },
+    {
+      "type": "rule",
+      "id": "like-working-outside"
+    },
+    {
+      "type": "vocabulary",
+      "id": "like-working-outside"
+    },
+    {
+      "type": "phrases",
+      "id": "like-working-outside"
+    },
+    {
+      "type": "idioms",
+      "id": "like-working-outside"
+    },
+    {
+      "type": "rule",
+      "id": "free-in-nyc"
+    },
+    {
+      "type": "vocabulary",
+      "id": "free-in-nyc"
+    },
+    {
+      "type": "phrases",
+      "id": "free-in-nyc"
+    },
+    {
+      "type": "rule",
+      "id": "relax"
+    },
+    {
+      "type": "vocabulary",
+      "id": "relax"
+    },
+    {
+      "type": "phrases",
+      "id": "relax"
+    },
+    {
+      "type": "rule",
+      "id": "can-i-take-a-message"
+    },
+    {
+      "type": "vocabulary",
+      "id": "can-i-take-a-message"
+    },
+    {
+      "type": "phrases",
+      "id": "can-i-take-a-message"
+    },
+    {
+      "type": "rule",
+      "id": "hidden-talent"
+    },
+    {
+      "type": "vocabulary",
+      "id": "hidden-talent"
+    },
+    {
+      "type": "phrases",
+      "id": "hidden-talent"
+    },
+    {
+      "type": "rule",
+      "id": "schools-of-thought"
+    },
+    {
+      "type": "vocabulary",
+      "id": "schools-of-thought"
+    },
+    {
+      "type": "phrases",
+      "id": "schools-of-thought"
+    },
+    {
+      "type": "rule",
+      "id": "what-should-i-do"
+    },
+    {
+      "type": "vocabulary",
+      "id": "what-should-i-do"
+    },
+    {
+      "type": "phrases",
+      "id": "what-should-i-do"
+    },
+    {
+      "type": "rule",
+      "id": "fantastic-film-trips"
+    },
+    {
+      "type": "vocabulary",
+      "id": "fantastic-film-trips"
+    },
+    {
+      "type": "phrases",
+      "id": "fantastic-film-trips"
+    },
+    {
+      "type": "rule",
+      "id": "travel-tips"
+    },
+    {
+      "type": "vocabulary",
+      "id": "travel-tips"
+    },
+    {
+      "type": "phrases",
+      "id": "travel-tips"
+    },
+    {
+      "type": "rule",
+      "id": "you-cant-miss-it"
+    },
+    {
+      "type": "vocabulary",
+      "id": "you-cant-miss-it"
+    },
+    {
+      "type": "phrases",
+      "id": "you-cant-miss-it"
+    },
+    {
+      "type": "rule",
+      "id": "keeping-fit"
+    },
+    {
+      "type": "vocabulary",
+      "id": "keeping-fit"
+    },
+    {
+      "type": "phrases",
+      "id": "keeping-fit"
+    },
+    {
+      "type": "rule",
+      "id": "the-future-of-food"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-future-of-food"
+    },
+    {
+      "type": "phrases",
+      "id": "the-future-of-food"
+    },
+    {
+      "type": "rule",
+      "id": "how-are-you-feeling"
+    },
+    {
+      "type": "vocabulary",
+      "id": "how-are-you-feeling"
+    },
+    {
+      "type": "phrases",
+      "id": "how-are-you-feeling"
+    },
+    {
+      "type": "idioms",
+      "id": "how-are-you-feeling"
+    },
+    {
+      "type": "rule",
+      "id": "living-the-dream"
+    },
+    {
+      "type": "vocabulary",
+      "id": "living-the-dream"
+    },
+    {
+      "type": "phrases",
+      "id": "living-the-dream"
+    },
+    {
+      "type": "rule",
+      "id": "the-great-impostor"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-great-impostor"
+    },
+    {
+      "type": "phrases",
+      "id": "the-great-impostor"
+    },
+    {
+      "type": "rule",
+      "id": "can-you-tell-me"
+    },
+    {
+      "type": "vocabulary",
+      "id": "can-you-tell-me"
+    },
+    {
+      "type": "phrases",
+      "id": "can-you-tell-me"
+    },
+    {
+      "type": "rule",
+      "id": "treasure-hunt"
+    },
+    {
+      "type": "vocabulary",
+      "id": "treasure-hunt"
+    },
+    {
+      "type": "phrases",
+      "id": "treasure-hunt"
+    },
+    {
+      "type": "idioms",
+      "id": "treasure-hunt"
+    },
+    {
+      "type": "rule",
+      "id": "pay-me-more"
+    },
+    {
+      "type": "vocabulary",
+      "id": "pay-me-more"
+    },
+    {
+      "type": "phrases",
+      "id": "pay-me-more"
+    },
+    {
+      "type": "rule",
+      "id": "im-just-looking"
+    },
+    {
+      "type": "vocabulary",
+      "id": "im-just-looking"
+    },
+    {
+      "type": "phrases",
+      "id": "im-just-looking"
+    },
+    {
+      "type": "rule",
+      "id": "green-living"
+    },
+    {
+      "type": "vocabulary",
+      "id": "green-living"
+    },
+    {
+      "type": "phrases",
+      "id": "green-living"
+    },
+    {
+      "type": "rule",
+      "id": "into-the-wild"
+    },
+    {
+      "type": "vocabulary",
+      "id": "into-the-wild"
+    },
+    {
+      "type": "phrases",
+      "id": "into-the-wild"
+    },
+    {
+      "type": "rule",
+      "id": "it-could-be-because"
+    },
+    {
+      "type": "vocabulary",
+      "id": "it-could-be-because"
+    },
+    {
+      "type": "phrases",
+      "id": "it-could-be-because"
+    },
+    {
+      "type": "rule",
+      "id": "top-cities"
+    },
+    {
+      "type": "vocabulary",
+      "id": "top-cities"
+    },
+    {
+      "type": "phrases",
+      "id": "top-cities"
+    },
+    {
+      "type": "rule",
+      "id": "crime-and-punishment"
+    },
+    {
+      "type": "vocabulary",
+      "id": "crime-and-punishment"
+    },
+    {
+      "type": "phrases",
+      "id": "crime-and-punishment"
+    },
+    {
+      "type": "rule",
+      "id": "theres-a-problem"
+    },
+    {
+      "type": "vocabulary",
+      "id": "theres-a-problem"
+    },
+    {
+      "type": "phrases",
+      "id": "theres-a-problem"
+    },
+    {
+      "type": "rule",
+      "id": "keeping-in-touch"
+    },
+    {
+      "type": "vocabulary",
+      "id": "keeping-in-touch"
+    },
+    {
+      "type": "phrases",
+      "id": "keeping-in-touch"
+    },
+    {
+      "type": "rule",
+      "id": "make-a-difference"
+    },
+    {
+      "type": "vocabulary",
+      "id": "make-a-difference"
+    },
+    {
+      "type": "phrases",
+      "id": "make-a-difference"
+    },
+    {
+      "type": "rule",
+      "id": "i-totally-disagree"
+    },
+    {
+      "type": "vocabulary",
+      "id": "i-totally-disagree"
+    },
+    {
+      "type": "phrases",
+      "id": "i-totally-disagree"
+    },
+    {
+      "type": "rule",
+      "id": "caught-on-film"
+    },
+    {
+      "type": "vocabulary",
+      "id": "caught-on-film"
+    },
+    {
+      "type": "phrases",
+      "id": "caught-on-film"
+    },
+    {
+      "type": "rule",
+      "id": "a-lucky-break"
+    },
+    {
+      "type": "vocabulary",
+      "id": "a-lucky-break"
+    },
+    {
+      "type": "phrases",
+      "id": "a-lucky-break"
+    },
+    {
+      "type": "idioms",
+      "id": "a-lucky-break"
+    },
+    {
+      "type": "rule",
+      "id": "what-can-i-do-for-you"
+    },
+    {
+      "type": "vocabulary",
+      "id": "what-can-i-do-for-you"
+    },
+    {
+      "type": "phrases",
+      "id": "what-can-i-do-for-you"
+    },
+    {
+      "type": "idioms",
+      "id": "what-can-i-do-for-you"
+    }
+  ],
+  "testDays": [
+    "day-01",
+    "day-02",
+    "day-03",
+    "day-04",
+    "day-05",
+    "day-06",
+    "day-07",
+    "day-08",
+    "day-09",
+    "day-10",
+    "day-11",
+    "day-12",
+    "day-13",
+    "day-14",
+    "day-15",
+    "day-16",
+    "day-17",
+    "day-18",
+    "day-19",
+    "day-20",
+    "day-21",
+    "day-22",
+    "day-23",
+    "day-24",
+    "day-25",
+    "day-26",
+    "day-27",
+    "day-28",
+    "day-29",
+    "day-30"
+  ]
+}

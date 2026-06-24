@@ -1,0 +1,13 @@
+{
+  "id": "fantastic-film-trips",
+  "order": 13,
+  "unit": "Unit 5 — Travel",
+  "title": "Fantastic film trips",
+  "contentMd": "## Past simple vs past continuous (when / while)\n\n### Простая суть\n\nПредставь, что ты смотришь фильм. Прошлое простое (Past Simple) — это **главные события сюжета**, которые случились одно за другим. Прошлое продолженное (Past Continuous) — это **фон**, действие, которое длилось в тот момент, когда произошло что-то важное.\n\n*I was walking home (фон) when I saw a shooting star (главное событие).*\n\n### Как это работает\n\n- **Past Simple** (V2 / -ed): законченное действие в прошлом. *I arrived at 8 pm.*\n- **Past Continuous** (was/were + V-ing): длившееся действие в прошлом. *I was waiting for the bus.*\n- **When** + Past Simple (прерывающее действие). *When I got home, I made dinner.*\n- **While** + Past Continuous (фоновое действие). *While I was cooking, my phone rang.*\n- Можно в одном предложении: *I was watching TV when the electricity went out.* (фоновое действие + прерывающее действие)\n\n### Живые примеры\n\n- I **was travelling** around Italy **when** I **met** my best friend. (Я путешествовал по Италии, когда встретил своего лучшего друга.)\n- **While** we **were driving** to the coast, it **started** to rain heavily. (Пока мы ехали на побережье, начался сильный дождь.)\n- She **was sleeping** on the train **when** the ticket inspector **woke** her up. (Она спала в поезде, когда контролёр разбудил её.)\n- They **were waiting** at the airport for three hours before the flight **was** finally **called**. (Они ждали в аэропорту три часа, пока наконец не объявили рейс.)\n\n### Лайфхак для запоминания\n\nPast Continuous — это декорации (закат, шум дождя, люди вокруг). Past Simple — это актёры, которые входят в кадр и делают что-то важное. *While the sun was setting (декорации), he proposed (главная сцена).* Если действие длинное и фоновое — Continuous. Если короткое и ключевое — Simple.",
+  "examples": [
+    "I was travelling around Italy when I met my best friend.",
+    "While we were driving to the coast, it started to rain heavily.",
+    "She was sleeping on the train when the ticket inspector woke her up.",
+    "They were waiting at the airport for three hours before the flight was finally called."
+  ]
+}

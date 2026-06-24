@@ -1,0 +1,182 @@
+[
+  {
+    "id": "687d910ff82f",
+    "question": "Complete: 'Thousands of phones ___ every day in big cities.'",
+    "options": [
+      "are stolen",
+      "steal",
+      "are stealing",
+      "is stolen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present passive: 'are + V3' (are stolen).",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "148db079f8e5",
+    "question": "Choose the correct passive sentence:",
+    "options": [
+      "The thieves were arrested a few hours after the robbery.",
+      "The thieves arrested a few hours after.",
+      "The thieves was arrested.",
+      "The thiefs were arrested."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past passive: 'were + V3' (were arrested).",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "d975f6f28493",
+    "question": "Complete: 'This museum ___ in 1890.'",
+    "options": [
+      "built",
+      "was built",
+      "was builded",
+      "is built"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Was built' — past passive, 'был построен'.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "5ec8e165343b",
+    "question": "When do we use the passive voice?",
+    "options": [
+      "When the action is more important than who did it.",
+      "When we know exactly who did it.",
+      "Only in present tense.",
+      "Only with irregular verbs."
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive is used when the action is more important than the doer.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "d6f23e1efe9e",
+    "question": "Complete: 'The cake was made ___ my grandmother.'",
+    "options": [
+      "from",
+      "by",
+      "of",
+      "with"
+    ],
+    "correctIndex": 1,
+    "explanation": "'By' introduces the agent in passive sentences.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "34257e5df6b8",
+    "question": "What does 'suspect' mean in a crime context?",
+    "options": [
+      "полицейский",
+      "подозреваемый",
+      "преступник",
+      "свидетель"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Suspect' = 'подозреваемый'.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "3690846f4f60",
+    "question": "Complete the polite complaint: 'I'm sorry to bother you, but the air conditioner ___ working.'",
+    "options": [
+      "isn't",
+      "doesn't",
+      "won't",
+      "hasn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Isn't working' — present continuous for a current problem.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "2a8c0192a8fc",
+    "question": "Choose the correct polite complaint opening:",
+    "options": [
+      "I'm afraid there's a problem with my order.",
+      "There is problem.",
+      "You have a problem.",
+      "This is bad."
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'm afraid there's a problem...' is a polite way to start a complaint.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "cd9932b35c6d",
+    "question": "Complete: 'Could you please ___ the bill? There's a mistake.'",
+    "options": [
+      "check",
+      "to check",
+      "checking",
+      "checked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Could you please check' — base verb after 'could you please'.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "20a28dd60a3e",
+    "question": "What is the 'politeness sandwich' for complaints?",
+    "options": [
+      "Problem + request + goodbye",
+      "Politeness opener + problem + polite request",
+      "Just the problem",
+      "Accusation + demand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Start with 'I'm sorry / I'm afraid', state the problem, end with 'Could you...'.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "5274240414f9",
+    "question": "Complete: 'There seems to be a problem ___ the Wi-Fi connection.'",
+    "options": [
+      "with",
+      "in",
+      "on",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A problem with' — correct preposition.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "394640e57487",
+    "question": "What does 'I'm afraid' in a complaint express?",
+    "options": [
+      "actual fear",
+      "politeness / softening the complaint",
+      "anger",
+      "surprise"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'm afraid' softens the complaint — it doesn't mean actual fear.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  }
+]

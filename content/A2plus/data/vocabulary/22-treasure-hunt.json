@@ -1,0 +1,16 @@
+{
+  "lessonId": "treasure-hunt",
+  "title": "Treasure hunt — новые слова",
+  "items": [
+    { "term": "lend", "translation": "одалживать (дать взаймы)", "example": "Can you lend me twenty pounds until Friday?" },
+    { "term": "borrow", "translation": "занимать (взять взаймы)", "example": "I need to borrow some money from my parents." },
+    { "term": "earn", "translation": "зарабатывать", "example": "She earns a good salary as a software engineer." },
+    { "term": "invest", "translation": "инвестировать, вкладывать", "example": "He decided to invest his savings in the stock market." },
+    { "term": "save", "translation": "копить, экономить", "example": "I'm saving money to buy a new car." },
+    { "term": "waste", "translation": "тратить впустую", "example": "Don't waste your money on useless things." },
+    { "term": "inherit", "translation": "унаследовать", "example": "She inherited a house from her grandmother." },
+    { "term": "owe", "translation": "быть должным", "example": "I still owe my brother fifty dollars." },
+    { "term": "afford", "translation": "позволить себе (финансово)", "example": "I can't afford a new phone right now." },
+    { "term": "pay off", "translation": "расплатиться, погасить долг", "example": "I finally paid off my student loan." }
+  ]
+}

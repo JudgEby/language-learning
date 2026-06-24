@@ -1,0 +1,16 @@
+{
+  "lessonId": "risky-business",
+  "title": "Risky business — новые слова",
+  "items": [
+    { "term": "sales rep", "translation": "торговый представитель", "example": "A sales rep visits clients to show them new products." },
+    { "term": "IT consultant", "translation": "ИТ-консультант", "example": "The IT consultant helped us set up the new network." },
+    { "term": "architect", "translation": "архитектор", "example": "The architect designed a beautiful modern building." },
+    { "term": "journalist", "translation": "журналист", "example": "She works as a journalist for a local newspaper." },
+    { "term": "accountant", "translation": "бухгалтер", "example": "My accountant helps me with my taxes every year." },
+    { "term": "lawyer", "translation": "юрист", "example": "The lawyer reviewed the contract before I signed it." },
+    { "term": "receptionist", "translation": "администратор на ресепшн", "example": "The receptionist greeted us with a smile." },
+    { "term": "manager", "translation": "менеджер, руководитель", "example": "The manager is responsible for the whole team." },
+    { "term": "retire", "translation": "выходить на пенсию", "example": "My father retired at the age of 65." },
+    { "term": "get fired", "translation": "быть уволенным", "example": "He got fired for always coming to work late." }
+  ]
+}

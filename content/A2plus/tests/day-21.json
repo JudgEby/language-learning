@@ -1,0 +1,183 @@
+[
+  {
+    "id": "e20ff7e097c4",
+    "question": "Complete: 'I ___ sightseeing tomorrow — I've booked a tour.'",
+    "options": [
+      "am going",
+      "will go",
+      "go",
+      "might go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous for a definite future arrangement.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "95b39db88bc3",
+    "question": "Choose the correct sentence about a plan without definite details:",
+    "options": [
+      "We are going to have a picnic in Central Park this Sunday.",
+      "We are having a picnic at 3pm — table booked.",
+      "We have a picnic.",
+      "We will have a picnic right now."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be going to' for intention without confirmed details.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "d7e40d07b949",
+    "question": "Complete: '___ happened at the skate park yesterday?'",
+    "options": [
+      "What",
+      "What did",
+      "What was",
+      "What does"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subject question — no auxiliary needed.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "441167d8819b",
+    "question": "Which is an object question?",
+    "options": [
+      "Who called you?",
+      "Who did you call?",
+      "Who lives here?",
+      "What happened?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Who did you call?' — 'who' is the object, auxiliary needed.",
+    "relatedRuleIds": [
+      "relax",
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "e64680943e45",
+    "question": "Complete on the phone: 'Hello, ___ is Anna speaking.'",
+    "options": [
+      "this",
+      "that",
+      "here",
+      "it's"
+    ],
+    "correctIndex": 0,
+    "explanation": "'This is Anna speaking' — phone introduction.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "43b02102957d",
+    "question": "What does 'hold on' mean on the phone?",
+    "options": [
+      "повесить трубку",
+      "подождать",
+      "перезвонить",
+      "записать"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Hold on' = 'подождите (не вешайте трубку)'.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "c4a44a65164b",
+    "question": "Complete: 'Could I ___ to Mr Jones, please?'",
+    "options": [
+      "tell",
+      "speak",
+      "say",
+      "talk"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could I speak to...' — polite phone request.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "4099120b171a",
+    "question": "Complete: 'Have you ever ___ on stage?'",
+    "options": [
+      "perform",
+      "performed",
+      "performing",
+      "performs"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have you ever + V3' (performed).",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "879ce2ea13f5",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I have never sung in public.",
+      "I haven't never sung.",
+      "I never sung.",
+      "I didn't never sing."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have never + V3' — one negative only.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "50f724d1b281",
+    "question": "Complete: 'I need to ___ a decision.'",
+    "options": [
+      "make",
+      "do",
+      "take",
+      "have"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make a decision' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "4034bb8ffeab",
+    "question": "Complete: 'Please don't ___ a noise — the baby is sleeping.'",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Make a noise' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "d9940a3a5b91",
+    "question": "Complete: 'She has never ___ in a helicopter.'",
+    "options": [
+      "fly",
+      "flown",
+      "flew",
+      "flying"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Has never flown' — irregular past participle of 'fly'.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  }
+]

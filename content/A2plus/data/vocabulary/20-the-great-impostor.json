@@ -1,0 +1,16 @@
+{
+  "lessonId": "the-great-impostor",
+  "title": "The great impostor — новые слова",
+  "items": [
+    { "term": "cure illnesses", "translation": "лечить болезни", "example": "Scientists work hard to cure illnesses like cancer." },
+    { "term": "save a life", "translation": "спасти жизнь", "example": "The doctor performed surgery to save a life." },
+    { "term": "make a discovery", "translation": "сделать открытие", "example": "Marie Curie made a discovery that changed science." },
+    { "term": "conduct research", "translation": "проводить исследование", "example": "The team conducted research on climate change." },
+    { "term": "perform an experiment", "translation": "провести эксперимент", "example": "We performed an experiment to test the hypothesis." },
+    { "term": "develop a theory", "translation": "разработать теорию", "example": "Einstein developed a theory about relativity." },
+    { "term": "find a solution", "translation": "найти решение", "example": "We need to find a solution to this problem." },
+    { "term": "prove a point", "translation": "доказать точку зрения", "example": "His experiment proved a point about gravity." },
+    { "term": "break a record", "translation": "побить рекорд", "example": "The athlete broke a record at the Olympics." },
+    { "term": "take a risk", "translation": "рискнуть", "example": "She took a risk and started her own business." }
+  ]
+}

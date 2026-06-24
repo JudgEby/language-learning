@@ -1,0 +1,12 @@
+{
+  "lessonId": "the-company-4u",
+  "title": "The company 4U — фразы",
+  "items": [
+    { "phrase": "I'm in charge of…", "translation": "Я отвечаю за…", "example": "I'm in charge of the marketing department." },
+    { "phrase": "I work as…", "translation": "Я работаю… (кем-то)", "example": "I work as a software developer for a tech company." },
+    { "phrase": "My responsibilities include…", "translation": "Мои обязанности включают…", "example": "My responsibilities include training new staff members." },
+    { "phrase": "I'm responsible for…", "translation": "Я ответственен за…", "example": "I'm responsible for managing the team's budget." },
+    { "phrase": "I deal with…", "translation": "Я занимаюсь… / имею дело с…", "example": "I deal with customer complaints and enquiries." },
+    { "phrase": "I report to…", "translation": "Я подчиняюсь…", "example": "I report to the regional manager." }
+  ]
+}

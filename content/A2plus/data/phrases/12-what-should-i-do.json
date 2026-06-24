@@ -1,0 +1,14 @@
+{
+  "lessonId": "what-should-i-do",
+  "title": "What should I do? — фразы",
+  "items": [
+    { "phrase": "What should I do?", "translation": "Что мне делать?", "example": "I can't understand this grammar rule. What should I do?" },
+    { "phrase": "You should…", "translation": "Тебе стоит…", "example": "You should watch films in English with subtitles." },
+    { "phrase": "You shouldn't…", "translation": "Тебе не стоит…", "example": "You shouldn't translate every word you hear." },
+    { "phrase": "If I were you, I'd…", "translation": "Я бы на твоём месте…", "example": "If I were you, I'd practise speaking with native speakers." },
+    { "phrase": "Why don't you…?", "translation": "Почему бы тебе не…?", "example": "Why don't you try keeping a diary in English?" },
+    { "phrase": "What about…?", "translation": "Как насчёт…?", "example": "What about joining an online English course?" },
+    { "phrase": "You could always…", "translation": "Ты всегда можешь…", "example": "You could always listen to podcasts on your way to work." },
+    { "phrase": "It might be a good idea to…", "translation": "Возможно, стоит…", "example": "It might be a good idea to review the lesson before the test." }
+  ]
+}

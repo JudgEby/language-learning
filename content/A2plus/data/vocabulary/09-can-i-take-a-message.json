@@ -1,0 +1,16 @@
+{
+  "lessonId": "can-i-take-a-message",
+  "title": "Can I take a message? — новые слова",
+  "items": [
+    { "term": "take a message", "translation": "принять сообщение", "example": "I'm sorry, she's not here. Can I take a message?" },
+    { "term": "call back", "translation": "перезвонить", "example": "I'll call back later this afternoon." },
+    { "term": "leave a message", "translation": "оставить сообщение", "example": "He left a message on my voicemail." },
+    { "term": "ring", "translation": "звонить (по телефону)", "example": "The phone is ringing — can you answer it?" },
+    { "term": "dial", "translation": "набирать номер", "example": "Dial the number and wait for the tone." },
+    { "term": "put someone through", "translation": "соединить с кем-то", "example": "Please put me through to the sales department." },
+    { "term": "hold on", "translation": "подождать (на линии)", "example": "Hold on for a moment, I'll get him." },
+    { "term": "hang up", "translation": "повесить трубку", "example": "Don't hang up — I have one more question." },
+    { "term": "voicemail", "translation": "голосовая почта", "example": "I left a message on her voicemail." },
+    { "term": "wrong number", "translation": "неправильный номер", "example": "Sorry, I think I dialled the wrong number." }
+  ]
+}

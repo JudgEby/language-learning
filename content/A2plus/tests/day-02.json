@@ -1,0 +1,184 @@
+[
+  {
+    "id": "92878b1fad84",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I work from nine to five every day.",
+      "I am working from nine to five every day.",
+      "I working from nine to five.",
+      "I works from nine to five."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple for routines: 'I work from nine to five every day.'",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "685f6290437e",
+    "question": "Complete: 'She is usually cheerful, but today she ___ a bit grumpy.'",
+    "options": [
+      "feels",
+      "is feeling",
+      "feel",
+      "feeling"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Is feeling' — present continuous for what's happening today/unusually.",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "9de103de7950",
+    "question": "Choose the correct pair: 'Water ___ at 100 degrees. I ___ coffee right now.'",
+    "options": [
+      "boils / am drinking",
+      "is boiling / drink",
+      "boil / am drinking",
+      "is boiling / am drinking"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Boils' is a fact (present simple). 'Am drinking' is happening now (present continuous).",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "3d4a6e9a7b60",
+    "question": "Which sentence is a correct present simple question?",
+    "options": [
+      "Are you work here?",
+      "Do you work here?",
+      "You work here?",
+      "Working you here?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Do you work here?' — present simple question with 'do'.",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "b4cfcfb46d69",
+    "question": "What does 'do nothing' mean?",
+    "options": [
+      "делать домашнее задание",
+      "ничего не делать",
+      "расслабляться",
+      "читать книгу"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Do nothing' means 'ничего не делать'.",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "395cddee627a",
+    "question": "Complete: 'Let's go ___ a walk in the park.'",
+    "options": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Go for a walk' — fixed collocation.",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "ba329a7c3241",
+    "question": "Which sentence is INCORRECT?",
+    "options": [
+      "I am knowing the answer.",
+      "I know the answer.",
+      "She wants a new job.",
+      "He loves his work."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Know' is a state verb — 'I am knowing' is incorrect.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "1f46f8a9b6de",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I am thinking about your offer.",
+      "I am thinking you are right.",
+      "I think about your offer right now.",
+      "I am think about your offer."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Am thinking' as a process of considering is correct. 'Think' as an opinion uses present simple.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "e89487df24f2",
+    "question": "Complete: 'This ___ to the company.'",
+    "options": [
+      "is belonging",
+      "belongs",
+      "belong",
+      "is belong"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Belongs' — state verb, not used in continuous.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "7e2ea75212ab",
+    "question": "Which sentence uses a state verb correctly?",
+    "options": [
+      "I am needing a coffee.",
+      "She is having lunch with a client today.",
+      "He is understanding the problem.",
+      "They are wanting a new car."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Is having lunch' — 'have' as an action can be continuous. State verbs: need, understand, want.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "b722ea307f9a",
+    "question": "Choose the correct collocation: 'Please don't ___ a noise — the baby is sleeping.'",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Make a noise' — fixed collocation with 'make'.",
+    "relatedRuleIds": [
+      "the-company-4u",
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "f88f1fd47866",
+    "question": "Complete: 'Could you ___ me a favour?'",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "give"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Do someone a favour' — fixed collocation.",
+    "relatedRuleIds": [
+      "the-company-4u",
+      "hidden-talent"
+    ]
+  }
+]

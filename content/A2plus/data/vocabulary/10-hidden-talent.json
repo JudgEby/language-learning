@@ -1,0 +1,16 @@
+{
+  "lessonId": "hidden-talent",
+  "title": "Hidden talent — новые слова",
+  "items": [
+    { "term": "make a speech", "translation": "произносить речь", "example": "I had to make a speech at my friend's wedding." },
+    { "term": "make a mistake", "translation": "совершить ошибку", "example": "Don't worry, everyone makes mistakes sometimes." },
+    { "term": "make a decision", "translation": "принять решение", "example": "I need to make a decision about which course to take." },
+    { "term": "make a noise", "translation": "шуметь", "example": "Please don't make a noise — the baby is sleeping." },
+    { "term": "make an effort", "translation": "приложить усилие", "example": "You should make an effort to arrive on time." },
+    { "term": "do business", "translation": "вести дела", "example": "Our company does business with clients in Europe." },
+    { "term": "do homework", "translation": "делать домашнее задание", "example": "I usually do my homework in the evening." },
+    { "term": "do housework", "translation": "делать работу по дому", "example": "My brother and I share the housework equally." },
+    { "term": "do a course", "translation": "проходить курс", "example": "I'm doing a course in graphic design this year." },
+    { "term": "do someone a favour", "translation": "оказать услугу", "example": "Could you do me a favour and open the window?" }
+  ]
+}

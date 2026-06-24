@@ -1,0 +1,12 @@
+{
+  "lessonId": "true-love",
+  "title": "True love — фразы",
+  "items": [
+    { "phrase": "I remember when…", "translation": "Я помню, как…", "example": "I remember when we first met at that coffee shop." },
+    { "phrase": "That reminds me of…", "translation": "Это напоминает мне о…", "example": "That reminds me of our trip to Barcelona." },
+    { "phrase": "Back then", "translation": "В то время", "example": "Back then, we didn't have mobile phones." },
+    { "phrase": "In those days", "translation": "В те дни", "example": "In those days, we used to write letters to each other." },
+    { "phrase": "It all started when…", "translation": "Всё началось, когда…", "example": "It all started when we sat next to each other in class." },
+    { "phrase": "The funniest thing was…", "translation": "Самое смешное было…", "example": "The funniest thing was that he had spaghetti on his shirt the whole time." }
+  ]
+}

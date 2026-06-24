@@ -1,0 +1,16 @@
+{
+  "lessonId": "theres-a-problem",
+  "title": "There's a problem — новые слова",
+  "items": [
+    { "term": "broken", "translation": "сломанный", "example": "The lift is broken, so we have to use the stairs." },
+    { "term": "noisy", "translation": "шумный", "example": "The neighbours are very noisy late at night." },
+    { "term": "rude", "translation": "грубый", "example": "The waiter was rude and unhelpful." },
+    { "term": "dirty", "translation": "грязный", "example": "The bathroom was dirty when we arrived." },
+    { "term": "damaged", "translation": "повреждённый", "example": "The package was damaged during delivery." },
+    { "term": "faulty", "translation": "неисправный, с дефектом", "example": "We received a faulty product and want a refund." },
+    { "term": "missing", "translation": "отсутствующий, пропавший", "example": "One of the chairs is missing from the room." },
+    { "term": "uncomfortable", "translation": "неудобный", "example": "The bed was very uncomfortable." },
+    { "term": "expensive", "translation": "дорогой", "example": "The food was good but too expensive." },
+    { "term": "unsatisfied", "translation": "неудовлетворённый", "example": "I am unsatisfied with the quality of service." }
+  ]
+}

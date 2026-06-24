@@ -1,0 +1,14 @@
+{
+  "lessonId": "the-future-of-food",
+  "title": "The future of food — фразы",
+  "items": [
+    { "phrase": "It may rain tomorrow", "translation": "Завтра, возможно, будет дождь", "example": "Take an umbrella — it may rain later." },
+    { "phrase": "It might be…", "translation": "Возможно, это…", "example": "It might be healthier, but I'm not sure I'd eat it." },
+    { "phrase": "I'll probably…", "translation": "Я, наверное…", "example": "I'll probably order a salad — I'm trying to eat healthily." },
+    { "phrase": "People might not accept…", "translation": "Люди, возможно, не примут…", "example": "People might not accept eating insects, even if they are nutritious." },
+    { "phrase": "It's possible that…", "translation": "Возможно, что…", "example": "It's possible that lab-grown meat will become cheaper than regular meat." },
+    { "phrase": "I doubt that…", "translation": "Я сомневаюсь, что…", "example": "I doubt that everyone will become vegetarian in the future." },
+    { "phrase": "There's a good chance that…", "translation": "Есть большая вероятность, что…", "example": "There's a good chance that we'll see more plant-based options in supermarkets." },
+    { "phrase": "I'm not sure if…", "translation": "Я не уверен(а), что…", "example": "I'm not sure if I'd try lab-grown meat." }
+  ]
+}

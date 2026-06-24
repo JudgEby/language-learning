@@ -1,0 +1,14 @@
+{
+  "lessonId": "fantastic-film-trips",
+  "title": "Fantastic film trips — фразы",
+  "items": [
+    { "phrase": "I was travelling when…", "translation": "Я путешествовал(а), когда…", "example": "I was travelling through France when my car broke down." },
+    { "phrase": "While I was waiting…", "translation": "Пока я ждал(а)…", "example": "While I was waiting for my flight, I read a book." },
+    { "phrase": "When suddenly…", "translation": "Когда вдруг…", "example": "I was looking at the map when suddenly a stranger came up to help me." },
+    { "phrase": "What happened next?", "translation": "Что случилось потом?", "example": "I missed the bus. What happened next? I took a taxi." },
+    { "phrase": "We were about to leave when…", "translation": "Мы уже собирались уходить, когда…", "example": "We were about to leave the hotel when we realised we forgot our passports." },
+    { "phrase": "On the way to…", "translation": "По пути в / к…", "example": "On the way to the airport we stopped for coffee." },
+    { "phrase": "It was a nightmare!", "translation": "Это был кошмар!", "example": "We lost our luggage and missed our connection. It was a nightmare!" },
+    { "phrase": "It was a fantastic experience", "translation": "Это был потрясающий опыт", "example": "Despite the delays, it was a fantastic experience." }
+  ]
+}

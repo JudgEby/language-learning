@@ -1,0 +1,17 @@
+{
+  "lessonId": "what-should-i-do",
+  "title": "What should I do? — новые слова",
+  "items": [
+    { "term": "memorise", "translation": "запоминать, заучивать", "example": "I need to memorise these irregular verbs by Friday." },
+    { "term": "look up", "translation": "искать (в словаре / Интернете)", "example": "If you don't know the word, look it up in a dictionary." },
+    { "term": "practise", "translation": "практиковать(ся)", "example": "You should practise your pronunciation every day." },
+    { "term": "vocabulary", "translation": "словарный запас, лексика", "example": "Reading helps you expand your vocabulary." },
+    { "term": "pronunciation", "translation": "произношение", "example": "Your pronunciation is good, but you need to work on the 'th' sound." },
+    { "term": "accent", "translation": "акцент", "example": "She speaks English with a slight French accent." },
+    { "term": "grammar", "translation": "грамматика", "example": "Grammar is important, but don't forget to practise speaking too." },
+    { "term": "translate", "translation": "переводить", "example": "Try not to translate everything from your native language." },
+    { "term": "fluent", "translation": "беглый (о речи)", "example": "He's fluent in three languages." },
+    { "term": "improve", "translation": "улучшать(ся)", "example": "I want to improve my listening skills." },
+    { "term": "confident", "translation": "уверенный", "example": "The more you practise, the more confident you become." }
+  ]
+}

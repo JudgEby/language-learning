@@ -1,0 +1,16 @@
+{
+  "lessonId": "into-the-wild",
+  "title": "Into the wild — новые слова",
+  "items": [
+    { "term": "countryside", "translation": "сельская местность", "example": "We spent the weekend in the countryside." },
+    { "term": "forest", "translation": "лес (большой)", "example": "There's a dense forest behind the village." },
+    { "term": "mountain", "translation": "гора", "example": "We climbed the mountain before sunrise." },
+    { "term": "river", "translation": "река", "example": "The river flows through the valley." },
+    { "term": "lake", "translation": "озеро", "example": "We went swimming in the lake." },
+    { "term": "hiking", "translation": "пеший туризм, походы", "example": "Hiking in the mountains is my favourite activity." },
+    { "term": "camping", "translation": "кемпинг, поход с палатками", "example": "We went camping near the lake last summer." },
+    { "term": "trail", "translation": "тропа, маршрут", "example": "The trail goes through the forest and up the hill." },
+    { "term": "valley", "translation": "долина", "example": "The valley was covered in mist in the morning." },
+    { "term": "waterfall", "translation": "водопад", "example": "We saw a beautiful waterfall on our hike." }
+  ]
+}

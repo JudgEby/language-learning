@@ -1,0 +1,182 @@
+[
+  {
+    "id": "8874474feddb",
+    "question": "Complete: '___ my opinion, smartphones have changed communication.'",
+    "options": [
+      "On",
+      "In",
+      "At",
+      "By"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In my opinion' — correct preposition.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "d4ea27a32530",
+    "question": "Choose the polite disagreement:",
+    "options": [
+      "I'm not sure about that.",
+      "You're wrong.",
+      "That's terrible.",
+      "No, you're incorrect."
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'm not sure about that' is polite disagreement.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "8f8aae5abccc",
+    "question": "Complete: '___ totally agree — that app is incredibly useful.'",
+    "options": [
+      "I'm",
+      "I",
+      "Me",
+      "My"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I totally agree' — correct form.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "1ad26f7e860f",
+    "question": "What does 'That's a good point, but...' express?",
+    "options": [
+      "complete agreement",
+      "agreement + counterargument",
+      "disagreement",
+      "uncertainty"
+    ],
+    "correctIndex": 1,
+    "explanation": "'That's a good point, but...' acknowledges the other person's view then offers a different perspective.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "f3eb4de6bb73",
+    "question": "Complete: 'I ___ with that statement.'",
+    "options": [
+      "disagree",
+      "disagreement",
+      "disagreeing",
+      "disagreed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I disagree' — present simple, verb.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "7a4d52401f3c",
+    "question": "What does 'pros and cons' mean?",
+    "options": [
+      "профессионалы и консультанты",
+      "плюсы и минусы",
+      "до и после",
+      "за и против"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Pros and cons' = 'плюсы и минусы'.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "899ad99351ae",
+    "question": "Complete: 'He said he ___ really nervous before the audition.'",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "will be"
+    ],
+    "correctIndex": 1,
+    "explanation": "In reported speech, present shifts to past: 'is' → 'was'.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "6013779dfd07",
+    "question": "Choose the correct reported speech:",
+    "options": [
+      "She told me she had never been to a film premiere.",
+      "She told me she never went.",
+      "She told me she has never been.",
+      "She told me she didn't be."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have never been' → 'had never been' (backshift).",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "f5797f3be6e9",
+    "question": "Complete: 'They asked if I ___ seen the director's latest movie.'",
+    "options": [
+      "have",
+      "had",
+      "did",
+      "was"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have seen' → 'had seen' (backshift in reported question).",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "b4a0bce30e30",
+    "question": "What's the difference between 'say' and 'tell'?",
+    "options": [
+      "They are the same.",
+      "'Tell' needs an object (tell someone), 'say' doesn't.",
+      "'Say' needs an object.",
+      "Tell is past tense of say."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Tell' + person: 'He told me'. 'Say' + (that) clause: 'He said (that)...'.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "285bcf7a3d52",
+    "question": "Complete: 'The actor said he would sign ___ after the show.'",
+    "options": [
+      "autographs",
+      "signs",
+      "signatures",
+      "signing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sign autographs' — 'раздавать автографы'.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  },
+  {
+    "id": "4412bead8924",
+    "question": "What happens to 'will' in reported speech?",
+    "options": [
+      "stays 'will'",
+      "changes to 'would'",
+      "changes to 'could'",
+      "changes to 'can'"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Will' changes to 'would' in reported speech.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ]
+  }
+]

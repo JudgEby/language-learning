@@ -1,0 +1,16 @@
+{
+  "lessonId": "the-company-4u",
+  "title": "The company 4U — новые слова",
+  "items": [
+    { "term": "salary", "translation": "зарплата (оклад)", "example": "The salary for this position is quite competitive." },
+    { "term": "boss", "translation": "начальник", "example": "My boss is very understanding when I need time off." },
+    { "term": "staff", "translation": "персонал, штат", "example": "The staff at this hotel are very friendly." },
+    { "term": "task", "translation": "задача", "example": "I have a difficult task to complete by Friday." },
+    { "term": "deadline", "translation": "крайний срок", "example": "We have a tight deadline for this project." },
+    { "term": "apply for a job", "translation": "подавать заявку на работу", "example": "I decided to apply for a job at a marketing agency." },
+    { "term": "interview", "translation": "собеседование", "example": "I have a job interview next Tuesday morning." },
+    { "term": "colleague", "translation": "коллега", "example": "My colleague helped me with the presentation." },
+    { "term": "department", "translation": "отдел", "example": "She works in the sales department." },
+    { "term": "get a promotion", "translation": "получить повышение", "example": "He got a promotion after working there for three years." }
+  ]
+}

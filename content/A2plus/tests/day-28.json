@@ -1,0 +1,182 @@
+[
+  {
+    "id": "175643f57864",
+    "question": "Complete: 'Thousands of phones ___ every day in big cities.'",
+    "options": [
+      "are stolen",
+      "steal",
+      "are stealing",
+      "have stolen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present passive: 'are + V3'.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "9e2a4d15e665",
+    "question": "Choose the correct passive sentence:",
+    "options": [
+      "The thieves were arrested a few hours after the robbery.",
+      "The thieves arrested.",
+      "The thieves was arrested.",
+      "The thieves are arrested a few hours after."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past passive: 'were + V3'.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "39673a93120d",
+    "question": "Complete: 'This museum ___ in 1890.'",
+    "options": [
+      "built",
+      "was built",
+      "builded",
+      "is built"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Was built' — past passive.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "68aa3b57ba27",
+    "question": "Complete: 'The cake was made ___ my grandmother.'",
+    "options": [
+      "by",
+      "from",
+      "of",
+      "with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'By' + agent in passive.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ]
+  },
+  {
+    "id": "2dd7c8d971c0",
+    "question": "Complete the complaint: 'I'm sorry to bother you, but the air conditioner ___ working.'",
+    "options": [
+      "isn't",
+      "doesn't",
+      "won't",
+      "hasn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Isn't working' — current problem.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "3b82c61fa150",
+    "question": "Complete: 'I'm afraid ___ a problem with my order.'",
+    "options": [
+      "it's",
+      "there's",
+      "that's",
+      "this is"
+    ],
+    "correctIndex": 1,
+    "explanation": "'There's a problem' — correct expression.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "cd9932b35c6d",
+    "question": "Complete: 'Could you please ___ the bill? There's a mistake.'",
+    "options": [
+      "check",
+      "to check",
+      "checking",
+      "checked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Could you please + base verb'.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "2ce7b3045fc7",
+    "question": "Complete: 'There seems to be a problem ___ the Wi-Fi.'",
+    "options": [
+      "with",
+      "in",
+      "on",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A problem with' — correct preposition.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ]
+  },
+  {
+    "id": "f0d00b680b57",
+    "question": "Complete: 'This phone is not ___ expensive as that one.'",
+    "options": [
+      "so",
+      "as",
+      "more",
+      "too"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Not as...as' — comparison.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "a06720c188a6",
+    "question": "Choose the correct superlative:",
+    "options": [
+      "She is the most talented musician.",
+      "She is the more talented.",
+      "She is the talentedest.",
+      "She is a most talented."
+    ],
+    "correctIndex": 0,
+    "explanation": "'The most + adj' — correct superlative for long adjectives.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "7702a3425a9a",
+    "question": "Complete: 'A: The city is very crowded. B: I ___ not sure about that.'",
+    "options": [
+      "am",
+      "do",
+      "have",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I am not sure about that' — polite disagreement.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "2ff40aea25a3",
+    "question": "Complete: 'The lights are off. They ___ be asleep.'",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "could"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Must be' — logical deduction.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  }
+]

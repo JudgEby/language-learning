@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cc7f8ed692e7",
+    "question": "Complete: 'I ___ be afraid of the dark, but now I'm fine.'",
+    "options": [
+      "used to",
+      "use to",
+      "was used to",
+      "did use to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to' — past state that no longer exists.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "06b317e04cd0",
+    "question": "Choose the correct negative: 'She ___ enjoy cooking, now she's a chef!'",
+    "options": [
+      "didn't use to",
+      "didn't used to",
+      "used not",
+      "not used to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negative: 'didn't use to'.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "72c78c2598f6",
+    "question": "Complete the question: '___ you use to have long hair?'",
+    "options": [
+      "Did",
+      "Do",
+      "Used",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Did you use to...?'",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "a3e3875f60d1",
+    "question": "Complete: 'I went to the library ___ study in peace.'",
+    "options": [
+      "to",
+      "for",
+      "because",
+      "so"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To + verb' for purpose.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "2eb7a8656a78",
+    "question": "Complete: 'She passed the exam ___ she worked hard.'",
+    "options": [
+      "so",
+      "to",
+      "because",
+      "because of"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Because' + clause for cause.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "6dd3dcfc4f9f",
+    "question": "Complete: 'He forgot his keys, ___ he couldn't get in.'",
+    "options": [
+      "because",
+      "so",
+      "to",
+      "for"
+    ],
+    "correctIndex": 1,
+    "explanation": "'So' for result.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "12beb6f166f5",
+    "question": "Complete: 'I'll leave early so that I ___ miss the train.'",
+    "options": [
+      "don't",
+      "won't",
+      "didn't",
+      "wouldn't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'So that I won't miss' — purpose clause.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ]
+  },
+  {
+    "id": "260c42e7efee",
+    "question": "Complete: 'Could you tell me where the nearest bank ___?'",
+    "options": [
+      "is",
+      "it is",
+      "does",
+      "is it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Polite question: statement word order after 'could you tell me'.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "a05801cdafaa",
+    "question": "Complete: 'Do you know ___ there's a restaurant nearby?'",
+    "options": [
+      "if",
+      "that",
+      "what",
+      "where"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Do you know if...?' — yes/no question embedded.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "ec7230c09a1d",
+    "question": "Complete: 'I'd like to know what time the museum ___ .'",
+    "options": [
+      "opens",
+      "does open",
+      "open",
+      "is opening"
+    ],
+    "correctIndex": 0,
+    "explanation": "Statement word order after 'I'd like to know'.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  },
+  {
+    "id": "1281d69b18b8",
+    "question": "Complete: 'He used to ___, but he quit last year.'",
+    "options": [
+      "smoke",
+      "smoked",
+      "smoking",
+      "smokes"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to + base verb'.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ]
+  },
+  {
+    "id": "22983c0f9103",
+    "question": "Complete: 'I was wondering ___ you could help me.'",
+    "options": [
+      "if",
+      "that",
+      "what",
+      "when"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I was wondering if' — very polite request.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ]
+  }
+]

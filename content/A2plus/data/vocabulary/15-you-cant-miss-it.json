@@ -1,0 +1,18 @@
+{
+  "lessonId": "you-cant-miss-it",
+  "title": "You can't miss it! — новые слова",
+  "items": [
+    { "term": "tour guide", "translation": "гид, экскурсовод", "example": "Our tour guide told us the history of every building." },
+    { "term": "souvenir", "translation": "сувенир", "example": "I always buy a souvenir magnet from every city I visit." },
+    { "term": "sightseeing", "translation": "осмотр достопримечательностей", "example": "We spent the whole day sightseeing around Paris." },
+    { "term": "boat trip", "translation": "прогулка на лодке / катере", "example": "We went on a boat trip along the canals." },
+    { "term": "guided tour", "translation": "экскурсия с гидом", "example": "A guided tour of the castle takes about two hours." },
+    { "term": "landmark", "translation": "достопримечательность, ориентир", "example": "The Eiffel Tower is the most famous landmark in Paris." },
+    { "term": "cathedral", "translation": "собор", "example": "The cathedral is one of the oldest buildings in the city." },
+    { "term": "square", "translation": "площадь", "example": "There's a beautiful fountain in the main square." },
+    { "term": "market", "translation": "рынок", "example": "The local market sells fresh fruit and handmade crafts." },
+    { "term": "pedestrian zone", "translation": "пешеходная зона", "example": "The city centre is a pedestrian zone — cars are not allowed." },
+    { "term": "roundabout", "translation": "кольцевая развязка, круговое движение", "example": "Turn left at the second roundabout." },
+    { "term": "traffic lights", "translation": "светофор", "example": "Go straight on until you reach the traffic lights, then turn right." }
+  ]
+}

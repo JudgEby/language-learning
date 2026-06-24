@@ -1,0 +1,18 @@
+{
+  "lessonId": "keeping-fit",
+  "title": "Keeping fit — новые слова",
+  "items": [
+    { "term": "junk food", "translation": "вредная еда, фастфуд", "example": "I try to avoid junk food and eat more vegetables." },
+    { "term": "vitamins", "translation": "витамины", "example": "Fresh fruit and vegetables are full of vitamins." },
+    { "term": "exercise", "translation": "физическая нагрузка, упражнение", "example": "You should get at least 30 minutes of exercise every day." },
+    { "term": "go jogging", "translation": "бегать трусцой", "example": "I go jogging in the park every morning before work." },
+    { "term": "gym", "translation": "спортзал, тренажёрный зал", "example": "I go to the gym three times a week." },
+    { "term": "diet", "translation": "диета, режим питания", "example": "A balanced diet is important for good health." },
+    { "term": "keep fit", "translation": "поддерживать форму", "example": "Swimming is a great way to keep fit." },
+    { "term": "lose weight", "translation": "похудеть, сбросить вес", "example": "She wants to lose weight before the summer holidays." },
+    { "term": "personal trainer", "translation": "персональный тренер", "example": "My personal trainer helps me plan my workouts." },
+    { "term": "work out", "translation": "тренироваться, заниматься", "example": "I work out at the gym every evening." },
+    { "term": "stretching", "translation": "растяжка", "example": "Don't forget to do some stretching after your run." },
+    { "term": "energetic", "translation": "энергичный, бодрый", "example": "I feel more energetic when I exercise regularly." }
+  ]
+}

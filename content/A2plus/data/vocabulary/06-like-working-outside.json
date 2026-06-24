@@ -1,0 +1,16 @@
+{
+  "lessonId": "like-working-outside",
+  "title": "Like working outside — новые слова",
+  "items": [
+    { "term": "fashion", "translation": "мода", "example": "She works in the fashion industry as a designer." },
+    { "term": "entertainment", "translation": "развлечения, индустрия развлечений", "example": "The entertainment industry includes film, TV and music." },
+    { "term": "retail", "translation": "розничная торговля", "example": "He works in retail, managing a clothing store." },
+    { "term": "construction", "translation": "строительство", "example": "Many people work in construction, building new houses and offices." },
+    { "term": "healthcare", "translation": "здравоохранение", "example": "My sister works in healthcare as a nurse." },
+    { "term": "hospitality", "translation": "гостеприимство, сфера услуг", "example": "Hotels and restaurants are part of the hospitality industry." },
+    { "term": "education", "translation": "образование", "example": "She chose a career in education and became a teacher." },
+    { "term": "manufacturing", "translation": "производство", "example": "The manufacturing sector produces cars, electronics and clothes." },
+    { "term": "freelance", "translation": "фриланс, внештатная работа", "example": "I work freelance from home as a graphic designer." },
+    { "term": "shift", "translation": "смена (рабочая)", "example": "Nurses often work long shifts, including night shifts." }
+  ]
+}

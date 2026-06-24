@@ -1,0 +1,13 @@
+{
+  "id": "caught-on-film",
+  "order": 34,
+  "unit": "Unit 12 — Fame",
+  "title": "Caught on film",
+  "contentMd": "## Reported speech (*say, tell, ask — He said he was tired, She told me she'd call*)\n\n### Простая суть\n\nReported speech (косвенная речь) — это когда ты передаёшь чужие слова, не цитируя их дословно. В русском: «Он сказал, что **устал**» (а не «Я устал»). В английском при этом часто меняется время глагола: настоящее сдвигается в прошлое. Главное: **say** — без объекта (*He said he was tired*), **tell** — с объектом (*He told me he was tired*), **ask** — для вопросов (*She asked if I was free*).\n\n### Как это работает\n\n- **say + (that) + clause**: *He said (that) he was tired.*\n- **tell + person + (that) + clause**: *She told me (that) she would call.*\n- **ask + if / wh- word**: *They asked if I liked the film.* / *He asked where I lived.*\n- **Сдвиг времён (backshift)**:\n  - present simple → past simple: *\"I live here\"* → *He said he lived there.*\n  - present perfect → past perfect: *\"I've seen it\"* → *She said she had seen it.*\n  - will → would: *\"I'll help\"* → *He said he would help.*\n  - can → could: *\"I can swim\"* → *She said she could swim.*\n\n### Живые примеры\n\n- He **said** he **was** really nervous before the audition. (Он сказал, что очень нервничал перед прослушиванием.)\n- She **told** me she **had never been** to a film premiere. (Она сказала мне, что никогда не была на кинопремьере.)\n- They **asked if** I **had** seen the director's latest movie. (Они спросили, видел ли я последний фильм этого режиссёра.)\n- The actor **said** he **would** sign autographs after the show. (Актёр сказал, что будет раздавать автографы после шоу.)\n\n### Лайфхак для запоминания\n\nЗапомни: **say** → что сказал, **tell** → кому сказал. Если есть человек после глагола — используй *tell*, нет человека — *say*. И «отодвинь» время на шаг назад: настоящее → прошедшее, *will* → *would*, *can* → *could*. Как будто ты смотришь на слова через зеркало заднего вида — всё на одно время дальше.",
+  "examples": [
+    "He said he was really nervous before the audition.",
+    "She told me she had never been to a film premiere.",
+    "They asked if I had seen the director's latest movie.",
+    "The actor said he would sign autographs after the show."
+  ]
+}

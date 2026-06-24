@@ -1,0 +1,182 @@
+[
+  {
+    "id": "42e2cf5fffee",
+    "question": "Complete: 'Have you ever ___ sushi?'",
+    "options": [
+      "try",
+      "tried",
+      "trying",
+      "tries"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have you tried' — present perfect with 'ever' for experience.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "0e78ed44c771",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I haven't replied to his message yet.",
+      "I haven't replied to his message already.",
+      "I not replied yet.",
+      "I haven't reply yet."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Yet' in negative sentences — 'ещё не'.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "c76b6ccb1413",
+    "question": "Complete: 'She has ___ sent the email.' (already)",
+    "options": [
+      "just",
+      "yet",
+      "already",
+      "never"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Already' — 'уже' (in affirmative sentences).",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "d601facf4c3a",
+    "question": "Complete: 'We've ___ got back from holiday.' (just now)",
+    "options": [
+      "just",
+      "already",
+      "yet",
+      "ever"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Just' — 'только что'.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "2e7024dde08e",
+    "question": "What does 'present perfect' connect?",
+    "options": [
+      "the past with the present",
+      "only the past",
+      "only the present",
+      "the future"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present perfect connects past actions/experiences to the present moment.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "17a249ffcd80",
+    "question": "Complete: 'I haven't done it ___ .'",
+    "options": [
+      "yet",
+      "already",
+      "just",
+      "ever"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Yet' in negative sentences, at the end.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "feb35b84057e",
+    "question": "Complete: 'If I ___ hard, I'll pass the exam.'",
+    "options": [
+      "study",
+      "will study",
+      "studied",
+      "am studying"
+    ],
+    "correctIndex": 0,
+    "explanation": "In 'if' clauses, use present simple (not 'will').",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "304d7a374ce3",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I'll call you when I arrive at the station.",
+      "I'll call you when I will arrive.",
+      "I call you when I'll arrive.",
+      "I'll call you when I arrived."
+    ],
+    "correctIndex": 0,
+    "explanation": "'When' + present simple (not 'will') for future time clauses.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "ec392e65ef45",
+    "question": "Complete: 'As soon as I ___ home, I'll send you the documents.'",
+    "options": [
+      "get",
+      "will get",
+      "got",
+      "am getting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As soon as' + present simple for future.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "9a4140648e62",
+    "question": "Complete: 'We won't start the meeting ___ everyone arrives.'",
+    "options": [
+      "until",
+      "when",
+      "as soon as",
+      "if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Until' — 'пока не'.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "2d3a4b7b0706",
+    "question": "What does 'real conditional' describe?",
+    "options": [
+      "imaginary situations",
+      "real possible situations in the future",
+      "past events",
+      "unreal situations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Real conditionals describe real possible situations.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "7db5308029e6",
+    "question": "Complete: 'I'll finish this ___ I go out.'",
+    "options": [
+      "before",
+      "until",
+      "after",
+      "when"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Before' + present simple for time clause.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  }
+]

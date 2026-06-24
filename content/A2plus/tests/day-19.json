@@ -1,0 +1,183 @@
+[
+  {
+    "id": "c01f615158dd",
+    "question": "Complete: 'What ___ you do last weekend?'",
+    "options": [
+      "do",
+      "did",
+      "does",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What did you do' — past simple question.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "da5bd7d9e2ed",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I met my wife at university in 2010.",
+      "I meeted my wife at university.",
+      "I was meeting my wife at university.",
+      "I have met my wife at university in 2010."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Met' is the past simple of 'meet' — used with specific past time.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "edb56daa3fb9",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who lives in that big house?",
+      "Who does live in that big house?",
+      "Who do live in that big house?",
+      "Who living in that big house?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subject question — no auxiliary needed.",
+    "relatedRuleIds": [
+      "relax",
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "685f6290437e",
+    "question": "Complete: 'She is usually cheerful, but today she ___ a bit grumpy.'",
+    "options": [
+      "feels",
+      "is feeling",
+      "feel",
+      "feeling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Present continuous for today's unusual state.",
+    "relatedRuleIds": [
+      "nice-day"
+    ]
+  },
+  {
+    "id": "bebf13914a82",
+    "question": "Which sentence is NOT correct?",
+    "options": [
+      "I am knowing the answer.",
+      "I know the answer.",
+      "She wants a new job.",
+      "He loves his work."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Know' is a state verb, cannot be used in continuous.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "fbbe57c937d2",
+    "question": "Complete: 'I always ___ coffee in the morning.'",
+    "options": [
+      "drink",
+      "am drinking",
+      "drinking",
+      "drinks"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Always' + present simple for routine.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "1c2401224194",
+    "question": "What does 'I don't mind commuting' mean?",
+    "options": [
+      "Обожаю ездить на работу.",
+      "Не против добираться до работы.",
+      "Ненавижу дорогу.",
+      "Никогда не езжу на работу."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't mind' = 'не против'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "fd57396ffa44",
+    "question": "Complete the phrase: 'Hey, long time no see! How ___ things?'",
+    "options": [
+      "do",
+      "are",
+      "is",
+      "does"
+    ],
+    "correctIndex": 1,
+    "explanation": "'How are things?' — informal greeting.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "2d0b65485f34",
+    "question": "Choose the correct collocation: 'We had a ___ in the garden last Sunday.'",
+    "options": [
+      "barbecue",
+      "barbecue party",
+      "barbecuing",
+      "barbecued"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have a barbecue' — fixed collocation.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "a4bf360050c3",
+    "question": "Complete: 'My family ___ board games every Friday night.'",
+    "options": [
+      "plays",
+      "play",
+      "is playing",
+      "are playing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Third person singular: 'plays' (family = collective, but usually singular in BrE).",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "1c429f7c9baa",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I'm usually going to bed at 11.",
+      "I usually go to bed at 11.",
+      "I go usually to bed at 11.",
+      "Usually I go to bed at 11."
+    ],
+    "correctIndex": 1,
+    "explanation": "Adverb of frequency before main verb: 'usually go'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "fddf1e3a4c28",
+    "question": "Complete: 'I can't stand people who are always ___ for meetings.'",
+    "options": [
+      "late",
+      "later",
+      "latest",
+      "lately"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be late for' — 'опаздывать на'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  }
+]

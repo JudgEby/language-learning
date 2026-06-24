@@ -1,0 +1,20 @@
+{
+  "lessonId": "how-are-you-feeling",
+  "title": "How are you feeling? — новые слова",
+  "items": [
+    { "term": "headache", "translation": "головная боль", "example": "I've had a headache all morning." },
+    { "term": "sore throat", "translation": "боль в горле", "example": "She stayed home because she had a sore throat." },
+    { "term": "cough", "translation": "кашель", "example": "He can't stop coughing — he's had a bad cough for a week." },
+    { "term": "fever", "translation": "жар, лихорадка", "example": "The nurse took my temperature and said I had a fever." },
+    { "term": "runny nose", "translation": "насморк", "example": "I've got a runny nose and I keep sneezing." },
+    { "term": "stomach ache", "translation": "боль в животе", "example": "Eating too much chocolate gave me a stomach ache." },
+    { "term": "back pain", "translation": "боль в спине", "example": "Sitting at a desk all day causes back pain." },
+    { "term": "earache", "translation": "боль в ухе", "example": "The child was crying because of an earache." },
+    { "term": "dizzy", "translation": "головокружение, кружится голова", "example": "I felt dizzy after standing up too quickly." },
+    { "term": "nausea", "translation": "тошнота", "example": "The bumpy car ride caused nausea." },
+    { "term": "rash", "translation": "сыпь", "example": "She developed a rash after eating shellfish." },
+    { "term": "prescription", "translation": "рецепт (на лекарство)", "example": "The doctor gave me a prescription for antibiotics." },
+    { "term": "pharmacy", "translation": "аптека", "example": "You can buy painkillers at the pharmacy." },
+    { "term": "symptom", "translation": "симптом", "example": "Common symptoms of a cold include a runny nose and a sore throat." }
+  ]
+}

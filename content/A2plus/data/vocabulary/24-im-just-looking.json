@@ -1,0 +1,16 @@
+{
+  "lessonId": "im-just-looking",
+  "title": "I'm just looking — новые слова",
+  "items": [
+    { "term": "bargain", "translation": "выгодная покупка, сделка", "example": "This coat was half price — a real bargain!" },
+    { "term": "receipt", "translation": "чек, квитанция", "example": "Keep your receipt in case you want to return it." },
+    { "term": "refund", "translation": "возврат денег", "example": "I asked for a refund because the product was faulty." },
+    { "term": "exchange", "translation": "обмен", "example": "Can I exchange this for a different colour?" },
+    { "term": "try on", "translation": "примерять", "example": "Can I try on these jeans?" },
+    { "term": "fit", "translation": "подходить по размеру", "example": "These shoes don't fit me, they're too small." },
+    { "term": "suit", "translation": "идти (к лицу, подходить)", "example": "That colour really suits you." },
+    { "term": "size", "translation": "размер", "example": "Do you have this dress in a size 10?" },
+    { "term": "fitting room", "translation": "примерочная", "example": "The fitting rooms are at the back of the shop." },
+    { "term": "sale", "translation": "распродажа", "example": "I bought this jacket in the winter sale." }
+  ]
+}

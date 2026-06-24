@@ -1,0 +1,13 @@
+{
+  "id": "nice-day",
+  "order": 3,
+  "unit": "Unit 1 — Life",
+  "title": "Nice day",
+  "contentMd": "## Present simple and present continuous\n\n### Простая суть\n\nПредставь, что жизнь — это фильм. **Present simple** — это сцены, которые повторяются изо дня в день: «Я встаю в семь», «Она работает в банке». **Present continuous** — то, что происходит прямо сейчас, в этой сцене: «Я сейчас стою в пробке», «Она читает твоё сообщение». Первое — про рутину и факты, второе — про то, что происходит вокруг прямо в этот момент.\n\n### Как это работает\n\n- **Present simple**: подлежащее + глагол (+ *-s* для he/she/it). *I work in an office. She works in a hospital.*\n- **Present continuous**: подлежащее + **am/is/are** + глагол + **-ing**. *I am working right now. She is reading a book.*\n- **Маркеры present simple**: always, usually, often, sometimes, never, every day, on Mondays\n- **Маркеры present continuous**: now, at the moment, today, this week, look!, listen!\n- **Negative**: *I don't work on Sundays.* / *I am not working today.*\n- **Questions**: *Do you work here?* / *Are you working right now?*\n\n### Живые примеры\n\n- I **work** from nine to five, but this week I **am working** from home. (Я работаю с девяти до пяти, но на этой неделе работаю из дома.)\n- She **is usually cheerful**, but today she **is feeling** a bit grumpy. (Обычно она жизнерадостная, но сегодня она немного ворчливая.)\n- **Do you exercise** every morning? (Ты занимаешься спортом каждое утро?)\n- Why **are you laughing**? (Почему ты смеёшься?)\n- Water **boils** at 100 degrees. (Вода кипит при 100 градусах. — факт, всегда)\n\n### Лайфхак для запоминания\n\nЗадай себе вопрос: «Это вообще?» (present simple) или «Это прямо сейчас?» (present continuous). *I speak English* — я вообще говорю по-английски. *I am speaking English* — я прямо сейчас говорю на английском (по телефону, например). Если сомневаешься — подставь слова *every day* или *right now*. Какое подходит, то и время.",
+  "examples": [
+    "I work from nine to five, but this week I am working from home.",
+    "She is usually cheerful, but today she is feeling a bit grumpy.",
+    "Do you exercise every morning?",
+    "Water boils at 100 degrees."
+  ]
+}

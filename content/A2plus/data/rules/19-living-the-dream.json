@@ -1,0 +1,13 @@
+{
+  "id": "living-the-dream",
+  "order": 19,
+  "unit": "Unit 7 — Changes",
+  "title": "Living the dream",
+  "contentMd": "## Used to\n\n### Простая суть\n\n*Used to* — это машина времени в английском. Она отправляет нас в прошлое и говорит: «Раньше было по-другому». Когда мы хотим сказать, что у нас была привычка или состояние в прошлом, которого сейчас нет — используем *used to*. Не путай с *be used to* (привыкнуть к чему-то) — это совсем другая история.\n\n### Как это работает\n\n- **Утверждение**: подлежащее + **used to** + глагол. *I **used to** live in London.*\n- **Отрицание**: подлежащее + **didn't use to** + глагол. *I **didn't use to** like coffee.*\n- **Вопрос**: **Did** + подлежащее + **use to** + глагол? *Did you **use to** play football?*\n\nВажно: после *used to* всегда идёт **инфинитив** (начальная форма глагола). *Used to* не переводится как «использовал», а как «раньше делал».\n\n### Живые примеры\n\n- **I used to** be afraid of the dark, but now I'm fine. (Раньше я боялся темноты, а сейчас нормально.)\n- **She didn't use to** enjoy cooking, now she's a chef! (Раньше ей не нравилось готовить, а теперь она шеф-повар!)\n- **Did you use to** have long hair? (У тебя раньше были длинные волосы?)\n- **He used to** smoke, but he quit last year. (Он раньше курил, но бросил в прошлом году.)\n\n### Лайфхак для запоминания\n\n*Used to* = «юз-ту» → представь, что ты «юзаешь» (используешь) это слово, чтобы отправиться в прошлое. Если есть *did* (в вопросах и отрицаниях) — глагол *use* теряет *d*, потому что *did* уже взял на себя прошедшее время. Дважды прошедшее время не нужно.",
+  "examples": [
+    "I used to be afraid of the dark, but now I'm fine.",
+    "She didn't use to enjoy cooking, now she's a chef!",
+    "Did you use to have long hair?",
+    "He used to smoke, but he quit last year."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lessonId": "schools-of-thought",
+  "title": "Schools of thought — новые слова",
+  "items": [
+    { "term": "subject", "translation": "учебный предмет", "example": "My favourite subject is history." },
+    { "term": "exam", "translation": "экзамен", "example": "We have a maths exam next Monday." },
+    { "term": "uniform", "translation": "форма (школьная)", "example": "All students must wear a school uniform." },
+    { "term": "primary school", "translation": "начальная школа", "example": "Children start primary school at the age of five." },
+    { "term": "secondary school", "translation": "средняя школа", "example": "In the UK, secondary school is from age 11 to 16." },
+    { "term": "university", "translation": "университет", "example": "She wants to study law at university." },
+    { "term": "graduate", "translation": "выпускник; оканчивать (учебное заведение)", "example": "He graduated from Oxford University last year." },
+    { "term": "qualification", "translation": "квалификация, диплом", "example": "You need a good qualification to get this job." },
+    { "term": "degree", "translation": "степень (университетская)", "example": "She has a degree in economics." },
+    { "term": "attend", "translation": "посещать (занятия)", "example": "All students must attend at least 80% of classes." },
+    { "term": "progress", "translation": "прогресс, успеваемость", "example": "The teacher checks our progress every month." },
+    { "term": "term", "translation": "семестр, учебная четверть", "example": "The autumn term starts in September." }
+  ]
+}

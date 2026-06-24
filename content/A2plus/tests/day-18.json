@@ -1,0 +1,182 @@
+[
+  {
+    "id": "7887839c069b",
+    "question": "Complete: 'If I ___ famous, I would hate the paparazzi.'",
+    "options": [
+      "am",
+      "will be",
+      "were",
+      "was"
+    ],
+    "correctIndex": 2,
+    "explanation": "'If I were' — subjunctive 'were' for all persons in second conditional.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "36ec76940c71",
+    "question": "Choose the correct second conditional sentence:",
+    "options": [
+      "If she had more free time, she could take acting classes.",
+      "If she has more free time, she could take acting classes.",
+      "If she will have more time, she could take classes.",
+      "If she had more time, she will take classes."
+    ],
+    "correctIndex": 0,
+    "explanation": "Second conditional: 'If + past simple, would/could + verb'.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "41d06fab410f",
+    "question": "Complete: 'What ___ you do if you met your favourite actor?'",
+    "options": [
+      "will",
+      "would",
+      "do",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What would you do' — second conditional question.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "0bfd64410e2b",
+    "question": "What's the difference between first and second conditional?",
+    "options": [
+      "First is about the past, second about the future.",
+      "First is real/possible, second is unreal/imaginary.",
+      "First uses 'would', second uses 'will'.",
+      "They are the same."
+    ],
+    "correctIndex": 1,
+    "explanation": "First conditional: real possibility (if + present, will). Second: unreal/imaginary (if + past, would).",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "59329ec2b5d1",
+    "question": "Complete: 'If I could act, I would ___ to get a role in Hollywood.'",
+    "options": [
+      "try",
+      "tried",
+      "trying",
+      "tries"
+    ],
+    "correctIndex": 0,
+    "explanation": "After 'would', use base verb: 'would try'.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "cdcd7bde72bc",
+    "question": "What does 'paparazzi' mean?",
+    "options": [
+      "папарацци (назойливые фотографы знаменитостей)",
+      "поклонники",
+      "телохранители",
+      "репортёры"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Paparazzi' = 'папарацци'.",
+    "relatedRuleIds": [
+      "a-lucky-break"
+    ]
+  },
+  {
+    "id": "99ae1b502ab5",
+    "question": "Complete: '___ you possibly help me with this report?'",
+    "options": [
+      "Can",
+      "Could",
+      "Will",
+      "Do"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could you possibly...?' — very polite request.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "dd878a23f89e",
+    "question": "Choose the correct offer: '___ you like me to call a taxi?'",
+    "options": [
+      "Do",
+      "Would",
+      "Could",
+      "Will"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would you like me to...?' — polite offer.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "005b167db1d7",
+    "question": "Complete: 'I'll ___ the door for you.' (offering help)",
+    "options": [
+      "getting",
+      "to get",
+      "get",
+      "got"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'll + base verb' for spontaneous offers.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "17949f0ad8d1",
+    "question": "What does 'Shall I make some tea?' mean?",
+    "options": [
+      "Я обязательно сделаю чай.",
+      "Может, мне заварить чай?",
+      "Ты будешь чай?",
+      "Чай готов."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Shall I...?' offers to do something for someone.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "fa76ba260f1a",
+    "question": "Complete: 'Would you mind ___ for a few minutes?'",
+    "options": [
+      "wait",
+      "to wait",
+      "waiting",
+      "waited"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Would you mind + -ing' — polite request.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  },
+  {
+    "id": "4379e60c687f",
+    "question": "What does 'lend a hand' mean?",
+    "options": [
+      "дать руку",
+      "помочь",
+      "одолжить",
+      "взять за руку"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Lend a hand' = 'помочь'.",
+    "relatedRuleIds": [
+      "what-can-i-do-for-you"
+    ]
+  }
+]

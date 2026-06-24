@@ -1,0 +1,16 @@
+{
+  "lessonId": "pay-me-more",
+  "title": "Pay me more — новые слова",
+  "items": [
+    { "term": "give up", "translation": "бросить, отказаться (от привычки)", "example": "I gave up smoking last year." },
+    { "term": "save up", "translation": "копить (на что-то конкретное)", "example": "I'm saving up for a holiday in Thailand." },
+    { "term": "pay back", "translation": "вернуть долг", "example": "I'll pay you back on Friday." },
+    { "term": "take up", "translation": "начать заниматься (хобби, спорт)", "example": "I've decided to take up yoga." },
+    { "term": "end up", "translation": "в конечном итоге оказаться", "example": "We got lost and ended up in a different town." },
+    { "term": "carry on", "translation": "продолжать", "example": "Carry on with your work while I'm away." },
+    { "term": "set up", "translation": "основать, учредить", "example": "They set up their own business last year." },
+    { "term": "turn down", "translation": "отказаться (от предложения)", "example": "She turned down the job offer because of the low salary." },
+    { "term": "look into", "translation": "изучить, рассмотреть", "example": "I'll look into the problem and get back to you." },
+    { "term": "go through", "translation": "пройти через, пережить", "example": "She went through a difficult time after losing her job." }
+  ]
+}

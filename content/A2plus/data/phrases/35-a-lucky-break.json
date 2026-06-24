@@ -1,0 +1,12 @@
+{
+  "lessonId": "a-lucky-break",
+  "title": "A lucky break — фразы",
+  "items": [
+    { "phrase": "If I won the lottery, I would...", "translation": "Если бы я выиграл в лотерею, я бы...", "example": "If I won the lottery, I would travel around the world." },
+    { "phrase": "What would you do if...?", "translation": "Что бы ты сделал, если бы...?", "example": "What would you do if you became famous overnight?" },
+    { "phrase": "If I were you, I would...", "translation": "На твоём месте я бы...", "example": "If I were you, I would take that acting class." },
+    { "phrase": "If I could change one thing, I would...", "translation": "Если бы я мог изменить одну вещь, я бы...", "example": "If I could change one thing, I would move to Los Angeles." },
+    { "phrase": "I would love to... if I had the chance", "translation": "Я бы очень хотел..., если бы был шанс", "example": "I would love to star in a film if I had the chance." },
+    { "phrase": "Would you ever...?", "translation": "Ты бы когда-нибудь...?", "example": "Would you ever give up your career for fame?" }
+  ]
+}

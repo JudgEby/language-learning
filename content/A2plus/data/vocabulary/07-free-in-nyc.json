@@ -1,0 +1,16 @@
+{
+  "lessonId": "free-in-nyc",
+  "title": "Free in NYC — новые слова",
+  "items": [
+    { "term": "go sightseeing", "translation": "осматривать достопримечательности", "example": "We went sightseeing around Manhattan yesterday." },
+    { "term": "see a show", "translation": "посмотреть шоу/спектакль", "example": "I want to see a show on Broadway while I'm in New York." },
+    { "term": "visit a museum", "translation": "посетить музей", "example": "Let's visit the Natural History Museum on Saturday." },
+    { "term": "have a picnic", "translation": "устроить пикник", "example": "We are going to have a picnic by the river." },
+    { "term": "go for a bike ride", "translation": "покататься на велосипеде", "example": "We went for a bike ride along the beach." },
+    { "term": "take a walking tour", "translation": "взять пешую экскурсию", "example": "We took a walking tour of the old town." },
+    { "term": "go to a concert", "translation": "пойти на концерт", "example": "I'm going to a concert at Madison Square Garden." },
+    { "term": "visit a gallery", "translation": "посетить галерею", "example": "The gallery has a new exhibition of modern art." },
+    { "term": "take photos", "translation": "фотографировать", "example": "I took lots of photos of the skyline from the top." },
+    { "term": "go out for a meal", "translation": "пойти поесть в ресторан", "example": "Let's go out for a meal tonight — I know a great place." }
+  ]
+}

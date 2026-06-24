@@ -1,0 +1,14 @@
+{
+  "lessonId": "schools-of-thought",
+  "title": "Schools of thought — фразы",
+  "items": [
+    { "phrase": "You have to…", "translation": "Ты должен / нужно…", "example": "You have to arrive at school before 8.30." },
+    { "phrase": "You don't have to…", "translation": "Тебе не обязательно…", "example": "You don't have to bring your own books — the school provides them." },
+    { "phrase": "You mustn't…", "translation": "Нельзя / запрещено…", "example": "You mustn't run in the corridors." },
+    { "phrase": "You can…", "translation": "Можно / ты можешь…", "example": "You can use a calculator in the exam." },
+    { "phrase": "You can't…", "translation": "Нельзя / ты не можешь…", "example": "You can't park your car in front of the school gate." },
+    { "phrase": "Is it compulsory?", "translation": "Это обязательно?", "example": "Is it compulsory to wear a tie with the uniform?" },
+    { "phrase": "There's a rule that…", "translation": "Есть правило, что…", "example": "There's a rule that you must switch off your phone in class." },
+    { "phrase": "It's optional", "translation": "Это по желанию / необязательно", "example": "Attending the after-school club is optional." }
+  ]
+}

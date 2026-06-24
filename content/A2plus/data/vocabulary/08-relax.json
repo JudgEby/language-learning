@@ -1,0 +1,16 @@
+{
+  "lessonId": "relax",
+  "title": "Relax — новые слова",
+  "items": [
+    { "term": "concert hall", "translation": "концертный зал", "example": "The symphony orchestra plays at the concert hall." },
+    { "term": "art gallery", "translation": "художественная галерея", "example": "There's a new art gallery opening in the city centre." },
+    { "term": "botanical garden", "translation": "ботанический сад", "example": "The botanical garden has plants from all over the world." },
+    { "term": "theme park", "translation": "парк развлечений", "example": "Kids love going to the theme park during the holidays." },
+    { "term": "skate park", "translation": "скейт-парк", "example": "Teenagers hang out at the skate park after school." },
+    { "term": "swimming pool", "translation": "бассейн", "example": "The local swimming pool is open until 9 p.m." },
+    { "term": "sports centre", "translation": "спортивный центр", "example": "The sports centre has a gym, a pool and tennis courts." },
+    { "term": "cinema", "translation": "кинотеатр", "example": "Let's go to the cinema to see the new film." },
+    { "term": "theatre", "translation": "театр", "example": "We booked tickets for the theatre next Saturday." },
+    { "term": "amusement arcade", "translation": "игровой зал, аркада", "example": "There's an amusement arcade with video games near the beach." }
+  ]
+}

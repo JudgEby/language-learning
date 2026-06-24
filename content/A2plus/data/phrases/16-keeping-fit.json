@@ -1,0 +1,14 @@
+{
+  "lessonId": "keeping-fit",
+  "title": "Keeping fit — фразы",
+  "items": [
+    { "phrase": "How long have you…?", "translation": "Как долго ты…?", "example": "How long have you been a member of this gym?" },
+    { "phrase": "I've been… for…", "translation": "Я (занимаюсь / нахожусь) … в течение…", "example": "I've been a vegetarian for almost ten years." },
+    { "phrase": "I've been… since…", "translation": "Я (занимаюсь / нахожусь) … с…", "example": "I've been going to this gym since last summer." },
+    { "phrase": "I've never felt better", "translation": "Я никогда не чувствовал себя лучше", "example": "Since I started running, I've never felt better." },
+    { "phrase": "I'm trying to get into shape", "translation": "Я пытаюсь привести себя в форму", "example": "I'm trying to get into shape before my holiday." },
+    { "phrase": "I need to cut down on…", "translation": "Мне нужно сократить потребление…", "example": "I need to cut down on sugar and processed food." },
+    { "phrase": "I've taken up…", "translation": "Я начал(а) заниматься…", "example": "I've taken up yoga to improve my flexibility." },
+    { "phrase": "How often do you work out?", "translation": "Как часто ты тренируешься?", "example": "A: How often do you work out? B: I go to the gym four times a week." }
+  ]
+}

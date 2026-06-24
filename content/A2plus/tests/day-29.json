@@ -1,0 +1,182 @@
+[
+  {
+    "id": "42e2cf5fffee",
+    "question": "Complete: 'Have you ever ___ sushi?'",
+    "options": [
+      "try",
+      "tried",
+      "trying",
+      "tries"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have you ever + V3'.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "d17e61dd8829",
+    "question": "Complete: 'I haven't replied to his message ___ .'",
+    "options": [
+      "yet",
+      "already",
+      "just",
+      "ever"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Yet' in negative sentences.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "ff7c8c24a9a9",
+    "question": "Complete: 'She has ___ sent the email.' (уже)",
+    "options": [
+      "already",
+      "yet",
+      "just",
+      "ever"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Already' in affirmative sentences.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "de46cf26d6c6",
+    "question": "Complete: 'We've ___ got back from holiday.' (только что)",
+    "options": [
+      "just",
+      "already",
+      "yet",
+      "ever"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Just' = 'только что'.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  },
+  {
+    "id": "508548a27e59",
+    "question": "Complete: 'If I ___ hard, I'll pass the exam.'",
+    "options": [
+      "study",
+      "will study",
+      "studied",
+      "would study"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple after 'if' in real conditional.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "421df09d12bd",
+    "question": "Complete: 'I'll call you when I ___ at the station.'",
+    "options": [
+      "arrive",
+      "will arrive",
+      "arrived",
+      "am arriving"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple after 'when' in time clauses.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "850539e5bf0e",
+    "question": "Complete: 'As soon as I ___ home, I'll send the documents.'",
+    "options": [
+      "get",
+      "will get",
+      "got",
+      "am getting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple after 'as soon as'.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "9bcda44f85ab",
+    "question": "Complete: 'We won't start ___ everyone arrives.'",
+    "options": [
+      "until",
+      "when",
+      "after",
+      "before"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Until' = 'пока не'.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ]
+  },
+  {
+    "id": "4b5e39fb680e",
+    "question": "Complete: '___ my opinion, smartphones have changed communication.'",
+    "options": [
+      "In",
+      "On",
+      "At",
+      "By"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In my opinion'.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "fe94cae75725",
+    "question": "Complete: 'I ___ not sure about that.' (polite disagreement)",
+    "options": [
+      "am",
+      "do",
+      "have",
+      "will"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I am not sure about that' — polite disagreement.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "3a00a44a32cf",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I totally agree — that app is useful.",
+      "I totally agreeing — that app is useful.",
+      "I totally am agree.",
+      "I totally agreed — that app is useful."
+    ],
+    "correctIndex": 0,
+    "explanation": "'I totally agree' — correct form.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ]
+  },
+  {
+    "id": "4c7a6891e6a6",
+    "question": "Complete: '___ you ever tried Italian food?'",
+    "options": [
+      "Have",
+      "Did",
+      "Do",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have you ever' — present perfect for experience.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ]
+  }
+]

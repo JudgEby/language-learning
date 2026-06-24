@@ -1,0 +1,14 @@
+{
+  "lessonId": "into-the-wild",
+  "title": "Into the wild — фразы",
+  "items": [
+    { "phrase": "It's a beautiful place.", "translation": "Это красивое место.", "example": "It's a beautiful place with amazing views." },
+    { "phrase": "There's a river near the village.", "translation": "Рядом с деревней есть река.", "example": "There's a river near the village where we can fish." },
+    { "phrase": "The air is so fresh here.", "translation": "Здесь такой свежий воздух.", "example": "The air is so fresh here in the mountains." },
+    { "phrase": "We went for a walk in the forest.", "translation": "Мы ходили на прогулку в лес.", "example": "We went for a walk in the forest and saw some deer." },
+    { "phrase": "I love being in nature.", "translation": "Я люблю быть на природе.", "example": "I love being in nature, it helps me relax." },
+    { "phrase": "The scenery is breathtaking.", "translation": "Пейзаж захватывает дух.", "example": "The scenery from the top of the mountain is breathtaking." },
+    { "phrase": "It's a great place for hiking.", "translation": "Это отличное место для походов.", "example": "It's a great place for hiking with marked trails." },
+    { "phrase": "We stayed in a cabin by the lake.", "translation": "Мы остановились в домике у озера.", "example": "We stayed in a cabin by the lake for the weekend." }
+  ]
+}

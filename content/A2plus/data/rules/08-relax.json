@@ -1,0 +1,13 @@
+{
+  "id": "relax",
+  "order": 8,
+  "unit": "Unit 3 — Time Out",
+  "title": "Relax",
+  "contentMd": "## Questions without auxiliaries\n\n### Простая суть\n\nПомнишь, в первом уроке мы говорили про subject questions? Вот это оно и есть. Когда вопросительное слово **само является подлежащим**, тебе не нужны *do/does/did*. Просто берёшь утверждение и заменяешь подлежащее на *who* или *what*. *Someone called* → *Who called?* Без *did*! Иногда это путает, потому что мы привыкли к *do* в вопросах.\n\n### Как это работает\n\n- **Subject question** (кто/что сделал действие): *Who* / *What* + глагол в 3-м лице (без *do/does/did*). *Who wants to go first?* *What happened?*\n- **Object question** (вопрос про объект): *Who* / *What* + *do/does/did* + подлежащее + глагол. *Who did you call?* *What did she say?*\n- **Разница**: *Who wrote this?* (кто написал — подлежащее) vs *Who did you write to?* (кому ты написал — объект)\n- **Важно**: в subject questions глагол всегда в 3-м лице единственного числа (с *-s*). *Who lives here?* (а не *who live*)\n\n### Живые примеры\n\n- **Who wants** to go to the art gallery? (Кто хочет пойти в художественную галерею? — *who* = подлежащее)\n- **What happened** at the skate park yesterday? (Что случилось в скейт-парке вчера?)\n- **Who organised** the concert? (Кто организовал концерт?)\n- **Who did you see** at the concert hall? (Кого ты видел в концертном зале? — объектный вопрос)\n- **Which bus goes** to the botanical garden? (Какой автобус идёт до ботанического сада?)\n\n### Лайфхак для запоминания\n\nПопробуй ответить на вопрос одним словом — именем человека. *Who called?* → *John.* Если ответ — просто имя, значит вопрос был subject question. *Who did you call?* → *I called John.* — тут уже нужно полное предложение, значит объектный вопрос. Субъектный = ответ самим человеком, объектный = ответ с действием.",
+  "examples": [
+    "Who wants to go to the art gallery?",
+    "What happened at the skate park yesterday?",
+    "Who organised the concert?",
+    "Which bus goes to the botanical garden?"
+  ]
+}

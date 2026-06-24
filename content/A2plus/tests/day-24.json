@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d29acd323429",
+    "question": "Complete: 'I've been a vegetarian ___ five years.'",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "ago"
+    ],
+    "correctIndex": 1,
+    "explanation": "'For' + duration.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "b4a7aff7c507",
+    "question": "Complete: 'She's worked at this gym ___ 2020.'",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "in"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Since' + specific point in time.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "5ab1053a13ea",
+    "question": "Complete: 'How long have you ___ your best friend?'",
+    "options": [
+      "knew",
+      "known",
+      "know",
+      "knowing"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have known' — V3 (past participle) of 'know'.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "9b47379a84c4",
+    "question": "Complete: 'I ___ be 30 next year.'",
+    "options": [
+      "will",
+      "may",
+      "might",
+      "am"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Will' for certain future fact.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "dc22b98a306c",
+    "question": "Which sentence expresses possibility (50%)?",
+    "options": [
+      "It may rain later.",
+      "It will rain.",
+      "It can't rain.",
+      "It is raining."
+    ],
+    "correctIndex": 0,
+    "explanation": "'May' = 50% possibility.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "5a5ced35658b",
+    "question": "Complete: 'I ___ try that new restaurant — I'm not sure yet.'",
+    "options": [
+      "will",
+      "might",
+      "can't",
+      "must"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Might' for low probability / uncertainty.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  },
+  {
+    "id": "53d7e69c929e",
+    "question": "Complete: 'I've got a terrible ___ and my eyes hurt.'",
+    "options": [
+      "headache",
+      "head pain",
+      "head hurt",
+      "headache pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I've got a headache' — correct expression.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "4aa4e7fb327c",
+    "question": "Complete: 'My throat ___ when I swallow.'",
+    "options": [
+      "hurts",
+      "hurt",
+      "is hurting",
+      "hurting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'My throat hurts' — simple present for current pain.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "61222bb34efb",
+    "question": "What does 'I feel dizzy' mean?",
+    "options": [
+      "У меня болит голова",
+      "У меня кружится голова",
+      "Я плохо себя чувствую",
+      "Я устал"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Dizzy' = 'головокружение'.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "94f343a4cced",
+    "question": "Complete: 'He's got a bad ___ and a runny nose.'",
+    "options": [
+      "cough",
+      "coughing",
+      "coughs",
+      "cough-up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A cough' — noun.",
+    "relatedRuleIds": [
+      "how-are-you-feeling"
+    ]
+  },
+  {
+    "id": "36273554fdd8",
+    "question": "Complete: 'I haven't seen him ___ we graduated.'",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "ago"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Since' + event (graduation).",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "3d835848d0ec",
+    "question": "Complete: 'In fifty years, we'll ___ eat lab-grown meat.'",
+    "options": [
+      "probably",
+      "maybe",
+      "perhaps",
+      "might"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Probably' after 'will' for likelihood.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ]
+  }
+]

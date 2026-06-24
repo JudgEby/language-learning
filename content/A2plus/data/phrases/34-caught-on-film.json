@@ -1,0 +1,12 @@
+{
+  "lessonId": "caught-on-film",
+  "title": "Caught on film — фразы",
+  "items": [
+    { "phrase": "She said that...", "translation": "Она сказала, что...", "example": "She said that the film was better than the book." },
+    { "phrase": "He told me...", "translation": "Он сказал мне...", "example": "He told me he had already seen the movie twice." },
+    { "phrase": "They asked if...", "translation": "Они спросили, не...", "example": "They asked if I wanted to go to the cinema." },
+    { "phrase": "She explained that...", "translation": "Она объяснила, что...", "example": "She explained that the director wanted to create something unique." },
+    { "phrase": "He mentioned that...", "translation": "Он упомянул, что...", "example": "He mentioned that the sequel was coming out next year." },
+    { "phrase": "I heard that...", "translation": "Я слышал, что...", "example": "I heard that the film was nominated for several awards." }
+  ]
+}

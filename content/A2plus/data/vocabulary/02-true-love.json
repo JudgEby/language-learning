@@ -1,0 +1,16 @@
+{
+  "lessonId": "true-love",
+  "title": "True love — новые слова",
+  "items": [
+    { "term": "fall in love", "translation": "влюбиться", "example": "They fell in love when they were travelling in Italy." },
+    { "term": "get engaged", "translation": "обручиться", "example": "He got engaged to his girlfriend last Christmas." },
+    { "term": "propose", "translation": "делать предложение", "example": "He proposed to her at the top of the Eiffel Tower." },
+    { "term": "get married", "translation": "пожениться", "example": "My sister got married last June." },
+    { "term": "get divorced", "translation": "развестись", "example": "They got divorced after ten years of marriage." },
+    { "term": "split up", "translation": "расстаться", "example": "They split up because they wanted different things." },
+    { "term": "go out with", "translation": "встречаться с кем-то", "example": "She is going out with a guy from her yoga class." },
+    { "term": "have an argument", "translation": "ссориться", "example": "We had an argument about money last night." },
+    { "term": "make up", "translation": "помириться", "example": "They had a fight but made up the next day." },
+    { "term": "go on a date", "translation": "идти на свидание", "example": "We went on a date to a nice Italian restaurant." }
+  ]
+}

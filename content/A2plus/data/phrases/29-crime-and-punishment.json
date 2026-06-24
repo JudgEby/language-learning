@@ -1,0 +1,12 @@
+{
+  "lessonId": "crime-and-punishment",
+  "title": "Crime and punishment — фразы",
+  "items": [
+    { "phrase": "The window was broken", "translation": "Окно было разбито", "example": "The window was broken by someone during the night." },
+    { "phrase": "The thieves were caught", "translation": "Воры были пойманы", "example": "The thieves were caught on CCTV cameras." },
+    { "phrase": "He was taken to court", "translation": "Его привлекли к суду", "example": "He was taken to court for stealing a car." },
+    { "phrase": "She was given a fine", "translation": "Ей выписали штраф", "example": "She was given a fine for not having a ticket." },
+    { "phrase": "The money was stolen", "translation": "Деньги были украдены", "example": "The money was stolen from the office safe." },
+    { "phrase": "The building was damaged", "translation": "Здание было повреждено", "example": "The building was damaged in the fire." }
+  ]
+}

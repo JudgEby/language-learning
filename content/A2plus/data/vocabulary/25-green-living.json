@@ -1,0 +1,16 @@
+{
+  "lessonId": "green-living",
+  "title": "Green living — новые слова",
+  "items": [
+    { "term": "recycle", "translation": "перерабатывать", "example": "We should recycle plastic, glass and paper." },
+    { "term": "pollution", "translation": "загрязнение", "example": "Air pollution is a serious problem in big cities." },
+    { "term": "renewable energy", "translation": "возобновляемая энергия", "example": "Solar and wind power are types of renewable energy." },
+    { "term": "greenhouse gases", "translation": "парниковые газы", "example": "Greenhouse gases trap heat in the atmosphere." },
+    { "term": "waste", "translation": "мусор, отходы", "example": "We need to reduce the amount of waste we produce." },
+    { "term": "environment", "translation": "окружающая среда", "example": "We must protect the environment for future generations." },
+    { "term": "climate change", "translation": "изменение климата", "example": "Climate change is causing more extreme weather." },
+    { "term": "solar power", "translation": "солнечная энергия", "example": "The house runs entirely on solar power." },
+    { "term": "carbon footprint", "translation": "углеродный след", "example": "Taking public transport reduces your carbon footprint." },
+    { "term": "sustainable", "translation": "устойчивый, экологичный", "example": "We need more sustainable ways of living." }
+  ]
+}

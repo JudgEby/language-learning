@@ -1,0 +1,13 @@
+{
+  "lessonId": "travel-tips",
+  "title": "Travel tips — фразы",
+  "items": [
+    { "phrase": "You should try…", "translation": "Тебе стоит попробовать…", "example": "You should try the local street food — it's delicious!" },
+    { "phrase": "It's worth visiting…", "translation": "Стоит посетить…", "example": "It's worth visiting the old town — the architecture is amazing." },
+    { "phrase": "Remember to…", "translation": "Не забудь…", "example": "Remember to take some cash — not everywhere accepts cards." },
+    { "phrase": "Don't forget to…", "translation": "Не забывай…", "example": "Don't forget to validate your ticket before boarding the train." },
+    { "phrase": "Make sure you…", "translation": "Убедись, что ты…", "example": "Make sure you have a copy of your passport saved online." },
+    { "phrase": "You'd better…", "translation": "Тебе лучше…", "example": "You'd better book a table in advance — the restaurant is very popular." },
+    { "phrase": "Try to avoid…", "translation": "Постарайся избегать…", "example": "Try to avoid travelling during rush hour." }
+  ]
+}

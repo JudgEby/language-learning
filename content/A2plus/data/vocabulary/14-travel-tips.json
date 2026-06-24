@@ -1,0 +1,18 @@
+{
+  "lessonId": "travel-tips",
+  "title": "Travel tips — новые слова",
+  "items": [
+    { "term": "suitcase", "translation": "чемодан", "example": "I packed everything into one small suitcase." },
+    { "term": "backpack", "translation": "рюкзак", "example": "A backpack is more practical than a suitcase for hiking." },
+    { "term": "passport", "translation": "загранпаспорт", "example": "Don't forget to check your passport expiry date before booking a flight." },
+    { "term": "sunscreen", "translation": "солнцезащитный крем", "example": "Apply sunscreen every two hours when you're at the beach." },
+    { "term": "binoculars", "translation": "бинокль", "example": "I took my binoculars to watch the birds on the lake." },
+    { "term": "adaptor", "translation": "переходник (для розетки)", "example": "You'll need a travel adaptor for charging your phone abroad." },
+    { "term": "travel insurance", "translation": "туристическая страховка", "example": "It's wise to buy travel insurance before going on a trip." },
+    { "term": "first-aid kit", "translation": "аптечка", "example": "Always keep a first-aid kit in your backpack." },
+    { "term": "guidebook", "translation": "путеводитель", "example": "I bought a guidebook to help me plan my route." },
+    { "term": "phrase book", "translation": "разговорник", "example": "A phrase book can be useful when you don't speak the local language." },
+    { "term": "rucksack", "translation": "рюкзак (походный)", "example": "He packed his rucksack with camping gear." },
+    { "term": "map", "translation": "карта", "example": "We used a paper map because we didn't have internet access." }
+  ]
+}

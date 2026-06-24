@@ -1,0 +1,15 @@
+{
+  "lessonId": "you-cant-miss-it",
+  "title": "You can't miss it! — фразы",
+  "items": [
+    { "phrase": "Excuse me, how do I get to…?", "translation": "Извините, как мне пройти к…?", "example": "Excuse me, how do I get to the British Museum?" },
+    { "phrase": "Could you tell me the way to…?", "translation": "Не могли бы вы подсказать дорогу к…?", "example": "Could you tell me the way to the nearest bank?" },
+    { "phrase": "It's on the corner of…", "translation": "Это на углу…", "example": "The café is on the corner of Oxford Street and Baker Street." },
+    { "phrase": "You can't miss it!", "translation": "Не пройдёшь / не проедёшь мимо!", "example": "The hotel is a big red building opposite the station. You can't miss it!" },
+    { "phrase": "It's about five minutes' walk from here", "translation": "Это примерно в пяти минутах ходьбы отсюда", "example": "The gallery is about five minutes' walk from here." },
+    { "phrase": "Go past the… until you see…", "translation": "Пройди мимо… пока не увидишь…", "example": "Go past the supermarket until you see a blue sign." },
+    { "phrase": "It's just around the corner", "translation": "Это сразу за углом", "example": "Don't worry, the hotel is just around the corner." },
+    { "phrase": "I'm afraid I'm lost", "translation": "Боюсь, я заблудился", "example": "Excuse me, I'm afraid I'm lost. Can you help me?" },
+    { "phrase": "Is it far from here?", "translation": "Это далеко отсюда?", "example": "Is the museum far from here or can we walk?" }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "09bf52589bbb",
+    "question": "How do you introduce yourself on the phone?",
+    "options": [
+      "I am Anna.",
+      "Here is Anna.",
+      "This is Anna speaking.",
+      "Anna here is."
+    ],
+    "correctIndex": 2,
+    "explanation": "'This is Anna speaking' — the correct phone introduction.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "219994c65858",
+    "question": "Complete: 'Could I ___ to Mr Jones, please?'",
+    "options": [
+      "talk",
+      "speak",
+      "say",
+      "tell"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could I speak to...' — the standard polite request on the phone.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "ea01f9bdf762",
+    "question": "What does 'I'll put you through' mean?",
+    "options": [
+      "Я перезвоню",
+      "Я соединю вас",
+      "Я положу трубку",
+      "Я запишу"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'll put you through' means 'я соединю вас'.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "e90428707506",
+    "question": "Complete the message: 'Could you ask him to ___ me back?'",
+    "options": [
+      "phone",
+      "call",
+      "ring",
+      "speak"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Call me back' — the most common phrase for returning a call.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "43b02102957d",
+    "question": "What does 'hold on' mean on the phone?",
+    "options": [
+      "повесить трубку",
+      "подождать",
+      "перезвонить",
+      "записать"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Hold on' means 'подождать (не вешать трубку)'.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "9ba4d6eeeec4",
+    "question": "Complete: 'He's in a ___ right now. Can I take a message?'",
+    "options": [
+      "talk",
+      "meeting",
+      "call",
+      "work"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In a meeting' — the most common reason someone isn't available.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ]
+  },
+  {
+    "id": "78312ea14440",
+    "question": "Complete: '___ you ever performed on stage?'",
+    "options": [
+      "Do",
+      "Did",
+      "Have",
+      "Are"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Have you ever...' — present perfect for life experience.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "b7f93d25ff83",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I have never sung in public.",
+      "I haven't never sung in public.",
+      "I didn't never sing.",
+      "I have never sang."
+    ],
+    "correctIndex": 0,
+    "explanation": "'I have never sung' — one negative (never), correct past participle (sung).",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "9e5847b28b2a",
+    "question": "Complete: 'She ___ never flown in a helicopter before.'",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "does"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Has never flown' — third person singular + present perfect.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "72797e9e6bc4",
+    "question": "Which question asks about life experience?",
+    "options": [
+      "Where did you go yesterday?",
+      "Have you ever eaten sushi?",
+      "Do you like pizza?",
+      "Will you go tomorrow?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have you ever...' asks about life experience up to now.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "e91bb066df77",
+    "question": "Complete: 'I need to ___ a decision about which course to take.'",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Make a decision' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "8755e2d2ba24",
+    "question": "Choose the correct collocation: 'I always ___ my homework in the evening.'",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Do homework' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  }
+]

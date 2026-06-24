@@ -1,0 +1,13 @@
+{
+  "id": "feeling-good",
+  "order": 1,
+  "unit": "Unit 1 — Life",
+  "title": "Feeling good",
+  "contentMd": "## Question forms\n\n### Простая суть\n\nВопросы в английском — это как переключение передач в машине. Едешь прямо (утверждение) — обычный порядок слов. Хочешь спросить — переключаешься, и вспомогательный глагол выезжает вперёд. Есть вопросы, где достаточно кивнуть или покачать головой (yes/no), а есть те, где нужно узнать детали (wh-). И хитрость: иногда вопросительное слово само оказывается подлежащим — тогда никакой «помощник» не нужен. А предлоги в английском любят задерживаться в конце вопроса.\n\n### Как это работает\n\n- **Yes/No questions**: вспомогательный глагол (do/does/did/be) + подлежащее + основной глагол. *Do you like jazz?* *Is she a teacher?*\n- **Wh- questions**: вопросительное слово + вспомогательный глагол + подлежащее. *Where do you live?* *What did you eat?*\n- **Subject questions**: вопросительное слово = подлежащее → вспомогательный глагол **не нужен**. *Who lives here?* *What happened?*\n- **Object questions**: вспомогательный глагол нужен. *Who did you see?*\n- **Questions ending in a preposition**: предлог остаётся в конце. *What are you looking at?* *Who did you go with?*\n\n### Живые примеры\n\n- **Do you** feel good today? (Ты сегодня хорошо себя чувствуешь?)\n- **What did you do** last weekend? (Что ты делал на прошлых выходных?)\n- **Who lives** in that big house? (Кто живёт в том большом доме? — *who* — подлежащее, без *does*)\n- **Who did you meet** at the party? (С кем ты встретился на вечеринке?)\n- **What are you talking about?** (О чём ты говоришь? — предлог *about* в конце)\n\n### Лайфхак для запоминания\n\nЕсли в вопросе слово *who* или *what* стоит на месте подлежащего — представь, что это само действие спрашивает себя. *Something is wrong* → *What is wrong?* Никакого *does*. А если спрашиваешь про объект — помощник нужен: *You saw someone* → *Who did you see?*",
+  "examples": [
+    "Do you feel good today?",
+    "What did you do last weekend?",
+    "Who lives in that big house?",
+    "What are you talking about?"
+  ]
+}

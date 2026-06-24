@@ -1,0 +1,10 @@
+{
+  "lessonId": "what-can-i-do-for-you",
+  "title": "What can I do for you? — идиомы",
+  "items": [
+    { "idiom": "lend a hand", "translation": "помочь, протянуть руку помощи", "example": "Could you lend a hand with moving the furniture?" },
+    { "idiom": "go the extra mile", "translation": "сделать больше, чем ожидается", "example": "The staff really went the extra mile to make our stay comfortable." },
+    { "idiom": "give someone a ring", "translation": "позвонить кому-то", "example": "Give me a ring when you're free and we'll chat." },
+    { "idiom": "take someone up on something", "translation": "принять чьё-то предложение", "example": "I'd like to take you up on your offer of help." }
+  ]
+}

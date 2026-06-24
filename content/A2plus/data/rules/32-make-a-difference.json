@@ -1,0 +1,13 @@
+{
+  "id": "make-a-difference",
+  "order": 32,
+  "unit": "Unit 11 — Technology",
+  "title": "Make a difference",
+  "contentMd": "## Real conditionals (if + present simple, will/won't + base verb) and time clauses (when, as soon as, until, before)\n\n### Простая суть\n\nЭто про реальные ситуации в будущем: «Если сделаю X, произойдёт Y». В английском в таких конструкциях после *if, when, as soon as, until, before* **никогда** не ставится *will* — там всегда настоящее время (present simple), а *will* идёт в основной части. По-русски мы говорим «Если **буду** — **сделаю**», а англичане «If I **am** — I **will do**». Запомни: **if + present, will + verb**.\n\n### Как это работает\n\n- **Real conditional**: *If + present simple, will/won't + base verb*. *If it **rains**, I **will take** an umbrella.*\n- **Time clauses (when, as soon as, until, before)**: тоже present simple в придаточной части. *I **will call** you **when I arrive**.*\n- **as soon as** = «как только». *I'll text you **as soon as** I **get** home.*\n- **until** = «пока не». *I **won't leave** **until** you **arrive**.*\n- **before** = «перед тем, как». *I **will finish** this **before** I **go** out.*\n\n### Живые примеры\n\n- **If** I **study** hard, I **'ll pass** the exam. (Если я буду усердно заниматься, я сдам экзамен.)\n- I **'ll call** you **when** I **arrive** at the station. (Я позвоню тебе, когда приеду на вокзал.)\n- **As soon as** I **get** home, I **'ll send** you the documents. (Как только я приду домой, я отправлю тебе документы.)\n- We **won't start** the meeting **until** everyone **arrives**. (Мы не начнём встречу, пока все не придут.)\n\n### Лайфхак для запоминания\n\nПредставь, что *if, when, as soon as, until, before* — это «запретная зона» для *will*. Внутри этой зоны — только настоящее время. Как только видишь одно из этих слов, автоматически ставь present simple после него, а *will* оставляй для главной части предложения. Тренируй на фразах: «If... present, will...», «When... present, will...».",
+  "examples": [
+    "If I study hard, I'll pass the exam.",
+    "I'll call you when I arrive at the station.",
+    "As soon as I get home, I'll send you the documents.",
+    "We won't start the meeting until everyone arrives."
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "196973ac6863",
+    "question": "Choose the correct comparative:",
+    "options": [
+      "My new car is faster than my old one.",
+      "My new car is more fast than my old one.",
+      "My new car is fast than my old one.",
+      "My new car is fastest than my old one."
+    ],
+    "correctIndex": 0,
+    "explanation": "Short adjective 'fast' → 'faster + than'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "d5c701d80bcb",
+    "question": "Complete: 'This exercise is ___ difficult than the last one.'",
+    "options": [
+      "more",
+      "most",
+      "—",
+      "er"
+    ],
+    "correctIndex": 0,
+    "explanation": "Long adjective 'difficult' → 'more + difficult + than'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "971da278e325",
+    "question": "Complete: 'She is ___ most talented musician in the band.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 2,
+    "explanation": "'The' + superlative.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "12d4bf917975",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "This phone is not as expensive as that one.",
+      "This phone is not as expensive than that one.",
+      "This phone is more cheap as that one.",
+      "This phone is not so expensive than that one."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not as...as' = 'не такой... как'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "65d01dd664e5",
+    "question": "Complete: 'I saw ___ bird in the garden.' (first mention)",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A' for first mention.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "a5690c684709",
+    "question": "Complete: '___ sun rises in the east.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "—"
+    ],
+    "correctIndex": 2,
+    "explanation": "'The' with unique natural phenomena.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "6b70d672ad04",
+    "question": "Complete: '___ dogs need exercise every day.' (in general)",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "—"
+    ],
+    "correctIndex": 3,
+    "explanation": "No article with plural in general sense.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "1414fea65a01",
+    "question": "Complete: 'The ground is wet. It ___ have rained.'",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "could"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Must have + V3' — logical deduction about the past.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "83309f721f70",
+    "question": "Complete: 'That ___ be John — he's on holiday in Spain.'",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "could"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can't' — уверенность, что это НЕ так.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "40f07e9dd3ac",
+    "question": "Complete: 'She's not home. She ___ be at work.' (possibly)",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "will"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Might' for possibility.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "1d358975ddf8",
+    "question": "Complete: 'What ___ your city like?'",
+    "options": [
+      "does",
+      "is",
+      "are",
+      "do"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What is...like?' — asking for description.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "d35a7600c099",
+    "question": "Complete: 'What does he ___ like?' (appearance)",
+    "options": [
+      "look",
+      "be",
+      "seem",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What does he look like?' — external appearance.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  }
+]

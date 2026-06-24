@@ -1,0 +1,12 @@
+{
+  "lessonId": "theres-a-problem",
+  "title": "There's a problem — фразы",
+  "items": [
+    { "phrase": "I'm sorry to bother you, but...", "translation": "Извините за беспокойство, но...", "example": "I'm sorry to bother you, but the heating isn't working." },
+    { "phrase": "Could you please...?", "translation": "Не могли бы вы...?", "example": "Could you please send someone to take a look?" },
+    { "phrase": "There seems to be a problem with...", "translation": "Кажется, есть проблема с...", "example": "There seems to be a problem with the booking system." },
+    { "phrase": "I'm afraid I have a complaint", "translation": "Боюсь, у меня есть жалоба", "example": "I'm afraid I have a complaint about the room service." },
+    { "phrase": "Would you mind...?", "translation": "Вы не возражаете...?", "example": "Would you mind changing my room?" },
+    { "phrase": "I'd like to speak to the manager", "translation": "Я хотел бы поговорить с менеджером", "example": "I'd like to speak to the manager, please." }
+  ]
+}

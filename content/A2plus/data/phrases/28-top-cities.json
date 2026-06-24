@@ -1,0 +1,12 @@
+{
+  "lessonId": "top-cities",
+  "title": "Top cities — фразы",
+  "items": [
+    { "phrase": "It's a city with...", "translation": "Это город с...", "example": "It's a city with a rich history and modern architecture." },
+    { "phrase": "There's plenty of...", "translation": "Здесь много...", "example": "There's plenty of things to do in the city centre." },
+    { "phrase": "What I like about... is...", "translation": "Что мне нравится в... — это...", "example": "What I like about this city is the friendly atmosphere." },
+    { "phrase": "The best thing about... is...", "translation": "Самое лучшее в... — это...", "example": "The best thing about living here is the transport system." },
+    { "phrase": "One thing I don't like is...", "translation": "Одна вещь, которая мне не нравится — это...", "example": "One thing I don't like is the traffic during rush hour." },
+    { "phrase": "It has something for everyone", "translation": "Здесь есть всё для каждого", "example": "Whether you like art or sports, this city has something for everyone." }
+  ]
+}

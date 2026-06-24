@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3166131e6fff",
+    "question": "Complete: 'Go straight ___ until you see a supermarket.'",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Go straight on' — fixed phrase for directions.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "9b36977fddfd",
+    "question": "Choose the correct direction:",
+    "options": [
+      "Take the first turning on the right.",
+      "Take the first turn on right.",
+      "Take first turn right.",
+      "First take turning right."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take the first turning on the right' is the correct phrase.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "b7f610bd9106",
+    "question": "What does 'You can't miss it!' mean?",
+    "options": [
+      "Ты можешь пропустить это.",
+      "Ты не сможешь это не заметить.",
+      "Ты не умеешь пропускать.",
+      "Это легко потерять."
+    ],
+    "correctIndex": 1,
+    "explanation": "'You can't miss it!' means 'Ты не сможешь это не заметить / не пройдёшь мимо'.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "5430ad73cd94",
+    "question": "Complete: 'The museum is ___ the train station.'",
+    "options": [
+      "opposite",
+      "on",
+      "in",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Opposite' — 'напротив', used for giving directions.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "cbd4f3dbd311",
+    "question": "Complete: 'Excuse me, how do I get to the nearest ___ station?'",
+    "options": [
+      "tube",
+      "tunnel",
+      "underground",
+      "train"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tube station' — London underground station.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "25988bec628c",
+    "question": "What does 'cross the road' mean?",
+    "options": [
+      "перейти дорогу",
+      "пересечь дорогу на машине",
+      "стоять на дороге",
+      "смотреть на дорогу"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cross the road' means 'перейти дорогу'.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ]
+  },
+  {
+    "id": "90173d34b54c",
+    "question": "Complete: 'I've been a vegetarian ___ five years.'",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "in"
+    ],
+    "correctIndex": 1,
+    "explanation": "'For' + period of time (five years).",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "bf5ad3ac9582",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She's worked at this gym since 2020.",
+      "She's worked at this gym for 2020.",
+      "She's worked at this gym since three years.",
+      "She's worked at this gym for she moved here."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Since' + specific point in time (2020). 'For' + duration.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "2078d7b0b7f9",
+    "question": "Complete: 'How long have you ___ your best friend?'",
+    "options": [
+      "knew",
+      "know",
+      "known",
+      "knowing"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Have you known' — past participle of 'know' is 'known'.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "2d81c1c7171f",
+    "question": "Choose the correct word: 'I haven't seen him ___ we graduated from university.'",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "ago"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Since' + specific event (graduation).",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "c293f6c3709a",
+    "question": "Complete: 'They've lived in this neighbourhood ___ a very long time.'",
+    "options": [
+      "since",
+      "for",
+      "in",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanation": "'For' + 'a very long time' (duration).",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  },
+  {
+    "id": "8d456d38fbcb",
+    "question": "What does 'keep fit' mean?",
+    "options": [
+      "сохранять форму",
+      "одеваться",
+      "готовить еду",
+      "убираться"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Keep fit' means 'поддерживать спортивную форму'.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ]
+  }
+]

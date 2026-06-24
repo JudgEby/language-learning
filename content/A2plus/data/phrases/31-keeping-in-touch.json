@@ -1,0 +1,12 @@
+{
+  "lessonId": "keeping-in-touch",
+  "title": "Keeping in touch — фразы",
+  "items": [
+    { "phrase": "I've just...", "translation": "Я только что...", "example": "I've just sent you an email with the details." },
+    { "phrase": "Have you... yet?", "translation": "Ты уже...?", "example": "Have you replied to her message yet?" },
+    { "phrase": "I've already...", "translation": "Я уже...", "example": "I've already texted him about the meeting." },
+    { "phrase": "I haven't... yet", "translation": "Я ещё не...", "example": "I haven't checked my emails yet today." },
+    { "phrase": "Have you ever...?", "translation": "Ты когда-нибудь...?", "example": "Have you ever made a video call before?" },
+    { "phrase": "Keep me posted", "translation": "Держи меня в курсе", "example": "Keep me posted about the project updates." }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "8e8b5b4ec9c1",
+    "question": "Complete: 'I was travelling around Italy when I ___ my best friend.'",
+    "options": [
+      "met",
+      "was meeting",
+      "meet",
+      "had met"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past simple ('met') for the main event that interrupted the continuous action.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "359dedf32c3e",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "While we were driving to the coast, it started to rain heavily.",
+      "While we drove to the coast, it was starting to rain.",
+      "While we were driving, it was starting to rain.",
+      "While we drove, it started to rain heavily."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past continuous ('were driving') for background, past simple ('started') for event.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "ba304ca95f1b",
+    "question": "Complete: 'She was sleeping on the train when the ticket inspector ___ her up.'",
+    "options": [
+      "was waking",
+      "woke",
+      "wakes",
+      "is waking"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Woke' — past simple for the interrupting action.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "37fe37719d3e",
+    "question": "Which part of the sentence is the background (continuous) action? 'I was watching TV when the electricity went out.'",
+    "options": [
+      "was watching TV",
+      "went out",
+      "the electricity",
+      "I was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Was watching TV' is the continuous background action.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "81d7a8b54634",
+    "question": "Complete: 'While we were ___ to the coast, it started to rain.'",
+    "options": [
+      "driving",
+      "drive",
+      "drove",
+      "driven"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Were driving' — past continuous of 'drive'.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "15a855de38fe",
+    "question": "What does 'ticket inspector' mean?",
+    "options": [
+      "кассир",
+      "контролёр",
+      "пилот",
+      "водитель"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Ticket inspector' means 'контролёр' (in a train).",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ]
+  },
+  {
+    "id": "ea18a43c7100",
+    "question": "Complete: 'I want ___ Japan next spring.'",
+    "options": [
+      "visit",
+      "to visit",
+      "visiting",
+      "visited"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Want to + verb' — 'want' takes the infinitive with 'to'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "0764bd7c99ab",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She enjoys trying local food.",
+      "She enjoys to try local food.",
+      "She enjoy trying local food.",
+      "She enjoys try local food."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enjoys' takes the -ing form: 'enjoys trying'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "dea4cf8e58e3",
+    "question": "Complete: 'You need ___ your hotel in advance.'",
+    "options": [
+      "book",
+      "to book",
+      "booking",
+      "booked"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Need to + verb' — 'need' takes the infinitive with 'to'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "afe284b73eb4",
+    "question": "Which verb takes the -ing form?",
+    "options": [
+      "want",
+      "need",
+      "suggest",
+      "plan"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Suggest' takes the -ing form: 'suggest taking'. Want, need, plan take 'to + verb'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "1aac676982f4",
+    "question": "Complete: 'I suggest ___ a guided tour — it's worth it!'",
+    "options": [
+      "take",
+      "to take",
+      "taking",
+      "took"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Suggest' + -ing: 'suggest taking'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  },
+  {
+    "id": "cdf65891cae8",
+    "question": "What does 'book in advance' mean?",
+    "options": [
+      "отменить бронь",
+      "забронировать заранее",
+      "оплатить на месте",
+      "проверить бронь"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Book in advance' means 'забронировать заранее'.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ]
+  }
+]

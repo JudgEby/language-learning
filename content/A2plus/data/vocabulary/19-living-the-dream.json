@@ -1,0 +1,16 @@
+{
+  "lessonId": "living-the-dream",
+  "title": "Living the dream — новые слова",
+  "items": [
+    { "term": "dream of", "translation": "мечтать о", "example": "I dream of travelling around the world one day." },
+    { "term": "wait for", "translation": "ждать (кого-то/что-то)", "example": "I'm waiting for my friend at the station." },
+    { "term": "belong to", "translation": "принадлежать", "example": "This book belongs to my sister." },
+    { "term": "depend on", "translation": "зависеть от", "example": "The result depends on your hard work." },
+    { "term": "worry about", "translation": "волноваться о", "example": "Don't worry about the exam, you'll pass." },
+    { "term": "listen to", "translation": "слушать", "example": "I like to listen to music while I work." },
+    { "term": "pay for", "translation": "платить за", "example": "I paid for the tickets online." },
+    { "term": "laugh at", "translation": "смеяться над", "example": "Everyone laughed at his joke." },
+    { "term": "talk about", "translation": "говорить о", "example": "We talked about our plans for the summer." },
+    { "term": "look after", "translation": "заботиться о", "example": "She looks after her younger brother after school." }
+  ]
+}

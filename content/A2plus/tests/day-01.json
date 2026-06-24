@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a1c186b6105a",
+    "question": "Which sentence is a correct yes/no question?",
+    "options": [
+      "You do like jazz?",
+      "Do you like jazz?",
+      "Like you jazz?",
+      "You like jazz?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Do you like jazz?' — yes/no questions use do/does + subject + verb.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "64da3c9fde1a",
+    "question": "Choose the correct subject question:",
+    "options": [
+      "Who does live here?",
+      "Who lives here?",
+      "Who do live here?",
+      "Who here lives?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Who lives here?' — when who is the subject, no auxiliary verb needed.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "dda3a327b9f5",
+    "question": "Complete the question: 'What ___ at the weekend?'",
+    "options": [
+      "do you usually do",
+      "you usually do",
+      "do you usually",
+      "usually do you"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What do you usually do at the weekend?' — wh- + do + subject + verb.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "7cd2e008a64e",
+    "question": "Choose the correct sentence with a preposition at the end:",
+    "options": [
+      "About what are you talking?",
+      "What are you talking about?",
+      "What you are talking about?",
+      "You are talking about what?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What are you talking about?' — prepositions stay at the end in questions.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "0d519ac1cd25",
+    "question": "What does 'hang out with friends' mean?",
+    "options": [
+      "расслабляться",
+      "тусоваться с друзьями",
+      "ходить в кино",
+      "читать книгу"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Hang out with friends' means 'тусоваться с друзьями'.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "ada848eca549",
+    "question": "Complete: 'We decided to ___ and watch a film.'",
+    "options": [
+      "stay in",
+      "go shopping",
+      "do nothing",
+      "relax"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stay in' means 'оставаться дома'.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ]
+  },
+  {
+    "id": "47b017482951",
+    "question": "Which sentence uses the past simple correctly?",
+    "options": [
+      "I didn't went to the party.",
+      "I didn't go to the party.",
+      "I not went to the party.",
+      "I didn't going to the party."
+    ],
+    "correctIndex": 1,
+    "explanation": "'I didn't go' — after didn't, the verb is in base form (no -ed).",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "7596737afb13",
+    "question": "Choose the correct past simple form: 'She ___ to Paris last year.'",
+    "options": [
+      "go",
+      "goed",
+      "went",
+      "gone"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Went' is the past simple of 'go'.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "ccaade05d50c",
+    "question": "Complete the question: '___ you fall in love at first sight?'",
+    "options": [
+      "Do",
+      "Does",
+      "Did",
+      "Are"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Did you fall in love?' — past simple question uses 'did' + base verb.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "0ba61d8937b2",
+    "question": "Choose the correct negative sentence:",
+    "options": [
+      "She didn't want to go on a second date.",
+      "She didn't wanted to go.",
+      "She not wanted to go.",
+      "She didn't wants to go."
+    ],
+    "correctIndex": 0,
+    "explanation": "'She didn't want' — correct past simple negative.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "643b8a564bcb",
+    "question": "Which word completes the sentence? 'We got ___ in a small village church.'",
+    "options": [
+      "marry",
+      "married",
+      "marriage",
+      "marrying"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Got married' — the correct past form of 'get married'.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  },
+  {
+    "id": "6d0f85394f0b",
+    "question": "Choose the correct collocation: 'I ___ my wife at university.'",
+    "options": [
+      "met",
+      "meeted",
+      "knowed",
+      "saw"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Met' is the past simple of 'meet'.",
+    "relatedRuleIds": [
+      "true-love"
+    ]
+  }
+]

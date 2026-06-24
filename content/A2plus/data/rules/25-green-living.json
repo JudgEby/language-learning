@@ -1,0 +1,13 @@
+{
+  "id": "green-living",
+  "order": 25,
+  "unit": "Unit 9 — Nature",
+  "title": "Green living",
+  "contentMd": "## Comparatives and superlatives\n\n### Простая суть\n\nСравнительная степень — когда мы сравниваем два объекта: «этот дом больше, чем тот». Превосходная — когда один объект — самый-самый среди всех: «это самый большой дом в городе». В английском есть два пути: короткие прилагательные (1–2 слога) получают окончания *-er* и *-est*, а длинные — *more* и *most*.\n\n### Как это работает\n\n- **Comparatives (сравнительная)**:\n  - короткие прилагательные: прилагательное + **-er** + **than**. *Tall → taller than*\n  - длинные прилагательные: **more** + прилагательное + **than**. *Beautiful → more beautiful than*\n  - исключения: *good → better than*, *bad → worse than*\n  - *not as* + прилагательное + *as* — «не такой… как». *This book is **not as** interesting **as** that one.*\n\n- **Superlatives (превосходная)**:\n  - короткие: **the** + прилагательное + **-est**. *Tall → the tallest*\n  - длинные: **the most** + прилагательное. *Beautiful → the most beautiful*\n  - исключения: *good → the best*, *bad → the worst*\n\n### Живые примеры\n\n- My new car is **faster than** my old one. (Моя новая машина быстрее старой.)\n- This exercise is **more difficult than** the last one. (Это упражнение сложнее предыдущего.)\n- She is **the most talented** musician in the band. (Она самый талантливый музыкант в группе.)\n- This phone is **not as expensive as** that one. (Этот телефон не такой дорогой, как тот.)\n- **The best** way to learn a language is to practise every day. (Лучший способ выучить язык — практиковаться каждый день.)\n\n### Лайфхак для запоминания\n\nКороткие слова (big, small, fast) → +er/+est. Длинные (expensive, beautiful) → more/most. Если сомневаешься — скажи вслух: «beautifuler» звучит ужасно, значит нужно *more beautiful*. Запомни три кита исключений: *good → better → best*, *bad → worse → worst*, *far → further → furthest*.",
+  "examples": [
+    "My new car is faster than my old one.",
+    "This exercise is more difficult than the last one.",
+    "She is the most talented musician in the band.",
+    "The best way to learn a language is to practise every day."
+  ]
+}

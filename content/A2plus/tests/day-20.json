@@ -1,0 +1,183 @@
+[
+  {
+    "id": "d35325cc5d12",
+    "question": "Complete: 'A sales rep usually ___ a lot for work.'",
+    "options": [
+      "travel",
+      "travels",
+      "travelling",
+      "travelled"
+    ],
+    "correctIndex": 1,
+    "explanation": "Third person + 's' in present simple.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "ff99ec84d034",
+    "question": "Choose the correct adverb position: 'She ___ rarely stressed.'",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "rarely is"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adverb of frequency after 'be'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "53b6cbb04102",
+    "question": "Complete: 'I ___ working for a big company.'",
+    "options": [
+      "enjoy",
+      "enjoy to",
+      "enjoying",
+      "am enjoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enjoy' + -ing form.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "6a73bd4c8369",
+    "question": "Choose the strongest dislike:",
+    "options": [
+      "I don't like working late.",
+      "I can't stand working in an open-plan office.",
+      "I don't mind working late.",
+      "I'm not keen on working late."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can't stand' is the strongest dislike.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "e9d6d6ebe777",
+    "question": "What does 'not my cup of tea' mean?",
+    "options": [
+      "не моё, не по душе",
+      "очень люблю",
+      "в самый раз",
+      "это мой любимый чай"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not my cup of tea' = 'не моё, не по душе'.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "e89487df24f2",
+    "question": "Complete: 'This ___ to the company.'",
+    "options": [
+      "is belonging",
+      "belongs",
+      "belong",
+      "is belong"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Belongs' — state verb.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "95155031a81a",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She is having lunch with a client today.",
+      "She is having a car.",
+      "She is knowing the answer.",
+      "She is wanting a new job."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have' as an action (have lunch) can be continuous. 'Have' as state (have a car) cannot.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "84b84f41ebca",
+    "question": "Complete: 'Could you ___ me a favour?'",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Do someone a favour' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent",
+      "the-company-4u"
+    ]
+  },
+  {
+    "id": "0a325d77f284",
+    "question": "Complete: 'I ___ a decision about which course to take.'",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make a decision' — fixed collocation.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ]
+  },
+  {
+    "id": "e8c536282ab2",
+    "question": "What does 'work remotely' mean?",
+    "options": [
+      "работать в офисе",
+      "работать удалённо",
+      "работать сверхурочно",
+      "работать в команде"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Work remotely' = 'работать удалённо'.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  },
+  {
+    "id": "fc75a774c283",
+    "question": "Complete: 'I don't ___ working late sometimes.'",
+    "options": [
+      "mind",
+      "matter",
+      "care",
+      "like"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Don't mind + -ing' = neutral about it.",
+    "relatedRuleIds": [
+      "like-working-outside"
+    ]
+  },
+  {
+    "id": "ea9436c084ee",
+    "question": "Which adverb of frequency means 0%?",
+    "options": [
+      "always",
+      "usually",
+      "often",
+      "never"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Never' = 0% frequency.",
+    "relatedRuleIds": [
+      "risky-business"
+    ]
+  }
+]

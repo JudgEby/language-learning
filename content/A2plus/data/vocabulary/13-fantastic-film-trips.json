@@ -1,0 +1,18 @@
+{
+  "lessonId": "fantastic-film-trips",
+  "title": "Fantastic film trips — новые слова",
+  "items": [
+    { "term": "ferry", "translation": "паром", "example": "We took a ferry from the mainland to the island." },
+    { "term": "coach", "translation": "туристический автобус, междугородний автобус", "example": "We travelled from London to Edinburgh by coach." },
+    { "term": "tram", "translation": "трамвай", "example": "Trams are a cheap way to get around the city centre." },
+    { "term": "shuttle bus", "translation": "шаттл-автобус (трансфер)", "example": "A shuttle bus runs between the hotel and the airport every hour." },
+    { "term": "flight", "translation": "рейс, перелёт", "example": "Our flight to Paris was delayed by two hours." },
+    { "term": "platform", "translation": "платформа, перрон", "example": "The train to Manchester departs from platform 3." },
+    { "term": "departure lounge", "translation": "зал вылета", "example": "We waited in the departure lounge until our flight was called." },
+    { "term": "boarding pass", "translation": "посадочный талон", "example": "Please show your boarding pass at the gate." },
+    { "term": "single ticket", "translation": "билет в один конец", "example": "A single ticket to Brighton costs £25." },
+    { "term": "return ticket", "translation": "билет туда и обратно", "example": "It's cheaper to buy a return ticket than two singles." },
+    { "term": "delay", "translation": "задержка", "example": "There was a three-hour delay due to bad weather." },
+    { "term": "journey", "translation": "поездка, путешествие", "example": "The journey from York to London takes about two hours by train." }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "73fa5d51f462",
+    "question": "Which sentence describes a definite arrangement (tickets booked)?",
+    "options": [
+      "I am going sightseeing tomorrow — I've booked a tour.",
+      "I am going to go sightseeing someday.",
+      "I will go sightseeing.",
+      "I might go sightseeing."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous ('am going') with a specific arrangement indicates a definite plan.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "943c2788b0ae",
+    "question": "Complete: 'We ___ to have a picnic in Central Park this Sunday.'",
+    "options": [
+      "are going",
+      "go",
+      "will going",
+      "are go"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Are going to' + verb — intention/plan.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "8f763de58e2f",
+    "question": "Choose the correct sentence for a future arrangement:",
+    "options": [
+      "I am flying to New York on Friday morning.",
+      "I fly to New York on Friday morning.",
+      "I am fly to New York.",
+      "I will flying to New York."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous ('am flying') with a specific time = confirmed arrangement.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "bb9c515d3bc5",
+    "question": "Complete the question: '___ you seeing the show tonight?'",
+    "options": [
+      "Do",
+      "Are",
+      "Will",
+      "Is"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Are you seeing' — present continuous for a planned event.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "b14e532da43b",
+    "question": "What does 'go sightseeing' mean?",
+    "options": [
+      "ходить в кино",
+      "осматривать достопримечательности",
+      "заниматься спортом",
+      "гулять по парку"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Go sightseeing' means 'осматривать достопримечательности'.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "4aa09fdda2eb",
+    "question": "Complete: 'The museum is free on Sundays — it won't cost you a ___.'",
+    "options": [
+      "dime",
+      "penny",
+      "cent",
+      "pound"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Not cost a penny' — an expression meaning it's free.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ]
+  },
+  {
+    "id": "53b20e05354a",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who wants to go to the art gallery?",
+      "Who does want to go?",
+      "Who do want to go?",
+      "Who wants go?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Who wants' — who is the subject, so no auxiliary needed.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "eba46f54ea7f",
+    "question": "Choose the correct question: '___ happened at the skate park yesterday?'",
+    "options": [
+      "What did",
+      "What",
+      "What was",
+      "What does"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What happened' — what is the subject, no auxiliary needed.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "96404fc36359",
+    "question": "Which is an object question?",
+    "options": [
+      "Who called you?",
+      "Who lives here?",
+      "What happened?",
+      "Who organised the concert?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Who called you?' — could be either, but here 'who' is the subject calling. Actually 'Who did you call?' would be object. Let me check: 'Who called you?' — who = subject. 'Who did you call?' — who = object.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "b10ffd0d7100",
+    "question": "What's the difference? 'Who wrote this?' vs 'Who did you write to?'",
+    "options": [
+      "Both are subject questions.",
+      "First is subject, second is object question.",
+      "First is object, second is subject.",
+      "Both are incorrect."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Who wrote this?' — who is the subject. 'Who did you write to?' — who is the object.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "c7a4c938e2b3",
+    "question": "Which phrase means 'how you spend your free time'?",
+    "options": [
+      "work hours",
+      "time out",
+      "rush hour",
+      "overtime"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Time out' means free time / leisure time.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  },
+  {
+    "id": "4c9bf2b6026b",
+    "question": "Complete: 'Which bus ___ to the botanical garden?'",
+    "options": [
+      "does go",
+      "goes",
+      "go",
+      "going"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subject question: 'Which bus goes' — bus is the subject, so no auxiliary.",
+    "relatedRuleIds": [
+      "relax"
+    ]
+  }
+]

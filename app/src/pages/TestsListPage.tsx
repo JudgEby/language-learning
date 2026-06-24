@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import { ConfirmModal } from '../components/ConfirmModal';
 import { CheckMark, PageHeader } from '../components/Layout';
 import { loadManifest, loadTestDay } from '../lib/loadContent';
 import type { Manifest, TestQuestion } from '../lib/types';
-import { useCompletedTests } from '../store/progressStore';
+import { useCompletedTests, useProgressStore } from '../store/progressStore';
 
 interface DaySummary {
   dayId: string;
@@ -16,7 +17,9 @@ export function TestsListPage() {
   const [days, setDays] = useState<DaySummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showResetModal, setShowResetModal] = useState(false);
   const completedTests = useCompletedTests(level);
+  const resetTests = useProgressStore((s) => s.resetTests);
 
   useEffect(() => {
     let cancelled = false;
@@ -53,7 +56,19 @@ export function TestsListPage() {
 
   return (
     <div className="page">
-      <PageHeader title="Тесты" backTo={`/${level}`} backLabel="К уровню" />
+      <PageHeader
+        title="Тесты"
+        backTo={`/${level}`}
+        backLabel="К уровню"
+        actions={
+          <button
+            className="btn btn-secondary btn-sm"
+            onClick={() => setShowResetModal(true)}
+          >
+            Сбросить
+          </button>
+        }
+      />
       {days.map((day) => (
         <section key={day.dayId} className="test-day-section">
           <div className="test-day-header">
@@ -84,6 +99,18 @@ export function TestsListPage() {
           </ol>
         </section>
       ))}
+      <ConfirmModal
+        open={showResetModal}
+        title="Сбросить тесты"
+        message="Ты уверен, что хочешь сбросить отметки о выполнении у всех тестов?"
+        confirmLabel="Да, сбросить"
+        cancelLabel="Отмена"
+        onConfirm={() => {
+          resetTests(level);
+          setShowResetModal(false);
+        }}
+        onCancel={() => setShowResetModal(false)}
+      />
     </div>
   );
 }

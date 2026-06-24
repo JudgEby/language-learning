@@ -1,0 +1,16 @@
+{
+  "lessonId": "it-could-be-because",
+  "title": "It could be because — новые слова",
+  "items": [
+    { "term": "habitat", "translation": "среда обитания", "example": "The forest is the natural habitat of many birds." },
+    { "term": "species", "translation": "вид (биологический)", "example": "There are over 400 species of birds in this area." },
+    { "term": "endangered", "translation": "находящийся под угрозой исчезновения", "example": "Pandas are an endangered species." },
+    { "term": "extinct", "translation": "вымерший", "example": "Dinosaurs became extinct millions of years ago." },
+    { "term": "wildlife", "translation": "дикая природа, животный мир", "example": "The national park is full of wildlife." },
+    { "term": "reserve", "translation": "заповедник", "example": "This area is a nature reserve, so hunting is forbidden." },
+    { "term": "poaching", "translation": "браконьерство", "example": "Poaching is a serious threat to many animals." },
+    { "term": "conservation", "translation": "охрана природы, сохранение", "example": "Conservation efforts have helped protect tigers." },
+    { "term": "ecosystem", "translation": "экосистема", "example": "Coral reefs are a very fragile ecosystem." },
+    { "term": "predator", "translation": "хищник", "example": "Lions are apex predators in their habitat." }
+  ]
+}

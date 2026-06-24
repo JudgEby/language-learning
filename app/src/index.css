@@ -447,6 +447,15 @@ body {
   color: var(--color-heading);
 }
 
+.btn-danger {
+  background: var(--color-error);
+  color: #fff;
+}
+
+.btn-danger:hover:not(:disabled) {
+  background: var(--color-error-text);
+}
+
 .btn-sm {
   padding: 0.35rem 0.75rem;
   font-size: 0.85rem;
@@ -711,4 +720,40 @@ body {
 .rule-panel-item h3 {
   margin: 0 0 0.5rem;
   font-size: 1rem;
+}
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.modal-dialog {
+  background: var(--color-surface);
+  border-radius: 10px;
+  padding: 1.5rem;
+  max-width: 420px;
+  width: 90%;
+  box-shadow: 0 8px 32px var(--color-shadow-hover);
+}
+
+.modal-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.15rem;
+}
+
+.modal-message {
+  margin: 0 0 1.25rem;
+  color: var(--color-text-secondary);
+  line-height: 1.5;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
 }

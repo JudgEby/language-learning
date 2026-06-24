@@ -1,0 +1,182 @@
+[
+  {
+    "id": "7834beec0433",
+    "question": "Complete: 'You've been travelling all day — you ___ be exhausted!'",
+    "options": [
+      "can't",
+      "must",
+      "might",
+      "could"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Must' — logical deduction (95% sure).",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "b71bfe67ef1e",
+    "question": "Choose the correct sentence for a negative deduction:",
+    "options": [
+      "That can't be John — he's on holiday in Spain.",
+      "That mustn't be John.",
+      "That might not be John.",
+      "That isn't be John."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can't' = уверенность, что это НЕ так.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "4faacc05ea49",
+    "question": "Complete: 'I'm not sure where she is. She ___ be in the library.'",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "will"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Might' — possibility (~50%).",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "b0b4c8bfc32e",
+    "question": "What's the difference between 'may' and 'might' for deductions?",
+    "options": [
+      "May is more formal, might is less certain.",
+      "May is past tense.",
+      "Might is only for negative.",
+      "They mean exactly the same."
+    ],
+    "correctIndex": 0,
+    "explanation": "'May' is slightly more formal/confident than 'might'.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "1414fea65a01",
+    "question": "Complete: 'The ground is wet. It ___ have rained.'",
+    "options": [
+      "must",
+      "can't",
+      "might",
+      "could"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Must have rained' — logical deduction about the past.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "b0f5a955cfce",
+    "question": "What does 'deduction' mean in this context?",
+    "options": [
+      "обман",
+      "вычет",
+      "догадка / логический вывод",
+      "вычитание"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Deduction' here means 'догадка / логический вывод'.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ]
+  },
+  {
+    "id": "c6334dca3bcc",
+    "question": "Complete: 'What ___ your city like?'",
+    "options": [
+      "does",
+      "is",
+      "does it",
+      "—"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What is...like?' — asking for a description.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "989ad0c89b54",
+    "question": "Choose the correct question about appearance:",
+    "options": [
+      "What does he look like?",
+      "What is he like?",
+      "What does he like?",
+      "How does he look?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What does he look like?' asks about physical appearance.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "8d0940e22120",
+    "question": "Complete: 'I'd like ___ visit Tokyo one day.'",
+    "options": [
+      "to",
+      "—",
+      "for",
+      "that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'd like to' + verb — expressing a wish.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "57382ff3b8ad",
+    "question": "What does 'What's it like living in a big city?' ask about?",
+    "options": [
+      "the cost of living",
+      "the experience of living there",
+      "the location",
+      "the size"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What's it like...?' asks about the experience or impression.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "11ef24acc72a",
+    "question": "Complete: 'I like ___ around old towns.'",
+    "options": [
+      "walk",
+      "walked",
+      "walking",
+      "to walking"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Like + -ing' — expressing enjoyment of an activity.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  },
+  {
+    "id": "3f0348e268f9",
+    "question": "What does 'He is like his father' mean?",
+    "options": [
+      "Он похож на отца (по характеру)",
+      "Он любит отца",
+      "Он выглядит как отец",
+      "Он хочет быть как отец"
+    ],
+    "correctIndex": 0,
+    "explanation": "'He is like his father' — describes character, not appearance.",
+    "relatedRuleIds": [
+      "top-cities"
+    ]
+  }
+]

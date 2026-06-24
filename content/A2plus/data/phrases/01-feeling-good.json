@@ -1,0 +1,13 @@
+{
+  "lessonId": "feeling-good",
+  "title": "Feeling good — фразы",
+  "items": [
+    { "phrase": "How are things?", "translation": "Как дела?", "example": "Hey, long time no see! How are things?" },
+    { "phrase": "What have you been up to?", "translation": "Чем занимался всё это время?", "example": "I haven't seen you for ages! What have you been up to?" },
+    { "phrase": "Not much", "translation": "Да ничего особенного", "example": "'What are you doing?' 'Not much, just relaxing.'" },
+    { "phrase": "Same old, same old", "translation": "Всё по-старому", "example": "'How's work?' 'Same old, same old.'" },
+    { "phrase": "Pretty good", "translation": "Довольно хорошо", "example": "'How are you feeling?' 'Pretty good, thanks!'" },
+    { "phrase": "Can't complain", "translation": "Не жалуюсь", "example": "'How's life?' 'Can't complain!'" },
+    { "phrase": "What about you?", "translation": "А ты?", "example": "I'm fine, thanks. What about you?" }
+  ]
+}

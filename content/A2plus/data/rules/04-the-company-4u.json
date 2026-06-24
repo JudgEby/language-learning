@@ -1,0 +1,13 @@
+{
+  "id": "the-company-4u",
+  "order": 4,
+  "unit": "Unit 2 — Work",
+  "title": "The company 4U",
+  "contentMd": "## Present simple vs present continuous (state verbs)\n\n### Простая суть\n\nВсё как в прошлом уроке: present simple — для рутины и фактов, present continuous — для того, что происходит прямо сейчас. Но есть хитрость: некоторые глаголы не любят «инг»-форму. Это **state verbs** (глаголы состояния). Они описывают не действие, а состояние: знать, любить, хотеть, верить. Такие глаголы обычно не используются в continuous — нельзя сказать *I am knowing* или *She is wanting*.\n\n### Как это работает\n\n- **State verbs** (не используются в continuous): believe, know, understand, want, need, like, love, hate, prefer, belong, cost, seem, mean\n- **Present simple (state)**: *I know the answer. She wants a new job. He loves his work.*\n- **Present continuous (action)**: *I am working on a project. She is looking for a new job.*\n- **Разница**: *I think you are right* (мнение — state) vs *I am thinking about your offer* (процесс размышления — action)\n\n### Живые примеры\n\n- I **need** a coffee right now. (Мне нужен кофе прямо сейчас. — состояние)\n- She **is having** lunch with a client today. (Она сегодня обедает с клиентом. — действие) *Have* может быть и состоянием: *I have a car.*\n- This **belongs** to the company. (Это принадлежит компании. — состояние)\n- I **am applying for a new job** this week. (На этой неделе я подаю заявку на новую работу. — действие)\n- He **doesn't understand** the new system. (Он не понимает новую систему. — состояние)\n\n### Лайфхак для запоминания\n\nПопробуй мысленно поставить глагол в *-ing* и посмотреть, звучит ли это странно. *I am knowing* — как молоток в супе, неправильно. *I am learning* — нормально. Глаголы чувств, мыслей и обладания — почти всегда state verbs. Исключения есть (have, think, see), но их немного — запомнишь по мере практики.",
+  "examples": [
+    "I need a coffee right now.",
+    "She is having lunch with a client today.",
+    "This belongs to the company.",
+    "I am applying for a new job this week."
+  ]
+}

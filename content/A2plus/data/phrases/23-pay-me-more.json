@@ -1,0 +1,14 @@
+{
+  "lessonId": "pay-me-more",
+  "title": "Pay me more — фразы",
+  "items": [
+    { "phrase": "too much traffic", "translation": "слишком много движения", "example": "There's too much traffic on the roads at this time." },
+    { "phrase": "too many people", "translation": "слишком много людей", "example": "There are too many people in this lift, let's wait." },
+    { "phrase": "enough money", "translation": "достаточно денег", "example": "We don't have enough money to buy a house yet." },
+    { "phrase": "not enough time", "translation": "недостаточно времени", "example": "There's not enough time to finish the project today." },
+    { "phrase": "too expensive", "translation": "слишком дорого", "example": "This restaurant is too expensive for students." },
+    { "phrase": "good enough", "translation": "достаточно хорошо", "example": "Your English is good enough for the job." },
+    { "phrase": "too young to vote", "translation": "слишком молодой, чтобы голосовать", "example": "She's too young to vote, she's only 16." },
+    { "phrase": "fast enough", "translation": "достаточно быстро", "example": "Can you run fast enough to catch the bus?" }
+  ]
+}

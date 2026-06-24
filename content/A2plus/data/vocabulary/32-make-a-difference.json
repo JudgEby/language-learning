@@ -1,0 +1,16 @@
+{
+  "lessonId": "make-a-difference",
+  "title": "Make a difference — новые слова",
+  "items": [
+    { "term": "excited", "translation": "взволнованный (в хорошем смысле)", "example": "The children are excited about the trip." },
+    { "term": "worried", "translation": "обеспокоенный, встревоженный", "example": "I'm worried about the exam results." },
+    { "term": "nervous", "translation": "нервничающий", "example": "He always gets nervous before presentations." },
+    { "term": "proud", "translation": "гордый", "example": "She was proud of her son's achievement." },
+    { "term": "confident", "translation": "уверенный", "example": "I feel confident about passing the test." },
+    { "term": "anxious", "translation": "тревожный, обеспокоенный", "example": "She felt anxious before the interview." },
+    { "term": "relieved", "translation": "испытывающий облегчение", "example": "I was relieved when I heard the news." },
+    { "term": "disappointed", "translation": "разочарованный", "example": "He was disappointed with the result." },
+    { "term": "surprised", "translation": "удивлённый", "example": "She was surprised by the party." },
+    { "term": "grateful", "translation": "благодарный", "example": "I am grateful for your help." }
+  ]
+}

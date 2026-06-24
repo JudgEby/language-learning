@@ -1,0 +1,16 @@
+{
+  "lessonId": "can-you-tell-me",
+  "title": "Can you tell me — новые слова",
+  "items": [
+    { "term": "library", "translation": "библиотека", "example": "I borrowed this book from the library." },
+    { "term": "cafeteria", "translation": "кафетерий, столовая", "example": "We had lunch at the school cafeteria." },
+    { "term": "reception", "translation": "ресепшен, стойка регистрации", "example": "Please check in at the reception." },
+    { "term": "sports centre", "translation": "спортивный центр", "example": "There's a sports centre with a swimming pool." },
+    { "term": "car park", "translation": "парковка", "example": "The car park is behind the building." },
+    { "term": "waiting room", "translation": "зал ожидания", "example": "Please have a seat in the waiting room." },
+    { "term": "lift / elevator", "translation": "лифт", "example": "Take the lift to the fifth floor." },
+    { "term": "toilet / restroom", "translation": "туалет", "example": "Excuse me, where is the restroom?" },
+    { "term": "entrance", "translation": "вход", "example": "The entrance is on the left side of the building." },
+    { "term": "exit", "translation": "выход", "example": "In case of fire, use the emergency exit." }
+  ]
+}

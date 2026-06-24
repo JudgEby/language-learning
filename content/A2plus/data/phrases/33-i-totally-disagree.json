@@ -1,0 +1,12 @@
+{
+  "lessonId": "i-totally-disagree",
+  "title": "I totally disagree — фразы",
+  "items": [
+    { "phrase": "I totally agree", "translation": "Я полностью согласен", "example": "I totally agree that technology makes life easier." },
+    { "phrase": "I'm not sure about that", "translation": "Я не уверен насчёт этого", "example": "I'm not sure about that — some people prefer traditional books." },
+    { "phrase": "That's a good point, but...", "translation": "Хороший аргумент, но...", "example": "That's a good point, but not everyone has access to the internet." },
+    { "phrase": "I see what you mean, however...", "translation": "Я понимаю, что ты имеешь в виду, однако...", "example": "I see what you mean, however, I think social media has many benefits." },
+    { "phrase": "In my experience...", "translation": "По моему опыту...", "example": "In my experience, online courses are just as effective." },
+    { "phrase": "Don't you think that...?", "translation": "Не думаешь ли ты, что...?", "example": "Don't you think that we rely too much on technology?" }
+  ]
+}

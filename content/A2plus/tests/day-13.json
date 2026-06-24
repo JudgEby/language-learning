@@ -1,0 +1,182 @@
+[
+  {
+    "id": "4835fd71b25f",
+    "question": "Complete: 'My new car is ___ than my old one.'",
+    "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "correctIndex": 1,
+    "explanation": "Short adjective (fast) + -er + than.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "9e2ed98f593b",
+    "question": "Choose the correct comparative:",
+    "options": [
+      "This exercise is more difficult than the last one.",
+      "This exercise is difficulter than.",
+      "This is more easy than.",
+      "This exercise is difficulter."
+    ],
+    "correctIndex": 0,
+    "explanation": "Long adjective (difficult) → 'more difficult + than'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "971da278e325",
+    "question": "Complete: 'She is ___ most talented musician in the band.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 2,
+    "explanation": "'The' + superlative: 'the most talented'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "289c8d749e7d",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "This phone is not as expensive as that one.",
+      "This phone is not as expensive than that one.",
+      "This phone is more cheap as that one.",
+      "This phone is as expensive not."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not as...as' — 'не такой... как'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "6001c59f6a6c",
+    "question": "Complete: 'The best way to learn a language is to ___ every day.'",
+    "options": [
+      "practise",
+      "practice",
+      "practising",
+      "practised"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Practise' (verb) — 'практиковаться'.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "e5532a67696e",
+    "question": "What are the three irregular comparative/superlative exceptions?",
+    "options": [
+      "good/better/best, bad/worse/worst, far/further/furthest",
+      "good/gooder/goodest, bad/badder/baddest",
+      "nice/nicer/nicest, big/bigger/biggest",
+      "happy/happier/happiest, easy/easier/easiest"
+    ],
+    "correctIndex": 0,
+    "explanation": "The three key irregular sets: good→better→best, bad→worse→worst, far→further→furthest.",
+    "relatedRuleIds": [
+      "green-living"
+    ]
+  },
+  {
+    "id": "3ffd680731e7",
+    "question": "Complete: 'I saw ___ bird in the garden.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A' — first mention of something, before consonant sound.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "210befa297cc",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The sun rises in the east.",
+      "A sun rises in an east.",
+      "Sun rises in east.",
+      "The sun rises in an east."
+    ],
+    "correctIndex": 0,
+    "explanation": "'The' with unique things (sun, east).",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "6b70d672ad04",
+    "question": "Complete: '___ dogs need exercise every day.' (in general)",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "—"
+    ],
+    "correctIndex": 3,
+    "explanation": "No article with plural nouns in general sense.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "577112e449e6",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I went to the park near my house.",
+      "I went to park near my house.",
+      "I went to a park near my house.",
+      "I went to an park."
+    ],
+    "correctIndex": 0,
+    "explanation": "'The' — specific park (the one near my house).",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "d33fc0b9b7b1",
+    "question": "When do we use 'an' instead of 'a'?",
+    "options": [
+      "before consonant sounds",
+      "before vowel sounds",
+      "before plural nouns",
+      "always"
+    ],
+    "correctIndex": 1,
+    "explanation": "'An' before vowel sounds: an apple, an hour.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  },
+  {
+    "id": "934601a34703",
+    "question": "Complete: '___ elephant can live for 70 years.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "—"
+    ],
+    "correctIndex": 1,
+    "explanation": "'An elephant' — 'an' before vowel sound.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ]
+  }
+]

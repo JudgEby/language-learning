@@ -1,0 +1,12 @@
+{
+  "lessonId": "make-a-difference",
+  "title": "Make a difference — фразы",
+  "items": [
+    { "phrase": "If I study hard, I'll pass", "translation": "Если я буду усердно заниматься, я сдам", "example": "If I study hard, I'll pass the exam with good marks." },
+    { "phrase": "I'll call you when I arrive", "translation": "Я позвоню тебе, когда приеду", "example": "I'll call you when I arrive at the airport." },
+    { "phrase": "If it rains, I'll stay at home", "translation": "Если пойдёт дождь, я останусь дома", "example": "If it rains, I'll stay at home and watch a film." },
+    { "phrase": "I won't go until I finish this", "translation": "Я не уйду, пока не закончу это", "example": "I won't go until I finish this report." },
+    { "phrase": "I'll text you as soon as I hear anything", "translation": "Я напишу тебе, как только что-то узнаю", "example": "I'll text you as soon as I hear anything about the job." },
+    { "phrase": "What will you do if...?", "translation": "Что ты будешь делать, если...?", "example": "What will you do if you don't get the job?" }
+  ]
+}

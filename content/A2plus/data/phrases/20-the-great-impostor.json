@@ -1,0 +1,14 @@
+{
+  "lessonId": "the-great-impostor",
+  "title": "The great impostor — фразы",
+  "items": [
+    { "phrase": "I went to the library to study.", "translation": "Я пошёл в библиотеку, чтобы заниматься.", "example": "I went to the library to study for my final exams." },
+    { "phrase": "I was tired so I went to bed.", "translation": "Я устал, поэтому пошёл спать.", "example": "I was tired so I went to bed early." },
+    { "phrase": "I was late because I missed the bus.", "translation": "Я опоздал, потому что пропустил автобус.", "example": "I was late because I missed the bus this morning." },
+    { "phrase": "We stayed inside because of the rain.", "translation": "Мы остались внутри из-за дождя.", "example": "We stayed inside because of the heavy rain." },
+    { "phrase": "She called him to invite him to the party.", "translation": "Она позвонила ему, чтобы пригласить на вечеринку.", "example": "She called him to invite him to the party." },
+    { "phrase": "I set an alarm so that I wouldn't oversleep.", "translation": "Я поставил будильник, чтобы не проспать.", "example": "I set an alarm so that I wouldn't oversleep." },
+    { "phrase": "He studied hard because he wanted to pass.", "translation": "Он много занимался, потому что хотел сдать.", "example": "He studied hard because he wanted to pass the exam." },
+    { "phrase": "There was a traffic jam so we missed the flight.", "translation": "Была пробка, поэтому мы опоздали на рейс.", "example": "There was a traffic jam so we missed the flight." }
+  ]
+}

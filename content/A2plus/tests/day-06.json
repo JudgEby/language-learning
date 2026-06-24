@@ -1,0 +1,182 @@
+[
+  {
+    "id": "13df75673aaa",
+    "question": "Complete: 'You ___ wear a uniform at this school.'",
+    "options": [
+      "can",
+      "have to",
+      "mustn't",
+      "don't have to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Have to' — obligation due to rules.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "77f4fcfc0380",
+    "question": "Which sentence expresses a strong prohibition?",
+    "options": [
+      "You can't eat in class.",
+      "You mustn't use your phone during the exam.",
+      "You don't have to go.",
+      "You can borrow books."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Mustn't' is a strong prohibition — 'запрещено'.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "dd6dfdf98371",
+    "question": "What's the difference between 'mustn't' and 'don't have to'?",
+    "options": [
+      "They mean the same thing.",
+      "'Mustn't' is prohibition, 'don't have to' means no obligation.",
+      "'Mustn't' is no obligation, 'don't have to' is prohibition.",
+      "Both mean no obligation."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Mustn't' = запрещено. 'Don't have to' = не обязательно (no obligation).",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "8c211a04d1e3",
+    "question": "Complete: 'We ___ go to school on Saturdays — it's optional.'",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "can't",
+      "must"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' — no obligation, optional.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "d4ae381fb263",
+    "question": "What does 'wear a uniform' mean?",
+    "options": [
+      "носить форму",
+      "покупать форму",
+      "снимать форму",
+      "стирать форму"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Wear a uniform' means 'носить форму'.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "5e4e327287b7",
+    "question": "Complete: 'You can borrow books from the ___ for two weeks.'",
+    "options": [
+      "shop",
+      "library",
+      "school",
+      "office"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Library' — where you borrow books.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ]
+  },
+  {
+    "id": "fdc2f064b107",
+    "question": "Complete the advice: 'You ___ practise speaking every day.'",
+    "options": [
+      "should",
+      "mustn't",
+      "don't have to",
+      "can't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' — giving a recommendation.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "17723c6419e0",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "You shouldn't be afraid of making mistakes.",
+      "You should not afraid.",
+      "You don't should be afraid.",
+      "You shouldn't to be afraid."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't be afraid' — correct negative form of 'should' + base verb.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "04a759cf93e7",
+    "question": "Complete: 'Why ___ you join a language exchange group?'",
+    "options": [
+      "do",
+      "don't",
+      "aren't",
+      "not"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Why don't you...' — a friendly suggestion.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "484252bac4b6",
+    "question": "What does 'If I were you, I'd apologise' mean?",
+    "options": [
+      "Я извинюсь, если ты придёшь.",
+      "Я бы на твоём месте извинился.",
+      "Если я буду тобой, я извинюсь.",
+      "Ты должен извиниться."
+    ],
+    "correctIndex": 1,
+    "explanation": "'If I were you, I'd...' means 'я бы на твоём месте...'.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "a0bacc9afd1a",
+    "question": "Complete: 'You ought to try that new ___ place — the pasta is incredible!'",
+    "options": [
+      "Italian",
+      "Italy",
+      "Italic",
+      "Italian's"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Italian place' — an Italian restaurant.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  },
+  {
+    "id": "69db1846d34f",
+    "question": "Which phrase offers a suggestion?",
+    "options": [
+      "You must go.",
+      "Why don't you take a break?",
+      "You can't go.",
+      "I'll go."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Why don't you...' — a friendly suggestion.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ]
+  }
+]

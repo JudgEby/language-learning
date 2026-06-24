@@ -1,0 +1,16 @@
+{
+  "lessonId": "feeling-good",
+  "title": "Feeling good — новые слова",
+  "items": [
+    { "term": "go shopping", "translation": "ходить за покупками", "example": "I usually go shopping on Saturday mornings." },
+    { "term": "have a barbecue", "translation": "жарить шашлыки/барбекю", "example": "We had a barbecue in the garden last Sunday." },
+    { "term": "go for a walk", "translation": "идти на прогулку", "example": "Let's go for a walk in the park." },
+    { "term": "play board games", "translation": "играть в настольные игры", "example": "My family plays board games every Friday night." },
+    { "term": "go to the cinema", "translation": "ходить в кино", "example": "We went to the cinema to see the new superhero movie." },
+    { "term": "do nothing", "translation": "ничего не делать", "example": "Sometimes I just want to stay at home and do nothing." },
+    { "term": "relax", "translation": "расслабляться", "example": "I relax by listening to music after work." },
+    { "term": "hang out with friends", "translation": "тусоваться с друзьями", "example": "I love hanging out with my friends at the weekend." },
+    { "term": "read a book", "translation": "читать книгу", "example": "I'm reading a book about ancient history." },
+    { "term": "stay in", "translation": "оставаться дома", "example": "We decided to stay in and watch a film." }
+  ]
+}

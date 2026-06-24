@@ -1,0 +1,182 @@
+[
+  {
+    "id": "7373582877b1",
+    "question": "Complete: 'There's ___ sugar in this cake.'",
+    "options": [
+      "too many",
+      "too much",
+      "enough",
+      "very"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Too much' + uncountable noun (sugar).",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "2b5f4f217ece",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "There are too many people in the room.",
+      "There are too much people in the room.",
+      "There is too many people.",
+      "There are too much peoples."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Too many' + countable plural noun (people).",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "a1495398f7ec",
+    "question": "Complete: 'We don't have ___ time.'",
+    "options": [
+      "too much",
+      "too many",
+      "enough",
+      "very"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Enough time' — 'достаточно времени'.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "4898dd7b32c7",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The soup is hot enough now.",
+      "The soup is enough hot now.",
+      "The soup hot enough.",
+      "The soup is too hot enough."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enough' comes AFTER adjectives: 'hot enough'.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "90d684de7647",
+    "question": "What's the difference between 'too' and 'very'?",
+    "options": [
+      "They are the same.",
+      "'Too' means 'слишком (проблема)', 'very' means 'очень'.",
+      "'Very' is stronger than 'too'.",
+      "'Too' is positive, 'very' is negative."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Too' = excessively (negative). 'Very' = just 'very' (neutral).",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "4770ec49e0ba",
+    "question": "Complete: 'I'm very tired, but not ___ tired to go for a walk.'",
+    "options": [
+      "too",
+      "so",
+      "enough",
+      "very"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not too tired' — 'не настолько устал, чтобы...'.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ]
+  },
+  {
+    "id": "17da48fc6bee",
+    "question": "What does a shop assistant typically ask?",
+    "options": [
+      "What do you want?",
+      "Can I help you?",
+      "You need something?",
+      "How much is it?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can I help you?' is the standard shop assistant greeting.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "0d52f374af4c",
+    "question": "Complete: 'How much is this ___?'",
+    "options": [
+      "dress",
+      "cost",
+      "price",
+      "money"
+    ],
+    "correctIndex": 0,
+    "explanation": "'How much is this dress?' — asking the price of an item.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "c36f655d06d9",
+    "question": "What do you say when you want to return something?",
+    "options": [
+      "I'll take it.",
+      "I'd like a refund, please.",
+      "Can I try this on?",
+      "I'm just looking."
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd like a refund' means 'я хотел бы вернуть деньги'.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "c2f8139ba0cc",
+    "question": "Complete: 'Can I ___ this on?'",
+    "options": [
+      "take",
+      "try",
+      "wear",
+      "get"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Try on' — 'примерить' (clothes).",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "324c66a9ad55",
+    "question": "What does 'I'm just looking' mean?",
+    "options": [
+      "Я просто смотрю (не нужна помощь)",
+      "Я ищу что-то конкретное",
+      "Я хочу купить",
+      "Я жду"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'm just looking' = 'я просто смотрю, помощь не нужна'.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  },
+  {
+    "id": "d776809ef3f4",
+    "question": "Complete: 'Do you have this jacket ___ black?'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In black' — 'в чёрном цвете'.",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ]
+  }
+]

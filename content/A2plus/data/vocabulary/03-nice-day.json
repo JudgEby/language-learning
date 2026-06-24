@@ -1,0 +1,16 @@
+{
+  "lessonId": "nice-day",
+  "title": "Nice day — новые слова",
+  "items": [
+    { "term": "mood", "translation": "настроение", "example": "She is in a good mood today because she passed her exam." },
+    { "term": "cheerful", "translation": "жизнерадостный", "example": "My sister is always cheerful in the morning." },
+    { "term": "grumpy", "translation": "ворчливый, раздражительный", "example": "He is grumpy when he doesn't get enough sleep." },
+    { "term": "stressed", "translation": "испытывающий стресс", "example": "I feel very stressed about my job interview." },
+    { "term": "relaxed", "translation": "расслабленный, спокойный", "example": "She looked relaxed after her holiday." },
+    { "term": "energetic", "translation": "энергичный", "example": "Young children are usually very energetic." },
+    { "term": "tired", "translation": "уставший", "example": "I'm so tired, I think I'll go to bed early." },
+    { "term": "excited", "translation": "взволнованный (в хорошем смысле)", "example": "The kids are excited about the trip to the zoo." },
+    { "term": "nervous", "translation": "нервничающий", "example": "I always feel nervous before a test." },
+    { "term": "positive attitude", "translation": "позитивный настрой", "example": "A positive attitude can change everything." }
+  ]
+}

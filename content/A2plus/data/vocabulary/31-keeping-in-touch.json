@@ -1,0 +1,16 @@
+{
+  "lessonId": "keeping-in-touch",
+  "title": "Keeping in touch — новые слова",
+  "items": [
+    { "term": "text", "translation": "текстовое сообщение, смс", "example": "I'll send you a text when I arrive." },
+    { "term": "email", "translation": "электронное письмо", "example": "Could you forward that email to me?" },
+    { "term": "instant message", "translation": "мгновенное сообщение", "example": "We chat through instant messages every day." },
+    { "term": "social media", "translation": "социальные сети", "example": "She spends too much time on social media." },
+    { "term": "video call", "translation": "видеозвонок", "example": "Let's have a video call this weekend." },
+    { "term": "voicemail", "translation": "голосовая почта", "example": "He left a voicemail while I was in a meeting." },
+    { "term": "attachment", "translation": "вложение", "example": "I can't open the attachment you sent." },
+    { "term": "reply", "translation": "ответить", "example": "Please reply to my message as soon as possible." },
+    { "term": "forward", "translation": "переслать", "example": "Can you forward me the information?" },
+    { "term": "keep in touch", "translation": "поддерживать связь", "example": "Let's keep in touch after the course ends." }
+  ]
+}

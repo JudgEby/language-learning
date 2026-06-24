@@ -1,0 +1,14 @@
+{
+  "lessonId": "can-you-tell-me",
+  "title": "Can you tell me — фразы",
+  "items": [
+    { "phrase": "Could you tell me where the station is?", "translation": "Не подскажете, где находится вокзал?", "example": "Could you tell me where the station is? I'm lost." },
+    { "phrase": "Do you know if there's a bank near here?", "translation": "Вы не знаете, есть ли здесь рядом банк?", "example": "Do you know if there's a bank near here?" },
+    { "phrase": "I'd like to know what time it opens.", "translation": "Я хотел бы узнать, во сколько это открывается.", "example": "I'd like to know what time the museum opens." },
+    { "phrase": "I was wondering if you could help me.", "translation": "Я подумал, не могли бы вы мне помочь.", "example": "I was wondering if you could help me find this address." },
+    { "phrase": "Can you tell me how to get to the airport?", "translation": "Вы можете подсказать, как добраться до аэропорта?", "example": "Can you tell me how to get to the airport?" },
+    { "phrase": "Do you happen to know where the manager is?", "translation": "Вы случайно не знаете, где менеджер?", "example": "Do you happen to know where the manager is?" },
+    { "phrase": "Would you mind telling me the way to the library?", "translation": "Не могли бы вы подсказать дорогу до библиотеки?", "example": "Would you mind telling me the way to the library?" },
+    { "phrase": "I'd like to find out more about the course.", "translation": "Я хотел бы узнать больше о курсе.", "example": "I'd like to find out more about the course." }
+  ]
+}

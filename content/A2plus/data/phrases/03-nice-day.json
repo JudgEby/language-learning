@@ -1,0 +1,13 @@
+{
+  "lessonId": "nice-day",
+  "title": "Nice day — фразы",
+  "items": [
+    { "phrase": "Nice day, isn't it?", "translation": "Хороший денёк, правда?", "example": "Nice day, isn't it? Perfect for a walk." },
+    { "phrase": "Tell me about it", "translation": "И не говори / Ещё бы", "example": "'This weather is awful!' 'Tell me about it!'" },
+    { "phrase": "You're telling me", "translation": "Точно / Уж мне расскажи", "example": "'Work is so busy these days.' 'You're telling me!'" },
+    { "phrase": "I know what you mean", "translation": "Я понимаю, о чём ты", "example": "'I'm so tired after work.' 'I know what you mean.'" },
+    { "phrase": "I hope so", "translation": "Надеюсь", "example": "'Do you think it'll stop raining soon?' 'I hope so.'" },
+    { "phrase": "Fair enough", "translation": "Справедливо / Ладно, убедил", "example": "'I don't feel like going out tonight.' 'Fair enough.'" },
+    { "phrase": "How's your day been?", "translation": "Как прошёл твой день?", "example": "How's your day been? Busy?" }
+  ]
+}

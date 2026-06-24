@@ -1,0 +1,13 @@
+{
+  "id": "theres-a-problem",
+  "order": 30,
+  "unit": "Unit 10 — Society",
+  "title": "There's a problem",
+  "contentMd": "## Complaining (*I'm sorry but..., I'm afraid..., There's a problem with...*)\n\n### Простая суть\n\nЖаловаться на английском нужно вежливо — иначе прослывёшь грубияном. Англичане обожают смягчать претензии фразами *I'm sorry but...*, *I'm afraid...* и *I hate to say this, but...* Это не значит, что ты извиняешься — просто делаешь жалобу менее резкой. Главное правило: сначала вежливое вступление, потом проблема.\n\n### Как это работает\n\n- **I'm sorry, but...** — «Извините, но...» (самое популярное начало жалобы). *I'm sorry, but this coffee is cold.*\n- **I'm afraid...** — «Боюсь, что...» (ещё один смягчитель). *I'm afraid there's a problem with my room.*\n- **There's a problem with...** — «Проблема с...» (прямо, но вежливо). *There's a problem with the heating.*\n- **Could you please...?** — «Не могли бы вы...?» (просьба исправить). *Could you please send someone to fix it?*\n\n### Живые примеры\n\n- **I'm sorry to bother you, but** the air conditioner isn't working. (Извините за беспокойство, но кондиционер не работает.)\n- **I'm afraid** there's a problem with my order. (Боюсь, с моим заказом проблема.)\n- **There seems to be a problem with** the Wi-Fi connection. (Кажется, есть проблема с подключением к Wi-Fi.)\n- **Could you please** check the bill? There's a mistake. (Не могли бы вы проверить счёт? Там ошибка.)\n\n### Лайфхак для запоминания\n\nДумай о жалобе как о бутерброде: сначала «слой вежливости» (*I'm sorry / I'm afraid*), потом «начинка» (проблема), и в конце «слой просьбы» (*Could you...?*). Никогда не начинай жалобу с «You...» — это звучит как обвинение.",
+  "examples": [
+    "I'm sorry to bother you, but the air conditioner isn't working.",
+    "I'm afraid there's a problem with my order.",
+    "There seems to be a problem with the Wi-Fi connection.",
+    "Could you please check the bill? There's a mistake."
+  ]
+}
