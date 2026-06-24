@@ -12,7 +12,7 @@ const GRADIENT_STOPS = [
 
 export interface LogoProps extends SVGProps<SVGSVGElement> {}
 
-/** Languages Learning logo — two clean “L” letters with neon gradient. */
+/** Language Learning logo — two clean “L” letters with neon gradient. */
 export function Logo({ className, ...props }: LogoProps) {
   const gradientId = `ll-gradient-${useId().replace(/:/g, '')}`;
 
@@ -22,7 +22,7 @@ export function Logo({ className, ...props }: LogoProps) {
       viewBox="0 0 88 56"
       fill="none"
       role="img"
-      aria-label="Languages Learning"
+      aria-label="Language Learning"
       className={className}
       {...props}
     >

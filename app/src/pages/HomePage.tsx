@@ -23,7 +23,7 @@ export function HomePage() {
   return (
     <div className="page">
       <PageHeader
-        title="Languages Learning"
+        title="Language Learning"
         actions={<Logo width={48} height={31} aria-hidden />}
       />
       {levels.length === 0 ? (
