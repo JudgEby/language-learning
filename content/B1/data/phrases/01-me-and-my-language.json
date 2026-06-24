@@ -1,0 +1,12 @@
+{
+  "lessonId": "me-and-my-language",
+  "title": "Me and my language — фразы",
+  "items": [
+    { "phrase": "Could I ask a question?", "translation": "Могу я задать вопрос?", "example": "Could I ask a question about the homework?" },
+    { "phrase": "There are a couple of things I'd like to ask about", "translation": "Есть пара вещей, о которых я хотел бы спросить", "example": "There are a couple of things I'd like to ask about the course." },
+    { "phrase": "Can I ask you about that?", "translation": "Могу я спросить вас об этом?", "example": "Can I ask you about that experience you mentioned?" },
+    { "phrase": "I do have a query", "translation": "У меня есть вопрос/запрос", "example": "I do have a query about the deadline for the assignment." },
+    { "phrase": "picked up", "translation": "подхватил, выучил неформально", "example": "I picked up some Spanish when I was travelling in Latin America." },
+    { "phrase": "I'd love to join", "translation": "Я бы с удовольствием присоединился", "example": "I'd love to join your conversation class." }
+  ]
+}

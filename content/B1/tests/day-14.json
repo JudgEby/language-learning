@@ -1,0 +1,181 @@
+[
+  {
+    "id": "1e69281c3db6",
+    "question": "Complete the sentence: Is the heating on? It's ___ in here.",
+    "options": [
+      "guilty",
+      "boiling",
+      "eyewitness",
+      "raw emotion"
+    ],
+    "correctIndex": 1,
+    "explanation": "'boiling' means очень жаркий. Full sentence: Is the heating on? It's boiling in here.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "61e28827b227",
+    "question": "Which sentence describes a past state that is no longer true?",
+    "options": [
+      "We would live in France.",
+      "We used to live in France.",
+      "We lived in France in 2010.",
+      "We were living in France."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Used to' works for both past habits and states. 'Would' only works for repeated actions, not states.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "83529a776890",
+    "question": "Complete the sentence: So you live at 106 West Smith Road? ___.",
+    "options": [
+      "You'll never guess what!",
+      "That's right",
+      "What I'm most proud of is…",
+      "Could I ask a question?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'That's right' — Верно. Full sentence: So you live at 106 West Smith Road? That's right.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "168bb51b18fb",
+    "question": "Choose the correct word for: 'ужасный'",
+    "options": [
+      "ambitious",
+      "law",
+      "news site",
+      "terrible / awful"
+    ],
+    "correctIndex": 3,
+    "explanation": "'terrible / awful' means 'ужасный'. Example: The weather was awful on holiday.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "5f018cf31322",
+    "question": "Choose the correct phrase for: 'В детстве я часто…'",
+    "options": [
+      "In my view…",
+      "What would be essential is…",
+      "So the target audience is…",
+      "As a child, I would…"
+    ],
+    "correctIndex": 3,
+    "explanation": "'As a child, I would…' — В детстве я часто…. Example: As a child, I would practise my Oscar speech in the mirror.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "cd97631a82b3",
+    "question": "Complete the sentence: We're ___, please be quick.",
+    "options": [
+      "in a hurry",
+      "I'm planning to…",
+      "I'd … if I got the chance",
+      "Bad news, I'm afraid."
+    ],
+    "correctIndex": 0,
+    "explanation": "'in a hurry' — в спешке. Full sentence: We're in a hurry, please be quick.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "0baf9f76b072",
+    "question": "Complete the sentence: These people have to be ___ and motivated.",
+    "options": [
+      "It's too … (for someone)",
+      "say sorry",
+      "hard-working",
+      "picked up"
+    ],
+    "correctIndex": 2,
+    "explanation": "'hard-working' means трудолюбивый. Full sentence: These people have to be hard-working and motivated.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "18eb53110f5e",
+    "question": "Choose the correct phrase for: 'Необходимо…'",
+    "options": [
+      "What if …?",
+      "It's a place where…",
+      "It's necessary to…",
+      "The videos will be presented by…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'It's necessary to…' — Необходимо…. Example: It's necessary to work hard if you want to succeed.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "2d7f5d54d231",
+    "question": "Complete the sentence: Getting this job is ___ for me.",
+    "options": [
+      "a dream come true",
+      "give a good account of yourself",
+      "a level playing field",
+      "separate fact from fiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a dream come true' — мечта сбылась. Example: Getting this job is a dream come true for me.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "bbaadc366997",
+    "question": "Which sentence describes a repeated past action (NOT a state)?",
+    "options": [
+      "I used to have a dog.",
+      "I would play football every Saturday.",
+      "I used to live in London.",
+      "I would be tall when I was young."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would' describes repeated past actions. It cannot describe past states like 'have' or 'live'.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "317f5d615dd0",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Me used to play football when Me were a kid.",
+      "I used to play football when I were a kid.",
+      "I used to play football when I was a kid."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'I used to play football when I was a kid.'",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "9398fa566a0b",
+    "question": "Complete the sentence: He told us an amusing ___ about his trip.",
+    "options": [
+      "anecdote",
+      "eyewitness",
+      "low-tech",
+      "make the headlines"
+    ],
+    "correctIndex": 0,
+    "explanation": "'anecdote' means анекдот, короткая история. Full sentence: He told us an amusing anecdote about his trip.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  }
+]

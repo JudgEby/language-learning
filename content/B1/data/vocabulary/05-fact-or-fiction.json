@@ -1,0 +1,16 @@
+{
+  "lessonId": "fact-or-fiction",
+  "title": "Fact or fiction — новые слова",
+  "items": [
+    { "term": "fiction", "translation": "вымысел, художественная литература", "example": "The film is based on fiction rather than real events." },
+    { "term": "non-fiction", "translation": "документальная литература", "example": "I prefer non-fiction books about history." },
+    { "term": "myth", "translation": "миф", "example": "The myth of the Loch Ness Monster is well known." },
+    { "term": "legend", "translation": "легенда", "example": "The legend of King Arthur is popular around the world." },
+    { "term": "fairy tale", "translation": "сказка", "example": "Cinderella is my favourite fairy tale." },
+    { "term": "urban myth", "translation": "городская легенда", "example": "The story about alligators in the sewers is an urban myth." },
+    { "term": "anecdote", "translation": "анекдот, короткая история", "example": "He told us an amusing anecdote about his trip." },
+    { "term": "biopic", "translation": "биографический фильм", "example": "The theory of Everything is a biopic about Stephen Hawking." },
+    { "term": "docudrama", "translation": "документальная драма", "example": "The Salt of the Earth is a docudrama about Sebastiao Salgado." },
+    { "term": "psychological thriller", "translation": "психологический триллер", "example": "Vertigo is a classic psychological thriller." }
+  ]
+}

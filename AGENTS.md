@@ -148,6 +148,7 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 
 1. Прочитать **`prompts/rule-generation-style.md`** — обязательный стиль для поля `contentMd` в правилах
 2. Прочитать `content/{LEVEL}/extract/SB.txt` — основной источник грамматики и структуры уроков
+   - *Если файл пуст или содержит только маркеры страниц (`--- PAGE N ---`), значит PDF сканирован. Запустите `python scripts/extract_pdf_ocr.py {LEVEL}` для OCR-извлечения.*
 3. Прочитать `content/{LEVEL}/extract/WB.txt` — дополнительная лексика, фразы, идиомы из Workbook
 4. Определить порядок уроков по пособию
 5. Для каждого урока создать 4 JSON-файла в `data/rules/`, `data/vocabulary/`, `data/phrases/`, `data/idioms/`
@@ -196,6 +197,12 @@ def test_id(question: str, options: list[str], correct_index: int) -> str:
 - `content/{LEVEL}/data/rules/{NN}-{lesson-id}.json` — уже сгенерированное правило
 
 Использовать указанный файл как основной источник для генерации; переписать грамматику в `contentMd` по промпту стиля.
+
+---
+
+## Cleanup
+
+После завершения задачи удали временные файлы (скрипты, черновики, тестовые файлы), которые не являются частью проекта. Не оставляй мусор.
 
 ---
 

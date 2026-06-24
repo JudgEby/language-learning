@@ -1,0 +1,14 @@
+{
+  "lessonId": "feeling-stressed",
+  "title": "Feeling stressed? — фразы",
+  "items": [
+    { "phrase": "If I feel stressed, I …", "translation": "Если я чувствую стресс, я …", "example": "If I feel stressed, I go for a long walk." },
+    { "phrase": "When you are angry, …", "translation": "Когда ты злишься, …", "example": "When you are angry, take a deep breath." },
+    { "phrase": "If I'm …ed, I usually …", "translation": "Если я (чувствую) …, я обычно …", "example": "If I'm tired, I like to watch TV and relax." },
+    { "phrase": "… winds me up", "translation": "… меня раздражает / нервирует", "example": "Slow internet really winds me up." },
+    { "phrase": "I find … relaxing", "translation": "Я нахожу … расслабляющим", "example": "I find listening to music very relaxing." },
+    { "phrase": "Calm down!", "translation": "Успокойся!", "example": "Calm down! Everything will be fine." },
+    { "phrase": "Chill out!", "translation": "Расслабься!", "example": "You need to chill out and stop worrying." },
+    { "phrase": "Laughter is the best medicine", "translation": "Смех — лучшее лекарство", "example": "If you feel down, watch a comedy — laughter is the best medicine." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lessonId": "andy-murray",
+  "title": "Andy Murray — новые слова",
+  "items": [
+    { "term": "achievement", "translation": "достижение", "example": "Winning gold at the Olympics is a massive achievement." },
+    { "term": "determination", "translation": "решимость, целеустремлённость", "example": "His determination helped him overcome every obstacle." },
+    { "term": "sports icon", "translation": "спортивная икона", "example": "Murray is a global sports icon." },
+    { "term": "champion", "translation": "чемпион", "example": "He became Wimbledon champion in 2016." },
+    { "term": "Grand Slam", "translation": "турнир Большого шлема", "example": "Winning a Grand Slam is every tennis player's dream." },
+    { "term": "victory", "translation": "победа", "example": "His victory at Wimbledon was emotional." },
+    { "term": "commitment", "translation": "обязательство, преданность", "example": "Being a top athlete requires total commitment." },
+    { "term": "inspiration", "translation": "вдохновение", "example": "His story is an inspiration to young athletes." },
+    { "term": "overcome", "translation": "преодолеть", "example": "He overcame many injuries during his career." },
+    { "term": "raw emotion", "translation": "неподдельные эмоции", "example": "He showed raw emotion after losing the final." },
+    { "term": "icon", "translation": "икона, легенда", "example": "He became a national icon." },
+    { "term": "challenge", "translation": "вызов, испытание", "example": "Running a marathon is a real challenge." }
+  ]
+}

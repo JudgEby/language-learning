@@ -1,0 +1,24 @@
+{
+  "lessonId": "feeling-stressed",
+  "title": "Feeling stressed? — новые слова",
+  "items": [
+    { "term": "stressed", "translation": "находящийся в стрессе", "example": "I feel really stressed about my exams." },
+    { "term": "relaxing", "translation": "расслабляющий", "example": "I find yoga very relaxing." },
+    { "term": "annoyed", "translation": "раздражённый", "example": "I was annoyed by the constant noise." },
+    { "term": "annoying", "translation": "раздражающий", "example": "The traffic is so annoying today." },
+    { "term": "confused", "translation": "смущённый, запутанный", "example": "I'm completely confused by this grammar." },
+    { "term": "confusing", "translation": "сбивающий с толку", "example": "The instructions were very confusing." },
+    { "term": "exhausted", "translation": "измотанный", "example": "I'm exhausted after working all week." },
+    { "term": "satisfying", "translation": "приносящий удовлетворение", "example": "Finishing a project is very satisfying." },
+    { "term": "frightened", "translation": "испуганный", "example": "I'm frightened of spiders." },
+    { "term": "embarrassed", "translation": "смущённый, испытывающий неловкость", "example": "I was so embarrassed when I fell on stage." },
+    { "term": "calm down", "translation": "успокаиваться", "example": "Take a deep breath and calm down." },
+    { "term": "wind up", "translation": "нервировать, заводить", "example": "Traffic jams really wind me up." },
+    { "term": "chill out", "translation": "расслабляться, отдыхать", "example": "I like to chill out in front of the TV." },
+    { "term": "chat someone up", "translation": "кокетничать, знакомиться", "example": "He tried to chat me up in the coffee shop." },
+    { "term": "get on with", "translation": "ладить с кем-то", "example": "I get on really well with my colleagues." },
+    { "term": "settle down", "translation": "осесть, успокоиться (жизненно)", "example": "They want to get married and settle down." },
+    { "term": "dress up", "translation": "наряжаться", "example": "We dressed up for the party." },
+    { "term": "try on", "translation": "примерять", "example": "Can I try on this jacket?" }
+  ]
+}

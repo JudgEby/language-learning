@@ -1,0 +1,21 @@
+{
+  "lessonId": "in-other-words",
+  "title": "In other words — идиомы",
+  "items": [
+    {
+      "idiom": "get the wrong end of the stick",
+      "translation": "неправильно понять",
+      "example": "I didn't mean that — you got the wrong end of the stick."
+    },
+    {
+      "idiom": "lost for words",
+      "translation": "потерять дар речи",
+      "example": "When she told me the news, I was completely lost for words."
+    },
+    {
+      "idiom": "not make head nor tail of something",
+      "translation": "не понять ничего",
+      "example": "I can't make head nor tail of these instructions."
+    }
+  ]
+}

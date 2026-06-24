@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ee60e3f78e26",
+    "question": "Which sentence is correct?",
+    "options": [
+      "This happened when I was snowboarding in Italy.",
+      "This happened when I were snowboarding in Italy.",
+      "This htheppened when I wthes snowbotherding in Itthely.",
+      "This happened when I was snowboarding in Italy."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'This happened when I was snowboarding in Italy.'",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "4d12b4aae6c9",
+    "question": "Complete the sentence: The ___ interviewed eyewitnesses at the scene.",
+    "options": [
+      "tradition",
+      "reporter",
+      "I managed to…",
+      "It's … enough"
+    ],
+    "correctIndex": 1,
+    "explanation": "'reporter' means репортёр. Full sentence: The reporter interviewed eyewitnesses at the scene.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "15885a08e540",
+    "question": "Complete the sentence: The idea of painting when you were totally blind seemed a ___ to me.",
+    "options": [
+      "in the next thirty years",
+      "environment",
+      "washing machine",
+      "nonsense"
+    ],
+    "correctIndex": 3,
+    "explanation": "'nonsense' means чепуха, ерунда. Full sentence: The idea of painting when you were totally blind seemed a nonsense to me.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "91f5e3377ec8",
+    "question": "Complete the sentence: Don't worry, ___ eventually.",
+    "options": [
+      "on the tip of my tongue",
+      "hit the jackpot",
+      "the truth will out",
+      "back to the drawing board"
+    ],
+    "correctIndex": 2,
+    "explanation": "'the truth will out' — правда выйдет наружу. Example: Don't worry, the truth will out eventually.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "c28abb31f5f8",
+    "question": "Choose the correct word for: 'поздороваться'",
+    "options": [
+      "nonsense",
+      "say hello",
+      "peaceful",
+      "go on a diet"
+    ],
+    "correctIndex": 1,
+    "explanation": "'say hello' means 'поздороваться'. Example: She never says hello when I see her.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "272e9237e47a",
+    "question": "By the time we ___ at the cinema, the film ___.",
+    "options": [
+      "arrived / already started",
+      "had arrived / started",
+      "arrived / had already started",
+      "have arrived / has started"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past Perfect ('had started') shows the action happened before another past event ('arrived').",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "010d5464f56c",
+    "question": "Choose the correct phrase for: 'Это случилось, когда...'",
+    "options": [
+      "There will be…",
+      "This happened when...",
+      "I didn't use to…",
+      "… gets on my nerves."
+    ],
+    "correctIndex": 1,
+    "explanation": "'This happened when...' — Это случилось, когда.... Example: This happened when I was on holiday in Portugal last year.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "1e824c992beb",
+    "question": "Complete the sentence: Just ___ instead of talking around the issue.",
+    "options": [
+      "Let's move on",
+      "say what you mean",
+      "… gets on my nerves.",
+      "Because of this, ..."
+    ],
+    "correctIndex": 1,
+    "explanation": "'say what you mean' means говорить то, что имеешь в виду. Full sentence: Just say what you mean instead of talking around the issue.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "2e274dc74911",
+    "question": "Complete the sentence: ___ creative, patient and optimistic.",
+    "options": [
+      "three words that describe me would be",
+      "My childhood dream was to…",
+      "in a moment",
+      "What's the angle?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'three words that describe me would be' — три слова, которые меня описывают. Full sentence: Three words that describe me would be creative, patient and optimistic.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "ca3f385afd8b",
+    "question": "Choose the correct phrase for: 'Одна вещь, которую я хотел бы сказать...'",
+    "options": [
+      "I'd probably choose…",
+      "In the end",
+      "One thing I'd like to say is...",
+      "go grey"
+    ],
+    "correctIndex": 2,
+    "explanation": "'One thing I'd like to say is...' — Одна вещь, которую я хотел бы сказать.... Example: One thing I'd like to say is that online courses are more difficult.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "6065cf621c09",
+    "question": "Complete the sentence: You don't have to ___ but you should look clean.",
+    "options": [
+      "Sorry, I didn't catch that",
+      "In other words, …",
+      "public transport",
+      "dress smartly"
+    ],
+    "correctIndex": 3,
+    "explanation": "'dress smartly' means одеваться официально/опрятно. Full sentence: You don't have to dress smartly but you should look clean.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "8ed164ddadbd",
+    "question": "Complete the sentence: '___ me a story, but ___ it quietly.'",
+    "options": [
+      "Say / tell",
+      "Tell / say",
+      "Tell / tell",
+      "Say / say"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Tell someone a story' but 'say something quietly'. Tell needs an object (me), say introduces speech.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  }
+]

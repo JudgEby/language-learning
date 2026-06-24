@@ -1,0 +1,181 @@
+[
+  {
+    "id": "36795f6fbd51",
+    "question": "Choose the correct word for: 'перепутать дату'",
+    "options": [
+      "leave things until the last minute",
+      "It'd need to be somewhere…",
+      "skilful",
+      "get the date wrong"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get the date wrong' means 'перепутать дату'. Example: We got the date wrong and arrived a day early.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "272e9237e47a",
+    "question": "By the time we ___ at the cinema, the film ___.",
+    "options": [
+      "arrived / already started",
+      "had arrived / started",
+      "arrived / had already started",
+      "have arrived / has started"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past Perfect ('had started') shows the action happened before another past event ('arrived').",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "0f0f537f1922",
+    "question": "Complete the sentence: ___ I didn't hear you.",
+    "options": [
+      "I'd … if I got the chance",
+      "When I was younger…",
+      "Could you repeat the last part?",
+      "I didn't use to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Could you repeat the last part?' — Не могли бы вы повторить последнюю часть?. Full sentence: Could you repeat the last part? I didn't hear you.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "bc0211e804fa",
+    "question": "Complete the sentence: How long have you been ___?",
+    "options": [
+      "out of work",
+      "say what you mean",
+      "multitask",
+      "rating site"
+    ],
+    "correctIndex": 0,
+    "explanation": "'out of work' means без работы. Full sentence: How long have you been out of work?",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "8e8f3d54fba3",
+    "question": "Complete the sentence: ___, but we should consider other locations too.",
+    "options": [
+      "In the end",
+      "What are you up to?",
+      "That's a good point",
+      "You don't have to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'That's a good point' — Хорошее замечание. Full sentence: That's a good point, but we should consider other locations too.",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "6ea2e57b31cc",
+    "question": "Choose the correct phrase for: 'Какой угол подачи / концепция?'",
+    "options": [
+      "In the end, …",
+      "take part in",
+      "What's the angle?",
+      "I suppose that's one thing I don't like"
+    ],
+    "correctIndex": 2,
+    "explanation": "'What's the angle?' — Какой угол подачи / концепция?. Example: So, what's the angle for our channel?",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "f911d51c38a1",
+    "question": "Complete the sentence: Let me ___ and ask — what if this plan fails?",
+    "options": [
+      "hit the ground running",
+      "the truth will out",
+      "play devil's advocate",
+      "on the tip of my tongue"
+    ],
+    "correctIndex": 2,
+    "explanation": "'play devil's advocate' — спорить ради спора. Example: Let me play devil's advocate and ask — what if this plan fails?",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "9d95a19c8458",
+    "question": "Choose the correct word for: 'инвестировать в'",
+    "options": [
+      "Laughter is the best medicine",
+      "invest in",
+      "member",
+      "relaxing"
+    ],
+    "correctIndex": 1,
+    "explanation": "'invest in' means 'инвестировать в'. Example: Making good quality videos requires a big investment of time and money.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "5954cdb1e874",
+    "question": "Choose the correct phrase for: 'быть в бегах'",
+    "options": [
+      "on time",
+      "We will upload new videos…",
+      "be on the run",
+      "She has managed to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'be on the run' — быть в бегах. Example: The fugitive was on the run for three months.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "4a7473fa47a1",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Why doesn't we call it something short and modern?",
+      "Why don't we call it something short and modern?",
+      "Why don't we call it something short and modern?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'Why don't we call it something short and modern?'",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "201d7350dc58",
+    "question": "Complete the sentence: We need to ___ about the name.",
+    "options": [
+      "in a hurry",
+      "master a skill",
+      "The best part of the job is…",
+      "make a decision"
+    ],
+    "correctIndex": 3,
+    "explanation": "'make a decision' means принять решение. Full sentence: We need to make a decision about the name.",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "1957b3747874",
+    "question": "Complete the sentence: The ___ said 'Massive earthquake hits Italy'.",
+    "options": [
+      "… a little / slightly + comparative",
+      "skills",
+      "I'd have to say...",
+      "headline"
+    ],
+    "correctIndex": 3,
+    "explanation": "'headline' means заголовок (новостей). Full sentence: The headline said 'Massive earthquake hits Italy'.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  }
+]

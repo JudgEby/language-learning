@@ -1,0 +1,18 @@
+{
+  "lessonId": "low-tech-solutions",
+  "title": "Low-tech solutions — новые слова",
+  "items": [
+    { "term": "gadget", "translation": "гаджет, устройство", "example": "I love buying new gadgets for my kitchen." },
+    { "term": "invention", "translation": "изобретение", "example": "The wheel is one of the most important inventions in history." },
+    { "term": "technology", "translation": "технология", "example": "Technology has changed the way we communicate." },
+    { "term": "low-tech", "translation": "низкотехнологичный, простой", "example": "They came up with a low-tech solution to the problem." },
+    { "term": "electricity", "translation": "электричество", "example": "Many villages still have no access to electricity." },
+    { "term": "solar power", "translation": "солнечная энергия", "example": "Solar power is a clean and renewable source of energy." },
+    { "term": "washing machine", "translation": "стиральная машина", "example": "The washing machine has saved people hours of hard work." },
+    { "term": "vaccination", "translation": "вакцинация", "example": "Vaccinations have saved millions of lives around the world." },
+    { "term": "antibiotics", "translation": "антибиотики", "example": "Antibiotics are used to fight bacterial infections." },
+    { "term": "nuclear power", "translation": "атомная энергия", "example": "Some countries rely heavily on nuclear power for electricity." },
+    { "term": "commercial aeroplane", "translation": "пассажирский самолёт", "example": "The first commercial aeroplanes changed travel forever." },
+    { "term": "communications satellite", "translation": "спутник связи", "example": "Communications satellites make global television possible." }
+  ]
+}

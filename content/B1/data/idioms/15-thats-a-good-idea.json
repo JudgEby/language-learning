@@ -1,0 +1,21 @@
+{
+  "lessonId": "thats-a-good-idea",
+  "title": "That's a good idea — идиомы",
+  "items": [
+    {
+      "idiom": "get down to business",
+      "translation": "приступить к делу",
+      "example": "Let's get down to business and discuss the quarterly results."
+    },
+    {
+      "idiom": "on the same page",
+      "translation": "быть на одной волне",
+      "example": "We need to make sure everyone is on the same page before we start."
+    },
+    {
+      "idiom": "play devil's advocate",
+      "translation": "спорить ради спора",
+      "example": "Let me play devil's advocate and ask — what if this plan fails?"
+    }
+  ]
+}

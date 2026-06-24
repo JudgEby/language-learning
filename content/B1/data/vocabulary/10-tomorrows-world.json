@@ -1,0 +1,16 @@
+{
+  "lessonId": "tomorrows-world",
+  "title": "Tomorrow's world — новые слова",
+  "items": [
+    { "term": "in the near future", "translation": "в ближайшем будущем", "example": "In the near future, we may be able to communicate in any language." },
+    { "term": "in the long term", "translation": "в долгосрочной перспективе", "example": "In the long term, 3D printers will make copies of body parts." },
+    { "term": "in the short term", "translation": "в краткосрочной перспективе", "example": "In the short term, we expect profits to increase." },
+    { "term": "in a year or two", "translation": "через год-два", "example": "The headset could come onto the market in a year or two." },
+    { "term": "in ten years' time", "translation": "через десять лет", "example": "In ten years' time, I hope to be a doctor." },
+    { "term": "in the next thirty years", "translation": "в ближайшие тридцать лет", "example": "Climate change will affect farming in the next thirty years." },
+    { "term": "vertical farming", "translation": "вертикальное фермерство", "example": "Vertical farming will become common in cities." },
+    { "term": "nano monitors", "translation": "нано-мониторы", "example": "Tiny nano monitors will be placed inside our bodies." },
+    { "term": "virtual reality", "translation": "виртуальная реальность", "example": "Full immersion virtual reality will be with us in ten to twenty years." },
+    { "term": "3D printer", "translation": "3D-принтер", "example": "3D printers will make copies of human organs." }
+  ]
+}

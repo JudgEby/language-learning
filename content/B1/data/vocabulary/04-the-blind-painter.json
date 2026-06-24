@@ -1,0 +1,14 @@
+{
+  "lessonId": "the-blind-painter",
+  "title": "The blind painter — новые слова",
+  "items": [
+    { "term": "landscape", "translation": "пейзаж", "example": "Before going blind, Sargy was a landscape painter." },
+    { "term": "sensation", "translation": "ощущение", "example": "I had the most extraordinary sensation when I touched the canvas." },
+    { "term": "coordinates", "translation": "координаты", "example": "These bits of Blu-Tack are actually coordinates for where to paint." },
+    { "term": "edgy", "translation": "острый, дерзкий, авангардный", "example": "His later paintings are edgy and full of impact." },
+    { "term": "nonsense", "translation": "чепуха, ерунда", "example": "The idea of painting when you were totally blind seemed a nonsense to me." },
+    { "term": "go (give it a go)", "translation": "попробовать (разг.)", "example": "I wonder what would happen if I give that a go." },
+    { "term": "Blu-Tack", "translation": "клейкая масса для крепления", "example": "Sargy uses Blu-Tack to mark coordinates on the canvas." },
+    { "term": "achievement", "translation": "достижение", "example": "What is your greatest achievement in life?" }
+  ]
+}

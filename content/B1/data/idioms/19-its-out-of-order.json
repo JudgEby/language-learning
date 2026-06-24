@@ -1,0 +1,21 @@
+{
+  "lessonId": "its-out-of-order",
+  "title": "It's out of order — идиомы",
+  "items": [
+    {
+      "idiom": "out of order",
+      "translation": "не работает",
+      "example": "The lift is out of order, so we'll have to use the stairs."
+    },
+    {
+      "idiom": "on the blink",
+      "translation": "барахлить",
+      "example": "My laptop's been on the blink all morning — I need to get it fixed."
+    },
+    {
+      "idiom": "work like a charm",
+      "translation": "работать отлично",
+      "example": "I fixed it with some tape and it worked like a charm."
+    }
+  ]
+}

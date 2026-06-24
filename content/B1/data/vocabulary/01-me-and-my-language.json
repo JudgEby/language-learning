@@ -1,0 +1,16 @@
+{
+  "lessonId": "me-and-my-language",
+  "title": "Me and my language — новые слова",
+  "items": [
+    { "term": "mother tongue", "translation": "родной язык", "example": "My mother tongue is Russian, but I speak English fluently." },
+    { "term": "fluency", "translation": "беглость (речи)", "example": "She speaks Spanish with great fluency." },
+    { "term": "accuracy", "translation": "точность, правильность", "example": "His grammar is good, but he needs to work on accuracy." },
+    { "term": "slang", "translation": "сленг", "example": "Teenagers often use slang that older people don't understand." },
+    { "term": "jargon", "translation": "жаргон, профессиональная лексика", "example": "Computer programmers use a lot of technical jargon." },
+    { "term": "bilingual", "translation": "двуязычный", "example": "Being bilingual has many cognitive advantages." },
+    { "term": "native speaker", "translation": "носитель языка", "example": "I practice with native speakers to improve my pronunciation." },
+    { "term": "learning strategies", "translation": "стратегии обучения", "example": "Good learning strategies can help you acquire a language faster." },
+    { "term": "skill", "translation": "навык", "example": "Listening is the hardest skill for me in English." },
+    { "term": "foreign", "translation": "иностранный", "example": "Living in a foreign country is a great way to learn the language." }
+  ]
+}

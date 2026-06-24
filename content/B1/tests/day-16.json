@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1766c6446d42",
+    "question": "Choose the correct word for: 'товарищи по команде'",
+    "options": [
+      "…, can't she?",
+      "frightened",
+      "I have to leave home by…",
+      "team-mates"
+    ],
+    "correctIndex": 3,
+    "explanation": "'team-mates' means 'товарищи по команде'. Example: Leticia is my team-mate. We play in the same basketball team.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "2b98060c7625",
+    "question": "Complete the sentence: I usually ___ at about 6.30.",
+    "options": [
+      "have the opportunity",
+      "fail an exam",
+      "wake up",
+      "low-tech"
+    ],
+    "correctIndex": 2,
+    "explanation": "'wake up' means просыпаться. Full sentence: I usually wake up at about 6.30.",
+    "relatedRuleIds": [
+      "gavin-and-stacey"
+    ]
+  },
+  {
+    "id": "682f082c9449",
+    "question": "I ___ him three weeks ago when I ___ for an internet café.",
+    "options": [
+      "met / was looking",
+      "was meeting / looked",
+      "have met / have looked",
+      "met / looked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Simple for the main event ('met'), Past Continuous for the background ('was looking').",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "d712ec113cc7",
+    "question": "Complete the sentence: She ___ on her first day and impressed everyone.",
+    "options": [
+      "low-hanging fruit",
+      "hit the ground running",
+      "get on someone's nerves",
+      "put my foot in it"
+    ],
+    "correctIndex": 1,
+    "explanation": "'hit the ground running' — быстро войти в курс дела. Example: She hit the ground running on her first day and impressed everyone.",
+    "relatedRuleIds": [
+      "gavin-and-stacey"
+    ]
+  },
+  {
+    "id": "8513e67526ab",
+    "question": "Complete the sentence: ___ and make eye contact.",
+    "options": [
+      "certificate",
+      "go for a walk",
+      "shake hands firmly",
+      "Life would be better if…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'shake hands firmly' means пожимать руку твёрдо. Full sentence: Shake hands firmly and make eye contact.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "515c40a9ea82",
+    "question": "Complete the sentence: ___ the course.",
+    "options": [
+      "There are a couple of things I'd like to ask about",
+      "Laughter is the best medicine",
+      "The problem was that...",
+      "It'd need to be somewhere…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'There are a couple of things I'd like to ask about' — Есть пара вещей, о которых я хотел бы спросить. Full sentence: There are a couple of things I'd like to ask about the course.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "25567bed8cd1",
+    "question": "Complete the sentence: Good ___ can help you acquire a language faster.",
+    "options": [
+      "terrified",
+      "This story is about...",
+      "learning strategies",
+      "fairy-tale"
+    ],
+    "correctIndex": 2,
+    "explanation": "'learning strategies' means стратегии обучения. Full sentence: Good learning strategies can help you acquire a language faster.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "c442a771032a",
+    "question": "Which sentence is correct?",
+    "options": [
+      "The first thing I do is switch on the lights and the radio.",
+      "The first thing I do is switch on the lights or the radio.",
+      "The first thing I do are switch on the lights and the radio.",
+      "The first thing I do is switch on the lights thend the rthedio."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'The first thing I do is switch on the lights and the radio.'",
+    "relatedRuleIds": [
+      "gavin-and-stacey"
+    ]
+  },
+  {
+    "id": "453aa24932d0",
+    "question": "Complete the sentence: I hope I don't ___ when I'm thirty!",
+    "options": [
+      "Before long",
+      "…, didn't they?",
+      "go grey",
+      "How about…?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'go grey' — поседеть. Full sentence: I hope I don't go grey when I'm thirty!",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "b615a73cbf4f",
+    "question": "Choose the correct phrase for: 'По моему мнению...'",
+    "options": [
+      "What would you do if …?",
+      "What if …?",
+      "take responsibility",
+      "In my opinion..."
+    ],
+    "correctIndex": 3,
+    "explanation": "'In my opinion...' — По моему мнению.... Example: In my opinion, you need to be well-prepared for any interview.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "610c41e16a3a",
+    "question": "Complete the sentence: Let me describe ___.",
+    "options": [
+      "A typical day in my life",
+      "The videos will be presented by…",
+      "So you're saying…",
+      "I can…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A typical day in my life' — Обычный день в моей жизни. Full sentence: Let me describe a typical day in my life.",
+    "relatedRuleIds": [
+      "gavin-and-stacey"
+    ]
+  },
+  {
+    "id": "e774363480f8",
+    "question": "Choose the correct word for: 'повседневная рутина'",
+    "options": [
+      "I'd have to say...",
+      "daily routine",
+      "What I like about… is…",
+      "That's right"
+    ],
+    "correctIndex": 1,
+    "explanation": "'daily routine' means 'повседневная рутина'. Example: Describe a typical day in your life.",
+    "relatedRuleIds": [
+      "gavin-and-stacey"
+    ]
+  }
+]

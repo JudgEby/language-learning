@@ -1,0 +1,14 @@
+{
+  "lessonId": "my-worst-week",
+  "title": "My Worst Week — фразы",
+  "items": [
+    { "phrase": "One of the most memorable moments in my life was …", "translation": "Один из самых запоминающихся моментов в моей жизни — это …", "example": "One of the most memorable moments in my life was my trip to Japan." },
+    { "phrase": "It all started one day when …", "translation": "Всё началось однажды, когда …", "example": "It all started one day when I was at work and my brother called." },
+    { "phrase": "I was so … when …", "translation": "Я был так …, когда …", "example": "I was so embarrassed when I fell in front of everyone." },
+    { "phrase": "The next thing I knew, …", "translation": "В следующий момент я уже …", "example": "The next thing I knew, I was on the floor." },
+    { "phrase": "I had absolutely no idea.", "translation": "Я понятия не имел.", "example": "I had absolutely no idea what was happening." },
+    { "phrase": "All of a sudden, …", "translation": "Внезапно, …", "example": "All of a sudden, the lights went out." },
+    { "phrase": "In the end, …", "translation": "В конце концов, …", "example": "In the end, everything worked out fine." },
+    { "phrase": "That day is one of my happiest memories.", "translation": "Этот день — один из моих самых счастливых воспоминаний.", "example": "That weekend is one of my happiest memories." }
+  ]
+}

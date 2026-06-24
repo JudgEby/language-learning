@@ -1,0 +1,181 @@
+[
+  {
+    "id": "b1f17cc182d0",
+    "question": "Complete the sentence: Listening is the hardest ___ for me in English.",
+    "options": [
+      "I'm going to…",
+      "skill",
+      "embarrassed",
+      "discuss"
+    ],
+    "correctIndex": 1,
+    "explanation": "'skill' means навык. Full sentence: Listening is the hardest skill for me in English.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "8250b562d2f2",
+    "question": "Complete the sentence: She speaks Spanish with great ___.",
+    "options": [
+      "employee",
+      "fluency",
+      "3D printer",
+      "sports icon"
+    ],
+    "correctIndex": 1,
+    "explanation": "'fluency' means беглость (речи). Full sentence: She speaks Spanish with great fluency.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "426eaeffb3e7",
+    "question": "Which sentence has the correct word order?",
+    "options": [
+      "What you are talking about?",
+      "What are you talking about?",
+      "What you talking about?",
+      "What are you talking about?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In wh- questions, we put the auxiliary verb before the subject: 'What are you talking about?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "49ce0e4b2606",
+    "question": "Which sentence is correct?",
+    "options": [
+      "What you did talk about at the meeting?",
+      "What did you talk about at the meeting?",
+      "What did you talk about at the meeting?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'What did you talk about at the meeting?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "4f04c779600d",
+    "question": "Complete the sentence: ___ your conversation class.",
+    "options": [
+      "What I'm trying to say is…",
+      "I suppose that's one thing I don't like",
+      "I'd love to join",
+      "…, will you?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'd love to join' — Я бы с удовольствием присоединился. Full sentence: I'd love to join your conversation class.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "4b5e6e4437b1",
+    "question": "Choose the correct idiom for: 'подхватить язык (выучить неформально)'",
+    "options": [
+      "in someone else's shoes",
+      "pick up a language",
+      "back to the drawing board",
+      "the whole story"
+    ],
+    "correctIndex": 1,
+    "explanation": "'pick up a language' — подхватить язык (выучить неформально). Example: I picked up some Spanish when I was travelling in Latin America.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "91719386e3af",
+    "question": "Look at those dark clouds! It ___ rain.",
+    "options": [
+      "will",
+      "is going to",
+      "might",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Going to' is used for predictions based on present evidence (the clouds are visible now).",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "928a4e29d8a6",
+    "question": "Which sentence shows a fixed arrangement?",
+    "options": [
+      "I will call you later.",
+      "I'm meeting my friend tonight.",
+      "I might go to the party.",
+      "I'm going to start a diet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Present Continuous ('I'm meeting') shows a fixed arrangement with a definite time and place.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "cfe553361ae4",
+    "question": "When I was younger, I ___ run for miles.",
+    "options": [
+      "can",
+      "could",
+      "am able to",
+      "managed to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could' describes a general ability in the past.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "61e28827b227",
+    "question": "Which sentence describes a past state that is no longer true?",
+    "options": [
+      "We would live in France.",
+      "We used to live in France.",
+      "We lived in France in 2010.",
+      "We were living in France."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Used to' works for both past habits and states. 'Would' only works for repeated actions, not states.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "a19f582e3522",
+    "question": "I ___ to work this morning when I ___ an old friend.",
+    "options": [
+      "walked / was seeing",
+      "was walking / saw",
+      "have walked / have seen",
+      "walked / saw"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Continuous ('was walking') for the background, Past Simple ('saw') for the main event.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  }
+]

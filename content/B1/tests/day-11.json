@@ -1,0 +1,181 @@
+[
+  {
+    "id": "737c806a8e97",
+    "question": "Complete the sentence: His grammar is good, but he needs to work on ___.",
+    "options": [
+      "get on my nerves",
+      "Bad news, I'm afraid.",
+      "accuracy",
+      "forum"
+    ],
+    "correctIndex": 2,
+    "explanation": "'accuracy' means точность, правильность. Full sentence: His grammar is good, but he needs to work on accuracy.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "87e4d89f04e3",
+    "question": "Complete the sentence: The ___ broke into the house through a window.",
+    "options": [
+      "burglar",
+      "Congratulations! / Well done!",
+      "master a skill",
+      "One thing I'd like to say is..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'burglar' means взломщик. Full sentence: The burglar broke into the house through a window.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "c40ac698304e",
+    "question": "Choose the correct phrase for: 'Скорее всего, это…'",
+    "options": [
+      "…, will you?",
+      "It is likely to…",
+      "Do you think I could …?",
+      "the best / worst invention"
+    ],
+    "correctIndex": 1,
+    "explanation": "'It is likely to…' — Скорее всего, это…. Example: This technology is likely to save millions of lives.",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "8c0d95478937",
+    "question": "Complete the sentence: I answered the phone, but it was a ___.",
+    "options": [
+      "forum",
+      "wrong number",
+      "inspiration",
+      "There is a strong sense of…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'wrong number' means неправильный номер. Full sentence: I answered the phone, but it was a wrong number.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "2e840e0513fe",
+    "question": "Choose the correct phrase for: 'В конце концов...'",
+    "options": [
+      "Do you think I could …?",
+      "I get on well with…",
+      "You'll never guess what!",
+      "In the end, ..."
+    ],
+    "correctIndex": 3,
+    "explanation": "'In the end, ...' — В конце концов.... Example: In the end, the painting was returned to the gallery.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "8edc8b9508e0",
+    "question": "Complete the sentence: ___ — this is not going to work.",
+    "options": [
+      "Let's move on",
+      "Let me put it another way",
+      "One of the things I like about my lifestyle",
+      "I managed to…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Let me put it another way' — Позволь мне сказать иначе. Full sentence: Let me put it another way — this is not going to work.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "2e7201edba8f",
+    "question": "Choose the correct idiom for: 'неправильно понять'",
+    "options": [
+      "close-knit community",
+      "close to my heart",
+      "get the wrong end of the stick",
+      "it takes a village to raise a child"
+    ],
+    "correctIndex": 2,
+    "explanation": "'get the wrong end of the stick' — неправильно понять. Example: I didn't mean that — you got the wrong end of the stick.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "fe83b212fcaa",
+    "question": "Choose the correct word for: 'есть две улицы с одинаковым названием'",
+    "options": [
+      "there are two streets with the same name",
+      "white lie",
+      "meet a deadline",
+      "break down"
+    ],
+    "correctIndex": 0,
+    "explanation": "'there are two streets with the same name' means 'есть две улицы с одинаковым названием'. Example: We went to the wrong street because there are two with the same name.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "70565bc87eef",
+    "question": "Choose the correct phrase for: 'Могу я задать вопрос?'",
+    "options": [
+      "Yes, of course. / Sure.",
+      "Could I ask a question?",
+      "by hand",
+      "Because of this, ..."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could I ask a question?' — Могу я задать вопрос?. Example: Could I ask a question about the homework?",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "8f4282f025d1",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Do you mean to say i can't stay here?",
+      "Do you mean to say I can't stay here?",
+      "You do mean to say I can't stay here?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'Do you mean to say I can't stay here?'",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "91719386e3af",
+    "question": "Look at those dark clouds! It ___ rain.",
+    "options": [
+      "will",
+      "is going to",
+      "might",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Going to' is used for predictions based on present evidence (the clouds are visible now).",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  }
+]

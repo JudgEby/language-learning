@@ -1,0 +1,21 @@
+{
+  "lessonId": "making-plans",
+  "title": "Making plans — идиомы",
+  "items": [
+    {
+      "idiom": "put something on hold",
+      "translation": "отложить что-то",
+      "example": "We've put the project on hold until next month."
+    },
+    {
+      "idiom": "get the ball rolling",
+      "translation": "начать процесс",
+      "example": "Let's get the ball rolling on the new marketing campaign."
+    },
+    {
+      "idiom": "in the pipeline",
+      "translation": "в разработке, в планах",
+      "example": "We have several new products in the pipeline for next year."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lessonId": "its-out-of-order",
+  "title": "It's out of order — фразы",
+  "items": [
+    { "phrase": "Could you …?", "translation": "Не могли бы вы …?", "example": "Could you help me with this printer?" },
+    { "phrase": "Could you possibly …?", "translation": "Не могли бы вы (случайно) …?", "example": "Could you possibly lend me your charger?" },
+    { "phrase": "Would you mind …-ing?", "translation": "Вы не против …?", "example": "Would you mind opening the door for me?" },
+    { "phrase": "Do you know if …?", "translation": "Вы не знаете, … ли …?", "example": "Do you know if there's a repair shop nearby?" },
+    { "phrase": "Is it OK if I …?", "translation": "Ничего, если я …?", "example": "Is it OK if I use your phone to send a text?" },
+    { "phrase": "Do you think I could …?", "translation": "Как думаете, могу я …?", "example": "Do you think I could borrow your charger?" },
+    { "phrase": "Yes, of course. / Sure.", "translation": "Да, конечно.", "example": "Yes, of course. Let me have a look." },
+    { "phrase": "I'm afraid I can't.", "translation": "Боюсь, что не могу.", "example": "I'm afraid I can't give you a refund." },
+    { "phrase": "Let me have a look.", "translation": "Дай-ка взглянуть.", "example": "Let me have a look at the problem." }
+  ]
+}

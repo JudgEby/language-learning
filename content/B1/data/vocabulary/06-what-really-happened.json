@@ -1,0 +1,16 @@
+{
+  "lessonId": "what-really-happened",
+  "title": "What really happened — новые слова",
+  "items": [
+    { "term": "headline", "translation": "заголовок (новостей)", "example": "The headline said 'Massive earthquake hits Italy'." },
+    { "term": "reporter", "translation": "репортёр", "example": "The reporter interviewed eyewitnesses at the scene." },
+    { "term": "coverage", "translation": "освещение (в СМИ)", "example": "There was extensive news coverage of the event." },
+    { "term": "breaking news", "translation": "срочные новости", "example": "We interrupt this programme for breaking news." },
+    { "term": "eyewitness", "translation": "очевидец", "example": "An eyewitness described what happened." },
+    { "term": "report", "translation": "репортаж, сообщение", "example": "The report concluded that the driver was not at fault." },
+    { "term": "conspiracy theory", "translation": "теория заговора", "example": "Many people believe conspiracy theories about the moon landing." },
+    { "term": "suspect", "translation": "подозреваемый", "example": "The police arrested the suspect two days later." },
+    { "term": "fugitive", "translation": "беглец", "example": "The fugitive was finally arrested after six months." },
+    { "term": "hostage", "translation": "заложник", "example": "The hostages were released after negotiations." }
+  ]
+}

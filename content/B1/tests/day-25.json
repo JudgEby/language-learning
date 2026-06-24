@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d48055d34b8c",
+    "question": "Complete the sentence: ___s make global television possible.",
+    "options": [
+      "The most important thing was…",
+      "communications satellite",
+      "… wouldn't … if …",
+      "comment"
+    ],
+    "correctIndex": 1,
+    "explanation": "'communications satellite' means спутник связи. Full sentence: Communications satellites make global television possible.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "5a8fd669db29",
+    "question": "He looks tired. He ___ all day.",
+    "options": [
+      "has worked",
+      "has been working",
+      "worked",
+      "is working"
+    ],
+    "correctIndex": 1,
+    "explanation": "Focus on visible result of a process → Present Perfect Continuous.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "d456c620c21d",
+    "question": "She ___ three championships so far.",
+    "options": [
+      "has been winning",
+      "has won",
+      "is winning",
+      "wins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Focus on result/count ('three championships') → Present Perfect Simple.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "8c8e40a829fc",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I always loved music.",
+      "I've thelwtheys loved music.",
+      ".cisum devol syawla ev'I",
+      "I've always loved music."
+    ],
+    "correctIndex": 3,
+    "explanation": "The correct option is: 'I've always loved music.'",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "dc7c6eae7ec2",
+    "question": "Complete the sentence: My brother phoned me ___.",
+    "options": [
+      "classmates",
+      "I'm not sure about that",
+      "out of the blue",
+      "split up"
+    ],
+    "correctIndex": 2,
+    "explanation": "'out of the blue' means внезапно, как гром среди ясного неба. Full sentence: My brother phoned me out of the blue.",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "557fc4ab03d8",
+    "question": "The washing machine is ___ invention of the last century.",
+    "options": [
+      "the best",
+      "the most best",
+      "better than",
+      "good"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use 'the best' (irregular superlative) when comparing one thing to a group.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "d6554b8b72ed",
+    "question": "Choose the correct phrase for: 'Как долго ты…?'",
+    "options": [
+      "How long have you been…?",
+      "go according to plan",
+      "What I mean is…",
+      "I see what you mean, but…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'How long have you been…?' — Как долго ты…?. Example: How long have you been learning English?",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "63e141031a3a",
+    "question": "Complete the sentence: It takes years to ___ like playing the violin.",
+    "options": [
+      "master a skill",
+      "mind my own business",
+      "landscape",
+      "I find … relaxing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'master a skill' means овладеть навыком. Full sentence: It takes years to master a skill like playing the violin.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "557776ed0b16",
+    "question": "If you ___ ice, it ___.",
+    "options": [
+      "will heat / melts",
+      "heat / will melt",
+      "heat / melts",
+      "heated / would melt"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zero conditional (general fact): 'If + present simple, present simple'.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "f8b9a7f1dbfb",
+    "question": "Complete the sentence: I find yoga very ___.",
+    "options": [
+      "by mistake",
+      "If I were you, I'd …",
+      "relaxing",
+      "succeed"
+    ],
+    "correctIndex": 2,
+    "explanation": "'relaxing' means расслабляющий. Full sentence: I find yoga very relaxing.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "dcb0a04c7b48",
+    "question": "Complete the sentence: If you want to ___, you must believe in yourself.",
+    "options": [
+      "upload",
+      "The best part of the job is…",
+      "tell a story",
+      "succeed"
+    ],
+    "correctIndex": 3,
+    "explanation": "'succeed' means преуспевать, добиваться успеха. Full sentence: If you want to succeed, you must believe in yourself.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  },
+  {
+    "id": "c9aceeb85335",
+    "question": "Choose the correct idiom for: 'подниматься по карьерной лестнице'",
+    "options": [
+      "take something to heart",
+      "running out of time",
+      "on cloud nine",
+      "climb the ladder of success"
+    ],
+    "correctIndex": 3,
+    "explanation": "'climb the ladder of success' — подниматься по карьерной лестнице. Example: She climbed the ladder of success through hard work and dedication.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  }
+]

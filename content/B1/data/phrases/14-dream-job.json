@@ -1,0 +1,14 @@
+{
+  "lessonId": "dream-job",
+  "title": "Dream job — фразы",
+  "items": [
+    { "phrase": "I used to…", "translation": "Раньше я…", "example": "I used to play football when I was a kid." },
+    { "phrase": "I would always…", "translation": "Бывало, я всегда…", "example": "I would always collect insects as a child." },
+    { "phrase": "I didn't use to…", "translation": "Раньше я не…", "example": "I didn't use to like classical music, but now I love it." },
+    { "phrase": "When I was younger…", "translation": "Когда я был моложе…", "example": "When I was younger, I spent a lot of time with my grandparents." },
+    { "phrase": "As a child, I would…", "translation": "В детстве я часто…", "example": "As a child, I would practise my Oscar speech in the mirror." },
+    { "phrase": "My childhood dream was to…", "translation": "Моей детской мечтой было…", "example": "My childhood dream was to be an actress." },
+    { "phrase": "Things have changed — now I…", "translation": "Всё изменилось — теперь я…", "example": "Things have changed — now I work as a software developer." },
+    { "phrase": "I remember I used to…", "translation": "Помню, я раньше…", "example": "I remember I used to dream of being an artist." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lessonId": "hustle",
+  "title": "Hustle — фразы",
+  "items": [
+    { "phrase": "This story is about...", "translation": "Эта история о...", "example": "This story is about a man who stole a famous painting." },
+    { "phrase": "The problem was that...", "translation": "Проблема была в том, что...", "example": "The problem was that he didn't have a getaway plan." },
+    { "phrase": "In fact, ...", "translation": "На самом деле...", "example": "In fact, he had been planning the theft for months." },
+    { "phrase": "What he didn't realise was that...", "translation": "Чего он не осознавал — это то, что...", "example": "What he didn't realise was that the police were already there." },
+    { "phrase": "However, ...", "translation": "Однако...", "example": "However, things didn't go according to plan." },
+    { "phrase": "Because of this, ...", "translation": "Из-за этого...", "example": "Because of this, he had to escape through a window." },
+    { "phrase": "In the end, ...", "translation": "В конце концов...", "example": "In the end, the painting was returned to the gallery." },
+    { "phrase": "go according to plan", "translation": "пойти по плану", "example": "When he stole the painting, things didn't go according to plan." }
+  ]
+}

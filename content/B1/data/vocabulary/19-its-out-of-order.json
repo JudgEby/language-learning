@@ -1,0 +1,18 @@
+{
+  "lessonId": "its-out-of-order",
+  "title": "It's out of order — новые слова",
+  "items": [
+    { "term": "out of order", "translation": "не работает, сломано", "example": "The ticket machine is out of order again." },
+    { "term": "break down", "translation": "ломаться, выходить из строя", "example": "My car broke down on the way to work." },
+    { "term": "technical fault", "translation": "техническая неисправность", "example": "The delay was due to a technical fault." },
+    { "term": "repair", "translation": "ремонтировать", "example": "Can you repair my laptop?" },
+    { "term": "fix", "translation": "чинить, исправлять", "example": "I need to fix my phone screen." },
+    { "term": "crash (computer)", "translation": "зависать, вылетать (о компьютере)", "example": "My computer crashed and I lost all my work." },
+    { "term": "freeze (computer)", "translation": "зависать (об экране)", "example": "The screen froze and nothing worked." },
+    { "term": "recharge", "translation": "заряжать", "example": "My phone needs recharging." },
+    { "term": "sort out", "translation": "разобраться, уладить проблему", "example": "We need to sort out this problem." },
+    { "term": "reception (phone)", "translation": "связь, приём сигнала", "example": "There's no reception in this area." },
+    { "term": "refund", "translation": "возврат денег", "example": "Could you give me a refund, please?" },
+    { "term": "memory stick", "translation": "флешка", "example": "Save the document onto a memory stick." }
+  ]
+}

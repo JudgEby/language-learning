@@ -1,0 +1,181 @@
+[
+  {
+    "id": "992b5271b7aa",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I has been to Hollywood, but I haven't seen any stars.",
+      "Me has been to Hollywood, but Me haven't seen any stars.",
+      "I have been to Hollywood, but I haven't seen any stars."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'I have been to Hollywood, but I haven't seen any stars.'",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "c3cfda5a01f5",
+    "question": "___ you ever ___ someone famous?",
+    "options": [
+      "Did / meet",
+      "Have / met",
+      "Have / meet",
+      "Did / met"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Ever' is a Present Perfect marker: 'Have you ever met someone famous?'",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "9ee5f81720d5",
+    "question": "Complete the sentence: I had the most extraordinary ___ when I touched the canvas.",
+    "options": [
+      "sensation",
+      "relax",
+      "skilful",
+      "realise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'sensation' means ощущение. Full sentence: I had the most extraordinary sensation when I touched the canvas.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "d4f741b8957f",
+    "question": "Complete the sentence: He's here ___.",
+    "options": [
+      "on business",
+      "I wasn't able to…",
+      "take up a hobby",
+      "The way it works is this."
+    ],
+    "correctIndex": 0,
+    "explanation": "'on business' — по делам (не в отпуск). Full sentence: He's here on business.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "4f4d09cc2036",
+    "question": "Complete the sentence: She speaks Spanish with great ___.",
+    "options": [
+      "People who… often…",
+      "keep up-to-date with the news",
+      "shared resources",
+      "fluency"
+    ],
+    "correctIndex": 3,
+    "explanation": "'fluency' means беглость (речи). Full sentence: She speaks Spanish with great fluency.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "cd72259e734a",
+    "question": "Choose the correct phrase for: 'Для меня самое важное — это...'",
+    "options": [
+      "For me the most important thing is...",
+      "I see what you mean, but…",
+      "…, will you?",
+      "It is likely to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'For me the most important thing is...' — Для меня самое важное — это.... Example: For me the most important thing is to enjoy what I do.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "1b09a8427be9",
+    "question": "Complete the sentence: ___ about the deadline for the assignment.",
+    "options": [
+      "The best part of the job is…",
+      "I have to…",
+      "I'm not sure I follow.",
+      "I do have a query"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I do have a query' — У меня есть вопрос/запрос. Full sentence: I do have a query about the deadline for the assignment.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "0e656eed4095",
+    "question": "Complete the sentence: The film is based on ___ rather than real events.",
+    "options": [
+      "inspiration",
+      "electricity",
+      "delighted",
+      "fiction"
+    ],
+    "correctIndex": 3,
+    "explanation": "'fiction' means вымысел, художественная литература. Full sentence: The film is based on fiction rather than real events.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "946f746bbe83",
+    "question": "Complete the sentence: I have a ___ about the schedule.",
+    "options": [
+      "tell the truth",
+      "query",
+      "I managed to…",
+      "suspect"
+    ],
+    "correctIndex": 1,
+    "explanation": "'query' means вопрос, запрос. Full sentence: I have a query about the schedule.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "8c97e6f990c8",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I have seen that film last week.",
+      "I saw that film last week.",
+      "I have saw that film last week.",
+      "I seen that film last week."
+    ],
+    "correctIndex": 1,
+    "explanation": "With a specific time ('last week'), we use Past Simple, not Present Perfect.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "83cc592264c4",
+    "question": "Complete the sentence: Vertigo is a classic ___.",
+    "options": [
+      "confusing",
+      "go (give it a go)",
+      "in the next thirty years",
+      "psychological thriller"
+    ],
+    "correctIndex": 3,
+    "explanation": "'psychological thriller' means психологический триллер. Full sentence: Vertigo is a classic psychological thriller.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "fb20296efefc",
+    "question": "Complete the sentence: His story became ___.",
+    "options": [
+      "the stuff of legend",
+      "raise the bar",
+      "cry wolf",
+      "pull together"
+    ],
+    "correctIndex": 0,
+    "explanation": "'the stuff of legend' — то, из чего делаются легенды. Example: His story became the stuff of legend.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  }
+]

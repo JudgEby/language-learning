@@ -1,0 +1,9 @@
+{
+  "lessonId": "tell-me-about-yourself",
+  "title": "Tell me about yourself — идиомы",
+  "items": [
+    { "idiom": "put your best foot forward", "translation": "показать себя с лучшей стороны", "example": "In an interview, you should put your best foot forward." },
+    { "idiom": "break the ice", "translation": "разрядить обстановку", "example": "The interviewer told a joke to break the ice." },
+    { "idiom": "give a good account of yourself", "translation": "хорошо себя проявить", "example": "She gave a good account of herself at the interview." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lessonId": "in-other-words",
+  "title": "In other words — фразы",
+  "items": [
+    { "phrase": "In other words, …", "translation": "Другими словами,…", "example": "In other words, your booking was for yesterday." },
+    { "phrase": "What I mean is…", "translation": "Я имею в виду…", "example": "What I mean is we need to start again from scratch." },
+    { "phrase": "Let me put it another way", "translation": "Позволь мне сказать иначе", "example": "Let me put it another way — this is not going to work." },
+    { "phrase": "Sorry, I didn't catch that", "translation": "Извините, я не расслышал", "example": "Sorry, I didn't catch that. Could you say it again?" },
+    { "phrase": "You've lost me", "translation": "Я запутался / потерял нить", "example": "I'm sorry, you've lost me. What are you talking about?" },
+    { "phrase": "Do you mean to say…?", "translation": "Хочешь сказать, что…?", "example": "Do you mean to tell me that there's nothing available?" },
+    { "phrase": "So you're saying…", "translation": "То есть ты говоришь…", "example": "So you're saying I can't stay here tonight?" },
+    { "phrase": "Could you repeat the last part?", "translation": "Не могли бы вы повторить последнюю часть?", "example": "Could you repeat the last part? I didn't hear you." }
+  ]
+}

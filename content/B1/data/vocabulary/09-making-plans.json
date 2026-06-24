@@ -1,0 +1,16 @@
+{
+  "lessonId": "making-plans",
+  "title": "Making plans — новые слова",
+  "items": [
+    { "term": "get started", "translation": "начать (работу, задачу)", "example": "Let's get started on the first task." },
+    { "term": "prioritise", "translation": "расставлять приоритеты", "example": "Write to-do lists and prioritise tasks." },
+    { "term": "multitask", "translation": "делать несколько дел одновременно", "example": "I prefer not to multitask but to focus on one job at a time." },
+    { "term": "leave things until the last minute", "translation": "откладывать на последнюю минуту", "example": "A procrastinator leaves things until the last minute." },
+    { "term": "put off", "translation": "откладывать, отсрочивать", "example": "I keep putting off writing my essay." },
+    { "term": "get distracted", "translation": "отвлекаться", "example": "Don't get distracted by your phone while working." },
+    { "term": "waste time", "translation": "тратить время впустую", "example": "I don't usually waste time on social media." },
+    { "term": "do things ahead of time", "translation": "делать дела заранее", "example": "I'd like to get this done ahead of time." },
+    { "term": "meet a deadline", "translation": "уложиться в срок", "example": "He worked hard to meet the deadline." },
+    { "term": "make arrangements", "translation": "договариваться, организовывать", "example": "I've made all the arrangements for the party." }
+  ]
+}

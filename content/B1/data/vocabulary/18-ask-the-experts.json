@@ -1,0 +1,18 @@
+{
+  "lessonId": "ask-the-experts",
+  "title": "Ask the experts — новые слова",
+  "items": [
+    { "term": "question", "translation": "вопрос, подвергать сомнению", "example": "I'd like to question the results of the study." },
+    { "term": "wonder", "translation": "удивляться, интересоваться", "example": "I wonder why the sky is blue." },
+    { "term": "discuss", "translation": "обсуждать", "example": "We discussed the problem for hours." },
+    { "term": "debate", "translation": "дискутировать, обсуждать", "example": "The class debated the pros and cons of social media." },
+    { "term": "research", "translation": "исследование, изучать", "example": "She is researching the effects of climate change." },
+    { "term": "investigate", "translation": "расследовать", "example": "Police are investigating the cause of the accident." },
+    { "term": "inquire", "translation": "осведомляться, узнавать", "example": "I need to inquire about the train times." },
+    { "term": "reply", "translation": "отвечать", "example": "She replied to my email within an hour." },
+    { "term": "hopeless", "translation": "безнадёжный (-less)", "example": "The situation seemed hopeless, but they didn't give up." },
+    { "term": "peaceful", "translation": "мирный, спокойный (-ful)", "example": "I love having a peaceful hobby like painting." },
+    { "term": "effective", "translation": "эффективный (-ive)", "example": "This is a very effective way to learn vocabulary." },
+    { "term": "dangerous", "translation": "опасный (-ous)", "example": "Some of the old machines are dangerous to use." }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3b716f9cf27d",
+    "question": "If I ___ stressed, I ___ for a run.",
+    "options": [
+      "feel / 'll go",
+      "will feel / go",
+      "felt / would go",
+      "feel / would go"
+    ],
+    "correctIndex": 0,
+    "explanation": "First conditional (possible future): 'If + present simple, will + infinitive'.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "6d091be70451",
+    "question": "Complete the sentence: The ___ hand: when lying, people use less hand movement.",
+    "options": [
+      "adventure",
+      "channel",
+      "guilty",
+      "urban myth"
+    ],
+    "correctIndex": 2,
+    "explanation": "'guilty' means виновный. Full sentence: The guilty hand: when lying, people use less hand movement.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "557776ed0b16",
+    "question": "If you ___ ice, it ___.",
+    "options": [
+      "will heat / melts",
+      "heat / will melt",
+      "heat / melts",
+      "heated / would melt"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zero conditional (general fact): 'If + present simple, present simple'.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "43f7f3441a1a",
+    "question": "He isn't a doctor, ___?",
+    "options": [
+      "isn't he",
+      "is he",
+      "does he",
+      "doesn't he"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negative sentence → positive tag: 'He isn't a doctor, is he?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "2e3492e74143",
+    "question": "Choose the correct word for: 'наряжаться'",
+    "options": [
+      "skill",
+      "embarrassing",
+      "certificate",
+      "dress up"
+    ],
+    "correctIndex": 3,
+    "explanation": "'dress up' means 'наряжаться'. Example: We dressed up for the party.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "a5c2f0afafce",
+    "question": "Choose the correct phrase for: 'Если я (чувствую) …, я обычно …'",
+    "options": [
+      "If I'm …ed, I usually …",
+      "I'm good at…",
+      "In fact, ...",
+      "…, will you?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'If I'm …ed, I usually …' — Если я (чувствую) …, я обычно …. Example: If I'm tired, I like to watch TV and relax.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "03af112d92cd",
+    "question": "Complete the sentence: I've been ___ all day because of the interview.",
+    "options": [
+      "a white lie",
+      "lost for words",
+      "on edge",
+      "take something to heart"
+    ],
+    "correctIndex": 2,
+    "explanation": "'on edge' — на взводе, в напряжении. Example: I've been on edge all day because of the interview.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "d7a54e341b95",
+    "question": "Complete the sentence: I ___ why the sky is blue.",
+    "options": [
+      "environment",
+      "nosy",
+      "wonder",
+      "All you have to do is …"
+    ],
+    "correctIndex": 2,
+    "explanation": "'wonder' means удивляться, интересоваться. Full sentence: I wonder why the sky is blue.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "f862f5ced893",
+    "question": "Choose the correct word for: 'ладить с кем-то'",
+    "options": [
+      "get on with",
+      "surprise",
+      "on purpose",
+      "in the short term"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get on with' means 'ладить с кем-то'. Example: I get on really well with my colleagues.",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  },
+  {
+    "id": "d6c8bd36b22b",
+    "question": "Complete the sentence: Teenagers often use ___ that older people don't understand.",
+    "options": [
+      "I'd like to get to know…",
+      "It is likely to…",
+      "The way I see it…",
+      "slang"
+    ],
+    "correctIndex": 3,
+    "explanation": "'slang' means сленг. Full sentence: Teenagers often use slang that older people don't understand.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "fd619fe4c042",
+    "question": "Which sentence is correct?",
+    "options": [
+      "If you don't deal with your anger, sooner or later it will explode.",
+      "If you doesn't deal with your anger, sooner or later it will explode.",
+      "If you don't deal with your anger, sooner or later it will explode.",
+      "If you don't dethel with your thenger, sooner or ltheter it will explode."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'If you don't deal with your anger, sooner or later it will explode.'",
+    "relatedRuleIds": [
+      "feeling-stressed"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "lessonId": "me-and-my-language",
+  "title": "Me and my language — идиомы",
+  "items": [
+    { "idiom": "pick up a language", "translation": "подхватить язык (выучить неформально)", "example": "I picked up some Spanish when I was travelling in Latin America." },
+    { "idiom": "be all Greek to me", "translation": "быть совершенно непонятным", "example": "All this computer jargon is all Greek to me." },
+    { "idiom": "on the tip of my tongue", "translation": "вертится на языке", "example": "I know the word! It's on the tip of my tongue." }
+  ]
+}

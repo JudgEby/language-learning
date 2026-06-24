@@ -1,0 +1,14 @@
+{
+  "lessonId": "millionaires",
+  "title": "Millionaires — фразы",
+  "items": [
+    { "phrase": "I have to…", "translation": "Я вынужден / мне нужно…", "example": "I have to finish this report by tomorrow morning." },
+    { "phrase": "You must…", "translation": "Ты должен… (обязанность)", "example": "You must have a clear idea of what you want to do." },
+    { "phrase": "You should…", "translation": "Тебе стоит… (совет)", "example": "You should enjoy your work, not just do it for money." },
+    { "phrase": "You don't have to…", "translation": "Тебе необязательно…", "example": "You don't have to be born rich to be a millionaire." },
+    { "phrase": "You mustn't…", "translation": "Нельзя / запрещено", "example": "You mustn't break the law." },
+    { "phrase": "You shouldn't…", "translation": "Не стоит… (плохая идея)", "example": "You shouldn't worry about what other people think of you." },
+    { "phrase": "It's necessary to…", "translation": "Необходимо…", "example": "It's necessary to work hard if you want to succeed." },
+    { "phrase": "I think it's a good idea to…", "translation": "Я думаю, это хорошая идея —…", "example": "I think it's a good idea to invest your money wisely." }
+  ]
+}

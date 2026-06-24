@@ -1,0 +1,182 @@
+[
+  {
+    "id": "19608a3847b3",
+    "question": "Complete the sentence: You don't have to ___ but you should look clean.",
+    "options": [
+      "You're joking!",
+      "It's necessary to…",
+      "website",
+      "dress smartly"
+    ],
+    "correctIndex": 3,
+    "explanation": "'dress smartly' means одеваться официально/опрятно. Full sentence: You don't have to dress smartly but you should look clean.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "4b469bbc81bc",
+    "question": "Complete the sentence: She speaks Spanish with great ___.",
+    "options": [
+      "arrive on time",
+      "fluency",
+      "tell a story",
+      "by hand"
+    ],
+    "correctIndex": 1,
+    "explanation": "'fluency' means беглость (речи). Full sentence: She speaks Spanish with great fluency.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "02172fb8a553",
+    "question": "Complete the sentence: That scandal is ___ now.",
+    "options": [
+      "get on like a house on fire",
+      "on edge",
+      "the last straw",
+      "old news"
+    ],
+    "correctIndex": 3,
+    "explanation": "'old news' — старая новость, уже не актуально. Example: That scandal is old news now.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "71413cf5aefc",
+    "question": "Complete the sentence: The ___s were released after negotiations.",
+    "options": [
+      "I'll see how I feel",
+      "antibiotics",
+      "hostage",
+      "survive"
+    ],
+    "correctIndex": 2,
+    "explanation": "'hostage' means заложник. Full sentence: The hostages were released after negotiations.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "dd5c8002546c",
+    "question": "Choose the correct phrase for: 'быть в бегах'",
+    "options": [
+      "be on the run",
+      "Yes, of course. / Sure.",
+      "That day is one of my happiest memories.",
+      "I wasn't able to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'be on the run' — быть в бегах. Example: The fugitive was on the run for three months.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "ceb52e3c220a",
+    "question": "Complete the sentence: My business ___ and I started the company together.",
+    "options": [
+      "cut hair",
+      "In my view…",
+      "partner",
+      "adventure"
+    ],
+    "correctIndex": 2,
+    "explanation": "'partner' means партнёр. Full sentence: My business partner and I started the company together.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "272e9237e47a",
+    "question": "By the time we ___ at the cinema, the film ___.",
+    "options": [
+      "arrived / already started",
+      "had arrived / started",
+      "arrived / had already started",
+      "have arrived / has started"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past Perfect ('had started') shows the action happened before another past event ('arrived').",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "fe5e100f077f",
+    "question": "Complete the sentence: I couldn't come because I was ill. ___.",
+    "options": [
+      "I see",
+      "We keep ourselves to ourselves.",
+      "go on a diet",
+      "The way I see it…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I see' — Понимаю. Full sentence: I couldn't come because I was ill. I see.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "a19f582e3522",
+    "question": "I ___ to work this morning when I ___ an old friend.",
+    "options": [
+      "walked / was seeing",
+      "was walking / saw",
+      "have walked / have seen",
+      "walked / saw"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Continuous ('was walking') for the background, Past Simple ('saw') for the main event.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "ca9291538039",
+    "question": "Complete the sentence: We interrupt this programme for ___.",
+    "options": [
+      "breaking news",
+      "get distracted",
+      "query",
+      "by mistake"
+    ],
+    "correctIndex": 0,
+    "explanation": "'breaking news' means срочные новости. Full sentence: We interrupt this programme for breaking news.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "f44b13e62c3d",
+    "question": "Which sentence is correct?",
+    "options": [
+      "He were driving back from Aga's house when his car broke down.",
+      "He was driving back from Aga's house when his car broke down.",
+      "He wthes driving btheck from Agthe's house when his cther broke down.",
+      "He was driving back from Aga's house when his car broke down."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'He was driving back from Aga's house when his car broke down.'",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  }
+]

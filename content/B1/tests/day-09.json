@@ -1,0 +1,182 @@
+[
+  {
+    "id": "40aaf21205e5",
+    "question": "Complete the sentence: The guard carried a loaded ___.",
+    "options": [
+      "indecisive",
+      "weapon",
+      "shocked",
+      "succeed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'weapon' means оружие. Full sentence: The guard carried a loaded weapon.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "8858744b321b",
+    "question": "Choose the correct phrase for: 'взять на себя ответственность'",
+    "options": [
+      "take responsibility",
+      "The videos will be presented by…",
+      "Congratulations! / Well done!",
+      "I'd like to get to know…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'take responsibility' — взять на себя ответственность. Example: Fathers should take more responsibility for their children.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "50eb25af7da0",
+    "question": "Choose the correct word for: 'одноклассники'",
+    "options": [
+      "classmates",
+      "That day is one of my happiest memories.",
+      "adventure",
+      "query"
+    ],
+    "correctIndex": 0,
+    "explanation": "'classmates' means 'одноклассники'. Example: Dave is my classmate. We're both in Year 12.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "34b6f9c837c7",
+    "question": "Choose the correct word for: 'делать дела заранее'",
+    "options": [
+      "I had absolutely no idea.",
+      "do things ahead of time",
+      "I find … relaxing",
+      "on my own"
+    ],
+    "correctIndex": 1,
+    "explanation": "'do things ahead of time' means 'делать дела заранее'. Example: I'd like to get this done ahead of time.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "52eed2e1bcc9",
+    "question": "Complete the sentence: The police arrested the ___ two days later.",
+    "options": [
+      "In my opinion...",
+      "suspect",
+      "effective",
+      "What are you doing…?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'suspect' means подозреваемый. Full sentence: The police arrested the suspect two days later.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "a19f582e3522",
+    "question": "I ___ to work this morning when I ___ an old friend.",
+    "options": [
+      "walked / was seeing",
+      "was walking / saw",
+      "have walked / have seen",
+      "walked / saw"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past Continuous ('was walking') for the background, Past Simple ('saw') for the main event.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "928a4e29d8a6",
+    "question": "Which sentence shows a fixed arrangement?",
+    "options": [
+      "I will call you later.",
+      "I'm meeting my friend tonight.",
+      "I might go to the party.",
+      "I'm going to start a diet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Present Continuous ('I'm meeting') shows a fixed arrangement with a definite time and place.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "6017ca2b76b6",
+    "question": "Choose the correct phrase for: 'Что ты делаешь…? (о планах)'",
+    "options": [
+      "What are you doing…?",
+      "You're joking!",
+      "The first thing I do when I get to work is…",
+      "You should…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What are you doing…?' — Что ты делаешь…? (о планах). Example: What are you doing at the weekend?",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "2a3e1c1796e7",
+    "question": "A: 'The phone is ringing!' B: 'I ___ it!'",
+    "options": [
+      "'m going to get",
+      "get",
+      "will get",
+      "'m getting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "fb5bf3b7b619",
+    "question": "Complete the sentence: We have several new products ___ for next year.",
+    "options": [
+      "be all Greek to me",
+      "back to basics",
+      "break the ice",
+      "in the pipeline"
+    ],
+    "correctIndex": 3,
+    "explanation": "'in the pipeline' — в разработке, в планах. Example: We have several new products in the pipeline for next year.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "9a4bf6bab2bf",
+    "question": "Complete the sentence: I use my phone to ___.",
+    "options": [
+      "do research",
+      "We will upload new videos…",
+      "Let me have a look.",
+      "keep up-to-date with the news"
+    ],
+    "correctIndex": 3,
+    "explanation": "'keep up-to-date with the news' — быть в курсе новостей. Full sentence: I use my phone to keep up-to-date with the news.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "bbf53fa6aa29",
+    "question": "Complete the sentence: I don't usually ___ on social media.",
+    "options": [
+      "There's a… near my house",
+      "waste time",
+      "It would be interesting to…",
+      "electricity"
+    ],
+    "correctIndex": 1,
+    "explanation": "'waste time' means тратить время впустую. Full sentence: I don't usually waste time on social media.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  }
+]

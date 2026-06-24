@@ -1,0 +1,21 @@
+{
+  "lessonId": "neighbours",
+  "title": "Neighbours — идиомы",
+  "items": [
+    {
+      "idiom": "keep yourself to yourself",
+      "translation": "держаться особняком",
+      "example": "Our neighbour keeps himself to himself — we rarely see him."
+    },
+    {
+      "idiom": "get on like a house on fire",
+      "translation": "очень хорошо ладить",
+      "example": "We met our new neighbours and got on like a house on fire."
+    },
+    {
+      "idiom": "good fences make good neighbours",
+      "translation": "соседство требует уважения границ",
+      "example": "We help each other, but good fences make good neighbours."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lessonId": "andy-murray",
+  "title": "Andy Murray — идиомы",
+  "items": [
+    {
+      "idiom": "a level playing field",
+      "translation": "равные условия",
+      "example": "The new rules create a level playing field for all competitors."
+    },
+    {
+      "idiom": "raise the bar",
+      "translation": "поднять планку",
+      "example": "Andy Murray raised the bar for British tennis with his achievements."
+    },
+    {
+      "idiom": "a game-changer",
+      "translation": "переломный момент",
+      "example": "His Olympic gold medal was a real game-changer for his career."
+    }
+  ]
+}

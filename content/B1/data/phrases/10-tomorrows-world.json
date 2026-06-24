@@ -1,0 +1,14 @@
+{
+  "lessonId": "tomorrows-world",
+  "title": "Tomorrow's world — фразы",
+  "items": [
+    { "phrase": "I think… will…", "translation": "Я думаю, … будет…", "example": "I think we will have video conference calls with holograms." },
+    { "phrase": "It might…", "translation": "Возможно,…", "example": "It might take another ten years to develop." },
+    { "phrase": "There will be…", "translation": "Будет… / Появятся…", "example": "There will be more vertical farms in cities." },
+    { "phrase": "It is likely to…", "translation": "Скорее всего, это…", "example": "This technology is likely to save millions of lives." },
+    { "phrase": "I'm not sure, but…", "translation": "Я не уверен, но…", "example": "I'm not sure, but I think robots will do most jobs." },
+    { "phrase": "Probably won't…", "translation": "Вряд ли будет…", "example": "Another big development probably won't be ready in the short term." },
+    { "phrase": "It could be that…", "translation": "Может быть так, что…", "example": "It could be that we'll all speak through translating machines." },
+    { "phrase": "I predict that…", "translation": "Я предсказываю, что…", "example": "I predict that climate change will affect traditional farming." }
+  ]
+}

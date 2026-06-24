@@ -1,0 +1,14 @@
+{
+  "lessonId": "the-memory-men",
+  "title": "The memory men — фразы",
+  "items": [
+    { "phrase": "I can…", "translation": "Я умею…", "example": "I can speak three languages." },
+    { "phrase": "I could… when I was…", "translation": "Я умел… когда мне было…", "example": "I could ride a bike when I was four." },
+    { "phrase": "I've never been able to…", "translation": "Я никогда не умел…", "example": "I've never been able to play a musical instrument." },
+    { "phrase": "I managed to…", "translation": "Мне удалось…", "example": "I managed to finish the puzzle in ten minutes." },
+    { "phrase": "I'm good at…", "translation": "Я хорошо умею…", "example": "I'm good at remembering faces." },
+    { "phrase": "I'm hopeless at…", "translation": "Я безнадёжен в…", "example": "I'm hopeless at directions." },
+    { "phrase": "He has a talent for…", "translation": "У него талант к…", "example": "He has a talent for drawing." },
+    { "phrase": "I wasn't able to…", "translation": "Я не смог…", "example": "I wasn't able to get tickets for the concert." }
+  ]
+}

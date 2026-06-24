@@ -1,0 +1,14 @@
+{
+  "lessonId": "low-tech-solutions",
+  "title": "Low-tech solutions — фразы",
+  "items": [
+    { "phrase": "It's as … as …", "translation": "Это такой же …, как и …", "example": "This tablet is as fast as the new model." },
+    { "phrase": "It's not as … as …", "translation": "Оно не такое …, как …", "example": "The bicycle is not as fast as a car, but it's healthier." },
+    { "phrase": "It's too … (for someone)", "translation": "Это слишком … (для кого-то)", "example": "The new smartphone is too expensive for most students." },
+    { "phrase": "It's … enough", "translation": "Это достаточно …", "example": "Is the internet connection fast enough for video calls?" },
+    { "phrase": "… a lot / much / far + comparative", "translation": "… гораздо / намного + сравнительная степень", "example": "Life is a lot easier now than it was a hundred years ago." },
+    { "phrase": "… a little / slightly + comparative", "translation": "… немного / чуть + сравнительная степень", "example": "E-books are slightly cheaper than printed books." },
+    { "phrase": "the best / worst invention", "translation": "лучшее / худшее изобретение", "example": "What do you think is the best invention of the last century?" },
+    { "phrase": "What could be better than …?", "translation": "Что может быть лучше, чем …?", "example": "What could be better than sitting in the sun with a good book?" }
+  ]
+}

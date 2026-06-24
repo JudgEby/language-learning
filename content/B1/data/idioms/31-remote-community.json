@@ -1,0 +1,12 @@
+{
+  "lessonId": "remote-community",
+  "title": "Remote community — идиомы",
+  "items": [
+    { "idiom": "close-knit community", "translation": "сплочённое сообщество", "example": "It's a close-knit community where everyone knows each other." },
+    { "idiom": "a shoulder to cry on", "translation": "жилетка для слёз (тот, кто поддержит)", "example": "In a good community, neighbours are always a shoulder to cry on." },
+    { "idiom": "many hands make light work", "translation": "когда рук много, работа спорится", "example": "The villagers built the house together — many hands make light work." },
+    { "idiom": "it takes a village to raise a child", "translation": "нужна целая деревня, чтобы воспитать ребёнка", "example": "On the island, everyone helps with the children — it takes a village to raise a child." },
+    { "idiom": "the backbone of the community", "translation": "основа, опора сообщества", "example": "The local school is the backbone of the community." },
+    { "idiom": "off the beaten track", "translation": "вдали от проторенных путей", "example": "The island is completely off the beaten track." }
+  ]
+}

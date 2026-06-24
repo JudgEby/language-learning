@@ -1,0 +1,13 @@
+{
+  "id": "hustle",
+  "order": 8,
+  "unit": "Unit 2 — Tales",
+  "title": "Hustle",
+  "contentMd": "## Telling a narrative\n\n### Простая суть\n\nКогда рассказываешь историю в деталях — как в криминальной драме — нужны чёткие фразы-«рельсы», по которым движется сюжет. Начинай с *This story is about...*, обозначь проблему *The problem was that...*, добавь неожиданный поворот *What he didn't realise was that...* и подведи итог *In the end...*. Такие фразы делают рассказ связным и драматичным.\n\n### Как это работает\n\n- **Введение**: *This story is about...*\n- **Проблема**: *The problem was that...*\n- **Уточнение**: *In fact, ...*\n- **Неожиданность**: *What he didn't realise/know was that...*\n- **Контраст**: *However, ...*\n- **Продолжение**: *Later...*\n- **Причина**: *Because of this, ...*\n- **Финал**: *In the end, ...*\n\n### Живые примеры\n\n- **This story is about** a burglar who stole a valuable painting. (Эта история о взломщике, который украл ценную картину.)\n- **The problem was that** things didn't go quite according to plan. (Проблема была в том, что всё пошло не совсем по плану.)\n- **What he didn't realise was that** the painting had a hidden alarm. (Чего он не осознавал — что на картине была скрытая сигнализация.)\n- **Because of this**, the customs officers searched his luggage. (Из-за этого таможенники обыскали его багаж.)\n- **In the end**, the customs planned to investigate further. (В конце концов, таможня планировала провести дальнейшее расследование.)\n\n### Лайфхак для запоминания\n\nИстория как сэндвич: начало (This story is about...) — начинка (проблема, неожиданность, детали) — конец (In the end...). Слова-связки — это хлеб, который держит начинку. Запомни три главных: *The problem was that...* — *What he didn't know was that...* — *In the end...*",
+  "examples": [
+    "This story is about a burglar who stole a valuable painting.",
+    "What he didn't realise was that the painting had a hidden alarm.",
+    "Because of this, the customs officers searched his luggage.",
+    "In the end, the customs planned to investigate further."
+  ]
+}

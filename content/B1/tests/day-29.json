@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ec4b2f3b8436",
+    "question": "Choose the correct word for: 'подружиться с'",
+    "options": [
+      "compete for a job",
+      "make friends with",
+      "a good leader",
+      "freerunner"
+    ],
+    "correctIndex": 1,
+    "explanation": "'make friends with' means 'подружиться с'. Example: We made friends with our neighbours immediately.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "f934a6e90667",
+    "question": "Which sentence has a non-defining relative clause?",
+    "options": [
+      "The website that I use most is YouTube.",
+      "YouTube, which was created in 2005, changed the internet.",
+      "The woman who lives next door is a doctor.",
+      "The app which helps me learn languages is free."
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-defining relative clauses have commas and add extra information. 'that' cannot be used in non-defining clauses.",
+    "relatedRuleIds": [
+      "online-communities"
+    ]
+  },
+  {
+    "id": "5c588d7e15a0",
+    "question": "Choose the correct word for: 'действовать на нервы'",
+    "options": [
+      "There is a strong sense of…",
+      "get on my nerves",
+      "wonder",
+      "nonsense"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get on my nerves' means 'действовать на нервы'. Example: His loud music gets on my nerves.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "61c28f526470",
+    "question": "Choose the correct idiom for: 'очень хорошо ладить'",
+    "options": [
+      "make a fortune",
+      "get on like a house on fire",
+      "see eye to eye",
+      "play devil's advocate"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get on like a house on fire' — очень хорошо ладить. Example: We met our new neighbours and got on like a house on fire.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "c4a8155be2a0",
+    "question": "Which sentence is correct?",
+    "options": [
+      "The feature that made YouTube popular were the comment function.",
+      "The fetheture ththet mthede YouTube populther wthes the comment function.",
+      "The feature that made YouTube popular was the comment function.",
+      "The feature that made YouTube popular was the comment function."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'The feature that made YouTube popular was the comment function.'",
+    "relatedRuleIds": [
+      "online-communities"
+    ]
+  },
+  {
+    "id": "2039eac5bbec",
+    "question": "Complete the sentence: I answered the phone, but it was a ___.",
+    "options": [
+      "washing machine",
+      "embarrassing",
+      "All of a sudden, …",
+      "wrong number"
+    ],
+    "correctIndex": 3,
+    "explanation": "'wrong number' means неправильный номер. Full sentence: I answered the phone, but it was a wrong number.",
+    "relatedRuleIds": [
+      "in-other-words"
+    ]
+  },
+  {
+    "id": "264fb5d7ef0c",
+    "question": "Complete the sentence: He writes a ___ about photography.",
+    "options": [
+      "blog",
+      "If I were you, I'd …",
+      "do research",
+      "dress up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'blog' means блог. Full sentence: He writes a blog about photography.",
+    "relatedRuleIds": [
+      "online-communities"
+    ]
+  },
+  {
+    "id": "c2a9f5ee65d4",
+    "question": "Choose the correct phrase for: 'Я бы порекомендовал его любому, кто…'",
+    "options": [
+      "I'd probably choose…",
+      "It is likely to…",
+      "That's fantastic! / That's amazing!",
+      "I'd recommend it to anyone who…"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'd recommend it to anyone who…' — Я бы порекомендовал его любому, кто…. Example: I'd recommend it to anyone who likes photography.",
+    "relatedRuleIds": [
+      "online-communities"
+    ]
+  },
+  {
+    "id": "7ad01e20109a",
+    "question": "Choose the correct phrase for: 'Мы держимся особняком.'",
+    "options": [
+      "You've lost me",
+      "hear the news",
+      "…, is he?",
+      "We keep ourselves to ourselves."
+    ],
+    "correctIndex": 3,
+    "explanation": "'We keep ourselves to ourselves.' — Мы держимся особняком.. Example: We keep ourselves to ourselves, so we don't know many neighbours.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "3f6d00b9e4d7",
+    "question": "Which sentence is correct?",
+    "options": [
+      "The most common way to interact with neighbours are face-to-face.",
+      "The most common wthey to interthect with neighbours is fthece-to-fthece.",
+      "The most common way to interact with neighbours is face-to-face.",
+      "The most common way to interact with neighbours is face-to-face."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'The most common way to interact with neighbours is face-to-face.'",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "f458daec7585",
+    "question": "My neighbour has ___ cat. ___ cat is black and white.",
+    "options": [
+      "a / A",
+      "the / The",
+      "a / The",
+      "the / A"
+    ],
+    "correctIndex": 2,
+    "explanation": "First mention: 'a cat'. Second mention (known): 'the cat'.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "db6eca8e107f",
+    "question": "Complete the sentence: She has over two thousand ___ on Instagram.",
+    "options": [
+      "I usually wake up at…",
+      "followers",
+      "I just cook supper and watch TV",
+      "You shouldn't…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'followers' means подписчики. Full sentence: She has over two thousand followers on Instagram.",
+    "relatedRuleIds": [
+      "online-communities"
+    ]
+  }
+]

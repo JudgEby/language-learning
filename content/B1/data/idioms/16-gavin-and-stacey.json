@@ -1,0 +1,21 @@
+{
+  "lessonId": "gavin-and-stacey",
+  "title": "Gavin and Stacey — идиомы",
+  "items": [
+    {
+      "idiom": "break the ice",
+      "translation": "сломать лёд",
+      "example": "On his first day, he told a joke to break the ice with his new colleagues."
+    },
+    {
+      "idiom": "hit the ground running",
+      "translation": "быстро войти в курс дела",
+      "example": "She hit the ground running on her first day and impressed everyone."
+    },
+    {
+      "idiom": "trial by fire",
+      "translation": "испытание огнём",
+      "example": "His first day was a real trial by fire — everything that could go wrong did."
+    }
+  ]
+}

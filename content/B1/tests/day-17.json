@@ -1,0 +1,182 @@
+[
+  {
+    "id": "557fc4ab03d8",
+    "question": "The washing machine is ___ invention of the last century.",
+    "options": [
+      "the best",
+      "the most best",
+      "better than",
+      "good"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use 'the best' (irregular superlative) when comparing one thing to a group.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "b081f862d213",
+    "question": "Choose the correct phrase for: 'Оно не такое …, как …'",
+    "options": [
+      "It's not as … as …",
+      "The people are known for…",
+      "This story is about...",
+      "on time"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It's not as … as …' — Оно не такое …, как …. Example: The bicycle is not as fast as a car, but it's healthier.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "c4db40e7576d",
+    "question": "This tablet is not ___ the old model.",
+    "options": [
+      "as good as",
+      "gooder than",
+      "more good than",
+      "as good like"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use '(not) as + adjective + as' to compare two things: 'not as good as'.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "08742edd4507",
+    "question": "Choose the correct phrase for: 'Одна вещь, которую я хотел бы сказать...'",
+    "options": [
+      "The best thing about… is that…",
+      "One thing I'd like to say is...",
+      "I'm not sure, but…",
+      "For one thing…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'One thing I'd like to say is...' — Одна вещь, которую я хотел бы сказать.... Example: One thing I'd like to say is that online courses are more difficult.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "432f2b6c5a47",
+    "question": "Complete the sentence: Trying to find that document is ___ — it was lost years ago.",
+    "options": [
+      "a wild goose chase",
+      "a level playing field",
+      "put your best foot forward",
+      "get the wrong end of the stick"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a wild goose chase' — пустая трата времени, бесполезное занятие. Example: Trying to find that document is a wild goose chase — it was lost years ago.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "8dbbab2ad94d",
+    "question": "Choose the correct phrase for: 'Тебе необязательно…'",
+    "options": [
+      "You don't have to…",
+      "I remember I used to…",
+      "It's … enough",
+      "A typical day in my life"
+    ],
+    "correctIndex": 0,
+    "explanation": "'You don't have to…' — Тебе необязательно…. Example: You don't have to be born rich to be a millionaire.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "672ab999e618",
+    "question": "Complete the sentence: ___ about the university before the interview.",
+    "options": [
+      "That's a good point",
+      "do some research",
+      "take up a hobby",
+      "I'm afraid I can't."
+    ],
+    "correctIndex": 1,
+    "explanation": "'do some research' means провести небольшое исследование. Full sentence: Do some research about the university before the interview.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "375584eb8d7c",
+    "question": "Complete the sentence: ___s make global television possible.",
+    "options": [
+      "What I like about… is…",
+      "I just cook supper and watch TV",
+      "repair",
+      "communications satellite"
+    ],
+    "correctIndex": 3,
+    "explanation": "'communications satellite' means спутник связи. Full sentence: Communications satellites make global television possible.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "fa2f160c7227",
+    "question": "Complete the sentence: ___ has changed the way we communicate.",
+    "options": [
+      "It would be interesting to…",
+      "I'm afraid I can't.",
+      "technology",
+      "prioritise"
+    ],
+    "correctIndex": 2,
+    "explanation": "'technology' means технология. Full sentence: Technology has changed the way we communicate.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "bbaadc366997",
+    "question": "Which sentence describes a repeated past action (NOT a state)?",
+    "options": [
+      "I used to have a dog.",
+      "I would play football every Saturday.",
+      "I used to live in London.",
+      "I would be tall when I was young."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Would' describes repeated past actions. It cannot describe past states like 'have' or 'live'.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "2a33b8a964ce",
+    "question": "Which sentence is correct?",
+    "options": [
+      "The invention of the washing machine are the best invention of the last century.",
+      "The invention of the washing machine is the best invention of the last century.",
+      "The invention of the wtheshing mthechine is the best invention of the lthest century.",
+      "The invention of the washing machine is the best invention of the last century."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'The invention of the washing machine is the best invention of the last century.'",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "85bbd8a44301",
+    "question": "You ___ worry about what other people think of you. It's a rule!",
+    "options": [
+      "don't have to",
+      "mustn't",
+      "shouldn't",
+      "needn't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Mustn't' indicates a prohibition — it's not allowed.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  }
+]

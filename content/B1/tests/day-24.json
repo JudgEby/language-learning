@@ -1,0 +1,181 @@
+[
+  {
+    "id": "60f47e272f30",
+    "question": "Complete the sentence: Can you ___ my laptop?",
+    "options": [
+      "research",
+      "repair",
+      "theft",
+      "It would be interesting to…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'repair' means ремонтировать. Full sentence: Can you repair my laptop?",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "6f61cd0ec3aa",
+    "question": "Complete the sentence: First I lost my keys, then my car broke down — ___.",
+    "options": [
+      "back to basics",
+      "when it rains, it pours",
+      "trial by fire",
+      "close to my heart"
+    ],
+    "correctIndex": 1,
+    "explanation": "'when it rains, it pours' — беда не приходит одна. Example: First I lost my keys, then my car broke down — when it rains, it pours.",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "03cf218bf8f7",
+    "question": "Complete the sentence: I was ___ when the dog started barking at me.",
+    "options": [
+      "audience",
+      "The best thing about it is that …",
+      "terrified",
+      "leap across"
+    ],
+    "correctIndex": 2,
+    "explanation": "'terrified' means испуганный до смерти. Full sentence: I was terrified when the dog started barking at me.",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "971f7574552b",
+    "question": "Complete the sentence: My colleagues organised a ___ party for me.",
+    "options": [
+      "freerunner",
+      "surprise",
+      "If I'm …ed, I usually …",
+      "question"
+    ],
+    "correctIndex": 1,
+    "explanation": "'surprise' means сюрприз. Full sentence: My colleagues organised a surprise party for me.",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "c42f9d7cbb75",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Me had absolutely no idea what were going on.",
+      "I had absolutely no idea what was going on.",
+      "I had absolutely no idea what were going on."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'I had absolutely no idea what was going on.'",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "09f49306d397",
+    "question": "Which is the most polite request?",
+    "options": [
+      "Help me!",
+      "Can you help me?",
+      "Would you mind helping me?",
+      "You should help me."
+    ],
+    "correctIndex": 2,
+    "explanation": "'Would you mind + -ing' is the most polite form of request.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "2a3e1c1796e7",
+    "question": "A: 'The phone is ringing!' B: 'I ___ it!'",
+    "options": [
+      "'m going to get",
+      "get",
+      "will get",
+      "'m getting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "7e4bae9e009d",
+    "question": "Complete the sentence: ___ to let you know.",
+    "options": [
+      "my idea of perfect happiness",
+      "We've been friends for…",
+      "I predict that…",
+      "I'll call you back"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'll call you back' — Я тебе перезвоню. Full sentence: I'll call you back to let you know.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "eea8d9e297dd",
+    "question": "Complete the sentence: The ___ hand: when lying, people use less hand movement.",
+    "options": [
+      "I'd recommend it to anyone who…",
+      "guilty",
+      "That's right",
+      "There is a strong sense of…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'guilty' means виновный. Full sentence: The guilty hand: when lying, people use less hand movement.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "52d1793e859b",
+    "question": "Choose the correct phrase for: 'Я понятия не имел.'",
+    "options": [
+      "It works like this.",
+      "We are looking for funding",
+      "I've never been able to…",
+      "I had absolutely no idea."
+    ],
+    "correctIndex": 3,
+    "explanation": "'I had absolutely no idea.' — Я понятия не имел.. Example: I had absolutely no idea what was happening.",
+    "relatedRuleIds": [
+      "my-worst-week"
+    ]
+  },
+  {
+    "id": "d730cdc17233",
+    "question": "Complete the sentence: ___, the lights went out.",
+    "options": [
+      "The… in our street are…",
+      "We intend to…",
+      "It all started one day when …",
+      "All of a sudden"
+    ],
+    "correctIndex": 3,
+    "explanation": "'All of a sudden' — Внезапно. Full sentence: All of a sudden, the lights went out.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "23099b74632e",
+    "question": "Complete the sentence: Don't ___ by your phone while working.",
+    "options": [
+      "sensation",
+      "get distracted",
+      "beat (someone in a race)",
+      "icon"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get distracted' means отвлекаться. Full sentence: Don't get distracted by your phone while working.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  }
+]

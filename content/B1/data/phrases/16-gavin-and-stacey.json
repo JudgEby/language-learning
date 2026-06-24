@@ -1,0 +1,14 @@
+{
+  "lessonId": "gavin-and-stacey",
+  "title": "Gavin and Stacey — фразы",
+  "items": [
+    { "phrase": "I usually wake up at…", "translation": "Я обычно просыпаюсь в…", "example": "I usually wake up at about 6.30." },
+    { "phrase": "I have to leave home by…", "translation": "Мне нужно выйти из дома к…", "example": "I have to leave home by 8.30 at the latest." },
+    { "phrase": "The first thing I do when I get to work is…", "translation": "Первое, что я делаю, придя на работу —…", "example": "The first thing I do when I get to work is switch on the lights." },
+    { "phrase": "In the afternoon I…", "translation": "Днём я…", "example": "In the afternoon I usually have lunch with colleagues." },
+    { "phrase": "I try to be home by…", "translation": "Я стараюсь быть дома к…", "example": "I try to be home by about 7 o'clock." },
+    { "phrase": "I just cook supper and watch TV", "translation": "Я просто готовлю ужин и смотрю телевизор", "example": "In the evening I just cook supper and watch some television." },
+    { "phrase": "The best part of the job is…", "translation": "Лучшая часть работы — это…", "example": "The best part of the job is meeting new people." },
+    { "phrase": "A typical day in my life", "translation": "Обычный день в моей жизни", "example": "Let me describe a typical day in my life." }
+  ]
+}

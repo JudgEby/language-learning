@@ -1,0 +1,18 @@
+{
+  "lessonId": "the-memory-men",
+  "title": "The memory men — новые слова",
+  "items": [
+    { "term": "ability", "translation": "способность", "example": "She has an amazing ability to remember numbers." },
+    { "term": "memorise", "translation": "запоминать", "example": "He can memorise a whole page in minutes." },
+    { "term": "talent", "translation": "талант", "example": "She has a natural talent for music." },
+    { "term": "gifted", "translation": "одарённый", "example": "He is a gifted musician." },
+    { "term": "skill", "translation": "навык, умение", "example": "Learning a language is a useful skill." },
+    { "term": "brain training", "translation": "тренировка мозга", "example": "Brain training apps can improve your memory." },
+    { "term": "expert", "translation": "эксперт, специалист", "example": "He is an expert in Renaissance art." },
+    { "term": "skilful", "translation": "умелый, искусный", "example": "She is the most skilful player on the team." },
+    { "term": "aptitude", "translation": "склонность, способности", "example": "He has an aptitude for mathematics." },
+    { "term": "talented", "translation": "талантливый", "example": "He is a really talented pianist." },
+    { "term": "hopeless at", "translation": "безнадёжен в", "example": "I'm hopeless at remembering names." },
+    { "term": "useless at", "translation": "никудышный в", "example": "I'm useless at ball sports." }
+  ]
+}

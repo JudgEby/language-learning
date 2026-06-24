@@ -1,0 +1,14 @@
+{
+  "lessonId": "ask-the-experts",
+  "title": "Ask the experts — фразы",
+  "items": [
+    { "phrase": "…, aren't you?", "translation": "…, не так ли? (positive tag)", "example": "You're from Spain, aren't you?" },
+    { "phrase": "…, is he?", "translation": "…, правда? (negative tag)", "example": "He isn't your brother, is he?" },
+    { "phrase": "…, don't you?", "translation": "…, не так ли?", "example": "You like classical music, don't you?" },
+    { "phrase": "…, didn't they?", "translation": "…, не так ли? (past simple)", "example": "They arrived yesterday, didn't they?" },
+    { "phrase": "…, haven't you?", "translation": "…, не так ли? (present perfect)", "example": "You've been to London, haven't you?" },
+    { "phrase": "…, will you?", "translation": "…, хорошо? / …, да?", "example": "You won't forget, will you?" },
+    { "phrase": "…, can't she?", "translation": "…, не так ли? (can)", "example": "She can speak three languages, can't she?" },
+    { "phrase": "…, shall we?", "translation": "…, не так ли? (let's предложения)", "example": "Let's go for a walk, shall we?" }
+  ]
+}

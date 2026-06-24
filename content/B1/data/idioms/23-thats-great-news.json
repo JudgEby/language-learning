@@ -1,0 +1,21 @@
+{
+  "lessonId": "thats-great-news",
+  "title": "That's great news — идиомы",
+  "items": [
+    {
+      "idiom": "on cloud nine",
+      "translation": "на седьмом небе",
+      "example": "When she passed the exam, she was on cloud nine for days."
+    },
+    {
+      "idiom": "down in the dumps",
+      "translation": "в подавленном состоянии",
+      "example": "He has been down in the dumps since he lost his job."
+    },
+    {
+      "idiom": "take something to heart",
+      "translation": "принимать близко к сердцу",
+      "example": "Don't take the criticism to heart — they were just trying to help."
+    }
+  ]
+}

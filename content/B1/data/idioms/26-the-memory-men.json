@@ -1,0 +1,21 @@
+{
+  "lessonId": "the-memory-men",
+  "title": "The memory men — идиомы",
+  "items": [
+    {
+      "idiom": "a photographic memory",
+      "translation": "фотографическая память",
+      "example": "She has a photographic memory and never needs to take notes in class."
+    },
+    {
+      "idiom": "in one ear and out the other",
+      "translation": "в одно ухо влетает, в другое вылетает",
+      "example": "Everything I tell him goes in one ear and out the other."
+    },
+    {
+      "idiom": "on the tip of my tongue",
+      "translation": "вертится на языке",
+      "example": "Her name is on the tip of my tongue — give me a moment."
+    }
+  ]
+}

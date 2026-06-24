@@ -1,0 +1,14 @@
+{
+  "lessonId": "are-you-qualified",
+  "title": "Are you qualified? — фразы",
+  "items": [
+    { "phrase": "What I'm trying to say is…", "translation": "Я пытаюсь сказать, что…", "example": "What I'm trying to say is that we need more practical experience." },
+    { "phrase": "What do you mean by…?", "translation": "Что ты имеешь в виду под…?", "example": "What do you mean by 'talent'?" },
+    { "phrase": "I'm not sure I follow.", "translation": "Я не совсем понимаю.", "example": "I'm not sure I follow. Can you explain?" },
+    { "phrase": "In my view…", "translation": "По моему мнению…", "example": "In my view, qualifications are not the most important thing." },
+    { "phrase": "I see what you mean, but…", "translation": "Я понимаю, но…", "example": "I see what you mean, but experience matters too." },
+    { "phrase": "Having said that…", "translation": "При этом / с другой стороны…", "example": "Having said that, I agree that hard work is important." },
+    { "phrase": "For one thing…", "translation": "Во-первых…", "example": "For one thing, online courses are more flexible." },
+    { "phrase": "Let me give you an example.", "translation": "Позволь мне привести пример.", "example": "Let me give you an example: my friend learned to code online." }
+  ]
+}

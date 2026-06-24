@@ -1,0 +1,15 @@
+{
+  "lessonId": "same-or-different",
+  "title": "Same or different — новые слова",
+  "items": [
+    { "term": "boss", "translation": "начальник", "example": "She asked her boss for some time off work." },
+    { "term": "employee", "translation": "сотрудник", "example": "He's an employee of a large company." },
+    { "term": "classmates", "translation": "одноклассники", "example": "Dave is my classmate. We're both in Year 12." },
+    { "term": "partner", "translation": "партнёр", "example": "My business partner and I started the company together." },
+    { "term": "team-mates", "translation": "товарищи по команде", "example": "Leticia is my team-mate. We play in the same basketball team." },
+    { "term": "member", "translation": "член (организации)", "example": "I'm a member of a swimming club." },
+    { "term": "godfather / godmother", "translation": "крёстный отец / крёстная мать", "example": "My father asked his best friend to be my godfather." },
+    { "term": "mentor / pupil", "translation": "наставник / ученик", "example": "My mentor helped me develop my career." },
+    { "term": "fiancé / fiancée", "translation": "жених / невеста", "example": "This is Marianna, my fiancée. We're getting married next year." }
+  ]
+}

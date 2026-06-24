@@ -1,0 +1,21 @@
+{
+  "lessonId": "are-you-qualified",
+  "title": "Are you qualified? — идиомы",
+  "items": [
+    {
+      "idiom": "cut corners",
+      "translation": "делать кое-как",
+      "example": "Don't cut corners on your qualifications — get proper training."
+    },
+    {
+      "idiom": "go the distance",
+      "translation": "выдержать до конца",
+      "example": "The course is tough, but if you go the distance you'll get a great qualification."
+    },
+    {
+      "idiom": "have what it takes",
+      "translation": "иметь всё необходимое",
+      "example": "Do you think she has what it takes to become a manager?"
+    }
+  ]
+}

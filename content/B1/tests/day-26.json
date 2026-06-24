@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a0ce8570c235",
+    "question": "Complete the sentence: He is an ___ in Renaissance art.",
+    "options": [
+      "expert",
+      "Oh dear",
+      "They'd need to be able to…",
+      "…, can't she?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'expert' means эксперт, специалист. Full sentence: He is an expert in Renaissance art.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "3968b27adf10",
+    "question": "Complete the sentence: ___ to let you know.",
+    "options": [
+      "I'll call you back",
+      "The next thing I knew",
+      "I could… when I was…",
+      "If I could … I'd …"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'll call you back' — Я тебе перезвоню. Full sentence: I'll call you back to let you know.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "afec83a7c64d",
+    "question": "Which sentence is correct?",
+    "options": [
+      "When I were younger, I could run for miles.",
+      "When I wthes younger, I could run for miles.",
+      "When I was younger, I could run for miles.",
+      "When I was younger, I could run for miles."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'When I was younger, I could run for miles.'",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "c8767189cd79",
+    "question": "Complete the sentence: We need to ___ about the name.",
+    "options": [
+      "make a decision",
+      "For one thing…",
+      "Yes, of course. / Sure.",
+      "white lie"
+    ],
+    "correctIndex": 0,
+    "explanation": "'make a decision' means принять решение. Full sentence: We need to make a decision about the name.",
+    "relatedRuleIds": [
+      "thats-a-good-idea"
+    ]
+  },
+  {
+    "id": "b4414f0e1ec1",
+    "question": "Complete the sentence: Everything I tell him goes ___.",
+    "options": [
+      "when it rains, it pours",
+      "not make head nor tail of something",
+      "in one ear and out the other",
+      "lost for words"
+    ],
+    "correctIndex": 2,
+    "explanation": "'in one ear and out the other' — в одно ухо влетает, в другое вылетает. Example: Everything I tell him goes in one ear and out the other.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "cfe553361ae4",
+    "question": "When I was younger, I ___ run for miles.",
+    "options": [
+      "can",
+      "could",
+      "am able to",
+      "managed to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Could' describes a general ability in the past.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "ba824b32016f",
+    "question": "Choose the correct phrase for: 'Мне удалось…'",
+    "options": [
+      "I try to be home by…",
+      "I managed to…",
+      "make the headlines",
+      "on my own"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I managed to…' — Мне удалось…. Example: I managed to finish the puzzle in ten minutes.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "d44fcf0cdd36",
+    "question": "Choose the correct phrase for: 'Оно не такое …, как …'",
+    "options": [
+      "I've arranged to…",
+      "I'm sorry to have to tell you, but …",
+      "It's not as … as …",
+      "go according to plan"
+    ],
+    "correctIndex": 2,
+    "explanation": "'It's not as … as …' — Оно не такое …, как …. Example: The bicycle is not as fast as a car, but it's healthier.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "c18b692e1f69",
+    "question": "Complete the sentence: She is the most ___ player on the team.",
+    "options": [
+      "public transport",
+      "cut hair",
+      "skilful",
+      "wake up"
+    ],
+    "correctIndex": 2,
+    "explanation": "'skilful' means умелый, искусный. Full sentence: She is the most skilful player on the team.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  },
+  {
+    "id": "928a4e29d8a6",
+    "question": "Which sentence shows a fixed arrangement?",
+    "options": [
+      "I will call you later.",
+      "I'm meeting my friend tonight.",
+      "I might go to the party.",
+      "I'm going to start a diet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Present Continuous ('I'm meeting') shows a fixed arrangement with a definite time and place.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "2d25056bbb04",
+    "question": "Complete the sentence: I don't usually ___ on social media.",
+    "options": [
+      "stressed",
+      "Let me give you an example.",
+      "waste time",
+      "The way it works is this."
+    ],
+    "correctIndex": 2,
+    "explanation": "'waste time' means тратить время впустую. Full sentence: I don't usually waste time on social media.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "b0a6cff5e94f",
+    "question": "He ___ recite 22,000 digits of pi. It was very difficult!",
+    "options": [
+      "could",
+      "managed to",
+      "can",
+      "was able"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Managed to' emphasises that it was difficult but he succeeded.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  }
+]

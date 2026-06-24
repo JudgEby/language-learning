@@ -1,0 +1,16 @@
+{
+  "lessonId": "gavin-and-stacey",
+  "title": "Gavin and Stacey — новые слова",
+  "items": [
+    { "term": "daily routine", "translation": "повседневная рутина", "example": "Describe a typical day in your life." },
+    { "term": "get up", "translation": "вставать (с постели)", "example": "I get up at 5 a.m. every morning." },
+    { "term": "wake up", "translation": "просыпаться", "example": "I usually wake up at about 6.30." },
+    { "term": "switch on / off", "translation": "включать / выключать", "example": "The first thing I do is switch on the lights." },
+    { "term": "have a break", "translation": "делать перерыв", "example": "I have a one-hour break for lunch." },
+    { "term": "make a cup of coffee", "translation": "сварить/сделать чашку кофе", "example": "I get up and make a cup of coffee." },
+    { "term": "take (time)", "translation": "занимать (время)", "example": "The drive takes about fifteen minutes." },
+    { "term": "relax", "translation": "расслабляться, отдыхать", "example": "In the evenings I relax by reading a book." },
+    { "term": "welcome pack", "translation": "пакет welcome-документов", "example": "Did you get your welcome pack on your first day?" },
+    { "term": "show someone around", "translation": "провести экскурсию, показать", "example": "OK, let's show you around the office." }
+  ]
+}

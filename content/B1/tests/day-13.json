@@ -1,0 +1,182 @@
+[
+  {
+    "id": "582456a3e986",
+    "question": "You ___ be born rich to be a millionaire. Many millionaires started with nothing.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' means it's not necessary. 'Mustn't' would mean it's forbidden.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "9dc39341926a",
+    "question": "Choose the correct idiom for: 'родиться в богатой семье'",
+    "options": [
+      "a know-it-all",
+      "the stuff of legend",
+      "born with a silver spoon in your mouth",
+      "put your best foot forward"
+    ],
+    "correctIndex": 2,
+    "explanation": "'born with a silver spoon in your mouth' — родиться в богатой семье. Example: She worked hard for everything — she was not born with a silver spoon in her mouth.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "fa851d7d803f",
+    "question": "Complete the sentence: ___ That can't be true.",
+    "options": [
+      "I'm afraid I can't.",
+      "That's right",
+      "…, shall we?",
+      "You're joking!"
+    ],
+    "correctIndex": 3,
+    "explanation": "'You're joking!' — Ты шутишь!. Full sentence: You're joking! That can't be true.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "ffbe4c1739a6",
+    "question": "Complete the sentence: I ___ some Spanish when I was travelling in Latin America.",
+    "options": [
+      "picked up",
+      "Chill out!",
+      "break a story",
+      "by chance"
+    ],
+    "correctIndex": 0,
+    "explanation": "'picked up' — подхватил, выучил неформально. Full sentence: I picked up some Spanish when I was travelling in Latin America.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "156fac79f337",
+    "question": "Choose the correct phrase for: 'Я думаю, это хорошая идея —…'",
+    "options": [
+      "in a moment",
+      "You've lost me",
+      "The way it works is this.",
+      "I think it's a good idea to…"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I think it's a good idea to…' — Я думаю, это хорошая идея —…. Example: I think it's a good idea to invest your money wisely.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "6b3e09d5db41",
+    "question": "Complete the sentence: The ___ was worth millions of dollars.",
+    "options": [
+      "It was quite a challenge.",
+      "content",
+      "I have to leave home by…",
+      "artwork"
+    ],
+    "correctIndex": 3,
+    "explanation": "'artwork' means произведение искусства. Full sentence: The artwork was worth millions of dollars.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "0093ce2aabaa",
+    "question": "Complete the sentence: Being a racing driver, Anton has to be ___.",
+    "options": [
+      "furious",
+      "It's … enough",
+      "a risk taker",
+      "in a hurry"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a risk taker' means человек, склонный к риску. Full sentence: Being a racing driver, Anton has to be a risk taker.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "9dd755a16d6b",
+    "question": "Complete the sentence: We need to be ___ and think outside the box.",
+    "options": [
+      "However, ...",
+      "godfather / godmother",
+      "competitor / rival",
+      "creative"
+    ],
+    "correctIndex": 3,
+    "explanation": "'creative' means креативный. Full sentence: We need to be creative and think outside the box.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "85bbd8a44301",
+    "question": "You ___ worry about what other people think of you. It's a rule!",
+    "options": [
+      "don't have to",
+      "mustn't",
+      "shouldn't",
+      "needn't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Mustn't' indicates a prohibition — it's not allowed.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "8cbf6f2aa982",
+    "question": "Which sentence is correct?",
+    "options": [
+      "You must has a clear idea of what you want to do.",
+      "You must have a clear idea of what you want to do.",
+      "You must have a clear idea of what you want to do.",
+      "You must htheve the clether idethe of whthet you wthent to do."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'You must have a clear idea of what you want to do.'",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "a68e5f6c64da",
+    "question": "Choose the correct word for: 'лгать'",
+    "options": [
+      "tell a lie",
+      "What would you do if …?",
+      "Would you … if …?",
+      "sports icon"
+    ],
+    "correctIndex": 0,
+    "explanation": "'tell a lie' means 'лгать'. Example: He told a white lie to avoid hurting her feelings.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "online-communities",
+  "order": 30,
+  "unit": "Unit 8 — Communities",
+  "title": "Online communities",
+  "contentMd": "## Defining and non-defining relative clauses\n\n### Простая суть\n\nRelative clauses (относительные придаточные) — это способ соединить два предложения в одно, чтобы не звучать как робот. **Defining clauses** отвечают на вопрос «какой именно?» и без них предложение теряет смысл. **Non-defining clauses** добавляют дополнительную информацию в скобках — без них предложение всё ещё понятно. Запятые — главный визуальный ключ: если есть запятые — значит, информация необязательная.\n\n### Как это работает\n\n- **Defining** (определительные) — без запятых; уточняют, о ком/чём речь. *The website **which I use every day** is great.* — Без этой части непонятно, какой сайт.\n- **Non-defining** (неопределительные) — с запятыми; добавляют «бонусную» информацию. *YouTube, **which was created in 2005**, changed the internet.* — Информация интересная, но не критичная.\n- **Who** — для людей. *The woman **who lives next door** is a doctor.*\n- **Which** — для вещей. *The app **which helps me learn languages** is free.*\n- **That** — вместо who/which **только в defining clauses**. *The site **that I use most** is YouTube.* (Но нельзя: *YouTube, that was created in 2005…* ❌)\n- **Where** — для мест. *This is the town **where I grew up**.*\n- **When** — для времени. *I remember the day **when we met**.*\n\n### Живые примеры\n\n- YouTube is a site **where** you can share videos with the world. (defining, место)\n- People **who** use social media every day often feel more connected. (defining, люди)\n- Chad Hurley, Steve Chen and Jawed Karim, **who** were colleagues, created YouTube. (non-defining — добавочная инфа)\n- The feature **that/which** made YouTube popular was the comment function. (defining, вещь)\n- Twitter, **which** was founded in 2006, changed online communication. (non-defining)\n\n### Лайфхак для запоминания\n\nЗапятые — как скобки: если информацию можно убрать в скобки и смысл не потеряется — ставь запятые и не используй that. Если без этой части непонятно, о чём речь — никаких запятых, можно использовать that. **Who** для людей, **which** для вещей, **where** для мест, **when** для времени.",
+  "examples": [
+    "YouTube is a site where you can share videos with the world.",
+    "People who use social media every day often feel more connected.",
+    "Chad Hurley, Steve Chen and Jawed Karim, who were colleagues, created YouTube.",
+    "The feature that made YouTube popular was the comment function.",
+    "Twitter, which was founded in 2006, changed online communication."
+  ]
+}

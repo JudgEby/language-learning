@@ -1,0 +1,182 @@
+[
+  {
+    "id": "60883235ce70",
+    "question": "Choose the correct word for: 'программировать'",
+    "options": [
+      "…, will you?",
+      "I'll call you back",
+      "programme (a machine)",
+      "tradition"
+    ],
+    "correctIndex": 2,
+    "explanation": "'programme (a machine)' means 'программировать'. Example: You can programme the robot to make any dish.",
+    "relatedRuleIds": [
+      "man-versus-machine"
+    ]
+  },
+  {
+    "id": "8c7a8bf6491c",
+    "question": "Choose the correct phrase for: 'Что может быть проще?'",
+    "options": [
+      "What could be easier?",
+      "All of a sudden, …",
+      "What's the angle?",
+      "I'm planning to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What could be easier?' — Что может быть проще?. Example: What could be easier than a machine that cooks for you?",
+    "relatedRuleIds": [
+      "man-versus-machine"
+    ]
+  },
+  {
+    "id": "209146c055a2",
+    "question": "Choose the correct phrase for: 'Что ты делаешь…? (о планах)'",
+    "options": [
+      "We've been friends for…",
+      "What are you doing…?",
+      "When I was younger…",
+      "I'm hopeless at…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What are you doing…?' — Что ты делаешь…? (о планах). Example: What are you doing at the weekend?",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "d529dabe9f36",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I'm going to have a race against the latest French development in urban transport solutions.",
+      "I'm going to htheve the rthece thegtheinst the lthetest French development in urbthen trthensport solutions.",
+      "I'm going to have a race against the latest French development in urban transport solutions.",
+      "I'm going to has a race against the latest French development in urban transport solutions."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'I'm going to have a race against the latest French development in urban transport solutions.'",
+    "relatedRuleIds": [
+      "man-versus-machine"
+    ]
+  },
+  {
+    "id": "57fa8ecc4cc0",
+    "question": "Complete the sentence: ___ to create a channel about science.",
+    "options": [
+      "go grey",
+      "What he didn't realise was that...",
+      "We came up with this idea",
+      "All of a sudden"
+    ],
+    "correctIndex": 2,
+    "explanation": "'We came up with this idea' — Мы придумали эту идею. Full sentence: We came up with this idea to create a channel about science.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "734e32863ebf",
+    "question": "You're Italian, ___?",
+    "options": [
+      "aren't you",
+      "isn't it",
+      "are you",
+      "don't you"
+    ],
+    "correctIndex": 0,
+    "explanation": "Positive sentence → negative tag: 'You're Italian, aren't you?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "928a4e29d8a6",
+    "question": "Which sentence shows a fixed arrangement?",
+    "options": [
+      "I will call you later.",
+      "I'm meeting my friend tonight.",
+      "I might go to the party.",
+      "I'm going to start a diet."
+    ],
+    "correctIndex": 1,
+    "explanation": "Present Continuous ('I'm meeting') shows a fixed arrangement with a definite time and place.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "edab4c35bbbb",
+    "question": "Complete the sentence: The new software was ___ with a thousand users simultaneously.",
+    "options": [
+      "put to the test",
+      "put my foot in it",
+      "hit the ground running",
+      "hit the jackpot"
+    ],
+    "correctIndex": 0,
+    "explanation": "'put to the test' — подвергнуть испытанию. Example: The new software was put to the test with a thousand users simultaneously.",
+    "relatedRuleIds": [
+      "man-versus-machine"
+    ]
+  },
+  {
+    "id": "0cb937005b37",
+    "question": "Complete the sentence: I'd never ___ to a YouTube channel.",
+    "options": [
+      "I would always…",
+      "three words that describe me would be",
+      "freezing",
+      "subscribe"
+    ],
+    "correctIndex": 3,
+    "explanation": "'subscribe' means подписываться. Full sentence: I'd never subscribe to a YouTube channel.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "3a8c9fa1ebad",
+    "question": "Complete the sentence: We ___ed the problem for hours.",
+    "options": [
+      "discuss",
+      "One thing I'd like to say is...",
+      "diploma",
+      "myth"
+    ],
+    "correctIndex": 0,
+    "explanation": "'discuss' means обсуждать. Full sentence: We discussed the problem for hours.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "d0fe6d4a5510",
+    "question": "Complete the sentence: Starting a new business is a huge ___.",
+    "options": [
+      "member",
+      "adventure",
+      "stressed",
+      "I see"
+    ],
+    "correctIndex": 1,
+    "explanation": "'adventure' means приключение. Full sentence: Starting a new business is a huge adventure.",
+    "relatedRuleIds": [
+      "man-versus-machine"
+    ]
+  },
+  {
+    "id": "8e9c5a1b83a0",
+    "question": "Choose the correct phrase for: '…, не так ли?'",
+    "options": [
+      "What are you up to?",
+      "on time",
+      "go for a walk",
+      "…, don't you?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'…, don't you?' — …, не так ли?. Example: You like classical music, don't you?",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "lessonId": "design-a-community",
+  "title": "Design a community — фразы",
+  "items": [
+    { "phrase": "Ideally, there would be…", "translation": "В идеале был бы / были бы…", "example": "Ideally, there would be a park in the centre of the town." },
+    { "phrase": "The most important thing would be…", "translation": "Самым важным было бы…", "example": "The most important thing would be to have clean water." },
+    { "phrase": "I'd probably choose…", "translation": "Я, наверное, выбрал бы…", "example": "I'd probably choose a location near the mountains." },
+    { "phrase": "I'd go for a place that…", "translation": "Я бы выбрал место, которое…", "example": "I'd go for a place that has mild weather." },
+    { "phrase": "It'd need to be somewhere…", "translation": "Это должно быть где-то…", "example": "It'd need to be somewhere with good soil for farming." },
+    { "phrase": "They'd need to be able to…", "translation": "Им нужно было бы уметь…", "example": "They'd need to be able to grow their own food." },
+    { "phrase": "What would be essential is…", "translation": "Необходимым было бы…", "example": "What would be essential is a reliable source of water." },
+    { "phrase": "Life would be better if…", "translation": "Жизнь была бы лучше, если бы…", "example": "Life would be better if there was less traffic." }
+  ]
+}

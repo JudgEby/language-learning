@@ -1,0 +1,14 @@
+{
+  "lessonId": "neighbours",
+  "title": "Neighbours — фразы",
+  "items": [
+    { "phrase": "There's a… near my house", "translation": "Рядом с моим домом есть…", "example": "There's a supermarket near my house." },
+    { "phrase": "The… in our street are…", "translation": "… на нашей улице такие…", "example": "The neighbours in our street are very friendly." },
+    { "phrase": "I get on well with…", "translation": "Я лажу с…", "example": "I get on well with the people next door." },
+    { "phrase": "We keep ourselves to ourselves.", "translation": "Мы держимся особняком.", "example": "We keep ourselves to ourselves, so we don't know many neighbours." },
+    { "phrase": "… gets on my nerves.", "translation": "… действует мне на нервы.", "example": "The dog barking all night gets on my nerves." },
+    { "phrase": "We've been friends for…", "translation": "Мы дружим уже…", "example": "We've been friends for years." },
+    { "phrase": "There's a sense of community.", "translation": "Есть чувство общности.", "example": "There's a real sense of community in this village." },
+    { "phrase": "I'd like to get to know…", "translation": "Я бы хотел познакомиться с…", "example": "I'd like to get to know my neighbours better." }
+  ]
+}

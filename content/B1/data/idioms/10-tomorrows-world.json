@@ -1,0 +1,16 @@
+{
+  "lessonId": "tomorrows-world",
+  "title": "Tomorrow's world — идиомы",
+  "items": [
+    { "idiom": "close to my heart", "translation": "близко к сердцу, очень важно для меня", "example": "Teaching reading is an issue that's close to my heart." },
+    { "idiom": "running out of time", "translation": "время на исходе", "example": "Coastal countries like mine are running out of time." },
+    { "idiom": "hit the nail on the head", "translation": "попасть в точку", "example": "This hits the nail on the head: we will eradicate old illnesses, but new ones will develop." },
+    { "idiom": "let's face it", "translation": "давайте посмотрим правде в глаза", "example": "Let's face it: the world will be completely overcrowded." },
+    { "idiom": "put my foot in it", "translation": "ляпнуть что-то не то / попасть впросак", "example": "I said the wrong thing again. I always put my foot in it." },
+    { "idiom": "not my cup of tea", "translation": "не моё (не нравится)", "example": "Socialising is really not my cup of tea." },
+    { "idiom": "in hot water", "translation": "в беде / в неприятностях", "example": "We forgot to pay our taxes. Now we're in hot water." },
+    { "idiom": "piece of cake", "translation": "проще простого", "example": "I thought the exam would be a piece of cake, but it wasn't." },
+    { "idiom": "rat race", "translation": "крысиные бега (гонка за успехом)", "example": "I want to get out of the rat race and live a simpler life." },
+    { "idiom": "keep an eye on", "translation": "присматривать за", "example": "Could you keep an eye on my bag while I go to the toilet?" }
+  ]
+}

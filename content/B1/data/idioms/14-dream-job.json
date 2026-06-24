@@ -1,0 +1,21 @@
+{
+  "lessonId": "dream-job",
+  "title": "Dream job — идиомы",
+  "items": [
+    {
+      "idiom": "a dream come true",
+      "translation": "мечта сбылась",
+      "example": "Getting this job is a dream come true for me."
+    },
+    {
+      "idiom": "go the extra mile",
+      "translation": "сделать больше, чем требуется",
+      "example": "She always goes the extra mile to help her customers."
+    },
+    {
+      "idiom": "learn the ropes",
+      "translation": "освоиться, научиться основам",
+      "example": "It took me a few weeks to learn the ropes in my new job."
+    }
+  ]
+}

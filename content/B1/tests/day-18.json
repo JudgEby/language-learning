@@ -1,0 +1,181 @@
+[
+  {
+    "id": "9cfcad60b60a",
+    "question": "Choose the correct phrase for: 'Я вынужден / мне нужно…'",
+    "options": [
+      "I have to…",
+      "take responsibility",
+      "What could be easier?",
+      "I've always wanted to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I have to…' — Я вынужден / мне нужно…. Example: I have to finish this report by tomorrow morning.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "734e32863ebf",
+    "question": "You're Italian, ___?",
+    "options": [
+      "aren't you",
+      "isn't it",
+      "are you",
+      "don't you"
+    ],
+    "correctIndex": 0,
+    "explanation": "Positive sentence → negative tag: 'You're Italian, aren't you?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "7a72dcba2a69",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Rafael nadal is the best tennis player in history, isn't he?",
+      "Rafael Nadal is the best tennis player in history, isn't he?",
+      "Rafael Nadal are the best tennis player in history, isn't he?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'Rafael Nadal is the best tennis player in history, isn't he?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "582456a3e986",
+    "question": "You ___ be born rich to be a millionaire. Many millionaires started with nothing.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' means it's not necessary. 'Mustn't' would mean it's forbidden.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "82186e9dcb61",
+    "question": "Complete the sentence: He's such ___ — he always has an answer for everything.",
+    "options": [
+      "a blessing in disguise",
+      "back to basics",
+      "give a good account of yourself",
+      "a know-it-all"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a know-it-all' — всезнайка. Example: He's such a know-it-all — he always has an answer for everything.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "7ea7f627da10",
+    "question": "Choose the correct word for: 'попробовать (разг.)'",
+    "options": [
+      "go (give it a go)",
+      "What I'm trying to say is…",
+      "It's too … (for someone)",
+      "rule"
+    ],
+    "correctIndex": 0,
+    "explanation": "'go (give it a go)' means 'попробовать (разг.)'. Example: I wonder what would happen if I give that a go.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "5d4cf4704242",
+    "question": "Complete the sentence: I ___ why the sky is blue.",
+    "options": [
+      "mother tongue",
+      "face-to-face learning",
+      "way of life",
+      "wonder"
+    ],
+    "correctIndex": 3,
+    "explanation": "'wonder' means удивляться, интересоваться. Full sentence: I wonder why the sky is blue.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "177712f4d02f",
+    "question": "Choose the correct phrase for: '…, хорошо? / …, да?'",
+    "options": [
+      "If I'm …ed, I usually …",
+      "… a lot / much / far + comparative",
+      "…, will you?",
+      "One of the things I like about my lifestyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "'…, will you?' — …, хорошо? / …, да?. Example: You won't forget, will you?",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "52864c798285",
+    "question": "Complete the sentence: We ___ed the problem for hours.",
+    "options": [
+      "go according to plan",
+      "Do you think I could …?",
+      "take responsibility",
+      "discuss"
+    ],
+    "correctIndex": 3,
+    "explanation": "'discuss' means обсуждать. Full sentence: We discussed the problem for hours.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "43f7f3441a1a",
+    "question": "He isn't a doctor, ___?",
+    "options": [
+      "isn't he",
+      "is he",
+      "does he",
+      "doesn't he"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negative sentence → positive tag: 'He isn't a doctor, is he?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "6aba0447f05b",
+    "question": "Complete the sentence: I'm not sure yet. ___.",
+    "options": [
+      "Let me have a look.",
+      "Let me get back to you",
+      "The best thing about… is that…",
+      "One of the most memorable moments in my life was …"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Let me get back to you' — Я свяжусь с тобой позже. Full sentence: I'm not sure yet. Let me get back to you.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "5ad336424efe",
+    "question": "Complete the sentence: These people have to be ___ and motivated.",
+    "options": [
+      "I just cook supper and watch TV",
+      "What makes it special is…",
+      "theft",
+      "hard-working"
+    ],
+    "correctIndex": 3,
+    "explanation": "'hard-working' means трудолюбивый. Full sentence: These people have to be hard-working and motivated.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  }
+]

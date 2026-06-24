@@ -1,0 +1,181 @@
+[
+  {
+    "id": "31b7660943d9",
+    "question": "Complete the sentence: Cinderella is my favourite ___.",
+    "options": [
+      "I was so … when …",
+      "fairy tale",
+      "audience",
+      "So you're saying…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'fairy tale' means сказка. Full sentence: Cinderella is my favourite fairy tale.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "19a99bdf8298",
+    "question": "Choose the correct phrase for: 'Я пытаюсь сказать, что…'",
+    "options": [
+      "I'd probably choose…",
+      "They'd need to be able to…",
+      "What I'm trying to say is…",
+      "You're joking!"
+    ],
+    "correctIndex": 2,
+    "explanation": "'What I'm trying to say is…' — Я пытаюсь сказать, что…. Example: What I'm trying to say is that we need more practical experience.",
+    "relatedRuleIds": [
+      "are-you-qualified"
+    ]
+  },
+  {
+    "id": "ad9e5d9b0f97",
+    "question": "Complete the sentence: I saw the film ___.",
+    "options": [
+      "It's not as … as …",
+      "get on with someone",
+      "on my own",
+      "One of the things I like about my lifestyle"
+    ],
+    "correctIndex": 2,
+    "explanation": "'on my own' — самостоятельно, один. Full sentence: I saw the film on my own.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "9669934f68e8",
+    "question": "Which sentence is correct?",
+    "options": [
+      "What you do mean by 'intelligent'?",
+      "What do you mean by 'intelligent'?",
+      "What do you mean by 'intelligent'?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'What do you mean by 'intelligent'?'",
+    "relatedRuleIds": [
+      "are-you-qualified"
+    ]
+  },
+  {
+    "id": "d03fc68c1ff4",
+    "question": "Complete the sentence: Many villages still have no access to ___.",
+    "options": [
+      "People there…",
+      "electricity",
+      "I'm proud of…",
+      "Do you know if …?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'electricity' means электричество. Full sentence: Many villages still have no access to electricity.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "d644834ddc1d",
+    "question": "Choose the correct phrase for: 'Боюсь, что не могу.'",
+    "options": [
+      "The problem was that...",
+      "Things have changed — now I…",
+      "What could be better than …?",
+      "I'm afraid I can't."
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'm afraid I can't.' — Боюсь, что не могу.. Example: I'm afraid I can't give you a refund.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "c5fadc7a73c4",
+    "question": "Choose the correct phrase for: 'Это достаточно …'",
+    "options": [
+      "…, which means that…",
+      "It's … enough",
+      "Bad news, I'm afraid.",
+      "In the end, …"
+    ],
+    "correctIndex": 1,
+    "explanation": "'It's … enough' — Это достаточно …. Example: Is the internet connection fast enough for video calls?",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "1f6ea7244637",
+    "question": "Complete the sentence: The company provides on-the-job ___.",
+    "options": [
+      "annoyed",
+      "social networking",
+      "repair",
+      "training"
+    ],
+    "correctIndex": 3,
+    "explanation": "'training' means обучение, подготовка. Full sentence: The company provides on-the-job training.",
+    "relatedRuleIds": [
+      "are-you-qualified"
+    ]
+  },
+  {
+    "id": "5fff3439c901",
+    "question": "Complete the sentence: Don't ___ on your qualifications — get proper training.",
+    "options": [
+      "cut corners",
+      "not my cup of tea",
+      "get on like a house on fire",
+      "hit the jackpot"
+    ],
+    "correctIndex": 0,
+    "explanation": "'cut corners' — делать кое-как. Example: Don't cut corners on your qualifications — get proper training.",
+    "relatedRuleIds": [
+      "are-you-qualified"
+    ]
+  },
+  {
+    "id": "06930b0caf1a",
+    "question": "Choose the correct word for: 'зависать (об экране)'",
+    "options": [
+      "freeze (computer)",
+      "do someone a favour",
+      "jump a queue",
+      "in the next thirty years"
+    ],
+    "correctIndex": 0,
+    "explanation": "'freeze (computer)' means 'зависать (об экране)'. Example: The screen froze and nothing worked.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "c4db40e7576d",
+    "question": "This tablet is not ___ the old model.",
+    "options": [
+      "as good as",
+      "gooder than",
+      "more good than",
+      "as good like"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use '(not) as + adjective + as' to compare two things: 'not as good as'.",
+    "relatedRuleIds": [
+      "low-tech-solutions"
+    ]
+  },
+  {
+    "id": "3b6757543d5d",
+    "question": "Complete the sentence: She has ten years of teaching ___.",
+    "options": [
+      "I'm going to…",
+      "experience",
+      "I'm not sure about that",
+      "annoyed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'experience' means опыт. Full sentence: She has ten years of teaching experience.",
+    "relatedRuleIds": [
+      "are-you-qualified"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "lessonId": "design-a-community",
+  "title": "Design a community — новые слова",
+  "items": [
+    { "term": "government", "translation": "правительство", "example": "The community would have a simple government." },
+    { "term": "law", "translation": "закон", "example": "There would be laws to protect the environment." },
+    { "term": "custom", "translation": "обычай", "example": "New customs would bring people together." },
+    { "term": "facility", "translation": "объект, удобство", "example": "The community would have sports facilities." },
+    { "term": "community centre", "translation": "общественный центр", "example": "Ideally, there would be a community centre." },
+    { "term": "public transport", "translation": "общественный транспорт", "example": "There would be free public transport." },
+    { "term": "renewable energy", "translation": "возобновляемая энергия", "example": "The community would use renewable energy." },
+    { "term": "environmentally-friendly", "translation": "экологичный", "example": "All buildings would be environmentally-friendly." },
+    { "term": "population", "translation": "население", "example": "The population of the community would be small." },
+    { "term": "global warming", "translation": "глобальное потепление", "example": "The community would be designed to fight global warming." },
+    { "term": "rule", "translation": "правило", "example": "There would be simple rules that everyone follows." },
+    { "term": "shared resources", "translation": "общие ресурсы", "example": "People would share resources like tools and food." }
+  ]
+}

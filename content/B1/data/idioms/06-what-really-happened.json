@@ -1,0 +1,9 @@
+{
+  "lessonId": "what-really-happened",
+  "title": "What really happened — идиомы",
+  "items": [
+    { "idiom": "the whole story", "translation": "вся история/правда", "example": "The newspaper didn't tell the whole story." },
+    { "idiom": "break the news", "translation": "сообщить новость", "example": "The reporter broke the news about the resignation." },
+    { "idiom": "old news", "translation": "старая новость, уже не актуально", "example": "That scandal is old news now." }
+  ]
+}

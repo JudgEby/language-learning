@@ -1,0 +1,15 @@
+{
+  "lessonId": "thats-great-news",
+  "title": "That's great news! — фразы",
+  "items": [
+    { "phrase": "I've got some good news (for you).", "translation": "У меня есть хорошие новости (для тебя).", "example": "I've got some good news — I passed my exam!" },
+    { "phrase": "I'm sorry to have to tell you, but …", "translation": "Мне жаль сообщать, но …", "example": "I'm sorry to have to tell you, but we lost the match." },
+    { "phrase": "Bad news, I'm afraid.", "translation": "Плохие новости, боюсь.", "example": "Bad news, I'm afraid — the flight has been cancelled." },
+    { "phrase": "You'll never guess what!", "translation": "Ни за что не угадаешь!", "example": "You'll never guess what — I was promoted!" },
+    { "phrase": "That's fantastic! / That's amazing!", "translation": "Это фантастика! / Потрясающе!", "example": "You've won? That's amazing! Well done!" },
+    { "phrase": "I'm really sorry to hear that.", "translation": "Мне очень жаль это слышать.", "example": "You lost your job? I'm really sorry to hear that." },
+    { "phrase": "That's a shame. / That's awful.", "translation": "Как жаль. / Это ужасно.", "example": "Oh no, that's awful! Are you OK?" },
+    { "phrase": "Congratulations! / Well done!", "translation": "Поздравляю! / Молодец!", "example": "You got the job? Congratulations! I'm so pleased for you." },
+    { "phrase": "You must be delighted.", "translation": "Ты, должно быть, счастлив.", "example": "You passed with flying colours! You must be delighted!" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "lessonId": "tell-me-about-yourself",
+  "title": "Tell me about yourself — фразы",
+  "items": [
+    { "phrase": "In my opinion...", "translation": "По моему мнению...", "example": "In my opinion, you need to be well-prepared for any interview." },
+    { "phrase": "I'd have to say...", "translation": "Должен сказать...", "example": "I'd have to say that teamwork is the most important skill." },
+    { "phrase": "One thing I'd like to say is...", "translation": "Одна вещь, которую я хотел бы сказать...", "example": "One thing I'd like to say is that online courses are more difficult." },
+    { "phrase": "For me the most important thing is...", "translation": "Для меня самое важное — это...", "example": "For me the most important thing is to enjoy what I do." },
+    { "phrase": "Go ahead", "translation": "Пожалуйста, продолжайте / Давайте", "example": "Can I ask a question? Sure, go ahead." },
+    { "phrase": "That's right", "translation": "Верно", "example": "So you live at 106 West Smith Road? That's right." },
+    { "phrase": "I see", "translation": "Понимаю", "example": "I couldn't come because I was ill. I see." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "lessonId": "feeling-stressed",
+  "title": "Feeling stressed? — идиомы",
+  "items": [
+    { "idiom": "get on someone's nerves", "translation": "действовать на нервы", "example": "That constant tapping is getting on my nerves." },
+    { "idiom": "blow off steam", "translation": "выпускать пар, снимать напряжение", "example": "I went for a run to blow off steam." },
+    { "idiom": "on edge", "translation": "на взводе, в напряжении", "example": "I've been on edge all day because of the interview." },
+    { "idiom": "take it easy", "translation": "относиться проще, не напрягаться", "example": "You've been working too hard — take it easy this weekend." },
+    { "idiom": "keep your cool", "translation": "сохранять спокойствие", "example": "Even when things go wrong, try to keep your cool." }
+  ]
+}

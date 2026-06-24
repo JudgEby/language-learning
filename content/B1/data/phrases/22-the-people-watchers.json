@@ -1,0 +1,14 @@
+{
+  "lessonId": "the-people-watchers",
+  "title": "The People Watchers — фразы",
+  "items": [
+    { "phrase": "If I were you, I'd …", "translation": "На твоём месте я бы …", "example": "If I were you, I'd ask a lot of questions first." },
+    { "phrase": "What would you do if …?", "translation": "Что бы ты сделал(а), если бы …?", "example": "What would you do if you lost your keys?" },
+    { "phrase": "If I had more time, I'd …", "translation": "Если бы у меня было больше времени, я бы …", "example": "If I had more time, I'd learn to play the guitar." },
+    { "phrase": "… wouldn't … if …", "translation": "… не делал бы …, если бы …", "example": "I wouldn't worry if I were you." },
+    { "phrase": "Would you … if …?", "translation": "Вы бы …, если бы …?", "example": "Would you tell the police if you saw a crime?" },
+    { "phrase": "If I could … I'd …", "translation": "Если бы я мог …, я бы …", "example": "If I could speak perfect English, I'd move to London." },
+    { "phrase": "What if …?", "translation": "А что если …?", "example": "What if you won the lottery?" },
+    { "phrase": "I'd … if I got the chance", "translation": "Я бы …, если бы представилась возможность", "example": "I'd travel the world if I got the chance." }
+  ]
+}

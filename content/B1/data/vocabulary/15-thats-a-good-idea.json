@@ -1,0 +1,16 @@
+{
+  "lessonId": "thats-a-good-idea",
+  "title": "That's a good idea — новые слова",
+  "items": [
+    { "term": "run a company", "translation": "управлять компанией", "example": "Do you know anyone who runs their own company?" },
+    { "term": "be in charge of", "translation": "быть ответственным за", "example": "My boss is in charge of the whole marketing department." },
+    { "term": "go for an interview", "translation": "ходить на собеседование", "example": "When did you last go for a job interview?" },
+    { "term": "compete for a job", "translation": "конкурировать за работу", "example": "More than a hundred people had to compete for a single job." },
+    { "term": "earn a salary", "translation": "получать зарплату", "example": "Which jobs earn a high salary?" },
+    { "term": "get fired", "translation": "быть уволенным", "example": "If you arrive late every day, you might get fired." },
+    { "term": "out of work", "translation": "без работы", "example": "How long have you been out of work?" },
+    { "term": "fail (a business)", "translation": "провалиться, обанкротиться", "example": "Many businesses fail in their first year." },
+    { "term": "make a decision", "translation": "принять решение", "example": "We need to make a decision about the name." },
+    { "term": "come up with an idea", "translation": "придумать идею", "example": "Try to come up with as many ideas as possible." }
+  ]
+}

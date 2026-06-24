@@ -1,0 +1,18 @@
+{
+  "lessonId": "online-communities",
+  "title": "Online communities — новые слова",
+  "items": [
+    { "term": "website", "translation": "веб-сайт", "example": "I run a website about travel." },
+    { "term": "forum", "translation": "форум", "example": "There's a forum where people discuss books." },
+    { "term": "member", "translation": "участник, член", "example": "She is a member of several online groups." },
+    { "term": "upload", "translation": "загружать", "example": "You can upload photos to the site." },
+    { "term": "download", "translation": "скачивать", "example": "I downloaded the app yesterday." },
+    { "term": "comment", "translation": "комментарий / комментировать", "example": "Please leave a comment below the video." },
+    { "term": "social networking", "translation": "социальная сеть", "example": "Facebook was one of the first social networking sites." },
+    { "term": "search engine", "translation": "поисковая система", "example": "Google is the most popular search engine." },
+    { "term": "blog", "translation": "блог", "example": "He writes a blog about photography." },
+    { "term": "rating site", "translation": "сайт с рейтингами / отзывами", "example": "I use rating sites to choose restaurants." },
+    { "term": "news site", "translation": "новостной сайт", "example": "I check the news site every morning." },
+    { "term": "followers", "translation": "подписчики", "example": "She has over two thousand followers on Instagram." }
+  ]
+}

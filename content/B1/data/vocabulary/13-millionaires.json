@@ -1,0 +1,16 @@
+{
+  "lessonId": "millionaires",
+  "title": "Millionaires — новые слова",
+  "items": [
+    { "term": "hard-working", "translation": "трудолюбивый", "example": "These people have to be hard-working and motivated." },
+    { "term": "ambitious", "translation": "амбициозный", "example": "He is very ambitious and wants to be successful." },
+    { "term": "competitive", "translation": "конкурентный, соревновательный", "example": "He's very competitive and hates to lose." },
+    { "term": "motivated", "translation": "мотивированный", "example": "They are a group of very motivated students." },
+    { "term": "a risk taker", "translation": "человек, склонный к риску", "example": "Being a racing driver, Anton has to be a risk taker." },
+    { "term": "a good leader", "translation": "хороший лидер", "example": "She's a very good leader who listens to people." },
+    { "term": "indecisive", "translation": "нерешительный", "example": "I find it difficult to make decisions. I'm a bit indecisive." },
+    { "term": "creative", "translation": "креативный", "example": "We need to be creative and think outside the box." },
+    { "term": "think outside the box", "translation": "мыслить нестандартно", "example": "In this job you need to think outside the box." },
+    { "term": "a good communicator", "translation": "хороший коммуникатор", "example": "He is a good communicator, so people enjoy listening to him." }
+  ]
+}

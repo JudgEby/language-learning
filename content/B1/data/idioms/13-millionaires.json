@@ -1,0 +1,21 @@
+{
+  "lessonId": "millionaires",
+  "title": "Millionaires — идиомы",
+  "items": [
+    {
+      "idiom": "make a fortune",
+      "translation": "сделать состояние",
+      "example": "He made a fortune investing in technology stocks when they were cheap."
+    },
+    {
+      "idiom": "born with a silver spoon in your mouth",
+      "translation": "родиться в богатой семье",
+      "example": "She worked hard for everything — she was not born with a silver spoon in her mouth."
+    },
+    {
+      "idiom": "cost an arm and a leg",
+      "translation": "стоить целое состояние",
+      "example": "Their new house must have cost an arm and a leg."
+    }
+  ]
+}

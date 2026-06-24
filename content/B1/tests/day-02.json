@@ -1,0 +1,182 @@
+[
+  {
+    "id": "919a1e7da900",
+    "question": "Choose the correct word for: 'жених / невеста'",
+    "options": [
+      "make the headlines",
+      "programme (a machine)",
+      "That's a good point",
+      "fiancé / fiancée"
+    ],
+    "correctIndex": 3,
+    "explanation": "'fiancé / fiancée' means 'жених / невеста'. Example: This is Marianna, my fiancée. We're getting married next year.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "f791017d86ae",
+    "question": "Complete the sentence: I hope I don't ___ when I'm thirty!",
+    "options": [
+      "We've been friends for…",
+      "He has a talent for…",
+      "go grey",
+      "What are you doing…?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'go grey' — поседеть. Full sentence: I hope I don't go grey when I'm thirty!",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "d9501541101f",
+    "question": "Choose the correct idiom for: 'быстро найти общий язык'",
+    "options": [
+      "a fly on the wall",
+      "have what it takes",
+      "close to my heart",
+      "get on like a house on fire"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get on like a house on fire' — быстро найти общий язык. Example: We met at the party and got on like a house on fire.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "dbccb6c3b0af",
+    "question": "Choose the correct word for: 'крёстный отец / крёстная мать'",
+    "options": [
+      "In other words, …",
+      "headline",
+      "subscribe",
+      "godfather / godmother"
+    ],
+    "correctIndex": 3,
+    "explanation": "'godfather / godmother' means 'крёстный отец / крёстная мать'. Example: My father asked his best friend to be my godfather.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "9ea0e9ad49b3",
+    "question": "Complete the sentence: Teenagers often use ___ that older people don't understand.",
+    "options": [
+      "theft",
+      "slang",
+      "hopeless",
+      "three words that describe me would be"
+    ],
+    "correctIndex": 1,
+    "explanation": "'slang' means сленг. Full sentence: Teenagers often use slang that older people don't understand.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "426eaeffb3e7",
+    "question": "Which sentence has the correct word order?",
+    "options": [
+      "What you are talking about?",
+      "What are you talking about?",
+      "What you talking about?",
+      "What are you talking about?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In wh- questions, we put the auxiliary verb before the subject: 'What are you talking about?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "24d9dafa70ae",
+    "question": "Complete the sentence: ___ your conversation class.",
+    "options": [
+      "It takes time to master…",
+      "I'd love to experience…",
+      "I'd love to join",
+      "So you're saying…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'd love to join' — Я бы с удовольствием присоединился. Full sentence: I'd love to join your conversation class.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "f52b9767749d",
+    "question": "Which sentence is correct?",
+    "options": [
+      "A btheby is crying, the dog is btherking.",
+      "A baby is crying, a dog is barking.",
+      "A baby are crying, a dog are barking.",
+      "A baby is crying, a dog is barking."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'A baby is crying, a dog is barking.'",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "682f082c9449",
+    "question": "I ___ him three weeks ago when I ___ for an internet café.",
+    "options": [
+      "met / was looking",
+      "was meeting / looked",
+      "have met / have looked",
+      "met / looked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Simple for the main event ('met'), Past Continuous for the background ('was looking').",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "686c09191767",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I am understanding the rules now.",
+      "I understand the rules now.",
+      "I understanding the rules now.",
+      "I have understand the rules now."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Understand' is a state verb — we don't use it in continuous forms.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "f458daec7585",
+    "question": "My neighbour has ___ cat. ___ cat is black and white.",
+    "options": [
+      "a / A",
+      "the / The",
+      "a / The",
+      "the / A"
+    ],
+    "correctIndex": 2,
+    "explanation": "First mention: 'a cat'. Second mention (known): 'the cat'.",
+    "relatedRuleIds": [
+      "neighbours"
+    ]
+  },
+  {
+    "id": "d456c620c21d",
+    "question": "She ___ three championships so far.",
+    "options": [
+      "has been winning",
+      "has won",
+      "is winning",
+      "wins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Focus on result/count ('three championships') → Present Perfect Simple.",
+    "relatedRuleIds": [
+      "the-secret-of-success"
+    ]
+  }
+]

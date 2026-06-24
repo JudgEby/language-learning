@@ -1,0 +1,181 @@
+[
+  {
+    "id": "c9ecd10fb1a1",
+    "question": "Complete the sentence: It's a ___ where everyone knows each other.",
+    "options": [
+      "on the blink",
+      "close-knit community",
+      "get down to business",
+      "pull yourself up by your bootstraps"
+    ],
+    "correctIndex": 1,
+    "explanation": "'close-knit community' — сплочённое сообщество. Example: It's a close-knit community where everyone knows each other.",
+    "relatedRuleIds": [
+      "remote-community"
+    ]
+  },
+  {
+    "id": "0ac5e5e3bbc5",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Anuta is one of the most remote communities on Earth.",
+      "Anutthe is one of the most remote communities on Etherth.",
+      "Anuta are one of the most remote communities on Earth.",
+      "Anuta is one of the most remote communities on Earth."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'Anuta is one of the most remote communities on Earth.'",
+    "relatedRuleIds": [
+      "remote-community"
+    ]
+  },
+  {
+    "id": "45a4eb869f36",
+    "question": "Choose the correct phrase for: 'Жизнь была бы лучше, если бы…'",
+    "options": [
+      "Life would be better if…",
+      "People there…",
+      "We will upload new videos…",
+      "It is likely to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Life would be better if…' — Жизнь была бы лучше, если бы…. Example: Life would be better if there was less traffic.",
+    "relatedRuleIds": [
+      "design-a-community"
+    ]
+  },
+  {
+    "id": "643f69167882",
+    "question": "Complete the sentence: The community would use ___.",
+    "options": [
+      "get on well with",
+      "chill out",
+      "mother tongue",
+      "renewable energy"
+    ],
+    "correctIndex": 3,
+    "explanation": "'renewable energy' means возобновляемая энергия. Full sentence: The community would use renewable energy.",
+    "relatedRuleIds": [
+      "design-a-community"
+    ]
+  },
+  {
+    "id": "6fdb3aa8b128",
+    "question": "If I ___ you, I ___ about her age.",
+    "options": [
+      "were / wouldn't worry",
+      "was / won't worry",
+      "am / wouldn't worry",
+      "would be / didn't worry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Second conditional: 'If I were you, I wouldn't worry' — unreal present situation.",
+    "relatedRuleIds": [
+      "design-a-community"
+    ]
+  },
+  {
+    "id": "79f016325021",
+    "question": "Which sentence is correct?",
+    "options": [
+      "What laws would there be? — everyone would follow the same rules.",
+      "What laws would there be? — Everyone would follow the same rules.",
+      "What laws would there be? — Everyone would follow the same rules."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'What laws would there be? — Everyone would follow the same rules.'",
+    "relatedRuleIds": [
+      "design-a-community"
+    ]
+  },
+  {
+    "id": "b2f1842b4002",
+    "question": "Complete the sentence: In our community, everyone helps with childcare — ___.",
+    "options": [
+      "it takes a village to raise a child",
+      "a shoulder to cry on",
+      "old news",
+      "cry wolf"
+    ],
+    "correctIndex": 0,
+    "explanation": "'it takes a village to raise a child' — весь мир помогает растить ребёнка. Example: In our community, everyone helps with childcare — it takes a village to raise a child.",
+    "relatedRuleIds": [
+      "design-a-community"
+    ]
+  },
+  {
+    "id": "9e8f84462254",
+    "question": "Choose the correct phrase for: 'Люди известны тем, что…'",
+    "options": [
+      "What could be easier?",
+      "It was quite a challenge.",
+      "The people are known for…",
+      "The next thing I knew"
+    ],
+    "correctIndex": 2,
+    "explanation": "'The people are known for…' — Люди известны тем, что…. Example: The people are known for their hospitality.",
+    "relatedRuleIds": [
+      "remote-community"
+    ]
+  },
+  {
+    "id": "3c1058a2ea01",
+    "question": "Choose the correct word for: 'связывать вместе'",
+    "options": [
+      "I'm going to…",
+      "apprenticeship",
+      "That's a good idea",
+      "bind together"
+    ],
+    "correctIndex": 3,
+    "explanation": "'bind together' means 'связывать вместе'. Example: Shared customs bind the community together.",
+    "relatedRuleIds": [
+      "remote-community"
+    ]
+  },
+  {
+    "id": "40ec45e7d428",
+    "question": "Complete the sentence: Their traditional ___ is changing.",
+    "options": [
+      "sensation",
+      "way of life",
+      "I get on well with…",
+      "con artist"
+    ],
+    "correctIndex": 1,
+    "explanation": "'way of life' means образ жизни. Full sentence: Their traditional way of life is changing.",
+    "relatedRuleIds": [
+      "remote-community"
+    ]
+  },
+  {
+    "id": "e2ee3a4112e7",
+    "question": "Complete the sentence: 90% of the ___ on YouTube is terrible.",
+    "options": [
+      "The reason why… is…",
+      "urban myth",
+      "content",
+      "reach a goal"
+    ],
+    "correctIndex": 2,
+    "explanation": "'content' means контент, содержание. Full sentence: 90% of the content on YouTube is terrible.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "250ada8c25a0",
+    "question": "Choose the correct word for: 'пожениться'",
+    "options": [
+      "get married",
+      "wonder",
+      "peaceful",
+      "be on the run"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get married' means 'пожениться'. Example: My sister got married in a beautiful church.",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  }
+]

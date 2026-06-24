@@ -1,0 +1,181 @@
+[
+  {
+    "id": "bee60e7cc080",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Do you know if there's another cash machine somewhere?",
+      "Do you know if there's another cash machine somewhere?",
+      "You do know if there's another cash machine somewhere?"
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'Do you know if there's another cash machine somewhere?'",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "2bb24d468145",
+    "question": "Complete the sentence: We need to be ___ and think outside the box.",
+    "options": [
+      "creative",
+      "One of the things I like about my lifestyle",
+      "It's a place where…",
+      "It's too … (for someone)"
+    ],
+    "correctIndex": 0,
+    "explanation": "'creative' means креативный. Full sentence: We need to be creative and think outside the box.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "2a3e1c1796e7",
+    "question": "A: 'The phone is ringing!' B: 'I ___ it!'",
+    "options": [
+      "'m going to get",
+      "get",
+      "will get",
+      "'m getting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "428231706d6b",
+    "question": "Choose the correct phrase for: 'Чем занимаешься? / Какие планы?'",
+    "options": [
+      "That's a good point",
+      "I'd recommend it to anyone who…",
+      "What are you up to?",
+      "Do you mean to say…?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'What are you up to?' — Чем занимаешься? / Какие планы?. Example: Hi, what are you up to this evening?",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "90b243bb68e8",
+    "question": "Choose the correct idiom for: 'работать отлично'",
+    "options": [
+      "put your best foot forward",
+      "go the extra mile",
+      "blow off steam",
+      "work like a charm"
+    ],
+    "correctIndex": 3,
+    "explanation": "'work like a charm' — работать отлично. Example: I fixed it with some tape and it worked like a charm.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "5ce23e6e3d80",
+    "question": "Choose the correct word for: 'зависать (об экране)'",
+    "options": [
+      "I've always wanted to…",
+      "technology",
+      "freeze (computer)",
+      "have the opportunity"
+    ],
+    "correctIndex": 2,
+    "explanation": "'freeze (computer)' means 'зависать (об экране)'. Example: The screen froze and nothing worked.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "55c5f73e9317",
+    "question": "Choose the correct phrase for: 'Боюсь, что не могу.'",
+    "options": [
+      "What I like about… is…",
+      "Bad news, I'm afraid.",
+      "I'm afraid I can't.",
+      "Why don't we…?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'm afraid I can't.' — Боюсь, что не могу.. Example: I'm afraid I can't give you a refund.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "18e1f3439750",
+    "question": "Complete the sentence: The situation seemed ___, but they didn't give up.",
+    "options": [
+      "It's as … as …",
+      "Having said that…",
+      "Could you …?",
+      "hopeless"
+    ],
+    "correctIndex": 3,
+    "explanation": "'hopeless' means безнадёжный (-less). Full sentence: The situation seemed hopeless, but they didn't give up.",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "43f7f3441a1a",
+    "question": "He isn't a doctor, ___?",
+    "options": [
+      "isn't he",
+      "is he",
+      "does he",
+      "doesn't he"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negative sentence → positive tag: 'He isn't a doctor, is he?'",
+    "relatedRuleIds": [
+      "ask-the-experts"
+    ]
+  },
+  {
+    "id": "09f49306d397",
+    "question": "Which is the most polite request?",
+    "options": [
+      "Help me!",
+      "Can you help me?",
+      "Would you mind helping me?",
+      "You should help me."
+    ],
+    "correctIndex": 2,
+    "explanation": "'Would you mind + -ing' is the most polite form of request.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "041655d409e3",
+    "question": "Complete the sentence: I need to ___ my phone screen.",
+    "options": [
+      "fix",
+      "in the next thirty years",
+      "art thief",
+      "make arrangements"
+    ],
+    "correctIndex": 0,
+    "explanation": "'fix' means чинить, исправлять. Full sentence: I need to fix my phone screen.",
+    "relatedRuleIds": [
+      "its-out-of-order"
+    ]
+  },
+  {
+    "id": "741113ad0857",
+    "question": "Choose the correct phrase for: 'Я думаю, это хорошая идея —…'",
+    "options": [
+      "I'd love to join",
+      "by hand",
+      "In other words, …",
+      "I think it's a good idea to…"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I think it's a good idea to…' — Я думаю, это хорошая идея —…. Example: I think it's a good idea to invest your money wisely.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  }
+]

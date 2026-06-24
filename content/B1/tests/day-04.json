@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3c4f64fe8a94",
+    "question": "Complete the sentence: ___ about the university before the interview.",
+    "options": [
+      "godfather / godmother",
+      "You mustn't…",
+      "do some research",
+      "Having said that…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'do some research' means провести небольшое исследование. Full sentence: Do some research about the university before the interview.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "66e5c7d83fa1",
+    "question": "Choose the correct phrase for: 'оказать услугу'",
+    "options": [
+      "do someone a favour",
+      "picked up",
+      "You mustn't…",
+      "I get on well with…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'do someone a favour' — оказать услугу. Example: Can you do me a favour and help me with this test?",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "2bf00eff3cb3",
+    "question": "Complete the sentence: His later paintings are ___ and full of impact.",
+    "options": [
+      "edgy",
+      "I find … relaxing",
+      "The problem was that...",
+      "Before long"
+    ],
+    "correctIndex": 0,
+    "explanation": "'edgy' means острый, дерзкий, авангардный. Full sentence: His later paintings are edgy and full of impact.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "686c09191767",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I am understanding the rules now.",
+      "I understand the rules now.",
+      "I understanding the rules now.",
+      "I have understand the rules now."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Understand' is a state verb — we don't use it in continuous forms.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "75fd59930747",
+    "question": "Complete the sentence: ___ the course.",
+    "options": [
+      "It's … enough",
+      "You'll never guess what!",
+      "There are a couple of things I'd like to ask about",
+      "What I'm trying to say is…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'There are a couple of things I'd like to ask about' — Есть пара вещей, о которых я хотел бы спросить. Full sentence: There are a couple of things I'd like to ask about the course.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "31170d3779c2",
+    "question": "Complete the sentence: What is your greatest ___ in life?",
+    "options": [
+      "achievement",
+      "I'll see how I feel",
+      "talent",
+      "a good communicator"
+    ],
+    "correctIndex": 0,
+    "explanation": "'achievement' means достижение. Full sentence: What is your greatest achievement in life?",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "0c41e6962616",
+    "question": "Complete the sentence: His grammar is good, but he needs to work on ___.",
+    "options": [
+      "You must be delighted.",
+      "population",
+      "accuracy",
+      "Laughter is the best medicine"
+    ],
+    "correctIndex": 2,
+    "explanation": "'accuracy' means точность, правильность. Full sentence: His grammar is good, but he needs to work on accuracy.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "1d4d4e3c0908",
+    "question": "Which sentence is correct?",
+    "options": [
+      "One of the things I like thebout my lifestyle is the flexibility of remote work.",
+      "One of the things I like about my lifestyle is the flexibility of remote work.",
+      "One of the things I like about my lifestyle is the flexibility of remote work.",
+      "One of the things I like about my lifestyle are the flexibility of remote work."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'One of the things I like about my lifestyle is the flexibility of remote work.'",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "c3a3f6a21bf7",
+    "question": "Complete the sentence: ___ is spending time with family.",
+    "options": [
+      "What are you doing…?",
+      "my idea of perfect happiness",
+      "… a little / slightly + comparative",
+      "That's a good point"
+    ],
+    "correctIndex": 1,
+    "explanation": "'my idea of perfect happiness' — моё представление об идеальном счастье. Full sentence: My idea of perfect happiness is spending time with family.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "f44b6f38f145",
+    "question": "Choose the correct word for: 'одноклассники'",
+    "options": [
+      "on business",
+      "believe in yourself",
+      "confused",
+      "classmates"
+    ],
+    "correctIndex": 3,
+    "explanation": "'classmates' means 'одноклассники'. Example: Dave is my classmate. We're both in Year 12.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "426eaeffb3e7",
+    "question": "Which sentence has the correct word order?",
+    "options": [
+      "What you are talking about?",
+      "What are you talking about?",
+      "What you talking about?",
+      "What are you talking about?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In wh- questions, we put the auxiliary verb before the subject: 'What are you talking about?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "e1fbda24c01f",
+    "question": "Choose the correct idiom for: 'видеть мир чьими-то глазами'",
+    "options": [
+      "old news",
+      "pull off a heist",
+      "see the world through someone's eyes",
+      "a fly on the wall"
+    ],
+    "correctIndex": 2,
+    "explanation": "'see the world through someone's eyes' — видеть мир чьими-то глазами. Example: Sargy Mann's paintings help us see the world through his eyes.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  }
+]

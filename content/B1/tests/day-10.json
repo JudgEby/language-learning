@@ -1,0 +1,182 @@
+[
+  {
+    "id": "025b97e249b4",
+    "question": "Choose the correct phrase for: 'Я не уверен, но…'",
+    "options": [
+      "I think it's a good idea to…",
+      "I wasn't able to…",
+      "I'm not sure, but…",
+      "I'd go for a place that…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'm not sure, but…' — Я не уверен, но…. Example: I'm not sure, but I think robots will do most jobs.",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "21842cfd72c1",
+    "question": "Complete the sentence: ___, 3D printers will make copies of body parts.",
+    "options": [
+      "PhD",
+      "reply",
+      "in the long term",
+      "go (give it a go)"
+    ],
+    "correctIndex": 2,
+    "explanation": "'in the long term' means в долгосрочной перспективе. Full sentence: In the long term, 3D printers will make copies of body parts.",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "50d126a0d424",
+    "question": "Complete the sentence: The headset could come onto the market ___.",
+    "options": [
+      "in a year or two",
+      "The way I see it…",
+      "confusing",
+      "victory"
+    ],
+    "correctIndex": 0,
+    "explanation": "'in a year or two' means через год-два. Full sentence: The headset could come onto the market in a year or two.",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "049b89247340",
+    "question": "Choose the correct phrase for: 'услышать новость'",
+    "options": [
+      "I used to…",
+      "hear the news",
+      "I've got some good news (for you).",
+      "All of a sudden, …"
+    ],
+    "correctIndex": 1,
+    "explanation": "'hear the news' — услышать новость. Example: I heard the news about the accident on the radio.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "7f8763ff2393",
+    "question": "Which sentence is correct?",
+    "options": [
+      "Tower blocks or skyscrapers will have gardens built into them.",
+      "Tower blocks and skyscrapers will have gardens built into them.",
+      "Tower blocks and skyscrapers will has gardens built into them.",
+      "Tower blocks thend skyscrthepers will htheve gtherdens built into them."
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct option is: 'Tower blocks and skyscrapers will have gardens built into them.'",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "c3cfda5a01f5",
+    "question": "___ you ever ___ someone famous?",
+    "options": [
+      "Did / meet",
+      "Have / met",
+      "Have / meet",
+      "Did / met"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Ever' is a Present Perfect marker: 'Have you ever met someone famous?'",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "fabdc73993be",
+    "question": "Complete the sentence: ___ about living in a big city.",
+    "options": [
+      "The website which…",
+      "You must be delighted.",
+      "I suppose that's one thing I don't like",
+      "I'm really sorry to hear that."
+    ],
+    "correctIndex": 2,
+    "explanation": "'I suppose that's one thing I don't like' — Полагаю, это одна вещь, которая мне не нравится. Full sentence: I suppose that's one thing I don't like about living in a big city.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "e1b980bf2b35",
+    "question": "Complete the sentence: The theory of Everything is a ___ about Stephen Hawking.",
+    "options": [
+      "It's as … as …",
+      "race",
+      "the best / worst invention",
+      "biopic"
+    ],
+    "correctIndex": 3,
+    "explanation": "'biopic' means биографический фильм. Full sentence: The theory of Everything is a biopic about Stephen Hawking.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "91719386e3af",
+    "question": "Look at those dark clouds! It ___ rain.",
+    "options": [
+      "will",
+      "is going to",
+      "might",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Going to' is used for predictions based on present evidence (the clouds are visible now).",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  },
+  {
+    "id": "afe4ebe4bdbb",
+    "question": "Complete the sentence: An ___ described what happened.",
+    "options": [
+      "eyewitness",
+      "I managed to…",
+      "My childhood dream was to…",
+      "They'd need to be able to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'eyewitness' means очевидец. Full sentence: An eyewitness described what happened.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "9ca7479b6afc",
+    "question": "Complete the sentence: I'll do that ___.",
+    "options": [
+      "in a moment",
+      "What I mean is…",
+      "The next thing I knew",
+      "Life would be better if…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'in a moment' — через минуту. Full sentence: I'll do that in a moment.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "053699b165b6",
+    "question": "Choose the correct idiom for: 'попасть в точку'",
+    "options": [
+      "make a fortune",
+      "born with a silver spoon in your mouth",
+      "a know-it-all",
+      "hit the nail on the head"
+    ],
+    "correctIndex": 3,
+    "explanation": "'hit the nail on the head' — попасть в точку. Example: This hits the nail on the head: we will eradicate old illnesses, but new ones will develop.",
+    "relatedRuleIds": [
+      "tomorrows-world"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "lessonId": "man-versus-machine",
+  "title": "Man versus Machine — фразы",
+  "items": [
+    { "phrase": "I'm going to have a race against …", "translation": "Я собираюсь устроить гонку против …", "example": "James had a race against two freerunners." },
+    { "phrase": "The way it works is this.", "translation": "Работает это вот как.", "example": "The way it works is this: the pump is powered by children playing." },
+    { "phrase": "First of all, … then …", "translation": "Прежде всего, …, затем …", "example": "First of all, it prepares the ingredients, then it cooks them." },
+    { "phrase": "All you have to do is …", "translation": "Всё, что нужно сделать — это …", "example": "All you have to do is press the button." },
+    { "phrase": "The best thing about it is that …", "translation": "Самое лучшее в этом то, что …", "example": "The best thing about it is that you can save time." },
+    { "phrase": "It works like this.", "translation": "Работает это так.", "example": "It works like this: you put the ingredients in and close the lid." },
+    { "phrase": "Basically, …", "translation": "В общем, … / По сути, …", "example": "Basically, Robo-Chef can prepare and cook all your favourite recipes." },
+    { "phrase": "What could be easier?", "translation": "Что может быть проще?", "example": "What could be easier than a machine that cooks for you?" }
+  ]
+}

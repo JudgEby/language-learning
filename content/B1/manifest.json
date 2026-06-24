@@ -1,0 +1,554 @@
+{
+  "level": "B1",
+  "title": "Speakout 2nd Edition Intermediate (B1)",
+  "source": {
+    "sb": "extract/SB.txt",
+    "wb": "extract/WB.txt"
+  },
+  "studyOrder": [
+    {
+      "type": "rule",
+      "id": "me-and-my-language"
+    },
+    {
+      "type": "vocabulary",
+      "id": "me-and-my-language"
+    },
+    {
+      "type": "phrases",
+      "id": "me-and-my-language"
+    },
+    {
+      "type": "idioms",
+      "id": "me-and-my-language"
+    },
+    {
+      "type": "rule",
+      "id": "same-or-different"
+    },
+    {
+      "type": "vocabulary",
+      "id": "same-or-different"
+    },
+    {
+      "type": "phrases",
+      "id": "same-or-different"
+    },
+    {
+      "type": "idioms",
+      "id": "same-or-different"
+    },
+    {
+      "type": "rule",
+      "id": "tell-me-about-yourself"
+    },
+    {
+      "type": "vocabulary",
+      "id": "tell-me-about-yourself"
+    },
+    {
+      "type": "phrases",
+      "id": "tell-me-about-yourself"
+    },
+    {
+      "type": "idioms",
+      "id": "tell-me-about-yourself"
+    },
+    {
+      "type": "rule",
+      "id": "the-blind-painter"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-blind-painter"
+    },
+    {
+      "type": "phrases",
+      "id": "the-blind-painter"
+    },
+    {
+      "type": "idioms",
+      "id": "the-blind-painter"
+    },
+    {
+      "type": "rule",
+      "id": "fact-or-fiction"
+    },
+    {
+      "type": "vocabulary",
+      "id": "fact-or-fiction"
+    },
+    {
+      "type": "phrases",
+      "id": "fact-or-fiction"
+    },
+    {
+      "type": "idioms",
+      "id": "fact-or-fiction"
+    },
+    {
+      "type": "rule",
+      "id": "what-really-happened"
+    },
+    {
+      "type": "vocabulary",
+      "id": "what-really-happened"
+    },
+    {
+      "type": "phrases",
+      "id": "what-really-happened"
+    },
+    {
+      "type": "idioms",
+      "id": "what-really-happened"
+    },
+    {
+      "type": "rule",
+      "id": "i-dont-believe-it"
+    },
+    {
+      "type": "vocabulary",
+      "id": "i-dont-believe-it"
+    },
+    {
+      "type": "phrases",
+      "id": "i-dont-believe-it"
+    },
+    {
+      "type": "idioms",
+      "id": "i-dont-believe-it"
+    },
+    {
+      "type": "rule",
+      "id": "hustle"
+    },
+    {
+      "type": "vocabulary",
+      "id": "hustle"
+    },
+    {
+      "type": "phrases",
+      "id": "hustle"
+    },
+    {
+      "type": "idioms",
+      "id": "hustle"
+    },
+    {
+      "type": "rule",
+      "id": "making-plans"
+    },
+    {
+      "type": "vocabulary",
+      "id": "making-plans"
+    },
+    {
+      "type": "phrases",
+      "id": "making-plans"
+    },
+    {
+      "type": "idioms",
+      "id": "making-plans"
+    },
+    {
+      "type": "rule",
+      "id": "tomorrows-world"
+    },
+    {
+      "type": "vocabulary",
+      "id": "tomorrows-world"
+    },
+    {
+      "type": "phrases",
+      "id": "tomorrows-world"
+    },
+    {
+      "type": "idioms",
+      "id": "tomorrows-world"
+    },
+    {
+      "type": "rule",
+      "id": "in-other-words"
+    },
+    {
+      "type": "vocabulary",
+      "id": "in-other-words"
+    },
+    {
+      "type": "phrases",
+      "id": "in-other-words"
+    },
+    {
+      "type": "idioms",
+      "id": "in-other-words"
+    },
+    {
+      "type": "rule",
+      "id": "youtube"
+    },
+    {
+      "type": "vocabulary",
+      "id": "youtube"
+    },
+    {
+      "type": "phrases",
+      "id": "youtube"
+    },
+    {
+      "type": "idioms",
+      "id": "youtube"
+    },
+    {
+      "type": "rule",
+      "id": "millionaires"
+    },
+    {
+      "type": "vocabulary",
+      "id": "millionaires"
+    },
+    {
+      "type": "phrases",
+      "id": "millionaires"
+    },
+    {
+      "type": "idioms",
+      "id": "millionaires"
+    },
+    {
+      "type": "rule",
+      "id": "dream-job"
+    },
+    {
+      "type": "vocabulary",
+      "id": "dream-job"
+    },
+    {
+      "type": "phrases",
+      "id": "dream-job"
+    },
+    {
+      "type": "idioms",
+      "id": "dream-job"
+    },
+    {
+      "type": "rule",
+      "id": "thats-a-good-idea"
+    },
+    {
+      "type": "vocabulary",
+      "id": "thats-a-good-idea"
+    },
+    {
+      "type": "phrases",
+      "id": "thats-a-good-idea"
+    },
+    {
+      "type": "idioms",
+      "id": "thats-a-good-idea"
+    },
+    {
+      "type": "rule",
+      "id": "gavin-and-stacey"
+    },
+    {
+      "type": "vocabulary",
+      "id": "gavin-and-stacey"
+    },
+    {
+      "type": "phrases",
+      "id": "gavin-and-stacey"
+    },
+    {
+      "type": "idioms",
+      "id": "gavin-and-stacey"
+    },
+    {
+      "type": "rule",
+      "id": "low-tech-solutions"
+    },
+    {
+      "type": "vocabulary",
+      "id": "low-tech-solutions"
+    },
+    {
+      "type": "phrases",
+      "id": "low-tech-solutions"
+    },
+    {
+      "type": "idioms",
+      "id": "low-tech-solutions"
+    },
+    {
+      "type": "rule",
+      "id": "ask-the-experts"
+    },
+    {
+      "type": "vocabulary",
+      "id": "ask-the-experts"
+    },
+    {
+      "type": "phrases",
+      "id": "ask-the-experts"
+    },
+    {
+      "type": "idioms",
+      "id": "ask-the-experts"
+    },
+    {
+      "type": "rule",
+      "id": "its-out-of-order"
+    },
+    {
+      "type": "vocabulary",
+      "id": "its-out-of-order"
+    },
+    {
+      "type": "phrases",
+      "id": "its-out-of-order"
+    },
+    {
+      "type": "idioms",
+      "id": "its-out-of-order"
+    },
+    {
+      "type": "rule",
+      "id": "man-versus-machine"
+    },
+    {
+      "type": "vocabulary",
+      "id": "man-versus-machine"
+    },
+    {
+      "type": "phrases",
+      "id": "man-versus-machine"
+    },
+    {
+      "type": "idioms",
+      "id": "man-versus-machine"
+    },
+    {
+      "type": "rule",
+      "id": "feeling-stressed"
+    },
+    {
+      "type": "vocabulary",
+      "id": "feeling-stressed"
+    },
+    {
+      "type": "phrases",
+      "id": "feeling-stressed"
+    },
+    {
+      "type": "idioms",
+      "id": "feeling-stressed"
+    },
+    {
+      "type": "rule",
+      "id": "the-people-watchers"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-people-watchers"
+    },
+    {
+      "type": "phrases",
+      "id": "the-people-watchers"
+    },
+    {
+      "type": "idioms",
+      "id": "the-people-watchers"
+    },
+    {
+      "type": "rule",
+      "id": "thats-great-news"
+    },
+    {
+      "type": "vocabulary",
+      "id": "thats-great-news"
+    },
+    {
+      "type": "phrases",
+      "id": "thats-great-news"
+    },
+    {
+      "type": "idioms",
+      "id": "thats-great-news"
+    },
+    {
+      "type": "rule",
+      "id": "my-worst-week"
+    },
+    {
+      "type": "vocabulary",
+      "id": "my-worst-week"
+    },
+    {
+      "type": "phrases",
+      "id": "my-worst-week"
+    },
+    {
+      "type": "idioms",
+      "id": "my-worst-week"
+    },
+    {
+      "type": "rule",
+      "id": "the-secret-of-success"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-secret-of-success"
+    },
+    {
+      "type": "phrases",
+      "id": "the-secret-of-success"
+    },
+    {
+      "type": "idioms",
+      "id": "the-secret-of-success"
+    },
+    {
+      "type": "rule",
+      "id": "the-memory-men"
+    },
+    {
+      "type": "vocabulary",
+      "id": "the-memory-men"
+    },
+    {
+      "type": "phrases",
+      "id": "the-memory-men"
+    },
+    {
+      "type": "idioms",
+      "id": "the-memory-men"
+    },
+    {
+      "type": "rule",
+      "id": "are-you-qualified"
+    },
+    {
+      "type": "vocabulary",
+      "id": "are-you-qualified"
+    },
+    {
+      "type": "phrases",
+      "id": "are-you-qualified"
+    },
+    {
+      "type": "idioms",
+      "id": "are-you-qualified"
+    },
+    {
+      "type": "rule",
+      "id": "andy-murray"
+    },
+    {
+      "type": "vocabulary",
+      "id": "andy-murray"
+    },
+    {
+      "type": "phrases",
+      "id": "andy-murray"
+    },
+    {
+      "type": "idioms",
+      "id": "andy-murray"
+    },
+    {
+      "type": "rule",
+      "id": "neighbours"
+    },
+    {
+      "type": "vocabulary",
+      "id": "neighbours"
+    },
+    {
+      "type": "phrases",
+      "id": "neighbours"
+    },
+    {
+      "type": "idioms",
+      "id": "neighbours"
+    },
+    {
+      "type": "rule",
+      "id": "online-communities"
+    },
+    {
+      "type": "vocabulary",
+      "id": "online-communities"
+    },
+    {
+      "type": "phrases",
+      "id": "online-communities"
+    },
+    {
+      "type": "idioms",
+      "id": "online-communities"
+    },
+    {
+      "type": "rule",
+      "id": "remote-community"
+    },
+    {
+      "type": "vocabulary",
+      "id": "remote-community"
+    },
+    {
+      "type": "phrases",
+      "id": "remote-community"
+    },
+    {
+      "type": "idioms",
+      "id": "remote-community"
+    },
+    {
+      "type": "rule",
+      "id": "design-a-community"
+    },
+    {
+      "type": "vocabulary",
+      "id": "design-a-community"
+    },
+    {
+      "type": "phrases",
+      "id": "design-a-community"
+    },
+    {
+      "type": "idioms",
+      "id": "design-a-community"
+    }
+  ],
+  "testDays": [
+    "day-01",
+    "day-02",
+    "day-03",
+    "day-04",
+    "day-05",
+    "day-06",
+    "day-07",
+    "day-08",
+    "day-09",
+    "day-10",
+    "day-11",
+    "day-12",
+    "day-13",
+    "day-14",
+    "day-15",
+    "day-16",
+    "day-17",
+    "day-18",
+    "day-19",
+    "day-20",
+    "day-21",
+    "day-22",
+    "day-23",
+    "day-24",
+    "day-25",
+    "day-26",
+    "day-27",
+    "day-28",
+    "day-29",
+    "day-30"
+  ]
+}

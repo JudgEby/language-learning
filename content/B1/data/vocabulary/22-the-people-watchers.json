@@ -1,0 +1,18 @@
+{
+  "lessonId": "the-people-watchers",
+  "title": "The People Watchers — новые слова",
+  "items": [
+    { "term": "hold a sale", "translation": "проводить распродажу", "example": "The shop held a sale to attract more customers." },
+    { "term": "raise money", "translation": "собирать деньги", "example": "They raised money for charity by selling cakes." },
+    { "term": "do an experiment", "translation": "проводить эксперимент", "example": "The team did an experiment on the street." },
+    { "term": "make a decision", "translation": "принимать решение", "example": "It's time to make a decision about the job." },
+    { "term": "tell a story", "translation": "рассказывать историю", "example": "He told us a funny story about his childhood." },
+    { "term": "do someone a favour", "translation": "делать одолжение", "example": "Could you do me a favour and lend me some money?" },
+    { "term": "tell a lie", "translation": "говорить неправду, лгать", "example": "It's easy to tell a lie, but hard to keep it." },
+    { "term": "jump a queue", "translation": "лезть без очереди", "example": "Someone jumped the queue and everyone got angry." },
+    { "term": "cut hair", "translation": "стричь волосы", "example": "She cuts hair for a living." },
+    { "term": "get a seat", "translation": "занять место", "example": "It's hard to get a seat on the crowded train." },
+    { "term": "persuade someone", "translation": "убеждать кого-то", "example": "How would you persuade someone to dress up as a tree?" },
+    { "term": "hidden camera", "translation": "скрытая камера", "example": "The psychologists filmed people with a hidden camera." }
+  ]
+}

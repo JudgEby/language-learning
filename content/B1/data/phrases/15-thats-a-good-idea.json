@@ -1,0 +1,14 @@
+{
+  "lessonId": "thats-a-good-idea",
+  "title": "That's a good idea — фразы",
+  "items": [
+    { "phrase": "That's a good idea", "translation": "Хорошая идея", "example": "That's a good idea. How about we go on a trip somewhere?" },
+    { "phrase": "I agree up to a point", "translation": "Согласен, но не полностью", "example": "I agree up to a point, but we need to think about the budget first." },
+    { "phrase": "I'm not sure about that", "translation": "Я не уверен насчёт этого", "example": "I'm not sure about that. Let's think of other options." },
+    { "phrase": "Let's move on", "translation": "Давай двигаться дальше", "example": "OK, let's move on to the next point." },
+    { "phrase": "The way I see it…", "translation": "Как я это вижу…", "example": "The way I see it, we need to focus on quality." },
+    { "phrase": "That's a good point", "translation": "Хорошее замечание", "example": "That's a good point, but we should consider other locations too." },
+    { "phrase": "How about…?", "translation": "Как насчёт…?", "example": "How about if we call it something simple and modern?" },
+    { "phrase": "Why don't we…?", "translation": "Почему бы нам не…?", "example": "Why don't we start by looking at the finances?" }
+  ]
+}

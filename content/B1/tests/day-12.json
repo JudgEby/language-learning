@@ -1,0 +1,182 @@
+[
+  {
+    "id": "146210e27bce",
+    "question": "Choose the correct phrase for: 'Чем занимаешься? / Какие планы?'",
+    "options": [
+      "Life would be better if…",
+      "If I feel stressed, I …",
+      "Could I ask a question?",
+      "What are you up to?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'What are you up to?' — Чем занимаешься? / Какие планы?. Example: Hi, what are you up to this evening?",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "2a3e1c1796e7",
+    "question": "A: 'The phone is ringing!' B: 'I ___ it!'",
+    "options": [
+      "'m going to get",
+      "get",
+      "will get",
+      "'m getting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "ecdd1b3a9c99",
+    "question": "Complete the sentence: ___, we were all sitting together in the living room.",
+    "options": [
+      "That day is one of my happiest memories.",
+      "I agree up to a point",
+      "Before long",
+      "We came up with this idea"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Before long' — Вскоре. Full sentence: Before long, we were all sitting together in the living room.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "3db947bdb9a8",
+    "question": "Which sentence is correct?",
+    "options": [
+      "The ttherget theudience is thenyone interested in how the world will look in the next thirty yethers.",
+      "The target audience are anyone interested in how the world will look in the next thirty years.",
+      "The target audience is anyone interested in how the world will look in the next thirty years.",
+      "The target audience is anyone interested in how the world will look in the next thirty years."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'The target audience is anyone interested in how the world will look in the next thirty years.'",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "46814dc24782",
+    "question": "Choose the correct phrase for: 'Итак, целевая аудитория — это…'",
+    "options": [
+      "Calm down!",
+      "So the target audience is…",
+      "Do you know if …?",
+      "I do have a query"
+    ],
+    "correctIndex": 1,
+    "explanation": "'So the target audience is…' — Итак, целевая аудитория — это…. Example: So the target audience is teenagers interested in technology.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "8c3e1592fb75",
+    "question": "Complete the sentence: Our ___ is anyone interested in science.",
+    "options": [
+      "do things ahead of time",
+      "exhausted",
+      "target audience",
+      "take responsibility"
+    ],
+    "correctIndex": 2,
+    "explanation": "'target audience' means целевая аудитория. Full sentence: Our target audience is anyone interested in science.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "2e57cd0a3bfd",
+    "question": "Complete the sentence: I prefer not to ___ but to focus on one job at a time.",
+    "options": [
+      "I can…",
+      "When you are angry, …",
+      "multitask",
+      "nano monitors"
+    ],
+    "correctIndex": 2,
+    "explanation": "'multitask' means делать несколько дел одновременно. Full sentence: I prefer not to multitask but to focus on one job at a time.",
+    "relatedRuleIds": [
+      "making-plans"
+    ]
+  },
+  {
+    "id": "bf27a3661991",
+    "question": "Choose the correct word for: 'одноклассники'",
+    "options": [
+      "skill",
+      "You must…",
+      "classmates",
+      "My childhood dream was to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'classmates' means 'одноклассники'. Example: Dave is my classmate. We're both in Year 12.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "3b977b89d277",
+    "question": "Choose the correct phrase for: 'ладить с кем-то'",
+    "options": [
+      "I'd recommend it to anyone who…",
+      "get on with someone",
+      "I'll call you back",
+      "It might…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get on with someone' — ладить с кем-то. Example: I get on well with my colleagues.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "6e051612b578",
+    "question": "Choose the correct idiom for: 'стать вирусным'",
+    "options": [
+      "on the tip of my tongue",
+      "go viral",
+      "the truth will out",
+      "off the beaten track"
+    ],
+    "correctIndex": 1,
+    "explanation": "'go viral' — стать вирусным. Example: The video went viral and got millions of views within hours.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  },
+  {
+    "id": "682f082c9449",
+    "question": "I ___ him three weeks ago when I ___ for an internet café.",
+    "options": [
+      "met / was looking",
+      "was meeting / looked",
+      "have met / have looked",
+      "met / looked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Simple for the main event ('met'), Past Continuous for the background ('was looking').",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "62bf4a90848b",
+    "question": "Choose the correct word for: 'предложение, заявка'",
+    "options": [
+      "A typical day in my life",
+      "tell the truth",
+      "take responsibility",
+      "proposal"
+    ],
+    "correctIndex": 3,
+    "explanation": "'proposal' means 'предложение, заявка'. Example: We are looking for funding to make exciting and innovative videos.",
+    "relatedRuleIds": [
+      "youtube"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "686c09191767",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I am understanding the rules now.",
+      "I understand the rules now.",
+      "I understanding the rules now.",
+      "I have understand the rules now."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Understand' is a state verb — we don't use it in continuous forms.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "3c54a172696e",
+    "question": "Complete the sentence: The ___ checked all the luggage.",
+    "options": [
+      "in the long term",
+      "a risk taker",
+      "customs officer",
+      "I'd like to get to know…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'customs officer' means таможенник. Full sentence: The customs officer checked all the luggage.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "505d99330218",
+    "question": "Which sentence is correct?",
+    "options": [
+      "This story is about a burglar who stole a valuable painting.",
+      "This story is about a burglar who stole a valuable painting.",
+      "This story are about a burglar who stole a valuable painting.",
+      "This story is thebout the burglther who stole the vthelutheble ptheinting."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'This story is about a burglar who stole a valuable painting.'",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "52e914ec1863",
+    "question": "Complete the sentence: The ___s were released after negotiations.",
+    "options": [
+      "hostage",
+      "I have to…",
+      "neighbour",
+      "I remember I used to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'hostage' means заложник. Full sentence: The hostages were released after negotiations.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "5c239643b980",
+    "question": "Complete the sentence: ___ is spending time with family.",
+    "options": [
+      "…, haven't you?",
+      "my idea of perfect happiness",
+      "…, will you?",
+      "We came up with this idea"
+    ],
+    "correctIndex": 1,
+    "explanation": "'my idea of perfect happiness' — моё представление об идеальном счастье. Full sentence: My idea of perfect happiness is spending time with family.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "21cfe1a936b4",
+    "question": "Complete the sentence: The guard carried a loaded ___.",
+    "options": [
+      "weapon",
+      "I get on well with…",
+      "it was a different person with the same name",
+      "subscribe"
+    ],
+    "correctIndex": 0,
+    "explanation": "'weapon' means оружие. Full sentence: The guard carried a loaded weapon.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "31b659c66534",
+    "question": "Choose the correct phrase for: 'Однако...'",
+    "options": [
+      "That's right",
+      "There's a… near my house",
+      "The most important thing would be…",
+      "However, ..."
+    ],
+    "correctIndex": 3,
+    "explanation": "'However, ...' — Однако.... Example: However, things didn't go according to plan.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "f2d0b232aaa5",
+    "question": "Choose the correct idiom for: 'выйти сухим из воды'",
+    "options": [
+      "get away with murder",
+      "on the tip of my tongue",
+      "pull yourself up by your bootstraps",
+      "troll"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get away with murder' — выйти сухим из воды. Example: The thief thought he could get away with stealing the painting.",
+    "relatedRuleIds": [
+      "hustle"
+    ]
+  },
+  {
+    "id": "ec3851360198",
+    "question": "Choose the correct phrase for: 'быть в бегах'",
+    "options": [
+      "The best thing about it is that …",
+      "Why don't we…?",
+      "be on the run",
+      "We've been friends for…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'be on the run' — быть в бегах. Example: The fugitive was on the run for three months.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "ce49d28cfec0",
+    "question": "Choose the correct phrase for: 'оказать услугу'",
+    "options": [
+      "in a moment",
+      "by hand",
+      "do someone a favour",
+      "I'm going to have a race against …"
+    ],
+    "correctIndex": 2,
+    "explanation": "'do someone a favour' — оказать услугу. Example: Can you do me a favour and help me with this test?",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "8bf5a701c64b",
+    "question": "Choose the correct word for: 'попробовать (разг.)'",
+    "options": [
+      "neighbour",
+      "That's a shame. / That's awful.",
+      "out of the blue",
+      "go (give it a go)"
+    ],
+    "correctIndex": 3,
+    "explanation": "'go (give it a go)' means 'попробовать (разг.)'. Example: I wonder what would happen if I give that a go.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "272e9237e47a",
+    "question": "By the time we ___ at the cinema, the film ___.",
+    "options": [
+      "arrived / already started",
+      "had arrived / started",
+      "arrived / had already started",
+      "have arrived / has started"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past Perfect ('had started') shows the action happened before another past event ('arrived').",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "lessonId": "same-or-different",
+  "title": "Same or different — идиомы",
+  "items": [
+    { "idiom": "get on like a house on fire", "translation": "быстро найти общий язык", "example": "We met at the party and got on like a house on fire." },
+    { "idiom": "see eye to eye", "translation": "сходиться во мнениях", "example": "We don't always see eye to eye about politics." },
+    { "idiom": "opposites attract", "translation": "противоположности притягиваются", "example": "We're very different, but opposites attract, I suppose." }
+  ]
+}

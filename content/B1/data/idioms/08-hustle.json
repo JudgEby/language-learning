@@ -1,0 +1,9 @@
+{
+  "lessonId": "hustle",
+  "title": "Hustle — идиомы",
+  "items": [
+    { "idiom": "get away with murder", "translation": "выйти сухим из воды", "example": "The thief thought he could get away with stealing the painting." },
+    { "idiom": "caught red-handed", "translation": "пойман с поличным", "example": "The customs officers almost caught him red-handed." },
+    { "idiom": "pull off a heist", "translation": "совершить ограбление", "example": "They planned to pull off the perfect heist." }
+  ]
+}

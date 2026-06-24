@@ -1,0 +1,14 @@
+{
+  "lessonId": "youtube",
+  "title": "YouTube — фразы",
+  "items": [
+    { "phrase": "We came up with this idea", "translation": "Мы придумали эту идею", "example": "We came up with this idea to create a channel about science." },
+    { "phrase": "It would be really… to…", "translation": "Было бы действительно…", "example": "It would be really cool to interview famous scientists." },
+    { "phrase": "What's the angle?", "translation": "Какой угол подачи / концепция?", "example": "So, what's the angle for our channel?" },
+    { "phrase": "So the target audience is…", "translation": "Итак, целевая аудитория — это…", "example": "So the target audience is teenagers interested in technology." },
+    { "phrase": "The videos will be presented by…", "translation": "Видео будут представлять…", "example": "The videos will be presented by young creators from around the UK." },
+    { "phrase": "We are looking for funding", "translation": "Мы ищем финансирование", "example": "We are looking for funding to make exciting videos about the environment." },
+    { "phrase": "We intend to…", "translation": "Мы намереваемся…", "example": "We intend to predict the effects of climate change." },
+    { "phrase": "We will upload new videos…", "translation": "Мы будем загружать новые видео…", "example": "We will upload new videos once a month." }
+  ]
+}

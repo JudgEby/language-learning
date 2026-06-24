@@ -1,0 +1,16 @@
+{
+  "lessonId": "same-or-different",
+  "title": "Same or different — фразы",
+  "items": [
+    { "phrase": "take responsibility", "translation": "взять на себя ответственность", "example": "Fathers should take more responsibility for their children." },
+    { "phrase": "take part in", "translation": "принимать участие в", "example": "She took part in her first play last year." },
+    { "phrase": "take up a hobby", "translation": "начать заниматься хобби", "example": "A year ago she took up a new hobby: acting." },
+    { "phrase": "get married", "translation": "пожениться", "example": "We're getting married next year." },
+    { "phrase": "get on with someone", "translation": "ладить с кем-то", "example": "I get on well with my colleagues." },
+    { "phrase": "do research", "translation": "проводить исследование", "example": "I did a lot of research before I got my degree." },
+    { "phrase": "do someone a favour", "translation": "оказать услугу", "example": "Can you do me a favour and help me with this test?" },
+    { "phrase": "go for a walk", "translation": "пойти на прогулку", "example": "Last night we went for a walk after dinner." },
+    { "phrase": "go on a diet", "translation": "сесть на диету", "example": "Many women have gone on a diet at some point." },
+    { "phrase": "go grey", "translation": "поседеть", "example": "I hope I don't go grey when I'm thirty!" }
+  ]
+}

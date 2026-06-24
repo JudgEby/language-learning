@@ -1,0 +1,11 @@
+{
+  "lessonId": "the-blind-painter",
+  "title": "The blind painter — фразы",
+  "items": [
+    { "phrase": "I'm going to tell you about myself", "translation": "Я расскажу вам о себе", "example": "I'm going to tell you about myself and my journey." },
+    { "phrase": "three words that describe me would be", "translation": "три слова, которые меня описывают", "example": "Three words that describe me would be creative, patient and optimistic." },
+    { "phrase": "One of the things I like about my lifestyle", "translation": "Одна из вещей, которые мне нравятся в моём образе жизни", "example": "One of the things I like about my lifestyle is that I travel a lot." },
+    { "phrase": "I suppose that's one thing I don't like", "translation": "Полагаю, это одна вещь, которая мне не нравится", "example": "I suppose that's one thing I don't like about living in a big city." },
+    { "phrase": "my idea of perfect happiness", "translation": "моё представление об идеальном счастье", "example": "My idea of perfect happiness is spending time with family." }
+  ]
+}

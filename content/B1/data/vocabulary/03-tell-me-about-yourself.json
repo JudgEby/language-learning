@@ -1,0 +1,16 @@
+{
+  "lessonId": "tell-me-about-yourself",
+  "title": "Tell me about yourself — новые слова",
+  "items": [
+    { "term": "dress smartly", "translation": "одеваться официально/опрятно", "example": "You don't have to dress smartly but you should look clean." },
+    { "term": "speak clearly", "translation": "говорить чётко", "example": "Speak clearly and try to offer full answers." },
+    { "term": "shake hands firmly", "translation": "пожимать руку твёрдо", "example": "Shake hands firmly and make eye contact." },
+    { "term": "arrive on time", "translation": "приходить вовремя", "example": "Arrive on time. Fifteen minutes early is OK." },
+    { "term": "be prepared", "translation": "быть подготовленным", "example": "Be prepared. Do some research about the company." },
+    { "term": "do some research", "translation": "провести небольшое исследование", "example": "Do some research about the university before the interview." },
+    { "term": "show enthusiasm", "translation": "проявлять энтузиазм", "example": "Show enthusiasm by smiling and asking questions." },
+    { "term": "avoid eye contact", "translation": "избегать зрительного контакта", "example": "Don't avoid eye contact. Look at them during the interview." },
+    { "term": "eye contact", "translation": "зрительный контакт", "example": "First impressions are important, so make eye contact." },
+    { "term": "query", "translation": "вопрос, запрос", "example": "I have a query about the schedule." }
+  ]
+}

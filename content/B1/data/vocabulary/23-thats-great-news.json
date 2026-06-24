@@ -1,0 +1,18 @@
+{
+  "lessonId": "thats-great-news",
+  "title": "That's great news! — новые слова",
+  "items": [
+    { "term": "pass an exam", "translation": "сдать экзамен", "example": "I was so happy when I passed my driving test." },
+    { "term": "fail an exam", "translation": "провалить экзамен", "example": "He failed his maths exam and had to retake it." },
+    { "term": "get engaged", "translation": "обручиться", "example": "They got engaged last month and are planning a wedding." },
+    { "term": "get married", "translation": "пожениться", "example": "My sister got married in a beautiful church." },
+    { "term": "get promoted", "translation": "получить повышение", "example": "She got promoted to senior manager." },
+    { "term": "lose your job", "translation": "потерять работу", "example": "He lost his job when the company closed down." },
+    { "term": "split up", "translation": "расстаться", "example": "They split up after ten years together." },
+    { "term": "get a place at university", "translation": "поступить в университет", "example": "She got a place at Oxford University." },
+    { "term": "buy a house", "translation": "купить дом", "example": "They finally saved enough to buy a house." },
+    { "term": "be offered a job", "translation": "получить предложение о работе", "example": "I was offered a job in Germany." },
+    { "term": "win some money", "translation": "выиграть деньги", "example": "She won some money in a creative writing competition." },
+    { "term": "crash a car", "translation": "разбить машину", "example": "I'm afraid I crashed the car this morning." }
+  ]
+}

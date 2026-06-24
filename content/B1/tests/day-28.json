@@ -1,0 +1,181 @@
+[
+  {
+    "id": "e55e5276352d",
+    "question": "Choose the correct phrase for: 'Тебе стоит… (совет)'",
+    "options": [
+      "You should…",
+      "The problem was that...",
+      "There's a… near my house",
+      "I didn't use to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'You should…' — Тебе стоит… (совет). Example: You should enjoy your work, not just do it for money.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  },
+  {
+    "id": "06124d8eca6b",
+    "question": "Which sentence is correct?",
+    "options": [
+      "What have been his biggest achievements?",
+      "What have been his biggest achievements?",
+      "What have been his biggest achievements?"
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'What have been his biggest achievements?'",
+    "relatedRuleIds": [
+      "andy-murray"
+    ]
+  },
+  {
+    "id": "4c0726d3492c",
+    "question": "Complete the sentence: He's an ___ of a large company.",
+    "options": [
+      "People there…",
+      "This story is about...",
+      "target audience",
+      "employee"
+    ],
+    "correctIndex": 3,
+    "explanation": "'employee' means сотрудник. Full sentence: He's an employee of a large company.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "1bd728a57592",
+    "question": "Complete the sentence: Being a top athlete requires total ___.",
+    "options": [
+      "programme (a machine)",
+      "hostage",
+      "commitment",
+      "I'm good at…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'commitment' means обязательство, преданность. Full sentence: Being a top athlete requires total commitment.",
+    "relatedRuleIds": [
+      "andy-murray"
+    ]
+  },
+  {
+    "id": "686c09191767",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I am understanding the rules now.",
+      "I understand the rules now.",
+      "I understanding the rules now.",
+      "I have understand the rules now."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Understand' is a state verb — we don't use it in continuous forms.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "19f09abf50e0",
+    "question": "Choose the correct phrase for: 'Самым важным было…'",
+    "options": [
+      "The most important thing was…",
+      "go grey",
+      "I could… when I was…",
+      "I find … relaxing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The most important thing was…' — Самым важным было…. Example: The most important thing was to keep going.",
+    "relatedRuleIds": [
+      "andy-murray"
+    ]
+  },
+  {
+    "id": "311b738658b7",
+    "question": "Choose the correct phrase for: 'Помню, я раньше…'",
+    "options": [
+      "There's a sense of community.",
+      "I'd recommend it to anyone who…",
+      "I remember I used to…",
+      "It is likely to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I remember I used to…' — Помню, я раньше…. Example: I remember I used to dream of being an artist.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "cdb822b2b07a",
+    "question": "Choose the correct idiom for: 'переломный момент'",
+    "options": [
+      "on the tip of my tongue",
+      "the truth will out",
+      "a game-changer",
+      "get the ball rolling"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a game-changer' — переломный момент. Example: His Olympic gold medal was a real game-changer for his career.",
+    "relatedRuleIds": [
+      "andy-murray"
+    ]
+  },
+  {
+    "id": "6a8e9e9d45c9",
+    "question": "Complete the sentence: Winning a ___ is every tennis player's dream.",
+    "options": [
+      "This happened when...",
+      "However, ...",
+      "dress smartly",
+      "Grand Slam"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Grand Slam' means турнир Большого шлема. Full sentence: Winning a Grand Slam is every tennis player's dream.",
+    "relatedRuleIds": [
+      "andy-murray"
+    ]
+  },
+  {
+    "id": "e1f4d41db9ed",
+    "question": "Complete the sentence: The boss was ___ when he heard the news.",
+    "options": [
+      "query",
+      "What could be easier?",
+      "furious",
+      "speak clearly"
+    ],
+    "correctIndex": 2,
+    "explanation": "'furious' means в ярости. Full sentence: The boss was furious when he heard the news.",
+    "relatedRuleIds": [
+      "dream-job"
+    ]
+  },
+  {
+    "id": "b5cc30ae166e",
+    "question": "Choose the correct phrase for: 'пожениться'",
+    "options": [
+      "Life would be better if…",
+      "get married",
+      "I try to be home by…",
+      "Yes, of course. / Sure."
+    ],
+    "correctIndex": 1,
+    "explanation": "'get married' — пожениться. Example: We're getting married next year.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "582456a3e986",
+    "question": "You ___ be born rich to be a millionaire. Many millionaires started with nothing.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Don't have to' means it's not necessary. 'Mustn't' would mean it's forbidden.",
+    "relatedRuleIds": [
+      "millionaires"
+    ]
+  }
+]

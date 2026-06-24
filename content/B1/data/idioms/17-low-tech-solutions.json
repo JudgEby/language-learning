@@ -1,0 +1,21 @@
+{
+  "lessonId": "low-tech-solutions",
+  "title": "Low tech solutions — идиомы",
+  "items": [
+    {
+      "idiom": "back to basics",
+      "translation": "возвращение к основам",
+      "example": "The company decided to go back to basics and focus on their core products."
+    },
+    {
+      "idiom": "low-hanging fruit",
+      "translation": "лёгкая цель",
+      "example": "Let's start with the low-hanging fruit and fix the easiest problems first."
+    },
+    {
+      "idiom": "a wild goose chase",
+      "translation": "пустая трата времени, бесполезное занятие",
+      "example": "Trying to find that document is a wild goose chase — it was lost years ago."
+    }
+  ]
+}

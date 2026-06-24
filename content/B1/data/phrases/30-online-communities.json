@@ -1,0 +1,14 @@
+{
+  "lessonId": "online-communities",
+  "title": "Online communities — фразы",
+  "items": [
+    { "phrase": "The website which…", "translation": "Сайт, который…", "example": "The website which I use most is YouTube." },
+    { "phrase": "People who… often…", "translation": "Люди, которые…, часто…", "example": "People who use social media often feel more connected." },
+    { "phrase": "It's a place where…", "translation": "Это место, где…", "example": "It's a place where you can share your ideas." },
+    { "phrase": "The reason why… is…", "translation": "Причина, по которой…, в том, что…", "example": "The reason why I like this site is the design." },
+    { "phrase": "…, which means that…", "translation": "…, что означает, что…", "example": "The site is free, which means that anyone can join." },
+    { "phrase": "I'd recommend it to anyone who…", "translation": "Я бы порекомендовал его любому, кто…", "example": "I'd recommend it to anyone who likes photography." },
+    { "phrase": "What I like about… is…", "translation": "Что мне нравится в…, так это…", "example": "What I like about this forum is the friendly community." },
+    { "phrase": "The best thing about… is that…", "translation": "Лучшее в… — это то, что…", "example": "The best thing about the site is that it's easy to use." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lessonId": "andy-murray",
+  "title": "Andy Murray — фразы",
+  "items": [
+    { "phrase": "I've always wanted to…", "translation": "Я всегда хотел…", "example": "I've always wanted to run a marathon." },
+    { "phrase": "I managed to…", "translation": "Мне удалось…", "example": "I managed to finish the race in under four hours." },
+    { "phrase": "I'm proud of…", "translation": "Я горжусь…", "example": "I'm proud of what I've achieved this year." },
+    { "phrase": "The most important thing was…", "translation": "Самым важным было…", "example": "The most important thing was to keep going." },
+    { "phrase": "It was quite a challenge.", "translation": "Это было непросто.", "example": "Learning Chinese was quite a challenge, but I enjoyed it." },
+    { "phrase": "I've never been able to…", "translation": "Я никогда не мог…", "example": "I've never been able to swim very well." },
+    { "phrase": "One of my biggest achievements is…", "translation": "Одно из моих самых больших достижений…", "example": "One of my biggest achievements is graduating from university." },
+    { "phrase": "What I'm most proud of is…", "translation": "Чем я больше всего горжусь…", "example": "What I'm most proud of is learning to play the piano." }
+  ]
+}

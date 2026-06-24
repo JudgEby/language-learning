@@ -1,0 +1,14 @@
+{
+  "lessonId": "remote-community",
+  "title": "Remote community — фразы",
+  "items": [
+    { "phrase": "What I like about… is…", "translation": "Что мне нравится в…, так это…", "example": "What I like about this community is the strong sense of togetherness." },
+    { "phrase": "It would be interesting to…", "translation": "Было бы интересно…", "example": "It would be interesting to visit a remote island." },
+    { "phrase": "There is a strong sense of…", "translation": "Есть сильное чувство…", "example": "There is a strong sense of community on the island." },
+    { "phrase": "People there…", "translation": "Люди там…", "example": "People there live in harmony with nature." },
+    { "phrase": "What makes it special is…", "translation": "Что делает его особенным, так это…", "example": "What makes it special is the way everyone helps each other." },
+    { "phrase": "It's a place where…", "translation": "Это место, где…", "example": "It's a place where traditions are still very important." },
+    { "phrase": "I'd love to experience…", "translation": "Я бы очень хотел испытать…", "example": "I'd love to experience their way of life." },
+    { "phrase": "The people are known for…", "translation": "Люди известны тем, что…", "example": "The people are known for their hospitality." }
+  ]
+}

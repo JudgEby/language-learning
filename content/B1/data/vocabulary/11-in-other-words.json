@@ -1,0 +1,16 @@
+{
+  "lessonId": "in-other-words",
+  "title": "In other words — новые слова",
+  "items": [
+    { "term": "misunderstanding", "translation": "недоразумение", "example": "There was a misunderstanding about the time of the meeting." },
+    { "term": "get the wrong address", "translation": "ошибиться адресом", "example": "I ended up at the wrong house because I'd got the wrong address." },
+    { "term": "get the date wrong", "translation": "перепутать дату", "example": "We got the date wrong and arrived a day early." },
+    { "term": "wrong number", "translation": "неправильный номер", "example": "I answered the phone, but it was a wrong number." },
+    { "term": "not recognise someone's voice", "translation": "не узнать чей-то голос", "example": "She didn't recognise my voice on the phone." },
+    { "term": "reformulate", "translation": "переформулировать", "example": "Let me reformulate my question to make it clearer." },
+    { "term": "clarification", "translation": "уточнение", "example": "I need some clarification on this point." },
+    { "term": "realise", "translation": "осознавать, понимать", "example": "I didn't realise it was for today." },
+    { "term": "it was a different person with the same name", "translation": "это был другой человек с тем же именем", "example": "I was expecting Pete, but it was a different Peter Smith." },
+    { "term": "there are two streets with the same name", "translation": "есть две улицы с одинаковым названием", "example": "We went to the wrong street because there are two with the same name." }
+  ]
+}

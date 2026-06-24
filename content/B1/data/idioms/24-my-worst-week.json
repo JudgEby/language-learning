@@ -1,0 +1,21 @@
+{
+  "lessonId": "my-worst-week",
+  "title": "My Worst Week — идиомы",
+  "items": [
+    {
+      "idiom": "when it rains, it pours",
+      "translation": "беда не приходит одна",
+      "example": "First I lost my keys, then my car broke down — when it rains, it pours."
+    },
+    {
+      "idiom": "the last straw",
+      "translation": "последняя капля",
+      "example": "When my phone died too, that was the last straw."
+    },
+    {
+      "idiom": "a blessing in disguise",
+      "translation": "не было бы счастья, да несчастье помогло",
+      "example": "Losing that job was a blessing in disguise — I found a much better one."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lessonId": "are-you-qualified",
+  "title": "Are you qualified? — новые слова",
+  "items": [
+    { "term": "qualification", "translation": "квалификация, диплом", "example": "What qualifications do you have?" },
+    { "term": "degree", "translation": "степень (университетская)", "example": "She has a degree in biology." },
+    { "term": "diploma", "translation": "диплом", "example": "He got a diploma in business management." },
+    { "term": "certificate", "translation": "сертификат", "example": "You need a certificate to teach English." },
+    { "term": "experience", "translation": "опыт", "example": "She has ten years of teaching experience." },
+    { "term": "skills", "translation": "навыки", "example": "He has excellent communication skills." },
+    { "term": "apprenticeship", "translation": "ученичество, стажировка", "example": "He did an apprenticeship as an electrician." },
+    { "term": "training", "translation": "обучение, подготовка", "example": "The company provides on-the-job training." },
+    { "term": "distance learning", "translation": "дистанционное обучение", "example": "Distance learning is becoming more popular." },
+    { "term": "face-to-face learning", "translation": "очное обучение", "example": "I prefer face-to-face learning." },
+    { "term": "PhD", "translation": "докторская степень", "example": "She has a PhD in marine biology." },
+    { "term": "MA / MSc", "translation": "степень магистра", "example": "He has an MA in Geography." }
+  ]
+}

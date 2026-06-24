@@ -1,0 +1,21 @@
+{
+  "lessonId": "youtube",
+  "title": "YouTube — идиомы",
+  "items": [
+    {
+      "idiom": "go viral",
+      "translation": "стать вирусным",
+      "example": "The video went viral and got millions of views within hours."
+    },
+    {
+      "idiom": "trending topic",
+      "translation": "популярная тема",
+      "example": "The new song is the top trending topic on social media right now."
+    },
+    {
+      "idiom": "hit the jackpot",
+      "translation": "сорвать куш",
+      "example": "With that viral video, the creator really hit the jackpot."
+    }
+  ]
+}

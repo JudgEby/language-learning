@@ -1,0 +1,21 @@
+{
+  "lessonId": "ask-the-experts",
+  "title": "Ask the experts — идиомы",
+  "items": [
+    {
+      "idiom": "a know-it-all",
+      "translation": "всезнайка",
+      "example": "He's such a know-it-all — he always has an answer for everything."
+    },
+    {
+      "idiom": "put your heads together",
+      "translation": "совместно обдумать",
+      "example": "Let's put our heads together and find a solution."
+    },
+    {
+      "idiom": "word of mouth",
+      "translation": "сарафанное радио",
+      "example": "The restaurant became popular through word of mouth rather than advertising."
+    }
+  ]
+}

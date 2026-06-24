@@ -1,0 +1,13 @@
+{
+  "id": "me-and-my-language",
+  "order": 1,
+  "unit": "Unit 1 — Identity",
+  "title": "Me and my language",
+  "contentMd": "## Question forms\n\n### Простая суть\n\nВопросы в английском — это как игра в «собери формулу». Главное правило: **меняем порядок слов**. В утверждении подлежащее сначала, в вопросе — вспомогательный глагол. Есть вопросы, на которые можно ответить только «да» или «нет», есть вопросы с вопросительными словами (who, what, where, when, why, how), а есть такие, где вопросительное слово само является подлежащим — там вспомогательный глагол не нужен. И да, предлоги (to, about, with) могут переезжать в конец вопроса.\n\n### Как это работает\n\n- **Yes/No questions**: вспомогательный глагол + подлежащее + основной глагол. *Do you speak English?* *Did she call?*\n- **Wh- questions**: вопросительное слово + вспомогательный глагол + подлежащее. *Where do you live?*\n- **Subject questions**: вопросительное слово = подлежащее, вспомогательный глагол **НЕ** нужен. *Who wrote this?* *What happened?*\n- **Object questions**: вспомогательный глагол нужен. *Who did you call?*\n- **Questions ending in a preposition**: предлог остаётся в конце. *What are you talking about?* *Who did you go with?*\n\n### Живые примеры\n\n- **Do you** speak any languages apart from your mother tongue? (Ты говоришь на каких-нибудь языках кроме родного?)\n- **What did you talk about** at the meeting? (О чём вы говорили на встрече?)\n- **Who helped** you with your homework? (Кто помог тебе с домашкой? — *who* — подлежащее, без *did*)\n- **Who did you help** with their project? (Кому ты помог с проектом? — *who* — объект, с *did*)\n- **Which country are you from?** (Из какой ты страны? — предлог *from* в конце)\n\n### Лайфхак для запоминания\n\nЕсли вопрос про **того, кто сделал действие** (подлежащее) — забудь про *do/does/did*. Просто замени подлежащее на *who/what*: *Something happened* → *What happened?* Если вопрос про **остальное** — ставь вспомогательный глагол. И помни: предлоги в английском любят конец вопроса, как пальто — вешалку у двери.",
+  "examples": [
+    "Do you speak any languages apart from your mother tongue?",
+    "What did you talk about at the meeting?",
+    "Who helped you with your homework?",
+    "Which country are you from?"
+  ]
+}

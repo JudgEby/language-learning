@@ -1,0 +1,21 @@
+{
+  "lessonId": "man-versus-machine",
+  "title": "Man versus Machine — идиомы",
+  "items": [
+    {
+      "idiom": "back to the drawing board",
+      "translation": "начать сначала",
+      "example": "The experiment failed, so it is back to the drawing board."
+    },
+    {
+      "idiom": "blow a fuse",
+      "translation": "выйти из строя",
+      "example": "The machine blew a fuse and stopped working completely."
+    },
+    {
+      "idiom": "put to the test",
+      "translation": "подвергнуть испытанию",
+      "example": "The new software was put to the test with a thousand users simultaneously."
+    }
+  ]
+}

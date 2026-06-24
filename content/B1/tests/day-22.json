@@ -1,0 +1,182 @@
+[
+  {
+    "id": "b81d2773f078",
+    "question": "Choose the correct idiom for: 'быть на чьём-то месте'",
+    "options": [
+      "in someone else's shoes",
+      "break the ice",
+      "it takes a village to raise a child",
+      "blow off steam"
+    ],
+    "correctIndex": 0,
+    "explanation": "'in someone else's shoes' — быть на чьём-то месте. Example: If I were in your shoes, I would accept the offer.",
+    "relatedRuleIds": [
+      "the-people-watchers"
+    ]
+  },
+  {
+    "id": "444252a71aca",
+    "question": "Choose the correct word for: 'проводить распродажу'",
+    "options": [
+      "Could I ask a question?",
+      "hold a sale",
+      "All of a sudden",
+      "annoying"
+    ],
+    "correctIndex": 1,
+    "explanation": "'hold a sale' means 'проводить распродажу'. Example: The shop held a sale to attract more customers.",
+    "relatedRuleIds": [
+      "the-people-watchers"
+    ]
+  },
+  {
+    "id": "a9055fee608d",
+    "question": "Complete the sentence: The ___ said 'Massive earthquake hits Italy'.",
+    "options": [
+      "…, which means that…",
+      "accomplishment",
+      "get the wrong address",
+      "headline"
+    ],
+    "correctIndex": 3,
+    "explanation": "'headline' means заголовок (новостей). Full sentence: The headline said 'Massive earthquake hits Italy'.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "ef924c037ce1",
+    "question": "Choose the correct word for: 'рассказывать шутку'",
+    "options": [
+      "question",
+      "For me the most important thing is...",
+      "tell a joke",
+      "boiling"
+    ],
+    "correctIndex": 2,
+    "explanation": "'tell a joke' means 'рассказывать шутку'. Example: Most comedians tell jokes, but his face alone makes you laugh.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "7189dadf2c93",
+    "question": "Complete the sentence: ___ creative, patient and optimistic.",
+    "options": [
+      "I could… when I was…",
+      "three words that describe me would be",
+      "One of my biggest achievements is…",
+      "There's a sense of community."
+    ],
+    "correctIndex": 1,
+    "explanation": "'three words that describe me would be' — три слова, которые меня описывают. Full sentence: Three words that describe me would be creative, patient and optimistic.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "272e9237e47a",
+    "question": "By the time we ___ at the cinema, the film ___.",
+    "options": [
+      "arrived / already started",
+      "had arrived / started",
+      "arrived / had already started",
+      "have arrived / has started"
+    ],
+    "correctIndex": 2,
+    "explanation": "Past Perfect ('had started') shows the action happened before another past event ('arrived').",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "dfba5fd773e1",
+    "question": "Complete the sentence: These bits of Blu-Tack are actually ___ for where to paint.",
+    "options": [
+      "mother tongue",
+      "Could you repeat the last part?",
+      "…, aren't you?",
+      "coordinates"
+    ],
+    "correctIndex": 3,
+    "explanation": "'coordinates' means координаты. Full sentence: These bits of Blu-Tack are actually coordinates for where to paint.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
+  },
+  {
+    "id": "d5d893425454",
+    "question": "Complete the sentence: It's hard to ___ on the crowded train.",
+    "options": [
+      "get a seat",
+      "Can I ask you about that?",
+      "Ideally, there would be…",
+      "Why don't we…?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get a seat' means занять место. Full sentence: It's hard to get a seat on the crowded train.",
+    "relatedRuleIds": [
+      "the-people-watchers"
+    ]
+  },
+  {
+    "id": "4e8dfded6b41",
+    "question": "Choose the correct phrase for: 'получить освещение в СМИ'",
+    "options": [
+      "get coverage",
+      "…, didn't they?",
+      "…, will you?",
+      "Could I ask a question?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get coverage' — получить освещение в СМИ. Example: The event got international coverage.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
+  },
+  {
+    "id": "8ed164ddadbd",
+    "question": "Complete the sentence: '___ me a story, but ___ it quietly.'",
+    "options": [
+      "Say / tell",
+      "Tell / say",
+      "Tell / tell",
+      "Say / say"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Tell someone a story' but 'say something quietly'. Tell needs an object (me), say introduces speech.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "622517b04f56",
+    "question": "Complete the sentence: ___, it was just a cat.",
+    "options": [
+      "I've always wanted to…",
+      "In the end",
+      "What makes it special is…",
+      "In the end, …"
+    ],
+    "correctIndex": 1,
+    "explanation": "'In the end' — В конце концов. Full sentence: In the end, it was just a cat.",
+    "relatedRuleIds": [
+      "i-dont-believe-it"
+    ]
+  },
+  {
+    "id": "14ffb58ada9e",
+    "question": "Choose the correct phrase for: 'Что бы ты сделал(а), если бы …?'",
+    "options": [
+      "What I like about… is…",
+      "Do you think I could …?",
+      "…, which means that…",
+      "What would you do if …?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'What would you do if …?' — Что бы ты сделал(а), если бы …?. Example: What would you do if you lost your keys?",
+    "relatedRuleIds": [
+      "the-people-watchers"
+    ]
+  }
+]

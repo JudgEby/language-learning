@@ -1,0 +1,9 @@
+{
+  "lessonId": "the-blind-painter",
+  "title": "The blind painter — идиомы",
+  "items": [
+    { "idiom": "see the world through someone's eyes", "translation": "видеть мир чьими-то глазами", "example": "Sargy Mann's paintings help us see the world through his eyes." },
+    { "idiom": "a labour of love", "translation": "дело по велению души", "example": "Painting was a labour of love for Sargy Mann." },
+    { "idiom": "against all odds", "translation": "вопреки всему", "example": "Against all odds, he continued to paint after going blind." }
+  ]
+}

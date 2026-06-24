@@ -1,0 +1,13 @@
+{
+  "id": "what-really-happened",
+  "order": 6,
+  "unit": "Unit 2 — Tales",
+  "title": "What really happened",
+  "contentMd": "## Narrative tenses\n\n### Простая суть\n\nРассказывая историю, мы используем три прошедших времени как слои торта. Past Simple — основные события (что случилось). Past Continuous — фон и обстановка (что происходило вокруг). Past Perfect — то, что случилось ещё раньше (предыстория).\n\n### Как это работает\n\n- **Past Simple** — главные действия в хронологии. *He walked into the room and sat down.*\n- **Past Continuous** — действие в процессе, фон. *People were waiting and singing songs.*\n- **Past Perfect** — действие, которое завершилось до другого действия в прошлом (had + V3). *He had already left when I arrived.*\n\n### Живые примеры\n\n- I **was walking** to work this morning when I **saw** Mr Gonzalez. (Я шёл на работу, когда увидел мистера Гонсалеса — фон + событие)\n- By the time he **had finished**, he **had stolen** more than $200,000. (К тому моменту, как он закончил, он украл больше 200 000 долларов — сначала украл, потом «закончил»)\n- When we **got** to the beach, the rain **had stopped**. (Когда мы добрались до пляжа, дождь уже закончился)\n- He **was driving** back from Aga's house when his car **broke** down. (Он ехал назад, когда машина сломалась)\n\n### Лайфхак для запоминания\n\nПредставь кино: Past Continuous — это камера, показывающая общий план (люди танцуют, играет музыка). Past Simple — крупный план (дверь открылась, вошёл герой). Past Perfect — flashback (за час до этого он получил сообщение). Три времени — три плана одной истории.",
+  "examples": [
+    "I was walking to work when I saw Mr Gonzalez.",
+    "By the time he had finished, he had stolen more than $200,000.",
+    "When we got to the beach, the rain had stopped.",
+    "He was driving back from Aga's house when his car broke down."
+  ]
+}

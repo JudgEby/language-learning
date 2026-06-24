@@ -1,0 +1,18 @@
+{
+  "lessonId": "neighbours",
+  "title": "Neighbours — новые слова",
+  "items": [
+    { "term": "neighbour", "translation": "сосед", "example": "My neighbour is very friendly." },
+    { "term": "neighbourhood", "translation": "район, соседство", "example": "It's a quiet neighbourhood with nice parks." },
+    { "term": "community", "translation": "сообщество", "example": "There is a strong sense of community here." },
+    { "term": "get on well with", "translation": "ладить с", "example": "I get on well with my neighbours." },
+    { "term": "mind my own business", "translation": "заниматься своим делом", "example": "I prefer to mind my own business." },
+    { "term": "nosy", "translation": "любопытный (слишком)", "example": "My neighbour is very nosy." },
+    { "term": "get on my nerves", "translation": "действовать на нервы", "example": "His loud music gets on my nerves." },
+    { "term": "nuisance", "translation": "неприятность, помеха", "example": "The dog next door is a real nuisance." },
+    { "term": "keep myself to myself", "translation": "держаться особняком", "example": "I like to keep myself to myself." },
+    { "term": "make friends with", "translation": "подружиться с", "example": "We made friends with our neighbours immediately." },
+    { "term": "get to know", "translation": "узнать (познакомиться)", "example": "It took time to get to know our neighbours." },
+    { "term": "fall out with", "translation": "поссориться с", "example": "I fell out with my neighbour over a parking space." }
+  ]
+}

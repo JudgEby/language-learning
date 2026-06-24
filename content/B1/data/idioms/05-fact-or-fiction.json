@@ -1,0 +1,9 @@
+{
+  "lessonId": "fact-or-fiction",
+  "title": "Fact or fiction — идиомы",
+  "items": [
+    { "idiom": "separate fact from fiction", "translation": "отделять факты от вымысла", "example": "In historical films, it's hard to separate fact from fiction." },
+    { "idiom": "take something with a pinch of salt", "translation": "относиться с недоверием", "example": "You should take urban myths with a pinch of salt." },
+    { "idiom": "the stuff of legend", "translation": "то, из чего делаются легенды", "example": "His story became the stuff of legend." }
+  ]
+}

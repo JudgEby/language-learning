@@ -1,0 +1,14 @@
+{
+  "lessonId": "making-plans",
+  "title": "Making plans — фразы",
+  "items": [
+    { "phrase": "I'm planning to…", "translation": "Я планирую…", "example": "I'm planning to visit my family this weekend." },
+    { "phrase": "I'm going to…", "translation": "Я собираюсь…", "example": "I'm going to try out a new pasta recipe tonight." },
+    { "phrase": "I've arranged to…", "translation": "Я договорился…", "example": "I've arranged to meet my brother at the station." },
+    { "phrase": "What are you up to?", "translation": "Чем занимаешься? / Какие планы?", "example": "Hi, what are you up to this evening?" },
+    { "phrase": "I'll see how I feel", "translation": "Посмотрю по самочувствию", "example": "I might go out, or I might just stay home. I'll see how I feel." },
+    { "phrase": "What are you doing…?", "translation": "Что ты делаешь…? (о планах)", "example": "What are you doing at the weekend?" },
+    { "phrase": "I'll call you back", "translation": "Я тебе перезвоню", "example": "I'll call you back to let you know." },
+    { "phrase": "Let me get back to you", "translation": "Я свяжусь с тобой позже", "example": "I'm not sure yet. Let me get back to you." }
+  ]
+}

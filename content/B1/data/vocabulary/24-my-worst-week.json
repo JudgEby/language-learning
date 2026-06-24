@@ -1,0 +1,16 @@
+{
+  "lessonId": "my-worst-week",
+  "title": "My Worst Week — новые слова",
+  "items": [
+    { "term": "memorable", "translation": "запоминающийся", "example": "That was one of the most memorable days of my life." },
+    { "term": "nightmare", "translation": "кошмар", "example": "The week before the wedding was a complete nightmare." },
+    { "term": "embarrassing", "translation": "неловкий, смущающий", "example": "The most embarrassing thing happened to me yesterday." },
+    { "term": "delighted", "translation": "восхищённый, очень довольный", "example": "I was absolutely delighted when I heard the news." },
+    { "term": "shocked", "translation": "шокированный", "example": "I was shocked when I saw the damage to the car." },
+    { "term": "terrified", "translation": "испуганный до смерти", "example": "I was terrified when the dog started barking at me." },
+    { "term": "out of the blue", "translation": "внезапно, как гром среди ясного неба", "example": "My brother phoned me out of the blue." },
+    { "term": "fairy-tale", "translation": "сказка", "example": "I always wanted a fairy-tale wedding." },
+    { "term": "tradition", "translation": "традиция", "example": "The ring has been passed down through generations." },
+    { "term": "surprise", "translation": "сюрприз", "example": "My colleagues organised a surprise party for me." }
+  ]
+}

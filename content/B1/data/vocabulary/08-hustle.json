@@ -1,0 +1,16 @@
+{
+  "lessonId": "hustle",
+  "title": "Hustle — новые слова",
+  "items": [
+    { "term": "art thief", "translation": "похититель произведений искусства", "example": "The art thief stole a valuable painting from the mansion." },
+    { "term": "burglar", "translation": "взломщик", "example": "The burglar broke into the house through a window." },
+    { "term": "con artist", "translation": "мошенник", "example": "The con artist tricked people into giving him money." },
+    { "term": "valuable", "translation": "ценный", "example": "The painting was extremely valuable." },
+    { "term": "security guard", "translation": "охранник", "example": "The security guard was sleeping when the burglar entered." },
+    { "term": "customs officer", "translation": "таможенник", "example": "The customs officer checked all the luggage." },
+    { "term": "weapon", "translation": "оружие", "example": "The guard carried a loaded weapon." },
+    { "term": "burglar alarm", "translation": "сигнализация", "example": "The burglar alarm went off and woke everyone up." },
+    { "term": "artwork", "translation": "произведение искусства", "example": "The artwork was worth millions of dollars." },
+    { "term": "theft", "translation": "кража", "example": "The theft of the Mona Lisa shocked the world." }
+  ]
+}

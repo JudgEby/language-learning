@@ -1,0 +1,17 @@
+{
+  "lessonId": "remote-community",
+  "title": "Remote community — новые слова",
+  "items": [
+    { "term": "remote", "translation": "удалённый, отдалённый", "example": "The village is very remote, far from any city." },
+    { "term": "isolated", "translation": "изолированный", "example": "The island is isolated from the rest of the world." },
+    { "term": "tribe", "translation": "племя", "example": "The tribe has lived on this island for centuries." },
+    { "term": "tradition", "translation": "традиция", "example": "They follow traditions passed down for generations." },
+    { "term": "custom", "translation": "обычай", "example": "One custom is to greet everyone when you arrive." },
+    { "term": "environment", "translation": "окружающая среда", "example": "The environment on the island is beautiful." },
+    { "term": "survive", "translation": "выживать", "example": "They survive by fishing and farming." },
+    { "term": "bind together", "translation": "связывать вместе", "example": "Shared customs bind the community together." },
+    { "term": "community leaders", "translation": "лидеры сообщества", "example": "The community leaders welcomed the visitors." },
+    { "term": "customs", "translation": "обычаи, традиции", "example": "Their customs help keep the community strong." },
+    { "term": "way of life", "translation": "образ жизни", "example": "Their traditional way of life is changing." }
+  ]
+}

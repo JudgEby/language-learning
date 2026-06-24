@@ -1,0 +1,13 @@
+{
+  "id": "same-or-different",
+  "order": 2,
+  "unit": "Unit 1 — Identity",
+  "title": "Same or different",
+  "contentMd": "## Review of verb tenses\n\n### Простая суть\n\nВ английском четыре основных «временных этажа»: настоящее простое (для привычек), настоящее длительное (для действий прямо сейчас), прошедшее простое (для завершённых событий) и прошедшее длительное (для фона в прошлом). Некоторые глаголы — «ленивые» (state verbs): они не любят длительную форму, потому что описывают состояние, а не действие.\n\n### Как это работает\n\n- **Present Simple** — привычки, факты, расписания. *I study every day. Water boils at 100°C.*\n- **Present Continuous** — действие прямо сейчас или вокруг сейчас. *I am reading a book right now.*\n- **Past Simple** — завершённое действие в прошлом. *I met him yesterday.*\n- **Past Continuous** — действие в процессе в определённый момент прошлого, часто фон для другого действия. *I was walking home when it started to rain.*\n- **State verbs** — не используются в Continuous: *know, like, want, need, remember, understand, believe, belong.*\n\n### Живые примеры\n\n- Women **remember** every outfit they've worn. (Женщины помнят каждый наряд — Present Simple, факт)\n- A baby **is crying**, a dog **is barking**. (Ребёнок плачет, собака лает — Present Continuous, прямо сейчас)\n- We **asked** for comments and this **is** what you **said**. (Мы попросили комментарии — Past Simple, завершённое)\n- I **met** him three weeks ago when I **was looking** for an internet café. (Я встретила его — Past Simple, **искала** — Past Continuous, фон)\n- I **understand** the rules. (Я понимаю — state verb, НЕ *I am understanding*)\n\n### Лайфхак для запоминания\n\nPast Simple = точка на линии времени (сделал и забыл). Past Continuous = линия в прошлом (занимался чем-то, когда случилось что-то ещё). State verbs — это ваши «чувства и мысли»: нельзя *быть понимающим* или *быть знающим* — можно просто понимать и знать.",
+  "examples": [
+    "I met him three weeks ago when I was looking for an internet café.",
+    "A baby is crying, a dog is barking.",
+    "Women remember every outfit they've worn for the past twenty years.",
+    "I understand the rules now."
+  ]
+}

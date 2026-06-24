@@ -1,0 +1,14 @@
+{
+  "lessonId": "i-dont-believe-it",
+  "title": "I don't believe it! — фразы",
+  "items": [
+    { "phrase": "This happened when...", "translation": "Это случилось, когда...", "example": "This happened when I was on holiday in Portugal last year." },
+    { "phrase": "All of a sudden", "translation": "Внезапно", "example": "All of a sudden, the lights went out." },
+    { "phrase": "The next thing I knew", "translation": "Следующее, что я понял", "example": "The next thing I knew, I was lying on the floor." },
+    { "phrase": "Before long", "translation": "Вскоре", "example": "Before long, we were all sitting together in the living room." },
+    { "phrase": "In the end", "translation": "В конце концов", "example": "In the end, it was just a cat." },
+    { "phrase": "I don't believe it!", "translation": "Не могу поверить!", "example": "I don't believe it! That's really amazing." },
+    { "phrase": "You're joking!", "translation": "Ты шутишь!", "example": "You're joking! That can't be true." },
+    { "phrase": "Oh dear", "translation": "О боже", "example": "Oh dear, that sounds terrible." }
+  ]
+}

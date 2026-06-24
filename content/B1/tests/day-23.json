@@ -1,0 +1,182 @@
+[
+  {
+    "id": "853dd115581f",
+    "question": "Complete the sentence: She said it ___ to make him angry.",
+    "options": [
+      "The next thing I knew",
+      "on purpose",
+      "picked up",
+      "I would always…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'on purpose' — нарочно. Full sentence: She said it on purpose to make him angry.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "bc04807bcc10",
+    "question": "Choose the correct phrase for: 'Ты, должно быть, счастлив.'",
+    "options": [
+      "hear the news",
+      "That's a good idea",
+      "I suppose that's one thing I don't like",
+      "You must be delighted."
+    ],
+    "correctIndex": 3,
+    "explanation": "'You must be delighted.' — Ты, должно быть, счастлив.. Example: You passed with flying colours! You must be delighted!",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  },
+  {
+    "id": "4bfc3e14a7fe",
+    "question": "Complete the sentence: He has been ___ since he lost his job.",
+    "options": [
+      "break the ice",
+      "hit the ground running",
+      "down in the dumps",
+      "on the blink"
+    ],
+    "correctIndex": 2,
+    "explanation": "'down in the dumps' — в подавленном состоянии. Example: He has been down in the dumps since he lost his job.",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  },
+  {
+    "id": "3b3e7373a179",
+    "question": "Complete the sentence: ___ about the deadline for the assignment.",
+    "options": [
+      "It's a place where…",
+      "You're joking!",
+      "Could you repeat the last part?",
+      "I do have a query"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I do have a query' — У меня есть вопрос/запрос. Full sentence: I do have a query about the deadline for the assignment.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "76152cc0f3a7",
+    "question": "Choose the correct word for: 'поступить в университет'",
+    "options": [
+      "What's the angle?",
+      "What I like about… is…",
+      "get a place at university",
+      "3D printer"
+    ],
+    "correctIndex": 2,
+    "explanation": "'get a place at university' means 'поступить в университет'. Example: She got a place at Oxford University.",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  },
+  {
+    "id": "8611b6ef4f14",
+    "question": "Complete the sentence: I practice with ___s to improve my pronunciation.",
+    "options": [
+      "boiling",
+      "native speaker",
+      "art thief",
+      "I used to…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'native speaker' means носитель языка. Full sentence: I practice with native speakers to improve my pronunciation.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "8a33c1ca93bc",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I'm sorry to has to tell you, but we've offered the job to someone else.",
+      "I'm sorry to htheve to tell you, but we've offered the job to someone else.",
+      "I'm sorry to have to tell you, but we've offered the job to someone else.",
+      "I'm sorry to have to tell you, but we've offered the job to someone else."
+    ],
+    "correctIndex": 2,
+    "explanation": "The correct option is: 'I'm sorry to have to tell you, but we've offered the job to someone else.'",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  },
+  {
+    "id": "8c97e6f990c8",
+    "question": "Which sentence is correct?",
+    "options": [
+      "I have seen that film last week.",
+      "I saw that film last week.",
+      "I have saw that film last week.",
+      "I seen that film last week."
+    ],
+    "correctIndex": 1,
+    "explanation": "With a specific time ('last week'), we use Past Simple, not Present Perfect.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "4f2ad2f7fc67",
+    "question": "Choose the correct word for: 'разбить машину'",
+    "options": [
+      "In the end, ...",
+      "crash a car",
+      "There's a sense of community.",
+      "fiancé / fiancée"
+    ],
+    "correctIndex": 1,
+    "explanation": "'crash a car' means 'разбить машину'. Example: I'm afraid I crashed the car this morning.",
+    "relatedRuleIds": [
+      "thats-great-news"
+    ]
+  },
+  {
+    "id": "42e2c592ffef",
+    "question": "Complete the sentence: The ___ of the Loch Ness Monster is well known.",
+    "options": [
+      "myth",
+      "impossible",
+      "foreign",
+      "What makes it special is…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'myth' means миф. Full sentence: The myth of the Loch Ness Monster is well known.",
+    "relatedRuleIds": [
+      "fact-or-fiction"
+    ]
+  },
+  {
+    "id": "426eaeffb3e7",
+    "question": "Which sentence has the correct word order?",
+    "options": [
+      "What you are talking about?",
+      "What are you talking about?",
+      "What you talking about?",
+      "What are you talking about?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In wh- questions, we put the auxiliary verb before the subject: 'What are you talking about?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "1863ded083d9",
+    "question": "Choose the correct phrase for: 'Если бы я мог …, я бы …'",
+    "options": [
+      "If I could … I'd …",
+      "Why don't we…?",
+      "I remember I used to…",
+      "Let me put it another way"
+    ],
+    "correctIndex": 0,
+    "explanation": "'If I could … I'd …' — Если бы я мог …, я бы …. Example: If I could speak perfect English, I'd move to London.",
+    "relatedRuleIds": [
+      "the-people-watchers"
+    ]
+  }
+]

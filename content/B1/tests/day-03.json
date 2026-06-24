@@ -1,0 +1,182 @@
+[
+  {
+    "id": "c3cfbf86a3a1",
+    "question": "Which is a correct subject question?",
+    "options": [
+      "Who did write this book?",
+      "Who wrote this book?",
+      "Who did written this book?",
+      "Who was write this book?"
+    ],
+    "correctIndex": 1,
+    "explanation": "In subject questions, we don't use an auxiliary verb: 'Who wrote this book?'",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "013cf532a8c6",
+    "question": "Complete the sentence: Being ___ has many cognitive advantages.",
+    "options": [
+      "enormous",
+      "high achiever",
+      "bilingual",
+      "have the opportunity"
+    ],
+    "correctIndex": 2,
+    "explanation": "'bilingual' means двуязычный. Full sentence: Being bilingual has many cognitive advantages.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "bb3bd67fba5d",
+    "question": "Choose the correct phrase for: 'взять на себя ответственность'",
+    "options": [
+      "…, don't you?",
+      "take responsibility",
+      "I've been working on…",
+      "…, haven't you?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'take responsibility' — взять на себя ответственность. Example: Fathers should take more responsibility for their children.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "5051bcdc2b92",
+    "question": "Complete the sentence: ___. Do some research about the company.",
+    "options": [
+      "What do you mean by…?",
+      "get on my nerves",
+      "MA / MSc",
+      "be prepared"
+    ],
+    "correctIndex": 3,
+    "explanation": "'be prepared' means быть подготовленным. Full sentence: Be prepared. Do some research about the company.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "6b5ad6a37532",
+    "question": "Which sentence is correct?",
+    "options": [
+      "For me the most important thing is to just refresh my language skills.",
+      "For me the most important thing are to just refresh my language skills.",
+      "For me the most importthent thing is to just refresh my lthenguthege skills.",
+      "For me the most important thing is to just refresh my language skills."
+    ],
+    "correctIndex": 0,
+    "explanation": "The correct option is: 'For me the most important thing is to just refresh my language skills.'",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "ef3c74919fe0",
+    "question": "Complete the sentence: ___ your conversation class.",
+    "options": [
+      "I get on well with…",
+      "I'd love to join",
+      "on purpose",
+      "I think it's a good idea to…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd love to join' — Я бы с удовольствием присоединился. Full sentence: I'd love to join your conversation class.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
+  },
+  {
+    "id": "89f2e360ed64",
+    "question": "Choose the correct word for: 'жених / невеста'",
+    "options": [
+      "fiancé / fiancée",
+      "What are you up to?",
+      "valuable",
+      "It's a place where…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'fiancé / fiancée' means 'жених / невеста'. Example: This is Marianna, my fiancée. We're getting married next year.",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "682f082c9449",
+    "question": "I ___ him three weeks ago when I ___ for an internet café.",
+    "options": [
+      "met / was looking",
+      "was meeting / looked",
+      "have met / have looked",
+      "met / looked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Simple for the main event ('met'), Past Continuous for the background ('was looking').",
+    "relatedRuleIds": [
+      "same-or-different"
+    ]
+  },
+  {
+    "id": "eee0251db4ca",
+    "question": "Complete the sentence: The interviewer told a joke to ___.",
+    "options": [
+      "get the wrong end of the stick",
+      "back to basics",
+      "break the ice",
+      "get away with murder"
+    ],
+    "correctIndex": 2,
+    "explanation": "'break the ice' — разрядить обстановку. Example: The interviewer told a joke to break the ice.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "ba46bba394af",
+    "question": "Choose the correct phrase for: 'Должен сказать...'",
+    "options": [
+      "… a little / slightly + comparative",
+      "Yes, of course. / Sure.",
+      "I'd have to say...",
+      "People who… often…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I'd have to say...' — Должен сказать.... Example: I'd have to say that teamwork is the most important skill.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "03117a525f0f",
+    "question": "Complete the sentence: First impressions are important, so make ___.",
+    "options": [
+      "When I was younger…",
+      "bilingual",
+      "In the end, …",
+      "eye contact"
+    ],
+    "correctIndex": 3,
+    "explanation": "'eye contact' means зрительный контакт. Full sentence: First impressions are important, so make eye contact.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
+  },
+  {
+    "id": "b0a6cff5e94f",
+    "question": "He ___ recite 22,000 digits of pi. It was very difficult!",
+    "options": [
+      "could",
+      "managed to",
+      "can",
+      "was able"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Managed to' emphasises that it was difficult but he succeeded.",
+    "relatedRuleIds": [
+      "the-memory-men"
+    ]
+  }
+]

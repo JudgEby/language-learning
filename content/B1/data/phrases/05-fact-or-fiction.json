@@ -1,0 +1,16 @@
+{
+  "lessonId": "fact-or-fiction",
+  "title": "Fact or fiction — фразы",
+  "items": [
+    { "phrase": "by mistake", "translation": "по ошибке", "example": "I dropped it by mistake." },
+    { "phrase": "on my own", "translation": "самостоятельно, один", "example": "I saw the film on my own." },
+    { "phrase": "on business", "translation": "по делам (не в отпуск)", "example": "He's here on business." },
+    { "phrase": "by chance", "translation": "случайно", "example": "We met by chance at the airport." },
+    { "phrase": "by hand", "translation": "вручную", "example": "The dress was made by hand." },
+    { "phrase": "in the end", "translation": "в конце концов", "example": "In the end, we decided to take a taxi." },
+    { "phrase": "on purpose", "translation": "нарочно", "example": "She said it on purpose to make him angry." },
+    { "phrase": "on time", "translation": "вовремя", "example": "We arrived on time for the meeting." },
+    { "phrase": "in a moment", "translation": "через минуту", "example": "I'll do that in a moment." },
+    { "phrase": "in a hurry", "translation": "в спешке", "example": "We're in a hurry, please be quick." }
+  ]
+}

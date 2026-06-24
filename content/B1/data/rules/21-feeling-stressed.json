@@ -1,0 +1,13 @@
+{
+  "id": "feeling-stressed",
+  "order": 21,
+  "unit": "Unit 6 — Emotion",
+  "title": "Feeling stressed?",
+  "contentMd": "## Real conditionals (first conditional)\n\n### Простая суть\n\n**Real conditionals** — это про реальные, возможные ситуации в жизни. Два типа: **нулевой** (0 conditional) — для фактов, которые всегда правдивы (*If you heat ice, it melts*), и **первый** (1st conditional) — для конкретных ситуаций в будущем (*If I feel stressed, I'll go for a run*). В обоих случаях условие реальное, а не выдуманное!\n\n### Как это работает\n\n- **Zero conditional (общие факты)**: *If/When + present simple, present simple* → *If you don't deal with anger, it explodes.*\n- **First conditional (будущее)**: *If/When + present simple, will/won't/might + infinitive* → *If I go for a run, I'll feel better.*\n- **Unless** = *if not*: *You won't feel better unless you relax.* (Если не расслабишься, лучше не станет)\n- **As long as / Provided that** = «при условии, что»: *You'll feel fine as long as you get enough sleep.*\n\n### Живые примеры\n\n- **If you don't deal with your anger**, sooner or later **it will explode**. (Если не справляться со злостью, рано или поздно она взорвётся) — 1st\n- **If people laugh about something**, **they feel better**. (Если люди смеются над чем-то, им становится легче) — 0 cond\n- **When you get angry**, **you don't know what to do** with your anger. (Когда злишься, не знаешь, что делать со своей злостью) — 0 cond\n- **If I smash the car to pieces**, **will I feel better?** (Если я разобью машину в щепки, мне станет легче?) — 1st\n- **If I'm stressed**, **I usually take a deep breath** and count to ten. (Если я stressed, я обычно делаю глубокий вдох и считаю до десяти) — 0 cond\n\n### Лайфхак для запоминания\n\nНулевой кондишен — это «законы природы»: *If + present, present*. Первый кондишен — это «планы на будущее»: *If + present, will*. Если видишь *unless* — просто замени его мысленно на *if not*: *I won't go unless you come* = *I won't go if you don't come*. И не забудь: в if-части **никогда** не ставится *will*!",
+  "examples": [
+    "If you don't deal with your anger, sooner or later it will explode.",
+    "If people laugh about something, they feel better.",
+    "If I smash the car to pieces, will I feel better?",
+    "If I'm stressed, I usually take a deep breath and count to ten."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fact-or-fiction",
+  "order": 5,
+  "unit": "Unit 2 — Tales",
+  "title": "Fact or fiction",
+  "contentMd": "## Present perfect and past simple\n\n### Простая суть\n\nРазница между Past Simple и Present Perfect — как разница между «сходил и вернулся» и «всё ещё там». Если событие полностью завершено в прошлом и мы знаем, когда — используем Past Simple. Если важен результат сейчас, или мы говорим о жизненном опыте (без точной даты) — Present Perfect.\n\n### Как это работает\n\n- **Past Simple** — точное время в прошлом (yesterday, last year, in 2010, when I was young). *I saw that film last week.*\n- **Present Perfect** — жизненный опыт, результат сейчас, действие от прошлого к настоящему. *I have seen that film. (неважно когда)*\n- **Слова-маркеры Past Simple**: *yesterday, ago, last..., in + год, when.*\n- **Слова-маркеры Present Perfect**: *ever, never, already, yet, just, for, since, so far, up to now.*\n\n### Живые примеры\n\n- I **have been** to Hollywood, but I **haven't seen** any stars. (Я был в Голливуде, но не видел звёзд — опыт)\n- She **has won** four Oscars for her performances. (Она выиграла четыре Оскара — результат в настоящем)\n- She **won** an award for Best Actress **last month**. (Она выиграла награду в прошлом месяце — точное время)\n- **Have you ever** met someone famous? (Ты когда-нибудь встречал знаменитость? — опыт)\n- **When did you meet** him? — I **met** him three years ago. (Когда ты встретила его? — Я встретила его три года назад — точное время)\n\n### Лайфхак для запоминания\n\nPast Simple = фильм, который ты посмотрел вчера и помнишь, когда. Present Perfect = фильм, который ты видел когда-то в жизни, важно только то, что ты его видел. Представь, что Past Simple — это «точка на календаре», а Present Perfect — «галочка в списке опыта».",
+  "examples": [
+    "I have been to Hollywood, but I haven't seen any stars.",
+    "She won an award for Best Actress last month.",
+    "Have you ever met someone famous?",
+    "When did you meet him? — I met him three years ago."
+  ]
+}

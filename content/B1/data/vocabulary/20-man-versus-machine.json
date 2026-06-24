@@ -1,0 +1,16 @@
+{
+  "lessonId": "man-versus-machine",
+  "title": "Man versus Machine — новые слова",
+  "items": [
+    { "term": "race", "translation": "гонка, соревнование", "example": "Who do you think will win the race?" },
+    { "term": "speed", "translation": "скорость", "example": "He checked his speed on the dashboard." },
+    { "term": "freerunner", "translation": "фрираннер, паркурщик", "example": "The freerunners jumped over walls and railings." },
+    { "term": "direct route", "translation": "прямой путь", "example": "The runners took a more direct route across the city." },
+    { "term": "leap across", "translation": "перепрыгивать через", "example": "They leapt across the gap between the buildings." },
+    { "term": "beat (someone in a race)", "translation": "обогнать, победить", "example": "Do you think you can beat me in a race?" },
+    { "term": "invention", "translation": "изобретение", "example": "Parkour is a French invention." },
+    { "term": "machine", "translation": "машина, механизм", "example": "Robo-Chef is a machine that cooks for you." },
+    { "term": "programme (a machine)", "translation": "программировать", "example": "You can programme the robot to make any dish." },
+    { "term": "adventure", "translation": "приключение", "example": "Starting a new business is a huge adventure." }
+  ]
+}

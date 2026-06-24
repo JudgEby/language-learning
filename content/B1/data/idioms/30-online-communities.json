@@ -1,0 +1,21 @@
+{
+  "lessonId": "online-communities",
+  "title": "Online communities — идиомы",
+  "items": [
+    {
+      "idiom": "troll",
+      "translation": "тролль (провокатор в интернете)",
+      "example": "The forum has a problem with trolls who post negative comments."
+    },
+    {
+      "idiom": "fear of missing out (FOMO)",
+      "translation": "страх пропустить что-то важное",
+      "example": "Seeing everyone's holiday photos on social media gives me serious FOMO."
+    },
+    {
+      "idiom": "lurker",
+      "translation": "пассивный участник (читает, но не пишет)",
+      "example": "I was a lurker on the forum for months before I posted anything."
+    }
+  ]
+}
