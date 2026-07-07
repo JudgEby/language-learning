@@ -361,6 +361,57 @@ body {
   margin-top: 1.25rem;
 }
 
+.study-content table,
+.rule-panel-item table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+
+.study-content thead,
+.rule-panel-item thead {
+  border-bottom: 2px solid var(--color-primary);
+}
+
+.study-content th,
+.rule-panel-item th {
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  white-space: nowrap;
+}
+
+.study-content td,
+.rule-panel-item td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--color-border-light);
+  vertical-align: top;
+}
+
+.study-content tbody tr:hover,
+.rule-panel-item tbody tr:hover {
+  background: var(--color-surface-hover);
+}
+
+.study-content table code,
+.rule-panel-item table code {
+  font-size: 0.9em;
+  background: var(--color-accent-bg);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+@media (max-width: 600px) {
+  .study-content table,
+  .rule-panel-item table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 .examples {
   margin-top: 1.5rem;
   padding-top: 1rem;

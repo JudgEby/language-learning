@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { PageHeader } from '../components/Layout';
 import { loadRulesForIds, loadTestDay } from '../lib/loadContent';
 import type { Rule, TestQuestion } from '../lib/types';
@@ -161,7 +162,7 @@ export function TestViewPage() {
                 rules.map((rule) => (
                   <div key={rule.id} className="rule-panel-item">
                     <h3>{rule.title}</h3>
-                    <ReactMarkdown>{rule.contentMd}</ReactMarkdown>
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{rule.contentMd}</ReactMarkdown>
                   </div>
                 ))
               )}

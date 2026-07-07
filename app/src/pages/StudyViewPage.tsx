@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { PageHeader } from '../components/Layout';
 import { loadLexicon, loadRule } from '../lib/loadContent';
 import { parseStudyKey, studyKey, type Lexicon, type Rule } from '../lib/types';
@@ -64,7 +65,7 @@ export function StudyViewPage() {
         {rule && (
           <>
             <p className="unit-label">{rule.unit}</p>
-            <ReactMarkdown>{rule.contentMd}</ReactMarkdown>
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>{rule.contentMd}</ReactMarkdown>
             {rule.examples.length > 0 && (
               <div className="examples">
                 <h3>Примеры</h3>
