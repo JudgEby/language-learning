@@ -1,0 +1,14 @@
+{
+  "id": "life-changing-decisions",
+  "order": 17,
+  "unit": "Unit 5 — Change",
+  "title": "5A Life-changing Decisions — Смешанный тип условных предложений",
+  "contentMd": "## 5A Life-changing Decisions — Смешанный тип условных предложений\n\n### Простая суть\nТы уже знаешь второй и третий типы условных предложений. Но что, если нужно сказать: «Если бы я тогда поступил в университет (в прошлом), сейчас моя жизнь была бы совсем другой (настоящее)»? В реальности-то времени нет перемотки — прошлое уже не изменить, но его последствия живут в настоящем. Именно для этого и нужны **mixed conditionals** — они соединяют прошлое условие с настоящим (или будущим) результатом.\n\n### Как это работает\nЕсть два основных паттерна:\n\n**1. Прошлое условие → настоящий результат**\n\nСамая частая схема. *If* + **had + V3** (как в третьем типе), а в главной части — **would/could/might + V1** (как во втором типе).\n\n> If I **had gone** to university, my life **would be** different now.\n\n**2. Настоящее условие → прошлый результат**\n\nРеже, но тоже встречается. *If* + **past simple** (как во втором типе), а в главной части — **would/could/might + have + V3** (как в третьем типе).\n\n> If I **weren't** so afraid of flying, I **would have flown** with you to Brazil.\n\n### Живые примеры\n- If we **had chosen** to travel by train rather than by car, we **'d be** there by now. *(Если бы мы выбрали поезд вместо машины, мы бы уже были там.)*\n- You **wouldn't feel** so sick if you **hadn't decided** to eat all that cheese. *(Ты бы не чувствовал себя таким больным, если бы не решил съесть весь этот сыр.)*\n- If I **weren't** so indecisive, this whole situation **would have ended** weeks ago. *(Если бы я не был таким нерешительным, вся эта ситуация закончилась бы недели назад.)*\n- Penny **would be starting** her new job on Monday if she **hadn't rejected** the offer. *(Пенни начала бы новую работу в понедельник, если бы не отказалась от предложения.)*\n- I **wouldn't have called** you if it **wasn't** so important. *(Я бы тебе не позвонил, если бы это не было так важно.)*\n\n### Лайфхак для запоминания\nСмешанный тип — это как «машина времени с багом»: условие в одном времени, а следствие — в другом. Запомни пару «3 → 2»: **If + had V3 → would V1** (прошлое → настоящее). Если видишь *had* в if-части — ищи *would + инфинитив* в результате. Противоположная схема «2 → 3» встречается реже, но логика та же: условие в настоящем (past simple), результат в прошлом (would have V3).",
+  "examples": [
+    "If we had chosen to travel by train rather than by car, we'd be there by now.",
+    "You wouldn't feel so sick if you hadn't decided to eat all that cheese.",
+    "If I weren't so indecisive, this whole situation would have ended weeks ago.",
+    "Penny would be starting her new job on Monday if she hadn't rejected the offer.",
+    "If I'd gone to university, my life might be very different to now."
+  ]
+}

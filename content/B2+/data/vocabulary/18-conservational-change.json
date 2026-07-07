@@ -1,0 +1,81 @@
+{
+  "lessonId": "conservational-change",
+  "title": "5B Conservational Change — Природный мир",
+  "items": [
+    {
+      "term": "conservation",
+      "translation": "сохранение природы",
+      "example": "Conservation of natural habitats is essential for protecting wildlife."
+    },
+    {
+      "term": "environment",
+      "translation": "окружающая среда",
+      "example": "Plastics cause a lot of damage to the environment."
+    },
+    {
+      "term": "environmental",
+      "translation": "экологический",
+      "example": "The government has introduced new environmental regulations."
+    },
+    {
+      "term": "species",
+      "translation": "вид",
+      "example": "Many species are at risk of extinction due to climate change."
+    },
+    {
+      "term": "habitat",
+      "translation": "среда обитания",
+      "example": "Deforestation destroys the natural habitat of countless animals."
+    },
+    {
+      "term": "ecosystem",
+      "translation": "экосистема",
+      "example": "The entire ecosystem depends on the delicate balance between predators and prey."
+    },
+    {
+      "term": "endangered",
+      "translation": "исчезающий",
+      "example": "The giant panda is no longer classified as an endangered species."
+    },
+    {
+      "term": "extinct",
+      "translation": "вымерший",
+      "example": "Dinosaurs became extinct millions of years ago."
+    },
+    {
+      "term": "poacher",
+      "translation": "браконьер",
+      "example": "Poachers kill elephants for their ivory tusks."
+    },
+    {
+      "term": "predator",
+      "translation": "хищник",
+      "example": "Lions are apex predators at the top of the food chain."
+    },
+    {
+      "term": "prey",
+      "translation": "жертва",
+      "example": "The rabbit is a common prey for foxes."
+    },
+    {
+      "term": "migrate",
+      "translation": "мигрировать",
+      "example": "Birds migrate south for the winter."
+    },
+    {
+      "term": "reproduce",
+      "translation": "размножаться",
+      "example": "Climate change is making it difficult for some animals to reproduce."
+    },
+    {
+      "term": "instinctive",
+      "translation": "инстинктивный",
+      "example": "Some animals seem to have an instinctive fear of water."
+    },
+    {
+      "term": "breed",
+      "translation": "разводить, размножаться",
+      "example": "Endangered animals can be bred in captivity and then returned to the wild."
+    }
+  ]
+}

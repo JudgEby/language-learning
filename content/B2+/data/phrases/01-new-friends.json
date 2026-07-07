@@ -1,0 +1,56 @@
+{
+  "lessonId": "new-friends",
+  "title": "1A New Friends — Фразовые глаголы: дружба",
+  "items": [
+    {
+      "phrase": "take to someone",
+      "translation": "проникнуться симпатией",
+      "example": "Claire and I didn't take to each other at first."
+    },
+    {
+      "phrase": "get on well with",
+      "translation": "ладить",
+      "example": "I got on well with her best friend from the start."
+    },
+    {
+      "phrase": "come between",
+      "translation": "встать между",
+      "example": "I suppose I came between them and their friendship."
+    },
+    {
+      "phrase": "warm to someone",
+      "translation": "проникнуться теплотой",
+      "example": "Over time, we warmed to each other and became really close."
+    },
+    {
+      "phrase": "hang around with",
+      "translation": "тусоваться с",
+      "example": "I hung around with her all the time at school."
+    },
+    {
+      "phrase": "fall out",
+      "translation": "поссориться",
+      "example": "We only ever fell out once over something really silly."
+    },
+    {
+      "phrase": "make up",
+      "translation": "помириться",
+      "example": "We made up after just a day of not talking to each other."
+    },
+    {
+      "phrase": "drift apart",
+      "translation": "отдалиться",
+      "example": "Unfortunately, life took us in different directions and we drifted apart."
+    },
+    {
+      "phrase": "stop by",
+      "translation": "зайти",
+      "example": "She stops by my flat if she's passing."
+    },
+    {
+      "phrase": "bump into",
+      "translation": "натолкнуться",
+      "example": "We bump into each other in the supermarket sometimes."
+    }
+  ]
+}

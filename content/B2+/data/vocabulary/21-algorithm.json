@@ -1,0 +1,56 @@
+{
+  "lessonId": "algorithm",
+  "title": "6A Algorithm — Алгоритмы",
+  "items": [
+    {
+      "term": "algorithm",
+      "translation": "алгоритм",
+      "example": "Social media platforms use algorithms to decide what content to show you."
+    },
+    {
+      "term": "data",
+      "translation": "данные",
+      "example": "The algorithm processes vast amounts of data to make accurate predictions."
+    },
+    {
+      "term": "process",
+      "translation": "обрабатывать",
+      "example": "The computer can process millions of calculations per second."
+    },
+    {
+      "term": "input",
+      "translation": "вводные данные, ввод",
+      "example": "The input for the program is a set of user preferences."
+    },
+    {
+      "term": "output",
+      "translation": "вывод, результат",
+      "example": "The output of the algorithm was a list of recommended products."
+    },
+    {
+      "term": "program",
+      "translation": "программа",
+      "example": "She wrote a program that can translate text into multiple languages."
+    },
+    {
+      "term": "code",
+      "translation": "код",
+      "example": "The developers spent hours debugging the code."
+    },
+    {
+      "term": "predict",
+      "translation": "предсказывать",
+      "example": "Machine learning models can predict consumer behaviour with high accuracy."
+    },
+    {
+      "term": "compute",
+      "translation": "вычислять",
+      "example": "The system needs to compute the shortest route between two locations."
+    },
+    {
+      "term": "analyse",
+      "translation": "анализировать",
+      "example": "Data scientists analyse trends to help businesses make better decisions."
+    }
+  ]
+}

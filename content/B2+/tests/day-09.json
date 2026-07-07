@@ -1,0 +1,227 @@
+[
+  {
+    "id": "0087fe235338",
+    "question": "Complete: 'You look ___ you've been swimming.'",
+    "options": [
+      "as if",
+      "as if as",
+      "like as",
+      "like if"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As if' or 'like' can both be used: 'You look as if you've been swimming.'",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "cf36f0d2daf6",
+    "question": "Choose the correct unreal comparison: 'She talks ___ she knew which way to go.'",
+    "options": [
+      "as if",
+      "like",
+      "as if as",
+      "both as if and like"
+    ],
+    "correctIndex": 0,
+    "explanation": "After 'as if', past tense (knew) indicates an unreal comparison.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "82e747d42bbf",
+    "question": "Complete: 'I feel ___ I'd heard the story before.'",
+    "options": [
+      "as though",
+      "like as",
+      "as",
+      "as if that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As though' + past perfect for unreal past comparison.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "7dcb615104bc",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Tom moved his lips slightly as if to smile.",
+      "Tom moved his lips slightly as if smiling.",
+      "Tom moved his lips slightly as if smiled.",
+      "Tom moved his lips slightly as if he smiles."
+    ],
+    "correctIndex": 0,
+    "explanation": "'As if to + verb' expresses purpose or appearance of an action.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "652ef1c74950",
+    "question": "Complete: 'The movie ___ a wide range of emotions in the audience.'",
+    "options": [
+      "stirred",
+      "expressed",
+      "conveyed",
+      "made"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stir emotions' — 'вызывать эмоции'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "d7ba24fa4d23",
+    "question": "What does 'be down in the dumps' mean?",
+    "options": [
+      "быть очень счастливым",
+      "быть в подавленном настроении",
+      "быть уставшим",
+      "быть больным"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be down in the dumps' — 'быть в подавленном настроении'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "d1e044d08524",
+    "question": "Complete: 'It doesn't ___ sense to buy something you don't need.'",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make sense' — 'иметь смысл'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "c135f18abaa7",
+    "question": "What does 'convey' mean?",
+    "options": [
+      "скрывать",
+      "передавать (мысль, эмоцию)",
+      "создавать",
+      "разрушать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Convey' — 'передавать (мысль, идею, эмоцию)'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "c655782684eb",
+    "question": "Complete: 'His speech was very ___ and easy to follow.'",
+    "options": [
+      "logical",
+      "logic",
+      "logically",
+      "logician"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Logical' — 'логичный'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "1f965ff67645",
+    "question": "Complete: 'She talks ___ she knew everything.'",
+    "options": [
+      "as if",
+      "like if",
+      "as",
+      "that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As if + past' — unreal comparison (she doesn't actually know everything).",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "700482e66117",
+    "question": "Choose the real comparison:",
+    "options": [
+      "You look as if you've been swimming.",
+      "You talk as if you were the boss.",
+      "He acts as if he owned the place.",
+      "She looks as if she were a model."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present perfect 'have been' indicates a real possibility.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "99f0e6155928",
+    "question": "What does 'make sense' mean?",
+    "options": [
+      "иметь смысл",
+      "терять смысл",
+      "изменять значение",
+      "производить впечатление"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make sense' means 'иметь смысл, быть понятным'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "8942c05f24d8",
+    "question": "Complete: 'He looks ___ he hasn't slept.'",
+    "options": [
+      "as if",
+      "like if",
+      "as though as",
+      "as that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As if' for comparison.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "8546f0304c77",
+    "question": "Complete: 'It doesn't ___ sense to wait any longer.'",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make sense' — 'иметь смысл'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "de29e9824155",
+    "question": "What does 'convey' mean?",
+    "options": [
+      "передавать",
+      "скрывать",
+      "создавать",
+      "разрушать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Convey' — 'передавать (мысль/эмоцию)'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "72ebbc097948",
+    "question": "Complete: 'I can see where you're ___ from, but on a practical level, it might be difficult.'",
+    "options": [
+      "coming",
+      "going",
+      "starting",
+      "beginning"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See where you're coming from' — 'понимать твою точку зрения'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "a7c7a7645cf3",
+    "question": "Choose the correct acknowledgement phrase:",
+    "options": [
+      "That's a really good idea. But one disadvantage would be...",
+      "That's a really good idea. But disadvantage one would be...",
+      "That's a really good idea. But would one disadvantage be...",
+      "That's a really good idea. But one would be disadvantage..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'But one disadvantage would be' — correct structure for counterargument.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "8b2f3e569ae4",
+    "question": "Complete: 'That's quite a neat idea. ___, we could simply reduce the prices.'",
+    "options": [
+      "Alternatively",
+      "Alternative",
+      "Alternate",
+      "Alternating"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Alternatively' — 'как альтернатива, с другой стороны'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "a587e991f1f5",
+    "question": "Complete: 'I can see the ___ in that, but it may reduce our profits.'",
+    "options": [
+      "logic",
+      "logical",
+      "logically",
+      "logician"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See the logic in that' — 'видеть логику в этом'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "55f57920484a",
+    "question": "What does 'persuasion' mean?",
+    "options": [
+      "принуждение",
+      "убеждение",
+      "обсуждение",
+      "игнорирование"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Persuasion' — 'убеждение'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "b2d690b7c44e",
+    "question": "Complete: 'Money is a powerful ___ for most people.'",
+    "options": [
+      "incentive",
+      "excuse",
+      "reason",
+      "motivation"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Incentive' — 'стимул'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "148707c6932f",
+    "question": "What does 'coaxing' mean?",
+    "options": [
+      "уговаривание",
+      "запугивание",
+      "принуждение",
+      "критика"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Coaxing' — 'уговаривание'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "c780ec2334cb",
+    "question": "Complete: 'A good manager knows how to ___ their team.'",
+    "options": [
+      "motivate",
+      "motivation",
+      "motivational",
+      "motivating"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Motivate' — verb 'мотивировать'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "c2f16c1ed534",
+    "question": "What does 'manipulation' mean?",
+    "options": [
+      "честное убеждение",
+      "манипуляция (скрытое влияние)",
+      "сотрудничество",
+      "поддержка"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Manipulation' — 'манипуляция, скрытое влияние'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "706358f82e3f",
+    "question": "Complete: 'There's a lot of ___ on parents to choose the right school.'",
+    "options": [
+      "pressure",
+      "press",
+      "pressing",
+      "pressed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pressure' — 'давление'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "ab46baf0f996",
+    "question": "Complete: 'That's a really good idea. But one ___ would be the cost.'",
+    "options": [
+      "disadvantage",
+      "advantage",
+      "benefit",
+      "positive"
+    ],
+    "correctIndex": 0,
+    "explanation": "'One disadvantage would be' — introducing a counterargument.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "2e2f3cb0537d",
+    "question": "Complete: 'I can see the ___ in that argument.'",
+    "options": [
+      "logic",
+      "logical",
+      "logically",
+      "logician"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See the logic' — 'видеть логику'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "f89b88c10828",
+    "question": "What does 'motivate' mean?",
+    "options": [
+      "мотивировать",
+      "манипулировать",
+      "заставлять",
+      "уговаривать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Motivate' means 'мотивировать'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "7cf61abc0d5f",
+    "question": "Complete: 'I can see where you're ___ from.'",
+    "options": [
+      "coming",
+      "going",
+      "starting",
+      "running"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See where you're coming from' — 'понимать твою точку зрения'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "0c137bd84110",
+    "question": "Complete: '___ salary is a powerful motivator.'",
+    "options": [
+      "A",
+      "The",
+      "An",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'A salary' — general statement.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "lessonId": "past-and-present",
+  "title": "7D Past and Present — Воспоминания",
+  "items": [
+    {
+      "term": "memory",
+      "translation": "память, воспоминание",
+      "example": "I have a vivid memory of my first day at school."
+    },
+    {
+      "term": "vivid",
+      "translation": "яркий, отчётливый",
+      "example": "The memory is still very vivid after all these years."
+    },
+    {
+      "term": "recall",
+      "translation": "вспоминать",
+      "example": "I can't recall exactly what happened."
+    },
+    {
+      "term": "reminisce",
+      "translation": "предаваться воспоминаниям",
+      "example": "They spent the evening reminiscing about their childhood."
+    },
+    {
+      "term": "nostalgia",
+      "translation": "ностальгия",
+      "example": "The old photos filled her with nostalgia."
+    },
+    {
+      "term": "memorable",
+      "translation": "запоминающийся",
+      "example": "It was one of the most memorable trips I've ever had."
+    },
+    {
+      "term": "impression",
+      "translation": "впечатление",
+      "example": "The view made a lasting impression on me."
+    },
+    {
+      "term": "childhood",
+      "translation": "детство",
+      "example": "She has happy memories of her childhood."
+    },
+    {
+      "term": "flashback",
+      "translation": "воспоминание, флешбэк",
+      "example": "I had a sudden flashback to that day."
+    }
+  ]
+}

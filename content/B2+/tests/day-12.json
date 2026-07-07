@@ -1,0 +1,227 @@
+[
+  {
+    "id": "133a759cfb09",
+    "question": "Complete: 'I really ___ up to my grandfather — he's my role model.'",
+    "options": [
+      "look",
+      "watch",
+      "see",
+      "take"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Look up to someone' — 'равняться на кого-то, уважать'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "e86d455c01c0",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She's passionate about helping others achieve their goals.",
+      "She's passionate for helping others achieve their goals.",
+      "She's passionate on helping others achieve their goals.",
+      "She's passionate to helping others achieve their goals."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Passionate about' — 'увлечённый чем-то'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "fdcb27717353",
+    "question": "Complete: 'Her story is an ___ to everyone who hears it.'",
+    "options": [
+      "inspiration",
+      "inspiring",
+      "inspired",
+      "inspire"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Inspiration' — noun 'вдохновение, вдохновляющий пример'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "3aab7eb374d4",
+    "question": "What does 'visionary' mean?",
+    "options": [
+      "человек, который хорошо видит",
+      "провидец, дальновидный человек",
+      "мечтатель",
+      "пессимист"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Visionary' — 'провидец, человек с дальновидными идеями'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "924d627b1d1f",
+    "question": "Complete: 'Einstein is a true ___ of scientific genius.'",
+    "options": [
+      "role model",
+      "role play",
+      "role call",
+      "role game"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Role model' — 'образец для подражания'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "b3cff21314b4",
+    "question": "What does 'set an example' mean?",
+    "options": [
+      "подавать пример",
+      "устанавливать рекорд",
+      "проводить урок",
+      "составлять план"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Set an example' — 'подавать пример'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "85cdb47b8c9d",
+    "question": "Complete: 'We all ___ the way she handled the situation.'",
+    "options": [
+      "admired",
+      "looked up",
+      "inspired",
+      "motivated"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Admire' — 'восхищаться'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "c3373d96c63c",
+    "question": "What does 'achievement' mean?",
+    "options": [
+      "достижение",
+      "провал",
+      "начало",
+      "цель"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Achievement' — 'достижение'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "666684a05d78",
+    "question": "Complete: 'She ___ her goal of becoming a doctor.'",
+    "options": [
+      "achieved",
+      "arrived",
+      "completed",
+      "fulfilled"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Achieve a goal' — 'достичь цели'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "4778cea4d518",
+    "question": "Complete: 'A true ___ sets an example for others.'",
+    "options": [
+      "visionary",
+      "vision",
+      "visible",
+      "visual"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Visionary' — 'провидец, дальновидный человек'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "453af9aa3fdd",
+    "question": "Complete: 'She ___ an example for her younger colleagues.'",
+    "options": [
+      "sets",
+      "makes",
+      "does",
+      "gives"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Set an example' — 'подавать пример'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "99c07ae51983",
+    "question": "What does 'passionate' mean?",
+    "options": [
+      "увлечённый, страстно любящий",
+      "равнодушный",
+      "спокойный",
+      "ленивый"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Passionate' means 'увлечённый, страстно любящий'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "cadec6ed8176",
+    "question": "Complete: 'Everybody ___ her dedication.'",
+    "options": [
+      "admired",
+      "looked up",
+      "inspired",
+      "motivated"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Admired' — 'восхищались'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "bf6f181da2ad",
+    "question": "Complete: 'Martin Luther King was a true ___.'",
+    "options": [
+      "visionary",
+      "viewer",
+      "visitor",
+      "victim"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Visionary' — 'провидец, дальновидный лидер'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "d1b84c3fa852",
+    "question": "What does 'goal' mean?",
+    "options": [
+      "цель",
+      "гол",
+      "начало",
+      "путь"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Goal' — 'цель'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  }
+]

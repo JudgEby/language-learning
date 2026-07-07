@@ -1,0 +1,15 @@
+{
+  "id": "algorithm",
+  "order": 21,
+  "unit": "Unit 6 — Oops!",
+  "title": "6A Algorithm — Инверсия",
+  "contentMd": "## 6A Algorithm — Инверсия\n\n### Простая суть\nИногда хочется начать предложение не с подлежащего, а с обстоятельства — чтобы придать вес своим словам или прозвучать более формально. В английском для этого есть **инверсия** — когда отрицательное или ограничительное наречие выносится в начало, а порядок слов меняется на вопросительный (вспомогательный глагол → подлежащее).\n\n### Как это работает\n\nЕсли предложение начинается с одного из этих слов/фраз, ставь **вспомогательный глагол перед подлежащим**:\n\n- **Never (before)** … — «Никогда (раньше)…»\n- **Under no circumstances** … — «Ни при каких обстоятельствах…»\n- **Not only … , but also …** — «Не только…, но и…»\n- **Only + время** … — «Только (когда/после того как)…»\n- **In no way** … — «Никоим образом…»\n\nФормула: **Negative/limiting adverbial + auxiliary + subject + main verb**\n> Normal: I **have never** seen such a mess!\n> Inversion: **Never have I** seen such a mess!\n\nЕсли в нормальном предложении нет вспомогательного глагола — добавляем **do/does/did**.\n> Normal: They **only met** the landlord three months later.\n> Inversion: **Only three months later did they meet** the landlord.\n\n### Живые примеры\n- **Never before had I** been so scared! *(Никогда раньше я не был так напуган!)*\n- **Under no circumstances should you** give your bank details to anyone. *(Ни при каких обстоятельствах не сообщай свои банковские данные кому-либо.)*\n- **Not only was he** handsome, **but he was also** rich. *(Он был не только красив, но и богат.)*\n- **Only later was it clear** to me that he had been lying. *(Только позже мне стало ясно, что он лгал.)*\n- **In no way was I** happy with the decision. *(Я никоим образом не был доволен решением.)*\n- **Never will I go** there again! *(Никогда больше я туда не пойду!)*\n\n### Лайфхак для запоминания\nИнверсия — это как «переодеть предложение задом наперёд». Если видишь в начале *never, only, not only, under no circumstances, in no way* — сразу «включай» режим вопроса. Мысленно подставь вопросительный знак и перестрой порядок: *Never I have seen → Never have I seen*. Просто запомни: отрицание в начало → глагол на место подлежащего.",
+  "examples": [
+    "Never before had I been so scared!",
+    "Under no circumstances should you give your bank details to anyone.",
+    "Not only was he handsome, but he was also rich.",
+    "Only later was it clear to me that he had been lying.",
+    "In no way was I happy with the decision.",
+    "Never will I go there again!"
+  ]
+}

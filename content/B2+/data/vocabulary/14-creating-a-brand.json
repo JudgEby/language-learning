@@ -1,0 +1,56 @@
+{
+  "lessonId": "creating-a-brand",
+  "title": "4B Creating a Brand — Реклама",
+  "items": [
+    {
+      "term": "brand",
+      "translation": "бренд, торговая марка",
+      "example": "This is one of the most recognisable brands."
+    },
+    {
+      "term": "branding",
+      "translation": "брендинг",
+      "example": "Branding is essential for customer loyalty."
+    },
+    {
+      "term": "promote",
+      "translation": "продвигать, рекламировать",
+      "example": "They are promoting their new product online."
+    },
+    {
+      "term": "marketing strategy",
+      "translation": "маркетинговая стратегия",
+      "example": "The marketing strategy needs to be updated."
+    },
+    {
+      "term": "campaign",
+      "translation": "кампания",
+      "example": "The advertising campaign was a huge success."
+    },
+    {
+      "term": "target audience",
+      "translation": "целевая аудитория",
+      "example": "Who is the target audience for this ad?"
+    },
+    {
+      "term": "advertise",
+      "translation": "рекламировать",
+      "example": "Companies advertise on social media."
+    },
+    {
+      "term": "logo",
+      "translation": "логотип",
+      "example": "The logo is simple but memorable."
+    },
+    {
+      "term": "slogan",
+      "translation": "слоган",
+      "example": "They created a catchy slogan for the brand."
+    },
+    {
+      "term": "launch",
+      "translation": "запуск, выпуск",
+      "example": "The product launch is scheduled for next month."
+    }
+  ]
+}

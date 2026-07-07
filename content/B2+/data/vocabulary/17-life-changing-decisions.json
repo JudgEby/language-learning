@@ -1,0 +1,46 @@
+{
+  "lessonId": "life-changing-decisions",
+  "title": "5A Life-changing Decisions — Решения и нерешительность",
+  "items": [
+    {
+      "term": "decision",
+      "translation": "решение",
+      "example": "Making the right decision can change your entire future."
+    },
+    {
+      "term": "indecision",
+      "translation": "нерешительность",
+      "example": "Her indecision cost her the opportunity of a lifetime."
+    },
+    {
+      "term": "make up your mind",
+      "translation": "принять решение",
+      "example": "You need to make up your mind about which university to attend."
+    },
+    {
+      "term": "weigh up options",
+      "translation": "взвешивать варианты",
+      "example": "I spent days weighing up my options before accepting the job offer."
+    },
+    {
+      "term": "dilemma",
+      "translation": "дилемма",
+      "example": "She faced a dilemma between pursuing her career and starting a family."
+    },
+    {
+      "term": "choice",
+      "translation": "выбор",
+      "example": "We have a difficult choice to make about moving abroad."
+    },
+    {
+      "term": "reconsider",
+      "translation": "пересмотреть",
+      "example": "After the new information came to light, I had to reconsider my position."
+    },
+    {
+      "term": "decisive",
+      "translation": "решительный",
+      "example": "A good leader needs to be decisive in times of crisis."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "6acf51156b73",
+    "question": "Which sentence expresses regret about the past?",
+    "options": [
+      "I shouldn't have said that. I really regret it now.",
+      "I shouldn't say that.",
+      "I should say that.",
+      "I should be saying that."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't have + V3' expresses regret about a past action.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "fe34ba6f043a",
+    "question": "Complete expressing probability: 'I've changed the settings. It ___ work better now.'",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "would"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' for probability — 'должно быть, будет работать лучше'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "74462e94cde2",
+    "question": "Choose the correct formal condition: '___ you experience any problems, please contact us.'",
+    "options": [
+      "Should",
+      "If should",
+      "Do",
+      "Would"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should you experience' — formal conditional without 'if' (inversion).",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "b6ed9b8633e4",
+    "question": "Complete expressing criticism: 'She ___ working so hard. She looks exhausted.'",
+    "options": [
+      "shouldn't be",
+      "shouldn't have",
+      "should be",
+      "should not"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't be + V-ing' — criticism about an ongoing action.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "fe9807dc849c",
+    "question": "Complete: 'You ___ take a photo of us all.' (recommendation)",
+    "options": [
+      "should",
+      "must",
+      "could",
+      "might"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' for advice/recommendation.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "13cd2c4f203f",
+    "question": "Choose the correct sentence with 'should' expressing an ideal:",
+    "options": [
+      "They should give us a day off.",
+      "They should to give us a day off.",
+      "They should giving us a day off.",
+      "They should have give us a day off."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should + base verb' for what is ideal/expected.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "bbacd11c252a",
+    "question": "What does 'blurred' mean in photography?",
+    "options": [
+      "резкий",
+      "размытый",
+      "яркий",
+      "тёмный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Blurred' — 'размытый, нечёткий'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "11e9b6ecdee7",
+    "question": "Complete: 'Please ___ in on the subject to get a clearer shot.'",
+    "options": [
+      "zoom",
+      "frame",
+      "pose",
+      "focus"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Zoom in' — 'приблизить'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "3ccc354a1a41",
+    "question": "What does 'composition' mean in photography?",
+    "options": [
+      "композиция, расположение объектов в кадре",
+      "освещение",
+      "цветовая гамма",
+      "разрешение"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Composition' — 'композиция, построение кадра'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "ad9035dc226c",
+    "question": "Complete: 'The photographer asked us to ___ for the group photo.'",
+    "options": [
+      "pose",
+      "frame",
+      "shot",
+      "focus"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pose' — 'позировать'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "939c4cb8b271",
+    "question": "Complete: 'You ___ try the new restaurant — the food is amazing!'",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' for recommendation.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "4aa8de9cd94b",
+    "question": "Complete expressing probability: 'The train ___ arrive in five minutes.'",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "would"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Should' for logical probability.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "4d7809fcc0ca",
+    "question": "What does 'composition' mean in photography?",
+    "options": [
+      "композиция, построение кадра",
+      "освещение",
+      "резкость",
+      "цвет"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Composition' means 'композиция, построение кадра'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "e04e34d38066",
+    "question": "Complete: 'I ___ have said that — I really regret it.'",
+    "options": [
+      "shouldn't",
+      "should",
+      "mustn't",
+      "could"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't have + V3' — regret about the past.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "585138285d43",
+    "question": "Complete: 'She ___ be working so hard — she looks exhausted.'",
+    "options": [
+      "shouldn't",
+      "should",
+      "mustn't",
+      "can't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shouldn't be + V-ing' — criticism.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  }
+]

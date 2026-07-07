@@ -1,0 +1,227 @@
+[
+  {
+    "id": "c395c8404f2d",
+    "question": "Complete the conversation: 'Do you think it'll happen?' — 'I hope ___.'",
+    "options": [
+      "so",
+      "it",
+      "that",
+      "yes"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I hope so' — 'so' substitutes the whole previous clause.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "8402bdfc9d55",
+    "question": "Choose the correct negative substitution: 'Will it rain tomorrow?' — 'I hope ___.'",
+    "options": [
+      "not",
+      "so",
+      "no",
+      "it doesn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I hope not' — 'not' substitutes the negative clause.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "e73dbe655e19",
+    "question": "Complete: 'Not many people have a car, but I ___.'",
+    "options": [
+      "do",
+      "have",
+      "am",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Do' substitutes 'have a car' — auxiliary verb replaces the whole verb phrase.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "0371de34ac4e",
+    "question": "Which sentence uses ellipsis correctly?",
+    "options": [
+      "Sounds good to me.",
+      "Sounds good it to me.",
+      "It sounds good to me it.",
+      "Sounds to me good."
+    ],
+    "correctIndex": 0,
+    "explanation": "'(That) sounds good to me' — subject 'that' is omitted in informal speech.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "8a47e86e77ec",
+    "question": "Complete: 'We were asked to partner with the company and we did ___.'",
+    "options": [
+      "so",
+      "it",
+      "that",
+      "same"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Did so' — formal substitution for the verb phrase.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "1bee673a08be",
+    "question": "Complete: 'The two companies formed a strategic ___ to develop new technology.'",
+    "options": [
+      "alliance",
+      "rivalry",
+      "competition",
+      "enemy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Alliance' — 'альянс, союз'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "b3f6077c1064",
+    "question": "What does 'competitive edge' mean?",
+    "options": [
+      "конкурентное преимущество",
+      "честная игра",
+      "конец соревнования",
+      "соревновательный дух"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competitive edge' — 'конкурентное преимущество'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "054dd319a55c",
+    "question": "Complete: 'We need to ___ resources to finish the project on time.'",
+    "options": [
+      "combine",
+      "take",
+      "make",
+      "give"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Combine resources' — 'объединять ресурсы'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "81b7829d22e1",
+    "question": "What does 'cooperate' mean?",
+    "options": [
+      "соперничать",
+      "сотрудничать",
+      "конкурировать",
+      "игнорировать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cooperate' — 'сотрудничать, взаимодействовать'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "3c63c75a4817",
+    "question": "Complete: 'Their ___ over the new client lasted for months.'",
+    "options": [
+      "rivalry",
+      "alliance",
+      "cooperation",
+      "friendship"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rivalry' — 'соперничество'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "b8d16972fdd4",
+    "question": "Complete: 'A: Will he agree? B: I hope ___.'",
+    "options": [
+      "so",
+      "it",
+      "that",
+      "yes"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I hope so' — substitution for the clause 'he will agree'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "f6bbf28aea45",
+    "question": "Complete: 'A: Is it going to rain? B: I hope ___.'",
+    "options": [
+      "not",
+      "no",
+      "so",
+      "it isn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I hope not' — negative substitution.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "cfb99da818ae",
+    "question": "What does 'form a partnership' mean?",
+    "options": [
+      "сформировать партнёрство",
+      "разорвать отношения",
+      "конкурировать",
+      "объединиться"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Form a partnership' means 'сформировать партнёрство'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "95427de1c3d8",
+    "question": "Complete: 'We were asked to partner and we did ___.'",
+    "options": [
+      "so",
+      "it",
+      "that",
+      "the same"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Did so' — formal substitution.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "92e5bbb2efa9",
+    "question": "What does 'alliance' mean?",
+    "options": [
+      "альянс, союз",
+      "соперничество",
+      "конкуренция",
+      "одиночество"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Alliance' means 'альянс, союз'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  }
+]

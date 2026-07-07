@@ -1,0 +1,51 @@
+{
+  "lessonId": "branding-behaviour",
+  "title": "4D Branding and Behaviour — Маркетинг",
+  "items": [
+    {
+      "term": "marketing",
+      "translation": "маркетинг",
+      "example": "They invested heavily in digital marketing."
+    },
+    {
+      "term": "consumer",
+      "translation": "потребитель",
+      "example": "Consumers expect high-quality products."
+    },
+    {
+      "term": "impulse buyer",
+      "translation": "импульсивный покупатель",
+      "example": "Impulse buyers often regret their purchases."
+    },
+    {
+      "term": "product launch",
+      "translation": "запуск продукта",
+      "example": "The product launch attracted a lot of media attention."
+    },
+    {
+      "term": "rebrand",
+      "translation": "ребрендинг",
+      "example": "The company decided to rebrand itself."
+    },
+    {
+      "term": "sales",
+      "translation": "продажи",
+      "example": "Sales have increased by twenty percent."
+    },
+    {
+      "term": "profit",
+      "translation": "прибыль",
+      "example": "The business made a healthy profit this year."
+    },
+    {
+      "term": "brand image",
+      "translation": "имидж бренда",
+      "example": "A scandal can damage a company's brand image."
+    },
+    {
+      "term": "PR",
+      "translation": "связи с общественностью (PR)",
+      "example": "They hired a PR agency to improve their reputation."
+    }
+  ]
+}

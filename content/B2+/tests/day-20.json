@@ -1,0 +1,227 @@
+[
+  {
+    "id": "bb9d5aa31628",
+    "question": "Complete: 'I've built a ___ of reading before bed.'",
+    "options": [
+      "habit",
+      "routine",
+      "custom",
+      "tradition"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Build a habit' — 'выработать привычку'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "3dd752c3d615",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "It takes commitment to stick to a new routine.",
+      "It takes commitment to stick at a new routine.",
+      "It takes commitment to stick with a new routine.",
+      "It takes commitment to stick on a new routine."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stick to' — 'придерживаться'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "7033857b343f",
+    "question": "Complete: 'After the holidays I need to get back on ___ with my exercise.'",
+    "options": [
+      "track",
+      "road",
+      "path",
+      "route"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get back on track' — 'вернуться в колею, к своим привычкам'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "0e2d6a5a0aab",
+    "question": "What does 'consistency' mean in forming habits?",
+    "options": [
+      "постоянство, регулярность",
+      "сознание",
+      "концентрация",
+      "решимость"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Consistency' — 'постоянство, регулярность'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "1e9a5d60de70",
+    "question": "Complete: 'A positive ___ is essential for achieving your goals.'",
+    "options": [
+      "mindset",
+      "mind",
+      "mentality",
+      "thinking"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mindset' — 'образ мыслей, установка'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "56809917cf0a",
+    "question": "What does 'see it through' mean?",
+    "options": [
+      "увидеть насквозь",
+      "довести до конца",
+      "понять суть",
+      "проверить"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See it through' — 'довести до конца, не бросить'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "fa9c78de3ae6",
+    "question": "Complete: 'She had the ___ to keep going despite the setbacks.'",
+    "options": [
+      "determination",
+      "decision",
+      "direction",
+      "destination"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Determination' — 'решимость, настойчивость'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "8e89745d7f72",
+    "question": "What does 'reward' mean in the context of habits?",
+    "options": [
+      "наказание",
+      "награда (за усилие)",
+      "рутина",
+      "цель"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reward' — 'награда, поощрение'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "fbe4b817cc5c",
+    "question": "Complete: 'After the illness, I need to get back on ___.'",
+    "options": [
+      "track",
+      "road",
+      "path",
+      "way"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get back on track' — 'вернуться к нормальной жизни'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "3447789186de",
+    "question": "Complete: 'It takes ___ to build a new habit.'",
+    "options": [
+      "consistency",
+      "consciousness",
+      "conscience",
+      "consequence"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Consistency' — 'постоянство, регулярность'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "0b370fe2320c",
+    "question": "What does 'stick to' mean?",
+    "options": [
+      "придерживаться",
+      "отклоняться",
+      "начинать",
+      "заканчивать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stick to' means 'придерживаться'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "d461997852f2",
+    "question": "Complete: 'She has the ___ to succeed.'",
+    "options": [
+      "determination",
+      "decoration",
+      "destination",
+      "destruction"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Determination' — 'решимость'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "7d808a620207",
+    "question": "Complete: 'A positive ___ helps you achieve your goals.'",
+    "options": [
+      "mindset",
+      "mind",
+      "mentality",
+      "thinking"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mindset' — 'образ мыслей'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "355088b1f9f0",
+    "question": "What does 'see it through' mean?",
+    "options": [
+      "довести до конца",
+      "увидеть насквозь",
+      "понять",
+      "проверить"
+    ],
+    "correctIndex": 0,
+    "explanation": "'See it through' — 'довести до конца'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "fa6ecee16c80",
+    "question": "Complete: 'I need to get back on ___ after the holidays.'",
+    "options": [
+      "track",
+      "road",
+      "path",
+      "route"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get back on track' — 'вернуться в колею'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  }
+]

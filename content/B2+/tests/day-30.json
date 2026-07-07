@@ -1,0 +1,242 @@
+[
+  {
+    "id": "3e4341b1b521",
+    "question": "Complete expressing an opinion: '___, I think the idea of never going on holiday is crazy!'",
+    "options": [
+      "Frankly",
+      "Frank",
+      "Frankness",
+      "Frankly speaking"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Frankly, I think...' — expressing a direct opinion.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "a61872ca31c4",
+    "question": "Choose the correct agreeing phrase:",
+    "options": [
+      "I'm not good at saving. — That makes two of us.",
+      "I'm not good at saving. — That makes two of you.",
+      "I'm not good at saving. — That's two of us.",
+      "I'm not good at saving. — We are two."
+    ],
+    "correctIndex": 0,
+    "explanation": "'That makes two of us' — 'я тоже, мы в одинаковом положении'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "41fd86ec749e",
+    "question": "Complete: 'I'm ___ Tom here. You need to plan for the future.'",
+    "options": [
+      "with",
+      "agree",
+      "support",
+      "in"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'm with Tom' — 'я согласен с Томом, поддерживаю его'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "d6e46a010bb7",
+    "question": "Complete: 'But the other ___ of the coin is that I work hard.'",
+    "options": [
+      "side",
+      "face",
+      "part",
+      "end"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The other side of the coin' — 'другая сторона медали'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "be82cd39a7de",
+    "question": "What does 'overpriced' mean?",
+    "options": [
+      "со скидкой",
+      "с завышенной ценой",
+      "доступный",
+      "бесплатный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Overpriced' — 'с завышенной ценой'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "e83bd86a0d92",
+    "question": "Complete: 'This was a real ___ — I paid half the original price.'",
+    "options": [
+      "bargain",
+      "cost",
+      "price",
+      "profit"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bargain' — 'выгодная покупка, удачная цена'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "be2a747edce8",
+    "question": "What does 'artificial' mean?",
+    "options": [
+      "естественный",
+      "искусственный",
+      "настоящий",
+      "органический"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Artificial' — 'искусственный'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "c932a4232820",
+    "question": "Complete: 'The ___ was programmed to perform simple household tasks.'",
+    "options": [
+      "robot",
+      "robotics",
+      "robotic",
+      "robotise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Robot' — 'робот'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "6c288dd6f56c",
+    "question": "What does 'futuristic' mean?",
+    "options": [
+      "старомодный",
+      "футуристический, очень современный",
+      "древний",
+      "классический"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Futuristic' — 'футуристический, очень современный'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "66e34ef20cc7",
+    "question": "Complete: 'That technology seemed like pure ___ ten years ago.'",
+    "options": [
+      "sci-fi",
+      "sci-fy",
+      "sci-fiction",
+      "science-fic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sci-fi' — short for 'science fiction'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "af91c2a6c9c6",
+    "question": "What does 'drone' mean?",
+    "options": [
+      "дрон, беспилотник",
+      "двигатель",
+      "дисплей",
+      "драйвер"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Drone' — 'дрон, беспилотный летательный аппарат'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "e89502ea0522",
+    "question": "Complete: 'The new ___ allows doctors to perform remote surgery.'",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventor"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Invention' — 'изобретение'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "cc2c7b5ad3b5",
+    "question": "Complete: 'Frankly, I ___ the idea is ridiculous.'",
+    "options": [
+      "think",
+      "am thinking",
+      "thought",
+      "have thought"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Frankly, I think' — expressing a direct opinion.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "a55d8c80fbcc",
+    "question": "Complete: 'Well, it's been great ___ to you.'",
+    "options": [
+      "talking",
+      "talk",
+      "talked",
+      "to talk"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It's been great talking to you' — wrapping up.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "ff73aca7196a",
+    "question": "Complete: 'The ___ was designed to perform household tasks.'",
+    "options": [
+      "robot",
+      "robotics",
+      "robotic",
+      "robotise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Robot' — 'робот'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "eaae540f7090",
+    "question": "What does 'innovation' mean?",
+    "options": [
+      "инновация, нововведение",
+      "инвестиция",
+      "инструкция",
+      "инспекция"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Innovation' means 'инновация, нововведение'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "aa02fa142cf5",
+    "question": "What does 'PR' stand for in marketing?",
+    "options": [
+      "Public Relations",
+      "Private Request",
+      "Product Return",
+      "Price Reduction"
+    ],
+    "correctIndex": 0,
+    "explanation": "'PR' — 'Public Relations, связи с общественностью'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "aefcf27579cf",
+    "question": "Complete: 'The product ___ was scheduled for next month.'",
+    "options": [
+      "launch",
+      "start",
+      "open",
+      "release"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Product launch' — 'запуск продукта'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "d6fd99c044a8",
+    "question": "What does 'impulse buyer' mean?",
+    "options": [
+      "человек, который покупает по списку",
+      "импульсивный покупатель",
+      "оптовый покупатель",
+      "постоянный клиент"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Impulse buyer' — 'импульсивный покупатель (покупает спонтанно)'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "fb74376044cf",
+    "question": "Complete: 'A good ___ team can protect the company's reputation.'",
+    "options": [
+      "PR",
+      "sales",
+      "profit",
+      "product"
+    ],
+    "correctIndex": 0,
+    "explanation": "'PR team' — 'отдел по связям с общественностью'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "64ea848f00ef",
+    "question": "What does 'profit' mean?",
+    "options": [
+      "убыток",
+      "прибыль",
+      "продажи",
+      "инвестиции"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Profit' — 'прибыль'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "9ca249cdb943",
+    "question": "Complete: 'The company saw a rise in ___ after the campaign.'",
+    "options": [
+      "sales",
+      "sale",
+      "selling",
+      "sold"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sales' — 'продажи, объём продаж'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "d25018ed9f64",
+    "question": "What does 'rebrand' involve?",
+    "options": [
+      "закрытие компании",
+      "изменение имиджа бренда",
+      "снижение цен",
+      "увольнение сотрудников"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rebrand' — 'изменить имидж бренда, сделать ребрендинг'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "32ccefda793f",
+    "question": "Complete: 'The company plans to ___ its brand for a younger audience.'",
+    "options": [
+      "rebrand",
+      "remarket",
+      "relaunch",
+      "repackage"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rebrand' — 'сделать ребрендинг'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "c6577da09d14",
+    "question": "Complete: 'Their marketing ___ targeted young professionals.'",
+    "options": [
+      "campaign",
+      "camp",
+      "campus",
+      "champion"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Campaign' — 'кампания'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "cb0c224bc45e",
+    "question": "What does 'impulse buyer' mean?",
+    "options": [
+      "импульсивный покупатель",
+      "оптовый покупатель",
+      "постоянный клиент",
+      "продавец"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Impulse buyer' — 'импульсивный покупатель'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "051af856c42d",
+    "question": "Complete: 'The ___ of the new product was a huge success.'",
+    "options": [
+      "launch",
+      "start",
+      "opening",
+      "release"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Product launch' — 'запуск продукта'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "0a016925c83e",
+    "question": "Complete: 'A good PR team protects the ___ image.'",
+    "options": [
+      "brand",
+      "branding",
+      "branded",
+      "brands"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Brand image' — 'имидж бренда'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "d474d7ffa12a",
+    "question": "Complete: 'Our ___ audience is young adults.'",
+    "options": [
+      "target",
+      "goal",
+      "aim",
+      "objective"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Target audience' — 'целевая аудитория'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "7bed73649c47",
+    "question": "Complete: 'The product ___ is scheduled for May.'",
+    "options": [
+      "launch",
+      "start",
+      "opening",
+      "release"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Product launch' — 'запуск продукта'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "3939b407d3bc",
+    "question": "What does 'rebrand' mean?",
+    "options": [
+      "изменить имидж бренда",
+      "закрыть компанию",
+      "снизить цены",
+      "уволить сотрудников"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rebrand' — 'изменить имидж бренда'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  }
+]

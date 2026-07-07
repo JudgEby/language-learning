@@ -1,0 +1,227 @@
+[
+  {
+    "id": "8c21200c2fbb",
+    "question": "Complete the complaint: 'It isn't ___ to expect me to live without a washing machine.'",
+    "options": [
+      "reasonable",
+      "fair",
+      "right",
+      "possible"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It isn't reasonable to expect...' — formulaic complaint opener.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "c16f535bd09f",
+    "question": "Choose the correct offer phrase:",
+    "options": [
+      "What I can do is reduce the rent for two months.",
+      "What I can do is to reduce the rent.",
+      "What I can do is reducing the rent.",
+      "What I can do is reduced the rent."
+    ],
+    "correctIndex": 0,
+    "explanation": "'What I can do is + base verb' — formula for making an offer.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "a83c6ed04f81",
+    "question": "Complete: 'Maybe we could come to an ___ about the rent.'",
+    "options": [
+      "arrangement",
+      "deal",
+      "agreement",
+      "offer"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come to an arrangement' — 'прийти к договорённости'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "c25d0490269c",
+    "question": "Complete the acceptance: 'Yes, that's ___ to me.'",
+    "options": [
+      "acceptable",
+      "accept",
+      "accepting",
+      "accepted"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's acceptable to me' — 'это меня устраивает'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "5bdb23629b9d",
+    "question": "What does 'run-down' mean when describing a building?",
+    "options": [
+      "новый, современный",
+      "запущенный, обветшалый",
+      "большой, просторный",
+      "элитный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Run-down' — 'запущенный, обветшалый'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "a6c78e2286df",
+    "question": "Complete: 'The flat was ___, with barely enough room for a bed.'",
+    "options": [
+      "cramped",
+      "filthy",
+      "dim",
+      "chilly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cramped' — 'тесный'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "99b6f826932d",
+    "question": "What does 'deposit' mean in renting?",
+    "options": [
+      "арендная плата",
+      "залог (возвращаемый)",
+      "коммунальные услуги",
+      "страховка"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Deposit' — 'залог при аренде жилья'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "875364fa1ad7",
+    "question": "Complete: 'The ___ is responsible for maintaining the property.'",
+    "options": [
+      "landlord",
+      "tenant",
+      "lodger",
+      "owner"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Landlord' — 'арендодатель, владелец жилья'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "d5451d747742",
+    "question": "What does 'tenant' mean?",
+    "options": [
+      "владелец",
+      "арендатор, жилец",
+      "риелтор",
+      "управляющий"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tenant' — 'арендатор, жилец'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "25c5f6046a32",
+    "question": "Complete: 'It isn't ___ to expect me to pay for the damage.'",
+    "options": [
+      "reasonable",
+      "reason",
+      "reasoning",
+      "reasoned"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It isn't reasonable' — 'неразумно, несправедливо'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "97fc387ce03b",
+    "question": "Complete: 'Maybe we could come to an ___.'",
+    "options": [
+      "arrangement",
+      "arrange",
+      "arranging",
+      "arranged"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come to an arrangement' — 'прийти к договорённости'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "ccb214974580",
+    "question": "What does 'cramped' mean?",
+    "options": [
+      "тесный",
+      "просторный",
+      "светлый",
+      "чистый"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cramped' means 'тесный, маленький'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "496ce1400e69",
+    "question": "Complete: 'Yes, that's ___ to me.'",
+    "options": [
+      "acceptable",
+      "accept",
+      "accepting",
+      "accepted"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Acceptable to me' — 'меня устраивает'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "e6c4cdbc4f62",
+    "question": "What does 'tenant' mean?",
+    "options": [
+      "арендатор, жилец",
+      "владелец",
+      "риелтор",
+      "управляющий"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tenant' — 'арендатор, жилец'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "77b798301554",
+    "question": "Complete: 'The ___ is responsible for repairs.'",
+    "options": [
+      "landlord",
+      "tenant",
+      "lodger",
+      "guest"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Landlord' — 'арендодатель'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  }
+]

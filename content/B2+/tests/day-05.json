@@ -1,0 +1,227 @@
+[
+  {
+    "id": "938d72782280",
+    "question": "Complete the cleft sentence: '___ he faked was an injury.'",
+    "options": [
+      "What",
+      "That",
+      "Which",
+      "The thing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cleft sentence with 'What': 'What + subject + verb + be' — highlights the object.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "2c7fa566a4d0",
+    "question": "Choose the correct cleft sentence emphasising an action:",
+    "options": [
+      "What he did was fake an injury.",
+      "What he did was faked an injury.",
+      "What he did is fake an injury.",
+      "What he did was to fake an injury."
+    ],
+    "correctIndex": 0,
+    "explanation": "'What + subject + do + be + base verb' — emphasises the action.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "5c516b4e2d07",
+    "question": "Complete: 'What we enjoy ___ competing against other teams.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "does"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Is' — singular verb after 'what' when referring to a single activity.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "94160a39d48e",
+    "question": "Choose the correct cleft sentence:",
+    "options": [
+      "What I love is competitive games.",
+      "What I do is love competitive games.",
+      "What I love are competitive games.",
+      "What I am loving is competitive games."
+    ],
+    "correctIndex": 0,
+    "explanation": "For feelings/states: 'What + subject + verb (feel/state) + be'. No 'do' needed.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "fe9f4a731bc0",
+    "question": "Complete: 'What she ___ doing was pretending to be injured.'",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "had"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What + subject + was doing + be + -ing' — continuous cleft.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "ff37cdcd3920",
+    "question": "What does 'the underdog' mean in a competition?",
+    "options": [
+      "фаворит",
+      "аутсайдер",
+      "победитель",
+      "судья"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The underdog' — 'аутсайдер, тот, кто имеет меньше шансов на победу'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "098b9a1b2ecd",
+    "question": "Complete: 'The team decided to ___ for time to avoid losing.'",
+    "options": [
+      "play",
+      "bend",
+      "run",
+      "buy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Play for time' — 'тянуть время'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "df5bb39dd219",
+    "question": "What does 'bend the rules' mean?",
+    "options": [
+      "соблюдать правила",
+      "нарушать правила (в свою пользу)",
+      "изменить правила",
+      "установить правила"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bend the rules' — 'нарушать правила, гнуть их в свою пользу'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "7e5f4f394e69",
+    "question": "Complete: 'The champion remained ___ throughout the tournament.'",
+    "options": [
+      "unbeaten",
+      "unbeating",
+      "unbeatable",
+      "unbeated"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Unbeaten' — 'непобеждённый'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "586464742692",
+    "question": "What does 'concede' mean in sports?",
+    "options": [
+      "победить",
+      "признать поражение",
+      "получить травму",
+      "выйти в финал"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Concede' — 'признать поражение, уступить'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "4a165efdd372",
+    "question": "Complete: 'What he ___ was an injury.'",
+    "options": [
+      "faked",
+      "did fake",
+      "was faking",
+      "does fake"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What + subject + verb + be' — cleft sentence emphasising the object.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "685d2480ecd3",
+    "question": "What does 'bend the rules' mean?",
+    "options": [
+      "соблюдать правила",
+      "нарушать правила в свою пользу",
+      "устанавливать правила",
+      "менять правила"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bend the rules' means 'нарушать правила в свою пользу'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "125f395a3271",
+    "question": "Complete: 'The ___ beat the reigning champion.'",
+    "options": [
+      "underdog",
+      "favourite",
+      "opponent",
+      "winner"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Underdog' — 'аутсайдер, неожиданный победитель'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "04683bf7d5a8",
+    "question": "Complete: 'What I ___ is competitive games.'",
+    "options": [
+      "love",
+      "do love",
+      "am loving",
+      "loved"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What + subject + verb (feelings) + be' — cleft sentence.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "a00fc2911dde",
+    "question": "Complete: 'The team decided to play for ___ to avoid losing.'",
+    "options": [
+      "time",
+      "fun",
+      "keeps",
+      "real"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Play for time' — 'тянуть время'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  }
+]

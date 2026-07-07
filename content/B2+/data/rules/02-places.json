@@ -1,0 +1,14 @@
+{
+  "id": "places",
+  "order": 2,
+  "unit": "Unit 1 — Connections",
+  "title": "1B Places — Сокращённые относительные придаточные",
+  "contentMd": "## 1B Places — Сокращённые относительные придаточные\n\n### Простая суть\n\nПредставь, что относительное придаточное предложение — это громоздкий чемодан. **Participle clauses** (причастные обороты) — тот же чемодан, только без ручки и колёсиков: легче и короче. Вместо *who was living* говоришь просто **living**; вместо *which were built* — **built**. Смысл тот же, а звучит естественнее и компактнее. Англичане обожают так экономить слова.\n\n### Как это работает\n\n| Исходное придаточное | Сокращение | Условие |\n|---|---|---|\n| **who/which/that + активный глагол** (is sitting, who wants) | **-ing** форма (sitting, wanting) | Существительное — **субъект** действия |\n| **who/which/that + пассивный глагол** (was destroyed, are owned) | **-ed** форма / 3-я форма (destroyed, owned) | Существительное — **объект** действия |\n\n- **Актив** (человек/предмет сам делает): **-ing**\n  *The man **who was sitting** in the café → The man **sitting** in the café*\n- **Пассив** (с человеком/предметом делают): **-ed / 3-я форма**\n  *The buildings **which were destroyed** → The buildings **destroyed** in the fire*\n\nВремя (настоящее, прошлое, будущее) понятно из контекста — форма причастия не меняется.\n\n### Живые примеры\n\n- The people **living** in the slums were offered new flats. *(Люди, **живущие** в трущобах, получили новые квартиры.)*\n- Some of the houses **built** near the river were prone to flooding. *(Некоторые дома, **построенные** у реки, были подвержены наводнениям.)*\n- I recognised the man **sitting** in the café. *(Я узнал мужчину, **сидевшего** в кафе.)*\n- She lives in an apartment **owned** by her parents. *(Она живёт в квартире, **принадлежащей** её родителям.)*\n- Students **taking** their exams next year will notice some changes. *(Студенты, **сдающие** экзамены в следующем году, заметят изменения.)*\n\n### Лайфхак для запоминания\n\nЗадай себе вопрос: существительное **делает** действие или **на нём** действие делают?\n- **Делает** → **-ing**: *the man **opening** the door*\n- **Делают с ним** → **-ed**: *the door **opened** by the man*\n\nПросто отрезай *who is / which was / that are* — и ставь причастие. Чем короче, тем естественнее!",
+  "examples": [
+    "The people living in the slums were offered new flats.",
+    "Some of the houses built near the river were prone to flooding.",
+    "I recognised the man sitting in the café.",
+    "She lives in an apartment owned by her parents.",
+    "Students taking their exams next year will notice some changes."
+  ]
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "4c08bf029976",
+    "question": "Complete the mixed conditional: 'If we had chosen to travel by train, we ___ there by now.'",
+    "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixed conditional: past condition (had chosen) → present result (would be).",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "56cc3c1ffe23",
+    "question": "Choose the correct mixed conditional:",
+    "options": [
+      "You wouldn't feel so sick if you hadn't decided to eat all that cheese.",
+      "You wouldn't have felt so sick if you didn't eat all that cheese.",
+      "You won't feel so sick if you hadn't decided to eat all that cheese.",
+      "You wouldn't feel so sick if you didn't decide to eat all that cheese."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past action (hadn't decided) causing a present state (wouldn't feel).",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "fc4572d46761",
+    "question": "Complete: 'If I weren't so indecisive, this situation ___ ended weeks ago.'",
+    "options": [
+      "would have",
+      "would be",
+      "will have",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixed: present state (weren't indecisive) → past result (would have ended).",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "2a566900e21c",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "If I'd gone to university, my life might be very different now.",
+      "If I'd go to university, my life might be very different now.",
+      "If I went to university, my life might be very different now.",
+      "If I'd gone to university, my life might have been very different now."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixed: past counterfactual (had gone) with present result (might be different).",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "e93654c32ea3",
+    "question": "What does 'make up your mind' mean?",
+    "options": [
+      "изменить мнение",
+      "принять решение",
+      "потерять сознание",
+      "открыть разум"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make up your mind' — 'принять решение'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "7046e7891477",
+    "question": "Complete: 'I need to ___ up the options before deciding.'",
+    "options": [
+      "weigh",
+      "measure",
+      "balance",
+      "compare"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Weigh up options' — 'взвешивать варианты'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "7c70afbdbe13",
+    "question": "What does 'dilemma' mean?",
+    "options": [
+      "лёгкий выбор",
+      "дилемма (сложный выбор)",
+      "победа",
+      "поражение"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Dilemma' — 'дилемма, сложный выбор между двумя вариантами'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "19e377716fb6",
+    "question": "Complete: 'She is very ___ — she always knows what she wants.'",
+    "options": [
+      "decisive",
+      "decided",
+      "deciding",
+      "decision"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Decisive' — 'решительный, умеющий принимать решения'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "5740806447f3",
+    "question": "Complete: 'If I had known earlier, I ___ have done things differently.'",
+    "options": [
+      "would",
+      "will",
+      "am",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixed conditional: past condition (had known) → present result (would have done).",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "c9057eed9a09",
+    "question": "Complete: 'You wouldn't ___ so sick if you hadn't eaten so much.'",
+    "options": [
+      "feel",
+      "felt",
+      "be feeling",
+      "have felt"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Wouldn't feel' — present result in mixed conditional.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "111564514f91",
+    "question": "What does 'reconsider' mean?",
+    "options": [
+      "пересмотреть решение",
+      "принять решение",
+      "отменить решение",
+      "одобрить"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reconsider' means 'пересмотреть решение'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "d1619e162712",
+    "question": "Complete: 'If I ___ so indecisive, this would have ended long ago.'",
+    "options": [
+      "weren't",
+      "wasn't",
+      "am not",
+      "hadn't been"
+    ],
+    "correctIndex": 0,
+    "explanation": "'If I weren't so indecisive' — present condition in mixed conditional.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "d0232788ad8a",
+    "question": "Complete: 'You wouldn't feel so sick if you ___ all that cheese.'",
+    "options": [
+      "hadn't eaten",
+      "didn't eat",
+      "haven't eaten",
+      "don't eat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mixed: past condition → present result.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "cf50609d119d",
+    "question": "What does 'make up your mind' mean?",
+    "options": [
+      "принять решение",
+      "изменить мнение",
+      "потерять сознание",
+      "открыть разум"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make up your mind' — 'принять решение'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "8bf381805c33",
+    "question": "Complete: 'She faced a ___ between two options.'",
+    "options": [
+      "dilemma",
+      "diameter",
+      "diagram",
+      "dialogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Dilemma' — 'дилемма, сложный выбор'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  }
+]

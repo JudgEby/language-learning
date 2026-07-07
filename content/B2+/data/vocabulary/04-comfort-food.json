@@ -1,0 +1,56 @@
+{
+  "lessonId": "comfort-food",
+  "title": "1D Comfort Food — Вкус и привлекательность еды",
+  "items": [
+    {
+      "term": "treat",
+      "translation": "лакомство, угощение",
+      "example": "Chocolate has always been seen as a treat, especially for children."
+    },
+    {
+      "term": "comfort food",
+      "translation": "еда для утешения",
+      "example": "Chocolate is the comfort food of choice for so many people."
+    },
+    {
+      "term": "chocoholic",
+      "translation": "шокоголик",
+      "example": "As a self-confessed chocoholic, I eat chocolate every single day."
+    },
+    {
+      "term": "craving",
+      "translation": "сильное желание, тяга",
+      "example": "I had a sudden craving for something sweet and rich."
+    },
+    {
+      "term": "indulge",
+      "translation": "баловать себя, позволять себе",
+      "example": "At weekends I like to indulge in a big piece of chocolate cake."
+    },
+    {
+      "term": "appeal",
+      "translation": "привлекательность",
+      "example": "Sweet foods are naturally appealing to most people."
+    },
+    {
+      "term": "stimulate",
+      "translation": "стимулировать",
+      "example": "Chocolate contains chemicals that stimulate the brain and give us energy."
+    },
+    {
+      "term": "creamy texture",
+      "translation": "кремовая текстура",
+      "example": "The chocolate has a delicious creamy texture that melts on the tongue."
+    },
+    {
+      "term": "bitter",
+      "translation": "горький",
+      "example": "Dark chocolate is quite bitter because it has less sugar."
+    },
+    {
+      "term": "melt on the tongue",
+      "translation": "таять во рту",
+      "example": "High-quality chocolate should melt on the tongue slowly."
+    }
+  ]
+}

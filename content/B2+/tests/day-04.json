@@ -1,0 +1,227 @@
+[
+  {
+    "id": "81ecc80f3401",
+    "question": "What does 'comfort food' mean?",
+    "options": [
+      "еда быстрого приготовления",
+      "еда для души (уютная, привычная)",
+      "десерт",
+      "здоровая еда"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Comfort food' means 'еда для души' — familiar food that makes you feel good.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "9714bcb35a5d",
+    "question": "Complete: 'I had a sudden ___ for pancakes.'",
+    "options": [
+      "craving",
+      "hunger",
+      "appetite",
+      "wish"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Craving' — 'сильное желание, тяга' к определённой еде.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "0cc245b1fca3",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Dark chocolate has a slightly bitter taste.",
+      "Dark chocolate has a slight bitter taste.",
+      "Dark chocolate has a kindly bitter taste.",
+      "Dark chocolate has a bitterness slight taste."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Slightly bitter' — adverb + adjective. 'Bitter' means 'горький'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "198120622be5",
+    "question": "Complete: 'On weekends I like to ___ in a slice of cake.'",
+    "options": [
+      "indulge",
+      "treat",
+      "crave",
+      "enjoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Indulge in' — 'баловать себя, позволять себе'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "6d451193e458",
+    "question": "What does 'creamy texture' describe?",
+    "options": [
+      "хрустящую корочку",
+      "кремовую текстуру",
+      "сладкий вкус",
+      "пряный аромат"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Creamy texture' means 'кремовая текстура'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "eb6dfb41329e",
+    "question": "Complete: 'The cake was so soft it ___ on the tongue.'",
+    "options": [
+      "melted",
+      "melt",
+      "was melting",
+      "melts"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Melted on the tongue' — 'таять во рту'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "3ea7e93ba120",
+    "question": "What does 'a treat' mean in the context of food?",
+    "options": [
+      "лекарство",
+      "лакомство, удовольствие",
+      "основное блюдо",
+      "напиток"
+    ],
+    "correctIndex": 1,
+    "explanation": "'A treat' — 'лакомство, что-то особенное'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "ede166481a2f",
+    "question": "Complete: 'The ___ of fresh bread is hard to resist.'",
+    "options": [
+      "appeal",
+      "craving",
+      "taste",
+      "treat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Appeal' — 'привлекательность, притягательность'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "a800857cef1d",
+    "question": "What does 'chocoholic' mean?",
+    "options": [
+      "производитель шоколада",
+      "шокоголик (любитель шоколада)",
+      "шоколадный торт",
+      "человек, не любящий шоколад"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Chocoholic' — 'шокоголик, большой любитель шоколада'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "f501a63740ad",
+    "question": "Complete: 'I had a sudden ___ for something sweet.'",
+    "options": [
+      "craving",
+      "wish",
+      "desire",
+      "hunger"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Craving' — 'сильное желание, тяга к определённой еде'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "adbb6a1e4fcd",
+    "question": "What does 'indulge' mean?",
+    "options": [
+      "отказывать себе",
+      "баловать себя, позволять себе",
+      "голодать",
+      "жаловаться"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Indulge' means 'баловать себя, позволять себе'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "1f8874c59016",
+    "question": "Complete: 'The ___ texture of the soup made it perfect.'",
+    "options": [
+      "creamy",
+      "cream",
+      "creamed",
+      "creaming"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Creamy texture' — 'кремовая текстура'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "971ea3c51ac0",
+    "question": "Complete: 'The cake ___ on my tongue.'",
+    "options": [
+      "melted",
+      "melt",
+      "melts",
+      "melting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Melted on the tongue' — 'таял во рту'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "c7d5f3b12380",
+    "question": "Which word means 'привлекательность, притягательность'?",
+    "options": [
+      "appeal",
+      "appetite",
+      "appliance",
+      "applause"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Appeal' means 'привлекательность'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "f4e2cfee095b",
+    "question": "Complete: 'I'm a total ___ — I love chocolate!'",
+    "options": [
+      "chocoholic",
+      "chocolate lover",
+      "sweet tooth",
+      "chocophile"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Chocoholic' — 'шокоголик'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  }
+]

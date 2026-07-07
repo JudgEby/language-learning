@@ -1,0 +1,56 @@
+{
+  "lessonId": "tech-fail",
+  "title": "6D Tech Fail — Технологии",
+  "items": [
+    {
+      "term": "technology",
+      "translation": "технология",
+      "example": "I try to embrace new technology."
+    },
+    {
+      "term": "device",
+      "translation": "устройство",
+      "example": "Modern devices are getting smarter every year."
+    },
+    {
+      "term": "gadget",
+      "translation": "гаджет, устройство",
+      "example": "He loves buying the latest gadgets."
+    },
+    {
+      "term": "let down",
+      "translation": "подвести",
+      "example": "The battery let me down at the worst moment."
+    },
+    {
+      "term": "glitch",
+      "translation": "сбой, неполадка",
+      "example": "The app had a minor glitch."
+    },
+    {
+      "term": "fail",
+      "translation": "сбой, отказ",
+      "example": "The system fail caused a major delay."
+    },
+    {
+      "term": "malfunction",
+      "translation": "неисправность, сбой",
+      "example": "The machine malfunctioned and stopped working."
+    },
+    {
+      "term": "innovation",
+      "translation": "инновация",
+      "example": "This innovation changed the industry forever."
+    },
+    {
+      "term": "breakthrough",
+      "translation": "прорыв",
+      "example": "Scientists made a major breakthrough in AI."
+    },
+    {
+      "term": "state-of-the-art",
+      "translation": "самый современный, передовой",
+      "example": "The lab is equipped with state-of-the-art technology."
+    }
+  ]
+}

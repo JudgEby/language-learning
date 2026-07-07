@@ -1,0 +1,227 @@
+[
+  {
+    "id": "999992960c45",
+    "question": "Complete the exaggeration: 'My feet are ___ me after all that walking.'",
+    "options": [
+      "killing",
+      "hurting",
+      "aching",
+      "beating"
+    ],
+    "correctIndex": 0,
+    "explanation": "'My feet are killing me' — dramatic exaggeration for 'very painful'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "b2733350fb0f",
+    "question": "Which sentence uses exaggeration?",
+    "options": [
+      "They cost an absolute fortune.",
+      "They cost eighty pounds.",
+      "They are moderately priced.",
+      "They are on sale."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cost a fortune' — exaggeration meaning 'очень дорого'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "c4d6f81ed47a",
+    "question": "Complete: 'It takes ___ to get to work in this traffic.'",
+    "options": [
+      "forever",
+      "long",
+      "a long time",
+      "ages"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Takes forever' — exaggeration meaning 'very long time'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "5c909d73afd3",
+    "question": "What does 'like finding a needle in a haystack' mean?",
+    "options": [
+      "очень легко найти",
+      "почти невозможно найти",
+      "очень дорого",
+      "очень быстро"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Needle in a haystack' — 'иголка в стоге сена, почти невозможно найти'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "b115629c8a62",
+    "question": "What does 'vintage' mean when describing clothes?",
+    "options": [
+      "новый, только из магазина",
+      "винтажный, стилизованный под старину",
+      "спортивный",
+      "деловой"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vintage' — 'винтажный, в стиле ретро'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "3abbc352e355",
+    "question": "Complete: 'He was wearing a ___ suit that didn't fit well.'",
+    "options": [
+      "baggy",
+      "tight",
+      "slim",
+      "slim-fit"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Baggy' — 'мешковатый, свободный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "c96ec62494c0",
+    "question": "What does 'loud' mean when describing a pattern or colour?",
+    "options": [
+      "тихий",
+      "кричащий, яркий (о цвете/узоре)",
+      "громкий",
+      "тёмный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Loud pattern/colour' — 'кричащий, слишком яркий'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "01ddab8fc0cf",
+    "question": "Complete: 'She bought a ___ jacket from a charity shop.'",
+    "options": [
+      "second-hand",
+      "second hand",
+      "second-handly",
+      "secondly-hand"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Second-hand' — 'секонд-хенд, подержанный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "f1fa7643207c",
+    "question": "Complete: 'I'm ___ to death of this weather.'",
+    "options": [
+      "sick",
+      "ill",
+      "fed",
+      "tired"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sick to death of' — 'сыт по горло, ужасно надоело'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "ca5bdcc851ea",
+    "question": "What does 'scruffy' mean?",
+    "options": [
+      "неряшливый, неопрятный",
+      "элегантный",
+      "новый",
+      "дорогой"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Scruffy' means 'неряшливый, неопрятный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "4db75f754513",
+    "question": "Complete: 'The cost an absolute ___!'",
+    "options": [
+      "fortune",
+      "luck",
+      "wealth",
+      "money"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cost a fortune' — 'стоить целое состояние'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "f1fa7643207c",
+    "question": "Complete: 'I'm ___ to death of this weather.'",
+    "options": [
+      "sick",
+      "ill",
+      "fed",
+      "tired"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sick to death of' — 'сыт по горло'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "0f2a43df4af7",
+    "question": "Complete: 'They cost an absolute ___.'",
+    "options": [
+      "fortune",
+      "luck",
+      "wealth",
+      "money"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cost a fortune' — 'стоить состояние'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "d498eeaafea5",
+    "question": "What does 'vintage' mean?",
+    "options": [
+      "винтажный",
+      "новый",
+      "спортивный",
+      "деловой"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vintage' — 'винтажный, ретро'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "4a52c06731a8",
+    "question": "Complete: 'The jacket was ___ — I got it second-hand.'",
+    "options": [
+      "baggy",
+      "chic",
+      "scruffy",
+      "dull"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Baggy' — 'мешковатый', 'chic' — 'шикарный', 'vintage' — 'винтажный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "lessonId": "fanfiction",
+  "title": "3A Fanfiction — Мнения и реакции",
+  "items": [
+    {
+      "term": "opinion",
+      "translation": "мнение",
+      "example": "In my opinion, the film was much better than the book."
+    },
+    {
+      "term": "reaction",
+      "translation": "реакция",
+      "example": "Her reaction to the news was one of complete surprise."
+    },
+    {
+      "term": "express",
+      "translation": "выражать",
+      "example": "Fans often express their love for the series through online forums."
+    },
+    {
+      "term": "convey",
+      "translation": "передавать (мысль, чувство)",
+      "example": "The author uses simple language to convey complex emotions."
+    },
+    {
+      "term": "stir emotions",
+      "translation": "вызывать эмоции",
+      "example": "The ending of the story stirred strong emotions in the readers."
+    },
+    {
+      "term": "be down in the dumps",
+      "translation": "быть в подавленном настроении",
+      "example": "He's been down in the dumps ever since he lost his job."
+    },
+    {
+      "term": "make sense",
+      "translation": "иметь смысл, быть понятным",
+      "example": "That explanation really makes sense now."
+    },
+    {
+      "term": "logical",
+      "translation": "логичный",
+      "example": "Her argument was clear and logical, so everyone agreed."
+    }
+  ]
+}

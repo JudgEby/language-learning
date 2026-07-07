@@ -1,0 +1,71 @@
+{
+  "lessonId": "in-the-workplace",
+  "title": "2C In the Workplace — Рабочие бонусы",
+  "items": [
+    {
+      "term": "job perks",
+      "translation": "бонусы к зарплате",
+      "example": "When you join our company, you'll receive a number of job perks."
+    },
+    {
+      "term": "employee benefits",
+      "translation": "льготы для сотрудников",
+      "example": "The usual employee benefits include a regular salary and paid holiday."
+    },
+    {
+      "term": "equal pay",
+      "translation": "равная оплата",
+      "example": "We offer equal pay for all staff so everyone doing the same job is paid the same."
+    },
+    {
+      "term": "paid holiday",
+      "translation": "оплачиваемый отпуск",
+      "example": "All employees are entitled to twenty-five days of paid holiday per year."
+    },
+    {
+      "term": "health insurance",
+      "translation": "медицинская страховка",
+      "example": "The company offers excellent health insurance that covers all medical needs."
+    },
+    {
+      "term": "pension scheme",
+      "translation": "пенсионная программа",
+      "example": "Our pension scheme will help provide a good standard of living when you retire."
+    },
+    {
+      "term": "maternity leave",
+      "translation": "декретный отпуск (по беременности)",
+      "example": "New mothers can take a month's extra maternity leave on top of the national requirement."
+    },
+    {
+      "term": "paternity leave",
+      "translation": "отпуск по уходу за ребёнком (для отца)",
+      "example": "Fathers are also offered paternity leave to spend time with their babies."
+    },
+    {
+      "term": "childcare",
+      "translation": "уход за детьми (детский сад при компании)",
+      "example": "We have on-site childcare so parents can leave their children close by."
+    },
+    {
+      "term": "financial incentives",
+      "translation": "финансовые стимулы",
+      "example": "There are further financial incentives as we know extra money can be motivating."
+    },
+    {
+      "term": "bonus scheme",
+      "translation": "система премирования",
+      "example": "Our end-of-year bonus scheme gives staff a percentage of their annual salary."
+    },
+    {
+      "term": "tuition assistance",
+      "translation": "оплата обучения",
+      "example": "We offer tuition assistance to anyone taking a course related to their work."
+    },
+    {
+      "term": "mentor programme",
+      "translation": "программа наставничества",
+      "example": "There is a mentor programme for new members of staff."
+    }
+  ]
+}

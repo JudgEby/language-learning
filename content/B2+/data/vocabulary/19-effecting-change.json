@@ -1,0 +1,66 @@
+{
+  "lessonId": "effecting-change",
+  "title": "5C Effecting Change — Социальные и экологические проблемы",
+  "items": [
+    {
+      "term": "climate change",
+      "translation": "изменение климата",
+      "example": "Climate change is one of the biggest challenges facing humanity."
+    },
+    {
+      "term": "deforestation",
+      "translation": "вырубка лесов",
+      "example": "Deforestation in the Amazon rainforest has reached alarming levels."
+    },
+    {
+      "term": "fossil fuels",
+      "translation": "ископаемое топливо",
+      "example": "Burning fossil fuels like coal and gas contributes to global warming."
+    },
+    {
+      "term": "renewable energy",
+      "translation": "возобновляемая энергия",
+      "example": "Solar and wind power are the most common forms of renewable energy."
+    },
+    {
+      "term": "landfill",
+      "translation": "свалка",
+      "example": "Recyclable material should not end up in landfill sites."
+    },
+    {
+      "term": "diversity",
+      "translation": "разнообразие",
+      "example": "Workplaces should aim for diversity within every department."
+    },
+    {
+      "term": "welfare",
+      "translation": "благосостояние",
+      "example": "A new charity was set up to look after the welfare of homeless people."
+    },
+    {
+      "term": "hardship",
+      "translation": "трудности, лишения",
+      "example": "Many families are suffering financial hardship due to the rising cost of living."
+    },
+    {
+      "term": "shelter",
+      "translation": "приют",
+      "example": "Local charities fund shelters for people who have no home."
+    },
+    {
+      "term": "sleep rough",
+      "translation": "спать на улице",
+      "example": "The number of people sleeping rough on the streets has increased."
+    },
+    {
+      "term": "neglected",
+      "translation": "забытый, заброшенный",
+      "example": "Minority groups should not be neglected in government policies."
+    },
+    {
+      "term": "equal opportunities",
+      "translation": "равные возможности",
+      "example": "The company ensures equal opportunities for everyone who applies."
+    }
+  ]
+}

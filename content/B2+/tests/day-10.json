@@ -1,0 +1,227 @@
+[
+  {
+    "id": "f1a442e5099c",
+    "question": "Complete: 'No matter ___ tired I am, I always manage to do some exercise.'",
+    "options": [
+      "how",
+      "what",
+      "when",
+      "where"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter how + adjective' — 'как бы ни был уставшим'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "b3383b2e5e11",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "No matter where you live, I'll come and visit you.",
+      "No matter you live where, I'll come and visit you.",
+      "No matter where do you live, I'll come and visit you.",
+      "No matter wherever you live, I'll come and visit you."
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter + where + subject + verb' — correct word order (no inversion).",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "cfd81187f605",
+    "question": "Complete: 'No matter ___ we leave, it'll be fine.'",
+    "options": [
+      "when",
+      "how",
+      "what",
+      "who"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter when' — 'независимо от того, когда'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "53c12ec2776d",
+    "question": "Complete: 'I'll always support you, no matter ___.'",
+    "options": [
+      "what",
+      "how",
+      "when",
+      "why"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter what' — 'что бы ни случилось'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "c653ecea8a36",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "No matter whose pen I steal, I quickly lose it!",
+      "No matter whose pen do I steal, I quickly lose it!",
+      "No matter whose pen I do steal, I quickly lose it!",
+      "No matter whose steals pen I, I quickly lose it!"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter whose + noun + verb' — correct word order.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "127e69f5d534",
+    "question": "What does 'bursting with pride' mean?",
+    "options": [
+      "лопаться от злости",
+      "переполнять гордостью",
+      "плакать от счастья",
+      "смеяться до упаду"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bursting with pride' — 'переполнять гордостью'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "2a4f9df94c96",
+    "question": "Complete: 'Hearing that I got the job really ___ my day.'",
+    "options": [
+      "made",
+      "gave",
+      "took",
+      "broke"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Made my day' — 'поднять настроение на весь день'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "54e400c60c36",
+    "question": "What does 'on cloud nine' mean?",
+    "options": [
+      "грустный",
+      "на седьмом небе от счастья",
+      "на девятом облаке",
+      "очень уставший"
+    ],
+    "correctIndex": 0,
+    "explanation": "'On cloud nine' — 'на седьмом небе от счастья'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "af3a792f5683",
+    "question": "Complete: 'I'm ___ to death of this rainy weather.'",
+    "options": [
+      "sick",
+      "ill",
+      "tired",
+      "fed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sick to death of' — 'сыт по горло'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "57c9538c5d14",
+    "question": "What does 'pumped about' mean?",
+    "options": [
+      "взволнован (в хорошем смысле)",
+      "испуган",
+      "расстроен",
+      "уставший"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pumped about' — 'на взводе от, очень взволнован'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "b42cfe47d20c",
+    "question": "Complete: 'No matter ___ you try, just do your best.'",
+    "options": [
+      "how",
+      "what",
+      "where",
+      "when"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter how' — 'как бы ты ни старался'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "900efe9fbaa5",
+    "question": "Complete: 'I'll always love you, no matter ___.'",
+    "options": [
+      "what",
+      "how",
+      "when",
+      "why"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter what' — 'что бы ни случилось'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "0caf33c8bc35",
+    "question": "What does 'shaken up' mean?",
+    "options": [
+      "потрясён, взволнован",
+      "расслаблен",
+      "спокоен",
+      "счастлив"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shaken up' means 'потрясён, взволнован'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "0ce3fb529134",
+    "question": "Complete: 'No matter ___ you are, I'll find you.'",
+    "options": [
+      "where",
+      "what",
+      "how",
+      "when"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No matter where' — 'где бы ты ни был'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "150ea4eb3cb0",
+    "question": "What does 'down in the dumps' mean?",
+    "options": [
+      "в подавленном настроении",
+      "очень счастлив",
+      "болен",
+      "уставший"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Down in the dumps' — 'в подавленном настроении'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  }
+]

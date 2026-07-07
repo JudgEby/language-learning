@@ -1,0 +1,227 @@
+[
+  {
+    "id": "9a655499bf82",
+    "question": "Complete: 'She ___ her opponent in the final match.'",
+    "options": [
+      "defeated",
+      "defeats",
+      "was defeating",
+      "defeat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Defeated' — past simple of 'defeat' (победить).",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "a1734038c580",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Our team came out on top after a tough game.",
+      "Our team came out top after a tough game.",
+      "Our team came top out after a tough game.",
+      "Our team came out on the top after a tough game."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come out on top' — 'выйти победителем, оказаться наверху'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "792609ebdf9c",
+    "question": "Complete: 'There's a fierce ___ between the two schools.'",
+    "options": [
+      "rivalry",
+      "rival",
+      "rivals",
+      "rivaling"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rivalry' — 'соперничество'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "35c040a68e20",
+    "question": "What does 'underdog' mean?",
+    "options": [
+      "команда, которая должна победить",
+      "команда, которая, скорее всего, проиграет",
+      "судья",
+      "капитан команды"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Underdog' — 'аутсайдер, команда с меньшими шансами на победу'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "ff5ff1877ee8",
+    "question": "Complete: 'The ___ beat the reigning champion in straight sets.'",
+    "options": [
+      "underdog",
+      "favourite",
+      "opponent",
+      "rival"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Underdog' makes sense here — the unexpected winner.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "709c055f206d",
+    "question": "What does 'take on' mean in a competition context?",
+    "options": [
+      "взяться за (вызов)",
+      "сдаться",
+      "выиграть",
+      "отказаться"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take on' — 'взяться за, принять вызов'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "2bd3415586e5",
+    "question": "Complete: 'She decided to ___ in the marathon despite the injury.'",
+    "options": [
+      "compete",
+      "competition",
+      "competitive",
+      "competitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Compete' — verb 'соревноваться'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "42172b22eed2",
+    "question": "What does 'come out on top' mean?",
+    "options": [
+      "выйти победителем",
+      "выйти из игры",
+      "занять второе место",
+      "начать сначала"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come out on top' — 'выйти победителем, занять первое место'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "3df109ee31c8",
+    "question": "Complete: 'The team was determined to ___ their rivals.'",
+    "options": [
+      "beat",
+      "win",
+      "defeat",
+      "gain"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Beat' — 'победить (кого-то)'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "e40c002ddde0",
+    "question": "Complete: 'She ___ her opponent in straight sets.'",
+    "options": [
+      "defeated",
+      "defeats",
+      "defeating",
+      "defeat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Defeated' — past simple of 'defeat' (победить).",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "f3a8f023dd13",
+    "question": "What does 'rivalry' mean?",
+    "options": [
+      "дружба",
+      "соперничество",
+      "сотрудничество",
+      "партнёрство"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rivalry' means 'соперничество'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "4ad3bf1d52e8",
+    "question": "Complete: 'The two companies ___ for market share.'",
+    "options": [
+      "competed",
+      "competition",
+      "competitive",
+      "competence"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competed' — past of 'compete'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "487f63aa055c",
+    "question": "Complete: 'The team came out on ___ after the match.'",
+    "options": [
+      "top",
+      "first",
+      "best",
+      "win"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come out on top' — 'выйти победителем'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "a7e2df72ae75",
+    "question": "Complete: 'She ___ her opponent in the final.'",
+    "options": [
+      "defeated",
+      "defeats",
+      "defeating",
+      "defeat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Defeated' — past simple.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "09cab71b7c8d",
+    "question": "What does 'beat' mean in sports?",
+    "options": [
+      "победить",
+      "проиграть",
+      "тренироваться",
+      "соревноваться"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Beat' means 'победить (кого-то)'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  }
+]

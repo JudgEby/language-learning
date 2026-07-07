@@ -1,0 +1,46 @@
+{
+  "lessonId": "online-blunders",
+  "title": "6B Online Blunders — Фразы с right и wrong",
+  "items": [
+    {
+      "phrase": "in the right",
+      "translation": "быть правым",
+      "example": "I was sure I was in the right and everyone else was incorrect."
+    },
+    {
+      "phrase": "rub someone up the wrong way",
+      "translation": "раздражать кого-то",
+      "example": "I can't stand this presenter — the way she speaks really rubs me up the wrong way."
+    },
+    {
+      "phrase": "get into the wrong hands",
+      "translation": "попасть не в те руки",
+      "example": "This knowledge is dangerous and must never get into the wrong hands."
+    },
+    {
+      "phrase": "on the right track",
+      "translation": "на верном пути",
+      "example": "Things are going well with the project — we're on the right track so far."
+    },
+    {
+      "phrase": "get the wrong end of the stick",
+      "translation": "неправильно понять",
+      "example": "Jane got the wrong end of the stick and waited for me at the bus stop instead of the cinema."
+    },
+    {
+      "phrase": "go wrong",
+      "translation": "пойти не так",
+      "example": "The wedding was planned carefully so that nothing would go wrong."
+    },
+    {
+      "phrase": "put something right",
+      "translation": "исправить",
+      "example": "Once we know what mistake we made, we can put it right."
+    },
+    {
+      "phrase": "put someone right",
+      "translation": "поправить кого-то",
+      "example": "Tom believed he was in charge, but I soon put him right."
+    }
+  ]
+}

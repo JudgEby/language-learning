@@ -1,0 +1,227 @@
+[
+  {
+    "id": "daa6410bfb29",
+    "question": "Complete: 'The device kept ___, so I returned it.'",
+    "options": [
+      "malfunctioning",
+      "malfunction",
+      "malfunctioned",
+      "malfunctions"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Kept malfunctioning' — 'продолжало давать сбои'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "d66bc580c330",
+    "question": "What does 'glitch' mean?",
+    "options": [
+      "сбой, неполадка",
+      "обновление",
+      "установка",
+      "зарядка"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Glitch' — 'сбой, временная неполадка'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "e844a2bd1a78",
+    "question": "Complete: 'This new gadget is incredibly user-___.'",
+    "options": [
+      "friendly",
+      "easy",
+      "simple",
+      "helpful"
+    ],
+    "correctIndex": 0,
+    "explanation": "'User-friendly' — 'удобный в использовании'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "cee0572d7321",
+    "question": "What does 'breakthrough' mean in technology?",
+    "options": [
+      "поломка",
+      "прорыв, важное открытие",
+      "обновление",
+      "устаревание"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Breakthrough' — 'прорыв, важное открытие'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "b84b6c07f13e",
+    "question": "Complete: 'The company is known for its state-of-the-___ technology.'",
+    "options": [
+      "art",
+      "the art",
+      "arts",
+      "the arts"
+    ],
+    "correctIndex": 0,
+    "explanation": "'State-of-the-art' — 'передовой, современнейший'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "eaae540f7090",
+    "question": "What does 'innovation' mean?",
+    "options": [
+      "инновация, нововведение",
+      "инвестиция",
+      "инструкция",
+      "инспекция"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Innovation' — 'инновация, нововведение'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "56754a07b4a8",
+    "question": "Complete: 'Don't let me ___ — I'm counting on you to remind me.'",
+    "options": [
+      "down",
+      "up",
+      "off",
+      "out"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Let down' — 'подвести'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "65821caf4b89",
+    "question": "Complete: 'There was a ___ in the system that caused it to crash.'",
+    "options": [
+      "glitch",
+      "gadget",
+      "device",
+      "tool"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Glitch' — 'сбой, неполадка'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "e3d2de47ef58",
+    "question": "Complete: 'This is a major ___ in renewable energy.'",
+    "options": [
+      "breakthrough",
+      "breakup",
+      "breakdown",
+      "breakout"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Breakthrough' — 'прорыв'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "b283d9d3eee9",
+    "question": "What does 'malfunction' mean?",
+    "options": [
+      "неисправность, сбой",
+      "обновление",
+      "улучшение",
+      "замена"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Malfunction' — 'неисправность, сбой'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "17cf6aec7112",
+    "question": "Complete: 'Don't let me ___ — I'm relying on you.'",
+    "options": [
+      "down",
+      "up",
+      "off",
+      "out"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Let someone down' — 'подвести кого-то'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "c0a00aae33ce",
+    "question": "Complete: 'The software ___ caused a major problem.'",
+    "options": [
+      "glitch",
+      "gadget",
+      "device",
+      "tool"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Glitch' — 'сбой'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "5d124b2542ba",
+    "question": "What does 'user-friendly' mean?",
+    "options": [
+      "удобный в использовании",
+      "дорогой",
+      "сложный",
+      "красивый"
+    ],
+    "correctIndex": 0,
+    "explanation": "'User-friendly' — 'удобный в использовании'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "1a64c13b4223",
+    "question": "Complete: 'This is a major ___ in medicine.'",
+    "options": [
+      "breakthrough",
+      "breakup",
+      "breakdown",
+      "breakout"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Breakthrough' — 'прорыв'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "46a31041ecd3",
+    "question": "Complete: 'The device kept ___ so I returned it.'",
+    "options": [
+      "malfunctioning",
+      "malfunction",
+      "malfunctioned",
+      "malfunctions"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Kept malfunctioning' — 'продолжало давать сбои'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  }
+]

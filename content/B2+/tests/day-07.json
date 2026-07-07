@@ -1,0 +1,227 @@
+[
+  {
+    "id": "d1054ec17fcd",
+    "question": "Complete: 'A four-day week is ___ better than a five-day week.'",
+    "options": [
+      "infinitely",
+      "slightly",
+      "marginally",
+      "almost"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Infinitely better' — a very strong comparative intensifier.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "db4183ab99ef",
+    "question": "Choose the correct sentence expressing a small difference:",
+    "options": [
+      "My salary is marginally lower than yours.",
+      "My salary is way lower than yours.",
+      "My salary is infinitely lower than yours.",
+      "My salary is considerably lower than yours."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Marginally' — 'незначительно', expresses a small difference.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "885e01c57bc6",
+    "question": "Complete: 'This computer is every bit as ___ as the last one!'",
+    "options": [
+      "useless",
+      "more useless",
+      "uselessly",
+      "uselesser"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Every bit as + adj + as' — 'ничуть не лучше/не хуже'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "b5941787496c",
+    "question": "Which sentence uses the correct evaluation phrase?",
+    "options": [
+      "The mentor programme is invaluable for new employees.",
+      "The mentor programme is a waste for new employees.",
+      "The mentor programme is uselessly for new employees.",
+      "The mentor programme is value for new employees."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Is invaluable' — 'бесценный, очень полезный'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "3d70697bd47c",
+    "question": "Complete: 'The new system is ___ more efficient than the old one.'",
+    "options": [
+      "considerably",
+      "every",
+      "as",
+      "same"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Considerably more' — 'значительно более'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "d71306e691af",
+    "question": "What does 'job perks' mean?",
+    "options": [
+      "обязанности",
+      "бонусы к работе",
+      "рабочие часы",
+      "заработная плата"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Job perks' — 'бонусы, дополнительные преимущества работы'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "0d9cc2f75488",
+    "question": "Complete: 'The company offers a generous ___ scheme for employees.'",
+    "options": [
+      "pension",
+      "pensioner",
+      "pensioning",
+      "pensioned"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pension scheme' — 'пенсионная программа'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "b4e9bc34fd81",
+    "question": "What does 'equal pay' mean?",
+    "options": [
+      "оплата сверхурочных",
+      "равная оплата",
+      "минимальная зарплата",
+      "премия"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Equal pay' — 'равная оплата (за равный труд)'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "670306b73d48",
+    "question": "Complete: 'The company provides tuition ___ for employees who want to study.'",
+    "options": [
+      "assistance",
+      "assistant",
+      "assist",
+      "assisting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tuition assistance' — 'оплата обучения'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "a11ac8e13b15",
+    "question": "What does 'financial incentives' mean?",
+    "options": [
+      "финансовые стимулы",
+      "финансовые отчёты",
+      "банковские счета",
+      "кредиты"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Financial incentives' — 'финансовые стимулы (премии, бонусы)'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "3be66d3ceec7",
+    "question": "Complete: 'A four-day week is ___ better than a five-day week.'",
+    "options": [
+      "infinitely",
+      "infinitively",
+      "infinite",
+      "infinity"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Infinitely better' — intensifying comparative.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "e1b394953beb",
+    "question": "Complete: 'The mentor programme is ___ for new employees.'",
+    "options": [
+      "invaluable",
+      "valuable",
+      "useless",
+      "helpful"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Invaluable' means 'бесценный, очень полезный'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "22355b0a3afc",
+    "question": "What does 'paid holiday' mean?",
+    "options": [
+      "оплачиваемый отпуск",
+      "неоплачиваемый отпуск",
+      "больничный",
+      "выходной"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Paid holiday' means 'оплачиваемый отпуск'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "aa9977120357",
+    "question": "Complete: 'My salary is ___ lower than yours.'",
+    "options": [
+      "marginally",
+      "way",
+      "miles",
+      "infinitely"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Marginally' expresses a small difference.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "8d45d6b99dde",
+    "question": "What does 'equal pay' mean?",
+    "options": [
+      "равная оплата",
+      "минимальная зарплата",
+      "оплата сверхурочных",
+      "премия"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Equal pay' means 'равная оплата'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  }
+]

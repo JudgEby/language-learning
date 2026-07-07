@@ -1,0 +1,227 @@
+[
+  {
+    "id": "631a2d6503c4",
+    "question": "Complete the conversation: 'What are your biggest strengths?' — 'That's a good ___. Perhaps I could just talk about my last job.'",
+    "options": [
+      "question",
+      "point",
+      "idea",
+      "topic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's a good question' — a common buying-time phrase.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "fa10f74fcbf2",
+    "question": "Choose the correct steering phrase:",
+    "options": [
+      "The most important point here is that I'm always looking to improve.",
+      "The most important point here is that I'm always looking for improve.",
+      "The most important point here is I always improving.",
+      "The most important point is here that I always improve."
+    ],
+    "correctIndex": 0,
+    "explanation": "'The most important point here is that...' — correctly steering the conversation.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "361fbb17ae62",
+    "question": "Complete: 'That's quite a ___ topic. Perhaps I could just focus on one aspect.'",
+    "options": [
+      "broad",
+      "wide",
+      "big",
+      "large"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Broad topic' — 'широкая тема'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "00ab67d1d64e",
+    "question": "Complete: 'Can I just ___ that I've always been interested in professional development?'",
+    "options": [
+      "say",
+      "tell",
+      "speak",
+      "talk"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can I just say that...' — a polite way to introduce a point.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "597758f831b1",
+    "question": "What does 'competence' mean?",
+    "options": [
+      "компетентность",
+      "конкуренция",
+      "завершение",
+      "команда"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competence' — 'компетентность, способность'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "0d89b8c6f019",
+    "question": "Complete: 'She has a high level of ___ in project management.'",
+    "options": [
+      "proficiency",
+      "competent",
+      "skilled",
+      "training"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Proficiency' — 'владение, профессионализм'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "f014d86b9027",
+    "question": "What does 'experienced' mean?",
+    "options": [
+      "неопытный",
+      "опытный",
+      "начинающий",
+      "квалифицированный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Experienced' — 'опытный'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "e11b4387a683",
+    "question": "Complete: 'After months of ___, she felt ready for the new role.'",
+    "options": [
+      "training",
+      "train",
+      "trained",
+      "trains"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Training' — noun 'обучение'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "8978674117d9",
+    "question": "What does 'incompetent' mean?",
+    "options": [
+      "очень компетентный",
+      "некомпетентный",
+      "профессиональный",
+      "квалифицированный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Incompetent' — 'некомпетентный'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "b1bf9c6e244f",
+    "question": "Complete: 'That's a ___ topic. Perhaps I could just focus on one aspect.'",
+    "options": [
+      "broad",
+      "wide",
+      "big",
+      "large"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Broad topic' — 'широкая тема'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "d64017fb0c4f",
+    "question": "Complete: 'Perhaps I could just ___ about my last job.'",
+    "options": [
+      "talk",
+      "say",
+      "tell",
+      "speak"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Talk about' — 'рассказать о, обсудить'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "597758f831b1",
+    "question": "What does 'competence' mean?",
+    "options": [
+      "компетентность",
+      "конкуренция",
+      "завершение",
+      "команда"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competence' means 'компетентность'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "e275bed7cfd8",
+    "question": "Complete: 'This is something I feel quite ___ about.'",
+    "options": [
+      "strongly",
+      "strong",
+      "strength",
+      "stronger"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Feel strongly about' — 'иметь твёрдое мнение'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "0a369ed3efbc",
+    "question": "What does 'proficiency' mean?",
+    "options": [
+      "владение, мастерство",
+      "прибыль",
+      "профессия",
+      "прогресс"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Proficiency' — 'владение, мастерство'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "230c45a11b8b",
+    "question": "Complete: 'The training ___ helped her improve.'",
+    "options": [
+      "programme",
+      "program",
+      "programming",
+      "programmer"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Training programme' — 'программа обучения'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  }
+]

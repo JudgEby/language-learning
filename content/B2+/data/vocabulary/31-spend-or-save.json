@@ -1,0 +1,56 @@
+{
+  "lessonId": "spend-or-save",
+  "title": "8C Spend or Save? — Деньги",
+  "items": [
+    {
+      "term": "overpriced",
+      "translation": "завышенная цена",
+      "example": "I avoid buying designer brands because I think they're overpriced."
+    },
+    {
+      "term": "economical",
+      "translation": "экономичный",
+      "example": "I drive a small car which is very economical on fuel."
+    },
+    {
+      "term": "cost-effective",
+      "translation": "рентабельный, выгодный",
+      "example": "We do our food shopping together because it's more cost-effective."
+    },
+    {
+      "term": "pricey",
+      "translation": "дорогой",
+      "example": "I never eat out in pricey restaurants."
+    },
+    {
+      "term": "complimentary",
+      "translation": "бесплатный",
+      "example": "I always keep an eye out for complimentary tickets to shows."
+    },
+    {
+      "term": "discounted",
+      "translation": "со скидкой",
+      "example": "I try to find things that are discounted, for example in the sales."
+    },
+    {
+      "term": "save",
+      "translation": "экономить, копить",
+      "example": "I'm trying to save money by cooking at home instead of eating out."
+    },
+    {
+      "term": "afford",
+      "translation": "позволить себе",
+      "example": "I can't afford to buy a new car right now."
+    },
+    {
+      "term": "bargain",
+      "translation": "выгодная покупка",
+      "example": "This jacket was a real bargain — I got it for half price."
+    },
+    {
+      "term": "worth the money",
+      "translation": "стоящий своих денег",
+      "example": "The hotel was expensive but it was definitely worth the money."
+    }
+  ]
+}

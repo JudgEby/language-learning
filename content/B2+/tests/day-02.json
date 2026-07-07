@@ -1,0 +1,227 @@
+[
+  {
+    "id": "299bcde94e35",
+    "question": "Choose the correct reduced relative clause: 'The man ___ in the café is my brother.'",
+    "options": [
+      "sitting",
+      "was sitting",
+      "who sitting",
+      "sat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Active participle clause: remove 'who was' → 'sitting'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "640a340f28d8",
+    "question": "Complete: 'Some of the houses ___ near the river were prone to flooding.'",
+    "options": [
+      "built",
+      "building",
+      "were built",
+      "being built"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive participle clause: 'which were built' → 'built'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "00fba3b77c6f",
+    "question": "Which sentence is a correct reduced relative clause (active)?",
+    "options": [
+      "Students taking their exams next year will notice some changes.",
+      "Students who taking their exams next year will notice changes.",
+      "Students are taking their exams next year will notice changes.",
+      "Students taken their exams next year will notice changes."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Students taking' = 'Students who are taking'. Present participle for active meaning.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "3d432f832d1d",
+    "question": "Complete: 'She lives in an apartment ___ by her parents.'",
+    "options": [
+      "owned",
+      "owning",
+      "is owned",
+      "who owns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive participle clause: 'which is owned' → 'owned'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "de9704e089ca",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The people living in the slums were offered new flats.",
+      "The people lived in the slums were offered new flats.",
+      "The people are living in the slums were offered new flats.",
+      "The people who living in the slums were offered new flats."
+    ],
+    "correctIndex": 0,
+    "explanation": "'The people living' = 'The people who were living' — correct participle clause.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "9f8e930bbd15",
+    "question": "What does 'industrial estate' mean?",
+    "options": [
+      "промышленная зона",
+      "жилой район",
+      "торговый центр",
+      "сельская местность"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Industrial estate' means 'промышленная зона'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "bde1fad20d01",
+    "question": "Complete: 'They live on the ___ of town, far from the city centre.'",
+    "options": [
+      "outskirts",
+      "slums",
+      "inner-city",
+      "suburbs"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Outskirts' means 'окраина'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "b2915fae3584",
+    "question": "Which word describes a run-down part of the city with poor housing?",
+    "options": [
+      "slums",
+      "residence",
+      "estate",
+      "construction"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Slums' means 'трущобы'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "cc5d279201ed",
+    "question": "Complete: 'Many families prefer ___ life because it's quieter and safer.'",
+    "options": [
+      "suburban",
+      "inner-city",
+      "industrial",
+      "built-up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Suburban' means 'пригородный'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "b8f4e0fd1d50",
+    "question": "What does 'residential area' mean?",
+    "options": [
+      "промышленная зона",
+      "жилой район",
+      "торговый квартал",
+      "исторический центр"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Residential area' means 'жилой район'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "3a66989e4337",
+    "question": "Complete: 'The construction ___ should do more to combat climate change.'",
+    "options": [
+      "industry",
+      "area",
+      "site",
+      "work"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Construction industry' — 'строительная индустрия'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "a05344fa5cf9",
+    "question": "Complete: 'Students ___ their exams next year will notice some changes.'",
+    "options": [
+      "taking",
+      "taken",
+      "being taken",
+      "having taken"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Students taking' = 'Students who are taking' — active participle clause.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "0b17d96cd0fd",
+    "question": "Complete: 'I recognised the man ___ in the café.'",
+    "options": [
+      "sitting",
+      "sat",
+      "was sitting",
+      "having sat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sitting' — reduced relative clause from 'who was sitting'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "f3cadc2bcd74",
+    "question": "What does 'built-up area' mean?",
+    "options": [
+      "застроенная территория",
+      "пустырь",
+      "лесопарк",
+      "сельская местность"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Built-up area' means 'застроенная территория'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "ae2955ccee22",
+    "question": "Complete: 'They live in a quiet ___ area of the city.'",
+    "options": [
+      "residential",
+      "industrial",
+      "suburban",
+      "inner-city"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Residential area' means 'жилой район'.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  }
+]

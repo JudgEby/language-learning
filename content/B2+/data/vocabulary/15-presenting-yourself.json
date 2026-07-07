@@ -1,0 +1,56 @@
+{
+  "lessonId": "presenting-yourself",
+  "title": "4C Presenting Yourself — Навыки и опыт",
+  "items": [
+    {
+      "term": "competence",
+      "translation": "компетентность",
+      "example": "Her competence in the role was obvious."
+    },
+    {
+      "term": "experienced",
+      "translation": "опытный",
+      "example": "We are looking for an experienced designer."
+    },
+    {
+      "term": "inexperienced",
+      "translation": "неопытный",
+      "example": "He is young and inexperienced but eager to learn."
+    },
+    {
+      "term": "incompetent",
+      "translation": "некомпетентный",
+      "example": "The manager was fired for being incompetent."
+    },
+    {
+      "term": "proficiency",
+      "translation": "владение, профессионализм",
+      "example": "She has a high level of proficiency in Spanish."
+    },
+    {
+      "term": "skilled",
+      "translation": "квалифицированный, искусный",
+      "example": "Skilled workers are in high demand."
+    },
+    {
+      "term": "unskilled",
+      "translation": "неквалифицированный",
+      "example": "He started with an unskilled job at the factory."
+    },
+    {
+      "term": "training",
+      "translation": "обучение, подготовка",
+      "example": "All new staff receive two weeks of training."
+    },
+    {
+      "term": "trained",
+      "translation": "обученный, подготовленный",
+      "example": "She is fully trained in first aid."
+    },
+    {
+      "term": "untrained",
+      "translation": "необученный",
+      "example": "Untrained employees cannot operate this machine."
+    }
+  ]
+}

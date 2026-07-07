@@ -1,0 +1,227 @@
+[
+  {
+    "id": "fd4ef15a9bd3",
+    "question": "Complete with fronted clause: '___ you like Vietnamese food, I'm sure you'd enjoy Cambodian.'",
+    "options": [
+      "Since",
+      "Because of",
+      "As a result of",
+      "In light of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Since' + clause at the beginning — fronting the reason.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "c197d198e45a",
+    "question": "Choose the correct fronted participle clause:",
+    "options": [
+      "Annoyed by the lack of salt, she complained to the waiter.",
+      "Annoying by the lack of salt, she complained to the waiter.",
+      "Being annoyed by the lack of salt she complained.",
+      "She annoyed by the salt, she complained."
+    ],
+    "correctIndex": 0,
+    "explanation": "'-ed participle clause' at the beginning — fronting the reason in passive voice.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "18b3291ac3de",
+    "question": "Complete: '___ of concerns about the impact of almond milk, I've stopped drinking it.'",
+    "options": [
+      "In light",
+      "In the light",
+      "As a light",
+      "Having light"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In light of' — 'в свете, учитывая'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "10900360cae5",
+    "question": "Complete: '___ as you've never tried Indonesian food, we should order some.'",
+    "options": [
+      "Seeing",
+      "Seen",
+      "To see",
+      "See"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Seeing as' — informal 'поскольку, раз уж'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "9797289cda9a",
+    "question": "What does 'vegan' mean?",
+    "options": [
+      "человек, который ест всё",
+      "веган (не ест продукты животного происхождения)",
+      "вегетарианец",
+      "диетолог"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vegan' — 'веган, человек, не употребляющий продукты животного происхождения'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "28036755b170",
+    "question": "Complete: 'I try to eat ___ food, without chemicals.'",
+    "options": [
+      "organic",
+      "organised",
+      "organ",
+      "organism"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Organic food' — 'органическая еда, выращенная без химикатов'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "6132b879d49f",
+    "question": "What does 'binge on' mean?",
+    "options": [
+      "объедаться чем-то",
+      "голодать",
+      "пробовать немного",
+      "готовить"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Binge on' — 'объедаться, набрасываться на еду'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "cd3db06cb929",
+    "question": "Complete: 'Let's ___ a snack before the movie.'",
+    "options": [
+      "grab",
+      "take",
+      "have",
+      "eat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Grab a snack' — 'перекусить на ходу'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "cea902af18cf",
+    "question": "Complete: '___ as a result of the exchange, we learned a lot about each other's culture.'",
+    "options": [
+      "As",
+      "In",
+      "With",
+      "For"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As a result of' — fronting the cause.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "211d7296beda",
+    "question": "Complete: '___ that you're here, let's start the meeting.'",
+    "options": [
+      "Seeing as",
+      "Seen as",
+      "To see",
+      "See"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Seeing as' — 'поскольку, раз уж'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "29c0770c5c60",
+    "question": "What does 'organic' mean in food?",
+    "options": [
+      "органический, без химикатов",
+      "организованный",
+      "обычный",
+      "замороженный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Organic' means 'органический, выращенный без химикатов'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "726be192ea9b",
+    "question": "Complete: 'Forced to eat the same food every day, Laura ___ forward to something new.'",
+    "options": [
+      "was looking",
+      "looked",
+      "has looked",
+      "looks"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Forced to eat...' — fronted participle clause.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "182da5765602",
+    "question": "Complete: '___ of the cultural exchange, we learned a lot.'",
+    "options": [
+      "As a result",
+      "Because",
+      "Since",
+      "For"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As a result of' — 'в результате'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "4056cccb1d9f",
+    "question": "What does 'in season' mean for food?",
+    "options": [
+      "сезонный",
+      "несезонный",
+      "органический",
+      "свежий"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In season' — 'сезонный'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "b4fdee408e3e",
+    "question": "Complete: '___ food is grown without chemicals.'",
+    "options": [
+      "Organic",
+      "Organised",
+      "Ordinary",
+      "Original"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Organic food' — 'органическая еда'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  }
+]

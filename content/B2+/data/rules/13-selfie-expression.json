@@ -1,0 +1,15 @@
+{
+  "id": "selfie-expression",
+  "order": 13,
+  "unit": "Unit 4 — Image",
+  "title": "4A Selfie-expression — Все uses of should",
+  "contentMd": "## 4A Selfie-expression — Все uses of should\n\n### Простая суть\nМы привыкли, что **should** — это просто «следует / не следует». Но на B2+ у should есть целых **6 лиц**: совет, идеал, вероятность, сожаление, критика и формальное условие. Одна форма — куча значений. Разберём каждое.\n\n### Как это работает\n\n| Использование | Форма | Перевод | Пример |\n|---|---|---|---|\n| **Совет** | should(n't) + V | тебе стоит / не стоит | You **should take** a photo. |\n| **Идеал / обязанность** | should(n't) + V | должны бы / следовало бы | They **should give** us a day off. |\n| **Вероятность** | should + V | должно быть / скорее всего | It **should work** better now. |\n| **Сожаление** | should have + V3 | надо было / зря не… | I **shouldn't have said** that. |\n| **Критика** | shouldn't be + V-ing | не должен бы (сейчас) | She **shouldn't be working** so hard. |\n| **Формальное условие** | If… should… / Should… | если вдруг / в случае если | **Should you need** help, call us. |\n\nВ **формальных conditional** предложениях `if` может опускаться, и `should` выходит на первое место: `Should you have any questions…` — это очень официально, но звучит солидно.\n\n### Живые примеры\n- You **should take** a photo of us all. (Совет: сфоткай нас.)\n- They **should give** us a day off. (Идеал: они должны бы дать нам выходной.)\n- I've changed the settings. It **should work** better now. (Вероятность: теперь должно работать.)\n- I **shouldn't have said** that. I really regret it now. (Сожаление: зря я это сказал.)\n- She **shouldn't be working** so hard. She looks exhausted. (Критика: не должна так вкалывать.)\n- **Should you experience** any problems, please contact us immediately. (Формальное условие: если возникнут проблемы.)\n\n### Лайфхак для запоминания\nРазличай временную линию: **should + V** → настоящее/будущее («надо бы»), **should be + V-ing** → прямо сейчас («не надо бы сейчас»), **should have + V3** → прошлое («надо было, но не сделал»). А ещё запомни: если after `should` стоит `have` — это сожаление о прошлом.",
+  "examples": [
+    "You should take a photo of us all.",
+    "They should give us a day off.",
+    "I've changed the settings. It should work better now.",
+    "I shouldn't have said that. I really regret it now.",
+    "She shouldn't be working so hard. She looks exhausted.",
+    "Should you experience any problems, please contact us immediately."
+  ]
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "aba06264c317",
+    "question": "Complete: 'I've ___ gorillas in the wild.'",
+    "options": [
+      "seen",
+      "saw",
+      "see",
+      "seeing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present perfect: 'have + V3' for past experience with present relevance.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "26233aa4f32e",
+    "question": "Choose the correct sentence with past perfect:",
+    "options": [
+      "I couldn't call you because my phone had been stolen.",
+      "I couldn't call you because my phone was stolen.",
+      "I couldn't call you because my phone has been stolen.",
+      "I couldn't call you because my phone is stolen."
+    ],
+    "correctIndex": 0,
+    "explanation": "Past perfect ('had been stolen') for an action completed before another past event.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "7703cb6928e3",
+    "question": "Complete: 'In ten years' time, we ___ saved these animals.'",
+    "options": [
+      "will have",
+      "have",
+      "had",
+      "are having"
+    ],
+    "correctIndex": 0,
+    "explanation": "Future perfect: 'will have + V3' for action completed before a future time.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "7731e6c683e9",
+    "question": "Complete: 'He appeared to ___ forgotten us.'",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perfect infinitive: 'to have + V3' — an action completed before the time of the main verb.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "ae7bae8d3b2f",
+    "question": "What does 'conservation' mean?",
+    "options": [
+      "загрязнение",
+      "сохранение природы",
+      "разрушение",
+      "исследование"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Conservation' — 'сохранение природы, охрана окружающей среды'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "534190e0ed13",
+    "question": "Complete: 'Many species are in danger of becoming ___.'",
+    "options": [
+      "extinct",
+      "extinction",
+      "extincted",
+      "extincting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Extinct' — 'вымерший'. 'Become extinct' — 'вымереть'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "f764c6d615c8",
+    "question": "What does 'habitat' mean?",
+    "options": [
+      "привычка",
+      "среда обитания",
+      "температура",
+      "климат"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Habitat' — 'среда обитания'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "440664d3cd2e",
+    "question": "Complete: 'Poachers are a threat to ___ species.'",
+    "options": [
+      "endangered",
+      "dangerous",
+      "endangering",
+      "dangered"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Endangered species' — 'исчезающие виды'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "ee81ac568a1a",
+    "question": "What does 'ecosystem' mean?",
+    "options": [
+      "экосистема",
+      "экономика",
+      "экология",
+      "эволюция"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Ecosystem' — 'экосистема'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "6868015d1c0f",
+    "question": "Complete: 'I've ___ Ali since primary school.'",
+    "options": [
+      "known",
+      "knew",
+      "know",
+      "knowing"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have known' — present perfect of 'know'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "9be6e66e9e51",
+    "question": "Complete: 'He appears to ___ forgotten about the meeting.'",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "having"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Appears to have + V3' — perfect infinitive.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "6da64289468e",
+    "question": "What does 'predator' mean?",
+    "options": [
+      "хищник",
+      "жертва",
+      "добыча",
+      "паразит"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Predator' means 'хищник'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "02f3a47ad359",
+    "question": "Complete: 'In ten years, we ___ have saved these animals.'",
+    "options": [
+      "will",
+      "have",
+      "had",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Will have saved' — future perfect.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "70e5af1480b2",
+    "question": "What does 'endangered' mean?",
+    "options": [
+      "исчезающий, находящийся под угрозой",
+      "опасный",
+      "исчезнувший",
+      "защищённый"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Endangered species' — 'исчезающий вид'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "b1070cae1cd9",
+    "question": "Complete: 'Birds ___ south for the winter.'",
+    "options": [
+      "migrate",
+      "emit",
+      "move",
+      "travel"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Migrate' — 'мигрировать'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  }
+]

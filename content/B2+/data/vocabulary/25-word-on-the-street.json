@@ -1,0 +1,46 @@
+{
+  "lessonId": "word-on-the-street",
+  "title": "7A The Word on the Street — Объяснение значений",
+  "items": [
+    {
+      "term": "origin",
+      "translation": "происхождение",
+      "example": "The origin of the word 'sandwich' comes from the Earl of Sandwich."
+    },
+    {
+      "term": "definition",
+      "translation": "определение",
+      "example": "Look up the definition of the word in a dictionary."
+    },
+    {
+      "term": "meaning",
+      "translation": "значение",
+      "example": "The meaning of this idiom is not obvious from the individual words."
+    },
+    {
+      "term": "derive",
+      "translation": "происходить",
+      "example": "The English word 'guitar' derives from the Spanish word 'guitarra'."
+    },
+    {
+      "term": "originate",
+      "translation": "возникнуть, происходить",
+      "example": "The phrase originated in the 19th century as a naval expression."
+    },
+    {
+      "term": "term",
+      "translation": "термин",
+      "example": "The term 'artificial intelligence' was first used in the 1950s."
+    },
+    {
+      "term": "phrase",
+      "translation": "фраза",
+      "example": "The phrase 'break the ice' means to start a conversation in a social setting."
+    },
+    {
+      "term": "abbreviation",
+      "translation": "аббревиатура",
+      "example": "LOL is an abbreviation for 'laugh out loud'."
+    }
+  ]
+}

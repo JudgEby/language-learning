@@ -1,0 +1,298 @@
+{
+  "level": "B2+",
+  "title": "Speakout 3rd Edition B2+",
+  "source": {
+    "sb": "extract/SB.txt",
+    "wb": "extract/WB.txt"
+  },
+  "studyOrder": [
+    {
+      "type": "rule",
+      "id": "new-friends"
+    },
+    {
+      "type": "phrases",
+      "id": "new-friends"
+    },
+    {
+      "type": "rule",
+      "id": "places"
+    },
+    {
+      "type": "vocabulary",
+      "id": "places"
+    },
+    {
+      "type": "rule",
+      "id": "things-we-love"
+    },
+    {
+      "type": "idioms",
+      "id": "things-we-love"
+    },
+    {
+      "type": "rule",
+      "id": "comfort-food"
+    },
+    {
+      "type": "vocabulary",
+      "id": "comfort-food"
+    },
+    {
+      "type": "rule",
+      "id": "getting-away-with-it"
+    },
+    {
+      "type": "idioms",
+      "id": "getting-away-with-it"
+    },
+    {
+      "type": "rule",
+      "id": "friend-or-foe"
+    },
+    {
+      "type": "vocabulary",
+      "id": "friend-or-foe"
+    },
+    {
+      "type": "rule",
+      "id": "in-the-workplace"
+    },
+    {
+      "type": "vocabulary",
+      "id": "in-the-workplace"
+    },
+    {
+      "type": "rule",
+      "id": "challenge"
+    },
+    {
+      "type": "vocabulary",
+      "id": "challenge"
+    },
+    {
+      "type": "rule",
+      "id": "fanfiction"
+    },
+    {
+      "type": "vocabulary",
+      "id": "fanfiction"
+    },
+    {
+      "type": "rule",
+      "id": "street-chatter"
+    },
+    {
+      "type": "idioms",
+      "id": "street-chatter"
+    },
+    {
+      "type": "rule",
+      "id": "carrot-or-stick"
+    },
+    {
+      "type": "vocabulary",
+      "id": "carrot-or-stick"
+    },
+    {
+      "type": "rule",
+      "id": "role-models"
+    },
+    {
+      "type": "vocabulary",
+      "id": "role-models"
+    },
+    {
+      "type": "rule",
+      "id": "selfie-expression"
+    },
+    {
+      "type": "vocabulary",
+      "id": "selfie-expression"
+    },
+    {
+      "type": "rule",
+      "id": "creating-a-brand"
+    },
+    {
+      "type": "vocabulary",
+      "id": "creating-a-brand"
+    },
+    {
+      "type": "rule",
+      "id": "presenting-yourself"
+    },
+    {
+      "type": "vocabulary",
+      "id": "presenting-yourself"
+    },
+    {
+      "type": "rule",
+      "id": "branding-behaviour"
+    },
+    {
+      "type": "vocabulary",
+      "id": "branding-behaviour"
+    },
+    {
+      "type": "rule",
+      "id": "life-changing-decisions"
+    },
+    {
+      "type": "vocabulary",
+      "id": "life-changing-decisions"
+    },
+    {
+      "type": "rule",
+      "id": "conservational-change"
+    },
+    {
+      "type": "vocabulary",
+      "id": "conservational-change"
+    },
+    {
+      "type": "rule",
+      "id": "effecting-change"
+    },
+    {
+      "type": "vocabulary",
+      "id": "effecting-change"
+    },
+    {
+      "type": "rule",
+      "id": "habits"
+    },
+    {
+      "type": "vocabulary",
+      "id": "habits"
+    },
+    {
+      "type": "rule",
+      "id": "algorithm"
+    },
+    {
+      "type": "vocabulary",
+      "id": "algorithm"
+    },
+    {
+      "type": "rule",
+      "id": "online-blunders"
+    },
+    {
+      "type": "phrases",
+      "id": "online-blunders"
+    },
+    {
+      "type": "rule",
+      "id": "in-dispute"
+    },
+    {
+      "type": "vocabulary",
+      "id": "in-dispute"
+    },
+    {
+      "type": "rule",
+      "id": "tech-fail"
+    },
+    {
+      "type": "vocabulary",
+      "id": "tech-fail"
+    },
+    {
+      "type": "rule",
+      "id": "word-on-the-street"
+    },
+    {
+      "type": "vocabulary",
+      "id": "word-on-the-street"
+    },
+    {
+      "type": "rule",
+      "id": "food-fads"
+    },
+    {
+      "type": "vocabulary",
+      "id": "food-fads"
+    },
+    {
+      "type": "rule",
+      "id": "pre-loved"
+    },
+    {
+      "type": "vocabulary",
+      "id": "pre-loved"
+    },
+    {
+      "type": "rule",
+      "id": "past-and-present"
+    },
+    {
+      "type": "vocabulary",
+      "id": "past-and-present"
+    },
+    {
+      "type": "rule",
+      "id": "dystopias-utopias"
+    },
+    {
+      "type": "vocabulary",
+      "id": "dystopias-utopias"
+    },
+    {
+      "type": "rule",
+      "id": "science-we-need"
+    },
+    {
+      "type": "vocabulary",
+      "id": "science-we-need"
+    },
+    {
+      "type": "rule",
+      "id": "spend-or-save"
+    },
+    {
+      "type": "vocabulary",
+      "id": "spend-or-save"
+    },
+    {
+      "type": "rule",
+      "id": "science-fiction"
+    },
+    {
+      "type": "vocabulary",
+      "id": "science-fiction"
+    }
+  ],
+  "testDays": [
+    "day-01",
+    "day-02",
+    "day-03",
+    "day-04",
+    "day-05",
+    "day-06",
+    "day-07",
+    "day-08",
+    "day-09",
+    "day-10",
+    "day-11",
+    "day-12",
+    "day-13",
+    "day-14",
+    "day-15",
+    "day-16",
+    "day-17",
+    "day-18",
+    "day-19",
+    "day-20",
+    "day-21",
+    "day-22",
+    "day-23",
+    "day-24",
+    "day-25",
+    "day-26",
+    "day-27",
+    "day-28",
+    "day-29",
+    "day-30"
+  ]
+}

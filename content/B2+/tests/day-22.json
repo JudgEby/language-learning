@@ -1,0 +1,227 @@
+[
+  {
+    "id": "e6fc8b9ef584",
+    "question": "Complete with passive infinitive: 'You could ___ given a promotion.'",
+    "options": [
+      "be",
+      "have been",
+      "being",
+      "been"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive infinitive: 'could be + V3'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "4f736651a5e0",
+    "question": "Choose the correct perfect passive infinitive:",
+    "options": [
+      "I might have been sent the wrong item.",
+      "I might be sent the wrong item.",
+      "I might have sent the wrong item.",
+      "I might have been send the wrong item."
+    ],
+    "correctIndex": 0,
+    "explanation": "Perfect passive infinitive: 'might have been + V3'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "abfd9fd083e2",
+    "question": "Complete: 'I avoid ___ tagged in photos by not being on social media.'",
+    "options": [
+      "being",
+      "been",
+      "be",
+      "having been"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive -ing form: 'avoid being + V3'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "39705ff45731",
+    "question": "Complete: '___ been born in Australia, I've got an Australian passport.'",
+    "options": [
+      "Having",
+      "Being",
+      "Been",
+      "Had"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perfect gerund passive: 'Having been + V3' at the beginning of a sentence.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "24f9ee0892da",
+    "question": "Complete: 'I want the meeting to ___ finished by 4 o'clock.'",
+    "options": [
+      "be",
+      "have been",
+      "being",
+      "been"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passive infinitive after 'want': 'want + to be + V3'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "abda6921bbaa",
+    "question": "What does 'get the wrong end of the stick' mean?",
+    "options": [
+      "найти палку",
+      "неправильно понять",
+      "потерять палку",
+      "сломать палку"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get the wrong end of the stick' — 'неправильно понять (ситуацию)'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "973e0889b82c",
+    "question": "Complete: 'After a few mistakes, we're now on the right ___ with the project.'",
+    "options": [
+      "track",
+      "road",
+      "path",
+      "way"
+    ],
+    "correctIndex": 0,
+    "explanation": "'On the right track' — 'на верном пути'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "d5092997d808",
+    "question": "What does 'rub someone up the wrong way' mean?",
+    "options": [
+      "раздражать кого-то",
+      "массировать кого-то",
+      "поддерживать кого-то",
+      "целовать кого-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rub someone up the wrong way' — 'раздражать кого-то'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "d8b088943136",
+    "question": "Complete: 'We need to put things ___ before the deadline.'",
+    "options": [
+      "right",
+      "wrong",
+      "straight",
+      "correct"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Put something right' — 'исправить что-то'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "9ebc3bade0df",
+    "question": "What does 'in the right' mean?",
+    "options": [
+      "справа",
+      "быть правым (в споре)",
+      "правильно",
+      "направо"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In the right' — 'быть правым (в споре, конфликте)'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "22b1a12fbe10",
+    "question": "Complete: 'The email seems to have ___ sent to the wrong address.'",
+    "options": [
+      "been",
+      "be",
+      "being",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Seems to have been + V3' — perfect passive infinitive.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "1b6268ed7796",
+    "question": "Complete: 'I avoid ___ tagged in social media posts.'",
+    "options": [
+      "being",
+      "been",
+      "be",
+      "having"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Avoid being + V3' — passive -ing form.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "4e86f7e12d9d",
+    "question": "What does 'get into the wrong hands' mean?",
+    "options": [
+      "попасть не в те руки",
+      "потерять что-то",
+      "найти что-то",
+      "купить что-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get into the wrong hands' — 'попасть не в те руки, к недобросовестным людям'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "02bed5a542f3",
+    "question": "Complete: 'I want the work ___ finished by Friday.'",
+    "options": [
+      "to be",
+      "be",
+      "being",
+      "been"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Want + to be + V3' — passive infinitive.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "95ef183cf47b",
+    "question": "What does 'put someone right' mean?",
+    "options": [
+      "поправить кого-то",
+      "посадить кого-то",
+      "обидеть кого-то",
+      "рассмешить кого-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Put someone right' — 'поправить кого-то'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  }
+]

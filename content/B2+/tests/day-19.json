@@ -1,0 +1,227 @@
+[
+  {
+    "id": "687b9c16787e",
+    "question": "Complete: 'So what you're ___ is that you don't think this idea will work.'",
+    "options": [
+      "saying",
+      "telling",
+      "speaking",
+      "talking"
+    ],
+    "correctIndex": 0,
+    "explanation": "'So what you're saying is...' — checking understanding by paraphrasing.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "c17abcd8491d",
+    "question": "Choose the correct summarising phrase:",
+    "options": [
+      "In a nutshell, we've got two very different ideas to choose between.",
+      "In a nut, we've got two ideas.",
+      "In a shell, we've got two ideas.",
+      "In nutshell, we've got two ideas."
+    ],
+    "correctIndex": 0,
+    "explanation": "'In a nutshell' — 'вкратце, если коротко'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "2c53978cbeac",
+    "question": "Complete: '___, a petition involves getting people's signatures.'",
+    "options": [
+      "Basically",
+      "Base",
+      "Basic",
+      "Basics"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Basically' — 'в основном, проще говоря'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "1f52f4909f1f",
+    "question": "Complete: 'To put it another ___, it's not something you want to use.'",
+    "options": [
+      "way",
+      "word",
+      "term",
+      "phrase"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To put it another way' — 'другими словами'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "eff2b1884e75",
+    "question": "What does 'climate change' mean?",
+    "options": [
+      "погода",
+      "изменение климата",
+      "похолодание",
+      "глобальное потепление"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Climate change' — 'изменение климата'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "0be7aa958655",
+    "question": "Complete: 'The charity provides ___ for homeless people.'",
+    "options": [
+      "shelter",
+      "shelf",
+      "shield",
+      "shade"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shelter' — 'приют, убежище'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "93dd52d43570",
+    "question": "What does 'renewable energy' mean?",
+    "options": [
+      "невозобновляемая энергия",
+      "возобновляемая энергия",
+      "атомная энергия",
+      "электричество"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Renewable energy' — 'возобновляемая энергия'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "97a900eb7222",
+    "question": "Complete: '___ fuels like coal and oil are running out.'",
+    "options": [
+      "Fossil",
+      "Fossilised",
+      "Fossilizing",
+      "Fossils"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fossil fuels' — 'ископаемое топливо'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "19d551db30cd",
+    "question": "What does 'equal opportunities' mean?",
+    "options": [
+      "равные возможности",
+      "особые условия",
+      "справедливая оплата",
+      "трудовые права"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Equal opportunities' — 'равные возможности'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "2c986161b35f",
+    "question": "Complete: 'In a ___, we need to decide between two options.'",
+    "options": [
+      "nutshell",
+      "nut",
+      "shell",
+      "summary"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In a nutshell' — 'вкратце'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "31c94d36194b",
+    "question": "Complete: 'To ___ it another way, the project is too expensive.'",
+    "options": [
+      "put",
+      "say",
+      "tell",
+      "speak"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To put it another way' — 'другими словами'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "4c79fa65f2c4",
+    "question": "What does 'landfill' mean?",
+    "options": [
+      "свалка, полигон отходов",
+      "переработка",
+      "завод",
+      "поле"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Landfill' means 'свалка, полигон для отходов'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "c30ecb937199",
+    "question": "Complete: 'To ___ up, we all agree on the main points.'",
+    "options": [
+      "sum",
+      "summarise",
+      "summit",
+      "summary"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To sum up' / 'To summarise' — 'подводя итог'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "2a7adf2b55c6",
+    "question": "What does 'hardship' mean?",
+    "options": [
+      "трудности, лишения",
+      "счастье",
+      "здоровье",
+      "богатство"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hardship' — 'трудности, лишения'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "bce18d190cee",
+    "question": "Complete: '___ fuels contribute to climate change.'",
+    "options": [
+      "Fossil",
+      "Fossilised",
+      "Fossilising",
+      "Fossils"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fossil fuels' — 'ископаемое топливо'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  }
+]

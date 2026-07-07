@@ -1,0 +1,51 @@
+{
+  "lessonId": "carrot-or-stick",
+  "title": "3C Carrot or Stick? — Убеждение и мотивация",
+  "items": [
+    {
+      "term": "persuasion",
+      "translation": "убеждение",
+      "example": "She used persuasion to get them to agree."
+    },
+    {
+      "term": "motivation",
+      "translation": "мотивация",
+      "example": "Money is not the only form of motivation."
+    },
+    {
+      "term": "manipulation",
+      "translation": "манипуляция",
+      "example": "He got what he wanted through manipulation."
+    },
+    {
+      "term": "pressure",
+      "translation": "давление",
+      "example": "They put pressure on us to accept the deal."
+    },
+    {
+      "term": "coaxing",
+      "translation": "уговаривание",
+      "example": "After some coaxing, she agreed to come."
+    },
+    {
+      "term": "drive",
+      "translation": "движущая сила, стремление",
+      "example": "She has the drive to succeed."
+    },
+    {
+      "term": "persuade",
+      "translation": "убеждать",
+      "example": "Can you persuade him to join us?"
+    },
+    {
+      "term": "motivate",
+      "translation": "мотивировать",
+      "example": "A good leader knows how to motivate people."
+    },
+    {
+      "term": "incentive",
+      "translation": "стимул",
+      "example": "The bonus is a great incentive to work harder."
+    }
+  ]
+}

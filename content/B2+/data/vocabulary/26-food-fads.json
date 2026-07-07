@@ -1,0 +1,71 @@
+{
+  "lessonId": "food-fads",
+  "title": "7B Food Fads — Еда и напитки",
+  "items": [
+    {
+      "term": "diet",
+      "translation": "диета, рацион",
+      "example": "Pescatarians have a diet that includes fish, but no meat."
+    },
+    {
+      "term": "vegan",
+      "translation": "веган",
+      "example": "Vegans avoid any animal-related products, including dairy and eggs."
+    },
+    {
+      "term": "vegetarian",
+      "translation": "вегетарианец",
+      "example": "Vegetarians don't eat meat, but they do eat dairy products."
+    },
+    {
+      "term": "pescatarian",
+      "translation": "пескатарианец",
+      "example": "My sister is a pescatarian, so she eats fish but not meat."
+    },
+    {
+      "term": "calories",
+      "translation": "калории",
+      "example": "A healthy diet isn't just about keeping the number of calories at a sensible level."
+    },
+    {
+      "term": "cholesterol",
+      "translation": "холестерин",
+      "example": "Eating too much fatty food can cause cholesterol to build up in your blood."
+    },
+    {
+      "term": "nutrients",
+      "translation": "питательные вещества",
+      "example": "It's important to consume a variety of food types to get the nutrients we need."
+    },
+    {
+      "term": "binge on",
+      "translation": "объедаться, набрасываться на еду",
+      "example": "I love to binge on unhealthy foods on the odd occasion."
+    },
+    {
+      "term": "grab a snack",
+      "translation": "перекусить",
+      "example": "When I'm in a hurry, I tend to grab a snack rather than eat a proper meal."
+    },
+    {
+      "term": "junk food",
+      "translation": "фастфуд, вредная еда",
+      "example": "I avoid buying junk food like burgers and chips."
+    },
+    {
+      "term": "in season",
+      "translation": "сезонный",
+      "example": "When buying fruit and veg, I try to buy things that are in season."
+    },
+    {
+      "term": "out of season",
+      "translation": "не сезонный",
+      "example": "Strawberries taste bland when they are out of season."
+    },
+    {
+      "term": "organic",
+      "translation": "органический",
+      "example": "I go for organic alternatives as I know they're natural and no chemicals have been used."
+    }
+  ]
+}

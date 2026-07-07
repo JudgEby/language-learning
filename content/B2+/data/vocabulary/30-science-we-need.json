@@ -1,0 +1,51 @@
+{
+  "lessonId": "science-we-need",
+  "title": "8B The Science We Need — Наука и технологии",
+  "items": [
+    {
+      "term": "hand-held",
+      "translation": "ручной, портативный",
+      "example": "I love my new hand-held massager for relaxing tired muscles."
+    },
+    {
+      "term": "user-friendly",
+      "translation": "удобный в использовании",
+      "example": "This microwave is really user-friendly — you don't need the instruction book."
+    },
+    {
+      "term": "energy-efficient",
+      "translation": "энергоэффективный",
+      "example": "An energy-efficient heater will save you lots of money on bills."
+    },
+    {
+      "term": "state-of-the-art",
+      "translation": "современный, передовой",
+      "example": "The health tracker uses state-of-the-art technology to monitor your health."
+    },
+    {
+      "term": "recyclable",
+      "translation": "пригодный для переработки",
+      "example": "One of the best things about this device is that it's completely recyclable."
+    },
+    {
+      "term": "environmentally friendly",
+      "translation": "экологичный",
+      "example": "This cleaning product contains no hazardous chemicals and is environmentally friendly."
+    },
+    {
+      "term": "hazardous",
+      "translation": "опасный",
+      "example": "Some cleaning products contain hazardous chemicals that are harmful to the environment."
+    },
+    {
+      "term": "device",
+      "translation": "устройство",
+      "example": "This hand-held device is great for massaging tired muscles."
+    },
+    {
+      "term": "invention",
+      "translation": "изобретение",
+      "example": "The invention of the smartphone changed the way we communicate."
+    }
+  ]
+}

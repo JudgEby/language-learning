@@ -1,0 +1,15 @@
+{
+  "id": "carrot-or-stick",
+  "order": 11,
+  "unit": "Unit 3 — Inspiration",
+  "title": "3C Carrot or Stick? — Как взаимодействовать с чужим мнением",
+  "contentMd": "## 3C Carrot or Stick? — Как взаимодействовать с чужим мнением\n\n### Простая суть\nСпорить можно по-разному. Можно сказать «Ты не прав» и получить врага. А можно сначала **признать** мысль собеседника — показать, что ты её услышал и понял, — и только потом предложить свой вариант. Это называется **engage with views** — «взаимодействовать с мнением». На собеседованиях, переговорах и в спорах это golden skill.\n\n### Как это работает\n\n**Шаг 1. Признаём мнение собеседника («Engage»):**\n- That's a (very) **good point**.\n- That **makes sense**.\n- I can **see where you're coming from**.\n- I can see the **logic in that**.\n- I can **see why** you're suggesting…\n- That's quite a **neat idea**.\n\n**Шаг 2. Делаем своё контрпредложение («Countersuggestion»):**\n- **On the other hand**, …\n- **But on a practical level**, …\n- It **might be more effective** to …\n- **One disadvantage** of that would be …\n- **Alternatively**, what about …?\n\nСвязка для плавного перехода: признание + **but** + контраргумент.\n\n### Живые примеры\n- A: I think we should hand out big fines to people who drop litter. \\\n  B: I can **see where you're coming from**, but **on a practical level**, it might be difficult to force people to pay.\n- A: I think we should put up our prices. \\\n  B: I can **see the logic in that**, but **one disadvantage** of that would be that we may lose some customers.\n- A: We could simply ban all dogs from the park. \\\n  B: I can **see why you're suggesting that**. **On the other hand**, some people need their dogs, for example if they have a disability.\n- A: Why don't we offer free meals to kids to encourage families? \\\n  B: That's **quite a neat idea**. **Alternatively**, we could simply reduce the prices for children.\n- That's a **really good idea**. But **one disadvantage** of that would be that not charging them would be expensive for us.\n- I can **see why you're suggesting that**. **On the other hand**, customers might resent being forced to be generous.\n\n### Лайфхак для запоминания\nФормула **YES + BUT**: сначала скажи что-то хорошее про идею собеседника (see where you're coming from, good point, makes sense), а потом добавь `but` и своё «но». Мозг собеседника расслабляется после комплимента и легче принимает твой аргумент. Тренируйся на фильмах: заметишь этот паттерн везде.",
+  "examples": [
+    "I can see where you're coming from, but on a practical level, it might be difficult to force people to pay.",
+    "I can see the logic in that, but one disadvantage would be that we may lose some customers.",
+    "I can see why you're suggesting that. On the other hand, some people need their dogs.",
+    "That's quite a neat idea. Alternatively, we could simply reduce the prices for children.",
+    "That's a really good idea. But one disadvantage would be that it would reduce our profits.",
+    "I can see where you're coming from. But on a practical level, it would be quite hard to catch people in the act."
+  ]
+}

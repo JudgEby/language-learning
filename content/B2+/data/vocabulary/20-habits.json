@@ -1,0 +1,56 @@
+{
+  "lessonId": "habits",
+  "title": "5D Habits — Привычки",
+  "items": [
+    {
+      "term": "habit",
+      "translation": "привычка",
+      "example": "Up to forty percent of our actions are done out of habit."
+    },
+    {
+      "term": "routine",
+      "translation": "рутина, распорядок",
+      "example": "Build your new habit into your existing routine."
+    },
+    {
+      "term": "determination",
+      "translation": "решимость, настойчивость",
+      "example": "It takes determination to see a new habit through."
+    },
+    {
+      "term": "consistency",
+      "translation": "постоянство, последовательность",
+      "example": "Consistency is the key to building new habits."
+    },
+    {
+      "term": "commitment",
+      "translation": "обязательство, приверженность",
+      "example": "Make a time commitment you can stick to."
+    },
+    {
+      "term": "build a habit",
+      "translation": "выработать привычку",
+      "example": "It takes about thirty days to build a new habit."
+    },
+    {
+      "term": "stick to",
+      "translation": "придерживаться, не отступать",
+      "example": "It's hard to stick to a new routine."
+    },
+    {
+      "term": "get back on track",
+      "translation": "вернуться в колею",
+      "example": "If you miss a day, get back on track the next day."
+    },
+    {
+      "term": "reward",
+      "translation": "награда, вознаграждение",
+      "example": "Reward yourself after reaching your target."
+    },
+    {
+      "term": "mindset",
+      "translation": "образ мыслей, настрой",
+      "example": "Don't get into an all-or-nothing mindset."
+    }
+  ]
+}

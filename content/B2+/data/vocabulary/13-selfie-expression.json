@@ -1,0 +1,61 @@
+{
+  "lessonId": "selfie-expression",
+  "title": "4A Selfie-expression — Фотография",
+  "items": [
+    {
+      "term": "blurred",
+      "translation": "размытый, нечёткий",
+      "example": "The photo was too blurred to use."
+    },
+    {
+      "term": "in focus",
+      "translation": "в фокусе, чёткий",
+      "example": "Make sure the subject is in focus."
+    },
+    {
+      "term": "foreground",
+      "translation": "передний план",
+      "example": "The flower is in the foreground."
+    },
+    {
+      "term": "background",
+      "translation": "фон, задний план",
+      "example": "I don't like the clutter in the background."
+    },
+    {
+      "term": "composition",
+      "translation": "композиция",
+      "example": "The composition of this photo is stunning."
+    },
+    {
+      "term": "zoom in",
+      "translation": "приблизить",
+      "example": "Zoom in to see the details."
+    },
+    {
+      "term": "zoom out",
+      "translation": "отдалить",
+      "example": "Zoom out so we can see the whole view."
+    },
+    {
+      "term": "frame",
+      "translation": "кадрировать, обрамлять",
+      "example": "Frame the shot so the subject is centred."
+    },
+    {
+      "term": "close-up",
+      "translation": "крупный план",
+      "example": "She took a close-up of the cat's face."
+    },
+    {
+      "term": "pose",
+      "translation": "позировать",
+      "example": "He asked me to pose by the window."
+    },
+    {
+      "term": "shot",
+      "translation": "снимок, кадр",
+      "example": "That's a great shot of the sunset."
+    }
+  ]
+}

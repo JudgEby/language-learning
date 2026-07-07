@@ -1,0 +1,14 @@
+{
+  "id": "fanfiction",
+  "order": 9,
+  "unit": "Unit 3 — Inspiration",
+  "title": "3A Fanfiction — As if / As though",
+  "contentMd": "## 3A Fanfiction — As if / As though\n\n### Простая суть\nМы используем **as if** и **as though**, когда хотим сказать: «выглядит так, будто…», «такое ощущение, что…». Это как сравнительная рамка — ты ставишь реальную ситуацию рядом с тем, как она ВЫГЛЯДИТ или ОЩУЩАЕТСЯ. По-русски это часто передаётся через «будто», «как будто», «словно».\n\n**As if** встречается чаще, но разницы по смыслу нет.\n\n### Как это работает\n\nКонструкция стоит после глаголов: **act, be, feel, look, seem, sound, taste**.\n\n| Время после as if/as though | Что значит | Пример |\n|---|---|---|\n| **Present Simple** | Сравнение реальное или вероятное | She acts **as if she is** important. (Она, вероятно, важная) |\n| **Past Simple** | Сравнение НЕреальное, маловероятное | She acts **as if she were** important. (А на самом деле нет) |\n| **Past Perfect** | Сравнение в прошлом (реальное или нет) | It sounded **as though you'd hurt** yourself. |\n\nПосле as if/as though в нереальных ситуациях можно использовать **were** даже с I/he/she/it — это более формально и письменно.\n\nВ разговорной речи as if/as though часто заменяют на **like** (особенно в британском английском).\n\n### Живые примеры\n- You look **as if** you're really stressed. (Выглядишь так, будто реально stressed.)\n- She talks **as if she knew** which way to go. (Говорит так, будто знает дорогу, но не знает.)\n- I feel **as if I'd heard** the story before. (Ощущение, что я уже слышал эту историю.)\n- Tom moved his lips slightly **as if to smile**. (Том пошевелил губами, словно хотел улыбнуться.)\n- You look **like** you've been swimming. (Выглядишь так, будто плавал.)\n- It's **as though** he's not really here. (Такое ощущение, что его здесь нет.)\n\n### Лайфхак для запоминания\nЗапомни фразу **«Look as if — looks like»**. Если после `as if` идёт `Past Simple` — значит, ситуация НЕРЕАЛЬНАЯ (как в second conditional). А если Present — всё по-настоящему. Проверяй себя: «Оно и правда так?» — если нет, ставь Past.",
+  "examples": [
+    "You look as if you're really stressed.",
+    "She talks as if she knew which way to go.",
+    "I feel as if I'd heard the story before.",
+    "Tom moved his lips slightly as if to smile.",
+    "You look like you've been swimming."
+  ]
+}

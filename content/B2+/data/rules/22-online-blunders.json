@@ -1,0 +1,15 @@
+{
+  "id": "online-blunders",
+  "order": 22,
+  "unit": "Unit 6 — Oops!",
+  "title": "6B Online Blunders — Пассивные конструкции",
+  "contentMd": "## 6B Online Blunders — Пассивные конструкции\n\n### Простая суть\nПассивный залог нужен, когда важнее **само действие**, а не тот, кто его совершил. Кто разбил стакан? Неважно. Важно, что **стакан был разбит**. В мире онлайн-проколов, ошибок доставки и корпоративных оправданий пассив — король: «Мне было обещано повышение», «Посылка была отправлена не тому адресату».\n\n### Как это работает\n\n**Passive Infinitive** — после модальных глаголов и глаголов вроде *need, want, hope*:\n> Формула: **to be + V3**\n> You could **be given** a promotion.\n> I want the meeting **to be finished** by 4 o'clock.\n\n**Perfect Infinitive (пассив)** — когда нужно сказать о прошлом или завершённом действии в будущем:\n> Формула: **to have been + V3** (после модальных — без *to*)\n> I might **have been sent** the wrong item.\n> My birthday seems **to have been forgotten**.\n\n**Passive -ing form** — после глаголов, требующих герундия (*avoid, keep, enjoy*), после предлогов и в роли подлежащего:\n> Формула: **being + V3**\n> I avoid **being tagged** in photos.\n> **Being given** an end-of-year bonus was unexpected.\n\n**Perfect Gerund (пассив)** — для прошлого после герундия:\n> Формула: **having been + V3**\n> I resent **having been ignored** for much of the meeting.\n> **Having been awarded** a prize, Sally was delighted.\n\n### Живые примеры\n- I want the meeting **to be finished** by 4 o'clock today so I can leave early. *(Я хочу, чтобы встреча закончилась к 4 часам.)*\n- I might **have been sent** the wrong item. *(Возможно, мне отправили не тот товар.)*\n- My birthday seems **to have been forgotten** by my brother. *(Мой день рождения, кажется, был забыт братом.)*\n- I avoid **being tagged** in photos by not being on social media. *(Я избегаю отметок на фото, просто не сидя в соцсетях.)*\n- **Having been born** in Australia, I've got an Australian passport. *(Родившись в Австралии, я имею австралийский паспорт.)*\n- **Being given** an end-of-year bonus was unexpected but welcome. *(Получить бонус в конце года было неожиданно, но приятно.)*\n\n### Лайфхак для запоминания\nТри кита пассива после глаголов: **to be** (инфинитив), **being** (герундий), **having been** (перфектный герундий). Вопрос-подсказка: «Могу ли я поставить **быть** или **будучи** в русском переводе?» Если да — скорее всего, нужен пассив. И помни: *to have been + V3* — это всегда про завершённое действие в прошлом.",
+  "examples": [
+    "You could be given a promotion if you keep doing what you're doing.",
+    "I want the meeting to be finished by 4 o'clock today.",
+    "I might have been sent the wrong item.",
+    "My birthday seems to have been forgotten by my brother.",
+    "I avoid being tagged in photos by not being on social media.",
+    "Having been born in Australia, I've got an Australian passport."
+  ]
+}

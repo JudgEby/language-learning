@@ -1,0 +1,56 @@
+{
+  "lessonId": "pre-loved",
+  "title": "7C Pre-loved — Описание одежды",
+  "items": [
+    {
+      "term": "matching",
+      "translation": "подходящий, сочетающийся",
+      "example": "She wore a matching scarf and gloves set."
+    },
+    {
+      "term": "chic",
+      "translation": "шикарный, элегантный",
+      "example": "She always looks chic in her tailored black dress."
+    },
+    {
+      "term": "dull",
+      "translation": "скучный, невзрачный",
+      "example": "His outfit was a bit dull, just grey trousers and a plain white shirt."
+    },
+    {
+      "term": "striped",
+      "translation": "полосатый",
+      "example": "He bought a striped shirt with blue and white alternating bands."
+    },
+    {
+      "term": "scruffy",
+      "translation": "неряшливый, неопрятный",
+      "example": "Her scruffy jeans were covered in paint stains."
+    },
+    {
+      "term": "waterproof",
+      "translation": "водонепроницаемый",
+      "example": "A waterproof jacket is essential for hiking in rainy weather."
+    },
+    {
+      "term": "loud",
+      "translation": "кричащий, яркий",
+      "example": "His loud Hawaiian shirt was hard to miss at the party."
+    },
+    {
+      "term": "baggy",
+      "translation": "мешковатый, свободный",
+      "example": "She prefers baggy sweaters over tight-fitting tops."
+    },
+    {
+      "term": "vintage",
+      "translation": "винтажный",
+      "example": "She loves shopping for vintage dresses from the 1960s."
+    },
+    {
+      "term": "second-hand",
+      "translation": "подержанный, секонд-хенд",
+      "example": "I bought this coat second-hand at a charity shop."
+    }
+  ]
+}

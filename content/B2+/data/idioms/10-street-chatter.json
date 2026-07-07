@@ -1,0 +1,46 @@
+{
+  "lessonId": "street-chatter",
+  "title": "3B Street Chatter — Идиомы: эмоции",
+  "items": [
+    {
+      "idiom": "bursting with pride",
+      "translation": "переполнять гордостью",
+      "example": "When Declan walked up on stage to get his prize, I was bursting with pride."
+    },
+    {
+      "idiom": "down in the dumps",
+      "translation": "в подавленном настроении",
+      "example": "You've looked down in the dumps for a few days now — is there anything wrong?"
+    },
+    {
+      "idiom": "made my day",
+      "translation": "поднять настроение на весь день",
+      "example": "Hearing I'd got the maximum score possible in my test made my day."
+    },
+    {
+      "idiom": "on cloud nine",
+      "translation": "на седьмом небе",
+      "example": "I was on cloud nine while we were winning, but not now that we're losing."
+    },
+    {
+      "idiom": "pumped about",
+      "translation": "на взводе от",
+      "example": "I'm really pumped about the concert that's coming up next week."
+    },
+    {
+      "idiom": "scared stiff",
+      "translation": "до смерти напуган",
+      "example": "It was midnight and I was on my own, so I was scared stiff when someone knocked on the door."
+    },
+    {
+      "idiom": "shaken up",
+      "translation": "потрясён",
+      "example": "We were all shaken up after seeing the news report about the accident."
+    },
+    {
+      "idiom": "sick to death of",
+      "translation": "сыт по горло",
+      "example": "I'm sick to death of listening to you complain all day every day."
+    }
+  ]
+}

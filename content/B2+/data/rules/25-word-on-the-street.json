@@ -1,0 +1,15 @@
+{
+  "id": "word-on-the-street",
+  "order": 25,
+  "unit": "Unit 7 — Trends",
+  "title": "7A The Word on the Street — Наречия и обстоятельственные выражения",
+  "contentMd": "## 7A The Word on the Street — Наречия и обстоятельственные выражения\n\n### Простая суть\nAdverbials — это слова или фразы, которые добавляют к предложению дополнительную информацию: как, когда, где, как часто или насколько сильно что-то происходит. Представь, что обычное предложение — это чёрно-белый рисунок, а adverbials раскрашивают его в яркие цвета. Они могут стоять в разных местах предложения, и от этого меняется интонация и акцент.\n\n### Как это работает\nВыделяют пять основных типов adverbials, и у каждого своё любимое место в предложении:\n\n- **Manner (образ действия)** — отвечают на вопрос «как?». Обычно после глагола и объекта, но можно вынести в начало для драматического эффекта (тогда запятая).\n  *Формула:* `глагол + объект + manner` или `Manner, + предложение`\n\n- **Time (время)** — «когда?» или «как долго?». Чаще в конце, но могут переезжать в начало.\n  *Формула:* `предложение + time` или `Time, + предложение`\n\n- **Frequency (частота)** — «как часто?». Перед смысловым глаголом, но после **to be**.\n  *Формула:* `подл + often/usually + глагол` или `подл + be + usually`\n\n- **Intensifying (усиление)** — делают прилагательное сильнее или слабее. Стоят **перед** прилагательным.\n  *Формула:* `intensifier + adjective`\n\n- **Sentence adverbials (вводные)** — показывают отношение говорящего к сказанному. Всегда в начале (или обособляются запятыми).\n  *Формула:* `Sentence adverbial, + предложение`\n\n### Живые примеры\n- **Manner:** She **quietly** closed the door. / **Carefully**, she put the lid back on the box.\n- **Time:** We moved to London **in 2010**. / **Two weeks ago**, I saw him in the city centre.\n- **Frequency:** I **often** go shopping there. / **From time to time**, I wonder how much I really enjoy my job.\n- **Intensifying:** She looked **extremely** happy. / He was **incredibly** angry.\n- **Sentence:** **Surprisingly**, there was no charge for the service. / **To my delight**, I bumped into two of my friends in the restaurant.\n\n### Лайфхак для запоминания\nПредставь, что adverbials — это специи в супе. Если добавить их в правильном месте и в нужном количестве, блюдо (предложение) звучит естественно и вкусно. Главное правило-шпаргалка: **manner и time любят конец, frequency любит середину (перед глаголом), intensifying всегда перед прилагательным, а sentence adverbials — короли начала. И не забывай про запятую, если выносишь adverbial в начало!**",
+  "examples": [
+    "Words can fall out of fashion quickly.",
+    "Carefully, she put the lid back on the box.",
+    "Two weeks ago, I saw him in the city centre.",
+    "From time to time, I wonder how much I really enjoy my job.",
+    "Surprisingly, there was no charge for the service.",
+    "To my delight, I bumped into two of my friends in the restaurant."
+  ]
+}

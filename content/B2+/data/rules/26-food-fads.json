@@ -1,0 +1,15 @@
+{
+  "id": "food-fads",
+  "order": 26,
+  "unit": "Unit 7 — Trends",
+  "title": "7B Food Fads — Вынесение причины в начало предложения",
+  "contentMd": "## 7B Food Fads — Вынесение причины в начало предложения\n\n### Простая суть\nВ английском языке причина обычно стоит в конце: «I'm going to take you to a restaurant **because you've never tried Ethiopian cuisine**». Но если ты хочешь сфокусироваться на **результате** или связать новую мысль с предыдущей, можно вынести причину вперёд. Это называется **fronting** — ты ставишь самое важное (причину) в начало, а следствие — в конец.\n\n### Как это работает\nЕсть несколько способов вынести причину в начало. Вот основные:\n\n- **as / because / since + clause** — универсальный вариант, подходит и для письма, и для речи.\n  *Since you like Vietnamese food, I'm sure you'd enjoy Cambodian food.*\n\n- **because of + noun/noun phrase** — если причина — это существительное, а не целое предложение.\n  *Because of globalisation, we can all buy the same type of coffee.*\n\n- **seeing as (how) + clause** — разговорный вариант, очень популярен в британском английском.\n  *Seeing as you've never tried Indonesian food, we should order some.*\n\n- **as a result of + object** — более формальный стиль.\n  *As a result of the cultural exchange of foods, we learnt a lot about each other's culture.*\n\n- **-ed participle clause** — короткий и элегантный способ: причастие прошедшего времени в начале.\n  *Impressed by the local cuisine, I tried my best to learn all about it.*\n\n- **in light of / in view of (the fact that)** — формально, со значением «принимая во внимание».\n  *In light of concerns about the impact of almond milk on the environment, I've stopped drinking it.*\n\n### Живые примеры\n- **Since** you like Vietnamese food, I'm sure you'd enjoy Cambodian food.\n- **Seeing as** you've never tried Indonesian food, we should order some.\n- **As a result of** visiting several countries in Southeast Asia, Tara developed a love of spicy dishes.\n- **Annoyed by** the lack of salt in her soup, she complained to the waiter.\n- **In view of the fact that** trends come and go, the restaurant menu changes twice a year.\n\n### Лайфхак для запоминания\nЗапомни простое правило: если хочешь сделать акцент на **результате** — вынеси **причину** в начало. Как в детективе: сначала расскажи мотив (причину), а потом — что произошло (результат). А если сомневаешься, какой вариант выбрать, пользуйся шкалой: **seeing as** (болтовня с другом) → **because/since** (нейтрально) → **as a result of / in light of** (официальный доклад).",
+  "examples": [
+    "Since you like Vietnamese food, I'm sure you'd enjoy Cambodian food.",
+    "Seeing as you've never tried Indonesian food, we should order some.",
+    "As a result of the cultural exchange of foods, we learnt a lot about each other's culture.",
+    "Annoyed by the lack of salt in her soup, she complained to the waiter.",
+    "In light of concerns about the impact of almond milk on the environment, I've stopped drinking it.",
+    "Forced to eat the same food every day for a week, Laura was looking forward to trying something new."
+  ]
+}

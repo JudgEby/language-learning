@@ -1,0 +1,15 @@
+{
+  "id": "conservational-change",
+  "order": 18,
+  "unit": "Unit 5 — Change",
+  "title": "5B Conservational Change — Перфектный аспект",
+  "contentMd": "## 5B Conservational Change — Перфектный аспект\n\n### Простая суть\nПерфектный аспект — это не «когда» произошло действие, а «как» мы на него смотрим. Он будто говорит: «Смотри, это действие завершилось до какого-то момента — или всё ещё актуально сейчас». Представь, что ты смотришь фильм с точки зрения монтажёра: перфект — это всегда «взгляд назад» из какой-то точки во времени.\n\n### Как это работает\n\n**Present Perfect** — взгляд из настоящего в прошлое (результат важен сейчас).\n> I **have seen** gorillas in the wild.\n\n**Past Perfect** — взгляд из прошлого в ещё более раннее прошлое.\n> She **had studied** the animals for years before the trip.\n\n**Future Perfect** — взгляд из будущего на действие, которое завершится к тому моменту.\n> By next year, they **will have trained** the animals.\n\n**Perfect Infinitive** — после *seem, appear, need* и модальных глаголов для взгляда назад.\n> The project didn't appear **to have caused** any problems.\n\nФормулы:\n- Active: **have/has/had/will have + V3**\n- Passive: **have/has/had/will have + been + V3**\n- Infinitive: **to have + V3** / **to have been + V3**\n\n### Живые примеры\n- I **'ve known** Ali since we were at school. *(Я знаю Али с самой школы — и до сих пор знаю.)*\n- I couldn't call you because my phone **had been stolen**. *(Я не мог позвонить, потому что телефон украли — ещё до того, как я попытался позвонить.)*\n- In ten years' time, we **will have saved** these animals. *(Через десять лет мы спасём этих животных — к тому моменту действие завершится.)*\n- He appeared **to have forgotten** us. *(Он, кажется, забыл нас — взгляд назад из настоящего.)*\n- The elephants seem **to have been killed** by poachers. *(Слоны, похоже, были убиты браконьерами.)*\n- I can't play tennis because I **'ve hurt** my arm. *(Я не могу играть — рука всё ещё болит, результат в настоящем.)*\n\n### Лайфхак для запоминания\nПерфект — это «мостик во времени». Всегда задавай вопрос: «Из какой точки я смотрю?» Настоящее → present perfect. Прошлое → past perfect. Будущее → future perfect. Если после глагола вроде *seem* тебе нужно сказать о прошлом — используй perfect infinitive (*to have done*). И помни: перфект + *for/since* = действие всё ещё продолжается.",
+  "examples": [
+    "I've seen gorillas in the wild.",
+    "I've known Ali since we were at school.",
+    "I couldn't call you because my phone had been stolen.",
+    "In ten years' time, we will have saved these animals.",
+    "He appeared to have forgotten us.",
+    "The project didn't appear to have caused any problems."
+  ]
+}

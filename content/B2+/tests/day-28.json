@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1c9233733b27",
+    "question": "Complete: 'I have ___ memories of my first day at school.'",
+    "options": [
+      "vivid",
+      "bright",
+      "clear",
+      "strong"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vivid memories' — 'яркие воспоминания'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "258ba2c88786",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "We spent the evening reminiscing about our childhood.",
+      "We spent the evening reminisce about our childhood.",
+      "We spent the evening reminiscing for our childhood.",
+      "We spent the evening to reminisce about our childhood."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reminisce about' — 'предаваться воспоминаниям о'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "6383c59bd395",
+    "question": "Complete: 'Looking at these photos ___ me with nostalgia.'",
+    "options": [
+      "fills",
+      "filled",
+      "filling",
+      "to fill"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fills me with nostalgia' — 'наполняет меня ностальгией'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "308c7ed74466",
+    "question": "What does 'recall' mean?",
+    "options": [
+      "забыть",
+      "вспомнить",
+      "представить",
+      "рассказать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Recall' — 'вспомнить, восстановить в памяти'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "5e956ae534f8",
+    "question": "Complete: 'The trip was a ___ experience I'll never forget.'",
+    "options": [
+      "memorable",
+      "memorised",
+      "memorial",
+      "memory"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Memorable' — 'запоминающийся, незабываемый'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "061604bcd167",
+    "question": "What does 'flashback' mean?",
+    "options": [
+      "воспоминание о далёком прошлом",
+      "флешбэк, внезапное яркое воспоминание",
+      "вспышка света",
+      "предчувствие"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Flashback' — 'флешбэк, внезапное яркое воспоминание'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "cfe7c2da8fb5",
+    "question": "Complete: 'I like to look ___ on my school days with fondness.'",
+    "options": [
+      "back",
+      "forward",
+      "up",
+      "down"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Look back on' — 'оглядываться на (прошлое), вспоминать'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "760214d277d5",
+    "question": "What does 'nostalgia' mean?",
+    "options": [
+      "ностальгия, тоска по прошлому",
+      "надежда на будущее",
+      "страх",
+      "радость"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Nostalgia' — 'ностальгия, тоска по прошлому'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "1ceed05a5646",
+    "question": "Complete: 'The film brought ___ memories of my school days.'",
+    "options": [
+      "back",
+      "up",
+      "out",
+      "in"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bring back memories' — 'вызывать воспоминания'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "0b02e512d567",
+    "question": "Complete: 'We spent hours ___ about old times.'",
+    "options": [
+      "reminiscing",
+      "reminding",
+      "recalling",
+      "reflecting"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reminisce about' — 'предаваться воспоминаниям'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "3cc4f86abf7c",
+    "question": "What does 'vivid' mean when describing memories?",
+    "options": [
+      "яркий, отчётливый",
+      "тусклый",
+      "смутный",
+      "неприятный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vivid' means 'яркий, отчётливый'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "b62ebae75cc3",
+    "question": "Complete: 'Looking at these photos fills me with ___.'",
+    "options": [
+      "nostalgia",
+      "nostalgic",
+      "nostalgically",
+      "nostalgy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Nostalgia' — 'ностальгия'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "9d79caacc15a",
+    "question": "Complete: 'She has ___ memories of her childhood.'",
+    "options": [
+      "vivid",
+      "live",
+      "living",
+      "alive"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Vivid memories' — 'яркие воспоминания'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "babd4e3e2297",
+    "question": "Complete: 'I like to look ___ on my school days.'",
+    "options": [
+      "back",
+      "forward",
+      "up",
+      "down"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Look back on' — 'вспоминать прошлое'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "7c20dbfe06c6",
+    "question": "What does 'flashback' mean?",
+    "options": [
+      "внезапное яркое воспоминание",
+      "вспышка света",
+      "предчувствие",
+      "страх"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Flashback' — 'флешбэк, внезапное воспоминание'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  }
+]

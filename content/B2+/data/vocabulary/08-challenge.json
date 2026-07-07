@@ -1,0 +1,46 @@
+{
+  "lessonId": "challenge",
+  "title": "2D Challenge — Соревнование",
+  "items": [
+    {
+      "term": "compete",
+      "translation": "соревноваться",
+      "example": "Auctions make us compete, and when we start competing, we want to win."
+    },
+    {
+      "term": "challenge",
+      "translation": "вызов, сложная задача",
+      "example": "Learning a new language is a challenge that takes time and patience."
+    },
+    {
+      "term": "rivalry",
+      "translation": "соперничество",
+      "example": "There has always been a friendly rivalry between the two teams."
+    },
+    {
+      "term": "opponent",
+      "translation": "противник, соперник",
+      "example": "She defeated her opponent in the final round of the competition."
+    },
+    {
+      "term": "beat",
+      "translation": "победить",
+      "example": "We need to beat our competitors to win the contract."
+    },
+    {
+      "term": "defeat",
+      "translation": "поражение / наносить поражение",
+      "example": "He refused to accept defeat and tried again."
+    },
+    {
+      "term": "come out on top",
+      "translation": "выйти победителем",
+      "example": "You bid more just so you can come out on top."
+    },
+    {
+      "term": "take on",
+      "translation": "взяться за, соревноваться с",
+      "example": "I'm ready to take on any challenge that comes my way."
+    }
+  ]
+}

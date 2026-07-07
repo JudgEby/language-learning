@@ -1,0 +1,227 @@
+[
+  {
+    "id": "80f069dbaade",
+    "question": "Complete: 'I'm ___ with friends at the moment.'",
+    "options": [
+      "staying",
+      "stay",
+      "stayed",
+      "being stay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous for an action happening around now.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "eac956902a04",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I've been studying all afternoon.",
+      "I've studying all afternoon.",
+      "I been studying all afternoon.",
+      "I've study all afternoon."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present perfect continuous for an action that started in the past and continues.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "3ac79858206b",
+    "question": "Complete: 'He ___ watching TV when we arrived.'",
+    "options": [
+      "was",
+      "has been",
+      "had been",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past continuous for a background action interrupted by another event.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "4878d94af9b4",
+    "question": "Complete: 'By next month, I'll have been ___ here for three years.'",
+    "options": [
+      "working",
+      "worked",
+      "work",
+      "been work"
+    ],
+    "correctIndex": 0,
+    "explanation": "Future perfect continuous: 'will have been + -ing'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "1469d8b79b8c",
+    "question": "Choose the correct question:",
+    "options": [
+      "Where will you be staying during your trip?",
+      "Where will you staying during your trip?",
+      "Where will you be stay during your trip?",
+      "Where you will be staying during your trip?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Future continuous: 'will be + -ing'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "80e007935c96",
+    "question": "What does 'brand image' mean?",
+    "options": [
+      "изображение бренда",
+      "имидж бренда",
+      "логотип",
+      "реклама"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Brand image' — 'имидж бренда'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "e16168702982",
+    "question": "Complete: 'The company decided to ___ to attract younger consumers.'",
+    "options": [
+      "rebrand",
+      "rebuilding",
+      "remarket",
+      "relaunch"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rebrand' — 'сделать ребрендинг, изменить имидж'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "c95e907a8e84",
+    "question": "What does 'target audience' mean?",
+    "options": [
+      "случайные зрители",
+      "целевая аудитория",
+      "широкая публика",
+      "сотрудники"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Target audience' — 'целевая аудитория'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "2b962f76db65",
+    "question": "Complete: 'Their latest marketing ___ was a huge success.'",
+    "options": [
+      "campaign",
+      "camp",
+      "camping",
+      "camper"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Marketing campaign' — 'маркетинговая кампания'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "33bea61e4b37",
+    "question": "What does 'consumer' mean?",
+    "options": [
+      "производитель",
+      "потребитель",
+      "продавец",
+      "рекламодатель"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Consumer' — 'потребитель'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "64f499acdf48",
+    "question": "Complete: 'He was watching TV when the doorbell ___.'",
+    "options": [
+      "rang",
+      "was ringing",
+      "had rung",
+      "rings"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rang' — past simple for the interrupting event.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "1c9d75537058",
+    "question": "Complete: 'By next month, she'll have been ___ here for a year.'",
+    "options": [
+      "working",
+      "worked",
+      "work",
+      "been work"
+    ],
+    "correctIndex": 0,
+    "explanation": "Future perfect continuous: 'will have been + -ing'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "808a7d606139",
+    "question": "What does 'slogan' mean?",
+    "options": [
+      "слоган, рекламный девиз",
+      "логотип",
+      "название бренда",
+      "упаковка"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Slogan' means 'слоган, рекламный девиз'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "97f48a65c0e5",
+    "question": "Complete: 'Where will you be ___ during your trip?'",
+    "options": [
+      "staying",
+      "stay",
+      "stayed",
+      "been staying"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Will be staying' — future continuous.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "f04d19d5164a",
+    "question": "What does 'logo' mean?",
+    "options": [
+      "логотип",
+      "слоган",
+      "бренд",
+      "упаковка"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Logo' — 'логотип'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  }
+]

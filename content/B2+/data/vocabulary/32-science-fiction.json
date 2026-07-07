@@ -1,0 +1,51 @@
+{
+  "lessonId": "science-fiction",
+  "title": "8D Science Fiction — Машины и фантастика",
+  "items": [
+    {
+      "term": "machine",
+      "translation": "машина, механизм",
+      "example": "The machine can perform complex tasks."
+    },
+    {
+      "term": "robot",
+      "translation": "робот",
+      "example": "Robots are being used in factories worldwide."
+    },
+    {
+      "term": "artificial",
+      "translation": "искусственный",
+      "example": "Artificial intelligence is advancing rapidly."
+    },
+    {
+      "term": "futuristic",
+      "translation": "футуристический",
+      "example": "The car has a futuristic design."
+    },
+    {
+      "term": "invention",
+      "translation": "изобретение",
+      "example": "The printing press was a revolutionary invention."
+    },
+    {
+      "term": "device",
+      "translation": "устройство, прибор",
+      "example": "This device can translate speech in real time."
+    },
+    {
+      "term": "innovation",
+      "translation": "инновация",
+      "example": "Technological innovation drives economic growth."
+    },
+    {
+      "term": "technology",
+      "translation": "технология",
+      "example": "Technology has transformed the way we live."
+    },
+    {
+      "term": "sci-fi",
+      "translation": "научная фантастика",
+      "example": "I love reading sci-fi novels about the future."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getting-away-with-it",
+  "order": 5,
+  "unit": "Unit 2 — Competition",
+  "title": "2A Getting Away With It — Расщеплённые предложения",
+  "contentMd": "## 2A Getting Away With It — Расщеплённые предложения\n\n### Простая суть\n\n**Cleft sentences** — это способ поставить логическое ударение на нужной части предложения. Представь, что обычное предложение — это ровная линия, а cleft sentence — это прожектор, который высвечивает самое важное. Вместо «Он сломал ногу» ты говоришь: «**Что он сломал — это ногу**». Конструкция **What + subject + verb + be** выносит ключевую информацию в конец, где на ней всё внимание.\n\n### Как это работает\n\n| Что выделяем | Конструкция | Пример |\n|---|---|---|\n| Объект (что именно?) | **What** + subject + verb + **be** + выделяемое | **What he faked was an injury.** *(Он симулировал **травму**.)* |\n| Всё действие целиком | **What** + subject + **do/does/did** + **be** + inf | **What he did was fake an injury.** *(Он **симулировал травму**.)* |\n| Действие в continuous | **What** + subject + **am/are/were doing** + **be** + -ing | **What she was doing was pretending to be injured.** |\n| Чувства и состояния (без do!) | **What** + subject + verb (feel/state) + **be** | **What I love is competitive games.** (НЕ What I do is love) |\n\n### Живые примеры\n\n- **What the players do is slow** the game down to waste time. *(**Что делают игроки — замедляют** игру, чтобы тянуть время.)*\n- **What we enjoy is competing** against other teams. *(**Что нам нравится — соревноваться** с другими командами.)*\n- **What she did was dive** in the penalty area. *(**Что она сделала — нырнула** в штрафной.)*\n- **What I love is competitive** games. *(**Что я люблю — соревновательные** игры.)*\n- **What he faked was an injury**. *(**Что он симулировал — травму**.)*\n\n### Лайфхак для запоминания\n\nCleft по-английски — «расщелина». Представь, что ты берёшь предложение, расщепляешь его пополам и вставляешь **What… is/are/was**.\n\n- Если хочешь выделить **предмет** — ставь его после **is/was**: *What he broke was **his leg***.\n- Если хочешь выделить **действие** — вставь **do/did** перед **be**: *What he **did** was break his leg*.\n- Если глагол чувства (love, hate, want) — **do** НЕ добавляй! *What I hate is waiting*. ❌ What I do is hate waiting.",
+  "examples": [
+    "What the players do is slow the game down to waste time.",
+    "What we enjoy is competing against other teams.",
+    "What she did was dive in the penalty area.",
+    "What I love is competitive games.",
+    "What he faked was an injury."
+  ]
+}

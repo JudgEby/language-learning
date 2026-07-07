@@ -1,0 +1,66 @@
+{
+  "lessonId": "in-dispute",
+  "title": "6C In Dispute — Здания и жильё",
+  "items": [
+    {
+      "term": "run-down",
+      "translation": "запущенный, обветшалый",
+      "example": "The apartment block was really run-down, with paint peeling off the walls."
+    },
+    {
+      "term": "cramped",
+      "translation": "тесный",
+      "example": "The flat was so cramped there was hardly room to move around."
+    },
+    {
+      "term": "crumbling",
+      "translation": "разрушающийся",
+      "example": "The old building was crumbling and looked like it might collapse."
+    },
+    {
+      "term": "dim",
+      "translation": "тусклый, плохо освещённый",
+      "example": "The flat was dark and dim, even during the day."
+    },
+    {
+      "term": "filthy",
+      "translation": "грязный",
+      "example": "The bathroom was filthy and had obviously not been cleaned."
+    },
+    {
+      "term": "chilly",
+      "translation": "прохладный",
+      "example": "The heating wasn't working, so it was quite chilly inside."
+    },
+    {
+      "term": "block of flats",
+      "translation": "многоквартирный дом",
+      "example": "They rented a modern block of flats in the city centre."
+    },
+    {
+      "term": "accommodation",
+      "translation": "жильё",
+      "example": "Finding affordable accommodation in the city is becoming harder."
+    },
+    {
+      "term": "landlord",
+      "translation": "арендодатель",
+      "example": "The landlord refused to fix the broken heating system."
+    },
+    {
+      "term": "tenant",
+      "translation": "арендатор",
+      "example": "The tenant complained about the damp walls to the landlord."
+    },
+    {
+      "term": "deposit",
+      "translation": "залог",
+      "example": "You usually have to pay a deposit equal to one month's rent."
+    },
+    {
+      "term": "rent",
+      "translation": "арендная плата",
+      "example": "The rent for this flat is extremely high for the size."
+    }
+  ]
+}

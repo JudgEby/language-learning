@@ -1,0 +1,227 @@
+[
+  {
+    "id": "2a7052f16f7a",
+    "question": "Complete with inversion: 'Never before ___ I been so scared!'",
+    "options": [
+      "had",
+      "have",
+      "did",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Never before had I been' — inversion after 'never' at the beginning.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "74314f413e8f",
+    "question": "Choose the correct inverted sentence:",
+    "options": [
+      "Under no circumstances should you give your bank details to anyone.",
+      "Under no circumstances you should give your bank details to anyone.",
+      "Under no circumstances you give your bank details to anyone.",
+      "Under no circumstances should give you your bank details to anyone."
+    ],
+    "correctIndex": 0,
+    "explanation": "Inversion: 'Under no circumstances + auxiliary + subject + verb'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "bd9d96d0fa49",
+    "question": "Complete: 'Not only ___ he handsome, but he was also rich.'",
+    "options": [
+      "was",
+      "he was",
+      "he is",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not only + auxiliary + subject' — inversion after 'not only' at the start.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "a1386613588f",
+    "question": "Complete: 'Only later ___ it clear to me that he had been lying.'",
+    "options": [
+      "was",
+      "did",
+      "became",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Only later + auxiliary + subject' — inversion after 'only + time'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "4e2388ce1c43",
+    "question": "Which sentence correctly uses inversion?",
+    "options": [
+      "In no way was I happy with the decision.",
+      "In no way I was happy with the decision.",
+      "In no way was happy I with the decision.",
+      "In no way I was with the decision happy."
+    ],
+    "correctIndex": 0,
+    "explanation": "'In no way + auxiliary + subject' — correct inversion.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "25e8c28e8426",
+    "question": "What does 'algorithm' mean?",
+    "options": [
+      "ритм",
+      "алгоритм (набор инструкций для решения задачи)",
+      "программа",
+      "формула"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Algorithm' — 'алгоритм, набор инструкций'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "dd8acc6b3659",
+    "question": "Complete: 'The computer can ___ large amounts of data quickly.'",
+    "options": [
+      "process",
+      "program",
+      "predict",
+      "compute"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Process data' — 'обрабатывать данные'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "1fad27488baa",
+    "question": "What does 'predict' mean?",
+    "options": [
+      "объяснять",
+      "предсказывать",
+      "вычислять",
+      "анализировать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Predict' — 'предсказывать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "0aed897c9e23",
+    "question": "Complete: 'The ___ for this application is written in Python.'",
+    "options": [
+      "code",
+      "data",
+      "input",
+      "output"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Code' — 'код (программы)'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "6488e0129e74",
+    "question": "What does 'analyse' mean?",
+    "options": [
+      "создавать",
+      "анализировать",
+      "удалять",
+      "копировать"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Analyse' — 'анализировать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "94dfa001c9e0",
+    "question": "Complete: 'Not only did he win, but he also ___ a record.'",
+    "options": [
+      "set",
+      "sets",
+      "setting",
+      "has set"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not only did he win, but he also set a record.'",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "9ceb99ecb27b",
+    "question": "Complete: 'Only after the exam did I ___ my mistake.'",
+    "options": [
+      "realise",
+      "realised",
+      "realising",
+      "had realised"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Only after... + auxiliary + subject + verb' — inversion.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "c5584d1d7253",
+    "question": "What does 'process data' mean?",
+    "options": [
+      "обрабатывать данные",
+      "удалять данные",
+      "создавать данные",
+      "хранить данные"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Process data' — 'обрабатывать данные'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "951aa5bc298e",
+    "question": "Complete: 'Never ___ I been so embarrassed!'",
+    "options": [
+      "had",
+      "have",
+      "did",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Never had I been' — inversion after 'never'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "6d40355a1e97",
+    "question": "Complete: 'In no way ___ I satisfied with the result.'",
+    "options": [
+      "am",
+      "I am",
+      "am I",
+      "I"
+    ],
+    "correctIndex": 2,
+    "explanation": "'In no way am I' — inversion.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  }
+]

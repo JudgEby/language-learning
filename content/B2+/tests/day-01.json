@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bc7f68e60b7a",
+    "question": "Which sentence describes a past habit that is no longer true?",
+    "options": [
+      "I used to meet up with friends every Saturday.",
+      "I would meet up with friends every Saturday and I still do.",
+      "I meet up with friends every Saturday.",
+      "I'm used to meeting up with friends every Saturday."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to' — a past habit/state that no longer exists. 'Would' can also express past habits but needs a past time context and cannot describe states.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "57c20f28d3b0",
+    "question": "Complete: 'When I was a child, I ___ have longer hair.'",
+    "options": [
+      "used to",
+      "would",
+      "was used to",
+      "use to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to' for past states. 'Would' cannot describe past states — only actions.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "d64788c745aa",
+    "question": "Choose the correct sentence expressing an annoying present habit:",
+    "options": [
+      "She is always calling me when I'm busy.",
+      "She calls me always.",
+      "She always is calling me.",
+      "She does call me always."
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous + 'always' expresses an annoying habit or repeated action.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "e1ffff40ebfc",
+    "question": "Complete: 'I'm ___ having just six hours' sleep a night, so I'm fine.'",
+    "options": [
+      "used to",
+      "use to",
+      "used for",
+      "using"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be used to + -ing' means 'привык к'. This describes being accustomed to something.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "8cf2521e7f5e",
+    "question": "Complete: 'He ___ to act now and think later.'",
+    "options": [
+      "is inclined",
+      "inclines",
+      "is incline",
+      "inclined"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be inclined to' — 'иметь склонность'. This describes a typical behaviour.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "9a35c9db04d9",
+    "question": "Choose the correct question about a past habit:",
+    "options": [
+      "Did you use to play tennis?",
+      "Did you used to play tennis?",
+      "Used you to play tennis?",
+      "Do you use to play tennis?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Question form: 'Did + subject + use to + verb' (without 'd').",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "aa787cd47eb0",
+    "question": "What does 'take to someone' mean?",
+    "options": [
+      "поссориться с кем-то",
+      "проникнуться симпатией к кому-то",
+      "попрощаться с кем-то",
+      "обнять кого-то"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Take to someone' means 'проникнуться симпатией к кому-то'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "9f5ca7133784",
+    "question": "Complete: 'We used to be close, but we've ___ apart over the years.'",
+    "options": [
+      "drifted",
+      "fallen",
+      "taken",
+      "bumped"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Drift apart' means 'отдалиться, потерять связь'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "d09e0e6ab29b",
+    "question": "Complete: 'I ___ into an old friend at the supermarket yesterday.'",
+    "options": [
+      "bumped",
+      "fell",
+      "came",
+      "ran"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bump into' means 'натолкнуться, случайно встретить'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "9d040cddf672",
+    "question": "Choose the correct phrase: 'My brother and I fell out, but we've ___ up now.'",
+    "options": [
+      "made",
+      "taken",
+      "got",
+      "kept"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make up' means 'помириться'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "5695da7a014d",
+    "question": "What does 'get on well with someone' mean?",
+    "options": [
+      "ладить с кем-то",
+      "ссориться с кем-то",
+      "договариваться с кем-то",
+      "встречаться с кем-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get on well with' means 'ладить, иметь хорошие отношения'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "6c589bd7e175",
+    "question": "Complete: 'She has a great sense of humour and I really ___ to her.'",
+    "options": [
+      "warmed",
+      "took",
+      "got",
+      "came"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Warm to someone' means 'проникнуться теплотой, начать испытывать симпатию'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "e4a544a6d0c1",
+    "question": "What does 'warm to someone' mean?",
+    "options": [
+      "проникнуться теплотой к кому-то",
+      "поссориться с кем-то",
+      "охладеть к кому-то",
+      "вспомнить кого-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Warm to someone' means 'проникнуться теплотой, начать испытывать симпатию'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "5ebe6d9aefad",
+    "question": "Complete: 'He is ___ to act now and think later.'",
+    "options": [
+      "inclined",
+      "prone",
+      "tending",
+      "used"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be inclined to' means 'иметь склонность'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "9236dc50492e",
+    "question": "Complete: 'We used to ___ up on Saturdays.'",
+    "options": [
+      "meet",
+      "meeting",
+      "met",
+      "meets"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Used to + base verb' — past habit.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "27785b6eb9a7",
+    "question": "Which phrase describes a lasting friendship after a conflict?",
+    "options": [
+      "fall out",
+      "make up",
+      "drift apart",
+      "bump into"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Make up' means 'помириться'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "4a131fa3b6de",
+    "question": "Choose the correct sentence with an adverbial of manner:",
+    "options": [
+      "Carefully, she put the lid back on the box.",
+      "She put the lid careful on the box.",
+      "She put carefully the lid on the box.",
+      "Carefully she on the box put the lid."
+    ],
+    "correctIndex": 0,
+    "explanation": "Adverbial of manner 'carefully' can go at the beginning or after the subject.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "624ca46dd7b6",
+    "question": "Complete with a sentence adverbial: '___, there was no charge for the service.'",
+    "options": [
+      "Surprisingly",
+      "Surprised",
+      "Surprising",
+      "Surprise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Surprisingly' — sentence adverbial expressing the speaker's attitude.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "7136db826cbb",
+    "question": "Choose the correct position for 'often':",
+    "options": [
+      "I don't often work at weekends.",
+      "I often don't work at weekends.",
+      "I don't work often at weekends.",
+      "Often I don't work at weekends."
+    ],
+    "correctIndex": 0,
+    "explanation": "In negatives, 'often' goes after the auxiliary 'don't'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "0dc4cac5a7e0",
+    "question": "Complete with a time adverbial: '___, I saw him in the city centre.'",
+    "options": [
+      "Two weeks ago",
+      "Since two weeks",
+      "For two weeks",
+      "Ago two weeks"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Two weeks ago' — correct time adverbial at the beginning.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "14e77301659f",
+    "question": "Complete: 'To my ___, I bumped into two of my friends in the restaurant.'",
+    "options": [
+      "delight",
+      "delighted",
+      "delighting",
+      "delightful"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To my delight' — sentence adverbial expressing the speaker's feeling.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "d9b7192601cc",
+    "question": "What does 'origin' mean?",
+    "options": [
+      "происхождение",
+      "оригинал",
+      "организация",
+      "орган"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Origin' — 'происхождение, источник'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "d08104275e13",
+    "question": "Complete: 'The word ___ from Latin.'",
+    "options": [
+      "derives",
+      "originates",
+      "comes",
+      "arrives"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Derive from' — 'происходить от'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "9ea6e66a2ceb",
+    "question": "What does 'abbreviation' mean?",
+    "options": [
+      "аббревиатура, сокращение",
+      "абсолютный",
+      "отсутствие",
+      "абордаж"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Abbreviation' — 'аббревиатура, сокращение'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "15e19b4741d2",
+    "question": "Complete: '___ to my delight, I bumped into my friends.'",
+    "options": [
+      "To",
+      "For",
+      "With",
+      "In"
+    ],
+    "correctIndex": 0,
+    "explanation": "'To my delight' — sentence adverbial expressing the speaker's feeling.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "5f93250bd9e0",
+    "question": "What does 'manner' mean in adverbials?",
+    "options": [
+      "образ действия",
+      "время",
+      "частота",
+      "степень"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Manner' — 'образ действия' (e.g. carefully, slowly).",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "287d64480154",
+    "question": "Complete: 'The word ___ from Greek.'",
+    "options": [
+      "derives",
+      "originates",
+      "comes",
+      "results"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Derive from' — 'происходить от'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "95472646c466",
+    "question": "Complete: '___ from time to time, I wonder about the future.'",
+    "options": [
+      "From time to time",
+      "Since time",
+      "For time",
+      "Ago time"
+    ],
+    "correctIndex": 0,
+    "explanation": "'From time to time' — 'время от времени'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "598c962084df",
+    "question": "Complete: 'The word ___ from Old English.'",
+    "options": [
+      "derives",
+      "derived",
+      "deriving",
+      "derivative"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Derives from' — 'происходит от'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "293c1f46243f",
+    "question": "What does 'abbreviation' mean?",
+    "options": [
+      "сокращение, аббревиатура",
+      "абсолютный",
+      "отсутствие",
+      "абонемент"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Abbreviation' — 'сокращение, аббревиатура'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "c7ad031b48a0",
+    "question": "Complete: '___ as a rule, I don't eat after 8 pm.'",
+    "options": [
+      "As",
+      "For",
+      "With",
+      "By"
+    ],
+    "correctIndex": 0,
+    "explanation": "'As a rule' — 'как правило'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  }
+]

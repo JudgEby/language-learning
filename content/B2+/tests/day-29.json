@@ -1,0 +1,242 @@
+[
+  {
+    "id": "a154039a0ef2",
+    "question": "Complete: '___ utopias are idyllic, dystopian worlds provide more interesting stories.'",
+    "options": [
+      "Although",
+      "Because",
+      "Since",
+      "As"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Although' — concessive clause, introducing a contrast.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "3d933495ac04",
+    "question": "Choose the correct concessive structure:",
+    "options": [
+      "Interesting as that is, it doesn't support your argument.",
+      "Interesting as is that, it doesn't support your argument.",
+      "As interesting that is, it doesn't support your argument.",
+      "As that is interesting, it doesn't support your argument."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Adjective + as + subject + verb' — formal concessive structure.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "96e37ac781fc",
+    "question": "Complete: 'E-books are convenient. ___, there's nothing better than a paper book.'",
+    "options": [
+      "That said",
+      "Even it said",
+      "That says",
+      "Having said that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That said' — 'при этом, тем не менее'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "d7e317b39b4c",
+    "question": "Complete: 'Admittedly, there have been great sci-fi stories, ___ I prefer romance.'",
+    "options": [
+      "but",
+      "and",
+      "so",
+      "yet"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Admittedly...but' — 'признаю, что... но'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "04294963ca55",
+    "question": "What does 'dystopia' mean?",
+    "options": [
+      "идеальное общество",
+      "антиутопия (пугающее общество)",
+      "утопия",
+      "демократия"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Dystopia' — 'антиутопия'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "e493458e5a71",
+    "question": "Complete: 'The novel describes an ___ society where everyone is controlled.'",
+    "options": [
+      "oppressive",
+      "idyllic",
+      "peaceful",
+      "free"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Oppressive' — 'гнетущий, подавляющий'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "774b4d6ded45",
+    "question": "Complete expressing a prediction: 'This technology ___ become much more widely used.'",
+    "options": [
+      "will",
+      "is going",
+      "shall",
+      "may"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Will' for prediction about the future.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "df6699ab8ea1",
+    "question": "Choose the correct sentence expressing future continuous:",
+    "options": [
+      "In ten years' time, we'll be using a lot more renewable energy.",
+      "In ten years' time, we'll use a lot more renewable energy.",
+      "In ten years' time, we'll have used a lot more renewable energy.",
+      "In ten years' time, we use a lot more renewable energy."
+    ],
+    "correctIndex": 0,
+    "explanation": "Future continuous: 'will be + -ing' for actions in progress at a future time.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "ff2014162c52",
+    "question": "Complete: 'The project will have ___ completed by next year.'",
+    "options": [
+      "been",
+      "be",
+      "being",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "Future perfect passive: 'will have been + V3'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "9619a25bf38a",
+    "question": "Complete expressing evidence: 'Look at the sky. It ___ to rain!'",
+    "options": [
+      "is going",
+      "will",
+      "may",
+      "shall"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Going to' for prediction based on present evidence.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "0c1411e785aa",
+    "question": "What does 'user-friendly' mean?",
+    "options": [
+      "удобный для пользователя",
+      "дружелюбный пользователь",
+      "экологичный",
+      "энергоэффективный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'User-friendly' — 'удобный в использовании'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "143d79fa2f98",
+    "question": "Complete: 'Scientists are developing new ___ medical devices.'",
+    "options": [
+      "hand-held",
+      "hand-hold",
+      "hand-holding",
+      "handed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hand-held' — 'портативный, ручной'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "7e2c40f17e3c",
+    "question": "Complete: 'The book was brilliant. The film was rubbish, ___.'",
+    "options": [
+      "though",
+      "although",
+      "despite",
+      "however"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Though' at the end — concessive meaning 'однако'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "ae3b957c057c",
+    "question": "Complete: 'Interesting ___ that is, it doesn't change my mind.'",
+    "options": [
+      "as",
+      "though",
+      "although",
+      "while"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Adjective + as + subject + verb' — formal concessive structure.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "63e73246ac56",
+    "question": "Complete expressing a prediction based on evidence: 'Look at the clouds! It ___ rain.'",
+    "options": [
+      "is going to",
+      "will",
+      "may",
+      "might"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Going to' for prediction based on present evidence.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "26694b905d83",
+    "question": "What does 'environmentally friendly' mean?",
+    "options": [
+      "экологичный, безопасный для окружающей среды",
+      "дорогой",
+      "энергоэффективный",
+      "удобный"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Environmentally friendly' means 'экологичный'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  }
+]

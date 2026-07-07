@@ -1,0 +1,10 @@
+{
+  "level": "A2",
+  "title": "A2",
+  "source": {
+    "sb": "extract/SB.txt",
+    "wb": "extract/WB.txt"
+  },
+  "studyOrder": [],
+  "testDays": []
+}

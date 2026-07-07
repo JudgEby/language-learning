@@ -1,0 +1,227 @@
+[
+  {
+    "id": "c17dcab19e30",
+    "question": "Complete: '___ the choice, I'd go to India rather than Japan.'",
+    "options": [
+      "Given",
+      "Taking",
+      "Having",
+      "Making"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Given the choice' — 'если бы был выбор'. Expresses a hypothetical preference.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "52097f4f65bd",
+    "question": "Which sentence means you really want to do something?",
+    "options": [
+      "I'd jump at the chance to go to New York!",
+      "I'd probably give New York a miss.",
+      "I wouldn't choose to go to New York.",
+      "I'd run a mile at the thought of New York."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Jump at the chance' — 'ухватиться за шанс', expresses strong desire.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "a2cd063463ab",
+    "question": "Complete: 'No way ___ I ever go swimming with sharks!'",
+    "options": [
+      "would",
+      "will",
+      "do",
+      "am"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inversion after 'No way' — 'No way would I ever'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "8e7c6737154f",
+    "question": "Complete: 'I'll probably give the singing ___ a miss.'",
+    "options": [
+      "—",
+      "to",
+      "for",
+      "on"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Give something a miss' — 'пропустить что-то'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "75dcd4c2d265",
+    "question": "What does 'I'd give my right arm for a chance to visit Japan' mean?",
+    "options": [
+      "Я бы отдал всё за шанс посетить Японию.",
+      "Я бы отказался от поездки в Японию.",
+      "Я бы поехал в Японию только при необходимости.",
+      "Я бы не поехал в Японию."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Give my right arm for' — 'отдать всё за', expresses very strong desire.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "7f7dc15f0557",
+    "question": "What does 'jump at the chance' mean?",
+    "options": [
+      "упустить возможность",
+      "ухватиться за шанс",
+      "прыгать от радости",
+      "пропустить событие"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Jump at the chance' means 'ухватиться за шанс'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "99fc0ffc4849",
+    "question": "Complete: 'I'd ___ a mile at the thought of bungee jumping.'",
+    "options": [
+      "run",
+      "jump",
+      "walk",
+      "skip"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Run a mile at the thought of' — 'убежать при мысли о, избегать'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "d07e835f88ce",
+    "question": "Choose the correct expression: 'You wouldn't ___ me doing karaoke!'",
+    "options": [
+      "catch",
+      "find",
+      "see",
+      "get"
+    ],
+    "correctIndex": 0,
+    "explanation": "'You wouldn't catch me doing' — 'меня ни за что не застать за'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "cd805eae552c",
+    "question": "What does 'give something a miss' mean?",
+    "options": [
+      "пропустить что-то",
+      "попробовать что-то",
+      "полюбить что-то",
+      "купить что-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Give something a miss' means 'пропустить что-то'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "58ca770cd896",
+    "question": "Complete: 'If it was up to me, I'd ___ for the beach holiday.'",
+    "options": [
+      "go",
+      "take",
+      "have",
+      "choose"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Go for' — 'выбрать, остановиться на варианте'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "edc16015df72",
+    "question": "Complete: 'I'd ___ at the chance to go to New York!'",
+    "options": [
+      "jump",
+      "run",
+      "give",
+      "take"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Jump at the chance' — 'ухватиться за шанс'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "64722257651c",
+    "question": "What does 'no way would I ever' express?",
+    "options": [
+      "вежливый интерес",
+      "категорический отказ",
+      "сомнение",
+      "энтузиазм"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No way would I ever' — 'ни за что на свете'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "ddad08cf01e2",
+    "question": "Complete: 'I'd ___ my right arm for a chance to visit Japan.'",
+    "options": [
+      "give",
+      "take",
+      "offer",
+      "pay"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Give my right arm for' — 'отдать всё за'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "7804216158f4",
+    "question": "Complete: 'I'd ___ go for the beach holiday.'",
+    "options": [
+      "rather",
+      "prefer",
+      "like",
+      "better"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'd rather + verb' — expressing preference.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "56bc23bfcef7",
+    "question": "Complete: 'You wouldn't catch me ___ karaoke.'",
+    "options": [
+      "doing",
+      "to do",
+      "do",
+      "done"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Catch me + -ing' — 'застать за занятием'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  }
+]

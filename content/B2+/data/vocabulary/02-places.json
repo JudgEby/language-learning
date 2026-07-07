@@ -1,0 +1,56 @@
+{
+  "lessonId": "places",
+  "title": "1B Places — Городские пространства",
+  "items": [
+    {
+      "term": "industrial estate",
+      "translation": "промышленная зона",
+      "example": "The factory is located on a small industrial estate on the outskirts of the city."
+    },
+    {
+      "term": "outskirts",
+      "translation": "окраина",
+      "example": "They live on the outskirts of town, far from the繁忙 centre."
+    },
+    {
+      "term": "slums",
+      "translation": "трущобы",
+      "example": "A lot of old slums have been demolished and replaced with modern apartments."
+    },
+    {
+      "term": "inner-city",
+      "translation": "внутренняя часть города (обычно с проблемами)",
+      "example": "Inner-city areas often suffer from poor housing and limited services."
+    },
+    {
+      "term": "residential area",
+      "translation": "жилой район",
+      "example": "Their apartment building is in a quiet residential area of the city."
+    },
+    {
+      "term": "architecture",
+      "translation": "архитектура",
+      "example": "This building is a beautiful example of eighteenth-century architecture."
+    },
+    {
+      "term": "built-up area",
+      "translation": "застроенная территория",
+      "example": "We moved out of a built-up area in the city centre to a leafy suburban street."
+    },
+    {
+      "term": "suburban",
+      "translation": "пригородный",
+      "example": "Many families prefer suburban life because it is quieter and safer."
+    },
+    {
+      "term": "residence",
+      "translation": "жилище, резиденция",
+      "example": "This house is a beautiful new residence built using modern methods."
+    },
+    {
+      "term": "construction",
+      "translation": "строительство",
+      "example": "The construction industry should do more to combat climate change."
+    }
+  ]
+}
