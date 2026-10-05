@@ -11,37 +11,57 @@ import { studyKey } from './types';
 
 const CONTENT_BASE = '/content';
 
+/**
+ * In-memory request cache. Content is immutable for the lifetime of a page session
+ * (the Vite content-sync plugin forces a full reload when it changes), so a resolved
+ * payload can be shared by every caller — this is what collapses the N+1 fetches in
+ * the list pages. Rejected entries are evicted so a retry can still succeed.
+ */
+const jsonCache = new Map<string, Promise<unknown>>();
+
 async function fetchJson<T>(path: string): Promise<T> {
-  const res = await fetch(path);
-  if (!res.ok) {
-    throw new Error(`Failed to load ${path}: ${res.status}`);
-  }
-  return res.json() as Promise<T>;
+  const cached = jsonCache.get(path) as Promise<T> | undefined;
+  if (cached) return cached;
+
+  const pending = (async () => {
+    const res = await fetch(path);
+    if (!res.ok) {
+      throw new Error(`Failed to load ${path}: ${res.status}`);
+    }
+    return res.json() as Promise<T>;
+  })();
+
+  jsonCache.set(path, pending);
+  pending.catch(() => jsonCache.delete(path));
+  return pending;
 }
 
 export async function listLevels(): Promise<LevelSummary[]> {
-  const indexRes = await fetch(`${CONTENT_BASE}/index.json`);
-  if (!indexRes.ok) {
+  let levels: string[];
+  try {
+    levels = await fetchJson<string[]>(`${CONTENT_BASE}/index.json`);
+  } catch {
     return [];
   }
-  const levels: string[] = await indexRes.json();
-  const summaries: LevelSummary[] = [];
 
-  for (const level of levels) {
-    try {
-      const manifest = await loadManifest(level);
-      summaries.push({
-        level: manifest.level,
-        title: manifest.title,
-        hasStudy: manifest.studyOrder.length > 0,
-        hasTests: manifest.testDays.length > 0,
-      });
-    } catch {
-      // skip broken level
-    }
-  }
+  const summaries = await Promise.all(
+    levels.map(async (level): Promise<LevelSummary | null> => {
+      try {
+        const manifest = await loadManifest(level);
+        return {
+          level: manifest.level,
+          title: manifest.title,
+          hasStudy: manifest.studyOrder.length > 0,
+          hasTests: manifest.testDays.length > 0,
+        };
+      } catch {
+        // skip broken level
+        return null;
+      }
+    }),
+  );
 
-  return summaries;
+  return summaries.filter((s): s is LevelSummary => s !== null);
 }
 
 export async function loadManifest(level: string): Promise<Manifest> {
@@ -115,16 +135,17 @@ export async function resolveStudyTitle(
   return lexicon.title;
 }
 
+/** Resolve a lessonId to its `{NN}-{slug}.json` filename via the category index. */
 async function findDataFile(
   level: string,
   category: string,
   lessonId: string,
 ): Promise<string> {
-  const indexRes = await fetch(
+  const files = await fetchJson<string[]>(
     `${CONTENT_BASE}/${level}/data/${category}/index.json`,
-  );
-  if (indexRes.ok) {
-    const files: string[] = await indexRes.json();
+  ).catch(() => null);
+
+  if (files) {
     const match =
       files.find((f) => f.endsWith(`${lessonId}.json`)) ??
       files.find((f) => f.includes(lessonId));

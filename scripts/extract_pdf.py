@@ -2,18 +2,12 @@
 """Extract text from PDFs in toExtract/{level}/ to content/{level}/extract/."""
 from __future__ import annotations
 
-import json
 import sys
 from pathlib import Path
 
 from pypdf import PdfReader
 
-ROOT = Path(__file__).resolve().parent.parent
-TO_EXTRACT = ROOT / "toExtract"
-CONTENT = ROOT / "content"
-
-PDF_NAMES = {"sb": "SB.pdf", "wb": "WB.pdf"}
-DATA_SUBDIRS = ("rules", "vocabulary", "phrases", "idioms")
+from content_utils import CONTENT, TO_EXTRACT, ensure_skeleton, find_pdf
 
 
 def extract_pdf(pdf_path: Path, txt_path: Path) -> None:
@@ -28,79 +22,25 @@ def extract_pdf(pdf_path: Path, txt_path: Path) -> None:
     print(f"Wrote {txt_path} ({txt_path.stat().st_size} bytes)")
 
 
-def find_pdf(level_dir: Path, kind: str) -> Path | None:
-    target = PDF_NAMES[kind].lower()
-    for path in level_dir.iterdir():
-        if path.is_file() and path.name.lower() == target:
-            return path
-    return None
-
-
-def ensure_skeleton(level: str, has_sb: bool, has_wb: bool) -> None:
-    level_dir = CONTENT / level
-    for sub in DATA_SUBDIRS:
-        (level_dir / "data" / sub).mkdir(parents=True, exist_ok=True)
-    (level_dir / "tests").mkdir(parents=True, exist_ok=True)
-
-    manifest_path = level_dir / "manifest.json"
-    if manifest_path.exists():
-        update_content_index()
-        return
-
-    source: dict[str, str] = {}
-    if has_sb:
-        source["sb"] = "extract/SB.txt"
-    if has_wb:
-        source["wb"] = "extract/WB.txt"
-
-    manifest = {
-        "level": level,
-        "title": level,
-        "source": source,
-        "studyOrder": [],
-        "testDays": [],
-    }
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    print(f"Created {manifest_path}")
-    update_content_index()
-
-
-def update_content_index() -> None:
-    levels = sorted(
-        p.name
-        for p in CONTENT.iterdir()
-        if p.is_dir() and (p / "manifest.json").is_file()
-    )
-    index_path = CONTENT / "index.json"
-    index_path.write_text(
-        json.dumps(levels, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-
-
 def process_level(level_dir: Path) -> None:
     level = level_dir.name
-    has_sb = False
-    has_wb = False
+    source: dict[str, str] = {}
 
     sb_pdf = find_pdf(level_dir, "sb")
     if sb_pdf:
         extract_pdf(sb_pdf, CONTENT / level / "extract" / "SB.txt")
-        has_sb = True
+        source["sb"] = "extract/SB.txt"
 
     wb_pdf = find_pdf(level_dir, "wb")
     if wb_pdf:
         extract_pdf(wb_pdf, CONTENT / level / "extract" / "WB.txt")
-        has_wb = True
+        source["wb"] = "extract/WB.txt"
 
-    if not has_sb and not has_wb:
+    if not source:
         print(f"Skip {level}: no SB.pdf or WB.pdf found")
         return
 
-    ensure_skeleton(level, has_sb, has_wb)
+    ensure_skeleton(level, source)
 
 
 def main() -> None:

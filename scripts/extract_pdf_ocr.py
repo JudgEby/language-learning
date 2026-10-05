@@ -9,7 +9,6 @@ Use this when extract_pdf.py produces empty files (scanned PDFs).
 
 from __future__ import annotations
 
-import json
 import os
 import sys
 from pathlib import Path
@@ -18,12 +17,7 @@ import fitz
 import pytesseract
 from PIL import Image
 
-ROOT = Path(__file__).resolve().parent.parent
-TO_EXTRACT = ROOT / "toExtract"
-CONTENT = ROOT / "content"
-
-PDF_NAMES = {"sb": "SB.pdf", "wb": "WB.pdf"}
-DATA_SUBDIRS = ("rules", "vocabulary", "phrases", "idioms")
+from content_utils import CONTENT, TO_EXTRACT, ensure_skeleton, find_pdf
 
 
 def _find_tesseract() -> str | None:
@@ -77,14 +71,6 @@ pytesseract.pytesseract.tesseract_cmd = TESSERACT_CMD
 # helpers
 # ---------------------------------------------------------------------------
 
-def find_pdf(level_dir: Path, kind: str) -> Path | None:
-    target = PDF_NAMES[kind].lower()
-    for path in level_dir.iterdir():
-        if path.is_file() and path.name.lower() == target:
-            return path
-    return None
-
-
 def ocr_page(page: fitz.Page, dpi: int = 250) -> str:
     """Render a PDF page to an image and run OCR."""
     pix = page.get_pixmap(dpi=dpi)
@@ -110,52 +96,6 @@ def extract_pdf(pdf_path: Path, txt_path: Path) -> None:
     print(f"  Wrote {txt_path} ({size} bytes)")
 
 
-def ensure_skeleton(level: str) -> None:
-    """Create manifest and folders if they don't exist."""
-    level_dir = CONTENT / level
-    for sub in DATA_SUBDIRS:
-        (level_dir / "data" / sub).mkdir(parents=True, exist_ok=True)
-    (level_dir / "tests").mkdir(parents=True, exist_ok=True)
-
-    manifest_path = level_dir / "manifest.json"
-    if manifest_path.exists():
-        _update_content_index()
-        return
-
-    source: dict[str, str] = {}
-    if (level_dir / "extract" / "SB.txt").exists():
-        source["sb"] = "extract/SB.txt"
-    if (level_dir / "extract" / "WB.txt").exists():
-        source["wb"] = "extract/WB.txt"
-
-    manifest = {
-        "level": level,
-        "title": level,
-        "source": source,
-        "studyOrder": [],
-        "testDays": [],
-    }
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    print(f"  Created {manifest_path}")
-    _update_content_index()
-
-
-def _update_content_index() -> None:
-    levels = sorted(
-        p.name
-        for p in CONTENT.iterdir()
-        if p.is_dir() and (p / "manifest.json").is_file()
-    )
-    index_path = CONTENT / "index.json"
-    index_path.write_text(
-        json.dumps(levels, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-
-
 def process_level(level_dir: Path) -> None:
     level = level_dir.name
     print(f"\nProcessing {level} ...")
@@ -174,7 +114,14 @@ def process_level(level_dir: Path) -> None:
         print(f"  Skip {level}: no SB.pdf or WB.pdf found")
         return
 
-    ensure_skeleton(level)
+    # source is derived from the .txt files on disk, not from the PDFs, so this stays
+    # safe to run after a partial or failed text extraction.
+    source: dict[str, str] = {}
+    for kind, name in (("sb", "SB.txt"), ("wb", "WB.txt")):
+        if (CONTENT / level / "extract" / name).exists():
+            source[kind] = f"extract/{name}"
+
+    ensure_skeleton(level, source)
 
 
 def main() -> None:

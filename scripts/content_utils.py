@@ -8,8 +8,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
+TO_EXTRACT = ROOT / "toExtract"
 DATA_CATEGORIES = ("rules", "vocabulary", "phrases", "idioms")
 STUDY_TYPES = ("rule", "vocabulary", "phrases", "idioms")
+PDF_NAMES = {"sb": "SB.pdf", "wb": "WB.pdf"}
 
 
 def level_dir(level: str) -> Path:
@@ -26,6 +28,42 @@ def tests_dir(level: str) -> Path:
 
 def manifest_path(level: str) -> Path:
     return level_dir(level) / "manifest.json"
+
+
+def find_pdf(level_dir: Path, kind: str) -> Path | None:
+    """Locate SB.pdf / WB.pdf inside a toExtract level folder, case-insensitively."""
+    target = PDF_NAMES[kind].lower()
+    for path in level_dir.iterdir():
+        if path.is_file() and path.name.lower() == target:
+            return path
+    return None
+
+
+def ensure_skeleton(level: str, source: dict[str, str] | None = None) -> None:
+    """Create the level folder skeleton and a manifest.json if none exists yet.
+
+    Never overwrites an existing manifest. `source` maps "sb"/"wb" to paths relative to
+    the level directory; callers decide how it is derived (found PDFs vs existing .txt).
+    """
+    for category in DATA_CATEGORIES:
+        data_dir(level, category).mkdir(parents=True, exist_ok=True)
+    tests_dir(level).mkdir(parents=True, exist_ok=True)
+
+    path = manifest_path(level)
+    if not path.exists():
+        write_json(
+            path,
+            {
+                "level": level,
+                "title": level,
+                "source": source or {},
+                "studyOrder": [],
+                "testDays": [],
+            },
+        )
+        print(f"Created {path}")
+
+    update_content_index()
 
 
 def load_json(path: Path):

@@ -1,19 +1,19 @@
 # -*- coding: utf-8 -*-
-"""Generate 30 test day files for A2plus with grammar, vocab, phrase questions."""
+"""Generate 30 test day files for A2plus with grammar, vocab, phrase questions.
+
+Usage:
+    python scripts/generate_all_tests.py [LEVEL]
+
+The question bank below is authored for A2plus, so LEVEL defaults to "A2plus".
+"""
 from __future__ import annotations
 
-import hashlib
-import json
+import argparse
 import sys
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-TESTS = ROOT / "content" / "A2plus" / "tests"
+from content_utils import load_json, manifest_path, test_id as compute_id, tests_dir, write_json
 
-
-def compute_id(question: str, options: list[str], correct_index: int) -> str:
-    payload = question + "|" + "|".join(options) + "|" + str(correct_index)
-    return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:12]
+DEFAULT_LEVEL = "A2plus"
 
 
 def q(question: str, options: list[str], correct_index: int,
@@ -1310,22 +1310,48 @@ ALL_DAYS: list[list[dict]] = [
 
 
 def main() -> None:
-    TESTS.mkdir(parents=True, exist_ok=True)
+    parser = argparse.ArgumentParser(
+        description="Write the hardcoded 30-day question bank into content/{LEVEL}/tests/."
+    )
+    parser.add_argument(
+        "level",
+        nargs="?",
+        default=DEFAULT_LEVEL,
+        help=f"target level id (default: {DEFAULT_LEVEL})",
+    )
+    args = parser.parse_args()
+    level = args.level
+
+    path_manifest = manifest_path(level)
+    if not path_manifest.is_file():
+        print(f"Missing manifest: {path_manifest}", file=sys.stderr)
+        sys.exit(1)
+
+    out_dir = tests_dir(level)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     for i, day_questions in enumerate(ALL_DAYS, start=1):
         day_id = f"day-{i:02d}"
-        path = TESTS / f"{day_id}.json"
-        # Recompute IDs using the imported function
+        path = out_dir / f"{day_id}.json"
+        # Recompute IDs so a stale bank can never ship an id that fails validation.
         for item in day_questions:
             item["id"] = compute_id(
                 item["question"],
                 item["options"],
                 item["correctIndex"],
             )
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(day_questions, f, ensure_ascii=False, indent=2)
-            f.write("\n")
+        write_json(path, day_questions)
         print(f"Written {path.name} — {len(day_questions)} questions")
-    print(f"\nDone. Generated {len(ALL_DAYS)} test files.")
+
+    manifest = load_json(path_manifest)
+    day_ids = [f"day-{i:02d}" for i in range(1, len(ALL_DAYS) + 1)]
+    if manifest.get("testDays") != day_ids:
+        manifest["testDays"] = day_ids
+        write_json(path_manifest, manifest)
+        print(f"Updated {path_manifest} testDays ({len(day_ids)} days)")
+
+    print(f"\nDone. Generated {len(ALL_DAYS)} test files for {level}.")
+    print(f"Next: python scripts/validate_level.py {level}")
 
 
 if __name__ == "__main__":
