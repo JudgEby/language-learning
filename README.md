@@ -105,6 +105,28 @@ python scripts/run_app.py
 
 Скрипт копирует `content/` в `app/public/content/` и запускает Vite dev-сервер.
 
+Также можно запустить dev-сервер напрямую — копирование не требуется:
+
+```bash
+cd app
+npm run dev
+```
+
+Плагин `content-sync` в [`app/vite.config.ts`](app/vite.config.ts) сам синхронизирует
+`content/` → `app/public/content/`: полная копия при старте `dev` и `build`,
+далее инкрементально по событиям `add` / `change` / `unlink` с перезагрузкой страницы.
+
+**Правьте только `content/` в корне репозитория.** Папка `app/public/content/`
+создаётся автоматически, в `.gitignore` и ручным редактированием не трогается —
+изменения будут перезаписаны.
+
+Проверка типов (оба tsconfig-проекта: `src` и `vite.config.ts`):
+
+```bash
+cd app
+npm run typecheck
+```
+
 Сборка production-версии:
 
 ```bash
