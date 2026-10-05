@@ -191,8 +191,9 @@ body {
 
 .card-title {
   display: block;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 600;
+  letter-spacing: 0.02em;
 }
 
 .card-meta {

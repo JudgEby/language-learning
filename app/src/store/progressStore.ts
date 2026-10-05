@@ -22,6 +22,44 @@ function getLevel(state: ProgressState, level: string): LevelProgress {
   return state.levels[level] ?? { completedStudy: [], completedTests: [] };
 }
 
+/**
+ * Level ids that were renamed after this progress format shipped. Progress is keyed
+ * by the level id, so a folder rename orphans the entry unless it is moved here.
+ * Keep it append-only: never edit a shipped entry, add the next id to the same target.
+ */
+const LEVEL_RENAMES: ReadonlyArray<readonly [from: string, to: string]> = [['A2plus', 'A2+']];
+
+const PROGRESS_VERSION = 1;
+
+/** Merge a moved level entry into its target, if the target already has progress. */
+function mergeProgress(from: LevelProgress, to: LevelProgress | undefined): LevelProgress {
+  if (!to) return from;
+  return {
+    completedStudy: [...new Set([...to.completedStudy, ...from.completedStudy])],
+    completedTests: [...new Set([...to.completedTests, ...from.completedTests])],
+  };
+}
+
+function migrateProgress(persisted: unknown, version: number): unknown {
+  const state = persisted as ProgressState | undefined;
+  if (!state?.levels || typeof state.levels !== 'object') return persisted;
+
+  const levels = { ...state.levels };
+  let changed = false;
+
+  if (version < 1) {
+    for (const [from, to] of LEVEL_RENAMES) {
+      const source = levels[from];
+      if (!source) continue;
+      levels[to] = mergeProgress(source, levels[to]);
+      delete levels[from];
+      changed = true;
+    }
+  }
+
+  return changed ? { ...state, levels } : persisted;
+}
+
 export const useProgressStore = create<ProgressState>()(
   persist(
     (set, get) => ({
@@ -125,7 +163,11 @@ export const useProgressStore = create<ProgressState>()(
       isTestComplete: (level, testId) =>
         getLevel(get(), level).completedTests.includes(testId),
     }),
-    { name: 'language-learning-progress' },
+    {
+      name: 'language-learning-progress',
+      version: PROGRESS_VERSION,
+      migrate: migrateProgress,
+    },
   ),
 );
 

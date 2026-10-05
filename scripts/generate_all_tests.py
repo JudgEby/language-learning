@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Generate 30 test day files for A2plus with grammar, vocab, phrase questions.
+"""Generate 30 test day files for A2+ with grammar, vocab, phrase questions.
 
 Usage:
     python scripts/generate_all_tests.py [LEVEL]
 
-The question bank below is authored for A2plus, so LEVEL defaults to "A2plus".
+The question bank below is authored for A2+, so LEVEL defaults to "A2+".
 """
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ import sys
 
 from content_utils import load_json, manifest_path, test_id as compute_id, tests_dir, write_json
 
-DEFAULT_LEVEL = "A2plus"
+DEFAULT_LEVEL = "A2+"
 
 
 def q(question: str, options: list[str], correct_index: int,

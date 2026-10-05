@@ -48,8 +48,9 @@ export interface TestQuestion {
 export interface LevelSummary {
   level: string;
   title: string;
-  hasStudy: boolean;
-  hasTests: boolean;
+  /** Distinct lessons available for study (studyOrder lists one entry per category). */
+  lessonCount: number;
+  testDayCount: number;
 }
 
 export function studyKey(type: StudyType, id: string): string {

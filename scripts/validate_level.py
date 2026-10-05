@@ -72,6 +72,8 @@ def validate_manifest(level: str, errors: list[str]) -> None:
     manifest = load_json(path)
     if manifest.get("level") != level:
         error(errors, f"{path}: level field should be {level}")
+    if manifest.get("title") != level:
+        error(errors, f"{path}: title should be {level} (the level id shown in the UI)")
 
     expected = build_study_order(level)
     actual = manifest.get("studyOrder", [])

@@ -195,11 +195,11 @@ caught, reported on stderr, and exit 1.
 ### `scripts/generate_all_tests.py [LEVEL]`
 
 The largest script (~1340 lines, ~84 KB) and the least reusable: **no `sys.argv` parsing of
-its own beyond argparse, and a hand-authored question bank for `A2plus`.** It imports from
+its own beyond argparse, and a hand-authored question bank for `A2+`.** It imports from
 `content_utils` — `test_id` (as `compute_id`), `load_json`, `write_json`, `manifest_path`,
 `tests_dir` — so it does not duplicate the hash or the JSON formatting.
 
-`argparse` with one optional positional `level`, default `A2plus`, so the historical
+`argparse` with one optional positional `level`, default `A2+`, so the historical
 zero-argument invocation still works. It exits 1 when `content/{LEVEL}/manifest.json` is
 missing, which prevents scattering another level's question bank into a real level.
 

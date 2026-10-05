@@ -42,15 +42,29 @@ task (see [Task → Read Map](#task--read-map)).
 │   ├── fix_test_ids.py              # recompute test question ids
 │   ├── generate_vocab_questions.py  # auto-generate vocabulary/phrase questions
 │   ├── assemble_tests.py            # assemble day-NN.json from test_plan.json
-│   ├── generate_all_tests.py        # hardcoded A2plus day-01..day-30 generator
+│   ├── generate_all_tests.py        # hardcoded A2+ day-01..day-30 generator
 │   ├── build_rule_md.py             # contentMd template builder (stdout)
 │   └── run_app.py                   # sync content → app/public/content, start Vite
 └── app/                       # React app (Vite + TypeScript + Zustand)
     └── public/content/        # GENERATED copy of content/ — never edit
 ```
 
-`{LEVEL}` is a course/level id used as a folder name (latin, no spaces; `B2+` is the
-existing exception), e.g. folder `content/B2` ↔ id `B2`.
+`{LEVEL}` is a course/level id used as a folder name: latin, no spaces, `+` allowed for
+half-levels (`A2`, `A2+`, `B1`, `B2`, `B2+`), e.g. folder `content/B2` ↔ id `B2`.
+
+**The level id is also its display name.** `manifest.level` and `manifest.title` must both
+equal the folder name, and `validate_level.py` fails if they do not — so the UI shows only
+`A2`, `A2+`, `B1`, `B2`, `B2+`. Never put the textbook series ("Speakout …") in `title`.
+
+Renaming a level folder also orphans that level's saved progress, because `localStorage`
+progress is keyed by level id. In the same change: add `[oldId, newId]` to `LEVEL_RENAMES`
+in `app/src/store/progressStore.ts`, bump `PROGRESS_VERSION`, and add a `version < N` branch
+in `migrateProgress`.
+
+> On Windows the rename itself fails with `Permission denied` while `npm run dev` is running —
+> Vite's `content-sync` watcher holds a handle on `content/`. Stop the dev server first, and
+> remember that the sync plugin mirrors `content/` into `app/public/content/`, which then still
+> carries the old folder name until the next dev/build run.
 
 ## Commands
 
@@ -73,7 +87,7 @@ python scripts/validate_level.py LEVEL
 python scripts/fix_test_ids.py LEVEL
 python scripts/assemble_tests.py LEVEL [--plan PATH]
 python scripts/generate_vocab_questions.py LEVEL [--lesson ID] [--count N] [--output PATH]
-python scripts/generate_all_tests.py [LEVEL]   # hardcoded A2plus question bank (default LEVEL=A2plus)
+python scripts/generate_all_tests.py [LEVEL]   # hardcoded A2+ question bank (default LEVEL=A2+)
 python scripts/build_rule_md.py --heading … --essence … --how … --lifehack … [--example EN RU]
 ```
 
@@ -109,7 +123,7 @@ There are **no** unit-test or lint scripts in `app/package.json`. Verification i
 ```json
 {
   "level": "LEVEL_ID",
-  "title": "Course title",
+  "title": "LEVEL_ID",
   "source": { "sb": "extract/SB.txt", "wb": "extract/WB.txt" },
   "studyOrder": [
     { "type": "rule", "id": "lesson-slug" },

@@ -46,9 +46,34 @@ Hook selectors: `useCompletedStudy(level)`, `useCompletedTests(level)`.
 - Both hooks fall back to a **module-level shared `EMPTY_KEYS: string[]`** constant. Because
   the reference is stable, the "no completed items" case does not create a new array each
   render and therefore cannot loop. Reuse that constant rather than returning a fresh `[]`.
-- Serialisation uses the default `persist` envelope — `{ state, version: 0 }` — with **no
-  `partialize`** and **no `migrate`**. Changing the state shape therefore breaks existing
-  progress in every browser until `migrate` is added.
+- Serialisation uses the default `persist` envelope — `{ state, version: N }` — with **no
+  `partialize`**. The one exception is the progress store's `migrate`, which exists to carry
+  saved progress across a **level-id rename**; see below. Changing the state shape any other
+  way still breaks existing progress in every browser.
+
+#### Level renames — `LEVEL_RENAMES` + `PROGRESS_VERSION`
+
+`state.levels` is keyed by level id, so renaming `content/{LEVEL}` orphans that level's
+saved progress. The progress store therefore carries:
+
+```ts
+const LEVEL_RENAMES: ReadonlyArray<readonly [from: string, to: string]> = [['A2plus', 'A2+']];
+const PROGRESS_VERSION = 1;
+
+function migrateProgress(persisted: unknown, version: number): unknown { /* … */ }
+```
+
+Rules:
+
+- `migrate` receives `version = 0` for state written before versioning existed, so a `version < 1`
+  guard covers every browser that already had progress.
+- `mergeProgress` unions both arrays through a `Set` — renaming into a level that already has
+  a partially-filled entry must not drop either side.
+- **To rename a level:** append the pair to `LEVEL_RENAMES`, bump `PROGRESS_VERSION`, add a
+  `version < N` branch. Never edit or remove a shipped pair.
+- The migration only moves data; it does not rename content. `sync_level.py {LEVEL}` rewrites
+  `manifest.level` separately, and `validate_level.py` asserts `level`, `title` and folder name
+  all agree.
 
 ### `app/src/store/themeStore.ts`
 
@@ -153,7 +178,8 @@ No `AbortController`, no `localStorage` content cache, no service worker.
 
 ## Things that will bite you
 
-1. **`persist` has no `migrate`.** Renaming a store field silently orphans all saved progress.
+1. **`persist` migration is rename-only.** It carries progress across a level-id rename and
+   nothing else; a genuine state-shape change still needs a new `version < N` branch.
 2. **`fetchJson` casts.** Contract changes must be mirrored in `lib/types.ts` **and**
    validated by `scripts/validate_level.py`; TypeScript will not catch a bad payload.
 3. **`EMPTY_KEYS` must stay a shared constant.** Returning a fresh `[]` from the hooks causes

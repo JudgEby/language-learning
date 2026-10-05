@@ -41,8 +41,19 @@ with `parseStudyKey()`. `:questionIndex` is parsed with `parseInt`. Breadcrumbs 
 ### `HomePage.tsx`
 `listLevels()` in a `useEffect(…, [])`; tri-state `loading` / `error` / `levels`. Renders
 `PageHeader title="Language Learning"` with `Logo` (48×31), then `ul.card-list` of
-`Link.card` per level. Card title is the level title; the meta line is `Обучение` and/or
-`Тесты`, joined with ` · `. Empty state: «Нет доступных уровней…».
+`Link.card` per level.
+
+Card title is the level title, which equals the level id — `A2`, `A2+`, `B1`, `B2`, `B2+`.
+Nothing else identifies a level in the UI; the textbook series is not shown.
+
+Card meta comes from `describeLevel(level)` in the same file: `lessonCount` and
+`testDayCount` via `lessons()` / `testDays()` from `app/src/lib/plural.ts`, joined with ` · `
+(`36 уроков · 30 дней тестов`). A level with `lessonCount === 0` renders
+«Материал в разработке» instead. `listLevels()` derives both counts from the manifest —
+`lessonCount` is the number of **distinct** `studyOrder` ids, not the entry count, because one
+lesson contributes up to four entries (rule → vocabulary → phrases → idioms).
+
+Empty state: «Нет доступных уровней…».
 
 ### `LevelPage.tsx`
 `useParams().level`, `loadManifest(level)` keyed on `[level]`. Renders a back link to `/`
@@ -180,11 +191,16 @@ There are **no** spacing, radius, z-index or typography scale tokens — those a
 ## Language of the interface
 
 All user-facing UI strings are **Russian** («Загрузка...», «Изучать правила», «Подтвердить
-выбор», «Верно!», «Неверно.», «Отметить как пройденное», ARIA labels such as «пройдено»).
+выбор», «Верно!», «Неверно.», «Отметить как пройденное», «36 уроков · 30 дней тестов»,
+«Материал в разработке», ARIA labels such as «пройдено»).
 Two exceptions stay English: the home header title and the `index.html` `<title>` are
 «Language Learning», and `<html lang="ru">` declares the document language.
+Level ids (`A2`, `A2+`, `B1`, `B2`, `B2+`) are not UI copy — they are data and stay verbatim.
 `STUDY_TYPE_LABELS` in `lib/types.ts` is Russian and rendered verbatim in study lists:
 `rule → Правило`, `vocabulary → Новые слова`, `phrases → Фразы`, `idioms → Идиомы`.
+
+When adding a Russian count to the UI, use `plural()` from `lib/plural.ts` instead of writing
+the three forms inline — the `11-14` and `1`/`2-4` exceptions are easy to miss by hand.
 
 When adding UI copy, keep it Russian. Repo documentation, in contrast, is English.
 

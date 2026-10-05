@@ -3,7 +3,16 @@ import { Link } from 'react-router-dom';
 import { Logo } from '../components/Logo';
 import { PageHeader } from '../components/Layout';
 import { listLevels } from '../lib/loadContent';
+import { lessons, testDays } from '../lib/plural';
 import type { LevelSummary } from '../lib/types';
+
+function describeLevel(lvl: LevelSummary): string {
+  if (lvl.lessonCount === 0) return 'Материал в разработке';
+
+  const parts = [lessons(lvl.lessonCount)];
+  if (lvl.testDayCount > 0) parts.push(testDays(lvl.testDayCount));
+  return parts.join(' · ');
+}
 
 export function HomePage() {
   const [levels, setLevels] = useState<LevelSummary[]>([]);
@@ -34,11 +43,7 @@ export function HomePage() {
             <li key={lvl.level}>
               <Link to={`/${lvl.level}`} className="card">
                 <span className="card-title">{lvl.title}</span>
-                <span className="card-meta">
-                  {lvl.hasStudy && 'Обучение'}
-                  {lvl.hasStudy && lvl.hasTests && ' · '}
-                  {lvl.hasTests && 'Тесты'}
-                </span>
+                <span className="card-meta">{describeLevel(lvl)}</span>
               </Link>
             </li>
           ))}

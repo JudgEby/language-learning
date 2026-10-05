@@ -51,8 +51,8 @@ export async function listLevels(): Promise<LevelSummary[]> {
         return {
           level: manifest.level,
           title: manifest.title,
-          hasStudy: manifest.studyOrder.length > 0,
-          hasTests: manifest.testDays.length > 0,
+          lessonCount: new Set(manifest.studyOrder.map((item) => item.id)).size,
+          testDayCount: manifest.testDays.length,
         };
       } catch {
         // skip broken level

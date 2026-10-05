@@ -113,11 +113,11 @@ Behaviours that look like defects but are deliberate, plus the limits that remai
   was correct. Progress means "answered", not "correct", so `completedTests` must never be
   read as a score.
 - `content/A2` is a stub level: extract text plus four empty `data/*/index.json` files and
-  an empty `studyOrder` / `testDays`. It validates cleanly and renders the "no materials"
-  state via the `hasStudy` / `hasTests` flags, so a level can be prepared before any content
-  is generated for it.
+  an empty `studyOrder` / `testDays`. It validates cleanly and still gets a home-page card,
+  but `lessonCount === 0` makes the card read "Материал в разработке", so a level can be
+  prepared before any content is generated for it.
 - `scripts/generate_all_tests.py` contains a hand-authored question bank. Only the output
-  target is parameterised (`--level`, default `A2plus`) — the questions themselves are
+  target is parameterised (`--level`, default `A2+`) — the questions themselves are
   level-specific and must be rewritten, not reused, for another level.
 - `app/src/lib/loadContent.ts` caches every content payload in memory for the page session.
   This is safe because content cannot change under a live page: in dev the `content-sync`

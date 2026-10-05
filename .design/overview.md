@@ -75,13 +75,20 @@ properties for theming. No Tailwind, no CSS modules, no preprocessor.
 | Level id | Notes |
 |---|---|
 | `A2` | prepared stub — extract text, four empty `data/*/index.json`, no lessons or tests |
-| `A2plus` | 36 lessons, 30 test days, ~300 vocabulary items |
+| `A2+` | 36 lessons, 30 test days, ~300 vocabulary items |
 | `B1` | 32 lessons, 30 test days |
 | `B2` | 32 lessons (ids like `1a-my-id`), 6 test days |
 | `B2+` | 32 rules, 28 vocabulary / 2 phrases / 3 idioms files, 30 test days |
 
-Level ids are latin-only folder names with no spaces (`B2+` is the one exception to that
-convention, and it is used verbatim in URLs).
+Level ids are latin-only folder names with no spaces, plus `+` for half-levels (`A2+`,
+`B2+`). The id is used verbatim in URLs.
+
+**A level id is also its display name.** `manifest.title` must equal the level id, so the
+home page shows `A2`, `A2+`, `B1`, `B2`, `B2+` and nothing else; `validate_manifest`
+enforces it. The textbook series ("Speakout") lives only in `extract/` and in git history —
+it is deliberately kept out of the UI. Renaming a level id orphans its `localStorage`
+progress, so add an entry to `LEVEL_RENAMES` in `app/src/store/progressStore.ts` and bump
+`PROGRESS_VERSION` in the same change.
 
 ## Running the project
 
