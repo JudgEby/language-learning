@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f69084d4843a",
+    "question": "A lot of people ___ their jobs in big cities.",
+    "options": [
+      "lose",
+      "loses",
+      "losing",
+      "to lose"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lot of people — множественное число: lose.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "395f2e5572d1",
+    "question": "It's a matter of ___ when you're lucky.",
+    "options": [
+      "luck",
+      "luckies",
+      "a luck",
+      "the luck"
+    ],
+    "correctIndex": 0,
+    "explanation": "Неисчисляемое: a matter of luck.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "598e42262d24",
+    "question": "You ___ be lucky — you might win the lottery.",
+    "options": [
+      "might",
+      "must",
+      "should to",
+      "can to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Might — возможность: You might be lucky.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "84b840d27eb8",
+    "question": "Some days you feel like you've ___ all the luck in the world.",
+    "options": [
+      "had",
+      "have",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: have/has + had.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "d26bc845ea44",
+    "question": "Life ___ like a lottery.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "Life — единственное число: is.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "056292075318",
+    "question": "I've got a ___ life — I love my family and my job.",
+    "options": [
+      "lucky",
+      "luckier",
+      "luckiest",
+      "luckily"
+    ],
+    "correctIndex": 0,
+    "explanation": "Удачный — lucky (прямое дополнение).",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "0564924678ae",
+    "question": "I ___ a great job, but sometimes it's boring.",
+    "options": [
+      "have",
+      "has",
+      "haves",
+      "am"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I — have.",
+    "relatedRuleIds": [
+      "lifes-a-lottery"
+    ]
+  },
+  {
+    "id": "fd32bdffb3db",
+    "question": "If you ___ in a new city, take a map with you.",
+    "options": [
+      "are",
+      "will",
+      "were to",
+      "would"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zero conditional: If + Present simple + Present simple.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "92dbb2604b21",
+    "question": "If you heat ice, it ___ .",
+    "options": [
+      "melts",
+      "will melt",
+      "would melt",
+      "melting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Реальное условие настоящего: melts.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "1d3c5b93422c",
+    "question": "If I ___ you, I'd apologise.",
+    "options": [
+      "were",
+      "am",
+      "was",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "If I were you — сослагательное наклонение: were во всех лицах.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "75facce1d59c",
+    "question": "We'll go for a walk if it ___ tomorrow.",
+    "options": [
+      "doesn't rain",
+      "won't rain",
+      "didn't rain",
+      "isn't raining now"
+    ],
+    "correctIndex": 0,
+    "explanation": "Планы на будущее: if + Present simple.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "c69967648453",
+    "question": "You ___ survive without water for three days.",
+    "options": [
+      "can't",
+      "can",
+      "mustn't",
+      "don't"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can't — невозможно.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "1b2d07131b4a",
+    "question": "If you heat water to 100°C, it ___ .",
+    "options": [
+      "boils",
+      "will boil",
+      "boiled",
+      "is boil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple в обеих частях.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "e55771cb0ef5",
+    "question": "If he ___ more, he would look better.",
+    "options": [
+      "ate",
+      "eats",
+      "is eating",
+      "will eat"
+    ],
+    "correctIndex": 0,
+    "explanation": "If + Past Simple, would + базовая форма.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "4a098846a60b",
+    "question": "Let's ___ to the cinema tonight.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "to go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Let's + базовый глагол: go.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "4b401dde6300",
+    "question": "Why don't we ___ a new restaurant?",
+    "options": [
+      "try",
+      "tries",
+      "trying",
+      "to try"
+    ],
+    "correctIndex": 0,
+    "explanation": "Why don't we + базовая форма.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "7d237bd39a7d",
+    "question": "How about ___ a pizza instead?",
+    "options": [
+      "ordering",
+      "order",
+      "to order",
+      "orders"
+    ],
+    "correctIndex": 0,
+    "explanation": "How about + герундий: about ordering.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "1ee4a800ae05",
+    "question": "Shall we ___ the dishes?",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "to do"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shall we + базовый глагол.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "e8187f75b0ef",
+    "question": "Good idea! I'm ___ to try that.",
+    "options": [
+      "up for",
+      "up of",
+      "up on",
+      "up in"
+    ],
+    "correctIndex": 0,
+    "explanation": "be up for — быть в восторге от идеи.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "ba86879dc283",
+    "question": "What do you think about ___ to the gym together?",
+    "options": [
+      "going",
+      "go",
+      "goes",
+      "went"
+    ],
+    "correctIndex": 0,
+    "explanation": "What do you think about + герундий.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  }
+]

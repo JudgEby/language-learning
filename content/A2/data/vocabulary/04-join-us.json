@@ -1,0 +1,21 @@
+{
+  "lessonId": "join-us",
+  "title": "Join us! — новые слова",
+  "items": [
+    { "term": "have a coffee", "translation": "пить кофе (попить кофе)", "example": "We meet half an hour before the film and have a coffee." },
+    { "term": "have fun", "translation": "получать удовольствие, веселиться", "example": "Join our group, get fit and have fun!" },
+    { "term": "watch films", "translation": "смотреть фильмы", "example": "We watch films in members' homes and at cinemas." },
+    { "term": "play tennis", "translation": "играть в теннис", "example": "Every Saturday we play tennis or football." },
+    { "term": "play computer games", "translation": "играть в компьютерные игры", "example": "In the evening I play computer games or watch TV." },
+    { "term": "go running", "translation": "бегать", "example": "We go running in the park on Saturday morning." },
+    { "term": "go walking", "translation": "гулять, прогуливаться", "example": "They love walking, so they go walking every evening." },
+    { "term": "do exercise", "translation": "заниматься спортом", "example": "I don't do exercise — I need to start." },
+    { "term": "do sport", "translation": "заниматься спортом", "example": "We do all kinds of sport outdoors." },
+    { "term": "do nothing", "translation": "ничего не делать", "example": "On Sundays I do nothing at all." },
+    { "term": "read magazines", "translation": "читать журналы", "example": "We read magazines and listen to Italian music." },
+    { "term": "listen to music", "translation": "слушать музыку", "example": "I listen to music on my MP3 player on the bus." },
+    { "term": "eat junk food", "translation": "есть вредную еду (фастфуд)", "example": "You don't eat well — too much junk food." },
+    { "term": "meet new people", "translation": "знакомиться с новыми людьми", "example": "Do you like meeting new people? Then join us." },
+    { "term": "a group", "translation": "группа", "example": "This group is open to all film lovers." }
+  ]
+}

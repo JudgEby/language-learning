@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ you ___ TV in the evening?",
+    "options": ["Do ... watch", "Do ... watches", "Does ... watch", "Are ... watching"],
+    "correctIndex": 0,
+    "explanation": "Do you + базовый глагол: Do you watch TV?",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "She ___ four or five times a week.",
+    "options": ["goes to the gym", "go to the gym", "gym to the goes", "is go the gym"],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple: goes; после goes — to the gym.",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "My friends ___ football very well.",
+    "options": ["play", "plays", "playing", "to play"],
+    "correctIndex": 0,
+    "explanation": "My friends — множественное число: play.",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "He never ___ breakfast.",
+    "options": ["eats", "eat", "eating", "to eat"],
+    "correctIndex": 0,
+    "explanation": "С he — eats; never обычно стоит перед глаголом.",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "We ___ to music in the kitchen.",
+    "options": ["listen", "listens", "listening", "listens to"],
+    "correctIndex": 0,
+    "explanation": "С we — listen (без -s).",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "Does she ___ really watch soap operas?",
+    "options": ["really", "realy", "rly", "real"],
+    "correctIndex": 0,
+    "explanation": "Наречие really пишется с двумя l.",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "You ___ never drink coffee.",
+    "options": ["don't", "doesn't", "isn't", "aren't"],
+    "correctIndex": 0,
+    "explanation": "С you отрицание: don't.",
+    "relatedRuleIds": ["real-friends"]
+  },
+  {
+    "question": "They ___ dinner at home every evening.",
+    "options": ["have", "has", "haves", "is"],
+    "correctIndex": 0,
+    "explanation": "С they — have.",
+    "relatedRuleIds": ["real-friends"]
+  }
+]

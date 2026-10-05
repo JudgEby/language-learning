@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Let's ___ to the cinema tonight.",
+    "options": ["go", "goes", "going", "to go"],
+    "correctIndex": 0,
+    "explanation": "Let's + базовый глагол: go.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "Why don't we ___ a new restaurant?",
+    "options": ["try", "tries", "trying", "to try"],
+    "correctIndex": 0,
+    "explanation": "Why don't we + базовая форма.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "How about ___ a pizza instead?",
+    "options": ["ordering", "order", "to order", "orders"],
+    "correctIndex": 0,
+    "explanation": "How about + герундий: about ordering.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "Shall we ___ the dishes?",
+    "options": ["do", "does", "doing", "to do"],
+    "correctIndex": 0,
+    "explanation": "Shall we + базовый глагол.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "Good idea! I'm ___ to try that.",
+    "options": ["up for", "up of", "up on", "up in"],
+    "correctIndex": 0,
+    "explanation": "be up for — быть в восторге от идеи.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "What do you think about ___ to the gym together?",
+    "options": ["going", "go", "goes", "went"],
+    "correctIndex": 0,
+    "explanation": "What do you think about + герундий.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "That's a great idea. ___ your sister coming too?",
+    "options": ["Is", "Are", "Do", "Did"],
+    "correctIndex": 0,
+    "explanation": "Your sister — she: Is your sister coming?",
+    "relatedRuleIds": ["lets-do-something-new"]
+  },
+  {
+    "question": "I'd rather ___ at home tonight.",
+    "options": ["stay", "staying", "to stay", "stays"],
+    "correctIndex": 0,
+    "explanation": "I'd rather + базовый глагол.",
+    "relatedRuleIds": ["lets-do-something-new"]
+  }
+]

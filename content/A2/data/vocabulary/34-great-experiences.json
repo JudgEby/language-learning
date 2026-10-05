@@ -1,0 +1,24 @@
+{
+  "lessonId": "great-experiences",
+  "title": "Great experiences — новые слова",
+  "items": [
+    { "term": "an experience", "translation": "опыт, впечатление", "example": "Which experience would you most like to have?" },
+    { "term": "amazing", "translation": "потрясающий", "example": "The temples were amazing!" },
+    { "term": "the sunrise", "translation": "восход солнца", "example": "I've watched the sunrise from a mountain." },
+    { "term": "be in a film", "translation": "сниматься в кино", "example": "Have you ever been in a film? — No, but I'd like to." },
+    { "term": "be in a play", "translation": "играть в спектакле", "example": "She's been in a play in the West End." },
+    { "term": "a bungee jump", "translation": "прыжок с банджи", "example": "I haven't done a bungee jump yet." },
+    { "term": "a parachute jump", "translation": "прыжок с парашютом", "example": "He did a parachute jump on his birthday." },
+    { "term": "ride an elephant / a motorbike", "translation": "покататься на слоне / мотоцикле", "example": "Have you ever ridden an elephant?" },
+    { "term": "a live sporting event", "translation": "спортивное событие вживую", "example": "I've been to a live sporting event six times." },
+    { "term": "a karaoke bar", "translation": "караоке-бар", "example": "We went to a karaoke bar after work." },
+    { "term": "a live concert", "translation": "концерт вживую", "example": "I've seen my favourite band live in concert." },
+    { "term": "the Sahara Desert", "translation": "пустыня Сахара", "example": "Have you ever been to the Sahara Desert?" },
+    { "term": "a temple", "translation": "храм", "example": "We've seen the temples in Kom Ombo and Edfu." },
+    { "term": "a mosque", "translation": "мечеть", "example": "We're going to visit a famous mosque and an old church." },
+    { "term": "a pyramid", "translation": "пирамида", "example": "We haven't seen the Pyramids of Cairo yet." },
+    { "term": "a market", "translation": "рынок", "example": "We're going to Khan Al-Khalili Market to buy a lamp." },
+    { "term": "the past participle", "translation": "причастие прошедшего времени", "example": "The past participle of 'go' is 'gone'." },
+    { "term": "be different from", "translation": "отличаться от", "example": "This country is very different from what I expected." }
+  ]
+}

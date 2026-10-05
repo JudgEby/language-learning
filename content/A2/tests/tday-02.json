@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c1aa6665d3ff",
+    "question": "We ___ football on Saturday evenings.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
+    "correctIndex": 0,
+    "explanation": "С we глагол в Present simple без -s: We play.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "e00e1b21833e",
+    "question": "They ___ in the evening.",
+    "options": [
+      "get together",
+      "gets together",
+      "getting together",
+      "to get together"
+    ],
+    "correctIndex": 0,
+    "explanation": "С they тоже без -s.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "caed6b31f5c8",
+    "question": "I ___ coffee, but I drink tea.",
+    "options": [
+      "don't like",
+      "doesn't like",
+      "am not like",
+      "not like"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I отрицание через do not: I don't like.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "78d6259d91d6",
+    "question": "Do you ___ at weekends?",
+    "options": [
+      "relax",
+      "relaxes",
+      "relaxing",
+      "to relax"
+    ],
+    "correctIndex": 0,
+    "explanation": "Do you + глагол в базовой форме.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "6cab63885869",
+    "question": "You ___ come to my party, or you can stay at home.",
+    "options": [
+      "can",
+      "cans",
+      "can to",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол, без -s и без to.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "bb2068e3c6cd",
+    "question": "She works hard, ___ she never relaxes.",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "so"
+    ],
+    "correctIndex": 0,
+    "explanation": "But — противопоставление.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "2b519f5a9aa9",
+    "question": "You can ___ at my place or you can go home.",
+    "options": [
+      "stay",
+      "stays",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 0,
+    "explanation": "После can — базовый глагол.",
+    "relatedRuleIds": [
+      "join-us"
+    ]
+  },
+  {
+    "id": "74b3738d338f",
+    "question": "She ___ to work by train.",
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "to go"
+    ],
+    "correctIndex": 0,
+    "explanation": "В Present simple в третьем лице единственного числа к глаголу добавляется -s: she goes.",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "893f4f03e2b8",
+    "question": "___ she work in the city centre?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple вопрос задаётся через does: Does she work...?",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "c4f12dcbeb89",
+    "question": "He ___ like getting up early.",
+    "options": [
+      "doesn't",
+      "don't",
+      "isn't",
+      "not"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he/it отрицание через doesn't: He doesn't like...",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "946eae874a52",
+    "question": "What ___ your brother do?",
+    "options": [
+      "does",
+      "do",
+      "is",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "В вопросе с he/she/it в Present simple используется does: What does he do?",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "982e19705fc4",
+    "question": "My job ___ very interesting.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "The job — единственное число: My job is...",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "2a63934ea7a0",
+    "question": "She has got a good job and she ___ a lot of money.",
+    "options": [
+      "earns",
+      "earn",
+      "earning",
+      "to earn"
+    ],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple: earns.",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "843dfc3babbd",
+    "question": "Does he ___ to work by car?",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "to go"
+    ],
+    "correctIndex": 0,
+    "explanation": "После does глагол стоит в базовой форме без -s: Does he go...?",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "ae6859dd3d41",
+    "question": "___ time does the film start?",
+    "options": [
+      "What",
+      "How",
+      "When",
+      "Where"
+    ],
+    "correctIndex": 0,
+    "explanation": "Вопрос о времени: What time does...?",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "5f1fab05763f",
+    "question": "The film starts ___ seven o'clock.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Время в часах — с предлогом at: at seven o'clock.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "225a4d82a10b",
+    "question": "___ is the next train?",
+    "options": [
+      "When",
+      "What",
+      "How",
+      "Where"
+    ],
+    "correctIndex": 0,
+    "explanation": "Когда идёт следующий поезд: When is...?",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "e8fe4d94dc82",
+    "question": "___ tickets are there for tonight's show?",
+    "options": [
+      "How many",
+      "How much",
+      "What",
+      "When"
+    ],
+    "correctIndex": 0,
+    "explanation": "How many — для исчисляемых во множественном числе: tickets.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "7e6aeee41874",
+    "question": "Excuse me, ___ is the ticket office?",
+    "options": [
+      "where",
+      "what",
+      "when",
+      "how much"
+    ],
+    "correctIndex": 0,
+    "explanation": "Where is... — вопрос о месте.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "b1f62d00750f",
+    "question": "The shop opens ___ nine and closes ___ six.",
+    "options": [
+      "at / at",
+      "in / in",
+      "on / at",
+      "at / on"
+    ],
+    "correctIndex": 0,
+    "explanation": "Оба времени в часах: at nine, at six.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  }
+]

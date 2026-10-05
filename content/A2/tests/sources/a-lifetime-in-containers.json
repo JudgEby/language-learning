@@ -1,0 +1,58 @@
+[
+  {
+    "question": "How ___ bread do you buy?",
+    "options": ["much", "many", "long", "old"],
+    "correctIndex": 0,
+    "explanation": "How much — для неисчисляемых: bread.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "How ___ tins of tuna are there?",
+    "options": ["many", "much", "long", "a lot of"],
+    "correctIndex": 0,
+    "explanation": "How many — для исчисляемых во множественном: tins.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "I bought three ___ of soup.",
+    "options": ["tins", "tin", "a tin", "tinnings"],
+    "correctIndex": 0,
+    "explanation": "Tin — исчисляемое, счётчик: three tins.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "We drank ___ bottles of water.",
+    "options": ["three", "three of", "three much", "threes"],
+    "correctIndex": 0,
+    "explanation": "Счётчик bottles — множественное число: three bottles.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "She ate ___ pieces of cake.",
+    "options": ["two", "two of", "two much", "twos"],
+    "correctIndex": 0,
+    "explanation": "A piece of cake — счётчик для неисчисляемого: two pieces.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "How ___ people are there? — About twenty.",
+    "options": ["many", "much", "long", "many of"],
+    "correctIndex": 0,
+    "explanation": "People — множественное число: how many.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "There are only two ___ of milk left.",
+    "options": ["cartons", "carton", "a carton", "cartoning"],
+    "correctIndex": 0,
+    "explanation": "Carton — исчисляемое: two cartons.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  },
+  {
+    "question": "I'd like two ___ of tea and a glass of juice.",
+    "options": ["cups", "cup", "a cup", "cupping"],
+    "correctIndex": 0,
+    "explanation": "Cup — исчисляемое: two cups of tea.",
+    "relatedRuleIds": ["a-lifetime-in-containers"]
+  }
+]

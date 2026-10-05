@@ -1,0 +1,58 @@
+[
+  {
+    "question": "There's ___ restaurant opposite the station.",
+    "options": ["a", "an", "the", "—"],
+    "correctIndex": 0,
+    "explanation": "Первый раз упоминаем, единственное число: a restaurant.",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "There are ___ shops ___ the main street.",
+    "options": ["some / on", "some / in", "a / on", "any / on"],
+    "correctIndex": 0,
+    "explanation": "Some — в утверждении; магазины находятся on the street.",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "Is there ___ bank near here?",
+    "options": ["a", "an", "the", "—"],
+    "correctIndex": 0,
+    "explanation": "Is there a bank...? — единственное число с a.",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "There isn't ___ cinema ___ our town.",
+    "options": ["a / in", "any / in", "an / in", "some / in"],
+    "correctIndex": 0,
+    "explanation": "В отрицании — any; город: in our town.",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "The hotel is ___ ___ street.",
+    "options": ["next to / the", "next to / a", "on / the", "in / the"],
+    "correctIndex": 0,
+    "explanation": "next to + the street — «рядом с улицей».",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "There's ___ park ___ the corner.",
+    "options": ["a / on", "an / on", "a / in", "the / on"],
+    "correctIndex": 0,
+    "explanation": "A park on the corner — парк на углу (на том же месте, в этой точке).",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "There aren't ___ buses ___ night.",
+    "options": ["any / at", "some / in", "any / in", "a / at"],
+    "correctIndex": 0,
+    "explanation": "Any — в отрицании; at night — с предлогом at.",
+    "relatedRuleIds": ["around-town"]
+  },
+  {
+    "question": "There ___ a lot of people ___ the market.",
+    "options": ["are / at", "is / in", "are / in", "have / at"],
+    "correctIndex": 0,
+    "explanation": "С people (множественное) — there are; на рынке: at the market.",
+    "relatedRuleIds": ["around-town"]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "lessonId": "i-dont-feel-well",
+  "title": "I don't feel well — новые слова",
+  "items": [
+    { "term": "not feel well", "translation": "плохо себя чувствовать", "example": "I don't feel well today — I think I've got flu." },
+    { "term": "a headache", "translation": "головная боль", "example": "I've got a terrible headache." },
+    { "term": "stomachache", "translation": "боль в животе", "example": "I have stomachache — I ate some fish last night." },
+    { "term": "a sore throat", "translation": "боль в горле", "example": "I've got a sore throat and I can't swallow." },
+    { "term": "a cough", "translation": "кашель", "example": "Have you got anything for a cough?" },
+    { "term": "a runny nose", "translation": "насморк, текущий нос", "example": "I've got a runny nose and a temperature." },
+    { "term": "a temperature", "translation": "температура, жар", "example": "She's got a high temperature — over 39 degrees." },
+    { "term": "a cold", "translation": "простуда", "example": "A cold starts slowly. Flu starts suddenly." },
+    { "term": "flu", "translation": "грипп", "example": "After flu you often feel tired for three weeks." },
+    { "term": "toothache", "translation": "зубная боль", "example": "I've got terrible toothache — I need a dentist." },
+    { "term": "earache", "translation": "боль в ухе", "example": "I woke up this morning with earache." },
+    { "term": "a pain in your back", "translation": "боль в спине", "example": "My back hurts after eight hours at the desk." },
+    { "term": "a cut", "translation": "порез", "example": "You broke a glass and cut your thumb badly." },
+    { "term": "a sprained wrist / ankle", "translation": "растяжение запястья / лодыжки", "example": "I have a sprained wrist from playing tennis." },
+    { "term": "antibiotics", "translation": "антибиотики", "example": "You shouldn't take antibiotics for a cold." },
+    { "term": "a prescription", "translation": "рецепт", "example": "The doctor gave me a prescription for tablets." },
+    { "term": "a pharmacy", "translation": "аптека", "example": "In a pharmacy you can buy tablets and cream without a prescription." },
+    { "term": "a doctor / a dentist", "translation": "врач / стоматолог", "example": "You should go to the doctor if you have a high temperature." },
+    { "term": "plasters", "translation": "пластыри", "example": "Could I have some plasters for my finger?" }
+  ]
+}

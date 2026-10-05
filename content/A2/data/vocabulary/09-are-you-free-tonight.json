@@ -1,0 +1,21 @@
+{
+  "lessonId": "are-you-free-tonight",
+  "title": "Are you free tonight? — новые слова",
+  "items": [
+    { "term": "every day", "translation": "каждый день", "example": "Alicia and I go to a café every day after work." },
+    { "term": "once a week", "translation": "раз в неделю", "example": "I do sport with my friends once a week." },
+    { "term": "once a month", "translation": "раз в месяц", "example": "We meet once a month at the cinema." },
+    { "term": "twice a year", "translation": "дважды в год", "example": "We visit my parents twice a year." },
+    { "term": "three times a day", "translation": "три раза в день", "example": "He takes his tablets three times a day." },
+    { "term": "on Fridays", "translation": "по пятницам", "example": "I always feel tired on Fridays." },
+    { "term": "on Monday morning", "translation": "в понедельник утром", "example": "We play football on Sunday morning." },
+    { "term": "make arrangements", "translation": "договариваться, планировать встречу", "example": "Let's make arrangements for Saturday." },
+    { "term": "a cinema", "translation": "кинотеатр", "example": "Which cinema is the film showing at?" },
+    { "term": "a concert", "translation": "концерт", "example": "There's a concert in the park this weekend." },
+    { "term": "a club", "translation": "клуб", "example": "We sometimes go to a club after work." },
+    { "term": "be showing", "translation": "идти (о фильме)", "example": "Where is the new film showing?" },
+    { "term": "meet up", "translation": "встретиться", "example": "Let's meet up at half past five." },
+    { "term": "be a shame", "translation": "быть жаль", "example": "You can't come? That's a shame!" },
+    { "term": "a good listener", "translation": "хороший слушатель", "example": "Max is a good listener — he never interrupts." }
+  ]
+}

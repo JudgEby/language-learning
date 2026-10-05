@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Are you ___ tonight? — Yes, I'm free.",
+    "options": ["free", "freely", "freeing", "frees"],
+    "correctIndex": 0,
+    "explanation": "Free — прилагательное: Are you free tonight?",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "Would you like ___ on Friday?",
+    "options": ["to go", "go", "going", "goes"],
+    "correctIndex": 0,
+    "explanation": "Would you like + to + глагол.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "Shall we ___ at eight?",
+    "options": ["meet", "meets", "meeting", "to meet"],
+    "correctIndex": 0,
+    "explanation": "Shall we + базовый глагол.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "I'm busy ___ Monday, but I'm free ___ Tuesday.",
+    "options": ["on / on", "in / in", "at / at", "on / at"],
+    "correctIndex": 0,
+    "explanation": "Дни недели — с on: on Monday, on Tuesday.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "What time ___ you free?",
+    "options": ["are", "do", "is", "have"],
+    "correctIndex": 0,
+    "explanation": "Free — прилагательное, перед ним глагол to be.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "Let's ___ a film tonight.",
+    "options": ["watch", "watches", "watching", "to watch"],
+    "correctIndex": 0,
+    "explanation": "Let's + базовый глагол.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "See you ___ !",
+    "options": ["tomorrow", "tomorrows", "tomorrowing", "tomorrow is"],
+    "correctIndex": 0,
+    "explanation": "Tomorrow — наречие, без предлога.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  },
+  {
+    "question": "We ___ meet at the station, ___ is a good idea.",
+    "options": ["shall / it", "shall / its", "shall / it's", "shall / it is"],
+    "correctIndex": 0,
+    "explanation": "It — личное местоимение: it's a good idea.",
+    "relatedRuleIds": ["are-you-free-tonight"]
+  }
+]

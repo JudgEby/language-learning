@@ -1,0 +1,302 @@
+[
+  {
+    "id": "f9ab12d0044f",
+    "question": "There's ___ kitchen and three bedrooms.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "Перед единственным исчисляемым, начиная с согласного звука: a kitchen.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "85798cac6ca9",
+    "question": "It's got two bedrooms and ___ bathroom.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "С единственным числом на первый план — a bathroom.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "56f27adce463",
+    "question": "___ flat is on the third floor.",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "Когда мы говорим о конкретном известном объекте: The flat.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "f2084eac7313",
+    "question": "How many ___ are there? — Four.",
+    "options": [
+      "bedrooms",
+      "bedroom",
+      "a bedroom",
+      "bedrooms of"
+    ],
+    "correctIndex": 0,
+    "explanation": "How many + множественное число.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "1094cc67af02",
+    "question": "Is there ___ garden?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "Is there a garden? — единственное число с a.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "20b58cf56083",
+    "question": "The house ___ got a garage and ___ small garden.",
+    "options": [
+      "has / a",
+      "have / a",
+      "has / an",
+      "have / an"
+    ],
+    "correctIndex": 0,
+    "explanation": "The house — has got; garden — с a.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "87fe99671dd2",
+    "question": "There's ___ sofa and two armchairs ___ living room.",
+    "options": [
+      "a / in the",
+      "an / in",
+      "a / in",
+      "the / in the"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sofa — с a; в устойчивом выражении in the living room — с the.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "ad170f25241e",
+    "question": "There's ___ restaurant opposite the station.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "Первый раз упоминаем, единственное число: a restaurant.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "10a116d8142d",
+    "question": "There are ___ shops ___ the main street.",
+    "options": [
+      "some / on",
+      "some / in",
+      "a / on",
+      "any / on"
+    ],
+    "correctIndex": 0,
+    "explanation": "Some — в утверждении; магазины находятся on the street.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "fe7e35e9cb5e",
+    "question": "Is there ___ bank near here?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "Is there a bank...? — единственное число с a.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "35f054ef0ca6",
+    "question": "There isn't ___ cinema ___ our town.",
+    "options": [
+      "a / in",
+      "any / in",
+      "an / in",
+      "some / in"
+    ],
+    "correctIndex": 0,
+    "explanation": "В отрицании — any; город: in our town.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "e63633db2919",
+    "question": "The hotel is ___ ___ street.",
+    "options": [
+      "next to / the",
+      "next to / a",
+      "on / the",
+      "in / the"
+    ],
+    "correctIndex": 0,
+    "explanation": "next to + the street — «рядом с улицей».",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "6724a9941217",
+    "question": "There's ___ park ___ the corner.",
+    "options": [
+      "a / on",
+      "an / on",
+      "a / in",
+      "the / on"
+    ],
+    "correctIndex": 0,
+    "explanation": "A park on the corner — парк на углу (на том же месте, в этой точке).",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "95daba2ce87b",
+    "question": "There aren't ___ buses ___ night.",
+    "options": [
+      "any / at",
+      "some / in",
+      "any / in",
+      "a / at"
+    ],
+    "correctIndex": 0,
+    "explanation": "Any — в отрицании; at night — с предлогом at.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "832fe80ae91c",
+    "question": "Can I ___ you with that bag?",
+    "options": [
+      "help",
+      "helps",
+      "helping",
+      "to help"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол: Can I help you...?",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "61a892dff29b",
+    "question": "Can you help me, ___?",
+    "options": [
+      "please",
+      "pleases",
+      "please to",
+      "a please"
+    ],
+    "correctIndex": 0,
+    "explanation": "Просьба: Can you..., please?",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "f065022853a4",
+    "question": "Can you help ___? I'm looking for the station.",
+    "options": [
+      "me",
+      "I",
+      "my",
+      "mine"
+    ],
+    "correctIndex": 0,
+    "explanation": "После help в значении «помочь» — объектный случай: help me.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "a2154f434aac",
+    "question": "Of course, ___ anything else?",
+    "options": [
+      "can I do",
+      "I can do",
+      "do I can",
+      "I do can"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can I do anything else? — вспомогательный can стоит в начале.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "c579046b9662",
+    "question": "No, that's OK, you ___ help me.",
+    "options": [
+      "don't have to",
+      "don't have",
+      "haven't to",
+      "not have to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Не обязательно: you don't have to.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "adba7370e7b1",
+    "question": "Could you help ___ ? — Sure, no problem.",
+    "options": [
+      "me",
+      "I",
+      "my",
+      "to me"
+    ],
+    "correctIndex": 0,
+    "explanation": "Could you help me? — объектный случай.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lessonId": "around-town",
+  "title": "Around town — новые слова",
+  "items": [
+    { "term": "a post office", "translation": "почта", "example": "You can send a letter at a post office." },
+    { "term": "a supermarket", "translation": "супермаркет", "example": "You can buy food at a supermarket." },
+    { "term": "a pharmacy", "translation": "аптека", "example": "You can buy medicine at a pharmacy." },
+    { "term": "an art gallery", "translation": "картинная галерея", "example": "You can look at paintings at an art gallery." },
+    { "term": "a museum", "translation": "музей", "example": "You can look at old objects at a museum." },
+    { "term": "a library", "translation": "библиотека", "example": "You can borrow a book from a library." },
+    { "term": "a cinema", "translation": "кинотеатр", "example": "You can watch films at a cinema." },
+    { "term": "a theatre", "translation": "театр", "example": "You can see plays at a theatre." },
+    { "term": "a sports centre", "translation": "спортивный центр", "example": "You can play tennis and football at a sports centre." },
+    { "term": "a police station", "translation": "полицейский участок", "example": "You can find a police officer at a police station." },
+    { "term": "a bank", "translation": "банк", "example": "You can change money at a bank in the town centre." },
+    { "term": "a school", "translation": "школа", "example": "There's a school next to my flat." },
+    { "term": "opening times", "translation": "часы работы", "example": "Check the opening times — the post office is only open for one hour." },
+    { "term": "a ticket", "translation": "билет", "example": "Get a ticket and a bag of popcorn." },
+    { "term": "a postcard", "translation": "открытка", "example": "You buy a plastic postcard on the beach." }
+  ]
+}

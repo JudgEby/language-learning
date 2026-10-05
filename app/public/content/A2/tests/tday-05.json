@@ -1,0 +1,302 @@
+[
+  {
+    "id": "77a757216410",
+    "question": "___ milk is in the fridge.",
+    "options": [
+      "Some",
+      "A",
+      "An",
+      "Many"
+    ],
+    "correctIndex": 0,
+    "explanation": "Milk — неисчисляемое; в утверждении перед ним some.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "7a73fc6e668a",
+    "question": "There isn't ___ bread left.",
+    "options": [
+      "any",
+      "a",
+      "some",
+      "many"
+    ],
+    "correctIndex": 0,
+    "explanation": "В отрицании неисчисляемое — any.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "972c8e640642",
+    "question": "Can I have ___ apple?",
+    "options": [
+      "an",
+      "some",
+      "any many",
+      "a"
+    ],
+    "correctIndex": 0,
+    "explanation": "Apple начинается с гласного звука: an apple.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "9125820decd2",
+    "question": "I need to buy ___ eggs.",
+    "options": [
+      "some",
+      "a",
+      "any",
+      "a lot of many"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eggs — множественное число; some eggs.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "909267458674",
+    "question": "How much ___ do we need?",
+    "options": [
+      "rice",
+      "rices",
+      "rice of",
+      "a rice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rice — неисчисляемое: how much rice.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "c9bc009a86c6",
+    "question": "Let's buy ___ carrots.",
+    "options": [
+      "some",
+      "a",
+      "any",
+      "one"
+    ],
+    "correctIndex": 0,
+    "explanation": "Множественное число в утверждении: some carrots.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "8d0397842b09",
+    "question": "He only drinks ___ water and never ___ wine.",
+    "options": [
+      "some / any",
+      "any / some",
+      "a / any",
+      "many / a"
+    ],
+    "correctIndex": 0,
+    "explanation": "Some в первой части, any во второй отрицательной.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "aaaf16163ab2",
+    "question": "How ___ bread do you buy?",
+    "options": [
+      "much",
+      "many",
+      "long",
+      "old"
+    ],
+    "correctIndex": 0,
+    "explanation": "How much — для неисчисляемых: bread.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "4fb1f2e31aaa",
+    "question": "How ___ tins of tuna are there?",
+    "options": [
+      "many",
+      "much",
+      "long",
+      "a lot of"
+    ],
+    "correctIndex": 0,
+    "explanation": "How many — для исчисляемых во множественном: tins.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "5bb79dd7e039",
+    "question": "I bought three ___ of soup.",
+    "options": [
+      "tins",
+      "tin",
+      "a tin",
+      "tinnings"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tin — исчисляемое, счётчик: three tins.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "fe54c63c6d62",
+    "question": "We drank ___ bottles of water.",
+    "options": [
+      "three",
+      "three of",
+      "three much",
+      "threes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Счётчик bottles — множественное число: three bottles.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "0c92f38ca254",
+    "question": "She ate ___ pieces of cake.",
+    "options": [
+      "two",
+      "two of",
+      "two much",
+      "twos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A piece of cake — счётчик для неисчисляемого: two pieces.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "3c2fa92fc555",
+    "question": "How ___ people are there? — About twenty.",
+    "options": [
+      "many",
+      "much",
+      "long",
+      "many of"
+    ],
+    "correctIndex": 0,
+    "explanation": "People — множественное число: how many.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "8011423da8d6",
+    "question": "There are only two ___ of milk left.",
+    "options": [
+      "cartons",
+      "carton",
+      "a carton",
+      "cartoning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carton — исчисляемое: two cartons.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "9d5703f497fb",
+    "question": "Are you ready ___ order?",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "Глагол be ready + to + инфинитив: be ready to order.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  },
+  {
+    "id": "06dda15fb208",
+    "question": "Can I ___ the soup of the day, please?",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "to have"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can I have...? — вежливая просьба в ресторане.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  },
+  {
+    "id": "473a87c681a3",
+    "question": "I'd like the steak, ___ salad.",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correctIndex": 0,
+    "explanation": "And — перечисление блюд.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  },
+  {
+    "id": "5d1963050274",
+    "question": "Sorry, ___ steak is off today.",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "The steak — конкретное блюдо из меню: с the.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  },
+  {
+    "id": "10e40e084bf9",
+    "question": "I'll have ___ soup and ___ bread.",
+    "options": [
+      "some / some",
+      "a / some",
+      "an / a",
+      "many / a"
+    ],
+    "correctIndex": 0,
+    "explanation": "Soup и bread — неисчисляемые: some.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  },
+  {
+    "id": "c18207cdc38a",
+    "question": "Waiter, could we have ___ bill, please?",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "—"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bill — конкретный счёт: с the.",
+    "relatedRuleIds": [
+      "are-you-ready-to-order"
+    ]
+  }
+]

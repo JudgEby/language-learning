@@ -1,0 +1,21 @@
+{
+  "lessonId": "help",
+  "title": "Help! — новые слова",
+  "items": [
+    { "term": "offer to help", "translation": "предложить помощь", "example": "In New York people often didn't offer help because it was dangerous." },
+    { "term": "a helpful person", "translation": "отзывчивый человек", "example": "People in Spanish-speaking cities seemed happy to give their time." },
+    { "term": "give help with a smile", "translation": "помочь с улыбкой", "example": "People in these cities gave help with a smile." },
+    { "term": "walk on by", "translation": "пройти мимо, не помочь", "example": "When someone is in trouble, do they stop and help or just walk on by?" },
+    { "term": "pick something up", "translation": "поднять, подобрать", "example": "A person with a broken leg drops some papers and can't pick them up." },
+    { "term": "push / carry / lift", "translation": "толкать / нести / поднимать", "example": "She's carrying a heavy suitcase and she can't lift it." },
+    { "term": "carry a bag", "translation": "нести сумку", "example": "Can I carry your bag? — Yes, please, it's heavy." },
+    { "term": "reach something", "translation": "дотянуться до чего-то", "example": "I can't reach the dictionary on the top shelf." },
+    { "term": "a blind person", "translation": "слепой человек", "example": "A blind person is trying to cross the road, but the traffic is busy." },
+    { "term": "in a hurry", "translation": "в спешке", "example": "People in New York were often too busy or were in a hurry." },
+    { "term": "lie on the ground", "translation": "лежать на земле", "example": "A man is lying on the ground and he isn't moving." },
+    { "term": "get angry with somebody", "translation": "рассердиться на кого-то", "example": "People didn't offer help because people got angry with them." },
+    { "term": "be stuck", "translation": "застрять, не открываться", "example": "Let me try ... Ooh, it's stuck." },
+    { "term": "offer / accept help", "translation": "предложить / принять помощь", "example": "Do you need help? — Thanks, but no." },
+    { "term": "do you need help with ...?", "translation": "Вам нужна помощь с ...?", "example": "Do you need help with your luggage?" }
+  ]
+}

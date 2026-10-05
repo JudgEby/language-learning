@@ -1,0 +1,58 @@
+[
+  {
+    "question": "If you ___ in a new city, take a map with you.",
+    "options": ["are", "will", "were to", "would"],
+    "correctIndex": 0,
+    "explanation": "Zero conditional: If + Present simple + Present simple.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "If you heat ice, it ___ .",
+    "options": ["melts", "will melt", "would melt", "melting"],
+    "correctIndex": 0,
+    "explanation": "Реальное условие настоящего: melts.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "If I ___ you, I'd apologise.",
+    "options": ["were", "am", "was", "be"],
+    "correctIndex": 0,
+    "explanation": "If I were you — сослагательное наклонение: were во всех лицах.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "We'll go for a walk if it ___ tomorrow.",
+    "options": ["doesn't rain", "won't rain", "didn't rain", "isn't raining now"],
+    "correctIndex": 0,
+    "explanation": "Планы на будущее: if + Present simple.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "You ___ survive without water for three days.",
+    "options": ["can't", "can", "mustn't", "don't"],
+    "correctIndex": 0,
+    "explanation": "Can't — невозможно.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "If you heat water to 100°C, it ___ .",
+    "options": ["boils", "will boil", "boiled", "is boil"],
+    "correctIndex": 0,
+    "explanation": "Present simple в обеих частях.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "If he ___ more, he would look better.",
+    "options": ["ate", "eats", "is eating", "will eat"],
+    "correctIndex": 0,
+    "explanation": "If + Past Simple, would + базовая форма.",
+    "relatedRuleIds": ["survive"]
+  },
+  {
+    "question": "If she ___ the lottery, she'll buy a house.",
+    "options": ["wins", "win", "won", "will win"],
+    "correctIndex": 0,
+    "explanation": "If + Present simple, will + базовая форма.",
+    "relatedRuleIds": ["survive"]
+  }
+]

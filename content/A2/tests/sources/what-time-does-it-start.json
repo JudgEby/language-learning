@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ time does the film start?",
+    "options": ["What", "How", "When", "Where"],
+    "correctIndex": 0,
+    "explanation": "Вопрос о времени: What time does...?",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "The film starts ___ seven o'clock.",
+    "options": ["at", "in", "on", "to"],
+    "correctIndex": 0,
+    "explanation": "Время в часах — с предлогом at: at seven o'clock.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "___ is the next train?",
+    "options": ["When", "What", "How", "Where"],
+    "correctIndex": 0,
+    "explanation": "Когда идёт следующий поезд: When is...?",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "___ tickets are there for tonight's show?",
+    "options": ["How many", "How much", "What", "When"],
+    "correctIndex": 0,
+    "explanation": "How many — для исчисляемых во множественном числе: tickets.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "Excuse me, ___ is the ticket office?",
+    "options": ["where", "what", "when", "how much"],
+    "correctIndex": 0,
+    "explanation": "Where is... — вопрос о месте.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "The shop opens ___ nine and closes ___ six.",
+    "options": ["at / at", "in / in", "on / at", "at / on"],
+    "correctIndex": 0,
+    "explanation": "Оба времени в часах: at nine, at six.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "___ long is the film?",
+    "options": ["How", "What", "When", "Where"],
+    "correctIndex": 0,
+    "explanation": "How long — вопрос о длительности.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  },
+  {
+    "question": "What's the ___ to London?",
+    "options": ["price", "prices", "many", "manys"],
+    "correctIndex": 0,
+    "explanation": "Price — неисчисляемое, единственное число: the price.",
+    "relatedRuleIds": ["what-time-does-it-start"]
+  }
+]

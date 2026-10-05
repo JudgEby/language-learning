@@ -1,0 +1,23 @@
+{
+  "lessonId": "big-happy-families",
+  "title": "Big happy families — новые слова",
+  "items": [
+    { "term": "a parent", "translation": "родитель", "example": "What do you call your parents? — We call them Mom and Dad." },
+    { "term": "parents", "translation": "родители", "example": "My parents live in a small village." },
+    { "term": "a child / a son / a daughter", "translation": "ребёнок / сын / дочь", "example": "The Bonell family have got seven sons and nine daughters." },
+    { "term": "a brother / a sister", "translation": "брат / сестра", "example": "I've got a brother and a sister." },
+    { "term": "a husband / a wife", "translation": "муж / жена", "example": "My sister is married to Ray and they are very happy." },
+    { "term": "a grandparent", "translation": "бабушка или дедушка", "example": "My grandchildren call me Grandpa." },
+    { "term": "a cousin", "translation": "кузен, двоюродный брат/сестра", "example": "My cousin lives in Australia." },
+    { "term": "a nephew / a niece", "translation": "племянник / племянница", "example": "Andreas and they have got a daughter, Eva, and two sons." },
+    { "term": "an only child", "translation": "единственный ребёнок в семье", "example": "I'm an only child, so I have no brothers or sisters." },
+    { "term": "be married to", "translation": "быть женатым на", "example": "My sister is married to Sylvia from the USA." },
+    { "term": "a family tree", "translation": "родословная, дерево семьи", "example": "Draw an empty family tree in your notebook." },
+    { "term": "a neighbour", "translation": "сосед", "example": "One of the neighbours says they've only got two children." },
+    { "term": "housework", "translation": "домашняя работа, уборка", "example": "Meals and house cleaning are big jobs, but all do housework together." },
+    { "term": "a baby", "translation": "младенец", "example": "Katelyn is the latest child of the Bonell family." },
+    { "term": "a bakery", "translation": "пекарня", "example": "They have got a bakery in the town centre." },
+    { "term": "day-to-day life", "translation": "повседневная жизнь", "example": "Her day-to-day life is similar, just with more washing to do." },
+    { "term": "give ... attention", "translation": "уделять ... внимание", "example": "Giving each child enough time and attention isn't easy, but it's important." }
+  ]
+}

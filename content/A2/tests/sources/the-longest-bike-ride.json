@@ -1,0 +1,58 @@
+[
+  {
+    "question": "The Alps are ___ mountains in Europe.",
+    "options": ["the highest", "higher", "the higher", "highest"],
+    "correctIndex": 0,
+    "explanation": "Предельная степень: the highest.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "This is ___ restaurant in town.",
+    "options": ["the best", "the better", "the bestest", "best"],
+    "correctIndex": 0,
+    "explanation": "Самый хороший — the best.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "She is ___ girl in our class.",
+    "options": ["the tallest", "the tallester", "tallest", "more tallest"],
+    "correctIndex": 0,
+    "explanation": "Tall → the tallest.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "This is ___ river in the country.",
+    "options": ["the longest", "the long", "longer", "longest"],
+    "correctIndex": 0,
+    "explanation": "Long → the longest.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "Which is ___ film this year?",
+    "options": ["the worst", "worse", "the worse", "worst"],
+    "correctIndex": 0,
+    "explanation": "Плохая степень — the worst.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "It's ___ day of my life.",
+    "options": ["the best", "a best", "better", "the more good"],
+    "correctIndex": 0,
+    "explanation": "The best day of my life.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "Cycling is ___ exercise for the legs.",
+    "options": ["the hardest", "the harder", "harder", "the most hard"],
+    "correctIndex": 0,
+    "explanation": "Hard → the hardest.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  },
+  {
+    "question": "Which city is ___ in the world?",
+    "options": ["the most beautiful", "the beautifulest", "more beautiful", "the most beauty"],
+    "correctIndex": 0,
+    "explanation": "Длинное прилагательное: the most beautiful.",
+    "relatedRuleIds": ["the-longest-bike-ride"]
+  }
+]

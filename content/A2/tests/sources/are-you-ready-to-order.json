@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Are you ready ___ order?",
+    "options": ["to", "for", "of", "at"],
+    "correctIndex": 0,
+    "explanation": "Глагол be ready + to + инфинитив: be ready to order.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "Can I ___ the soup of the day, please?",
+    "options": ["have", "has", "having", "to have"],
+    "correctIndex": 0,
+    "explanation": "Can I have...? — вежливая просьба в ресторане.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "I'd like the steak, ___ salad.",
+    "options": ["and", "but", "or", "so"],
+    "correctIndex": 0,
+    "explanation": "And — перечисление блюд.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "Sorry, ___ steak is off today.",
+    "options": ["the", "a", "an", "—"],
+    "correctIndex": 0,
+    "explanation": "The steak — конкретное блюдо из меню: с the.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "I'll have ___ soup and ___ bread.",
+    "options": ["some / some", "a / some", "an / a", "many / a"],
+    "correctIndex": 0,
+    "explanation": "Soup и bread — неисчисляемые: some.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "Waiter, could we have ___ bill, please?",
+    "options": ["the", "a", "an", "—"],
+    "correctIndex": 0,
+    "explanation": "The bill — конкретный счёт: с the.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "Are you ready ___ the bill?",
+    "options": ["for", "to", "of", "in"],
+    "correctIndex": 0,
+    "explanation": "be ready for — быть готовым к чему-то.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  },
+  {
+    "question": "Can I ___ the menu, please?",
+    "options": ["see", "sees", "seeing", "to see"],
+    "correctIndex": 0,
+    "explanation": "Can I see...? — базовый глагол после can.",
+    "relatedRuleIds": ["are-you-ready-to-order"]
+  }
+]

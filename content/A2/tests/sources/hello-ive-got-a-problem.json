@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Hello, ___ Alan Simpson. I've got a problem.",
+    "options": ["this is", "it's", "I am", "that's"],
+    "correctIndex": 0,
+    "explanation": "This is — формальное представление при звонке в организацию.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "Could I ___ to customer services, please?",
+    "options": ["speak", "speaks", "speaking", "to speak"],
+    "correctIndex": 0,
+    "explanation": "Could I speak to...? — базовая форма.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "She's not here. Could I ___ a message for her?",
+    "options": ["leave", "leaves", "leaving", "to leave"],
+    "correctIndex": 0,
+    "explanation": "Could I leave a message for...?",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "I'll call you ___ .",
+    "options": ["back", "back to", "back of", "returned"],
+    "correctIndex": 0,
+    "explanation": "Ring back / call back = перезвонить.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "Could you ___ me back later, please?",
+    "options": ["ring", "rings", "ringing", "to ring"],
+    "correctIndex": 0,
+    "explanation": "Could you + базовая форма: ring me back.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "What number are you ___ ?",
+    "options": ["on", "in", "at", "to"],
+    "correctIndex": 0,
+    "explanation": "be on — быть на связи, на номере.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "Just a ___ , please. — Customer services.",
+    "options": ["moment", "moment of", "minuete", "moments"],
+    "correctIndex": 0,
+    "explanation": "Just a moment — минуточку.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  },
+  {
+    "question": "Is Kevin ___ ? — No, he's not in the office today.",
+    "options": ["there", "here", "in", "at"],
+    "correctIndex": 0,
+    "explanation": "There — в офисе, на месте; in — дома.",
+    "relatedRuleIds": ["hello-ive-got-a-problem"]
+  }
+]

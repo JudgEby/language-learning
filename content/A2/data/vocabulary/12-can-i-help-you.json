@@ -1,0 +1,21 @@
+{
+  "lessonId": "can-i-help-you",
+  "title": "Can I help you? — новые слова",
+  "items": [
+    { "term": "a sweater", "translation": "свитер", "example": "A shop assistant shows me a sweater in grey." },
+    { "term": "a T-shirt", "translation": "футболка", "example": "You can buy a T-shirt in a clothes shop." },
+    { "term": "jeans", "translation": "джинсы", "example": "These jeans are too small — have you got a bigger size?" },
+    { "term": "a jacket", "translation": "куртка", "example": "It's cold outside, so I'll take a jacket." },
+    { "term": "trainers", "translation": "кеды, кроссовки", "example": "Buy trainers for football at a sports shop." },
+    { "term": "a football shirt", "translation": "футбольная футболка", "example": "A football shirt is a good present for my brother." },
+    { "term": "a swimming costume", "translation": "купальник", "example": "You can buy a swimming costume in a sports shop." },
+    { "term": "walking boots", "translation": "ботинки для ходьбы", "example": "Walking boots are expensive but comfortable." },
+    { "term": "a SIM card", "translation": "SIM-карта", "example": "You can buy a SIM card in an electronics shop." },
+    { "term": "a memory stick", "translation": "флешка", "example": "Put the photos on a memory stick." },
+    { "term": "a charger", "translation": "зарядное устройство", "example": "You can buy a charger for your mobile here." },
+    { "term": "a tablet", "translation": "планшет", "example": "A tablet is more expensive than a mobile phone." },
+    { "term": "a newsagent's", "translation": "газетный киоск", "example": "You can buy newspapers, magazines and sweets at a newsagent's." },
+    { "term": "a shopping centre", "translation": "торговый центр", "example": "There's a big shopping centre in my town." },
+    { "term": "a size", "translation": "размер", "example": "Size forty-two in grey, please." }
+  ]
+}

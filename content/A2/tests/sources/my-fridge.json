@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ milk is in the fridge.",
+    "options": ["Some", "A", "An", "Many"],
+    "correctIndex": 0,
+    "explanation": "Milk — неисчисляемое; в утверждении перед ним some.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "There isn't ___ bread left.",
+    "options": ["any", "a", "some", "many"],
+    "correctIndex": 0,
+    "explanation": "В отрицании неисчисляемое — any.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "Can I have ___ apple?",
+    "options": ["an", "some", "any many", "a"],
+    "correctIndex": 0,
+    "explanation": "Apple начинается с гласного звука: an apple.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "I need to buy ___ eggs.",
+    "options": ["some", "a", "any", "a lot of many"],
+    "correctIndex": 0,
+    "explanation": "Eggs — множественное число; some eggs.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "How much ___ do we need?",
+    "options": ["rice", "rices", "rice of", "a rice"],
+    "correctIndex": 0,
+    "explanation": "Rice — неисчисляемое: how much rice.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "Let's buy ___ carrots.",
+    "options": ["some", "a", "any", "one"],
+    "correctIndex": 0,
+    "explanation": "Множественное число в утверждении: some carrots.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "He only drinks ___ water and never ___ wine.",
+    "options": ["some / any", "any / some", "a / any", "many / a"],
+    "correctIndex": 0,
+    "explanation": "Some в первой части, any во второй отрицательной.",
+    "relatedRuleIds": ["my-fridge"]
+  },
+  {
+    "question": "Have you got ___ butter?",
+    "options": ["any", "a", "some", "many"],
+    "correctIndex": 0,
+    "explanation": "В вопросе — any.",
+    "relatedRuleIds": ["my-fridge"]
+  }
+]

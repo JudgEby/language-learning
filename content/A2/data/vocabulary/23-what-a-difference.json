@@ -1,0 +1,26 @@
+{
+  "lessonId": "what-a-difference",
+  "title": "What a difference! — новые слова",
+  "items": [
+    { "term": "wear / wear something", "translation": "носить (одежду)", "example": "She is wearing make-up and a new dress." },
+    { "term": "look like", "translation": "выглядеть как", "example": "He looks like his father." },
+    { "term": "appearance", "translation": "внешность", "example": "He changes his appearance for every film." },
+    { "term": "make-up", "translation": "макияж", "example": "Is she wearing make-up?" },
+    { "term": "a suit", "translation": "костюм", "example": "He usually wears a suit to work." },
+    { "term": "a tie", "translation": "галстук", "example": "Men wear ties in the office but Sam isn't wearing one today." },
+    { "term": "jeans", "translation": "джинсы", "example": "I'm wearing jeans and a T-shirt today." },
+    { "term": "trousers", "translation": "брюки", "example": "Walkers don't usually wear a suit — they wear trousers and walking jackets." },
+    { "term": "a T-shirt", "translation": "футболка", "example": "A T-shirt, jeans and trainers — his favourite clothes." },
+    { "term": "trainers", "translation": "кроссовки", "example": "These trainers are more comfortable than shoes." },
+    { "term": "boots", "translation": "ботинки", "example": "Jenny is wearing boots because it's cold." },
+    { "term": "sandals", "translation": "сандалии, босоножки", "example": "Sandals are dangerous on a country walk." },
+    { "term": "shorts", "translation": "шорты", "example": "I never wear shorts to work." },
+    { "term": "a sweater", "translation": "свитер", "example": "Put on a sweater — it's cold outside." },
+    { "term": "a jacket", "translation": "куртка, пиджак", "example": "Walkers usually wear walking jackets." },
+    { "term": "a shirt", "translation": "рубашка", "example": "I'm wearing a grey shirt today." },
+    { "term": "sunglasses", "translation": "солнцезащитные очки", "example": "He's wearing sunglasses and most businessmen don't." },
+    { "term": "a backpack", "translation": "рюкзак", "example": "You need a backpack, not a suitcase, on a country walk." },
+    { "term": "glasses", "translation": "очки", "example": "My grandmother wears glasses for reading." },
+    { "term": "a job interview", "translation": "собеседование на работу", "example": "I usually wear a black suit to a job interview." }
+  ]
+}

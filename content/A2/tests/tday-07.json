@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c8ee025c9941",
+    "question": "Trains are ___ than planes.",
+    "options": [
+      "cheaper",
+      "cheap",
+      "cheapest",
+      "the cheapest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Сравнение двух: -er — cheaper.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "694de3787e8e",
+    "question": "Summer is ___ than winter.",
+    "options": [
+      "hotter",
+      "hot",
+      "hottest",
+      "more hot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hot → hotter (удвоение согласной).",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "0f227ba9ba57",
+    "question": "This hotel is ___ than that one.",
+    "options": [
+      "more expensive",
+      "expensiver",
+      "most expensive",
+      "expensive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Длинные прилагательные с more.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "cfeebdffcd94",
+    "question": "The blue car is ___ than the red one.",
+    "options": [
+      "faster",
+      "fast",
+      "fastest",
+      "the fastest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Faster — сравнительная форма fast.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "68a51dd4b0da",
+    "question": "My phone is ___ expensive than yours.",
+    "options": [
+      "less",
+      "more",
+      "much",
+      "most"
+    ],
+    "correctIndex": 0,
+    "explanation": "Дешёвая степень прилагательного — less expensive.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "49b05332a05c",
+    "question": "London is ___ than my small town.",
+    "options": [
+      "much bigger",
+      "more big",
+      "bigger much",
+      "most big"
+    ],
+    "correctIndex": 0,
+    "explanation": "Усиление сравнения: much bigger.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "5ffad7023404",
+    "question": "The film was ___ than I expected.",
+    "options": [
+      "better",
+      "good",
+      "best",
+      "more good"
+    ],
+    "correctIndex": 0,
+    "explanation": "Хороший → better.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "1c7863a2737e",
+    "question": "The Alps are ___ mountains in Europe.",
+    "options": [
+      "the highest",
+      "higher",
+      "the higher",
+      "highest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Предельная степень: the highest.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "1a6aacbb7315",
+    "question": "This is ___ restaurant in town.",
+    "options": [
+      "the best",
+      "the better",
+      "the bestest",
+      "best"
+    ],
+    "correctIndex": 0,
+    "explanation": "Самый хороший — the best.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "e0d7418607f2",
+    "question": "She is ___ girl in our class.",
+    "options": [
+      "the tallest",
+      "the tallester",
+      "tallest",
+      "more tallest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tall → the tallest.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "e0a51e895dbd",
+    "question": "This is ___ river in the country.",
+    "options": [
+      "the longest",
+      "the long",
+      "longer",
+      "longest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Long → the longest.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "83cfd8952d64",
+    "question": "Which is ___ film this year?",
+    "options": [
+      "the worst",
+      "worse",
+      "the worse",
+      "worst"
+    ],
+    "correctIndex": 0,
+    "explanation": "Плохая степень — the worst.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "60aad16c292f",
+    "question": "It's ___ day of my life.",
+    "options": [
+      "the best",
+      "a best",
+      "better",
+      "the more good"
+    ],
+    "correctIndex": 0,
+    "explanation": "The best day of my life.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "446b720a56cf",
+    "question": "Cycling is ___ exercise for the legs.",
+    "options": [
+      "the hardest",
+      "the harder",
+      "harder",
+      "the most hard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hard → the hardest.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "5071637f73ae",
+    "question": "___ I get the station, please?",
+    "options": [
+      "How can",
+      "How do",
+      "How I can",
+      "How does"
+    ],
+    "correctIndex": 0,
+    "explanation": "How can I...? — вспомогательный can в начале.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  },
+  {
+    "id": "0de9928e530a",
+    "question": "Go straight ___ and turn left at the bank.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Идти прямо: go straight on.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  },
+  {
+    "id": "aab026e8e679",
+    "question": "It's ___ next to the post office.",
+    "options": [
+      "opposite",
+      "opposit",
+      "opposite of",
+      "opposite to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Напротив — opposite.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  },
+  {
+    "id": "4438e3e6d786",
+    "question": "Turn right ___ the traffic lights.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Повернуть на светофоре: at the traffic lights.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  },
+  {
+    "id": "efaeb98cb752",
+    "question": "Take the second street ___ the left.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "По второй улице налево: on the left.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  },
+  {
+    "id": "4c4f432aa434",
+    "question": "The museum is ___ the corner of Green Street.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "На углу — on the corner.",
+    "relatedRuleIds": [
+      "can-you-tell-me-the-way"
+    ]
+  }
+]

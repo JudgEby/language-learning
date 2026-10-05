@@ -1,0 +1,20 @@
+{
+  "lessonId": "time-twins",
+  "title": "Time twins — новые слова",
+  "items": [
+    { "term": "go to university", "translation": "поступить в университет, учиться в вузе", "example": "When she was fifteen she went to university." },
+    { "term": "a future husband / wife", "translation": "будущий муж / жена", "example": "At university she met her future husband, Obi." },
+    { "term": "start a company", "translation": "основать компанию", "example": "Samiya and Obi started a company together." },
+    { "term": "make money", "translation": "зарабатывать деньги", "example": "Their apps made a lot of money." },
+    { "term": "be good at", "translation": "хорошо владеть", "example": "She was really good at maths and computer games." },
+    { "term": "be shy", "translation": "быть застенчивым", "example": "In her childhood Samiya was very shy." },
+    { "term": "information technology", "translation": "информационные технологии", "example": "She studied information technology for four years." },
+    { "term": "a village", "translation": "деревня", "example": "She was born in a small village near Lagos." },
+    { "term": "a taxi driver", "translation": "водитель такси", "example": "Her father worked as a taxi driver." },
+    { "term": "gradually", "translation": "постепенно", "example": "He gradually stopped playing football at work." },
+    { "term": "in one's fourth year", "translation": "на четвёртом курсе", "example": "In her fourth year at university she met Obi." },
+    { "term": "life story", "translation": "история жизни", "example": "Read the two life stories and put the sentences in order." },
+    { "term": "twins", "translation": "близнецы", "example": "The two women are time twins — they are the same age and they met at fifteen." },
+    { "term": "regret", "translation": "жалеть, сожалеть", "example": "She regrets not going to art college." }
+  ]
+}

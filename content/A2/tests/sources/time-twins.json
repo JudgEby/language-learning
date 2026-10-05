@@ -1,0 +1,58 @@
+[
+  {
+    "question": "I ___ to Rome, ___ to Paris.",
+    "options": ["went / went", "went / have gone", "go / went", "go / go"],
+    "correctIndex": 0,
+    "explanation": "В Past Simple оба действия в прошлом: went / went.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "She ___ her job in March and ___ to a new company.",
+    "options": ["got / moved", "get / moved", "got / move", "gets / moved"],
+    "correctIndex": 0,
+    "explanation": "Все действия прошлые: got, moved.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "He ___ at the airport, ___ he went to the beach.",
+    "options": ["arrived / then", "arrives / then", "arrived / than", "arrived / that"],
+    "correctIndex": 0,
+    "explanation": "Сначала arrived, потом went: then.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "While I ___ dinner, my brother ___ in.",
+    "options": ["was cooking / came in", "cooked / comes in", "cook / came in", "was cooking / come in"],
+    "correctIndex": 0,
+    "explanation": "Долгое действие в прошлом (was cooking) и короткое (came in).",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "When I ___ up, the sun already ___.",
+    "options": ["got / was shining", "got up / shine", "get up / was shining", "got / shine"],
+    "correctIndex": 0,
+    "explanation": "Когда я встал, уже светило солнце: got / was shining.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "We ___ dinner and ___ afterwards.",
+    "options": ["cooked / ate", "cook / ate", "cooked / eat", "cooked / have ate"],
+    "correctIndex": 0,
+    "explanation": "Оба действия прошлые: cooked, ate.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "She ___ her phone ___ and called me.",
+    "options": ["took / off", "take / off", "took / of", "took / of"],
+    "correctIndex": 0,
+    "explanation": "take off — снимать (телефон); of — неправильно.",
+    "relatedRuleIds": ["time-twins"]
+  },
+  {
+    "question": "First I ___ a shower, ___ I phoned Ben.",
+    "options": ["had / then", "have / then", "had / than", "has / then"],
+    "correctIndex": 0,
+    "explanation": "First ... then — последовательность в прошлом.",
+    "relatedRuleIds": ["time-twins"]
+  }
+]

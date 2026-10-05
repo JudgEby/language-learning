@@ -1,0 +1,58 @@
+[
+  {
+    "question": "We ___ football on Saturday evenings.",
+    "options": ["play", "plays", "playing", "to play"],
+    "correctIndex": 0,
+    "explanation": "С we глагол в Present simple без -s: We play.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "They ___ in the evening.",
+    "options": ["get together", "gets together", "getting together", "to get together"],
+    "correctIndex": 0,
+    "explanation": "С they тоже без -s.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "I ___ coffee, but I drink tea.",
+    "options": ["don't like", "doesn't like", "am not like", "not like"],
+    "correctIndex": 0,
+    "explanation": "С I отрицание через do not: I don't like.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "Do you ___ at weekends?",
+    "options": ["relax", "relaxes", "relaxing", "to relax"],
+    "correctIndex": 0,
+    "explanation": "Do you + глагол в базовой форме.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "You ___ come to my party, or you can stay at home.",
+    "options": ["can", "cans", "can to", "are"],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол, без -s и без to.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "She works hard, ___ she never relaxes.",
+    "options": ["but", "and", "or", "so"],
+    "correctIndex": 0,
+    "explanation": "But — противопоставление.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "You can ___ at my place or you can go home.",
+    "options": ["stay", "stays", "staying", "to stay"],
+    "correctIndex": 0,
+    "explanation": "После can — базовый глагол.",
+    "relatedRuleIds": ["join-us"]
+  },
+  {
+    "question": "Do you ___ to music in the gym?",
+    "options": ["listen", "listens", "listening", "listens to"],
+    "correctIndex": 0,
+    "explanation": "Do you listen — базовая форма после do.",
+    "relatedRuleIds": ["join-us"]
+  }
+]

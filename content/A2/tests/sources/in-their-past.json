@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Last year I ___ to Rome.",
+    "options": ["went", "go", "gone", "going"],
+    "correctIndex": 0,
+    "explanation": "Past Simple неправильного глагола: went.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "She ___ a lot of books last month.",
+    "options": ["read", "reads", "reading", "has read"],
+    "correctIndex": 0,
+    "explanation": "Читала — неправильный глагол read в Past Simple, форма совпадает с настоящим.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "We ___ to Spain three years ago.",
+    "options": ["didn't go", "did not went", "don't go", "doesn't go"],
+    "correctIndex": 0,
+    "explanation": "Отрицание в Past Simple: didn't + базовая форма.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "Did you ___ a car when you were a student?",
+    "options": ["have", "has", "had", "having"],
+    "correctIndex": 0,
+    "explanation": "Did + базовая форма: Did you have...?",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "He ___ born in Moscow.",
+    "options": ["was", "were", "are", "is"],
+    "correctIndex": 0,
+    "explanation": "С he — was: He was born.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "They ___ a new house last year.",
+    "options": ["bought", "buy", "buys", "buying"],
+    "correctIndex": 0,
+    "explanation": "Купили — bought, форма Past Simple.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "___ you go to the party last night?",
+    "options": ["Did", "Do", "Does", "Are"],
+    "correctIndex": 0,
+    "explanation": "Вопрос в Past Simple: Did + базовая форма.",
+    "relatedRuleIds": ["in-their-past"]
+  },
+  {
+    "question": "I ___ my job in 2019.",
+    "options": ["started", "start", "starts", "am start"],
+    "correctIndex": 0,
+    "explanation": "Past Simple: started.",
+    "relatedRuleIds": ["in-their-past"]
+  }
+]

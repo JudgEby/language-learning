@@ -1,0 +1,302 @@
+[
+  {
+    "id": "5646021b772b",
+    "question": "Last year I ___ to Rome.",
+    "options": [
+      "went",
+      "go",
+      "gone",
+      "going"
+    ],
+    "correctIndex": 0,
+    "explanation": "Past Simple неправильного глагола: went.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "a6bddae446a7",
+    "question": "She ___ a lot of books last month.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "has read"
+    ],
+    "correctIndex": 0,
+    "explanation": "Читала — неправильный глагол read в Past Simple, форма совпадает с настоящим.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "e5e0035b602d",
+    "question": "We ___ to Spain three years ago.",
+    "options": [
+      "didn't go",
+      "did not went",
+      "don't go",
+      "doesn't go"
+    ],
+    "correctIndex": 0,
+    "explanation": "Отрицание в Past Simple: didn't + базовая форма.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "f34ebd6dbc7d",
+    "question": "Did you ___ a car when you were a student?",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "having"
+    ],
+    "correctIndex": 0,
+    "explanation": "Did + базовая форма: Did you have...?",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "58f236c94331",
+    "question": "He ___ born in Moscow.",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he — was: He was born.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "c21be099a76b",
+    "question": "They ___ a new house last year.",
+    "options": [
+      "bought",
+      "buy",
+      "buys",
+      "buying"
+    ],
+    "correctIndex": 0,
+    "explanation": "Купили — bought, форма Past Simple.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "e869b470531e",
+    "question": "___ you go to the party last night?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Вопрос в Past Simple: Did + базовая форма.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "a63a1489f66a",
+    "question": "I ___ to Rome, ___ to Paris.",
+    "options": [
+      "went / went",
+      "went / have gone",
+      "go / went",
+      "go / go"
+    ],
+    "correctIndex": 0,
+    "explanation": "В Past Simple оба действия в прошлом: went / went.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "bdde48da2ea1",
+    "question": "She ___ her job in March and ___ to a new company.",
+    "options": [
+      "got / moved",
+      "get / moved",
+      "got / move",
+      "gets / moved"
+    ],
+    "correctIndex": 0,
+    "explanation": "Все действия прошлые: got, moved.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "9dc16f8ab3f6",
+    "question": "He ___ at the airport, ___ he went to the beach.",
+    "options": [
+      "arrived / then",
+      "arrives / then",
+      "arrived / than",
+      "arrived / that"
+    ],
+    "correctIndex": 0,
+    "explanation": "Сначала arrived, потом went: then.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "995be6b780ec",
+    "question": "While I ___ dinner, my brother ___ in.",
+    "options": [
+      "was cooking / came in",
+      "cooked / comes in",
+      "cook / came in",
+      "was cooking / come in"
+    ],
+    "correctIndex": 0,
+    "explanation": "Долгое действие в прошлом (was cooking) и короткое (came in).",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "f8397ce6a4e6",
+    "question": "When I ___ up, the sun already ___.",
+    "options": [
+      "got / was shining",
+      "got up / shine",
+      "get up / was shining",
+      "got / shine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Когда я встал, уже светило солнце: got / was shining.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "0bcf18d8baee",
+    "question": "We ___ dinner and ___ afterwards.",
+    "options": [
+      "cooked / ate",
+      "cook / ate",
+      "cooked / eat",
+      "cooked / have ate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Оба действия прошлые: cooked, ate.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "52e9fec36ffc",
+    "question": "She ___ her phone ___ and called me.",
+    "options": [
+      "took / off",
+      "take / off",
+      "took / of",
+      "took / of"
+    ],
+    "correctIndex": 0,
+    "explanation": "take off — снимать (телефон); of — неправильно.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "7607747a454f",
+    "question": "Did you ___ a good time at the concert?",
+    "options": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanation": "Did + базовая форма: Did you have...?",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "531bf54b9034",
+    "question": "What ___ you ___ last weekend?",
+    "options": [
+      "did / do",
+      "did / does",
+      "do / did",
+      "were / do"
+    ],
+    "correctIndex": 0,
+    "explanation": "В Past Simple в вопросе: did + базовый глагол.",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "5397c3932b8b",
+    "question": "When ___ they get married?",
+    "options": [
+      "did",
+      "do",
+      "does",
+      "was"
+    ],
+    "correctIndex": 0,
+    "explanation": "Did they get married?",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "cee1d8bdf92d",
+    "question": "___ you go to the cinema on Saturday?",
+    "options": [
+      "Did",
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Вопрос к Past Simple: Did.",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "5e415e545205",
+    "question": "How ___ your holiday?",
+    "options": [
+      "was",
+      "were",
+      "did",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Your holiday — единственное число: How was your holiday?",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "28da79d54355",
+    "question": "Where ___ you go for your last holiday?",
+    "options": [
+      "did",
+      "do",
+      "does",
+      "have"
+    ],
+    "correctIndex": 0,
+    "explanation": "Did you go...? — did + базовая форма.",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  }
+]

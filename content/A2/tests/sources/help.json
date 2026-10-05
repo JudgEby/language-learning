@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Can I ___ you with those bags?",
+    "options": ["carry", "carries", "carrying", "to carry"],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол: carry.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "Would you like me to ___ the shopping?",
+    "options": ["do", "does", "doing", "to do"],
+    "correctIndex": 0,
+    "explanation": "Would you like me to + базовая форма.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "___ you like a hand?",
+    "options": ["Would", "Do", "Did", "Are"],
+    "correctIndex": 0,
+    "explanation": "Would you like a hand? — предложение помочь.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "It's too heavy. You ___ carry it alone.",
+    "options": ["can't", "can", "don't", "aren't"],
+    "correctIndex": 0,
+    "explanation": "Can't — невозможно.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "You ___ help me — it's very kind of you.",
+    "options": ["have", "has", "are", "is"],
+    "correctIndex": 0,
+    "explanation": "С you — have helped.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "Let me ___ you with your bags.",
+    "options": ["help", "helps", "helping", "to help"],
+    "correctIndex": 0,
+    "explanation": "Let me + базовый глагол: help.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "No thanks, I can ___ myself.",
+    "options": ["manage", "manages", "managing", "to manage"],
+    "correctIndex": 0,
+    "explanation": "Can manage — справляться самому.",
+    "relatedRuleIds": ["help"]
+  },
+  {
+    "question": "Could you ___ me with my English, please?",
+    "options": ["help", "helps", "helping", "helped"],
+    "correctIndex": 0,
+    "explanation": "Could you help me — базовая форма.",
+    "relatedRuleIds": ["help"]
+  }
+]

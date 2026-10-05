@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Did you ___ a good time at the concert?",
+    "options": ["have", "had", "having", "has"],
+    "correctIndex": 0,
+    "explanation": "Did + базовая форма: Did you have...?",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "What ___ you ___ last weekend?",
+    "options": ["did / do", "did / does", "do / did", "were / do"],
+    "correctIndex": 0,
+    "explanation": "В Past Simple в вопросе: did + базовый глагол.",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "When ___ they get married?",
+    "options": ["did", "do", "does", "was"],
+    "correctIndex": 0,
+    "explanation": "Did they get married?",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "___ you go to the cinema on Saturday?",
+    "options": ["Did", "Do", "Does", "Are"],
+    "correctIndex": 0,
+    "explanation": "Вопрос к Past Simple: Did.",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "How ___ your holiday?",
+    "options": ["was", "were", "did", "are"],
+    "correctIndex": 0,
+    "explanation": "Your holiday — единственное число: How was your holiday?",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "Where ___ you go for your last holiday?",
+    "options": ["did", "do", "does", "have"],
+    "correctIndex": 0,
+    "explanation": "Did you go...? — did + базовая форма.",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "What kind ___ food did you eat in Greece?",
+    "options": ["of", "for", "in", "to"],
+    "correctIndex": 0,
+    "explanation": "What kind of food — устойчивая конструкция.",
+    "relatedRuleIds": ["what-did-you-do"]
+  },
+  {
+    "question": "___ you enjoy the film?",
+    "options": ["Did", "Do", "Does", "Have"],
+    "correctIndex": 0,
+    "explanation": "Did you enjoy...? — enjoy + базовая форма.",
+    "relatedRuleIds": ["what-did-you-do"]
+  }
+]

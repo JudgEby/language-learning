@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Hello! ___ my name is Pavel.",
+    "options": ["I", "My", "Me", "Mine"],
+    "correctIndex": 0,
+    "explanation": "My name is — притяжательное местоимение my перед существительным name.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "Nice to meet you. — ___",
+    "options": ["Nice to meet you, too.", "Nice to meet you also.", "I nice to meet you.", "Me too meet you."],
+    "correctIndex": 0,
+    "explanation": "На Nice to meet you отвечают тем же: Nice to meet you, too.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "How ___ your brother?",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "How + глагол to be + подлежащее: he/she/it → is.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "___ she got a car?",
+    "options": ["Has", "Have", "Haves", "Is"],
+    "correctIndex": 0,
+    "explanation": "Have got в вопросе с she: Has she got... ?",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "Where ___ your parents from?",
+    "options": ["are", "is", "am", "do"],
+    "correctIndex": 0,
+    "explanation": "you/we/they и I → are/am, но parents — множественное число: are.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "I ___ Anna. This is my brother.",
+    "options": ["am", "is", "are", "be"],
+    "correctIndex": 0,
+    "explanation": "I всегда am.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "They ___ from Spain.",
+    "options": ["are", "is", "am", "has"],
+    "correctIndex": 0,
+    "explanation": "they → are.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  },
+  {
+    "question": "What's ___ name?",
+    "options": ["your", "you", "you're", "yours"],
+    "correctIndex": 0,
+    "explanation": "Your name — притяжательная форма your.",
+    "relatedRuleIds": ["nice-to-meet-you"]
+  }
+]

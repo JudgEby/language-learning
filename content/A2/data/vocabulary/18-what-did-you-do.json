@@ -1,0 +1,20 @@
+{
+  "lessonId": "what-did-you-do",
+  "title": "What did you do? — новые слова",
+  "items": [
+    { "term": "go shopping", "translation": "ходить за покупками", "example": "I went shopping with my sister on Saturday." },
+    { "term": "go to the gym", "translation": "ходить в спортзал", "example": "I didn't go to the gym on Sunday." },
+    { "term": "go for a walk", "translation": "идти гулять", "example": "We went for a walk after dinner." },
+    { "term": "go swimming", "translation": "плавать", "example": "He went swimming in the sea." },
+    { "term": "do housework", "translation": "делать домашнюю работу", "example": "I did housework and cleaned my room." },
+    { "term": "do my English (study)", "translation": "заниматься английским", "example": "I did my English for an hour yesterday evening." },
+    { "term": "do homework", "translation": "делать домашнее задание", "example": "My children do their homework after dinner." },
+    { "term": "stay at home", "translation": "оставаться дома", "example": "I stayed at home and watched TV all evening." },
+    { "term": "have lunch with a friend", "translation": "обедать с другом", "example": "I often meet a friend for lunch on Thursday." },
+    { "term": "a yoga class", "translation": "занятие по йоге", "example": "I have a yoga class on Thursday morning." },
+    { "term": "read a text / an email", "translation": "прочитать текст / письмо", "example": "I read a text from my sister at the weekend." },
+    { "term": "watch a film", "translation": "посмотреть фильм", "example": "We watched a film and drank tea." },
+    { "term": "nothing special", "translation": "ничего особенного", "example": "What did you do? — Nothing special." },
+    { "term": "a yoga / fitness class", "translation": "занятие йогой / фитнесом", "example": "She goes to a fitness class three times a week." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lessonId": "nice-to-meet-you",
+  "title": "Nice to meet you — новые слова",
+  "items": [
+    { "term": "the UK", "translation": "Великобритания", "example": "She's from the UK, but she lives in Spain now." },
+    { "term": "the USA", "translation": "США", "example": "My brother studies in the USA." },
+    { "term": "Polish", "translation": "польский (о человеке)", "example": "Two Polish friends joined us for dinner." },
+    { "term": "Italian", "translation": "итальянский (о человеке)", "example": "We're listening to Italian music." },
+    { "term": "Russian", "translation": "русский (о человеке)", "example": "He speaks Russian and a bit of English." },
+    { "term": "Chinese", "translation": "китайский (о человеке)", "example": "Is this restaurant Chinese or Japanese?" },
+    { "term": "Japanese", "translation": "японский (о человеке)", "example": "Sake is Japanese, isn't it?" },
+    { "term": "Turkish", "translation": "турецкий (о человеке)", "example": "Pide is a food from Turkey — it's Turkish pizza." },
+    { "term": "Greek", "translation": "греческий (о человеке)", "example": "The blue and white flag is Greek." },
+    { "term": "Indian", "translation": "индийский (о человеке)", "example": "Curry is Indian food cooked in sauce." },
+    { "term": "Brazilian", "translation": "бразильский (о человеке)", "example": "I think it's Brazilian, from Brazil." },
+    { "term": "nationality", "translation": "национальность", "example": "Write your country and your nationality in your notebook." }
+  ]
+}

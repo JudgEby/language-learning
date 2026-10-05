@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cdcec79c048b",
+    "question": "You've got a headache. You ___ see a doctor.",
+    "options": [
+      "should",
+      "should to",
+      "shall",
+      "can to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Should — совет: You should see a doctor.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "9979654de601",
+    "question": "Don't take medicine, you ___ drink alcohol with it.",
+    "options": [
+      "shouldn't",
+      "should",
+      "shall",
+      "mustn't to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Запрет-с совет: you shouldn't.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "b93b0da1cc12",
+    "question": "You ___ smoke in the hospital.",
+    "options": [
+      "shouldn't",
+      "should",
+      "should to",
+      "shall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Не следует: you shouldn't smoke.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "05f9212252b2",
+    "question": "If you've got a temperature, you ___ stay in bed.",
+    "options": [
+      "should",
+      "can",
+      "may",
+      "must"
+    ],
+    "correctIndex": 0,
+    "explanation": "Совет: you should stay in bed.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "9747a8e3523e",
+    "question": "You ___ worry — it's nothing serious.",
+    "options": [
+      "shouldn't",
+      "should",
+      "mustn't to",
+      "shall"
+    ],
+    "correctIndex": 0,
+    "explanation": "shouldn't worry — «не нужно волноваться».",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "aeaff8ca6d3d",
+    "question": "People ___ drink more than two litres of water a day.",
+    "options": [
+      "should",
+      "should to",
+      "shall to",
+      "can to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Should — рекомендация.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "fde4231b1079",
+    "question": "I've got a terrible cold. I think I ___ go to the doctor.",
+    "options": [
+      "should",
+      "am",
+      "do",
+      "can"
+    ],
+    "correctIndex": 0,
+    "explanation": "I think I should — модальность should в дополнении к I think.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "728c83beef54",
+    "question": "She solved the problem very ___ .",
+    "options": [
+      "quickly",
+      "quick",
+      "quickerly",
+      "quickest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Наречие быстро = quickly (ly).",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "a217c42e3a66",
+    "question": "He speaks English ___ .",
+    "options": [
+      "fluently",
+      "fluent",
+      "fluentily",
+      "more fluent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluently — от fluent + ly.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "2f7d914f4c3f",
+    "question": "Please work ___ . We haven't got much time.",
+    "options": [
+      "carefully",
+      "careful",
+      "carefuly",
+      "carefullier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carefully — внимательно.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "f6856ff386ee",
+    "question": "She did the homework ___ and got an A.",
+    "options": [
+      "hard",
+      "hardly",
+      "harder",
+      "harding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hard — много; hardly — едва (почти не).",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "ecfe94513c0c",
+    "question": "Can you ___ speak more slowly?",
+    "options": [
+      "please",
+      "pleasely",
+      "pleaseing",
+      "pleased"
+    ],
+    "correctIndex": 0,
+    "explanation": "Please — пожалуйста (отдельное слово).",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "785a228d0205",
+    "question": "The children played ___ in the garden.",
+    "options": [
+      "happily",
+      "happy",
+      "happilyly",
+      "happyer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Happily — от happy + ly.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "57ed32d84aa8",
+    "question": "He was ___ tired to walk home.",
+    "options": [
+      "too",
+      "so to",
+      "enough",
+      "very"
+    ],
+    "correctIndex": 0,
+    "explanation": "Too + прилагательное + to — слишком, чтобы.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
+  },
+  {
+    "id": "7951e3b0b7d5",
+    "question": "Can I ___ you with those bags?",
+    "options": [
+      "carry",
+      "carries",
+      "carrying",
+      "to carry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол: carry.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  },
+  {
+    "id": "b3684e92999d",
+    "question": "Would you like me to ___ the shopping?",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "to do"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would you like me to + базовая форма.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  },
+  {
+    "id": "ee95185ec0ff",
+    "question": "___ you like a hand?",
+    "options": [
+      "Would",
+      "Do",
+      "Did",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would you like a hand? — предложение помочь.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  },
+  {
+    "id": "c7dca9cb06e9",
+    "question": "It's too heavy. You ___ carry it alone.",
+    "options": [
+      "can't",
+      "can",
+      "don't",
+      "aren't"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can't — невозможно.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  },
+  {
+    "id": "034bc78fcc94",
+    "question": "You ___ help me — it's very kind of you.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "С you — have helped.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  },
+  {
+    "id": "002c2791c706",
+    "question": "Let me ___ you with your bags.",
+    "options": [
+      "help",
+      "helps",
+      "helping",
+      "to help"
+    ],
+    "correctIndex": 0,
+    "explanation": "Let me + базовый глагол: help.",
+    "relatedRuleIds": [
+      "help"
+    ]
+  }
+]

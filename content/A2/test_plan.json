@@ -1,0 +1,17 @@
+{
+  "questionsPerDay": 20,
+  "days": [
+    ["nice-to-meet-you", "see-it-taste-it", "can-i-have-a-coffee"],
+    ["join-us", "high-flyers", "what-time-does-it-start"],
+    ["big-happy-families", "real-friends", "are-you-free-tonight"],
+    ["a-place-to-stay", "around-town", "can-i-help-you"],
+    ["my-fridge", "a-lifetime-in-containers", "are-you-ready-to-order"],
+    ["in-their-past", "time-twins", "what-did-you-do"],
+    ["travel-partners", "the-longest-bike-ride", "can-you-tell-me-the-way"],
+    ["having-a-great-time", "what-a-difference", "what-do-you-recommend"],
+    ["city-bikes", "free-ride", "sorry-im-late"],
+    ["lifes-a-lottery", "survive", "lets-do-something-new"],
+    ["i-dont-feel-well", "one-thing-at-a-time", "help"],
+    ["great-experiences", "afraid-of-nothing", "hello-ive-got-a-problem"]
+  ]
+}

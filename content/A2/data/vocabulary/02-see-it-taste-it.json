@@ -1,0 +1,22 @@
+{
+  "lessonId": "see-it-taste-it",
+  "title": "See it! Taste it! — новые слова",
+  "items": [
+    { "term": "a camera", "translation": "фотоаппарат", "example": "Leave your camera at home — it's too heavy for the flight." },
+    { "term": "a mobile phone", "translation": "мобильный телефон", "example": "Put your mobile in your pocket, not in your bag." },
+    { "term": "keys", "translation": "ключи", "example": "Put your keys in the bag so they're easy to find." },
+    { "term": "a diary", "translation": "дневник", "example": "A diary with all your contact information is always in my bag." },
+    { "term": "a passport", "translation": "паспорт", "example": "These are important, so keep your passport in a pocket." },
+    { "term": "a credit card", "translation": "кредитная карта", "example": "Is your credit card in your purse or your wallet?" },
+    { "term": "an MP3 player", "translation": "MP3-плеер", "example": "An MP3 player is good for music and audiobooks on a plane." },
+    { "term": "earphones", "translation": "наушники", "example": "Earphones are good for watching DVDs on your laptop." },
+    { "term": "a newspaper", "translation": "газета", "example": "Leave newspapers at home — they're free on the plane." },
+    { "term": "a toothbrush", "translation": "зубная щётка", "example": "Take a toothbrush and a small tube of toothpaste." },
+    { "term": "a sweater", "translation": "свитер", "example": "Wear a sweater on the plane — it's good if it's cold." },
+    { "term": "a purse", "translation": "кошелёк", "example": "Coins are a problem at security, so put them in a purse." },
+    { "term": "a laptop", "translation": "ноутбук", "example": "A laptop with an adaptor is my most important thing." },
+    { "term": "a watch", "translation": "часы", "example": "Look — my name's on it. It's my watch." },
+    { "term": "shampoo", "translation": "шампунь", "example": "Most hotels have shampoo, or you can buy it in town." },
+    { "term": "a souvenir", "translation": "сувенир", "example": "A souvenir is a nice thing to bring home from a holiday." }
+  ]
+}

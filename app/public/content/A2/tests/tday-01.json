@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bc07318ea4e7",
+    "question": "Hello! ___ my name is Pavel.",
+    "options": [
+      "I",
+      "My",
+      "Me",
+      "Mine"
+    ],
+    "correctIndex": 0,
+    "explanation": "My name is — притяжательное местоимение my перед существительным name.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "897d115ac55d",
+    "question": "Nice to meet you. — ___",
+    "options": [
+      "Nice to meet you, too.",
+      "Nice to meet you also.",
+      "I nice to meet you.",
+      "Me too meet you."
+    ],
+    "correctIndex": 0,
+    "explanation": "На Nice to meet you отвечают тем же: Nice to meet you, too.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "73d153aa4b09",
+    "question": "How ___ your brother?",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "How + глагол to be + подлежащее: he/she/it → is.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "f610311d4978",
+    "question": "___ she got a car?",
+    "options": [
+      "Has",
+      "Have",
+      "Haves",
+      "Is"
+    ],
+    "correctIndex": 0,
+    "explanation": "Have got в вопросе с she: Has she got... ?",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "5ed31be89233",
+    "question": "Where ___ your parents from?",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "do"
+    ],
+    "correctIndex": 0,
+    "explanation": "you/we/they и I → are/am, но parents — множественное число: are.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "c5f201adc85d",
+    "question": "I ___ Anna. This is my brother.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "I всегда am.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "b8cbc076d979",
+    "question": "They ___ from Spain.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "has"
+    ],
+    "correctIndex": 0,
+    "explanation": "they → are.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "4d1ee16a3d7d",
+    "question": "I like ___ in my tea.",
+    "options": [
+      "some milk",
+      "a milk",
+      "some milks",
+      "any milk"
+    ],
+    "correctIndex": 0,
+    "explanation": "Milk — неисчисляемое, поэтому some, без a.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "26bd1ab59765",
+    "question": "Have you got ___ tomatoes?",
+    "options": [
+      "any",
+      "a",
+      "some",
+      "an"
+    ],
+    "correctIndex": 0,
+    "explanation": "В вопросе используется any.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "3bf6c979aa9b",
+    "question": "Would you like ___ tea?",
+    "options": [
+      "some",
+      "a",
+      "any",
+      "many"
+    ],
+    "correctIndex": 0,
+    "explanation": "Some — в предложении и в вопросе с would like.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "f05070f41783",
+    "question": "I haven't got ___ cheese in the fridge.",
+    "options": [
+      "any",
+      "a",
+      "some",
+      "a piece of many"
+    ],
+    "correctIndex": 0,
+    "explanation": "В отрицании — any.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "42812fa89769",
+    "question": "How ___ do you like your coffee?",
+    "options": [
+      "do",
+      "does",
+      "is",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "В вопросе с you/do — do, с he/she — does.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "0fcc59e1d57d",
+    "question": "I like it ___ . It's very sweet.",
+    "options": [
+      "a lot",
+      "lot",
+      "many",
+      "much"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lot of с прилагательным: like it a lot.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "263fe90490c9",
+    "question": "She doesn't like coffee, ___ she likes tea.",
+    "options": [
+      "but",
+      "and",
+      "so",
+      "but also"
+    ],
+    "correctIndex": 0,
+    "explanation": "But — противопоставление: отрицание в первой части, утверждение во второй.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "82a3f0182e6d",
+    "question": "A coffee, ___ .",
+    "options": [
+      "please",
+      "pleases",
+      "please to",
+      "pleasing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Просьба в кафе: пожалуйста = please.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "47e5b1cdd6ad",
+    "question": "Can I have ___ tea, please?",
+    "options": [
+      "a",
+      "some",
+      "an",
+      "many"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tea — исчисляемое: a tea.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "92fef0f7561e",
+    "question": "___ you like some coffee?",
+    "options": [
+      "Would",
+      "Do",
+      "Are",
+      "Did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would you like... ? — вежливое предложение.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "c0ff4a0df7a9",
+    "question": "Do you want ___ sugar in your coffee?",
+    "options": [
+      "any",
+      "a",
+      "some many",
+      "a many"
+    ],
+    "correctIndex": 0,
+    "explanation": "В вопросе с do you want — any sugar.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "f6809178f929",
+    "question": "I'd like ___ sandwich and ___ orange juice, please.",
+    "options": [
+      "a / some",
+      "some / a",
+      "an / some",
+      "a / a"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sandwich — исчисляемое (a), juice — неисчисляемое (some).",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "871ec9ed64f6",
+    "question": "Sorry, ___ we don't serve breakfast after eleven.",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "so"
+    ],
+    "correctIndex": 0,
+    "explanation": "But — в значении «но».",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  }
+]

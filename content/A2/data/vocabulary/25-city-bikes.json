@@ -1,0 +1,21 @@
+{
+  "lessonId": "city-bikes",
+  "title": "City bikes — новые слова",
+  "items": [
+    { "term": "traffic", "translation": "дорожное движение, транспортный поток", "example": "Is there a lot of traffic where you live?" },
+    { "term": "a traffic jam", "translation": "пробка", "example": "In the mornings cycling is often faster because of the traffic jams." },
+    { "term": "by bike / on foot", "translation": "на велосипеде / пешком", "example": "I travel to work by bike and my daughter goes on foot." },
+    { "term": "public transport", "translation": "общественный транспорт", "example": "Public transport is cheap and fast in this city." },
+    { "term": "convenient", "translation": "удобный", "example": "Cycling in the city is fast and convenient." },
+    { "term": "polluting", "translation": "загрязняющий", "example": "Cars are more polluting than bikes." },
+    { "term": "unhealthy", "translation": "вредный для здоровья", "example": "Cycling in the city is healthy and cheap." },
+    { "term": "safe / dangerous", "translation": "безопасный / опасный", "example": "Cyclists say the new road is safe; the taxi driver says it's dangerous." },
+    { "term": "a bike sharing system", "translation": "система велопроката", "example": "The city has one of the most successful bike sharing systems in the world." },
+    { "term": "a cycle station", "translation": "велосипедная станция", "example": "Take a bike from one cycle station and leave it at any other." },
+    { "term": "a credit card / a debit card", "translation": "кредитная карта / дебетовая карта", "example": "You have to pay by credit or debit card for a year's use." },
+    { "term": "a user", "translation": "пользователь", "example": "There are 87,000 users of the bike system." },
+    { "term": "a seatbelt", "translation": "ремень безопасности", "example": "You have to wear a seatbelt in your car." },
+    { "term": "a helmet", "translation": "шлем", "example": "You don't have to wear a helmet on bikes, but it's safer if you do." },
+    { "term": "cycle / to cycle", "translation": "ездить на велосипеде", "example": "Cyclists can take a bike from one station and leave it at another." }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "You've got a headache. You ___ see a doctor.",
+    "options": ["should", "should to", "shall", "can to"],
+    "correctIndex": 0,
+    "explanation": "Should — совет: You should see a doctor.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "Don't take medicine, you ___ drink alcohol with it.",
+    "options": ["shouldn't", "should", "shall", "mustn't to"],
+    "correctIndex": 0,
+    "explanation": "Запрет-с совет: you shouldn't.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "You ___ smoke in the hospital.",
+    "options": ["shouldn't", "should", "should to", "shall"],
+    "correctIndex": 0,
+    "explanation": "Не следует: you shouldn't smoke.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "If you've got a temperature, you ___ stay in bed.",
+    "options": ["should", "can", "may", "must"],
+    "correctIndex": 0,
+    "explanation": "Совет: you should stay in bed.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "You ___ worry — it's nothing serious.",
+    "options": ["shouldn't", "should", "mustn't to", "shall"],
+    "correctIndex": 0,
+    "explanation": "shouldn't worry — «не нужно волноваться».",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "People ___ drink more than two litres of water a day.",
+    "options": ["should", "should to", "shall to", "can to"],
+    "correctIndex": 0,
+    "explanation": "Should — рекомендация.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "I've got a terrible cold. I think I ___ go to the doctor.",
+    "options": ["should", "am", "do", "can"],
+    "correctIndex": 0,
+    "explanation": "I think I should — модальность should в дополнении к I think.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  },
+  {
+    "question": "You look tired. You ___ go to bed earlier.",
+    "options": ["should", "should to", "shall", "must"],
+    "correctIndex": 0,
+    "explanation": "You should go to bed earlier — совет.",
+    "relatedRuleIds": ["i-dont-feel-well"]
+  }
+]

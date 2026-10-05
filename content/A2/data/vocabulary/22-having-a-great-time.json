@@ -1,0 +1,21 @@
+{
+  "lessonId": "having-a-great-time",
+  "title": "Having a great time — новые слова",
+  "items": [
+    { "term": "have a great time", "translation": "отлично проводить время", "example": "I'm having a great time here in Brazil." },
+    { "term": "relax", "translation": "отдыхать, расслабляться", "example": "We're relaxing by the swimming pool." },
+    { "term": "a swimming pool", "translation": "бассейн", "example": "We spend the whole day by the swimming pool." },
+    { "term": "take photos", "translation": "фотографировать", "example": "I take photos with my camera and my mobile." },
+    { "term": "put something online", "translation": "выложить что-то в интернет", "example": "I put my photos online and write comments in English." },
+    { "term": "a favourite subject", "translation": "любимая тема", "example": "My favourite subjects are people and places." },
+    { "term": "an emoticon", "translation": "смайлик, эмотикон", "example": "Women often use '<3', the emoticon for a heart." },
+    { "term": "a message", "translation": "сообщение", "example": "Researchers studied messages from over 75,000 people." },
+    { "term": "research (n/v)", "translation": "исследование / исследовать", "example": "Researchers from Penn University looked at fifteen million Facebook messages." },
+    { "term": "swear words", "translation": "бранные слова", "example": "Men often use swear words in their messages." },
+    { "term": "a girlfriend / a boyfriend", "translation": "девушка / парень", "example": "I'm in Brazil with my girlfriend." },
+    { "term": "have breakfast in bed", "translation": "завтракать в постели", "example": "Katya brought me breakfast in bed this morning." },
+    { "term": "an office", "translation": "офис", "example": "Thinking about you all in the office! See you next week." },
+    { "term": "a holiday", "translation": "отпуск", "example": "What are you thinking about? — My holiday." },
+    { "term": "get bored", "translation": "надоедать, скучать", "example": "We're waiting two hours and we're getting very bored." }
+  ]
+}

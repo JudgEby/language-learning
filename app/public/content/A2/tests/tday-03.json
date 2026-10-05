@@ -1,0 +1,302 @@
+[
+  {
+    "id": "218455f5889b",
+    "question": "___ you got any brothers or sisters?",
+    "options": [
+      "Have",
+      "Has",
+      "Haves",
+      "Is"
+    ],
+    "correctIndex": 0,
+    "explanation": "Have got с you: Have you got...?",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "b0817ef76f79",
+    "question": "She ___ got two children.",
+    "options": [
+      "has",
+      "have",
+      "having",
+      "haves"
+    ],
+    "correctIndex": 0,
+    "explanation": "С she — has got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "a87ae6c16d49",
+    "question": "___ your mother ___ job?",
+    "options": [
+      "Has ... a",
+      "Have ... a",
+      "Has ... the",
+      "Do ... has"
+    ],
+    "correctIndex": 0,
+    "explanation": "Has your mother got a job? — с she: has got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "55c003045b87",
+    "question": "They ___ got a big house.",
+    "options": [
+      "have",
+      "has",
+      "haves",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "С they — have got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "9192bf06697f",
+    "question": "We ___ got two cars.",
+    "options": [
+      "have",
+      "has",
+      "haves",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "С we — have got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "2103a2a6bed2",
+    "question": "My grandmother ___ got three cats.",
+    "options": [
+      "has",
+      "have",
+      "haves",
+      "are"
+    ],
+    "correctIndex": 0,
+    "explanation": "My grandmother — она: has got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "8cecb1d68651",
+    "question": "I ___ got an older brother, but I haven't got a sister.",
+    "options": [
+      "have",
+      "has",
+      "haves",
+      "am"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I — have got.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "940674b2765c",
+    "question": "___ you ___ TV in the evening?",
+    "options": [
+      "Do ... watch",
+      "Do ... watches",
+      "Does ... watch",
+      "Are ... watching"
+    ],
+    "correctIndex": 0,
+    "explanation": "Do you + базовый глагол: Do you watch TV?",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "436a8c7609f4",
+    "question": "She ___ four or five times a week.",
+    "options": [
+      "goes to the gym",
+      "go to the gym",
+      "gym to the goes",
+      "is go the gym"
+    ],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple: goes; после goes — to the gym.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "94d3cb2f3f70",
+    "question": "My friends ___ football very well.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
+    "correctIndex": 0,
+    "explanation": "My friends — множественное число: play.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "872765e90da5",
+    "question": "He never ___ breakfast.",
+    "options": [
+      "eats",
+      "eat",
+      "eating",
+      "to eat"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he — eats; never обычно стоит перед глаголом.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "0cb6bb267436",
+    "question": "We ___ to music in the kitchen.",
+    "options": [
+      "listen",
+      "listens",
+      "listening",
+      "listens to"
+    ],
+    "correctIndex": 0,
+    "explanation": "С we — listen (без -s).",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "7d24384b071c",
+    "question": "Does she ___ really watch soap operas?",
+    "options": [
+      "really",
+      "realy",
+      "rly",
+      "real"
+    ],
+    "correctIndex": 0,
+    "explanation": "Наречие really пишется с двумя l.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "5e33dcc6dc73",
+    "question": "You ___ never drink coffee.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "aren't"
+    ],
+    "correctIndex": 0,
+    "explanation": "С you отрицание: don't.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "dac1126b2a73",
+    "question": "Are you ___ tonight? — Yes, I'm free.",
+    "options": [
+      "free",
+      "freely",
+      "freeing",
+      "frees"
+    ],
+    "correctIndex": 0,
+    "explanation": "Free — прилагательное: Are you free tonight?",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "9a06a2bb79b0",
+    "question": "Would you like ___ on Friday?",
+    "options": [
+      "to go",
+      "go",
+      "going",
+      "goes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would you like + to + глагол.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "98ca7132596f",
+    "question": "Shall we ___ at eight?",
+    "options": [
+      "meet",
+      "meets",
+      "meeting",
+      "to meet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shall we + базовый глагол.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "5e6b68ddb1f6",
+    "question": "I'm busy ___ Monday, but I'm free ___ Tuesday.",
+    "options": [
+      "on / on",
+      "in / in",
+      "at / at",
+      "on / at"
+    ],
+    "correctIndex": 0,
+    "explanation": "Дни недели — с on: on Monday, on Tuesday.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "de257189a92e",
+    "question": "What time ___ you free?",
+    "options": [
+      "are",
+      "do",
+      "is",
+      "have"
+    ],
+    "correctIndex": 0,
+    "explanation": "Free — прилагательное, перед ним глагол to be.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "8e427ac81d2b",
+    "question": "Let's ___ a film tonight.",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "to watch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Let's + базовый глагол.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  }
+]

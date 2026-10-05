@@ -1,0 +1,58 @@
+[
+  {
+    "question": "She solved the problem very ___ .",
+    "options": ["quickly", "quick", "quickerly", "quickest"],
+    "correctIndex": 0,
+    "explanation": "Наречие быстро = quickly (ly).",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "He speaks English ___ .",
+    "options": ["fluently", "fluent", "fluentily", "more fluent"],
+    "correctIndex": 0,
+    "explanation": "Fluently — от fluent + ly.",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "Please work ___ . We haven't got much time.",
+    "options": ["carefully", "careful", "carefuly", "carefullier"],
+    "correctIndex": 0,
+    "explanation": "Carefully — внимательно.",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "She did the homework ___ and got an A.",
+    "options": ["hard", "hardly", "harder", "harding"],
+    "correctIndex": 0,
+    "explanation": "Hard — много; hardly — едва (почти не).",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "Can you ___ speak more slowly?",
+    "options": ["please", "pleasely", "pleaseing", "pleased"],
+    "correctIndex": 0,
+    "explanation": "Please — пожалуйста (отдельное слово).",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "The children played ___ in the garden.",
+    "options": ["happily", "happy", "happilyly", "happyer"],
+    "correctIndex": 0,
+    "explanation": "Happily — от happy + ly.",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "He was ___ tired to walk home.",
+    "options": ["too", "so to", "enough", "very"],
+    "correctIndex": 0,
+    "explanation": "Too + прилагательное + to — слишком, чтобы.",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  },
+  {
+    "question": "Nobody understood the lesson ___, so I explained it again.",
+    "options": ["at all", "in all", "for all", "of all"],
+    "correctIndex": 0,
+    "explanation": "Not/nobody ... at all — совсем не.",
+    "relatedRuleIds": ["one-thing-at-a-time"]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lessonId": "lets-do-something-new",
+  "title": "Let's do something new — новые слова",
+  "items": [
+    { "term": "suggest", "translation": "предлагать", "example": "Student A makes a suggestion and Student B responds to it." },
+    { "term": "a suggestion", "translation": "предложение (идея)", "example": "That's a great suggestion, but I'm tired." },
+    { "term": "an exhibition", "translation": "выставка", "example": "There's an exhibition of photographs in the museum." },
+    { "term": "a dance performance", "translation": "танцевальное представление", "example": "The dance performance starts at seven thirty." },
+    { "term": "a concert", "translation": "концерт", "example": "Shall we go to a concert on Friday?" },
+    { "term": "a play", "translation": "пьеса, спектакль", "example": "The play is about life in a small town." },
+    { "term": "a club / clubbing", "translation": "клуб / тусовка", "example": "Clubbing is expensive in London." },
+    { "term": "silent disco", "translation": "тихая дискотека (в наушниках)", "example": "A silent disco: everyone wears headphones and dances to their own music." },
+    { "term": "a blind date", "translation": "свидание вслепую", "example": "Blind Date Cinema — Friday at seven thirty." },
+    { "term": "museum meditation", "translation": "медитация в музее", "example": "Museum Meditation — Saturday and Sunday afternoons." },
+    { "term": "a statue", "translation": "статуя", "example": "There's a famous statue in the square." },
+    { "term": "go clubbing", "translation": "пойти в клубы", "example": "I don't feel like going clubbing tonight." },
+    { "term": "an alternative", "translation": "альтернативный", "example": "Why is the website called Alternative City? — It has unusual events." },
+    { "term": "feel like doing something", "translation": "хотеть, быть в настроении что-то делать", "example": "I don't feel like doing that. It's too cold." },
+    { "term": "What can we do at the weekend?", "translation": "Что мы можем сделать на выходных?", "example": "What can we do at the weekend? — Let's go to a museum." }
+  ]
+}

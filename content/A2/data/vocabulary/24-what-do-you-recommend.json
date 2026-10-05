@@ -1,0 +1,24 @@
+{
+  "lessonId": "what-do-you-recommend",
+  "title": "What do you recommend? — новые слова",
+  "items": [
+    { "term": "recommend", "translation": "рекомендовать, советовать", "example": "Can you recommend a good film for a train journey?" },
+    { "term": "suggest", "translation": "предлагать", "example": "I suggest a comedy — it's funny and short." },
+    { "term": "a film", "translation": "фильм", "example": "The film is about two guys on a train." },
+    { "term": "a comedy", "translation": "комедия", "example": "I like musicals and comedies." },
+    { "term": "an animated film", "translation": "мультфильм", "example": "My son only watches animated films." },
+    { "term": "a musical", "translation": "мюзикл", "example": "There's a lot of singing and dancing in this musical." },
+    { "term": "a sci-fi film", "translation": "фантастика", "example": "A sci-fi film is usually about space travel or aliens." },
+    { "term": "a horror film", "translation": "фильм ужасов", "example": "I don't really like horror films." },
+    { "term": "a romantic film", "translation": "романтический фильм", "example": "People fall in love in a romantic film." },
+    { "term": "a drama", "translation": "драма", "example": "She likes dramas, but I prefer comedies." },
+    { "term": "an action film", "translation": "боевик", "example": "There are usually a lot of guns and car chases in an action film." },
+    { "term": "the acting", "translation": "актёрская игра", "example": "I like the film, but the acting is not great." },
+    { "term": "the photography", "translation": "операторская работа, фотография", "example": "The photography in this film is excellent." },
+    { "term": "be about", "translation": "быть о (чём-то)", "example": "What's it about? — About space travel." },
+    { "term": "be too scary for somebody", "translation": "быть слишком страшным для кого-то", "example": "This film can be too scary for me." },
+    { "term": "an alien", "translation": "инопланетянин", "example": "A sci-fi film is usually about aliens." },
+    { "term": "a car chase", "translation": "погоня на машинах", "example": "There are a lot of car chases in action films." },
+    { "term": "a long train journey", "translation": "долгая поездка на поезде", "example": "I've got a long train journey this weekend." }
+  ]
+}

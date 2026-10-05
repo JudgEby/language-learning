@@ -1,0 +1,58 @@
+[
+  {
+    "question": "A coffee, ___ .",
+    "options": ["please", "pleases", "please to", "pleasing"],
+    "correctIndex": 0,
+    "explanation": "Просьба в кафе: пожалуйста = please.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "Can I have ___ tea, please?",
+    "options": ["a", "some", "an", "many"],
+    "correctIndex": 0,
+    "explanation": "Tea — исчисляемое: a tea.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "___ you like some coffee?",
+    "options": ["Would", "Do", "Are", "Did"],
+    "correctIndex": 0,
+    "explanation": "Would you like... ? — вежливое предложение.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "Do you want ___ sugar in your coffee?",
+    "options": ["any", "a", "some many", "a many"],
+    "correctIndex": 0,
+    "explanation": "В вопросе с do you want — any sugar.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "I'd like ___ sandwich and ___ orange juice, please.",
+    "options": ["a / some", "some / a", "an / some", "a / a"],
+    "correctIndex": 0,
+    "explanation": "Sandwich — исчисляемое (a), juice — неисчисляемое (some).",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "Sorry, ___ we don't serve breakfast after eleven.",
+    "options": ["but", "and", "or", "so"],
+    "correctIndex": 0,
+    "explanation": "But — в значении «но».",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "Can I have the bill, ___?",
+    "options": ["please", "pleases", "please to", "a please"],
+    "correctIndex": 0,
+    "explanation": "Can I have..., please — просьба.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  },
+  {
+    "question": "What ___ you like to drink?",
+    "options": ["would", "do", "did", "should"],
+    "correctIndex": 0,
+    "explanation": "What would you like to drink? — предложение.",
+    "relatedRuleIds": ["can-i-have-a-coffee"]
+  }
+]

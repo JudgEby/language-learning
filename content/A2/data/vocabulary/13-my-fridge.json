@@ -1,0 +1,24 @@
+{
+  "lessonId": "my-fridge",
+  "title": "My fridge — новые слова",
+  "items": [
+    { "term": "cheese", "translation": "сыр", "example": "I love cheese — I buy it every week." },
+    { "term": "milk", "translation": "молоко", "example": "Have you got any milk in the fridge?" },
+    { "term": "a banana", "translation": "банан", "example": "I really like bananas with porridge." },
+    { "term": "a potato", "translation": "картофелина", "example": "We need three potatoes for the salad." },
+    { "term": "an egg", "translation": "яйцо", "example": "Eggs are OK, but I don't eat them every day." },
+    { "term": "garlic", "translation": "чеснок", "example": "I don't like garlic — it's too strong." },
+    { "term": "a tomato", "translation": "помидор", "example": "Have we got any tomato? We've got some tomatoes." },
+    { "term": "a carrot", "translation": "морковь", "example": "Add two carrots to the salad." },
+    { "term": "broccoli", "translation": "брокколи", "example": "He's got some broccoli and a green pepper." },
+    { "term": "an onion", "translation": "лук", "example": "I haven't got any onions for the salad." },
+    { "term": "a cucumber", "translation": "огурец", "example": "I've got a cucumber but no tomatoes." },
+    { "term": "lettuce", "translation": "салат (листовая зелень)", "example": "There's some lettuce to make a salad." },
+    { "term": "oil", "translation": "масло", "example": "Have I got any oil? — Ah yes, here it is." },
+    { "term": "fresh fish", "translation": "свежая рыба", "example": "I've got fresh fish to grill." },
+    { "term": "a takeaway", "translation": "еда на вынос", "example": "He eats takeaway food three times a week." },
+    { "term": "junk food", "translation": "вредная еда, фастфуд", "example": "Too much junk food is bad for your health." },
+    { "term": "a snack", "translation": "перекус, закуска", "example": "My favourite snack is chocolate and fruit." },
+    { "term": "a balanced diet", "translation": "сбалансированное питание", "example": "André tries to have a balanced diet." }
+  ]
+}

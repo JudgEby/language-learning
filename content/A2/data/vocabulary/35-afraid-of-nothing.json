@@ -1,0 +1,23 @@
+{
+  "lessonId": "afraid-of-nothing",
+  "title": "Afraid of nothing — новые слова",
+  "items": [
+    { "term": "a stunt double", "translation": "каскадёр, актёр-двойник", "example": "Eunice is a stunt double in films." },
+    { "term": "a stunt", "translation": "трюк (в кино)", "example": "There's a great stunt in which his car has to jump across a fifteen-metre gap." },
+    { "term": "a stunt woman / a stuntman", "translation": "каскадёрша / каскадёр", "example": "She started doing stunt work over fifteen years ago." },
+    { "term": "a stunt director", "translation": "постановщик трюков", "example": "Now she works more as a stunt director." },
+    { "term": "crash a car", "translation": "разбить машину", "example": "Crashing a car at high speed is part of the job." },
+    { "term": "jump off something", "translation": "прыгнуть с чего-то", "example": "She jumped off ships and fallen off buildings." },
+    { "term": "fall off something", "translation": "упасть с чего-то", "example": "She has fallen off buildings in films." },
+    { "term": "a broken bone", "translation": "перелом", "example": "She has broken some bones during her career." },
+    { "term": "an injury", "translation": "травма", "example": "Broken bones and other injuries are normal for stunt doubles." },
+    { "term": "an ache", "translation": "ноющая боль", "example": "She woke up with a few aches and pains." },
+    { "term": "the challenge", "translation": "вызов, испытание", "example": "Most stunt performers talk about the excitement and the challenge." },
+    { "term": "be memorable", "translation": "быть запоминающимся", "example": "It was the most memorable moment in her life." },
+    { "term": "be afraid of", "translation": "бояться", "example": "Are you afraid of heights?" },
+    { "term": "towards something", "translation": "по направлению к чему-то", "example": "He was running towards the bridge." },
+    { "term": "away from something", "translation": "прочь от чего-то", "example": "Move away from the building — it's dangerous." },
+    { "term": "across the bridge", "translation": "через мост", "example": "They walked across the bridge together." },
+    { "term": "under the bridge", "translation": "под мостом", "example": "The boat went under the bridge." }
+  ]
+}

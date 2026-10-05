@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Can I ___ you with that bag?",
+    "options": ["help", "helps", "helping", "to help"],
+    "correctIndex": 0,
+    "explanation": "Can + базовый глагол: Can I help you...?",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Can you help me, ___?",
+    "options": ["please", "pleases", "please to", "a please"],
+    "correctIndex": 0,
+    "explanation": "Просьба: Can you..., please?",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Can you help ___? I'm looking for the station.",
+    "options": ["me", "I", "my", "mine"],
+    "correctIndex": 0,
+    "explanation": "После help в значении «помочь» — объектный случай: help me.",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Of course, ___ anything else?",
+    "options": ["can I do", "I can do", "do I can", "I do can"],
+    "correctIndex": 0,
+    "explanation": "Can I do anything else? — вспомогательный can стоит в начале.",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "No, that's OK, you ___ help me.",
+    "options": ["don't have to", "don't have", "haven't to", "not have to"],
+    "correctIndex": 0,
+    "explanation": "Не обязательно: you don't have to.",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Could you help ___ ? — Sure, no problem.",
+    "options": ["me", "I", "my", "to me"],
+    "correctIndex": 0,
+    "explanation": "Could you help me? — объектный случай.",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Yes, I can ___ you with that.",
+    "options": ["help", "helps", "helped", "helping"],
+    "correctIndex": 0,
+    "explanation": "Can + базовая форма: I can help.",
+    "relatedRuleIds": ["can-i-help-you"]
+  },
+  {
+    "question": "Here you are. Does ___ help?",
+    "options": ["this", "these", "those", "this one helps"],
+    "correctIndex": 0,
+    "explanation": "Does this help? — единственное число.",
+    "relatedRuleIds": ["can-i-help-you"]
+  }
+]

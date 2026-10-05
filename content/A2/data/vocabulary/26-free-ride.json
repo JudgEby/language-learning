@@ -1,0 +1,24 @@
+{
+  "lessonId": "free-ride",
+  "title": "Free ride — новые слова",
+  "items": [
+    { "term": "a train", "translation": "поезд", "example": "I travel by train to work — it's faster than the bus." },
+    { "term": "a taxi", "translation": "такси", "example": "We took a taxi from the hotel to the station." },
+    { "term": "get into / out of", "translation": "сесть в / выйти из", "example": "You get into a car and a taxi, and you get out of a train." },
+    { "term": "get on / off", "translation": "сесть на / сойти (с транспорта, велосипеда)", "example": "You get on a train, a bus or a bike." },
+    { "term": "ride / go by bike", "translation": "ехать на велосипеде", "example": "You go by bike, get on a bike and ride a bike." },
+    { "term": "a motorbike", "translation": "мотоцикл", "example": "In summer he rides his motorbike to work." },
+    { "term": "get on foot", "translation": "идти пешком", "example": "The station is ten minutes on foot." },
+    { "term": "a plane / a flight", "translation": "самолёт / рейс", "example": "Do you prefer to travel by plane?" },
+    { "term": "a ship / a boat", "translation": "корабль / лодка", "example": "Travel by water is slow but very relaxing." },
+    { "term": "a ferry", "translation": "паром", "example": "We took the ferry across the bay." },
+    { "term": "hitchhike", "translation": "путешествовать автостопом", "example": "In Cuba all government cars have to pick up hitchhikers." },
+    { "term": "a hitchhiker", "translation": "автостопщик", "example": "All government vans have to pick up hitchhikers." },
+    { "term": "a speed limit", "translation": "ограничение скорости", "example": "There is no speed limit on autobahns in Germany." },
+    { "term": "an autobahn", "translation": "автобан", "example": "In Germany there is no speed limit on autobahns." },
+    { "term": "a carriage", "translation": "вагон", "example": "There are women-only carriages on some trains in Japan." },
+    { "term": "a petrol car", "translation": "бензиновый автомобиль", "example": "In Zermatt you can't drive a petrol car, only an electric one." },
+    { "term": "an electric car", "translation": "электромобиль", "example": "Only an electric car is allowed in Zermatt." },
+    { "term": "travel by water", "translation": "путешествовать по воде", "example": "Which is the most expensive: by road, by rail or by water?" }
+  ]
+}

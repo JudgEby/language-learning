@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ I get the station, please?",
+    "options": ["How can", "How do", "How I can", "How does"],
+    "correctIndex": 0,
+    "explanation": "How can I...? — вспомогательный can в начале.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "Go straight ___ and turn left at the bank.",
+    "options": ["on", "in", "at", "to"],
+    "correctIndex": 0,
+    "explanation": "Идти прямо: go straight on.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "It's ___ next to the post office.",
+    "options": ["opposite", "opposit", "opposite of", "opposite to"],
+    "correctIndex": 0,
+    "explanation": "Напротив — opposite.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "Turn right ___ the traffic lights.",
+    "options": ["at", "in", "on", "to"],
+    "correctIndex": 0,
+    "explanation": "Повернуть на светофоре: at the traffic lights.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "Take the second street ___ the left.",
+    "options": ["on", "in", "at", "to"],
+    "correctIndex": 0,
+    "explanation": "По второй улице налево: on the left.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "The museum is ___ the corner of Green Street.",
+    "options": ["on", "in", "at", "to"],
+    "correctIndex": 0,
+    "explanation": "На углу — on the corner.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "Go ___ the bridge and past the church.",
+    "options": ["over", "under", "in", "at"],
+    "correctIndex": 0,
+    "explanation": "По мосту — over the bridge.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  },
+  {
+    "question": "___ about three kilometres from here.",
+    "options": ["It's", "Its", "Is", "Its'"],
+    "correctIndex": 0,
+    "explanation": "It's — сокращение от it is.",
+    "relatedRuleIds": ["can-you-tell-me-the-way"]
+  }
+]

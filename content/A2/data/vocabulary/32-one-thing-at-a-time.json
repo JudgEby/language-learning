@@ -1,0 +1,23 @@
+{
+  "lessonId": "one-thing-at-a-time",
+  "title": "One thing at a time — новые слова",
+  "items": [
+    { "term": "multi-task / to multi-task", "translation": "заниматься несколькими делами одновременно", "example": "My friend is a typical multi-tasker." },
+    { "term": "a multi-tasker", "translation": "тот, кто делает несколько дел сразу", "example": "Multi-taskers do less work in an eight-hour day." },
+    { "term": "one thing at a time", "translation": "одно дело за раз", "example": "It's easy: do one thing at a time." },
+    { "term": "a text message", "translation": "текстовое сообщение", "example": "In one hour she answered three text messages." },
+    { "term": "answer / get a text message", "translation": "ответить / получить сообщение", "example": "She answered three text messages in one hour." },
+    { "term": "check your email", "translation": "проверить почту", "example": "He checked his email and ordered his food." },
+    { "term": "order food", "translation": "заказать еду", "example": "We ordered our food and then paid for it." },
+    { "term": "pay for something", "translation": "платить за что-то", "example": "She ordered her food, ate it and paid for it." },
+    { "term": "have a conversation", "translation": "вести разговор", "example": "We had two short phone conversations." },
+    { "term": "turn on / off", "translation": "включить / выключить", "example": "Turn your phone off — let's talk and listen." },
+    { "term": "exchange", "translation": "обмениваться", "example": "We exchanged phone numbers after lunch." },
+    { "term": "remember a name / a number", "translation": "помнить имя / номер", "example": "When you multi-task you forget names and numbers." },
+    { "term": "remember something easily", "translation": "легко запоминать", "example": "You can't remember normal things easily." },
+    { "term": "stress levels", "translation": "уровень стресса", "example": "When you multi-task, your stress levels go up." },
+    { "term": "a bank PIN number", "translation": "банковский ПИН-код", "example": "You can't remember your bank PIN number." },
+    { "term": "carefully", "translation": "внимательно, тщательно", "example": "You don't listen to them carefully." },
+    { "term": "loudly / quietly", "translation": "громко / тихо", "example": "Always have music? No — he listens quietly." }
+  ]
+}

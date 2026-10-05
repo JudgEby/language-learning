@@ -1,0 +1,58 @@
+[
+  {
+    "question": "I'd ___ to see the new film.",
+    "options": ["like", "likes", "liking", "to like"],
+    "correctIndex": 0,
+    "explanation": "Would like + to + инфинитив: I'd like to see.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "We're ___ to fly to Rome next month.",
+    "options": ["going", "go", "went", "gone"],
+    "correctIndex": 0,
+    "explanation": "Be going to — plans: We're going to fly.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "She ___ going to study medicine.",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "С she — is going to.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "What are you ___ at the weekend?",
+    "options": ["doing", "do", "does", "did"],
+    "correctIndex": 0,
+    "explanation": "What are you doing? — present continuous.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "I'm ___ my driving test in June.",
+    "options": ["taking", "take", "takes", "to take"],
+    "correctIndex": 0,
+    "explanation": "Present continuous: I'm taking my test.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "We ___ to visit our friends in Wales.",
+    "options": ["are going", "go", "was going", "am going"],
+    "correctIndex": 0,
+    "explanation": "С we — are going to.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "He ___ going to visit his friends in Wales.",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "С he — is going to.",
+    "relatedRuleIds": ["free-ride"]
+  },
+  {
+    "question": "I'm not going to the party. ___ you?",
+    "options": ["Are", "Is", "Am", "Do"],
+    "correctIndex": 0,
+    "explanation": "Are you? — Are, так как you.",
+    "relatedRuleIds": ["free-ride"]
+  }
+]

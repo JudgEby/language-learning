@@ -1,0 +1,21 @@
+{
+  "lessonId": "can-i-have-a-coffee",
+  "title": "Can I have a coffee? — новые слова",
+  "items": [
+    { "term": "a tourist shop", "translation": "туристический магазин", "example": "You can buy a souvenir in a tourist shop." },
+    { "term": "a snack bar", "translation": "закусочная", "example": "Let's have a coffee and a sandwich at the snack bar." },
+    { "term": "a train station", "translation": "вокзал", "example": "The train station is a good place to buy a return ticket." },
+    { "term": "a platform", "translation": "платформа", "example": "The train to Berlin leaves from platform 4." },
+    { "term": "a single ticket", "translation": "билет в одну сторону", "example": "Can I have a single ticket to Sydney, please?" },
+    { "term": "a return ticket", "translation": "обратный билет", "example": "A return ticket to Madrid costs forty euros." },
+    { "term": "a postcard", "translation": "открытка", "example": "Could I have one of those postcards, please?" },
+    { "term": "a souvenir", "translation": "сувенир", "example": "The woman buys a souvenir for her son." },
+    { "term": "a battery", "translation": "батарейка", "example": "Can I have one of those batteries, please?" },
+    { "term": "an apple juice", "translation": "яблочный сок", "example": "Can I have a sandwich and an apple juice, please?" },
+    { "term": "a coffee", "translation": "кофе", "example": "A coffee and a cheese sandwich — that's four euros fifty." },
+    { "term": "a sandwich", "translation": "бутерброд", "example": "How much is the sandwich?" },
+    { "term": "mineral water", "translation": "минеральная вода", "example": "A bottle of mineral water is one euro forty." },
+    { "term": "hot chocolate", "translation": "горячий шоколад", "example": "On a cold day I want a hot chocolate." },
+    { "term": "a menu", "translation": "меню", "example": "Could I see the menu, please?" }
+  ]
+}

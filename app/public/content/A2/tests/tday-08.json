@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c234fdc19557",
+    "question": "Look! The children ___ in the garden.",
+    "options": [
+      "are playing",
+      "plays",
+      "play",
+      "is playing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous: am/is/are + verb-ing.",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "ff6e39b70b48",
+    "question": "She ___ her hair at the moment.",
+    "options": [
+      "is washing",
+      "washes",
+      "wash",
+      "washs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wash → washing (убираем e).",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "0e922c1cd5de",
+    "question": "What ___ they doing?",
+    "options": [
+      "are",
+      "do",
+      "is",
+      "am"
+    ],
+    "correctIndex": 0,
+    "explanation": "С they — are.",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "869e464605a7",
+    "question": "They ___ dinner at the moment.",
+    "options": [
+      "aren't having",
+      "not having",
+      "doesn't have",
+      "isn't having"
+    ],
+    "correctIndex": 0,
+    "explanation": "Отрицание: aren't + verb-ing.",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "79507dfb1285",
+    "question": "I ___ to music now.",
+    "options": [
+      "am listening",
+      "listens",
+      "am listen",
+      "listening"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I — am listening.",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "2d2cf0ec429c",
+    "question": "Sit down. You ___ in the wrong seat.",
+    "options": [
+      "are sitting",
+      "sits",
+      "is sitting",
+      "are sit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sit → sitting (удвоение t).",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "70415656f2ca",
+    "question": "He ___ TV while his sister ___.",
+    "options": [
+      "is watching / is doing her homework",
+      "watches / does",
+      "is watch / is doing",
+      "watching / doing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Два Present Continuous с while.",
+    "relatedRuleIds": [
+      "having-a-great-time"
+    ]
+  },
+  {
+    "id": "74c48e20a017",
+    "question": "A holiday in the mountains ___ you back to nature.",
+    "options": [
+      "takes",
+      "take",
+      "taking",
+      "is take"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present simple: takes + back (частица to back).",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "9951f347b091",
+    "question": "I ___ to the gym three times a week.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "to go"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I — базовая форма: go.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "b8f21611f7df",
+    "question": "___ he live in London?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he — does.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "727720de6400",
+    "question": "The city ___ much quieter at night.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "The city — единственное число: is.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "a716fdac3615",
+    "question": "Air travel is much ___ than travelling by train.",
+    "options": [
+      "faster",
+      "fast",
+      "fastest",
+      "the fastest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Faster — сравнительная форма.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "cfcb3d7866a7",
+    "question": "They ___ for six months.",
+    "options": [
+      "have worked",
+      "has worked",
+      "work",
+      "worked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: have/has + вторая форма глагола (past participle).",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "c93fa249139d",
+    "question": "I've ___ in that hotel twice.",
+    "options": [
+      "stayed",
+      "stay",
+      "staying",
+      "am stay"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: stayed (вторая форма глагола).",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "2a5dc00e4287",
+    "question": "I usually ___ to the office by bus.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "am go"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I в Present simple — базовая форма: go.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "ae0dcda99a8b",
+    "question": "What do you ___ for a weekend in Prague?",
+    "options": [
+      "recommend",
+      "recommends",
+      "recommending",
+      "to recommend"
+    ],
+    "correctIndex": 0,
+    "explanation": "Do you — базовая форма: recommend.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "ad94be59587b",
+    "question": "___ you like to go camping in summer?",
+    "options": [
+      "Would",
+      "Do",
+      "Did",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would you like to...? — предложение.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "0171d2898bf7",
+    "question": "I'd love ___ some local food.",
+    "options": [
+      "to try",
+      "trying",
+      "try",
+      "tries"
+    ],
+    "correctIndex": 0,
+    "explanation": "I'd love + to + инфинитив.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "3f3992d6c427",
+    "question": "She's very interested ___ history.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "for"
+    ],
+    "correctIndex": 0,
+    "explanation": "be interested in — интересоваться.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "83ba29bf45d7",
+    "question": "Can you ___ me a good restaurant?",
+    "options": [
+      "recommend",
+      "recommends",
+      "recommending",
+      "to recommend"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can you + базовый глагол: recommend.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "It's very kind ___ you to invite me.",
+    "options": ["of", "to", "for", "with"],
+    "correctIndex": 0,
+    "explanation": "Конструкция It + прилагательное + of + подлежащее: It's kind of you.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "Sorry, I ___ you. Can you repeat that?",
+    "options": ["didn't hear", "don't hear", "wasn't hear", "am not hear"],
+    "correctIndex": 0,
+    "explanation": "Прошедшее время: didn't hear.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "Thank you for ___ me.",
+    "options": ["helping", "help", "to help", "helped"],
+    "correctIndex": 0,
+    "explanation": "Thank you for + герундий: for helping.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "Excuse me, could you say that ___?",
+    "options": ["again", "again more", "more again", "againly"],
+    "correctIndex": 0,
+    "explanation": "Say ... again — стандартная просьба.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "I apologize ___ keeping you waiting.",
+    "options": ["for", "to", "of", "with"],
+    "correctIndex": 0,
+    "explanation": "apologize for — извиняться за.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "Don't worry about it. It's ___ big deal.",
+    "options": ["no", "not", "nothing", "any"],
+    "correctIndex": 0,
+    "explanation": "No big deal — ничего страшного.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "___ you mind speaking more slowly?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctIndex": 0,
+    "explanation": "Do you mind +ing — вежливая просьба.",
+    "relatedRuleIds": ["sorry-im-late"]
+  },
+  {
+    "question": "Thanks for waiting. The train ___ late.",
+    "options": ["was", "is", "were", "are"],
+    "correctIndex": 0,
+    "explanation": "Прошедшее время: The train was late.",
+    "relatedRuleIds": ["sorry-im-late"]
+  }
+]

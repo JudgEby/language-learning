@@ -1,0 +1,21 @@
+{
+  "lessonId": "are-you-ready-to-order",
+  "title": "Are you ready to order? — новые слова",
+  "items": [
+    { "term": "a menu", "translation": "меню", "example": "Could we have the menu, please?" },
+    { "term": "a bill", "translation": "счёт", "example": "Can we have the bill, please?" },
+    { "term": "a tip", "translation": "чаевые", "example": "A tip for good service is about ten per cent." },
+    { "term": "a dish", "translation": "блюдо", "example": "The fish dish is the best thing on the menu." },
+    { "term": "a starter", "translation": "закуска (первое блюдо)", "example": "As a starter, I'd like the soup." },
+    { "term": "a main course", "translation": "горячее блюдо", "example": "For my main course I'll have the chicken." },
+    { "term": "a dessert", "translation": "десерт", "example": "Is there a dessert menu? — Yes, we have ice cream." },
+    { "term": "a waiter / a waitress", "translation": "официант / официантка", "example": "The waiter brings the food and takes the order." },
+    { "term": "a chef", "translation": "повар", "example": "The chef cooks the food in the kitchen." },
+    { "term": "a table for two", "translation": "стол на двоих", "example": "Good evening. A table for two? — Yes, please." },
+    { "term": "order", "translation": "заказать, заказ", "example": "Are you ready to order? — Yes, please." },
+    { "term": "eat in / take away", "translation": "есть на месте / взять с собой", "example": "Is that eat in or take away?" },
+    { "term": "special", "translation": "фирменное блюдо", "example": "Tonight's special is grilled salmon." },
+    { "term": "a medium size", "translation": "средний размер", "example": "A coffee, medium size, please." },
+    { "term": "the service", "translation": "обслуживание", "example": "The service in this restaurant is excellent." }
+  ]
+}

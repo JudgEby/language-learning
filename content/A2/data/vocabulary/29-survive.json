@@ -1,0 +1,25 @@
+{
+  "lessonId": "survive",
+  "title": "Survive — новые слова",
+  "items": [
+    { "term": "survive", "translation": "выжить, пережить", "example": "Who is the best survivor?" },
+    { "term": "get wet", "translation": "намокнуть", "example": "I didn't take an umbrella and I got wet." },
+    { "term": "get cold", "translation": "замёрзнуть, стать холодно", "example": "There's no central heating and we often get cold." },
+    { "term": "get hot", "translation": "стать жарко", "example": "When I go to the gym in summer I get hot." },
+    { "term": "get tired", "translation": "устать", "example": "We stayed up too late and got really tired." },
+    { "term": "get hungry", "translation": "проголодаться", "example": "I didn't eat breakfast, so I'm getting hungry." },
+    { "term": "get thirsty", "translation": "захотеть пить", "example": "I didn't drink anything all day so I got thirsty." },
+    { "term": "get lost", "translation": "заблудиться", "example": "I didn't have a satnav or a map, so I got lost." },
+    { "term": "get sunburnt", "translation": "обгореть на солнце", "example": "I stayed out in the sun and got sunburnt." },
+    { "term": "get stung", "translation": "быть укушенным (насекомым)", "example": "I put my hand on a bee and got stung." },
+    { "term": "get warm", "translation": "согреться", "example": "Can I sit by the fire? I need to get warm." },
+    { "term": "an earthquake", "translation": "землетрясение", "example": "You are at home and there is an earthquake. What do you do?" },
+    { "term": "lightning", "translation": "молния", "example": "A storm starts and there is lightning on the hill." },
+    { "term": "an ice pack", "translation": "пакет со льдом", "example": "Take an ice pack for a headache." },
+    { "term": "a signal", "translation": "сигнал (связь)", "example": "A mobile won't work because there's no signal." },
+    { "term": "a shelter", "translation": "укрытие", "example": "Find a shelter before the storm starts." },
+    { "term": "a mirror", "translation": "зеркало", "example": "Take a mirror to check if you have a piece of glass in your eye." },
+    { "term": "soap", "translation": "мыло", "example": "You can wash the cut with soap and water." },
+    { "term": "central heating", "translation": "центральное отопление", "example": "There's no central heating in this old house." }
+  ]
+}

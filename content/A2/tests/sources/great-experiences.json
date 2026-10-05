@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ you ever been to Japan?",
+    "options": ["Have", "Did", "Are", "Do"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: Have you ever been...?",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "She's just ___ home from work.",
+    "options": ["got", "get", "gotten", "getting"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: has just got.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "I ___ never eaten sushi.",
+    "options": ["have", "has", "am", "did"],
+    "correctIndex": 0,
+    "explanation": "С I — have never eaten.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "Have you ___ finished your project yet?",
+    "options": ["already", "still", "yet already", "always yet"],
+    "correctIndex": 0,
+    "explanation": "Уже — already в вопросе.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "He has ___ been to Australia.",
+    "options": ["never", "ever", "yet", "already"],
+    "correctIndex": 0,
+    "explanation": "Has never been — отрицание с never.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "___ they have finished the project?",
+    "options": ["Have", "Has", "Is", "Do"],
+    "correctIndex": 0,
+    "explanation": "С they — have finished.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "Have you seen the film ___ ?",
+    "options": ["yet", "still", "already ever", "since"],
+    "correctIndex": 0,
+    "explanation": "Yet — в вопросе и отрицании.",
+    "relatedRuleIds": ["great-experiences"]
+  },
+  {
+    "question": "I've ___ finished my homework.",
+    "options": ["already", "yet", "ever", "never"],
+    "correctIndex": 0,
+    "explanation": "Already — в утверждении.",
+    "relatedRuleIds": ["great-experiences"]
+  }
+]

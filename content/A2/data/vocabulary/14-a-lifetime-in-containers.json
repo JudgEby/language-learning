@@ -1,0 +1,22 @@
+{
+  "lessonId": "a-lifetime-in-containers",
+  "title": "A lifetime in containers — новые слова",
+  "items": [
+    { "term": "a bowl", "translation": "миска", "example": "Put the cornflakes in a bowl." },
+    { "term": "a jar", "translation": "банка", "example": "There's a jar of coffee on the table." },
+    { "term": "a bottle", "translation": "бутылка", "example": "A bottle of mineral water is in the fridge." },
+    { "term": "a bag", "translation": "пакет", "example": "He buys a bag of rice and two tins of beans." },
+    { "term": "a cup", "translation": "чашка", "example": "People in the UK drink about eight cups of tea a day." },
+    { "term": "a tin / a can", "translation": "банка (консервы)", "example": "Soft drinks have about seven spoonfuls of sugar in a can." },
+    { "term": "a carton", "translation": "пакет, коробка", "example": "A carton of milk is enough for two people." },
+    { "term": "a packet", "translation": "упаковка", "example": "Buy a packet of biscuits for the coffee break." },
+    { "term": "a glass", "translation": "стакан", "example": "Could I have a glass of water, please?" },
+    { "term": "a mug", "translation": "кружка", "example": "She drinks her morning tea from a big mug." },
+    { "term": "on average", "translation": "в среднем", "example": "On average, Brazilians eat about 99 kilos of beans in their lives." },
+    { "term": "a vegetarian", "translation": "вегетарианец", "example": "If you're a vegetarian, do you like beans?" },
+    { "term": "meat-eater", "translation": "любитель мяса", "example": "Meat-eaters in Europe eat sheep, chickens and cows in their lifetime." },
+    { "term": "kilo", "translation": "килограмм", "example": "They use 13 kilos of coffee beans a year." },
+    { "term": "litre", "translation": "литр", "example": "An average person drinks about a thousand litres of water in their lifetime." },
+    { "term": "soft drinks", "translation": "безалкогольные напитки", "example": "Soft drinks have a lot of sugar in them." }
+  ]
+}

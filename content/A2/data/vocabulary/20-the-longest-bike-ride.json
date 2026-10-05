@@ -1,0 +1,22 @@
+{
+  "lessonId": "the-longest-bike-ride",
+  "title": "The longest bike ride — новые слова",
+  "items": [
+    { "term": "a bicycle tour", "translation": "велосипедный тур", "example": "It is the longest bicycle tour in the world." },
+    { "term": "a ride", "translation": "поездка, пробег", "example": "In eighteen weeks you travel over 12,000 kilometres — it's the ride of your life." },
+    { "term": "a camel", "translation": "верблюд", "example": "A thousand years ago people travelled by camel and did twenty-five kilometres a day." },
+    { "term": "a mountain / a hill", "translation": "гора / холм", "example": "The tour crosses the Pamir Highway at over 4,600 metres." },
+    { "term": "a river / a lake", "translation": "река / озеро", "example": "The Silk Route passes a lake in northern China." },
+    { "term": "a forest", "translation": "лес", "example": "Cyclists cycle through a forest in Iran." },
+    { "term": "a desert", "translation": "пустыня", "example": "You travel across the deserts of China." },
+    { "term": "a market", "translation": "рынок", "example": "Cyclists shop in local markets for their food." },
+    { "term": "a famous building", "translation": "известное здание", "example": "Along the way there are ancient buildings and famous monuments." },
+    { "term": "ancient", "translation": "древний", "example": "At night you stay in ancient roadside hotels." },
+    { "term": "take turns", "translation": "чередоваться", "example": "The cyclists take turns cooking dinner every evening." },
+    { "term": "friendliness", "translation": "дружелюбие, приветливость", "example": "The best thing was the friendliness of the people." },
+    { "term": "a chef", "translation": "шеф-повар", "example": "A chef cooks dinner for about half of the 133 days." },
+    { "term": "a campsite / a camp", "translation": "лагерь, место стоянки", "example": "On other days cyclists sleep in camps." },
+    { "term": "an expedition", "translation": "экспедиция", "example": "The Silk Route is a true expedition." },
+    { "term": "the Pamir Highway", "translation": "Памирский тракт", "example": "The tour cycles the Pamir Highway across the Roof of the World." }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "I like ___ in my tea.",
+    "options": ["some milk", "a milk", "some milks", "any milk"],
+    "correctIndex": 0,
+    "explanation": "Milk — неисчисляемое, поэтому some, без a.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "Have you got ___ tomatoes?",
+    "options": ["any", "a", "some", "an"],
+    "correctIndex": 0,
+    "explanation": "В вопросе используется any.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "Would you like ___ tea?",
+    "options": ["some", "a", "any", "many"],
+    "correctIndex": 0,
+    "explanation": "Some — в предложении и в вопросе с would like.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "I haven't got ___ cheese in the fridge.",
+    "options": ["any", "a", "some", "a piece of many"],
+    "correctIndex": 0,
+    "explanation": "В отрицании — any.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "How ___ do you like your coffee?",
+    "options": ["do", "does", "is", "are"],
+    "correctIndex": 1,
+    "explanation": "В вопросе с you/do — do, с he/she — does.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "I like it ___ . It's very sweet.",
+    "options": ["a lot", "lot", "many", "much"],
+    "correctIndex": 0,
+    "explanation": "A lot of с прилагательным: like it a lot.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "She doesn't like coffee, ___ she likes tea.",
+    "options": ["but", "and", "so", "but also"],
+    "correctIndex": 0,
+    "explanation": "But — противопоставление: отрицание в первой части, утверждение во второй.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  },
+  {
+    "question": "___ salt do you want in your soup?",
+    "options": ["How much", "How many", "What", "How"],
+    "correctIndex": 0,
+    "explanation": "How much — для неисчисляемых: salt, sugar, water.",
+    "relatedRuleIds": ["see-it-taste-it"]
+  }
+]

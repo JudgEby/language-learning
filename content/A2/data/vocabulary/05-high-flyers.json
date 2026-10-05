@@ -1,0 +1,21 @@
+{
+  "lessonId": "high-flyers",
+  "title": "High flyers — новые слова",
+  "items": [
+    { "term": "get up", "translation": "вставать (с кровати)", "example": "Gagan gets up at four in the morning." },
+    { "term": "have breakfast", "translation": "завтракать", "example": "He has a big breakfast at six." },
+    { "term": "leave home", "translation": "выходить из дома, уезжать из дома", "example": "He leaves home at five." },
+    { "term": "walk all morning", "translation": "ходить пешком всё утро", "example": "She walks all morning in the mountains." },
+    { "term": "stop for lunch", "translation": "остановиться на обед", "example": "They stop for lunch at about twelve." },
+    { "term": "go home", "translation": "идти домой", "example": "After work he goes home for two days." },
+    { "term": "work with food", "translation": "работать с едой", "example": "Does she work with food? — Yes, she's a chef." },
+    { "term": "a pilot", "translation": "лётчик", "example": "She wants to be a pilot." },
+    { "term": "a nurse", "translation": "медсестра", "example": "The nurse works night shifts at the hospital." },
+    { "term": "a waiter", "translation": "официант", "example": "The waiter brings us the menu." },
+    { "term": "a chef", "translation": "повар", "example": "A famous chef works six days a week." },
+    { "term": "a taxi driver", "translation": "водитель такси", "example": "A taxi driver doesn't stop for coffee in the morning." },
+    { "term": "a mechanic", "translation": "механик", "example": "My uncle is a mechanic — he works with cars." },
+    { "term": "a police officer", "translation": "полицейский", "example": "A police officer helps people in the city centre." },
+    { "term": "a receptionist", "translation": "администратор, секретарь на ресепшене", "example": "The receptionist answers the phone all morning." }
+  ]
+}

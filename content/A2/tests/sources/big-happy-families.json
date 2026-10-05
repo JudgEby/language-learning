@@ -1,0 +1,58 @@
+[
+  {
+    "question": "___ you got any brothers or sisters?",
+    "options": ["Have", "Has", "Haves", "Is"],
+    "correctIndex": 0,
+    "explanation": "Have got с you: Have you got...?",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "She ___ got two children.",
+    "options": ["has", "have", "having", "haves"],
+    "correctIndex": 0,
+    "explanation": "С she — has got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "___ your mother ___ job?",
+    "options": ["Has ... a", "Have ... a", "Has ... the", "Do ... has"],
+    "correctIndex": 0,
+    "explanation": "Has your mother got a job? — с she: has got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "They ___ got a big house.",
+    "options": ["have", "has", "haves", "are"],
+    "correctIndex": 0,
+    "explanation": "С they — have got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "We ___ got two cars.",
+    "options": ["have", "has", "haves", "is"],
+    "correctIndex": 0,
+    "explanation": "С we — have got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "My grandmother ___ got three cats.",
+    "options": ["has", "have", "haves", "are"],
+    "correctIndex": 0,
+    "explanation": "My grandmother — она: has got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "I ___ got an older brother, but I haven't got a sister.",
+    "options": ["have", "has", "haves", "am"],
+    "correctIndex": 0,
+    "explanation": "С I — have got.",
+    "relatedRuleIds": ["big-happy-families"]
+  },
+  {
+    "question": "And has he ___ a job?",
+    "options": ["got", "get", "gotten", "getting"],
+    "correctIndex": 0,
+    "explanation": "Форма Has he got a job? — got, а не get.",
+    "relatedRuleIds": ["big-happy-families"]
+  }
+]

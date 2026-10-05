@@ -1,0 +1,21 @@
+{
+  "lessonId": "can-you-tell-me-the-way",
+  "title": "Can you tell me the way? — новые слова",
+  "items": [
+    { "term": "give / ask for directions", "translation": "дать / спросить дорогу", "example": "Excuse me, can I ask for directions?" },
+    { "term": "the way to", "translation": "путь к", "example": "Can you tell me the way to the station?" },
+    { "term": "a corner", "translation": "угол", "example": "The café is on the corner." },
+    { "term": "a crossroads", "translation": "перекрёсток", "example": "Turn right at the next crossroads." },
+    { "term": "a car park", "translation": "парковка", "example": "Go past the big car park." },
+    { "term": "a pedestrian street", "translation": "пешеходная улица", "example": "There's a pedestrian street with shops and cafés." },
+    { "term": "a traffic light", "translation": "светофор", "example": "Turn left at the traffic lights." },
+    { "term": "a waterfront", "translation": "набережная", "example": "Liverpool has a beautiful waterfront." },
+    { "term": "a museum / an art gallery", "translation": "музей / картинная галерея", "example": "Liverpool has the most museums in the UK outside London." },
+    { "term": "a pub", "translation": "паб", "example": "There are a lot of pubs near the waterfront." },
+    { "term": "straight on", "translation": "прямо", "example": "Go straight on and then turn left." },
+    { "term": "turn left / right", "translation": "повернуть налево / направо", "example": "Turn right at the traffic lights." },
+    { "term": "go past", "translation": "пройти мимо", "example": "Go past the cinema and the car park." },
+    { "term": "opposite", "translation": "напротив", "example": "The bank is opposite the post office." },
+    { "term": "a tourist", "translation": "турист", "example": "Thousands of tourists visit the city every year." }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Trains are ___ than planes.",
+    "options": ["cheaper", "cheap", "cheapest", "the cheapest"],
+    "correctIndex": 0,
+    "explanation": "Сравнение двух: -er — cheaper.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "Summer is ___ than winter.",
+    "options": ["hotter", "hot", "hottest", "more hot"],
+    "correctIndex": 0,
+    "explanation": "Hot → hotter (удвоение согласной).",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "This hotel is ___ than that one.",
+    "options": ["more expensive", "expensiver", "most expensive", "expensive"],
+    "correctIndex": 0,
+    "explanation": "Длинные прилагательные с more.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "The blue car is ___ than the red one.",
+    "options": ["faster", "fast", "fastest", "the fastest"],
+    "correctIndex": 0,
+    "explanation": "Faster — сравнительная форма fast.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "My phone is ___ expensive than yours.",
+    "options": ["less", "more", "much", "most"],
+    "correctIndex": 0,
+    "explanation": "Дешёвая степень прилагательного — less expensive.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "London is ___ than my small town.",
+    "options": ["much bigger", "more big", "bigger much", "most big"],
+    "correctIndex": 0,
+    "explanation": "Усиление сравнения: much bigger.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "The film was ___ than I expected.",
+    "options": ["better", "good", "best", "more good"],
+    "correctIndex": 0,
+    "explanation": "Хороший → better.",
+    "relatedRuleIds": ["travel-partners"]
+  },
+  {
+    "question": "Is cycling ___ than driving?",
+    "options": ["healthier", "healthierer", "healthiest", "more healthy"],
+    "correctIndex": 0,
+    "explanation": "Healthy → healthier (y превращается в i).",
+    "relatedRuleIds": ["travel-partners"]
+  }
+]

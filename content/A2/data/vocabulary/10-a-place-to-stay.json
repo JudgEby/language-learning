@@ -1,0 +1,21 @@
+{
+  "lessonId": "a-place-to-stay",
+  "title": "A place to stay — новые слова",
+  "items": [
+    { "term": "a living room", "translation": "гостиная", "example": "There's a sofa and a table in the living room." },
+    { "term": "a bedroom", "translation": "спальня", "example": "There are three bedrooms in the apartment." },
+    { "term": "a kitchen", "translation": "кухня", "example": "There's no separate kitchen, but there's a small one." },
+    { "term": "a bathroom", "translation": "ванная", "example": "We've got a bathroom and two bedrooms." },
+    { "term": "a balcony", "translation": "балкон", "example": "It's important for me to have a balcony or a garden." },
+    { "term": "a terrace", "translation": "терраса", "example": "We have lunch on the terrace — but it's very hot at midday." },
+    { "term": "a roof terrace", "translation": "терраса на крыше", "example": "The flat has got a roof terrace." },
+    { "term": "a sofa", "translation": "диван", "example": "A sofa and an armchair are in the living room." },
+    { "term": "an armchair", "translation": "кресло", "example": "Buy an armchair for the living room." },
+    { "term": "a wardrobe", "translation": "шкаф", "example": "There's a big wardrobe in the bedroom." },
+    { "term": "a fridge", "translation": "холодильник", "example": "There's no fridge in the kitchen, but there's a small one." },
+    { "term": "a dishwasher", "translation": "посудомоечная машина", "example": "Is there a dishwasher? — Yes, and there's a washing machine too." },
+    { "term": "free WiFi", "translation": "бесплатный Wi-Fi", "example": "There's free WiFi in the apartment." },
+    { "term": "a garage", "translation": "гараж", "example": "There's a garage behind the house." },
+    { "term": "a garden", "translation": "сад", "example": "I'd like a flat with a small garden." }
+  ]
+}

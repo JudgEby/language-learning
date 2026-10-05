@@ -1,0 +1,58 @@
+[
+  {
+    "question": "You ___ ride a bike without a helmet. It's dangerous.",
+    "options": ["can't", "can", "don't", "aren't"],
+    "correctIndex": 0,
+    "explanation": "Запрет из-за опасности: can't.",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "___ you cycle in the city centre?",
+    "options": ["Can", "Do", "Are", "Did"],
+    "correctIndex": 0,
+    "explanation": "Вопрос о возможности: Can you...?",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "You ___ use this bike. It's mine.",
+    "options": ["can't", "can", "don't", "aren't"],
+    "correctIndex": 0,
+    "explanation": "Can't — запрет: нельзя.",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "You ___ wear a helmet in the UK — it's the law.",
+    "options": ["must", "mustn't", "can't to", "may"],
+    "correctIndex": 0,
+    "explanation": "Must — обязанность по закону.",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "Cyclists ___ ride on the pavement.",
+    "options": ["mustn't", "must", "can", "should to"],
+    "correctIndex": 0,
+    "explanation": "Запрет: mustn't.",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "You ___ worry — it's perfectly safe here.",
+    "options": ["don't have to", "mustn't", "must", "shouldn't"],
+    "correctIndex": 0,
+    "explanation": "Не обязаны: don't have to.",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "___ you park your bike here? — Yes, it's allowed.",
+    "options": ["Can", "Must", "Should", "Did"],
+    "correctIndex": 0,
+    "explanation": "Можно: Can you...?",
+    "relatedRuleIds": ["city-bikes"]
+  },
+  {
+    "question": "In the bike lane, you ___ ride on the left.",
+    "options": ["mustn't", "must", "can", "may to"],
+    "correctIndex": 0,
+    "explanation": "Запрет: mustn't ride on the left.",
+    "relatedRuleIds": ["city-bikes"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "A holiday in the mountains ___ you back to nature.",
+    "options": ["takes", "take", "taking", "is take"],
+    "correctIndex": 0,
+    "explanation": "Present simple: takes + back (частица to back).",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "I ___ to the gym three times a week.",
+    "options": ["go", "goes", "going", "to go"],
+    "correctIndex": 0,
+    "explanation": "С I — базовая форма: go.",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "___ he live in London?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctIndex": 0,
+    "explanation": "С he — does.",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "The city ___ much quieter at night.",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "The city — единственное число: is.",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "Air travel is much ___ than travelling by train.",
+    "options": ["faster", "fast", "fastest", "the fastest"],
+    "correctIndex": 0,
+    "explanation": "Faster — сравнительная форма.",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "They ___ for six months.",
+    "options": ["have worked", "has worked", "work", "worked"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: have/has + вторая форма глагола (past participle).",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "I've ___ in that hotel twice.",
+    "options": ["stayed", "stay", "staying", "am stay"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: stayed (вторая форма глагола).",
+    "relatedRuleIds": ["what-a-difference"]
+  },
+  {
+    "question": "The sea here ___ than the sea in the city.",
+    "options": ["is cleaner", "are cleaner", "is clean", "cleaner"],
+    "correctIndex": 0,
+    "explanation": "The sea — is; cleaner — сравнительная форма.",
+    "relatedRuleIds": ["what-a-difference"]
+  }
+]

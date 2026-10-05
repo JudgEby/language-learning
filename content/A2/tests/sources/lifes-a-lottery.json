@@ -1,0 +1,58 @@
+[
+  {
+    "question": "A lot of people ___ their jobs in big cities.",
+    "options": ["lose", "loses", "losing", "to lose"],
+    "correctIndex": 0,
+    "explanation": "A lot of people — множественное число: lose.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "It's a matter of ___ when you're lucky.",
+    "options": ["luck", "luckies", "a luck", "the luck"],
+    "correctIndex": 0,
+    "explanation": "Неисчисляемое: a matter of luck.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "You ___ be lucky — you might win the lottery.",
+    "options": ["might", "must", "should to", "can to"],
+    "correctIndex": 0,
+    "explanation": "Might — возможность: You might be lucky.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "Some days you feel like you've ___ all the luck in the world.",
+    "options": ["had", "have", "having", "has"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: have/has + had.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "Life ___ like a lottery.",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "Life — единственное число: is.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "I've got a ___ life — I love my family and my job.",
+    "options": ["lucky", "luckier", "luckiest", "luckily"],
+    "correctIndex": 0,
+    "explanation": "Удачный — lucky (прямое дополнение).",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "I ___ a great job, but sometimes it's boring.",
+    "options": ["have", "has", "haves", "am"],
+    "correctIndex": 0,
+    "explanation": "С I — have.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  },
+  {
+    "question": "If you're lucky, you ___ find a good job quickly.",
+    "options": ["might", "might to", "may to", "must"],
+    "correctIndex": 0,
+    "explanation": "Might — возможность.",
+    "relatedRuleIds": ["lifes-a-lottery"]
+  }
+]

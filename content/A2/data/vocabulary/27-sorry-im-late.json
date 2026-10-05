@@ -1,0 +1,22 @@
+{
+  "lessonId": "sorry-im-late",
+  "title": "Sorry, I'm late — новые слова",
+  "items": [
+    { "term": "be late for something", "translation": "опоздать на что-то", "example": "I'm sorry I'm late for the meeting." },
+    { "term": "a queue", "translation": "очередь", "example": "There was a long queue at the coffee shop." },
+    { "term": "miss the train / a meeting", "translation": "опоздать на поезд / пропустить встречу", "example": "I woke up late and missed my train." },
+    { "term": "break down", "translation": "сломаться", "example": "My car broke down on the motorway." },
+    { "term": "lose your keys", "translation": "потерять ключи", "example": "I lost my keys and couldn't get into the flat." },
+    { "term": "an alarm clock", "translation": "будильник", "example": "I didn't hear my alarm clock because I had ear plugs in." },
+    { "term": "ear plugs", "translation": "беруши", "example": "I slept with ear plugs and didn't hear the alarm." },
+    { "term": "feel awful about something", "translation": "чувствовать себя ужасно из-за чего-то", "example": "I'm so sorry I missed the meeting. I feel awful about it." },
+    { "term": "be embarrassed", "translation": "смущаться, быть в неловком положении", "example": "I was embarrassed because I was so late." },
+    { "term": "hit something", "translation": "врезаться во что-то, сбить", "example": "My train hit a cow. Poor thing." },
+    { "term": "a signal problem", "translation": "проблема с сигнализацией", "example": "The guard said there was a signal problem." },
+    { "term": "stop in the middle of nowhere", "translation": "встать посреди ниоткуда", "example": "The train stopped in the middle of nowhere for twenty minutes." },
+    { "term": "air-conditioning", "translation": "кондиционер", "example": "Then the air-conditioning stopped working." },
+    { "term": "a manager / a boss", "translation": "менеджер / начальник", "example": "The manager wasn't happy about my excuse." },
+    { "term": "Don't worry about it.", "translation": "Не беспокойся об этом.", "example": "You're twenty minutes late. — Don't worry about it." },
+    { "term": "Don't let it happen again.", "translation": "Чтобы так больше не было.", "example": "The manager said: Don't let it happen again." }
+  ]
+}

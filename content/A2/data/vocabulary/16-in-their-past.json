@@ -1,0 +1,23 @@
+{
+  "lessonId": "in-their-past",
+  "title": "In their past — новые слова",
+  "items": [
+    { "term": "be born", "translation": "родиться", "example": "Were you born in this country? — Yes, I was." },
+    { "term": "as a child", "translation": "в детстве", "example": "I was very shy as a child." },
+    { "term": "be afraid of", "translation": "бояться", "example": "She wasn't afraid of the dark when she was a child." },
+    { "term": "a favourite (person/thing)", "translation": "любимый (человек/вещь)", "example": "One of my favourite people was my uncle Luciano." },
+    { "term": "poor", "translation": "бедный", "example": "His parents were very poor when he was a child." },
+    { "term": "a millionaire", "translation": "миллионер", "example": "At thirty-two she was a millionaire." },
+    { "term": "a songwriter", "translation": "песни/автор песен", "example": "Taylor Swift is a singer and songwriter." },
+    { "term": "childhood", "translation": "детство", "example": "My parents were childhood friends." },
+    { "term": "childhood friends", "translation": "друзья детства", "example": "Your parents were childhood friends?" },
+    { "term": "yesterday morning", "translation": "вчера утром", "example": "I was at home yesterday morning." },
+    { "term": "last night", "translation": "прошлой ночью", "example": "I was at home last night." },
+    { "term": "the weekend before last", "translation": "позавпрошлые выходные", "example": "We visited my parents the weekend before last." },
+    { "term": "ten years ago", "translation": "десять лет назад", "example": "They moved here ten years ago." },
+    { "term": "New Year's Day", "translation": "Новый год (1 января)", "example": "New Year's Day is my favourite holiday." },
+    { "term": "Christmas Day", "translation": "Рождество", "example": "In the UK people eat turkey on Christmas Day." },
+    { "term": "Valentine's Day", "translation": "День влюблённых", "example": "People send cards on Valentine's Day." },
+    { "term": "Halloween", "translation": "Хэллоуин", "example": "Children wear costumes on 31st October for Halloween." }
+  ]
+}

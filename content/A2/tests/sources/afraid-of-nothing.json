@@ -1,0 +1,58 @@
+[
+  {
+    "question": "I've ___ my keys. I can't get in.",
+    "options": ["lost", "lose", "losing", "am losing now"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect с результатом: I've lost my keys.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "I've ___ my phone — I think it's still in the car.",
+    "options": ["just lost", "just lose", "just have lost now", "lose just"],
+    "correctIndex": 0,
+    "explanation": "Just — недавно: I've just lost my phone.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "He isn't afraid ___ heights.",
+    "options": ["of", "to", "for", "from"],
+    "correctIndex": 0,
+    "explanation": "be afraid of — бояться.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "She has ___ flown before.",
+    "options": ["never", "ever", "yet", "already"],
+    "correctIndex": 0,
+    "explanation": "Has never flown — никогда не летала.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "___ you ever been to a horror film?",
+    "options": ["Have", "Did", "Do", "Are"],
+    "correctIndex": 0,
+    "explanation": "Present Perfect в вопросе: Have you ever been...?",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "Nothing ___ me.",
+    "options": ["scares", "scares to", "is scaring of", "scared"],
+    "correctIndex": 0,
+    "explanation": "С he/she/it в Present simple: scares.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "I've ___ been there — I really want to go.",
+    "options": ["never", "ever", "yet", "already"],
+    "correctIndex": 0,
+    "explanation": "I've never been there.",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  },
+  {
+    "question": "Don't be ___ of the dark — it's fine.",
+    "options": ["afraid", "afraid of", "frighten", "fear"],
+    "correctIndex": 0,
+    "explanation": "be afraid — бояться (без предлога в этом уроке).",
+    "relatedRuleIds": ["afraid-of-nothing"]
+  }
+]

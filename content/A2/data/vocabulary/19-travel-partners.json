@@ -1,0 +1,23 @@
+{
+  "lessonId": "travel-partners",
+  "title": "Travel partners — новые слова",
+  "items": [
+    { "term": "travelling / a trip", "translation": "путешествие / поездка", "example": "I like travelling by train and seeing the countryside." },
+    { "term": "a self-catering apartment", "translation": "квартира с кухней", "example": "We stayed in a self-catering apartment in Spain." },
+    { "term": "a tent", "translation": "палатка", "example": "Some people prefer staying in a tent in the mountains." },
+    { "term": "a beach", "translation": "пляж", "example": "I prefer relaxing on a beach to going sightseeing." },
+    { "term": "go sightseeing", "translation": "осматривать достопримечательности", "example": "We spent three days going sightseeing in Rome." },
+    { "term": "something sporty", "translation": "что-то спортивное", "example": "I don't like doing something sporty on holiday." },
+    { "term": "a travel partner", "translation": "попутчик, компания для путешествий", "example": "Is he a good travel partner? Why/Why not?" },
+    { "term": "a perfect holiday", "translation": "идеальный отпуск", "example": "My perfect holiday is a week in a small village." },
+    { "term": "local dishes", "translation": "местные блюда", "example": "When I'm on holiday I like eating local dishes." },
+    { "term": "fast food", "translation": "фастфуд", "example": "I don't want to eat fast food every day." },
+    { "term": "a day out", "translation": "прогулка на один день", "example": "The city is nice for a day out." },
+    { "term": "crowded", "translation": "многолюдный", "example": "The old town is beautiful but very crowded in summer." },
+    { "term": "boring", "translation": "скучный", "example": "The museum is boring for children." },
+    { "term": "comfortable / uncomfortable", "translation": "удобный / неудобный", "example": "These trainers are more comfortable than shoes." },
+    { "term": "romantic", "translation": "романтичный", "example": "Autumn is more romantic than spring." },
+    { "term": "cheap / expensive", "translation": "дешёвый / дорогой", "example": "Cafés in my city are cheaper than in the centre." },
+    { "term": "a night club", "translation": "ночной клуб", "example": "We went to a night club on the last night." }
+  ]
+}

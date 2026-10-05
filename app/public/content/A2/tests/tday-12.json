@@ -1,0 +1,302 @@
+[
+  {
+    "id": "98acf6be0e45",
+    "question": "___ you ever been to Japan?",
+    "options": [
+      "Have",
+      "Did",
+      "Are",
+      "Do"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: Have you ever been...?",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "400207216b85",
+    "question": "She's just ___ home from work.",
+    "options": [
+      "got",
+      "get",
+      "gotten",
+      "getting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect: has just got.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "9564a931ab04",
+    "question": "I ___ never eaten sushi.",
+    "options": [
+      "have",
+      "has",
+      "am",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "С I — have never eaten.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "511808474c5b",
+    "question": "Have you ___ finished your project yet?",
+    "options": [
+      "already",
+      "still",
+      "yet already",
+      "always yet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Уже — already в вопросе.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "936ccd5b18fa",
+    "question": "He has ___ been to Australia.",
+    "options": [
+      "never",
+      "ever",
+      "yet",
+      "already"
+    ],
+    "correctIndex": 0,
+    "explanation": "Has never been — отрицание с never.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "b40491e5e870",
+    "question": "___ they have finished the project?",
+    "options": [
+      "Have",
+      "Has",
+      "Is",
+      "Do"
+    ],
+    "correctIndex": 0,
+    "explanation": "С they — have finished.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "172d96fb848a",
+    "question": "Have you seen the film ___ ?",
+    "options": [
+      "yet",
+      "still",
+      "already ever",
+      "since"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yet — в вопросе и отрицании.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
+  },
+  {
+    "id": "86239dc0340a",
+    "question": "I've ___ my keys. I can't get in.",
+    "options": [
+      "lost",
+      "lose",
+      "losing",
+      "am losing now"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect с результатом: I've lost my keys.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "d5360ec816ac",
+    "question": "I've ___ my phone — I think it's still in the car.",
+    "options": [
+      "just lost",
+      "just lose",
+      "just have lost now",
+      "lose just"
+    ],
+    "correctIndex": 0,
+    "explanation": "Just — недавно: I've just lost my phone.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "291ce42adcbb",
+    "question": "He isn't afraid ___ heights.",
+    "options": [
+      "of",
+      "to",
+      "for",
+      "from"
+    ],
+    "correctIndex": 0,
+    "explanation": "be afraid of — бояться.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "6d9827164686",
+    "question": "She has ___ flown before.",
+    "options": [
+      "never",
+      "ever",
+      "yet",
+      "already"
+    ],
+    "correctIndex": 0,
+    "explanation": "Has never flown — никогда не летала.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "5ea9f172fc0b",
+    "question": "___ you ever been to a horror film?",
+    "options": [
+      "Have",
+      "Did",
+      "Do",
+      "Are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present Perfect в вопросе: Have you ever been...?",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "f24f73c32379",
+    "question": "Nothing ___ me.",
+    "options": [
+      "scares",
+      "scares to",
+      "is scaring of",
+      "scared"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he/she/it в Present simple: scares.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "0eb0fb5f93cb",
+    "question": "I've ___ been there — I really want to go.",
+    "options": [
+      "never",
+      "ever",
+      "yet",
+      "already"
+    ],
+    "correctIndex": 0,
+    "explanation": "I've never been there.",
+    "relatedRuleIds": [
+      "afraid-of-nothing"
+    ]
+  },
+  {
+    "id": "df6de580b88e",
+    "question": "Hello, ___ Alan Simpson. I've got a problem.",
+    "options": [
+      "this is",
+      "it's",
+      "I am",
+      "that's"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is — формальное представление при звонке в организацию.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  },
+  {
+    "id": "7d129ece9379",
+    "question": "Could I ___ to customer services, please?",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "to speak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Could I speak to...? — базовая форма.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  },
+  {
+    "id": "e1c4d8d5647c",
+    "question": "She's not here. Could I ___ a message for her?",
+    "options": [
+      "leave",
+      "leaves",
+      "leaving",
+      "to leave"
+    ],
+    "correctIndex": 0,
+    "explanation": "Could I leave a message for...?",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  },
+  {
+    "id": "a617ca39cf5b",
+    "question": "I'll call you ___ .",
+    "options": [
+      "back",
+      "back to",
+      "back of",
+      "returned"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ring back / call back = перезвонить.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  },
+  {
+    "id": "80abf66aaf7a",
+    "question": "Could you ___ me back later, please?",
+    "options": [
+      "ring",
+      "rings",
+      "ringing",
+      "to ring"
+    ],
+    "correctIndex": 0,
+    "explanation": "Could you + базовая форма: ring me back.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  },
+  {
+    "id": "a02b7b62abab",
+    "question": "What number are you ___ ?",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "correctIndex": 0,
+    "explanation": "be on — быть на связи, на номере.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
+  }
+]

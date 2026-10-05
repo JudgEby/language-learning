@@ -1,0 +1,58 @@
+[
+  {
+    "question": "She ___ to work by train.",
+    "options": ["goes", "go", "going", "to go"],
+    "correctIndex": 0,
+    "explanation": "В Present simple в третьем лице единственного числа к глаголу добавляется -s: she goes.",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "___ she work in the city centre?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple вопрос задаётся через does: Does she work...?",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "He ___ like getting up early.",
+    "options": ["doesn't", "don't", "isn't", "not"],
+    "correctIndex": 0,
+    "explanation": "С he/it отрицание через doesn't: He doesn't like...",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "What ___ your brother do?",
+    "options": ["does", "do", "is", "are"],
+    "correctIndex": 0,
+    "explanation": "В вопросе с he/she/it в Present simple используется does: What does he do?",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "My job ___ very interesting.",
+    "options": ["is", "are", "am", "be"],
+    "correctIndex": 0,
+    "explanation": "The job — единственное число: My job is...",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "She has got a good job and she ___ a lot of money.",
+    "options": ["earns", "earn", "earning", "to earn"],
+    "correctIndex": 0,
+    "explanation": "С she в Present simple: earns.",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "Does he ___ to work by car?",
+    "options": ["go", "goes", "going", "to go"],
+    "correctIndex": 0,
+    "explanation": "После does глагол стоит в базовой форме без -s: Does he go...?",
+    "relatedRuleIds": ["high-flyers"]
+  },
+  {
+    "question": "The company ___ 200 people.",
+    "options": ["has got", "have got", "haves got", "is got"],
+    "correctIndex": 0,
+    "explanation": "The company — единственное число: has got.",
+    "relatedRuleIds": ["high-flyers"]
+  }
+]

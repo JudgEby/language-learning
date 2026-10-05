@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Look! The children ___ in the garden.",
+    "options": ["are playing", "plays", "play", "is playing"],
+    "correctIndex": 0,
+    "explanation": "Present continuous: am/is/are + verb-ing.",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "She ___ her hair at the moment.",
+    "options": ["is washing", "washes", "wash", "washs"],
+    "correctIndex": 0,
+    "explanation": "Wash → washing (убираем e).",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "What ___ they doing?",
+    "options": ["are", "do", "is", "am"],
+    "correctIndex": 0,
+    "explanation": "С they — are.",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "They ___ dinner at the moment.",
+    "options": ["aren't having", "not having", "doesn't have", "isn't having"],
+    "correctIndex": 0,
+    "explanation": "Отрицание: aren't + verb-ing.",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "I ___ to music now.",
+    "options": ["am listening", "listens", "am listen", "listening"],
+    "correctIndex": 0,
+    "explanation": "С I — am listening.",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "Sit down. You ___ in the wrong seat.",
+    "options": ["are sitting", "sits", "is sitting", "are sit"],
+    "correctIndex": 0,
+    "explanation": "Sit → sitting (удвоение t).",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "He ___ TV while his sister ___.",
+    "options": ["is watching / is doing her homework", "watches / does", "is watch / is doing", "watching / doing"],
+    "correctIndex": 0,
+    "explanation": "Два Present Continuous с while.",
+    "relatedRuleIds": ["having-a-great-time"]
+  },
+  {
+    "question": "Where ___ you ___ from? — Nowhere. I'm at home.",
+    "options": ["are / going", "go", "is / go", "do / going"],
+    "correctIndex": 0,
+    "explanation": "Present continuous в вопросе: Where are you going?",
+    "relatedRuleIds": ["having-a-great-time"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "There's ___ kitchen and three bedrooms.",
+    "options": ["a", "an", "the", "—"],
+    "correctIndex": 0,
+    "explanation": "Перед единственным исчисляемым, начиная с согласного звука: a kitchen.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "It's got two bedrooms and ___ bathroom.",
+    "options": ["a", "an", "the", "—"],
+    "correctIndex": 0,
+    "explanation": "С единственным числом на первый план — a bathroom.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "___ flat is on the third floor.",
+    "options": ["The", "A", "An", "—"],
+    "correctIndex": 0,
+    "explanation": "Когда мы говорим о конкретном известном объекте: The flat.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "How many ___ are there? — Four.",
+    "options": ["bedrooms", "bedroom", "a bedroom", "bedrooms of"],
+    "correctIndex": 0,
+    "explanation": "How many + множественное число.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "Is there ___ garden?",
+    "options": ["a", "an", "the", "—"],
+    "correctIndex": 0,
+    "explanation": "Is there a garden? — единственное число с a.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "The house ___ got a garage and ___ small garden.",
+    "options": ["has / a", "have / a", "has / an", "have / an"],
+    "correctIndex": 0,
+    "explanation": "The house — has got; garden — с a.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "There's ___ sofa and two armchairs ___ living room.",
+    "options": ["a / in the", "an / in", "a / in", "the / in the"],
+    "correctIndex": 0,
+    "explanation": "Sofa — с a; в устойчивом выражении in the living room — с the.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  },
+  {
+    "question": "Are there ___ pictures ___ the walls?",
+    "options": ["any / on", "any / in", "a / on", "any / at"],
+    "correctIndex": 0,
+    "explanation": "Any в вопросе; картины висят on the walls.",
+    "relatedRuleIds": ["a-place-to-stay"]
+  }
+]

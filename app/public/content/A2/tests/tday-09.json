@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c5d1c1963361",
+    "question": "You ___ ride a bike without a helmet. It's dangerous.",
+    "options": [
+      "can't",
+      "can",
+      "don't",
+      "aren't"
+    ],
+    "correctIndex": 0,
+    "explanation": "Запрет из-за опасности: can't.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "d33f67f2b536",
+    "question": "___ you cycle in the city centre?",
+    "options": [
+      "Can",
+      "Do",
+      "Are",
+      "Did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Вопрос о возможности: Can you...?",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "764dae8bdae9",
+    "question": "You ___ use this bike. It's mine.",
+    "options": [
+      "can't",
+      "can",
+      "don't",
+      "aren't"
+    ],
+    "correctIndex": 0,
+    "explanation": "Can't — запрет: нельзя.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "f0a1cef1339d",
+    "question": "You ___ wear a helmet in the UK — it's the law.",
+    "options": [
+      "must",
+      "mustn't",
+      "can't to",
+      "may"
+    ],
+    "correctIndex": 0,
+    "explanation": "Must — обязанность по закону.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "ef26ea12a72f",
+    "question": "Cyclists ___ ride on the pavement.",
+    "options": [
+      "mustn't",
+      "must",
+      "can",
+      "should to"
+    ],
+    "correctIndex": 0,
+    "explanation": "Запрет: mustn't.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "6c96718c94d2",
+    "question": "You ___ worry — it's perfectly safe here.",
+    "options": [
+      "don't have to",
+      "mustn't",
+      "must",
+      "shouldn't"
+    ],
+    "correctIndex": 0,
+    "explanation": "Не обязаны: don't have to.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "9012f4c78981",
+    "question": "___ you park your bike here? — Yes, it's allowed.",
+    "options": [
+      "Can",
+      "Must",
+      "Should",
+      "Did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Можно: Can you...?",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "7ff63a0870b3",
+    "question": "I'd ___ to see the new film.",
+    "options": [
+      "like",
+      "likes",
+      "liking",
+      "to like"
+    ],
+    "correctIndex": 0,
+    "explanation": "Would like + to + инфинитив: I'd like to see.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "6da0f35766aa",
+    "question": "We're ___ to fly to Rome next month.",
+    "options": [
+      "going",
+      "go",
+      "went",
+      "gone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Be going to — plans: We're going to fly.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "df425bc234e2",
+    "question": "She ___ going to study medicine.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "С she — is going to.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "bb4d603c40b8",
+    "question": "What are you ___ at the weekend?",
+    "options": [
+      "doing",
+      "do",
+      "does",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "What are you doing? — present continuous.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "956c9e637241",
+    "question": "I'm ___ my driving test in June.",
+    "options": [
+      "taking",
+      "take",
+      "takes",
+      "to take"
+    ],
+    "correctIndex": 0,
+    "explanation": "Present continuous: I'm taking my test.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "3b65a992476f",
+    "question": "We ___ to visit our friends in Wales.",
+    "options": [
+      "are going",
+      "go",
+      "was going",
+      "am going"
+    ],
+    "correctIndex": 0,
+    "explanation": "С we — are going to.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "ea0b3b94e625",
+    "question": "He ___ going to visit his friends in Wales.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 0,
+    "explanation": "С he — is going to.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "441f6ef0ad75",
+    "question": "It's very kind ___ you to invite me.",
+    "options": [
+      "of",
+      "to",
+      "for",
+      "with"
+    ],
+    "correctIndex": 0,
+    "explanation": "Конструкция It + прилагательное + of + подлежащее: It's kind of you.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "ab515848b0dd",
+    "question": "Sorry, I ___ you. Can you repeat that?",
+    "options": [
+      "didn't hear",
+      "don't hear",
+      "wasn't hear",
+      "am not hear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Прошедшее время: didn't hear.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "d667d919cc06",
+    "question": "Thank you for ___ me.",
+    "options": [
+      "helping",
+      "help",
+      "to help",
+      "helped"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thank you for + герундий: for helping.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "b1e8b05e0e2f",
+    "question": "Excuse me, could you say that ___?",
+    "options": [
+      "again",
+      "again more",
+      "more again",
+      "againly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Say ... again — стандартная просьба.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "d46c9076944d",
+    "question": "I apologize ___ keeping you waiting.",
+    "options": [
+      "for",
+      "to",
+      "of",
+      "with"
+    ],
+    "correctIndex": 0,
+    "explanation": "apologize for — извиняться за.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "43debfc5e411",
+    "question": "Don't worry about it. It's ___ big deal.",
+    "options": [
+      "no",
+      "not",
+      "nothing",
+      "any"
+    ],
+    "correctIndex": 0,
+    "explanation": "No big deal — ничего страшного.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  }
+]

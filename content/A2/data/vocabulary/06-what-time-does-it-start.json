@@ -1,0 +1,21 @@
+{
+  "lessonId": "what-time-does-it-start",
+  "title": "What time does it start? — новые слова",
+  "items": [
+    { "term": "a tour", "translation": "экскурсия", "example": "What tours can people take in San Francisco?" },
+    { "term": "a walking tour", "translation": "пешеходная экскурсия", "example": "The walking tour starts at the front gate at nine forty-five." },
+    { "term": "a boat tour", "translation": "экскурсия на катере", "example": "Would you like the morning or the afternoon boat tour?" },
+    { "term": "a bus tour", "translation": "экскурсия на автобусе", "example": "The bus tour is thirty dollars." },
+    { "term": "start / finish", "translation": "начинаться / заканчиваться", "example": "What time does the tour start and when does it finish?" },
+    { "term": "leave from", "translation": "отправляться (от ...)", "example": "And where does it leave from? — From Pier 43." },
+    { "term": "a minibus", "translation": "микроавтобус", "example": "The minibus to the boat leaves at ten." },
+    { "term": "a pier", "translation": "причал, пирс", "example": "The boat tour leaves from Pier 43." },
+    { "term": "the front gate", "translation": "парадный вход, ворота", "example": "Meet at the front gate at nine forty-five." },
+    { "term": "a tourist information centre", "translation": "туристический информационный центр", "example": "Ask at the tourist information centre about boat tours." },
+    { "term": "a leaflet", "translation": "буклет", "example": "Look at the photos and leaflets from San Francisco." },
+    { "term": "a famous bridge", "translation": "известный мост", "example": "The tour includes a famous bridge and shopping." },
+    { "term": "a food market", "translation": "продуктовый рынок", "example": "The guide takes you to the food markets in Chinatown." },
+    { "term": "a herbal pharmacy", "translation": "травяная аптека", "example": "You'll see a herbal pharmacy in Chinatown." },
+    { "term": "book the tour", "translation": "забронировать экскурсию", "example": "Do they book the tour? — Yes, we can book it for you." }
+  ]
+}

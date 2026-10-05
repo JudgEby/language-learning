@@ -1,0 +1,24 @@
+{
+  "lessonId": "hello-ive-got-a-problem",
+  "title": "Hello, I've got a problem — новые слова",
+  "items": [
+    { "term": "call / ring somebody", "translation": "звонить кому-то", "example": "I called Mark, but he wasn't at home." },
+    { "term": "answer the phone", "translation": "брать трубку", "example": "You answer the phone. It's a call for Patricia." },
+    { "term": "take a message", "translation": "записать сообщение", "example": "Could I take a message for her?" },
+    { "term": "leave a message", "translation": "оставить сообщение", "example": "I'll leave a message for Mark." },
+    { "term": "ring somebody back", "translation": "перезвонить кому-то", "example": "Could you ring me back later?" },
+    { "term": "call somebody back", "translation": "перезвонить кому-то", "example": "Fine. Hang up and I'll call you back straightaway." },
+    { "term": "hang up", "translation": "положить трубку", "example": "Hang up and I'll ring you back." },
+    { "term": "an answerphone", "translation": "автоответчик", "example": "He isn't at home, so you leave a message on his answerphone." },
+    { "term": "customer services", "translation": "служба поддержки клиентов", "example": "Could I speak to customer services, please?" },
+    { "term": "hold on / hold the line", "translation": "не класть трубку, подождать", "example": "Just a hold on, please. — Hold the line." },
+    { "term": "the number there", "translation": "номер там", "example": "Could you give me the number there?" },
+    { "term": "be out", "translation": "быть вне (дома/офиса)", "example": "He went out about ten minutes ago." },
+    { "term": "be in", "translation": "быть дома", "example": "Is Kevin in? — No, he's out." },
+    { "term": "go out", "translation": "выйти", "example": "He went out about ten minutes ago." },
+    { "term": "I've got a problem", "translation": "У меня проблема", "example": "Hello, this is Alan Simpson. I've got a problem." },
+    { "term": "I've lost my ...", "translation": "Я потерял свой ...", "example": "I've lost my keys and my mobile." },
+    { "term": "lock yourself out", "translation": "запереться снаружи", "example": "I've locked myself out of my house." },
+    { "term": "get lost", "translation": "заблудиться", "example": "Have you ever got lost in a city?" }
+  ]
+}

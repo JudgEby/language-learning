@@ -1,0 +1,58 @@
+[
+  {
+    "question": "I usually ___ to the office by bus.",
+    "options": ["go", "goes", "going", "am go"],
+    "correctIndex": 0,
+    "explanation": "С I в Present simple — базовая форма: go.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "What do you ___ for a weekend in Prague?",
+    "options": ["recommend", "recommends", "recommending", "to recommend"],
+    "correctIndex": 0,
+    "explanation": "Do you — базовая форма: recommend.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "___ you like to go camping in summer?",
+    "options": ["Would", "Do", "Did", "Are"],
+    "correctIndex": 0,
+    "explanation": "Would you like to...? — предложение.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "I'd love ___ some local food.",
+    "options": ["to try", "trying", "try", "tries"],
+    "correctIndex": 0,
+    "explanation": "I'd love + to + инфинитив.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "She's very interested ___ history.",
+    "options": ["in", "on", "at", "for"],
+    "correctIndex": 0,
+    "explanation": "be interested in — интересоваться.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "Can you ___ me a good restaurant?",
+    "options": ["recommend", "recommends", "recommending", "to recommend"],
+    "correctIndex": 0,
+    "explanation": "Can you + базовый глагол: recommend.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "That's a great idea! ___ you very much.",
+    "options": ["Thanks", "Thank", "Thank you", "You're welcome"],
+    "correctIndex": 0,
+    "explanation": "Thanks (you) — краткий ответ на благодарность.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  },
+  {
+    "question": "How much ___ it cost to get there?",
+    "options": ["does", "do", "is", "are"],
+    "correctIndex": 0,
+    "explanation": "How much does it cost...? — does + базовая форма.",
+    "relatedRuleIds": ["what-do-you-recommend"]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "lessonId": "lifes-a-lottery",
+  "title": "Life's a lottery — новые слова",
+  "items": [
+    { "term": "the lottery", "translation": "лотерея", "example": "Is there a lottery in your country? Do you ever play?" },
+    { "term": "a lottery ticket", "translation": "лотерейный билет", "example": "The piece of paper under the leaves was a winning lottery ticket." },
+    { "term": "win / win the lottery", "translation": "выигрывать / выиграть в лотерею", "example": "Martin and his wife are ten million dollars richer." },
+    { "term": "a winner", "translation": "победитель", "example": "Listen to a radio interview with lottery winners." },
+    { "term": "plans for the future", "translation": "планы на будущее", "example": "What are your plans for the future? — I'd like to learn to fly." },
+    { "term": "have a barbecue", "translation": "устроить барбекю", "example": "We're going to have a barbecue in the garden." },
+    { "term": "start your own business", "translation": "начать своё дело", "example": "I'd like to start my own business." },
+    { "term": "move house", "translation": "переезжать", "example": "They won ten million and now they want to move house." },
+    { "term": "buy a new car", "translation": "купить новую машину", "example": "He's going to buy a new car." },
+    { "term": "give money to someone", "translation": "дать кому-то денег", "example": "They are going to give the money to a children's hospital." },
+    { "term": "learn to fly", "translation": "научиться летать", "example": "One of their plans is to learn to fly." },
+    { "term": "have a party", "translation": "устроить вечеринку", "example": "We're going to have a party and invite all our friends." },
+    { "term": "a storm", "translation": "шторм, буря", "example": "A gardener found a tree on top of his car after a storm." },
+    { "term": "be thrilled", "translation": "быть в восторге", "example": "We're thrilled, of course." },
+    { "term": "a sports car", "translation": "спорткар", "example": "I'd like to drive a sports car." },
+    { "term": "the Caribbean", "translation": "Карибы", "example": "I'm going to have a holiday in the Caribbean." }
+  ]
+}
