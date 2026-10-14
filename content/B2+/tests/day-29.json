@@ -238,5 +238,140 @@
     "relatedRuleIds": [
       "science-we-need"
     ]
+  },
+  {
+    "id": "3af4eb6ec01e",
+    "question": "Complete: 'We're under constant ___.'",
+    "options": [
+      "surveillance",
+      "guidance",
+      "brilliance",
+      "resistance"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Surveillance' means 'слежка, наблюдение'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "60a0b54109ac",
+    "question": "Complete: 'It's out of ___ that people are watching her.'",
+    "options": [
+      "paranoia",
+      "harmony",
+      "charity",
+      "vanity"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Paranoia' means 'паранойя'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "fdd74a872880",
+    "question": "What does 'curfew' mean?",
+    "options": [
+      "комендантский час",
+      "утренняя зарядка",
+      "вечерний выпуск новостей",
+      "ночная смена"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Curfew' means 'комендантский час'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "e628a70f18c7",
+    "question": "Complete: 'Their ___ wasn't the only cause of the crisis.'",
+    "options": [
+      "greed",
+      "green",
+      "greet",
+      "grade"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Greed' means 'жадность'.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ]
+  },
+  {
+    "id": "3702ab4dbfb2",
+    "question": "Complete: 'A device that could ___ my brain as I sleep.'",
+    "options": [
+      "monitor",
+      "mentor",
+      "murmur",
+      "motor"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Monitor' means 'отслеживать, контролировать'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "95d722937af3",
+    "question": "Complete: 'Clothes that can ___ dirt and clean themselves.'",
+    "options": [
+      "detect",
+      "defect",
+      "detach",
+      "detail"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Detect' means 'обнаруживать'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "ca2a9e3b84a6",
+    "question": "Complete: 'A car that could ___ its own power.'",
+    "options": [
+      "generate",
+      "generous",
+      "general",
+      "genetic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Generate' means 'вырабатывать, производить'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "cd60e9973d17",
+    "question": "Complete: 'It wouldn't ___ any harmful pollutants.'",
+    "options": [
+      "emit",
+      "omit",
+      "edit",
+      "exit"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Emit' means 'выделять, испускать'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
+  },
+  {
+    "id": "8ce0fa0fc959",
+    "question": "Complete: 'That would really ___ our diets!'",
+    "options": [
+      "revolutionise",
+      "revolution",
+      "revolver",
+      "reveal"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Revolutionise' means 'совершить революцию в чём-то'.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ]
   }
 ]

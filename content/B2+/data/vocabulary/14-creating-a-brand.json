@@ -51,6 +51,36 @@
       "term": "launch",
       "translation": "запуск, выпуск",
       "example": "The product launch is scheduled for next month."
+    },
+    {
+      "term": "merchandise",
+      "translation": "сувенирная продукция, мерч",
+      "example": "You can see the logo on T-shirts and other merchandise."
+    },
+    {
+      "term": "billboard",
+      "translation": "рекламный щит",
+      "example": "The ad is on billboards on the walls of buildings."
+    },
+    {
+      "term": "flyer",
+      "translation": "флаер, листовка",
+      "example": "We produced thousands of flyers and handed them out."
+    },
+    {
+      "term": "go viral",
+      "translation": "стать вирусным",
+      "example": "The video went viral, reaching an audience of millions."
+    },
+    {
+      "term": "hype",
+      "translation": "ажиотаж",
+      "example": "Despite the hype, the campaign was not as successful as hoped."
+    },
+    {
+      "term": "push",
+      "translation": "активная кампания (продвижение)",
+      "example": "In 2006 there was a big push to promote the city."
     }
   ]
 }

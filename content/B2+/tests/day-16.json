@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "branding-behaviour"
     ]
+  },
+  {
+    "id": "4cd2e7e6d57e",
+    "question": "Complete: 'We've put the cleanser in a ___ packaging.'",
+    "options": [
+      "no-frills",
+      "no-limits",
+      "no-names",
+      "no-news"
+    ],
+    "correctIndex": 0,
+    "explanation": "'No-frills' means 'без излишеств, простой'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "ab32e0e346e0",
+    "question": "Complete: 'The product has been given a ___.'",
+    "options": [
+      "makeover",
+      "makeup",
+      "make-or-break",
+      "make-believe"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Makeover' means 'обновление (внешности)'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "8075188cbc8a",
+    "question": "Complete: 'The cleanser looked more ___ in the new bottle.'",
+    "options": [
+      "luxurious",
+      "ridiculous",
+      "anxious",
+      "furious"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Luxurious' means 'роскошный'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "3ff289669b3c",
+    "question": "Complete: 'They tried to make it a ___.'",
+    "options": [
+      "status product",
+      "dairy product",
+      "loss product",
+      "by-product"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Status product' means 'статусный товар'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "e0632680deed",
+    "question": "Complete: 'It gives the brand an aura of ___.'",
+    "options": [
+      "credibility",
+      "hostility",
+      "humility",
+      "fragility"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Credibility' means 'доверие, авторитет'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "96a941e41e47",
+    "question": "Complete: 'They thought this was simply ___.'",
+    "options": [
+      "market research",
+      "market failure",
+      "market crash",
+      "market gossip"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Market research' means 'исследование рынка'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "854c1eafc9d1",
+    "question": "Complete: 'Luxury ads can drop your ___.'",
+    "options": [
+      "self-esteem",
+      "self-service",
+      "self-control",
+      "self-portrait"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Self-esteem' means 'самооценка'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
+  },
+  {
+    "id": "eb623b4b85f6",
+    "question": "Complete: 'An ___ product with gorgeous people in the ads.'",
+    "options": [
+      "aspirational",
+      "operational",
+      "inspirational",
+      "fictional"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Aspirational' means 'желанный, к которому стремятся'.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ]
   }
 ]

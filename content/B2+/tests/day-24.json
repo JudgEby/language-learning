@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "tech-fail"
     ]
+  },
+  {
+    "id": "b4ec95c8d5f8",
+    "question": "Complete: '___ your settings before the call.'",
+    "options": [
+      "Adjust",
+      "Adopt",
+      "Admire",
+      "Adore"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Adjust' means 'настраивать, регулировать'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "21a9a46799f6",
+    "question": "Complete: '___ your apps regularly.'",
+    "options": [
+      "Update",
+      "Upload",
+      "Unplug",
+      "Undo"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Update' means 'обновлять'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "f9c17f5431ca",
+    "question": "Complete: '___ your battery when it's low.'",
+    "options": [
+      "Recharge",
+      "Replace",
+      "Remove",
+      "Repair"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Recharge' means 'заряжать (аккумулятор)'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "afa246e8dbe1",
+    "question": "Complete: 'Video calls ___ your battery of power.'",
+    "options": [
+      "drain",
+      "drill",
+      "draw",
+      "drown"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Drain' means 'разряжать, сажать (батарею)'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "dc84a4fde526",
+    "question": "Complete: 'You can ___ this feature in settings.'",
+    "options": [
+      "disable",
+      "dislike",
+      "disagree",
+      "display"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Disable' means 'отключать (функцию)'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "b433a7902a71",
+    "question": "Complete: 'It ___ you with everything around you.'",
+    "options": [
+      "syncs",
+      "sinks",
+      "sings",
+      "signs"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sync' means 'синхронизировать'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "66d685acc35f",
+    "question": "Complete: 'One unified system ___ your world.'",
+    "options": [
+      "integrates",
+      "interrupts",
+      "interests",
+      "interprets"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Integrate' means 'объединять в единое целое'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "2fee73ab3865",
+    "question": "Complete: 'It syncs you ___ and continuously.'",
+    "options": [
+      "wirelessly",
+      "hopelessly",
+      "endlessly",
+      "tirelessly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Wirelessly' means 'по беспроводной связи'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "542141f65fcd",
+    "question": "Complete: 'It syncs you to the BBC itself ___.'",
+    "options": [
+      "in real time",
+      "in good time",
+      "in no time",
+      "in spare time"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In real time' means 'в реальном времени'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
+  },
+  {
+    "id": "78f2d7ff4212",
+    "question": "Complete: 'One ___ system that changes the game.'",
+    "options": [
+      "unified",
+      "united",
+      "unique",
+      "urban"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Unified' means 'единый, объединённый'.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ]
   }
 ]

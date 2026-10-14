@@ -223,5 +223,95 @@
     "relatedRuleIds": [
       "creating-a-brand"
     ]
+  },
+  {
+    "id": "db300c4bce50",
+    "question": "Complete: 'You can see the logo on T-shirts and other ___.'",
+    "options": [
+      "merchandise",
+      "furniture",
+      "vehicles",
+      "medicines"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Merchandise' means 'сувенирная продукция, мерч'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "ca9397abc86c",
+    "question": "Complete: 'The ad is on ___ on the walls of buildings.'",
+    "options": [
+      "billboards",
+      "envelopes",
+      "receipts",
+      "bookmarks"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Billboard' means 'рекламный щит'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "78b763e240a3",
+    "question": "Complete: 'We produced thousands of ___ and handed them out.'",
+    "options": [
+      "flyers",
+      "tickets",
+      "towels",
+      "tacos"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Flyer' means 'флаер, листовка'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "10f9d39a5936",
+    "question": "Complete: 'The video ___ , reaching millions.'",
+    "options": [
+      "went viral",
+      "went silent",
+      "went missing",
+      "went bankrupt"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Go viral' means 'стать вирусным'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "57d6f47a2396",
+    "question": "Complete: 'Despite the ___, the campaign was not successful.'",
+    "options": [
+      "hype",
+      "help",
+      "hope",
+      "joke"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hype' means 'ажиотаж'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
+  },
+  {
+    "id": "1c7c15a82f9e",
+    "question": "Complete: 'There was a big ___ to promote the city.'",
+    "options": [
+      "push",
+      "pull",
+      "pause",
+      "crash"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Push' means 'активная кампания (продвижение)'.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ]
   }
 ]

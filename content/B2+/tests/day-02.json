@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "places"
     ]
+  },
+  {
+    "id": "d44f4a534566",
+    "question": "Complete: 'They should ___ a lot of old tower blocks and build modern apartments.'",
+    "options": [
+      "demolish",
+      "modernise",
+      "restore",
+      "merge"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Demolish' means 'снести'. Old buildings are pulled down to build something new.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "7b5c5b7649a9",
+    "question": "Complete: 'Our office is old-fashioned and needs to be ___.'",
+    "options": [
+      "modernised",
+      "demolished",
+      "merged",
+      "restored"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Modernised' means 'модернизированный'. An old-fashioned place is updated.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "096ed0a08eda",
+    "question": "Complete: 'The school was destroyed in a fire, but it was ___ to the same design.'",
+    "options": [
+      "reconstructed",
+      "demolished",
+      "spruced up",
+      "merged"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reconstructed' means 'перестроенный, восстановленный'. It was built again to the same design.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "d476f3a956ac",
+    "question": "Complete: 'When designing an urban space, it is important to ___ areas where people can socialise.'",
+    "options": [
+      "build in",
+      "demolish",
+      "merge",
+      "restore"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Build in' means 'предусмотреть при строительстве'. Social areas are included in the design.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "be702192ada9",
+    "question": "Complete: 'If we ___ the sports fields with the park, we can create a huge green space.'",
+    "options": [
+      "merge",
+      "demolish",
+      "refurbish",
+      "restore"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Merge' means 'объединить'. Two areas become one larger space.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "31b336c4bd05",
+    "question": "Complete: 'We decided to ___ the room with a fresh coat of paint.'",
+    "options": [
+      "spruce up",
+      "demolish",
+      "reconstruct",
+      "merge"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Spruce up' means 'приукрасить'. A coat of paint makes the room look better.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "1f777dc243a3",
+    "question": "Complete: 'The hotel has been completely ___ with brand new furniture.'",
+    "options": [
+      "refurbished",
+      "demolished",
+      "merged",
+      "restored"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Refurbished' means 'отремонтированный, обновленный'. Old furniture is replaced with new.",
+    "relatedRuleIds": [
+      "places"
+    ]
+  },
+  {
+    "id": "1a8c0a84b192",
+    "question": "Complete: 'It would be good to ___ the walkway, which was destroyed in the floods.'",
+    "options": [
+      "restore",
+      "demolish",
+      "merge",
+      "modernise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Restore' means 'восстановить'. The damaged walkway is brought back to good condition.",
+    "relatedRuleIds": [
+      "places"
+    ]
   }
 ]

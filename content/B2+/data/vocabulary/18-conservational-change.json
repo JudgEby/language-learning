@@ -76,6 +76,16 @@
       "term": "breed",
       "translation": "разводить, размножаться",
       "example": "Endangered animals can be bred in captivity and then returned to the wild."
+    },
+    {
+      "term": "game",
+      "translation": "дичь (животные как объект охоты)",
+      "example": "Some animals are seen as game and hunted for sport."
+    },
+    {
+      "term": "wildlife",
+      "translation": "дикая природа",
+      "example": "Tourism can have a negative effect on wildlife."
     }
   ]
 }

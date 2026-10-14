@@ -61,6 +61,51 @@
       "term": "rent",
       "translation": "арендная плата",
       "example": "The rent for this flat is extremely high for the size."
+    },
+    {
+      "term": "derelict",
+      "translation": "заброшенный, разрушенный",
+      "example": "The old factory was pretty derelict."
+    },
+    {
+      "term": "in ruins",
+      "translation": "в руинах",
+      "example": "The house wasn't completely in ruins."
+    },
+    {
+      "term": "cosy",
+      "translation": "уютный",
+      "example": "It looked lovely and cosy inside."
+    },
+    {
+      "term": "luxurious",
+      "translation": "роскошный",
+      "example": "The bathroom looked luxurious."
+    },
+    {
+      "term": "rotten",
+      "translation": "гнилой",
+      "example": "A lot of the wood was rotten."
+    },
+    {
+      "term": "cracks",
+      "translation": "трещины",
+      "example": "There were cracks in some of the walls."
+    },
+    {
+      "term": "mould",
+      "translation": "плесень",
+      "example": "The walls were covered in mould."
+    },
+    {
+      "term": "damp",
+      "translation": "сырой, влажный",
+      "example": "It was dark and damp inside."
+    },
+    {
+      "term": "overlook",
+      "translation": "выходить окнами на",
+      "example": "It overlooked a really ugly factory."
     }
   ]
 }

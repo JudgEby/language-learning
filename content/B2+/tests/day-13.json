@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "selfie-expression"
     ]
+  },
+  {
+    "id": "74907d2d82c2",
+    "question": "Complete: 'If photos are ___ to one a day, they are limited.'",
+    "options": [
+      "restricted",
+      "deleted",
+      "shared",
+      "liked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Restricted' means 'ограниченный'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "523f516fbb69",
+    "question": "Complete: 'Popular sites have decided to ___ selfies.'",
+    "options": [
+      "prohibit",
+      "promote",
+      "allow",
+      "enjoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Prohibit' means 'запрещать'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "385a4f55c5d0",
+    "question": "Complete: 'New tech will ___ the need to save photos.'",
+    "options": [
+      "eliminate",
+      "create",
+      "increase",
+      "ignore"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Eliminate' means 'устранять'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "d22162df44ed",
+    "question": "Complete: 'They need to work together to ___ such a rule.'",
+    "options": [
+      "implement",
+      "forget",
+      "break",
+      "hide"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Implement' means 'внедрять, осуществлять'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "0b03344d529e",
+    "question": "Complete: 'Manufacturers might not want to ___ such a rule.'",
+    "options": [
+      "impose",
+      "oppose",
+      "remove",
+      "discuss"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Impose' means 'навязывать, вводить (правило)'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "69c8761a9dbb",
+    "question": "Complete: 'Individuals should ___ their own behaviour.'",
+    "options": [
+      "regulate",
+      "abandon",
+      "copy",
+      "record"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Regulate' means 'регулировать'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "e86f1251902b",
+    "question": "Complete: 'Fences ___ tourists from climbing on monuments.'",
+    "options": [
+      "deter",
+      "invite",
+      "help",
+      "teach"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Deter' means 'удерживать, отпугивать'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "e0f66d056e95",
+    "question": "Complete: 'The school decided to ___ the old rule.'",
+    "options": [
+      "abolish",
+      "adopt",
+      "keep",
+      "copy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Abolish' means 'отменять'.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "afa153e5913f",
+    "question": "Complete: 'Some sites banned photography because of ___ visitors.'",
+    "options": [
+      "impulsive",
+      "patient",
+      "careful",
+      "polite"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Impulsive' means 'импульсивный' (synonym: spontaneous).",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
+  },
+  {
+    "id": "61bd28d25768",
+    "question": "Complete: 'Being ___ is a positive trait in a photographer.'",
+    "options": [
+      "inquisitive",
+      "jealous",
+      "lazy",
+      "rude"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Inquisitive' means 'любознательный' (synonym: nosy).",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ]
   }
 ]

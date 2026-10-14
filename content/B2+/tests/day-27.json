@@ -223,5 +223,110 @@
     "relatedRuleIds": [
       "pre-loved"
     ]
+  },
+  {
+    "id": "75257bb04cc5",
+    "question": "Complete: 'By buying a ___ outfit you can save money.'",
+    "options": [
+      "pre-loved",
+      "pre-paid",
+      "pre-school",
+      "pre-war"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pre-loved' means 'бывший в употреблении (в хорошем смысле)'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "7aedbef1a7a3",
+    "question": "Complete: 'Sell the ___ clothes that don't fit anymore.'",
+    "options": [
+      "decent",
+      "recent",
+      "dozenth",
+      "descent"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Decent' means 'приличный, достойный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "5c77c7575323",
+    "question": "Complete: 'All couples want to look ___ on their wedding day.'",
+    "options": [
+      "classy",
+      "clumsy",
+      "glassy",
+      "grassy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Classy' means 'элегантный, стильный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "59722ba6cdaa",
+    "question": "Complete: 'They sell ___ exercise equipment they've barely used.'",
+    "options": [
+      "fancy",
+      "funny",
+      "fussy",
+      "foggy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fancy' means 'нарядный, шикарный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "e8bd0d870faf",
+    "question": "Complete: 'The latest tech can be ___.'",
+    "options": [
+      "costly",
+      "cosy",
+      "coastly",
+      "ghostly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Costly' means 'дорогостоящий'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "c9a1a77fd7a2",
+    "question": "Complete: 'It's easy to make ___ items look brand new.'",
+    "options": [
+      "shabby",
+      "shiny",
+      "shady",
+      "shabby-chic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shabby' means 'потрёпанный, убогий'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
+  },
+  {
+    "id": "9961ec6e2b9c",
+    "question": "Complete: 'Vintage clothes are quite ___ again.'",
+    "options": [
+      "trendy",
+      "timely",
+      "showy",
+      "flashy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Trendy' means 'модный'.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ]
   }
 ]

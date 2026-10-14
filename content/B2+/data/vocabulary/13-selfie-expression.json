@@ -56,6 +56,66 @@
       "term": "shot",
       "translation": "снимок, кадр",
       "example": "That's a great shot of the sunset."
+    },
+    {
+      "term": "restrict",
+      "translation": "ограничивать",
+      "example": "If photos are restricted to one a day, they are limited."
+    },
+    {
+      "term": "prohibit",
+      "translation": "запрещать",
+      "example": "Popular tourist sites have decided to prohibit selfies."
+    },
+    {
+      "term": "eliminate",
+      "translation": "устранять",
+      "example": "New technology will eliminate the need to save photos."
+    },
+    {
+      "term": "implement",
+      "translation": "внедрять, осуществлять",
+      "example": "They need to work together to implement such a rule."
+    },
+    {
+      "term": "impose",
+      "translation": "навязывать, вводить (правило)",
+      "example": "Manufacturers might not want to impose such a rule."
+    },
+    {
+      "term": "regulate",
+      "translation": "регулировать",
+      "example": "Individuals should regulate their own behaviour."
+    },
+    {
+      "term": "deter",
+      "translation": "удерживать, отпугивать",
+      "example": "Fences deter tourists from climbing on the monuments."
+    },
+    {
+      "term": "abolish",
+      "translation": "отменять",
+      "example": "The school decided to abolish the old photography rule."
+    },
+    {
+      "term": "impulsive",
+      "translation": "импульсивный (синоним: spontaneous)",
+      "example": "Some sites banned photography because of impulsive visitors."
+    },
+    {
+      "term": "private",
+      "translation": "скрытный (синоним: secretive)",
+      "example": "Some people are private and don't like attention."
+    },
+    {
+      "term": "impoverished",
+      "translation": "обнищавший (синоним: deprived)",
+      "example": "A photo of an impoverished person sitting in the street."
+    },
+    {
+      "term": "inquisitive",
+      "translation": "любознательный (синоним: nosy)",
+      "example": "Being inquisitive is a positive trait in a photographer."
     }
   ]
 }

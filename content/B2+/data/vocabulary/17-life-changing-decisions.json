@@ -41,6 +41,66 @@
       "term": "decisive",
       "translation": "решительный",
       "example": "A good leader needs to be decisive in times of crisis."
+    },
+    {
+      "term": "change of heart",
+      "translation": "перемена мнения",
+      "example": "I hope he hasn't had a change of heart about moving."
+    },
+    {
+      "term": "pros and cons",
+      "translation": "за и против",
+      "example": "I write a list of pros and cons before I reach my decision."
+    },
+    {
+      "term": "second thoughts",
+      "translation": "сомнения (задним числом)",
+      "example": "They've had second thoughts about their decision."
+    },
+    {
+      "term": "reach a decision",
+      "translation": "прийти к решению",
+      "example": "I can eventually come to a decision if I sleep on it."
+    },
+    {
+      "term": "on impulse",
+      "translation": "под влиянием порыва",
+      "example": "I avoid making decisions on impulse."
+    },
+    {
+      "term": "assess outcomes",
+      "translation": "оценивать возможные исходы",
+      "example": "I assess all possible outcomes before making a decision."
+    },
+    {
+      "term": "sleep on it",
+      "translation": "переспать с мыслью (отложить решение)",
+      "example": "Think it over, sleep on it — don't decide in a split second."
+    },
+    {
+      "term": "think better of",
+      "translation": "передумать, одуматься",
+      "example": "I thought better of lending him money."
+    },
+    {
+      "term": "torn between",
+      "translation": "разрываться между",
+      "example": "I'm torn between staying or leaving."
+    },
+    {
+      "term": "in a split second",
+      "translation": "в долю секунды",
+      "example": "Do you decide what pizza you want in a split second?"
+    },
+    {
+      "term": "undecided",
+      "translation": "нерешивший, колеблющийся",
+      "example": "Are you undecided for ages before big decisions?"
+    },
+    {
+      "term": "without hesitation",
+      "translation": "не колеблясь",
+      "example": "If I'm sure, I'll decide quickly, without hesitation."
     }
   ]
 }

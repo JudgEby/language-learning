@@ -10,7 +10,7 @@
     {
       "term": "outskirts",
       "translation": "окраина",
-      "example": "They live on the outskirts of town, far from the繁忙 centre."
+      "example": "They live on the outskirts of town, far from the busy centre."
     },
     {
       "term": "slums",
@@ -51,6 +51,46 @@
       "term": "construction",
       "translation": "строительство",
       "example": "The construction industry should do more to combat climate change."
+    },
+    {
+      "term": "demolish",
+      "translation": "снести, разрушить",
+      "example": "They should demolish a lot of tower blocks built in the 1970s."
+    },
+    {
+      "term": "modernise",
+      "translation": "модернизировать",
+      "example": "The city centre used to be old-fashioned, but it has been completely modernised."
+    },
+    {
+      "term": "reconstruct",
+      "translation": "перестроить, восстановить",
+      "example": "The old town hall was destroyed in a fire, but they are going to reconstruct it."
+    },
+    {
+      "term": "build in",
+      "translation": "предусмотреть при строительстве, встроить",
+      "example": "We should build in more green and blue spaces."
+    },
+    {
+      "term": "merge",
+      "translation": "объединить",
+      "example": "The two small parks have been merged into one larger green space."
+    },
+    {
+      "term": "spruce up",
+      "translation": "приукрасить, привести в порядок",
+      "example": "The local authority spent a lot of money sprucing up the city centre."
+    },
+    {
+      "term": "refurbish",
+      "translation": "отремонтировать, обновить",
+      "example": "The old theatre has been refurbished, so it looks as good as new."
+    },
+    {
+      "term": "restore",
+      "translation": "восстановить, реставрировать",
+      "example": "They are going to restore the fountain, which was taken out a few years ago."
     }
   ]
 }

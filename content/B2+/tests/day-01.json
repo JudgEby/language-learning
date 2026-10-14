@@ -238,5 +238,125 @@
     "relatedRuleIds": [
       "new-friends"
     ]
+  },
+  {
+    "id": "b3ae8f9c156d",
+    "question": "Complete: 'Carl and I ___ our love for music.'",
+    "options": [
+      "bonded over",
+      "came between",
+      "fell out over",
+      "drifted apart over"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bond over' means 'найти общий язык благодаря чему-то'. A shared love connects people.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "6994e2343f11",
+    "question": "Complete: 'My neighbour and I ___ as soon as we met.'",
+    "options": [
+      "clicked",
+      "fell out",
+      "came between",
+      "drifted apart"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Click with someone' means 'найти контакт'. It describes an instant connection.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "7c3216d92432",
+    "question": "What does 'confide in someone' mean?",
+    "options": [
+      "доверять, делиться сокровенным",
+      "ссориться с кем-то",
+      "завидовать кому-то",
+      "подражать кому-то"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Confide in' means 'доверять, делиться сокровенным'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "2a27f2c9fdbc",
+    "question": "Complete: 'Sarka and I have a ___ from university.'",
+    "options": [
+      "mutual friend",
+      "close stranger",
+      "false memory",
+      "brief acquaintance"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mutual friend' means 'общий друг'. Both people know the same person.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "bf64b5a2bcd8",
+    "question": "Complete: 'I ___ my new colleague immediately.'",
+    "options": [
+      "hit it off with",
+      "fell out with",
+      "came between",
+      "drifted apart from"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hit it off with someone' means 'сразу найти общий язык'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "78d7415b7890",
+    "question": "What does 'be on the same wavelength' mean?",
+    "options": [
+      "быть на одной волне",
+      "жить по соседству",
+      "работать вместе",
+      "учиться в одном классе"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be on the same wavelength' means 'быть на одной волне, одинаково мыслить'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "8bfaacfdbc8f",
+    "question": "Complete: 'They love to ___ their old school friends.'",
+    "options": [
+      "party with",
+      "fall out with",
+      "come between",
+      "drift apart from"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Party with' means 'тусоваться, веселиться с кем-то'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
+  },
+  {
+    "id": "02701dece4b2",
+    "question": "Complete: 'I wanted people my own age to ___.'",
+    "options": [
+      "socialise with",
+      "fall out with",
+      "come between",
+      "make up with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Socialise with' means 'общаться, проводить время с кем-то'.",
+    "relatedRuleIds": [
+      "new-friends"
+    ]
   }
 ]

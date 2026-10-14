@@ -223,5 +223,95 @@
     "relatedRuleIds": [
       "habits"
     ]
+  },
+  {
+    "id": "02cbee57aeac",
+    "question": "Complete: 'I'm not really a ___.'",
+    "options": [
+      "creature of habit",
+      "creature of nature",
+      "creature of comfort",
+      "creature of habitability"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Creature of habit' means 'раб привычки'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "fece96a52b41",
+    "question": "Complete: 'I don't really ___ too much.'",
+    "options": [
+      "plan ahead",
+      "look behind",
+      "fall behind",
+      "run ahead"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Plan ahead' means 'планировать заранее'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "6a8ba4b1d7ba",
+    "question": "Complete: 'Without routines you might not have a ___.'",
+    "options": [
+      "back-up plan",
+      "back-up singer",
+      "back-up file",
+      "back-up goalie"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Back-up plan' means 'запасной план'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "b05df46b7716",
+    "question": "Complete: 'Too much routine gets you ___.'",
+    "options": [
+      "stuck in a rut",
+      "lost in a mall",
+      "caught in a trap",
+      "put on a map"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stuck in a rut' means 'застрять в колее'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "c240a721db8e",
+    "question": "Complete: 'Routines give you a ___.'",
+    "options": [
+      "sense of comfort",
+      "sense of humour",
+      "sense of danger",
+      "sense of urgency"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sense of comfort' means 'чувство комфорта'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
+  },
+  {
+    "id": "798fe72a1245",
+    "question": "Complete: 'It allows you to go outside your ___.'",
+    "options": [
+      "comfort zone",
+      "time zone",
+      "danger zone",
+      "twilight zone"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Comfort zone' means 'зона комфорта'.",
+    "relatedRuleIds": [
+      "habits"
+    ]
   }
 ]

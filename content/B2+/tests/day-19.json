@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "effecting-change"
     ]
+  },
+  {
+    "id": "1508668e8362",
+    "question": "Complete: 'There are 250 ___ in the city.'",
+    "options": [
+      "homeless people",
+      "happy people",
+      "busy people",
+      "rich people"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Homeless' means 'бездомный'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "bfc7b2621a8b",
+    "question": "Complete: 'The harmful effects of ___ water.'",
+    "options": [
+      "contaminated",
+      "sparkling",
+      "holy",
+      "mineral"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Contaminated' means 'загрязнённый' (synonym: polluted).",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "667cb20e62d1",
+    "question": "Complete: 'Players imagine they have become ___.'",
+    "options": [
+      "employed or jobless",
+      "rich or famous",
+      "tall or short",
+      "young or old"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Employed' means 'трудоустроенный' (opposite: jobless).",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "99e931bd53d5",
+    "question": "Complete: 'A ___ to raise awareness of climate change.'",
+    "options": [
+      "campaign",
+      "concert",
+      "competition",
+      "carnival"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Campaign' means 'кампания'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "686da95f6815",
+    "question": "Complete: 'Lorries which absorb or ___ harmful gases.'",
+    "options": [
+      "emit",
+      "omit",
+      "edit",
+      "exit"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Emit' means 'выделять, испускать'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "785897f05fa0",
+    "question": "Complete: 'We need to reduce ___.'",
+    "options": [
+      "greenhouse gases",
+      "greenhouse parties",
+      "greenhouse tickets",
+      "greenhouse tours"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Greenhouse gases' means 'парниковые газы'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "da93d4f7dac8",
+    "question": "Complete: 'The annual ___ is famous for its outrageous fashion.'",
+    "options": [
+      "fundraiser",
+      "fireworks",
+      "funfair",
+      "freestyle"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fundraiser' means 'сбор средств, благотворительная акция'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "4f7a5669c2a6",
+    "question": "Complete: 'Outfits ___ social change.'",
+    "options": [
+      "advocating",
+      "avoiding",
+      "attacking",
+      "ignoring"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Advocate' means 'выступать за, поддерживать'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "adde0eea11ae",
+    "question": "Complete: 'Inequality experienced by the ___.'",
+    "options": [
+      "disadvantaged",
+      "delighted",
+      "devoted",
+      "distant"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Disadvantaged' means 'обездоленный' (opposite: advantaged).",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
+  },
+  {
+    "id": "875e5eb1b4fa",
+    "question": "Complete: 'We need to ___ of this problem.'",
+    "options": [
+      "raise awareness",
+      "raise salaries",
+      "raise eyebrows",
+      "raise roofs"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Raise awareness' means 'повышать осведомлённость'.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ]
   }
 ]

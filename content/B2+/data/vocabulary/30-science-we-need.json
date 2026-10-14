@@ -46,6 +46,56 @@
       "term": "invention",
       "translation": "изобретение",
       "example": "The invention of the smartphone changed the way we communicate."
+    },
+    {
+      "term": "monitor",
+      "translation": "отслеживать, контролировать",
+      "example": "A device that could monitor my brain as I sleep."
+    },
+    {
+      "term": "convert",
+      "translation": "преобразовывать",
+      "example": "Convert my thought patterns into a story I could read."
+    },
+    {
+      "term": "detect",
+      "translation": "обнаруживать",
+      "example": "Clothes that can detect dirt and clean themselves."
+    },
+    {
+      "term": "activate",
+      "translation": "активировать, запускать",
+      "example": "Activate their own cleaning process to eliminate dirt."
+    },
+    {
+      "term": "eliminate",
+      "translation": "устранять",
+      "example": "To eliminate dirt, so I'd never have to do washing."
+    },
+    {
+      "term": "generate",
+      "translation": "вырабатывать, производить",
+      "example": "A car that could generate its own power."
+    },
+    {
+      "term": "emit",
+      "translation": "выделять, испускать",
+      "example": "It wouldn't emit any harmful pollutants."
+    },
+    {
+      "term": "recharge",
+      "translation": "заряжать",
+      "example": "No need to recharge the battery."
+    },
+    {
+      "term": "modify",
+      "translation": "модифицировать, видоизменять",
+      "example": "A way to modify our favourite foods."
+    },
+    {
+      "term": "revolutionise",
+      "translation": "совершить революцию в чём-то",
+      "example": "That would really revolutionise our diets and our health!"
     }
   ]
 }

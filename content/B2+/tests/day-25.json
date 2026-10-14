@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "word-on-the-street"
     ]
+  },
+  {
+    "id": "7aca417b159b",
+    "question": "Complete: 'To ___, we find the new proposals unacceptable.'",
+    "options": [
+      "sum up",
+      "give up",
+      "take up",
+      "make up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sum up' means 'подводить итог'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "2745d8a756c0",
+    "question": "Complete: 'Can you ___ exactly what you mean?'",
+    "options": [
+      "spell out",
+      "spell over",
+      "spell along",
+      "spell down"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Spell out' means 'разъяснять, излагать'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "54dc9f3ae81c",
+    "question": "Complete: 'Let me give examples to ___ my point.'",
+    "options": [
+      "illustrate",
+      "illuminate",
+      "initiate",
+      "irritate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Illustrate' means 'иллюстрировать примером'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "33a398014636",
+    "question": "Complete: 'A white belt ___ that you are a beginner.'",
+    "options": [
+      "signifies",
+      "simplifies",
+      "satisfies",
+      "signs"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Signify' means 'означать'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "6d6de353a4b3",
+    "question": "Complete: 'It's hard to ___ the word freedom.'",
+    "options": [
+      "define",
+      "decline",
+      "defend",
+      "defeat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Define' means 'давать определение'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "5a85c25c933c",
+    "question": "Complete: 'Can you ___ what kind of animal you saw?'",
+    "options": [
+      "specify",
+      "spectate",
+      "speculate",
+      "spoil"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Specify' means 'уточнять, конкретизировать'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "30801d00fa45",
+    "question": "Complete: 'Choose words to ___ the exact meaning.'",
+    "options": [
+      "convey",
+      "convince",
+      "convert",
+      "conquer"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Convey' means 'передавать (точное значение)'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
+  },
+  {
+    "id": "075d27a887b0",
+    "question": "Complete: 'Her description really ___ the atmosphere.'",
+    "options": [
+      "captures",
+      "catches",
+      "caps",
+      "captivates"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Capture' means 'передавать, улавливать (атмосферу)'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ]
   }
 ]

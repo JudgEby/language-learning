@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "street-chatter"
     ]
+  },
+  {
+    "id": "722b971bffee",
+    "question": "Complete: 'No matter what they do, they ___ .' ",
+    "options": [
+      "drive me up the wall",
+      "bring me to my senses",
+      "put me at ease",
+      "take me by surprise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Drive someone up the wall' means 'доводить до бешенства'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "de1933cb763c",
+    "question": "Complete: 'I had ___ before my performance.'",
+    "options": [
+      "butterflies in my stomach",
+      "ants in my pants",
+      "stars in my eyes",
+      "frogs in my throat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have butterflies in one's stomach' means 'волноваться'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "906d94e82022",
+    "question": "Complete: 'We were all ___ looking for the keys.'",
+    "options": [
+      "tearing our hair out",
+      "washing our hands of",
+      "shaking our heads at",
+      "nodding our heads to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tear one's hair out' means 'рвать на себе волосы от отчаяния'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "41b90e4a86d0",
+    "question": "Complete: 'He was covered in mud and I nearly ___.'",
+    "options": [
+      "killed myself laughing",
+      "cried myself to sleep",
+      "talked myself hoarse",
+      "bored myself stiff"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Kill oneself laughing' means 'умирать со смеху'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "5dc659d9ce56",
+    "question": "Complete: 'Eva ___ with Enrico.'",
+    "options": [
+      "lost her temper",
+      "lost her way",
+      "lost her touch",
+      "lost her nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Lose one's temper' means 'выйти из себя'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "3a630edb248c",
+    "question": "Complete: 'Eva is ___ about her exam results.'",
+    "options": [
+      "on edge",
+      "on fire",
+      "on air",
+      "on leave"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be on edge' means 'быть на взводе, нервничать'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "9888de8ed28f",
+    "question": "Complete: 'I believed him and now I could ___.'",
+    "options": [
+      "kick myself",
+      "pat myself",
+      "enjoy myself",
+      "help myself"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Kick oneself' means 'корить себя'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
+  },
+  {
+    "id": "9835125cb1f8",
+    "question": "Complete: 'Jan is so annoying — she's ___.'",
+    "options": [
+      "a real pain",
+      "a real gem",
+      "a real catch",
+      "a real treat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be a real pain' means 'быть настоящей занозой'.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ]
   }
 ]

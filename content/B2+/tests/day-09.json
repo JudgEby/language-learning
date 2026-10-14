@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "fanfiction"
     ]
+  },
+  {
+    "id": "343f9dccb3f1",
+    "question": "Complete: 'The film has a ___ ending, where everyone dies.'",
+    "options": [
+      "tragic",
+      "comic",
+      "boring",
+      "long"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Tragic' means 'трагический'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "414a73189f00",
+    "question": "Complete: 'He said those beautiful and ___ last words.'",
+    "options": [
+      "profound",
+      "rude",
+      "short",
+      "loud"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Profound' means 'глубокий (о мысли, словах)'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "89b1b6d1268b",
+    "question": "Complete: 'It's ___ that more young people read books.'",
+    "options": [
+      "encouraging",
+      "shocking",
+      "boring",
+      "strange"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Encouraging' means 'обнадёживающий'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "c9b542fd2bd9",
+    "question": "Complete: 'I'm ___ to promote it, but others don't see it as literature.'",
+    "options": [
+      "eager",
+      "afraid",
+      "tired",
+      "unable"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Eager' means 'стремящийся, желающий'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "bd038309a38a",
+    "question": "Complete: 'It's always ___ to explore a minor character's story.'",
+    "options": [
+      "entertaining",
+      "exhausting",
+      "embarrassing",
+      "annoying"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Entertaining' means 'занимательный'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "58f866469e08",
+    "question": "Complete: 'Writing about a world you love is less ___.'",
+    "options": [
+      "overwhelming",
+      "interesting",
+      "popular",
+      "simple"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Overwhelming' means 'ошеломляющий, непосильный'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "bc7dbf9f7d0f",
+    "question": "Complete: 'That's too dark and ___ for me.'",
+    "options": [
+      "disturbing",
+      "relaxing",
+      "funny",
+      "light"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Disturbing' means 'тревожный, беспокоящий'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "2a305b82268e",
+    "question": "Complete: 'The author paints a vivid and ___ image.'",
+    "options": [
+      "convincing",
+      "confusing",
+      "rigid",
+      "vague"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Convincing' means 'убедительный'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "70a60771cf1e",
+    "question": "Complete: 'His flat character is limiting and ___.'",
+    "options": [
+      "frustrating",
+      "rewarding",
+      "pleasing",
+      "calming"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Frustrating' means 'разочаровывающий, досадный'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
+  },
+  {
+    "id": "66de8a60cff1",
+    "question": "Complete: 'It allowed for a more ___ story.'",
+    "options": [
+      "fulfilling",
+      "empty",
+      "rushed",
+      "dull"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fulfilling' means 'приносящий удовлетворение'.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ]
   }
 ]

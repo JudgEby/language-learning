@@ -51,6 +51,56 @@
       "term": "untrained",
       "translation": "необученный",
       "example": "Untrained employees cannot operate this machine."
+    },
+    {
+      "term": "That's quite a broad topic",
+      "translation": "«это широкая тема» (выигрыш времени)",
+      "example": "That's quite a broad topic. Perhaps I could just talk about my last job."
+    },
+    {
+      "term": "Perhaps I could just talk about…",
+      "translation": "«может, я расскажу о…» (переход к своей теме)",
+      "example": "Perhaps I could just talk about one incident I dealt with recently."
+    },
+    {
+      "term": "The most important point here is…",
+      "translation": "«главное здесь…» (переход к своей теме)",
+      "example": "The most important point here is that I'm committed to ongoing training."
+    },
+    {
+      "term": "That's an interesting question",
+      "translation": "«интересный вопрос» (выигрыш времени)",
+      "example": "That's an interesting question. What I can say is that I'm a quick learner."
+    },
+    {
+      "term": "What I can say is…",
+      "translation": "«что я могу сказать…» (переход к своей теме)",
+      "example": "What I can say is that I believe in giving great customer service."
+    },
+    {
+      "term": "I've thought about this quite a lot",
+      "translation": "«я много об этом думал» (выигрыш времени)",
+      "example": "I've thought about this quite a lot over the years."
+    },
+    {
+      "term": "Can I just say that…",
+      "translation": "«позвольте заметить…» (переход к своей теме)",
+      "example": "Can I just say that I'm an extremely hard worker?"
+    },
+    {
+      "term": "handy",
+      "translation": "умелый, ловкий",
+      "example": "I'm quite handy with most tools."
+    },
+    {
+      "term": "hopeless",
+      "translation": "безнадёжный (в чём-то)",
+      "example": "I thought I'd be hopeless at the new job."
+    },
+    {
+      "term": "beyond me",
+      "translation": "выше моего понимания, мне не по силам",
+      "example": "I thought the new job would be beyond me."
     }
   ]
 }

@@ -61,6 +61,66 @@
       "term": "equal opportunities",
       "translation": "равные возможности",
       "example": "The company ensures equal opportunities for everyone who applies."
+    },
+    {
+      "term": "homeless",
+      "translation": "бездомный (homelessness — бездомность)",
+      "example": "There are 250 homeless people sleeping rough in the city."
+    },
+    {
+      "term": "non-profit organisation",
+      "translation": "некоммерческая организация",
+      "example": "A non-profit organisation that seeks to protect coastlines."
+    },
+    {
+      "term": "contaminated",
+      "translation": "загрязнённый (синоним: polluted)",
+      "example": "The harmful effects of contaminated water."
+    },
+    {
+      "term": "employed",
+      "translation": "трудоустроенный (противоположность: jobless)",
+      "example": "Players imagine they have become employed or jobless."
+    },
+    {
+      "term": "campaign",
+      "translation": "кампания",
+      "example": "A campaign to raise awareness of climate change."
+    },
+    {
+      "term": "emit",
+      "translation": "выделять, испускать",
+      "example": "Lorries which absorb or emit harmful greenhouse gases."
+    },
+    {
+      "term": "greenhouse gases",
+      "translation": "парниковые газы",
+      "example": "We need to reduce greenhouse gases and toxins."
+    },
+    {
+      "term": "toxins",
+      "translation": "токсины",
+      "example": "Harmful greenhouse gases and toxins pollute the air."
+    },
+    {
+      "term": "fundraiser",
+      "translation": "сбор средств, благотворительная акция (синоним: appeal)",
+      "example": "The annual fundraiser is famous for its outrageous fashion."
+    },
+    {
+      "term": "advocate",
+      "translation": "выступать за, поддерживать (синоним: support)",
+      "example": "Outfits advocating social change."
+    },
+    {
+      "term": "disadvantaged",
+      "translation": "обездоленный (противоположность: advantaged)",
+      "example": "Inequality experienced by the disadvantaged."
+    },
+    {
+      "term": "raise awareness",
+      "translation": "повышать осведомлённость",
+      "example": "We need to raise awareness of this problem."
     }
   ]
 }

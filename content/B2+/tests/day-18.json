@@ -223,5 +223,35 @@
     "relatedRuleIds": [
       "conservational-change"
     ]
+  },
+  {
+    "id": "7cd816fb8975",
+    "question": "Complete: 'Some animals are seen as ___ and hunted for sport.'",
+    "options": [
+      "game",
+      "pets",
+      "pests",
+      "prey"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Game' means 'дичь (животные как объект охоты)'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
+  },
+  {
+    "id": "8109fb645510",
+    "question": "Complete: 'Tourism can have a negative effect on ___.'",
+    "options": [
+      "wildlife",
+      "weather",
+      "wilderness",
+      "welfare"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Wildlife' means 'дикая природа'.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ]
   }
 ]

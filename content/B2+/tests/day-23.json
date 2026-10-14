@@ -223,5 +223,140 @@
     "relatedRuleIds": [
       "in-dispute"
     ]
+  },
+  {
+    "id": "af04d31daef6",
+    "question": "Complete: 'The old factory was pretty ___.'",
+    "options": [
+      "derelict",
+      "delightful",
+      "decorated",
+      "democratic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Derelict' means 'заброшенный, разрушенный'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "b2e1989095e7",
+    "question": "Complete: 'The house wasn't completely ___.'",
+    "options": [
+      "in ruins",
+      "in fashion",
+      "in trouble",
+      "in focus"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In ruins' means 'в руинах'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "b6ce2d98be5a",
+    "question": "Complete: 'It looked lovely and ___ inside.'",
+    "options": [
+      "cosy",
+      "costly",
+      "noisy",
+      "messy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cosy' means 'уютный'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "16282adbb884",
+    "question": "Complete: 'The bathroom looked ___.'",
+    "options": [
+      "luxurious",
+      "laborious",
+      "curious",
+      "furious"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Luxurious' means 'роскошный'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "0ecdc5b789b5",
+    "question": "Complete: 'A lot of the wood was ___.'",
+    "options": [
+      "rotten",
+      "robust",
+      "rough",
+      "round"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rotten' means 'гнилой'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "3e68b078e9bc",
+    "question": "Complete: 'There were ___ in some of the walls.'",
+    "options": [
+      "cracks",
+      "tracks",
+      "tricks",
+      "cricks"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cracks' means 'трещины'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "b81793abae91",
+    "question": "Complete: 'The walls were covered in ___.'",
+    "options": [
+      "mould",
+      "gold",
+      "moss",
+      "mud"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mould' means 'плесень'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "2c9c96cf65bd",
+    "question": "Complete: 'It was dark and ___ inside.'",
+    "options": [
+      "damp",
+      "deep",
+      "dense",
+      "dear"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Damp' means 'сырой, влажный'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
+  },
+  {
+    "id": "ae2c9d8350be",
+    "question": "Complete: 'It ___ a really ugly factory.'",
+    "options": [
+      "overlooked",
+      "overheard",
+      "overtook",
+      "overdid"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Overlook' means 'выходить окнами на'.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ]
   }
 ]

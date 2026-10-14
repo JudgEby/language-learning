@@ -46,6 +46,61 @@
       "term": "vision",
       "translation": "видение",
       "example": "The author's vision of the future is both terrifying and thought-provoking."
+    },
+    {
+      "term": "surveillance",
+      "translation": "слежка, наблюдение",
+      "example": "We're under constant surveillance — cameras are everywhere."
+    },
+    {
+      "term": "paranoia",
+      "translation": "паранойя",
+      "example": "It's out of paranoia that people are watching her."
+    },
+    {
+      "term": "curfew",
+      "translation": "комендантский час",
+      "example": "Everyone must be home before curfew."
+    },
+    {
+      "term": "unrest",
+      "translation": "беспорядки, волнения",
+      "example": "They are not getting involved in any social unrest."
+    },
+    {
+      "term": "justice",
+      "translation": "справедливость, правосудие",
+      "example": "There's a lack of justice in the city now."
+    },
+    {
+      "term": "greed",
+      "translation": "жадность",
+      "example": "Their greed wasn't the only cause of the crisis."
+    },
+    {
+      "term": "harmony",
+      "translation": "гармония",
+      "example": "Despite small disagreements, there was harmony in our neighbourhood."
+    },
+    {
+      "term": "paradise",
+      "translation": "рай",
+      "example": "It wasn't paradise — there were bad times as well as good."
+    },
+    {
+      "term": "tranquillity",
+      "translation": "спокойствие, безмятежность",
+      "example": "Home was once a place of tranquillity to rest after work."
+    },
+    {
+      "term": "innocence",
+      "translation": "невинность, неведение",
+      "example": "A warm place, full of life, laughter and innocence."
+    },
+    {
+      "term": "idealism",
+      "translation": "идеализм",
+      "example": "That might sound like idealism, but it was better than today."
     }
   ]
 }

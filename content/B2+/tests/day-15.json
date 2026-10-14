@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "presenting-yourself"
     ]
+  },
+  {
+    "id": "0e42a3c4c051",
+    "question": "Complete: 'That's quite a ___. Perhaps I could just talk about my last job.'",
+    "options": [
+      "broad topic",
+      "narrow mind",
+      "short story",
+      "long day"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's quite a broad topic' buys time before steering the conversation.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "7fb81bdab3a2",
+    "question": "Complete: '___ just talk about one incident I dealt with.'",
+    "options": [
+      "Perhaps I could",
+      "I must never",
+      "I refuse to",
+      "I forgot to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Perhaps I could just talk about…' steers the conversation to your topic.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "9755b4fce610",
+    "question": "Complete: '___ here is that I'm committed to training.'",
+    "options": [
+      "The most important point",
+      "The most boring detail",
+      "The least relevant fact",
+      "The strangest rumour"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The most important point here is…' steers to your message.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "88c4e74bb625",
+    "question": "Complete: 'That's an ___. What I can say is that I'm a quick learner.'",
+    "options": [
+      "interesting question",
+      "rude interruption",
+      "strange noise",
+      "boring lecture"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's an interesting question' buys time to think.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "c65c39879530",
+    "question": "Complete: '___ that I believe in great customer service.'",
+    "options": [
+      "What I can say is",
+      "What I can't hear is",
+      "What I won't do is",
+      "What I didn't see is"
+    ],
+    "correctIndex": 0,
+    "explanation": "'What I can say is…' steers the conversation to your topic.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "a76f67461ef9",
+    "question": "Complete: '___ quite a lot over the years.'",
+    "options": [
+      "I've thought about this",
+      "I've forgotten about this",
+      "I've complained about this",
+      "I've dreamt about this"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I've thought about this quite a lot' buys time to think.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "170573fb9d1b",
+    "question": "Complete: '___ that I'm an extremely hard worker?'",
+    "options": [
+      "Can I just say",
+      "Can I just leave",
+      "Can I just sleep",
+      "Can I just forget"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can I just say that…' steers to your message.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "e03ac52d5a91",
+    "question": "Complete: 'I'm quite ___ most tools.'",
+    "options": [
+      "handy with",
+      "hopeless with",
+      "angry with",
+      "bored with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Handy with' means 'умелый, ловкий'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "b764d267697b",
+    "question": "Complete: 'I thought I'd be ___ the new job.'",
+    "options": [
+      "hopeless at",
+      "excellent at",
+      "famous for",
+      "responsible for"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hopeless at' means 'безнадёжный в чём-то'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
+  },
+  {
+    "id": "68655ddf2b83",
+    "question": "Complete: 'I thought the new job would be ___.'",
+    "options": [
+      "beyond me",
+      "behind me",
+      "below me",
+      "beside me"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Beyond me' means 'выше моего понимания, не по силам'.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ]
   }
 ]

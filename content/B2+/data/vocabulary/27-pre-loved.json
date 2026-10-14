@@ -51,6 +51,41 @@
       "term": "second-hand",
       "translation": "подержанный, секонд-хенд",
       "example": "I bought this coat second-hand at a charity shop."
+    },
+    {
+      "term": "pre-loved",
+      "translation": "бывший в употреблении (в хорошем смысле)",
+      "example": "By buying a pre-loved outfit you can save money."
+    },
+    {
+      "term": "decent",
+      "translation": "приличный, достойный",
+      "example": "Sell the decent clothes that don't fit anymore."
+    },
+    {
+      "term": "classy",
+      "translation": "элегантный, стильный",
+      "example": "All couples want to look classy on their wedding day."
+    },
+    {
+      "term": "fancy",
+      "translation": "нарядный, шикарный",
+      "example": "People sell fancy exercise equipment they've barely used."
+    },
+    {
+      "term": "costly",
+      "translation": "дорогостоящий",
+      "example": "The latest tech can be costly."
+    },
+    {
+      "term": "shabby",
+      "translation": "потрёпанный, убогий",
+      "example": "It's easy to make shabby items look brand new."
+    },
+    {
+      "term": "trendy",
+      "translation": "модный",
+      "example": "Vintage clothes from the 1970s are quite trendy again."
     }
   ]
 }

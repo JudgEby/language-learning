@@ -223,5 +223,65 @@
     "relatedRuleIds": [
       "friend-or-foe"
     ]
+  },
+  {
+    "id": "69bda7259b83",
+    "question": "Complete: 'When competitors try to ___, they do better.'",
+    "options": [
+      "outdo each other",
+      "help each other",
+      "copy each other",
+      "avoid each other"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Outdo each other' means 'перещеголять друг друга'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "7fa07335519f",
+    "question": "Complete: 'They're more likely to ___ that way.'",
+    "options": [
+      "fulfil their potential",
+      "lose their patience",
+      "miss their chance",
+      "waste their money"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fulfil one's potential' means 'реализовать свой потенциал'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "e56e40ea5ab9",
+    "question": "What does 'adversary' mean?",
+    "options": [
+      "соперник, противник",
+      "партнёр, союзник",
+      "клиент, покупатель",
+      "спонсор, инвестор"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Adversary' means 'соперник, противник'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
+  },
+  {
+    "id": "a54e8088f7eb",
+    "question": "Complete: 'Collaboration between ___ is best avoided.'",
+    "options": [
+      "competitors",
+      "friends",
+      "colleagues",
+      "neighbours"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competitor' means 'конкурент'.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ]
   }
 ]

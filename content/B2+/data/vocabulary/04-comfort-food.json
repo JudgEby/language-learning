@@ -51,6 +51,96 @@
       "term": "melt on the tongue",
       "translation": "таять во рту",
       "example": "High-quality chocolate should melt on the tongue slowly."
+    },
+    {
+      "term": "salty",
+      "translation": "солёный",
+      "example": "I love crisps, especially when they're really salty."
+    },
+    {
+      "term": "spicy",
+      "translation": "острый, пряный",
+      "example": "This sauce has a strong taste that gives a pleasant burning feeling — it's spicy."
+    },
+    {
+      "term": "rich",
+      "translation": "насыщенный, жирный (о еде)",
+      "example": "Chocolate cake is rich — it contains a lot of butter and cream."
+    },
+    {
+      "term": "filling",
+      "translation": "сытный",
+      "example": "A stew with potatoes is very filling — it makes you feel full."
+    },
+    {
+      "term": "oily",
+      "translation": "маслянистый, жирный",
+      "example": "Fried food is often covered in oil — it's quite oily."
+    },
+    {
+      "term": "sweet",
+      "translation": "сладкий",
+      "example": "Sweet, melted marshmallow on top of chocolate and crackers."
+    },
+    {
+      "term": "melted",
+      "translation": "расплавленный, растопленный",
+      "example": "Sweet, melted marshmallow on top of the crackers."
+    },
+    {
+      "term": "crunchy",
+      "translation": "хрустящий",
+      "example": "The crackers are sweet and crunchy."
+    },
+    {
+      "term": "gooey",
+      "translation": "тягучий, липкий",
+      "example": "The marshmallows are gooey and very messy to eat."
+    },
+    {
+      "term": "sugary",
+      "translation": "сахаристый, приторный",
+      "example": "The topping on the dessert is extremely sugary."
+    },
+    {
+      "term": "cheesy",
+      "translation": "сырный",
+      "example": "My comfort food is cheesy pasta."
+    },
+    {
+      "term": "fruity",
+      "translation": "фруктовый",
+      "example": "This tea has a light fruity flavour."
+    },
+    {
+      "term": "juicy",
+      "translation": "сочный",
+      "example": "The burger was juicy and full of flavour."
+    },
+    {
+      "term": "minty",
+      "translation": "мятный",
+      "example": "Minty chewing gum freshens your breath."
+    },
+    {
+      "term": "nutty",
+      "translation": "ореховый",
+      "example": "The cake has a pleasant nutty taste."
+    },
+    {
+      "term": "peppery",
+      "translation": "перечный, с остринкой",
+      "example": "The salad has a peppery kick."
+    },
+    {
+      "term": "doughy",
+      "translation": "тестообразный, непропечённый",
+      "example": "The pizza base was thick and doughy."
+    },
+    {
+      "term": "lemony",
+      "translation": "лимонный",
+      "example": "The dessert had a fresh lemony flavour."
     }
   ]
 }

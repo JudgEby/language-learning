@@ -223,5 +223,170 @@
     "relatedRuleIds": [
       "getting-away-with-it"
     ]
+  },
+  {
+    "id": "cb311cbfad3c",
+    "question": "Complete: 'They just want to win ___.'",
+    "options": [
+      "at all costs",
+      "at all hours",
+      "at all events",
+      "at all times"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Win at all costs' means 'победить любой ценой'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "f5c9a56f5f23",
+    "question": "Complete: 'They've ___ other people to gain an advantage.'",
+    "options": [
+      "conned",
+      "helped",
+      "praised",
+      "joined"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Con' means 'обмануть, надуть'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "a3087605f506",
+    "question": "Complete: 'I can't bear to ___.'",
+    "options": [
+      "let them win",
+      "let them lose",
+      "make them wait",
+      "help them cheat"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Let someone win' means 'поддаться, дать выиграть'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "17224d1fa098",
+    "question": "Complete: 'People will cheat if they think they can ___.'",
+    "options": [
+      "get away with it",
+      "get on with it",
+      "get over it",
+      "get round to it"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get away with it' means 'сойти с рук, выйти сухим из воды'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "a10647e53f26",
+    "question": "Complete: 'You played fairly, so you can ___.'",
+    "options": [
+      "hold your head up",
+      "hang your head",
+      "lose your head",
+      "bury your head"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Hold your head up' means 'держать голову высоко, не стыдиться'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "ce33fa4d5dda",
+    "question": "What does 'not the done thing' mean?",
+    "options": [
+      "так не принято",
+      "ещё не сделано",
+      "уже закончено",
+      "плохо сделано"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Not the done thing' means 'так не принято'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "92c9d2cfa308",
+    "question": "Complete: 'Why can't these players just ___?'",
+    "options": [
+      "play fair",
+      "play along",
+      "play around",
+      "play dead"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Play fair' means 'играть честно'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "653d0ec2bf22",
+    "question": "Complete: 'You ___ , so hold your head up.'",
+    "options": [
+      "played by the rules",
+      "played against the rules",
+      "played without rules",
+      "played outside the rules"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Play by the rules' means 'играть по правилам'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "feffbe7b840f",
+    "question": "Complete: 'You'll do anything to ___.'",
+    "options": [
+      "come out on top",
+      "come out at night",
+      "come out of nowhere",
+      "come out in spots"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come out on top' means 'выйти победителем'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "0739a765f12e",
+    "question": "Complete: 'It was ___ the way they cheated!'",
+    "options": [
+      "disgraceful",
+      "graceful",
+      "grateful",
+      "hopeful"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Disgraceful' means 'позорный'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
+  },
+  {
+    "id": "42066ac5fd04",
+    "question": "Complete: 'Denby was definitely ___ his injury.'",
+    "options": [
+      "faking",
+      "curing",
+      "hiding",
+      "treating"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fake' means 'симулировать, притворяться'.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ]
   }
 ]

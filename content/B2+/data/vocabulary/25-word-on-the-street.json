@@ -41,6 +41,46 @@
       "term": "abbreviation",
       "translation": "аббревиатура",
       "example": "LOL is an abbreviation for 'laugh out loud'."
+    },
+    {
+      "term": "sum up",
+      "translation": "подводить итог",
+      "example": "To sum up, we find the new proposals completely unacceptable."
+    },
+    {
+      "term": "spell out",
+      "translation": "разъяснять, излагать по буквам",
+      "example": "Can you spell out exactly what you mean?"
+    },
+    {
+      "term": "illustrate",
+      "translation": "иллюстрировать примером",
+      "example": "Let me give a few more examples to illustrate my point."
+    },
+    {
+      "term": "signify",
+      "translation": "означать",
+      "example": "Wearing a white belt signifies that you are a beginner."
+    },
+    {
+      "term": "define",
+      "translation": "давать определение",
+      "example": "It's hard to define the word freedom."
+    },
+    {
+      "term": "specify",
+      "translation": "уточнять, конкретизировать",
+      "example": "Can you specify what kind of animal you saw?"
+    },
+    {
+      "term": "convey",
+      "translation": "передавать (точное значение)",
+      "example": "Choose words to convey the exact meaning you want."
+    },
+    {
+      "term": "capture",
+      "translation": "передавать, улавливать (атмосферу)",
+      "example": "Her description really captures the atmosphere of the forest."
     }
   ]
 }

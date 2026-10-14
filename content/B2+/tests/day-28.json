@@ -223,5 +223,110 @@
     "relatedRuleIds": [
       "past-and-present"
     ]
+  },
+  {
+    "id": "785b7d9e5272",
+    "question": "Complete: 'That smell just ___ to my childhood.'",
+    "options": [
+      "took me back",
+      "took me on",
+      "took me over",
+      "took me in"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take back' means 'возвращать мысленно (в прошлое)'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "feb1be1d1aff",
+    "question": "Complete: 'It ___ driving with my mum.'",
+    "options": [
+      "reminds me of",
+      "remembers me of",
+      "reminds to me",
+      "reminds me about"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Remind of' means 'напоминать о'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "3f225e619d6c",
+    "question": "Complete: 'It ___ family holidays.'",
+    "options": [
+      "brings back memories of",
+      "brings up children of",
+      "brings down prices of",
+      "brings out books of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bring back memories' means 'пробуждать воспоминания'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "2f24dac58845",
+    "question": "Complete: 'Old movies ___ to my childhood.'",
+    "options": [
+      "transport me back",
+      "transfer me back",
+      "transmit me back",
+      "translate me back"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Transport back' means 'переносить назад (во времени)'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "756661d4a185",
+    "question": "Complete: 'I'd love to ___ that feeling of freedom.'",
+    "options": [
+      "recapture",
+      "recite",
+      "recall",
+      "receive"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Recapture' means 'вновь обрести (чувство)'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "fda140f8833f",
+    "question": "Complete: 'Old photos can help you ___ experiences.'",
+    "options": [
+      "relive",
+      "relieve",
+      "rely on",
+      "release"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Relive' means 'пережить заново'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
+  },
+  {
+    "id": "5cf3a1aba859",
+    "question": "Complete: 'It's impossible to ___ a past feeling.'",
+    "options": [
+      "recreate",
+      "repay",
+      "repeat",
+      "reply"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Recreate' means 'воссоздать'.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ]
   }
 ]

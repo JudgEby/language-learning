@@ -238,5 +238,140 @@
     "relatedRuleIds": [
       "science-fiction"
     ]
+  },
+  {
+    "id": "538f9fa9d899",
+    "question": "Complete: 'I keep a careful eye on my ___.'",
+    "options": [
+      "expenditure",
+      "exhibition",
+      "expedition",
+      "expiry"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Expenditure' means 'расходы, траты'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "0c302148179a",
+    "question": "Complete: 'I ___ as much money as I can each month.'",
+    "options": [
+      "put aside",
+      "put off",
+      "put out",
+      "put away"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Put aside' means 'откладывать (деньги)'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "878f3b42e2d6",
+    "question": "Complete: 'Some might think I'm ___ with presents.'",
+    "options": [
+      "stingy",
+      "stylish",
+      "steady",
+      "sturdy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Stingy' means 'скупой'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "f7a2ef549da3",
+    "question": "Complete: 'I don't think twice about ___ on a new outfit.'",
+    "options": [
+      "splashing out",
+      "splashing around",
+      "splashing down",
+      "splashing over"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Splash out' means 'шиковать, сорить деньгами'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "6c2c3134b889",
+    "question": "Complete: 'I overspend, so I have a small ___.'",
+    "options": [
+      "overdraft",
+      "overcoat",
+      "overnight",
+      "overlook"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Overdraft' means 'овердрафт, перерасход'.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ]
+  },
+  {
+    "id": "54496335cc41",
+    "question": "Complete: 'The workers ___ the products.'",
+    "options": [
+      "scan",
+      "scam",
+      "scar",
+      "scare"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Scan' means 'сканировать'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "787c5643b1f6",
+    "question": "Complete: 'The processes are ___, but people-powered.'",
+    "options": [
+      "fully automated",
+      "hardly awake",
+      "partly cloudy",
+      "fully booked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fully automated' means 'полностью автоматизированный'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "78102ebae365",
+    "question": "Complete: 'A ___ looks like a human and delivers parcels.'",
+    "options": [
+      "delivery bot",
+      "delivery boy",
+      "delivery box",
+      "delivery bill"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Delivery bot' means 'робот-курьер'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
+  },
+  {
+    "id": "c01d02ea81aa",
+    "question": "Complete: 'A ___ makes regular journeys to space.'",
+    "options": [
+      "shuttle",
+      "shutter",
+      "shovel",
+      "shuffle"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shuttle' means 'шаттл, челнок'.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ]
   }
 ]

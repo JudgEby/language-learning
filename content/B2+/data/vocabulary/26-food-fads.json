@@ -66,6 +66,66 @@
       "term": "organic",
       "translation": "органический",
       "example": "I go for organic alternatives as I know they're natural and no chemicals have been used."
+    },
+    {
+      "term": "surge",
+      "translation": "резкий рост, всплеск",
+      "example": "The surge in popularity of a new superfood can attract attention quickly."
+    },
+    {
+      "term": "switch",
+      "translation": "переходить (на другое)",
+      "example": "Switching to a new diet which omits a particular food."
+    },
+    {
+      "term": "shift",
+      "translation": "сдвиг, переход",
+      "example": "We've had the shift from eating at the table to eating in front of the TV."
+    },
+    {
+      "term": "decline",
+      "translation": "спад, упадок",
+      "example": "Their subsequent decline as we all reverted to eating chocolate cold."
+    },
+    {
+      "term": "revert",
+      "translation": "возвращаться (к прежнему)",
+      "example": "We all reverted to eating chocolate cold."
+    },
+    {
+      "term": "evolution",
+      "translation": "эволюция, развитие",
+      "example": "The evolution of the avocado from Mexican ingredient to toast topping."
+    },
+    {
+      "term": "shrink",
+      "translation": "сокращаться",
+      "example": "Will demand for avocados shrink or remain steady?"
+    },
+    {
+      "term": "remain steady",
+      "translation": "оставаться стабильным",
+      "example": "Will demand for avocados shrink or remain steady in the future?"
+    },
+    {
+      "term": "explode",
+      "translation": "ворваться (на сцену), резко появиться",
+      "example": "This pastry exploded onto the food scene in 2013."
+    },
+    {
+      "term": "transform",
+      "translation": "превращаться",
+      "example": "It failed to transform from a trend to a consistent part of our diets."
+    },
+    {
+      "term": "consistent",
+      "translation": "постоянный, стабильный",
+      "example": "A consistent part of our diets."
+    },
+    {
+      "term": "catalyst",
+      "translation": "катализатор",
+      "example": "Social media is a huge catalyst for food fads these days."
     }
   ]
 }

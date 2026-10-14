@@ -51,6 +51,41 @@
       "term": "analyse",
       "translation": "анализировать",
       "example": "Data scientists analyse trends to help businesses make better decisions."
+    },
+    {
+      "term": "dictate",
+      "translation": "диктовать, предписывать",
+      "example": "An algorithm will dictate how much the bank will lend us."
+    },
+    {
+      "term": "determine",
+      "translation": "определять",
+      "example": "It will determine what adverts we see online."
+    },
+    {
+      "term": "categorise",
+      "translation": "распределять по категориям",
+      "example": "The algorithm categorised me as a certain type of user."
+    },
+    {
+      "term": "generate",
+      "translation": "порождать, создавать",
+      "example": "It will generate decisions that are skewed."
+    },
+    {
+      "term": "reinforce",
+      "translation": "усиливать, подкреплять",
+      "example": "The algorithm will then reinforce the prejudice."
+    },
+    {
+      "term": "miscalculate",
+      "translation": "просчитаться, неверно подсчитать",
+      "example": "A machine is less likely to miscalculate than a human."
+    },
+    {
+      "term": "forecast",
+      "translation": "прогнозировать",
+      "example": "You can forecast where and when crimes may take place."
     }
   ]
 }

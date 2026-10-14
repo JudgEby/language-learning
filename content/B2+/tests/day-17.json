@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "life-changing-decisions"
     ]
+  },
+  {
+    "id": "1b21c8c3ad2f",
+    "question": "Complete: 'I hope he hasn't had a ___.'",
+    "options": [
+      "change of heart",
+      "change of clothes",
+      "change of plans",
+      "change of address"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Change of heart' means 'перемена мнения'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "93dc8c937451",
+    "question": "Complete: 'I write a list of ___ before I decide.'",
+    "options": [
+      "pros and cons",
+      "ups and downs",
+      "ins and outs",
+      "dos and don'ts"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pros and cons' means 'за и против'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "59e6dbe7b645",
+    "question": "Complete: 'They've had ___ about their decision.'",
+    "options": [
+      "second thoughts",
+      "second opinions",
+      "second chances",
+      "second places"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Second thoughts' means 'сомнения (задним числом)'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "dcbe9504ea7b",
+    "question": "Complete: 'I can eventually ___ if I sleep on it.'",
+    "options": [
+      "come to a decision",
+      "come to a party",
+      "come to an end",
+      "come to a stop"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come to / reach a decision' means 'прийти к решению'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "c18a8b8a9719",
+    "question": "Complete: 'I avoid making decisions ___.'",
+    "options": [
+      "on impulse",
+      "on purpose",
+      "on time",
+      "on sale"
+    ],
+    "correctIndex": 0,
+    "explanation": "'On impulse' means 'под влиянием порыва'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "62404fbd3775",
+    "question": "Complete: 'I ___ before making a decision.'",
+    "options": [
+      "assess all possible outcomes",
+      "ignore all possible outcomes",
+      "forget all possible outcomes",
+      "avoid all possible outcomes"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Assess outcomes' means 'оценивать возможные исходы'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "b8246f3c0a4f",
+    "question": "Complete: 'Think it over, ___.'",
+    "options": [
+      "sleep on it",
+      "dream on it",
+      "sit on it",
+      "chew on it"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sleep on it' means 'переспать с мыслью, отложить решение'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "3e40602dda5e",
+    "question": "Complete: 'I ___ lending him money.'",
+    "options": [
+      "thought better of",
+      "thought worse of",
+      "thought less of",
+      "thought little of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Think better of' means 'передумать, одуматься'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "665a1269d15d",
+    "question": "Complete: 'I'm ___ staying or leaving.'",
+    "options": [
+      "torn between",
+      "tired of",
+      "fond of",
+      "free of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Torn between' means 'разрываться между'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
+  },
+  {
+    "id": "3bd517a49688",
+    "question": "Complete: 'If I'm sure, I'll decide quickly, ___.'",
+    "options": [
+      "without hesitation",
+      "without permission",
+      "without exception",
+      "without warning"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Without hesitation' means 'не колеблясь'.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ]
   }
 ]

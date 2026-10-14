@@ -46,6 +46,36 @@
       "term": "sci-fi",
       "translation": "научная фантастика",
       "example": "I love reading sci-fi novels about the future."
+    },
+    {
+      "term": "scan",
+      "translation": "сканировать",
+      "example": "The workers scan the products and send them to packing."
+    },
+    {
+      "term": "conveyor",
+      "translation": "конвейер",
+      "example": "Once packed, the order goes on a conveyor to Dispatch."
+    },
+    {
+      "term": "teleport",
+      "translation": "телепортировать",
+      "example": "The postmen teleport the parcels direct to customers."
+    },
+    {
+      "term": "fully automated",
+      "translation": "полностью автоматизированный",
+      "example": "The processes are fully automated, but people-powered."
+    },
+    {
+      "term": "delivery bot",
+      "translation": "робот-курьер",
+      "example": "A delivery bot looks like a human and delivers parcels."
+    },
+    {
+      "term": "shuttle",
+      "translation": "шаттл, челнок",
+      "example": "A shuttle makes regular journeys to and from space."
     }
   ]
 }

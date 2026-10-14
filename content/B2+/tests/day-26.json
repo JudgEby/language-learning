@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "food-fads"
     ]
+  },
+  {
+    "id": "540ae4c575e0",
+    "question": "Complete: 'The ___ in popularity of a new superfood attracts attention.'",
+    "options": [
+      "surge",
+      "search",
+      "source",
+      "surface"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Surge' means 'резкий рост, всплеск'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "fe74a462894d",
+    "question": "Complete: 'We've had the ___ from eating at the table to eating in front of the TV.'",
+    "options": [
+      "shift",
+      "lift",
+      "gift",
+      "drift"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shift' means 'сдвиг, переход'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "67fb7f2793e2",
+    "question": "Complete: 'Their subsequent ___ as we reverted to eating chocolate cold.'",
+    "options": [
+      "decline",
+      "incline",
+      "recline",
+      "becline"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Decline' means 'спад, упадок'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "2dc6763fe750",
+    "question": "Complete: 'We all ___ to eating chocolate cold.'",
+    "options": [
+      "reverted",
+      "referred",
+      "repaired",
+      "repeated"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Revert' means 'возвращаться (к прежнему)'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "ff3bb04836e3",
+    "question": "Complete: 'The ___ of the avocado from Mexican ingredient to toast topping.'",
+    "options": [
+      "evolution",
+      "execution",
+      "evacuation",
+      "evaluation"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Evolution' means 'эволюция, развитие'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "255188b869cd",
+    "question": "Complete: 'Will demand for avocados ___ or remain steady?'",
+    "options": [
+      "shrink",
+      "spread",
+      "spring",
+      "sprint"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Shrink' means 'сокращаться'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "4720e83bbf71",
+    "question": "Complete: 'Will demand ___ in the future?'",
+    "options": [
+      "remain steady",
+      "remain silent",
+      "remain seated",
+      "remain single"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Remain steady' means 'оставаться стабильным'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "de18d5e3b8bf",
+    "question": "Complete: 'This pastry ___ the food scene in 2013.'",
+    "options": [
+      "exploded onto",
+      "imploded into",
+      "nodded towards",
+      "glanced across"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Explode onto' means 'ворваться, резко появиться'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "64cb3d70fcd0",
+    "question": "Complete: 'It failed to ___ from a trend to a habit.'",
+    "options": [
+      "transform",
+      "transfer",
+      "transmit",
+      "transplant"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Transform' means 'превращаться'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
+  },
+  {
+    "id": "ef99c84484dd",
+    "question": "Complete: 'Social media is a huge ___ for food fads.'",
+    "options": [
+      "catalyst",
+      "catalogue",
+      "catapult",
+      "cataract"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Catalyst' means 'катализатор'.",
+    "relatedRuleIds": [
+      "food-fads"
+    ]
   }
 ]

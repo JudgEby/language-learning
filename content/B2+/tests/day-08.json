@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "challenge"
     ]
+  },
+  {
+    "id": "a848606f9ece",
+    "question": "Complete: 'The riders know the unmarked course ___.'",
+    "options": [
+      "inside and out",
+      "up and down",
+      "back and forth",
+      "in and out"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Know inside and out' means 'знать вдоль и поперёк'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "79f482b81807",
+    "question": "Complete: 'You've got a lot to ___ in one day.'",
+    "options": [
+      "take in",
+      "take on",
+      "take up",
+      "take over"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take in' means 'усвоить, воспринять (информацию)'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "b2beab419aca",
+    "question": "Complete: 'Mist goes ___ with Ryan Thomas in a driving challenge.'",
+    "options": [
+      "head-to-head",
+      "hand-in-hand",
+      "face-to-face",
+      "side-by-side"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Head-to-head' means 'очный, лицом к лицу' — a direct contest.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "8742c44ad6ce",
+    "question": "Complete: 'Head-to-head racing: ___ wins.'",
+    "options": [
+      "best of three",
+      "first of five",
+      "last of two",
+      "most of four"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Best of three' means 'до двух побед, лучший из трёх'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "602dff39d06f",
+    "question": "Complete: 'The ___ now before the final run.'",
+    "options": [
+      "nerves are kicking in",
+      "nerves are cooling down",
+      "nerves are switching off",
+      "nerves are slowing down"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Nerves kick in' means 'начинают сдавать нервы'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "48d72e69436c",
+    "question": "Complete: 'They were ___ after two laps.'",
+    "options": [
+      "neck and neck",
+      "hand in hand",
+      "back to back",
+      "face to face"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Neck and neck' means 'ноздря в ноздрю, вровень'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "a63e606ae481",
+    "question": "Complete: 'In the end it all ___ that one last run.'",
+    "options": [
+      "came down to",
+      "came up with",
+      "came across as",
+      "came along with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Come down to' means 'сводиться к'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "b8b31ecde41e",
+    "question": "Complete: 'He took the defeat really ___ and congratulated the winner.'",
+    "options": [
+      "well",
+      "badly",
+      "hard",
+      "lightly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Take it well' means 'достойно принять (поражение)'.",
+    "relatedRuleIds": [
+      "challenge"
+    ]
   }
 ]

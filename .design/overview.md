@@ -78,7 +78,7 @@ properties for theming. No Tailwind, no CSS modules, no preprocessor.
 | `A2+` | 36 lessons, 30 test days, ~300 vocabulary items |
 | `B1` | 32 lessons, 30 test days |
 | `B2` | 32 lessons (ids like `1a-my-id`), 6 test days |
-| `B2+` | 32 rules, 28 vocabulary / 2 phrases / 3 idioms files, 30 test days |
+| `B2+` | 32 rules, 27 vocabulary / 2 phrases / 3 idioms files, 30 test days |
 
 Level ids are latin-only folder names with no spaces, plus `+` for half-levels (`A2+`,
 `B2+`). The id is used verbatim in URLs.

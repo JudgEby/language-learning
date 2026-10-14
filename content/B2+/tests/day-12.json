@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "role-models"
     ]
+  },
+  {
+    "id": "784a56dd394a",
+    "question": "Complete: 'They make me ___ all the time.'",
+    "options": [
+      "strive to be better",
+      "refuse to be better",
+      "fail to be better",
+      "cease to be better"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Strive' means 'стремиться'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "97492138d841",
+    "question": "Complete: 'She's come from very ___.'",
+    "options": [
+      "humble beginnings",
+      "rich relatives",
+      "distant countries",
+      "famous schools"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Humble beginnings' means 'скромное происхождение'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "265a5635307a",
+    "question": "Complete: 'He was really ___ and helped me get into university.'",
+    "options": [
+      "encouraging",
+      "demanding",
+      "boring",
+      "strict"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Encouraging' means 'ободряющий, поддерживающий'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "cdf15891fd0d",
+    "question": "Complete: 'My parents ___ .' ",
+    "options": [
+      "pushed me to my limits",
+      "left me to my devices",
+      "took me at my word",
+      "kept me at arm's length"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Push someone to their limits' means 'требовать максимума'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "c94533d732ab",
+    "question": "Complete: 'Should you always try to ___?'",
+    "options": [
+      "live authentically",
+      "live luxuriously",
+      "live dangerously",
+      "live anonymously"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Live authentically' means 'быть собой'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "f57f16b6c6a6",
+    "question": "Complete: 'How ___ were your teachers at school?'",
+    "options": [
+      "enthusiastic",
+      "sympathetic",
+      "realistic",
+      "pessimistic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Enthusiastic' means 'восторженный, увлечённый'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "fdf1e08b183e",
+    "question": "Complete: 'My cousin's love of travel has really ___ .' ",
+    "options": [
+      "rubbed off on me",
+      "worn off on me",
+      "put off on me",
+      "taken off on me"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rub off on' means 'передаваться кому-то (о качествах)'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
+  },
+  {
+    "id": "629292987f6a",
+    "question": "Complete: 'Being ___ of other people helps everyone.'",
+    "options": [
+      "understanding",
+      "demanding",
+      "suspicious",
+      "ignorant"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Understanding' means 'понимающий, чуткий'.",
+    "relatedRuleIds": [
+      "role-models"
+    ]
   }
 ]

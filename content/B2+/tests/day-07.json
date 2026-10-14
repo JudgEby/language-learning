@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "in-the-workplace"
     ]
+  },
+  {
+    "id": "a87cfb4894a7",
+    "question": "Complete: 'Poor decisions can eventually result in ___.'",
+    "options": [
+      "bankruptcy",
+      "tourism",
+      "charity",
+      "publicity"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Bankruptcy' means 'банкротство'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "46dd725f15df",
+    "question": "Complete: 'The company must maintain its ___ within the market.'",
+    "options": [
+      "competitiveness",
+      "weakness",
+      "loneliness",
+      "kindness"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Competitiveness' means 'конкурентоспособность'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "63cb287e7e1a",
+    "question": "Complete: 'A ___ in staffing means fewer people to do the work.'",
+    "options": [
+      "cutback",
+      "pay rise",
+      "bonus",
+      "promotion"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cutback' means 'сокращение (расходов, штата)'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "a99bd32bacce",
+    "question": "Complete: 'New methods increased ___ across all departments.'",
+    "options": [
+      "efficiency",
+      "confusion",
+      "delay",
+      "absence"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Efficiency' means 'эффективность'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "91351bb4174b",
+    "question": "Complete: 'The ___ immediately received a lot of attention.'",
+    "options": [
+      "initiative",
+      "mistake",
+      "excuse",
+      "delay"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Initiative' means 'инициатива'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "2a573e1847e8",
+    "question": "Complete: 'Long hours have a negative effect on staff ___.'",
+    "options": [
+      "productivity",
+      "creativity",
+      "honesty",
+      "loyalty"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Productivity' means 'производительность'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "1029d932d500",
+    "question": "Complete: 'This year the company's ___ is down.'",
+    "options": [
+      "profitability",
+      "popularity",
+      "possibility",
+      "personality"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Profitability' means 'прибыльность, рентабельность'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
+  },
+  {
+    "id": "77bf0fd8c184",
+    "question": "Complete: 'Last year the company had a ___ of over £20 million.'",
+    "options": [
+      "turnover",
+      "overdraft",
+      "downturn",
+      "breakdown"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Turnover' means 'оборот (компании)'.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ]
   }
 ]

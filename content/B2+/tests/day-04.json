@@ -223,5 +223,155 @@
     "relatedRuleIds": [
       "comfort-food"
     ]
+  },
+  {
+    "id": "42b571f54921",
+    "question": "Complete: 'I love crisps, especially when they're really ___.'",
+    "options": [
+      "salty",
+      "sweet",
+      "bitter",
+      "sour"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Salty' means 'солёный'. Crisps contain a lot of salt.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "80cf731f44f4",
+    "question": "Which adjective describes food with a strong taste that gives a pleasant burning feeling?",
+    "options": [
+      "spicy",
+      "mild",
+      "bland",
+      "stale"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Spicy' means 'острый, пряный'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "6f4bd26dc88b",
+    "question": "Complete: 'Chocolate cake is ___ — it has a lot of butter and cream.'",
+    "options": [
+      "rich",
+      "light",
+      "plain",
+      "watery"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rich' (of food) means 'насыщенный, жирный'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "b2cd8e4eadae",
+    "question": "Complete: 'A potato stew is very ___ — it makes you feel full.'",
+    "options": [
+      "filling",
+      "boring",
+      "empty",
+      "appetising"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Filling' means 'сытный'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "1c8f0807914c",
+    "question": "Complete: 'Fried food is often covered in oil — it's quite ___.'",
+    "options": [
+      "oily",
+      "dry",
+      "crispy",
+      "fresh"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Oily' means 'маслянистый, жирный'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "58272762dea0",
+    "question": "Complete: '___ melted marshmallow on top of chocolate.'",
+    "options": [
+      "Sweet",
+      "Bitter",
+      "Sour",
+      "Salty"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sweet' means 'сладкий'. Marshmallow contains a lot of sugar.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "d00626a99d35",
+    "question": "Complete: 'Sweet, ___ marshmallow on top of the crackers.'",
+    "options": [
+      "melted",
+      "frozen",
+      "burnt",
+      "raw"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Melted' means 'расплавленный' — made soft by heat.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "749f98f56acd",
+    "question": "Complete: 'The crackers are sweet and ___.'",
+    "options": [
+      "crunchy",
+      "soggy",
+      "chewy",
+      "stale"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Crunchy' means 'хрустящий'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "ec34c47d0a5e",
+    "question": "Complete: 'The marshmallows are ___ and messy to eat.'",
+    "options": [
+      "gooey",
+      "neat",
+      "dry",
+      "hard"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Gooey' means 'тягучий, липкий'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "25a56a9b675a",
+    "question": "Complete: 'The topping on the dessert is extremely ___.'",
+    "options": [
+      "sugary",
+      "salty",
+      "bitter",
+      "sour"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sugary' means 'сахаристый, приторный' — from 'sugar'.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ]
   }
 ]

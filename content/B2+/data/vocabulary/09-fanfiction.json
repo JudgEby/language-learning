@@ -41,6 +41,66 @@
       "term": "logical",
       "translation": "логичный",
       "example": "Her argument was clear and logical, so everyone agreed."
+    },
+    {
+      "term": "tragic",
+      "translation": "трагический",
+      "example": "The film has a tragic ending, where everyone dies."
+    },
+    {
+      "term": "profound",
+      "translation": "глубокий (о мысли, словах)",
+      "example": "He said those beautiful and profound last words."
+    },
+    {
+      "term": "encouraging",
+      "translation": "обнадёживающий",
+      "example": "It's encouraging that more young people are starting to read books."
+    },
+    {
+      "term": "eager",
+      "translation": "стремящийся, желающий",
+      "example": "While I'm eager to promote it, others don't see it as proper literature."
+    },
+    {
+      "term": "entertaining",
+      "translation": "занимательный",
+      "example": "It's always entertaining to explore a minor character's back story."
+    },
+    {
+      "term": "overwhelming",
+      "translation": "ошеломляющий, непосильный",
+      "example": "Writing about a world you love is less overwhelming."
+    },
+    {
+      "term": "pathetic",
+      "translation": "жалкий",
+      "example": "My pathetic attempts aside, there are some brilliantly creative stories."
+    },
+    {
+      "term": "disturbing",
+      "translation": "тревожный, беспокоящий",
+      "example": "That's too dark and disturbing for me."
+    },
+    {
+      "term": "convincing",
+      "translation": "убедительный",
+      "example": "The author paints a vivid and convincing image."
+    },
+    {
+      "term": "unconvincing",
+      "translation": "неубедительный",
+      "example": "The new character, however, is unconvincing."
+    },
+    {
+      "term": "frustrating",
+      "translation": "разочаровывающий, досадный",
+      "example": "His two-dimensional character is limiting and frustrating."
+    },
+    {
+      "term": "fulfilling",
+      "translation": "приносящий удовлетворение",
+      "example": "It allowed for a more fulfilling story."
     }
   ]
 }

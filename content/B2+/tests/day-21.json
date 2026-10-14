@@ -223,5 +223,110 @@
     "relatedRuleIds": [
       "algorithm"
     ]
+  },
+  {
+    "id": "702ca6d52821",
+    "question": "Complete: 'An algorithm will ___ how much the bank will lend us.'",
+    "options": [
+      "dictate",
+      "delete",
+      "donate",
+      "decorate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Dictate' means 'диктовать, предписывать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "71d8090962c0",
+    "question": "Complete: 'It will ___ what adverts we see online.'",
+    "options": [
+      "determine",
+      "disturb",
+      "dismiss",
+      "display"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Determine' means 'определять'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "a7fbbc2dd38a",
+    "question": "Complete: 'The algorithm ___ me as a certain type of user.'",
+    "options": [
+      "categorised",
+      "criticised",
+      "characterised",
+      "cauterised"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Categorise' means 'распределять по категориям'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "d5d3b7e00dca",
+    "question": "Complete: 'It will ___ decisions that are skewed.'",
+    "options": [
+      "generate",
+      "generous",
+      "general",
+      "genetic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Generate' means 'порождать, создавать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "95bd80af3f55",
+    "question": "Complete: 'The algorithm will then ___ the prejudice.'",
+    "options": [
+      "reinforce",
+      "remove",
+      "replace",
+      "recall"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reinforce' means 'усиливать, подкреплять'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "8229df2a211e",
+    "question": "Complete: 'A machine is less likely to ___ than a human.'",
+    "options": [
+      "miscalculate",
+      "misbehave",
+      "misunderstand",
+      "misplace"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Miscalculate' means 'просчитаться, неверно подсчитать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
+  },
+  {
+    "id": "b57ecf594ca3",
+    "question": "Complete: 'You can ___ where crimes may take place.'",
+    "options": [
+      "forecast",
+      "forestall",
+      "forfeit",
+      "forfend"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Forecast' means 'прогнозировать'.",
+    "relatedRuleIds": [
+      "algorithm"
+    ]
   }
 ]

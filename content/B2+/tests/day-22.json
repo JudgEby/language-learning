@@ -223,5 +223,140 @@
     "relatedRuleIds": [
       "online-blunders"
     ]
+  },
+  {
+    "id": "49e3f8607fff",
+    "question": "Complete: 'I ___ invited all 3,000 staff.'",
+    "options": [
+      "accidentally",
+      "deliberately",
+      "proudly",
+      "openly"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Accidentally' means 'случайно'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "d81cbfea6bee",
+    "question": "Complete: 'I tagged my ex ___ .' ",
+    "options": [
+      "by mistake",
+      "by heart",
+      "by hand",
+      "by chance"
+    ],
+    "correctIndex": 0,
+    "explanation": "'By mistake' means 'по ошибке'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "d10f8d6ce41a",
+    "question": "Complete: 'I ___ sent out a confidential email.'",
+    "options": [
+      "mistakenly",
+      "knowingly",
+      "willingly",
+      "readily"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mistakenly' means 'ошибочно'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "e01a567e84bd",
+    "question": "Complete: 'I once ___ my new boss for the cleaner.'",
+    "options": [
+      "mistook",
+      "missed",
+      "mixed",
+      "masked"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mistake someone for' means 'принять кого-то за кого-то'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "1684634f43fc",
+    "question": "Complete: 'I made the ___ the plant was real.'",
+    "options": [
+      "assumption",
+      "invitation",
+      "exception",
+      "impression"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Assume' means 'предполагать' (synonym: presume).",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "0c1da4da6c30",
+    "question": "Complete: 'The wording on the invitation ___ him.'",
+    "options": [
+      "misled",
+      "missed",
+      "matched",
+      "mentioned"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Mislead' means 'вводить в заблуждение'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "8624a36dd526",
+    "question": "Complete: 'I ___ hugely when I was an intern.'",
+    "options": [
+      "slipped up",
+      "showed up",
+      "grew up",
+      "gave up"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Slip up' means 'оплошать, допустить промах'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "784968045b10",
+    "question": "Complete: 'I've tried to ___ the situation.'",
+    "options": [
+      "rectify",
+      "ratify",
+      "retire",
+      "reunite"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rectify' means 'исправлять (ситуацию)'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
+  },
+  {
+    "id": "412b47e14e4b",
+    "question": "Complete: 'My estimate was ___ quite a lot.'",
+    "options": [
+      "off by",
+      "out of",
+      "up to",
+      "over by"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Off by' means 'ошибаться на (величину)'.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ]
   }
 ]

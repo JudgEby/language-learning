@@ -41,6 +41,51 @@
       "phrase": "put someone right",
       "translation": "поправить кого-то",
       "example": "Tom believed he was in charge, but I soon put him right."
+    },
+    {
+      "phrase": "accidentally",
+      "translation": "случайно",
+      "example": "I accidentally invited all 3,000 staff to the party."
+    },
+    {
+      "phrase": "by mistake",
+      "translation": "по ошибке",
+      "example": "I tagged my ex in the photo by mistake."
+    },
+    {
+      "phrase": "mistakenly",
+      "translation": "ошибочно",
+      "example": "I mistakenly sent out a confidential internal email."
+    },
+    {
+      "phrase": "mistake someone for",
+      "translation": "принять кого-то за кого-то",
+      "example": "I once mistook my new boss for the cleaner."
+    },
+    {
+      "phrase": "assume",
+      "translation": "предполагать (синоним: presume)",
+      "example": "I made the assumption the plant was real."
+    },
+    {
+      "phrase": "mislead",
+      "translation": "вводить в заблуждение",
+      "example": "The wording on the invitation misled him."
+    },
+    {
+      "phrase": "slip up",
+      "translation": "оплошать, допустить промах",
+      "example": "I slipped up hugely when I was an intern."
+    },
+    {
+      "phrase": "rectify",
+      "translation": "исправлять (ситуацию)",
+      "example": "I've tried to rectify the situation."
+    },
+    {
+      "phrase": "off by",
+      "translation": "ошибаться на (величину)",
+      "example": "My estimate was off by quite a lot."
     }
   ]
 }

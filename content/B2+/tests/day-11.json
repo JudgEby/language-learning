@@ -223,5 +223,50 @@
     "relatedRuleIds": [
       "carrot-or-stick"
     ]
+  },
+  {
+    "id": "2af274e4939b",
+    "question": "Complete: 'I try to ___ and get them to see the benefits.'",
+    "options": [
+      "reason with them",
+      "shout at them",
+      "laugh at them",
+      "point at them"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Reason with' means 'убеждать доводами'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "db18eafbf746",
+    "question": "Complete: 'If I can ___, they'll work harder.'",
+    "options": [
+      "win them over",
+      "wear them out",
+      "write them off",
+      "watch them over"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Win someone over' means 'перетянуть на свою сторону'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
+  },
+  {
+    "id": "951067bf1957",
+    "question": "Complete: 'A free gift will always ___ to buy something.'",
+    "options": [
+      "entice me",
+      "force me",
+      "beg me",
+      "order me"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Entice' means 'соблазнять, заманивать'.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ]
   }
 ]

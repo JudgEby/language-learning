@@ -223,5 +223,125 @@
     "relatedRuleIds": [
       "things-we-love"
     ]
+  },
+  {
+    "id": "b423d5c9084d",
+    "question": "Complete: 'I tried mountain biking and now I ___ it.'",
+    "options": [
+      "can't get enough of",
+      "can't get rid of",
+      "can't get over",
+      "can't get by with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can't get enough of' means 'не могу насытиться'. You want more and more of it.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "4cbd60a531c7",
+    "question": "What does 'get an adrenalin rush' mean?",
+    "options": [
+      "испытывать прилив адреналина",
+      "чувствовать усталость",
+      "терять сознание",
+      "засыпать от скуки"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get an adrenalin rush' means 'испытывать прилив адреналина' — a strong feeling of excitement.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "49e72572f4de",
+    "question": "Complete: 'I can really ___ jazz music for hours.'",
+    "options": [
+      "lose myself in",
+      "lose track of",
+      "lose sight of",
+      "lose touch with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Lose oneself in' means 'полностью погружаться' — to concentrate completely and forget everything else.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "c176c92bdba7",
+    "question": "Complete: 'I sat there for hours and completely ___ .'",
+    "options": [
+      "lost track of time",
+      "lost my temper",
+      "lost my way",
+      "lost the thread"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Lose track of time' means 'терять счёт времени'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "0135e18844c1",
+    "question": "Complete: 'There was a big group of us and we all ___ .'",
+    "options": [
+      "got stuck in",
+      "gave up halfway",
+      "ran a mile",
+      "fell behind"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Get stuck in' means 'с энтузиазмом взяться за дело'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "6330361e8594",
+    "question": "What does 'have the time of one's life' mean?",
+    "options": [
+      "потрясающе провести время",
+      "опоздать на встречу",
+      "потерять время зря",
+      "скучать в одиночестве"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have the time of one's life' means 'потрясающе провести время'.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "e95b7078e93a",
+    "question": "Complete: 'I was completely ___ by driving a Formula One car.'",
+    "options": [
+      "blown away",
+      "put off",
+      "worn out",
+      "left behind"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Be blown away' means 'быть потрясённым' (in a good way) — a once-in-a-lifetime experience.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
+  },
+  {
+    "id": "59c0085a6604",
+    "question": "Complete: 'Driving a Formula One car was a ___ .'",
+    "options": [
+      "once-in-a-lifetime experience",
+      "once-in-a-while habit",
+      "once-a-day routine",
+      "once-and-for-all decision"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Once-in-a-lifetime experience' means 'уникальный опыт' — something very special you may never do again.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ]
   }
 ]

@@ -51,6 +51,66 @@
       "term": "state-of-the-art",
       "translation": "самый современный, передовой",
       "example": "The lab is equipped with state-of-the-art technology."
+    },
+    {
+      "term": "print",
+      "translation": "печатать",
+      "example": "Can you print this document for me?"
+    },
+    {
+      "term": "adjust",
+      "translation": "настраивать, регулировать",
+      "example": "Adjust your settings before the call."
+    },
+    {
+      "term": "update",
+      "translation": "обновлять",
+      "example": "Update your apps regularly."
+    },
+    {
+      "term": "recharge",
+      "translation": "заряжать (аккумулятор)",
+      "example": "Recharge your battery when it's low."
+    },
+    {
+      "term": "drain",
+      "translation": "разряжать, сажать (батарею)",
+      "example": "Video calls drain your battery of power."
+    },
+    {
+      "term": "jam",
+      "translation": "зажевать (о принтере), заклинить",
+      "example": "Too much paper can jam the printer."
+    },
+    {
+      "term": "disable",
+      "translation": "отключать (функцию)",
+      "example": "You can disable this feature in settings."
+    },
+    {
+      "term": "sync",
+      "translation": "синхронизировать",
+      "example": "It syncs you with everything around you."
+    },
+    {
+      "term": "integrate",
+      "translation": "объединять в единое целое",
+      "example": "One unified system integrates your world."
+    },
+    {
+      "term": "wirelessly",
+      "translation": "по беспроводной связи",
+      "example": "It syncs you wirelessly and continuously."
+    },
+    {
+      "term": "in real time",
+      "translation": "в реальном времени",
+      "example": "It syncs you to the BBC itself in real time."
+    },
+    {
+      "term": "unified",
+      "translation": "единый, объединённый",
+      "example": "One unified system that changes the game."
     }
   ]
 }
