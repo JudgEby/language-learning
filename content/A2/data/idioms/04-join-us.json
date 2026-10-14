@@ -1,0 +1,14 @@
+{
+  "lessonId": "join-us",
+  "title": "Join us! — идиомы",
+  "items": [
+    { "idiom": "join the club", "translation": "добро пожаловать в нашу компанию, у нас так же", "example": "You can't get up at four in the morning? Join the club." },
+    { "idiom": "be a pain in the neck", "translation": "надоедливый человек", "example": "My little brother is a pain in the neck — he never tidies his room." },
+    { "idiom": "work out", "translation": "заниматься спортом, тренироваться", "example": "I work out three times a week at the gym." },
+    { "idiom": "turn out", "translation": "оказаться (результат), в итоге", "example": "It turned out well — everybody came and the food was great." },
+    { "idiom": "burn the candle at both ends", "translation": "работать на износ, без сна", "example": "He works all day and plays football at night — he burns the candle at both ends." },
+    { "idiom": "sit around", "translation": "сидеть без дела, бездельничать", "example": "On Sundays we just sit around and watch TV." },
+    { "idiom": "get together", "translation": "собраться вместе", "example": "Our group gets together every Wednesday evening." },
+    { "idiom": "keep fit", "translation": "держаться в форме", "example": "Walking to work is a cheap way to keep fit." }
+  ]
+}

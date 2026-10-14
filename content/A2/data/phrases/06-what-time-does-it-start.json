@@ -1,0 +1,17 @@
+{
+  "lessonId": "what-time-does-it-start",
+  "title": "What time does it start? — фразы",
+  "items": [
+    { "phrase": "What time does ... start?", "translation": "Во сколько начинается ...?", "example": "What time does the bus tour start?" },
+    { "phrase": "Where does ... leave from?", "translation": "Откуда отправляется ...?", "example": "Where does the boat leave from? — From Pier 43." },
+    { "phrase": "How much does it cost?", "translation": "Сколько это стоит?", "example": "How much does the walking tour cost? — Thirty dollars." },
+    { "phrase": "Do you take credit cards?", "translation": "Вы принимаете кредитные карты?", "example": "Do you take credit cards? — Yes, of course." },
+    { "phrase": "Could you speak more slowly, please?", "translation": "Не могли бы вы говорить медленнее?", "example": "Er... could you speak more slowly, please?" },
+    { "phrase": "Could you repeat that?", "translation": "Не могли бы вы повторить?", "example": "Sorry, could you repeat that, please?" },
+    { "phrase": "Could you say that again?", "translation": "Не могли бы вы повторить это?", "example": "Could you say that again? I didn't hear you." },
+    { "phrase": "the morning or the afternoon tour", "translation": "утренняя или дневная экскурсия", "example": "Would you like the morning or the afternoon tour?" },
+    { "phrase": "at ... exactly", "translation": "ровно в ...", "example": "The tour starts at ten o'clock exactly." },
+    { "phrase": "half past ...", "translation": "половина после ...", "example": "The film starts at half past seven." },
+    { "phrase": "quarter past / quarter to ...", "translation": "четверть после / без четверти ...", "example": "The bus comes at quarter past ten, and the tour leaves at quarter to eight." }
+  ]
+}

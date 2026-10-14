@@ -1,0 +1,18 @@
+{
+  "lessonId": "travel-partners",
+  "title": "Travel partners — фразы",
+  "items": [
+    { "phrase": "like travelling by ...", "translation": "любить путешествовать на ...", "example": "I like travelling by train because it's more comfortable." },
+    { "phrase": "prefer doing something to doing something else", "translation": "предпочитать одно другому", "example": "I prefer relaxing on a beach to going sightseeing." },
+    { "phrase": "go on holiday", "translation": "ездить в отпуск", "example": "I like going on holiday in autumn." },
+    { "phrase": "a weekend / a week / a month", "translation": "выходные / неделю / месяц", "example": "My perfect holiday is a week by the sea." },
+    { "phrase": "be good at", "translation": "быть хорошим в", "example": "She is good at languages and travels a lot." },
+    { "phrase": "be (a) good travel partner", "translation": "быть хорошим попутчиком", "example": "Are you a good travel partner? — Why/Why not?" },
+    { "phrase": "which one do you like more?", "translation": "какой из них тебе нравится больше?", "example": "Which city do you like more, Kraków or Warsaw?" },
+    { "phrase": "be easier / harder to ...", "translation": "быть проще / сложнее ...", "example": "This hotel is easy to find; that one is difficult to find." },
+    { "phrase": "an art gallery", "translation": "картинная галерея", "example": "Art galleries are more expensive than museums." },
+    { "phrase": "as ... as", "translation": "так же ... как", "example": "An e-book is as good as a paper book." },
+    { "phrase": "in the centre", "translation": "в центре", "example": "Hotels in the centre are more expensive." },
+    { "phrase": "the countryside", "translation": "деревня, сельская местность", "example": "We drove across the countryside for three hours." }
+  ]
+}

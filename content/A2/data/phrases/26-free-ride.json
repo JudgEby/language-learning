@@ -1,0 +1,18 @@
+{
+  "lessonId": "free-ride",
+  "title": "Free ride — фразы",
+  "items": [
+    { "phrase": "get into a car / taxi", "translation": "сесть в машину / такси", "example": "We got into a taxi at the airport." },
+    { "phrase": "get on a bike / train", "translation": "сесть на велосипед / в поезд", "example": "You get on a bike and get off at the corner." },
+    { "phrase": "travel by road / by rail / by water", "translation": "путешествовать по дороге / по рельсам / по воде", "example": "Which is the most expensive: by road, by rail or by water?" },
+    { "phrase": "Which types of transport don't you like using?", "translation": "Какие виды транспорта тебе не нравится использовать?", "example": "Which types of transport don't you like using? — Planes." },
+    { "phrase": "What's your favourite type of transport?", "translation": "Какой вид транспорта ты любишь больше всего?", "example": "What's your favourite type of transport? — The train." },
+    { "phrase": "pay to drive in the city centre", "translation": "платить за въезд в центр города", "example": "In Milan you have to pay to drive in the city centre." },
+    { "phrase": "pick up a hitchhiker", "translation": "подвезти автостопщика", "example": "All government cars have to pick up hitchhikers." },
+    { "phrase": "travel for free", "translation": "путешествовать бесплатно", "example": "Is it possible to travel for free? — Yes, you can hitchhike." },
+    { "phrase": "be illegal", "translation": "быть незаконным", "example": "In my country you can't hitchhike. It's illegal." },
+    { "phrase": "how many different ways can you ...?", "translation": "сколькими разными способами можно ...?", "example": "How many different ways can you travel by road?" },
+    { "phrase": "That's interesting", "translation": "Интересно.", "example": "This is interesting about Cuba." },
+    { "phrase": "I think it's a good idea", "translation": "Я думаю, это хорошая идея.", "example": "Women-only carriages? I think it's a good idea." }
+  ]
+}

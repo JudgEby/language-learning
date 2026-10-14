@@ -1,0 +1,20 @@
+{
+  "lessonId": "lets-do-something-new",
+  "title": "Let's do something new — фразы",
+  "items": [
+    { "phrase": "Why don't we ...?", "translation": "Почему бы нам не ...?", "example": "Why don't we go to the theatre?" },
+    { "phrase": "How about ...?", "translation": "Как насчёт ...?", "example": "How about going to a museum?" },
+    { "phrase": "Shall we ...?", "translation": "Пойдём ...?", "example": "Shall we go in the evening?" },
+    { "phrase": "Let's do something different.", "translation": "Давай сделаем что-нибудь необычное.", "example": "Let's do something different this weekend." },
+    { "phrase": "That sounds good / interesting!", "translation": "Звучит хорошо / интересно!", "example": "An exhibition? That sounds interesting!" },
+    { "phrase": "That's a good idea.", "translation": "Хорошая идея.", "example": "Why don't we walk? — That's a good idea." },
+    { "phrase": "Brilliant!", "translation": "Отлично!", "example": "Silent disco? — Brilliant!" },
+    { "phrase": "I'd like to go.", "translation": "Я бы с удовольствием пошёл.", "example": "Would you like to go? — I'd like to go." },
+    { "phrase": "I don't feel like doing that.", "translation": "Мне не хочется этого.", "example": "I don't feel like doing that — it's too cold." },
+    { "phrase": "It's not for me.", "translation": "Это не моё.", "example": "Silent disco? — No, it's not for me." },
+    { "phrase": "What can we go to / see / do?", "translation": "Куда мы можем сходить / что посмотреть / что сделать?", "example": "What can we go to this weekend?" },
+    { "phrase": "Do you like ...?", "translation": "Тебе нравится ...?", "example": "Do you like looking at photographs?" },
+    { "phrase": "When did you last ...?", "translation": "Когда ты последний раз ...?", "example": "When did you last go to the theatre?" },
+    { "phrase": "See you at ...", "translation": "Увидимся в ...", "example": "See you at the museum at three." }
+  ]
+}

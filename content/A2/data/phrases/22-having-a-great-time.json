@@ -1,0 +1,19 @@
+{
+  "lessonId": "having-a-great-time",
+  "title": "Having a great time — фразы",
+  "items": [
+    { "phrase": "have a great time", "translation": "отлично проводить время", "example": "We're having a great time in Greece." },
+    { "phrase": "What are you thinking about?", "translation": "О чём ты думаешь?", "example": "What are you thinking about? — About my holiday." },
+    { "phrase": "What is he / she doing?", "translation": "Что он / она делает?", "example": "What is he doing? — He's packing the bags." },
+    { "phrase": "be waiting for ...", "translation": "ждать ...", "example": "We're waiting for the museum to open." },
+    { "phrase": "be getting bored", "translation": "надоедать", "example": "We're standing in the sun and we're getting very bored." },
+    { "phrase": "look at photos of ...", "translation": "смотреть фотографии ...", "example": "We are looking at photos of the buildings." },
+    { "phrase": "sit for a photo", "translation": "позировать для фотографии", "example": "Everyone is sitting for a photo by the pool." },
+    { "phrase": "sound great", "translation": "звучит здорово", "example": "Her new song sounds great!" },
+    { "phrase": "life is perfect", "translation": "жизнь прекрасна", "example": "They're in the sun, Brazil won the match — life is perfect." },
+    { "phrase": "Thinking about you all!", "translation": "Скучаю по всем вам!", "example": "Thinking about you all in the office! See you next week." },
+    { "phrase": "brought me breakfast in bed", "translation": "принёс мне завтрак в постель", "example": "He brought me breakfast in bed." },
+    { "phrase": "talk about ...", "translation": "говорить о ...", "example": "Men talk about sport, computers and videos." },
+    { "phrase": "look at your messages on a large screen", "translation": "смотреть свои сообщения на большом экране", "example": "We read our messages on a large screen in the kitchen." }
+  ]
+}

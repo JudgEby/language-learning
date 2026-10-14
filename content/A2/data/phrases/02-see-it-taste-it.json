@@ -1,0 +1,17 @@
+{
+  "lessonId": "see-it-taste-it",
+  "title": "See it! Taste it! — фразы",
+  "items": [
+    { "phrase": "What's this in English?", "translation": "Как это по-английски?", "example": "A: What's this in English? B: It's a camera." },
+    { "phrase": "What are those?", "translation": "Что это (штуки)?", "example": "What are those in your pocket?" },
+    { "phrase": "Is this yours?", "translation": "Это ваше?", "example": "Is this your bag? — No, it isn't. It's Sally's." },
+    { "phrase": "Are these yours?", "translation": "Это ваши?", "example": "Are these Jack's glasses? — No, they're Veronika's." },
+    { "phrase": "It's mine", "translation": "Это моё", "example": "Look, my name's on it. It's mine." },
+    { "phrase": "mine / yours / his / hers", "translation": "мой / твой / его / её", "example": "That's my pen. — Oh, sorry, it's yours." },
+    { "phrase": "Could you open it, please?", "translation": "Не могли бы вы его открыть?", "example": "Could you open it, please? — What's the problem?" },
+    { "phrase": "What's the problem?", "translation": "В чём дело?", "example": "Excuse me, what's the problem?" },
+    { "phrase": "Maybe it's ...", "translation": "Может, это ...", "example": "This/These is the problem. Maybe it's Ali's." },
+    { "phrase": "five things in your bag", "translation": "пять вещей в сумке", "example": "What five things are always in your bags?" },
+    { "phrase": "carry-on bag", "translation": "ручная кладь", "example": "Take 9/10/11/12 things in your carry-on bag." }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "lessonId": "having-a-great-time",
+  "title": "Having a great time — идиомы",
+  "items": [
+    { "idiom": "have a great time", "translation": "отлично проводить время", "example": "Enjoy your holiday — have a great time!" },
+    { "idiom": "be seeing somebody", "translation": "встречаться, проводить время с кем-то", "example": "I'm seeing my sister this weekend." },
+    { "idiom": "in the sun", "translation": "на солнце", "example": "They spent the whole day in the sun by the pool." },
+    { "idiom": "be on your phone", "translation": "быть в телефоне", "example": "He's always on his phone — look at all those messages!" },
+    { "idiom": "have a lot in common", "translation": "иметь много общего", "example": "We have a lot in common — we both live by the sea." },
+    { "idiom": "a busy day", "translation": "насыщенный день", "example": "What a busy day — I'm still doing my homework." },
+    { "idiom": "kill time", "translation": "убивать время", "example": "We killed time in the airport café." }
+  ]
+}

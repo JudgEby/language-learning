@@ -1,0 +1,14 @@
+{
+  "id": "nice-to-meet-you",
+  "order": 1,
+  "unit": "Unit 1 — WELCOME",
+  "title": "Nice to meet you",
+  "contentMd": "## Present simple: be\n\n### Простая суть\n\nГлагол **to be** — это клей английского предложения: он держит субъект и остаётся на месте, меняется только внешность. Пять форм, и у каждой своя личность: **I am**, **you are**, **he/she/it is**, **we are**, **they are**. В разговоре почти все формы стягиваются в одно слово: *I'm*, *you're*, *he's*, *we're*, *they're*. Отрицание добавляет **not**, и в этом и заключается главный подвох: *I'm* + *not* → **I'm not**, а вот *she's* + *not* → **she isn't / she's not** — здесь прокладывается целая новая форма **isn't**. Вопрос вообще меняет форму глагола: *Are you American?* — вспомогательное **are** выходит вперёд и толкает **you** в хвост.\n\n### Как это работает\n\n- **Утверждение**: подлежащее + am/are/is. *I'm Dave. She is from Italy. We are friends.*\n- **Отрицание**: am → *am not*; are/is → **aren't / isn't** (или *'m not / 's not* в разговоре). *I'm not a student. They aren't at home.*\n- **Вопрос**: вспомогательное вперёд, порядок слов меняется. *Are you from Canada? Is your name Yasmin?*\n- **Краткий ответ**: вспомогательное + подлежащее + главный глагол. *Yes, I am. No, it isn't.*\n- **Страна и национальность — разные слова**: *Poland* (страна) → *Polish* (национальность). *She's Polish.* Но есть исключения: *Germany → German*, *China → Chinese*, *Russia → Russian*.\n- **Заглавная буква**: страны, национальности, языки, города, имена — всегда с большой буквы. *The Eiffel Tower is in France. 'Buenos días!' is Spanish for 'hello'.*\n\n### Живые примеры\n\n- **Are you** Mr and Mrs Rutter? (Вы мистер и миссис Раттер?)\n- **Nice to meet you**, Ben. (Приятно познакомиться, Бен.)\n- She **is** in my class. (Она учится в моём классе.)\n- **We're** from the UK. (Мы из Великобритании.)\n- It's **not** Japanese. — No, it **isn't**. It's Chinese. (Это не японский. — Нет, не японский. Это китайский.)\n\n### Лайфхак для запоминания\n\nЗакрой таблицу глагола: **I** → am, **he/she/it** → is, всё остальное → are. Один остаток на всех. Запомни форму **isn't** как сломанное **is**: как только видишь *isn't* в вопросе или отрицании — значит, перед тобой третье лицо или **I**. И ещё: *I'm*, *she's*, *they're* — в письменной речи apostrophe заменяет пропущенные буквы, но никогда не теряй его в *its* (вещи) против *it's* (оно есть).",
+  "examples": [
+    "Are you Mr and Mrs Rutter?",
+    "Nice to meet you, Ben.",
+    "She is in my class.",
+    "We're from the UK.",
+    "It's not Japanese — it's Chinese."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "can-i-have-a-coffee",
+  "order": 3,
+  "unit": "Unit 1 — WELCOME",
+  "title": "Can I have a coffee?",
+  "contentMd": "## Making requests: could I have ...?\n\n### Простая суть\n\nПросьба в английском — это не отдельная грамматика, а выбор **вежливости**. Всё строится на **can / could** (могу / не мог бы) + глагол: **Can I have ...?** — нейтрально, **Could I have ...?** — вежливо (форма прошедшего *could* звучит мягче, это её главный секрет). Дальше два способа показать уважение: слово **please** и интонация. Просьба — это **вопрос**, поэтому вместо *do you want* звучит *can I have*, а вместо *what do you want* — *what would you like?*. И важный нюанс: чтобы **не** звучать грубо, в британском английском в магазине добавляют **Can I just ...?** или **Could I possibly ...?**. В ответе почти всегда звучит **Yes, of course / Here you are** — а не голое *Yes*.\n\n### Как это работает\n\n- **Can I have ...?** — «можно мне ...?» — обычная просьба. *Can I have a sandwich, please?*\n- **Could I have ...?** — вежливее, в магазине и кафе. *Could I have one of those postcards, please?*\n- **Can/Could I just ...?** — добавляет мягкости. *Can I just have the sandwich, but no juice?*\n- **Could you ...?** — просьба к другому человеку. *Could you open it, please?*\n- **I'd like ...** — формальный и тёплый вариант: *I'd like a single ticket to Sydney, please.*\n- **What would you like?** — вопрос о желании, самый безобидный способ начать. *What would you like? — A coffee, please.*\n- **Вежливая интонация**: голос вверх в конце просьбы. Плоская нисходящая интонация звучит как приказ.\n- **Вежливость или нет**: *Can I have ten kilos of potatoes?* (грубо) → *Could I have a kilo of potatoes, please?* (нормально).\n\n### Живые примеры\n\n- **Could I have** one of those postcards, please? (Можно одну из тех открыток, пожалуйста?)\n- **Can I have** a single ticket to Sydney, please? (Можно билет в одну сторону до Сиднея, пожалуйста?)\n- Ah, I **only have** five euros. How much is the sandwich? (У меня только пять евро. Сколько стоит сэндвич?)\n- **What would you like?** — A coffee and a cheese sandwich, please. (Что бы вы хотели? — Кофе и сэндвич с сыром, пожалуйста.)\n- That's six euros. (Это шесть евро.)\n\n### Лайфхак для запоминания\n\nБыстрое правило вежливости: ставь **could** вместо *can*, добавляй **please** и задавай вопрос вместо утверждения. Три шага — и ты вежливее, чем сто человек за тобой в очереди. И следи за интонацией: в просьбе голос чуть поднимается вверх, как будто ты спрашиваешь разрешения, а не заказываешь. Только **Can I have this?** вместо *Do you want this?* — фундаментальное различие: вопрос о желании против вопроса о разрешении.",
+  "examples": [
+    "Can I have a sandwich, please?",
+    "Could I have one of those postcards, please?",
+    "What would you like?",
+    "Could you open it, please?",
+    "That's six euros."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "lessonId": "a-place-to-stay",
+  "title": "A place to stay — фразы",
+  "items": [
+    { "phrase": "a place to stay", "translation": "место для проживания", "example": "What's important for you in choosing a place to stay?" },
+    { "phrase": "there's no ...", "translation": "нет ...", "example": "There's no balcony and there's no lift." },
+    { "phrase": "Is there a ... ?", "translation": "Есть ... ?", "example": "Is there free WiFi in the apartment?" },
+    { "phrase": "Are there any ... ?", "translation": "Есть ли какие-нибудь ... ?", "example": "Are there any buses late at night?" },
+    { "phrase": "lots of ...", "translation": "много ...", "example": "There are lots of great restaurants in the city." },
+    { "phrase": "ten minutes' walk away", "translation": "в десяти минутах ходьбы", "example": "There's a park by the sea only ten minutes' walk away." },
+    { "phrase": "a place outside", "translation": "место на улице", "example": "For me, it's important to have a place outside." },
+    { "phrase": "sit in the sun", "translation": "сидеть на солнце", "example": "I like sitting in the sun on the balcony." },
+    { "phrase": "How many rooms are there?", "translation": "Сколько комнат?", "example": "How many rooms are there in your flat?" },
+    { "phrase": "be different from / be similar to", "translation": "отличаться от / быть похожим на", "example": "How are your homes different? How are they similar?" },
+    { "phrase": "by bus / by train", "translation": "на автобусе / на поезде", "example": "Can I go to Valletta by bus?" }
+  ]
+}

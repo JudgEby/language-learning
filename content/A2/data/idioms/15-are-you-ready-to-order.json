@@ -1,0 +1,13 @@
+{
+  "lessonId": "are-you-ready-to-order",
+  "title": "Are you ready to order? — идиомы",
+  "items": [
+    { "idiom": "a table for two", "translation": "стол на двоих", "example": "We didn't have a reservation — can we have a table for two?" },
+    { "idiom": "on the house", "translation": "за счёт заведения", "example": "The waiter brought us a coffee on the house." },
+    { "idiom": "a big tip", "translation": "щедрые чаевые", "example": "We left a big tip because the service was excellent." },
+    { "idiom": "keep it simple", "translation": "не усложнять", "example": "Keep it simple — I'll just have the soup." },
+    { "idiom": "go for it", "translation": "выбирать что-то, брать смело", "example": "The menu looks good. Go for it!" },
+    { "idiom": "to eat like a bird", "translation": "есть очень мало", "example": "She doesn't eat much — she eats like a bird." },
+    { "idiom": "a bite to eat", "translation": "кусочек поесть", "example": "Let me get a bite to eat before the film." }
+  ]
+}

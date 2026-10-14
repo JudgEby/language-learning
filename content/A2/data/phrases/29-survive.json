@@ -1,0 +1,19 @@
+{
+  "lessonId": "survive",
+  "title": "Survive — фразы",
+  "items": [
+    { "phrase": "get wet", "translation": "намокнуть", "example": "I forgot my umbrella and got wet." },
+    { "phrase": "get cold", "translation": "замёрзнуть", "example": "Without a jacket you'll get cold in the mountains." },
+    { "phrase": "get hot / get warm", "translation": "стать жарко / согреться", "example": "I get hot in summer and I need to get warm in winter." },
+    { "phrase": "get tired", "translation": "устать", "example": "I stayed up too late and got really tired." },
+    { "phrase": "get hungry / thirsty", "translation": "проголодаться / захотеть пить", "example": "I didn't eat breakfast so I'm getting hungry." },
+    { "phrase": "get lost", "translation": "заблудиться", "example": "I was out in Istanbul. I didn't have a satnav or a map so I got lost." },
+    { "phrase": "get sunburnt", "translation": "обгореть", "example": "I stayed out in the sun and got sunburnt." },
+    { "phrase": "get stung", "translation": "быть укушенным", "example": "She put her hand on a bee and got stung." },
+    { "phrase": "sit by the fire", "translation": "сесть у камина", "example": "Can I sit by the fire? I need to get warm." },
+    { "phrase": "there's no signal", "translation": "нет сигнала", "example": "A mobile often won't work because there's no signal." },
+    { "phrase": "what do you do in this situation?", "translation": "что ты делаешь в такой ситуации?", "example": "What do you do if you're in a car?" },
+    { "phrase": "Are you ready for ... ?", "translation": "Ты готов к ... ?", "example": "Are you ready for nature's little surprises?" },
+    { "phrase": "take a credit card", "translation": "взять с собой кредитную карту", "example": "Take a credit card, a phone and some water." }
+  ]
+}

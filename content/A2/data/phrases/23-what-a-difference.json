@@ -1,0 +1,18 @@
+{
+  "lessonId": "what-a-difference",
+  "title": "What a difference! — фразы",
+  "items": [
+    { "phrase": "What do you usually wear to ...?", "translation": "Что ты обычно носишь, когда ...?", "example": "What do you usually wear to work?" },
+    { "phrase": "What are you wearing now?", "translation": "Что на тебе сейчас?", "example": "What are you wearing now? — Jeans and a T-shirt." },
+    { "phrase": "be dressed in ...", "translation": "быть одетым в ...", "example": "He was dressed in dark jeans and a black jacket." },
+    { "phrase": "look different", "translation": "выглядеть по-другому", "example": "With this haircut he looks completely different." },
+    { "phrase": "change your appearance", "translation": "менять внешность", "example": "He changes his appearance for every film." },
+    { "phrase": "sit back-to-back", "translation": "сесть спиной друг к другу", "example": "Sit back-to-back and describe what you're wearing." },
+    { "phrase": "say which things are true", "translation": "определить, что верно", "example": "Student B says which things are true and which are false." },
+    { "phrase": "guess the situation", "translation": "угадать ситуацию", "example": "Student B guesses the situation: a job interview." },
+    { "phrase": "never wear ...", "translation": "никогда не носить ...", "example": "I never wear shorts to work." },
+    { "phrase": "be expecting ...", "translation": "ждать, ожидать ...", "example": "We're expecting a lot of guests tonight." },
+    { "phrase": "be based on ...", "translation": "быть основанным на ...", "example": "The novel is based on the author's own life." },
+    { "phrase": "a suit and a tie", "translation": "костюм с галстуком", "example": "He always wears a suit and a tie to the office." }
+  ]
+}

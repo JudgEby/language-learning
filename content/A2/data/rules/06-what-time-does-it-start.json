@@ -1,0 +1,14 @@
+{
+  "id": "what-time-does-it-start",
+  "order": 6,
+  "unit": "Unit 2 — LIFESTYLE",
+  "title": "What time does it start?",
+  "contentMd": "## Asking for information + telling the time\n\n### Простая суть\n\nСпросить дорогу или информацию — значит поставить **do / does** в начало и задать вопрос про **глагол**. Порядок такой: **Wh- + do/does + подлежащее + глагол** — *What time **does it start**?* Но если вопрос уже содержит глагол в третьем лице, **do/does** не нужен: спрашиваем *Where does the tour leave?*, а не *Where does the tour leaves?*. Про время в английском две системы: после целого часа — **o'clock** (*four o'clock*), после половины — **half past** (*one thirty = half past one*), после 15 — **quarter past / to** (*ten fifteen = quarter past ten*, *seven forty-five = quarter to eight*). И последнее умение, без которого вас не поймут: **фразы непонимания** — *Could you speak more slowly, please?* Это не грубость, а вежливая просьба.\n\n### Как это работает\n\n- **Вопрос с do/does**: **Wh- + does + подлежащее + глагол**. *What time does it start? How much does it cost?*\n- **Вопрос с глаголом be**: **Wh- + be + подлежащее**. *Where is the meeting? When are the buses?*\n- **Вопрос с can**: **Can + подлежащее + глагол**. *Can I book a ticket? Do you take credit cards?*\n- **Ровное время**: *four o'clock (four o'clock exactly)*, *half past one*.\n- **15 минут**: *quarter past ten* (= 10:15), *quarter to eight* (= 7:45).\n- **Пауза в общественной речи**: *four thirty*, *ten fifteen* — короче и естественнее, чем *half past four*.\n- **Не понял — переспроси вежливо**: *Could you speak more slowly, please? Sorry, could you repeat that? Could you say that again?*\n\n### Живые примеры\n\n- Tomorrow morning. **What time does it start?** (Завтра утром. Во сколько начинается?)\n- At ten o'clock exactly. (Ровно в десять.)\n- **And where does it leave from?** (А откуда отправляется?)\n- **How much does it cost?** (Сколько это стоит?)\n- — Er. **Could you speak more slowly, please?** — Of course. (Э-э... Не могли бы вы говорить медленнее? — Конечно.)\n- Sorry, **could you repeat that**? (Простите, не могли бы вы повторить?)\n\n### Лайфхак для запоминания\n\nДержи в голове две «корзины»: вопросы **с глаголом действия** → нужен **do/does** (*What time does it start?*), вопросы **где/когда** про физические объекты → хватает **be** (*Where is the pier?*). И тренируй ухо на трёх словесных зацепках: **quarter past** — «четверть после», **half past** — «половина после», **quarter to** — «без четверти до». Полчаса назад в русском мы говорим «половина четвёртого», а по-английски это **half past three** — «половина после трёх». Это разные системы счёта, и путаница здесь первая причина недопонимания.",
+  "examples": [
+    "What time does it start?",
+    "Where does it leave from?",
+    "How much does it cost?",
+    "Could you speak more slowly, please?",
+    "Sorry, could you repeat that?"
+  ]
+}

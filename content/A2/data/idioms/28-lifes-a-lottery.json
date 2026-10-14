@@ -1,0 +1,13 @@
+{
+  "lessonId": "lifes-a-lottery",
+  "title": "Life's a lottery — идиомы",
+  "items": [
+    { "idiom": "win the lottery", "translation": "выиграть в лотерею", "example": "He found a winning ticket on his car and won the lottery." },
+    { "idiom": "a million dollars richer", "translation": "на миллион долларов богаче", "example": "The couple are ten million dollars richer today." },
+    { "idiom": "money grows on trees", "translation": "деньги растут как грибы / у нас тут золотое дно", "example": "He thinks money grows on trees — he has never worked a day." },
+    { "idiom": "the unluckiest person in town", "translation": "самый невезучий человек в городе", "example": "He thought he was the unluckiest person in town." },
+    { "idiom": "be in the right place at the right time", "translation": "оказаться в нужном месте в нужное время", "example": "He was in the right place at the right time — and he picked up the ticket." },
+    { "idiom": "give it a miss", "translation": "пропустить, не воспользоваться", "example": "I think I'll give the concert a miss this year." },
+    { "idiom": "start from scratch", "translation": "начать с нуля", "example": "They didn't want to change their lives, so they started from scratch." }
+  ]
+}

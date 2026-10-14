@@ -1,0 +1,18 @@
+{
+  "lessonId": "are-you-free-tonight",
+  "title": "Are you free tonight? — фразы",
+  "items": [
+    { "phrase": "Are you free ...?", "translation": "Ты свободен ...?", "example": "Are you free this weekend?" },
+    { "phrase": "Do you have time ...?", "translation": "У тебя есть время ...?", "example": "Do you have time for a coffee after work?" },
+    { "phrase": "What would you like to do?", "translation": "Что бы ты хотел сделать?", "example": "What would you like to do this evening?" },
+    { "phrase": "How about ...?", "translation": "Как насчёт ...?", "example": "How about Friday instead?" },
+    { "phrase": "How about going to ...?", "translation": "Как насчёт сходить в ...?", "example": "How about going to the cinema tonight?" },
+    { "phrase": "What time does it start?", "translation": "Во сколько начинается?", "example": "What time does the film start?" },
+    { "phrase": "Where's it showing?", "translation": "Где он идёт?", "example": "The film is popular — where's it showing?" },
+    { "phrase": "The film's at ...", "translation": "Фильм в ...", "example": "The film's at six o'clock." },
+    { "phrase": "What time's good for you?", "translation": "Во сколько тебе удобно?", "example": "What time's good for you? — Half past five is fine." },
+    { "phrase": "That's a shame!", "translation": "Очень жаль!", "example": "Ron can't come tonight. That's a shame!" },
+    { "phrase": "That's fantastic!", "translation": "Это здорово!", "example": "I've got a new job! — That's fantastic!" },
+    { "phrase": "How about meeting at ...?", "translation": "Как насчёт встретиться в ...?", "example": "How about meeting at half past five?" }
+  ]
+}

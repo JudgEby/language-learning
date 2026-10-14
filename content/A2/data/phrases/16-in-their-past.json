@@ -1,0 +1,18 @@
+{
+  "lessonId": "in-their-past",
+  "title": "In their past — фразы",
+  "items": [
+    { "phrase": "be born in", "translation": "родиться в", "example": "Were you born in this country? — Yes, in Moscow." },
+    { "phrase": "at the age of ...", "translation": "в возрасте ...", "example": "At the age of thirty-two she was a millionaire." },
+    { "phrase": "when you were a child", "translation": "когда ты был ребёнком", "example": "What were your favourite things when you were a child?" },
+    { "phrase": "one of my favourite ...", "translation": "один из моих любимых ...", "example": "One of my favourite films was a short documentary." },
+    { "phrase": "your first ...", "translation": "твой первый ...", "example": "Your first teacher was probably a woman." },
+    { "phrase": "be fond of", "translation": "любить, быть привязанным к", "example": "My grandmother was very fond of music." },
+    { "phrase": "get married", "translation": "жениться, выходить замуж", "example": "They got married in June." },
+    { "phrase": "move to", "translation": "переехать в", "example": "They moved to Canada in 2015." },
+    { "phrase": "the day before yesterday", "translation": "позавчера", "example": "I saw him the day before yesterday." },
+    { "phrase": "a week ago", "translation": "неделю назад", "example": "We had dinner with friends a week ago." },
+    { "phrase": "be a quiet child", "translation": "быть тихим ребёнком", "example": "Were you a very quiet child?" },
+    { "phrase": "grow up", "translation": "вырасти", "example": "She grew up in a small town and moved to the city at eighteen." }
+  ]
+}

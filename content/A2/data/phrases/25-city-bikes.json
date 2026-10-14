@@ -1,0 +1,18 @@
+{
+  "lessonId": "city-bikes",
+  "title": "City bikes — фразы",
+  "items": [
+    { "phrase": "How do you get to work?", "translation": "Как ты добираешься до работы?", "example": "How do you get to work? — By bike." },
+    { "phrase": "close the road to cars", "translation": "закрыть дорогу для машин", "example": "Mexico City closed its main road to cars on Sundays." },
+    { "phrase": "be bike-friendly", "translation": "быть дружелюбным к велосипедистам", "example": "The city wants to become a bike-friendly city." },
+    { "phrase": "get to work", "translation": "добраться до работы", "example": "It takes me twenty minutes to get to work by bike." },
+    { "phrase": "on weekdays / at the weekend", "translation": "в будние дни / на выходных", "example": "On weekdays there are tens of thousands of cars here." },
+    { "phrase": "the worst time to travel", "translation": "худшее время для поездки", "example": "The worst time to travel is Monday morning." },
+    { "phrase": "It depends.", "translation": "Зависит.", "example": "Is cycling better than driving? — It depends." },
+    { "phrase": "the first forty-five minutes", "translation": "первые сорок пять минут", "example": "You don't have to pay for the first forty-five minutes." },
+    { "phrase": "be over sixteen", "translation": "быть старше шестнадцати", "example": "Users have to be over sixteen." },
+    { "phrase": "What do you recommend?", "translation": "Что ты посоветуешь?", "example": "Is this a good idea for your city? What do you recommend?" },
+    { "phrase": "How much does it cost?", "translation": "Сколько это стоит?", "example": "How much does the yearly ticket cost?" },
+    { "phrase": "How many cycle stations are there?", "translation": "Сколько велосипедных станций?", "example": "How many cycle stations are there in the city? — 276." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lessonId": "high-flyers",
+  "title": "High flyers — фразы",
+  "items": [
+    { "phrase": "want to be a ...", "translation": "хотеть стать ...", "example": "Does she want to be a pilot?" },
+    { "phrase": "get up early", "translation": "вставать рано", "example": "Do you get up early? — Yes, I get up at six." },
+    { "phrase": "at four in the morning", "translation": "в четыре утра", "example": "Gagan gets up at four in the morning." },
+    { "phrase": "have a big breakfast", "translation": "плотно позавтракать", "example": "He has a big breakfast every morning." },
+    { "phrase": "go to work", "translation": "идти на работу", "example": "I go to work by bus every morning." },
+    { "phrase": "have lunch at ...", "translation": "обедать в ...", "example": "They have lunch at about one o'clock." },
+    { "phrase": "get home after work", "translation": "дойти домой после работы", "example": "When do you get home after work?" },
+    { "phrase": "What does your family think?", "translation": "Что думает твоя семья?", "example": "What does your family think about your job?" },
+    { "phrase": "find three things in common", "translation": "найти три общего", "example": "Find three things in common with your partner." },
+    { "phrase": "true or false", "translation": "правда или ложь", "example": "Pilar gets up early. — True." },
+    { "phrase": "go back", "translation": "возвращаться", "example": "They go home for two days, then go back." },
+    { "phrase": "work with ...", "translation": "работать с ...", "example": "Does he work with animals or with people?" }
+  ]
+}

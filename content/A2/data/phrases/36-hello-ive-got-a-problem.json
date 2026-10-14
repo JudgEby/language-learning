@@ -1,0 +1,20 @@
+{
+  "lessonId": "hello-ive-got-a-problem",
+  "title": "Hello, I've got a problem — фразы",
+  "items": [
+    { "phrase": "This is ... (speaking)", "translation": "Это ... (говорю)", "example": "Hello, this is Alan Simpson speaking." },
+    { "phrase": "Is ... there? / Is ... in?", "translation": "... на месте? / ... дома?", "example": "Is Kevin there? — No, he's not in the office." },
+    { "phrase": "Sorry, I've got a problem.", "translation": "Извините, у меня проблема.", "example": "Sorry, I've got a problem with my order." },
+    { "phrase": "Could I speak to ... , please?", "translation": "Могу ли я поговорить с ... ?", "example": "Could I speak to customer services, please?" },
+    { "phrase": "Could I leave a message for him?", "translation": "Могу ли я оставить для него сообщение?", "example": "Could I leave a message for him? — Yes, of course." },
+    { "phrase": "Could you ring me back?", "translation": "Не перезвоните мне?", "example": "He's not in. Could you ring me back?" },
+    { "phrase": "What number are you on?", "translation": "На каком вы номере?", "example": "What number are you on? — 34 for Spain, then 308 5238." },
+    { "phrase": "Let me check that.", "translation": "Дайте проверю.", "example": "Let me check that. 34, 91, 308 5238." },
+    { "phrase": "Just a moment. / Hold on, please.", "translation": "Минуточку. / Подождите, пожалуйста.", "example": "Just a moment, please. — Customer services." },
+    { "phrase": "He's not here / He's not in.", "translation": "Его нет на месте / его нет дома.", "example": "Is Mark there? — No, he's not in." },
+    { "phrase": "Hang up and I'll call you back.", "translation": "Положите трубку, и я перезвоню.", "example": "Fine. Hang up and I'll call you back straightaway." },
+    { "phrase": "You've got the wrong number.", "translation": "Вы не туда звоните.", "example": "Is that 34 91 308? — Sorry, you've got the wrong number." },
+    { "phrase": "What's up?", "translation": "Что случилось? / В чём дело?", "example": "Hi, Debbie. What's up? — I've got a problem." },
+    { "phrase": "Don't worry — I'll sort it out.", "translation": "Не волнуйтесь, я разберусь.", "example": "You've got a problem? Don't worry, I'll sort it out." }
+  ]
+}

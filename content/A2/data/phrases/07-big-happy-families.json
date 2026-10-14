@@ -1,0 +1,17 @@
+{
+  "lessonId": "big-happy-families",
+  "title": "Big happy families — фразы",
+  "items": [
+    { "phrase": "have got a brother and a sister", "translation": "есть брат и сестра", "example": "Kate has got five sisters." },
+    { "phrase": "How many ... have you got?", "translation": "Сколько у тебя ... ?", "example": "How many brothers have you got?" },
+    { "phrase": "What are their names?", "translation": "Как их зовут?", "example": "What are their names? — Paul and Lisa." },
+    { "phrase": "How old is ... ?", "translation": "Сколько лет ... ?", "example": "And how old is Joel? — He's twenty-five." },
+    { "phrase": "has somebody got ... ?", "translation": "У кого-то есть ... ?", "example": "And has he got a job? — Yes, he's the manager." },
+    { "phrase": "bring up", "translation": "растить, воспитывать (детей)", "example": "They bring up sixteen children in one house." },
+    { "phrase": "look after", "translation": "смотреть за, заботиться", "example": "Neighbours look after the kids after school." },
+    { "phrase": "spend time with", "translation": "проводить время с", "example": "Jeni and Ray spend time with the kids every evening." },
+    { "phrase": "feel loved", "translation": "чувствовать себя любимым", "example": "The kids definitely feel loved and happy." },
+    { "phrase": "be great parents", "translation": "быть хорошими родителями", "example": "They're great parents — they really love their big family." },
+    { "phrase": "have got a bakery", "translation": "владеть пекарней", "example": "They have got a bakery in town." }
+  ]
+}

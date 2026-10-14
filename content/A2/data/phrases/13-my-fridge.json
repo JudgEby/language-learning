@@ -1,0 +1,18 @@
+{
+  "lessonId": "my-fridge",
+  "title": "My fridge — фразы",
+  "items": [
+    { "phrase": "What do you usually have for breakfast?", "translation": "Что ты обычно ешь на завтрак?", "example": "What do you usually have for breakfast? — Coffee and toast." },
+    { "phrase": "have got some ...", "translation": "есть немного ...", "example": "We've got some pears and some grapes." },
+    { "phrase": "have got any ... ?", "translation": "есть ... ?", "example": "Have you got any tomatoes?" },
+    { "phrase": "there aren't any ...", "translation": "нет никаких ...", "example": "No, there aren't any apples in the fridge." },
+    { "phrase": "a piece of ...", "translation": "кусок ...", "example": "I'd like a piece of cheese and a glass of water." },
+    { "phrase": "a bottle of ...", "translation": "бутылка ...", "example": "There's a bottle of mineral water in the fridge." },
+    { "phrase": "a bag of ...", "translation": "пакет ...", "example": "He bought a bag of rice and a jar of jam." },
+    { "phrase": "a carton of ...", "translation": "пачка ...", "example": "A carton of milk is in the fridge." },
+    { "phrase": "a jar of ...", "translation": "банка ...", "example": "There's a jar of coffee on the table." },
+    { "phrase": "try to be healthy", "translation": "стараться питаться здорово", "example": "André tries to be healthy and to cook at home." },
+    { "phrase": "hate (a food)", "translation": "ненавидеть (что-то из еды)", "example": "I really hate mushrooms, they taste awful." },
+    { "phrase": "like having visitors", "translation": "любить, когда приходят гости", "example": "She likes having visitors and cooking big meals." }
+  ]
+}

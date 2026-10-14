@@ -1,0 +1,19 @@
+{
+  "lessonId": "sorry-im-late",
+  "title": "Sorry, I'm late — фразы",
+  "items": [
+    { "phrase": "I'm very sorry I'm late.", "translation": "Очень извиняюсь за опоздание.", "example": "I'm very sorry I'm late. — That's OK." },
+    { "phrase": "Sorry to be late.", "translation": "Извините за опоздание.", "example": "Sorry to be late. I brought you a coffee." },
+    { "phrase": "I'm terribly / really sorry.", "translation": "Я очень-очень извиняюсь.", "example": "I'm terribly sorry. My train hit a cow." },
+    { "phrase": "I'm afraid I didn't hear ...", "translation": "Боюсь, я не услышал ...", "example": "I'm afraid I didn't hear my alarm clock." },
+    { "phrase": "I feel awful about it.", "translation": "Мне ужасно плохо из-за этого.", "example": "I'm so sorry I missed the meeting. I feel awful about it." },
+    { "phrase": "There was a long queue at ...", "translation": "В ... была длинная очередь.", "example": "There was a long queue at the coffee shop." },
+    { "phrase": "The traffic was terrible.", "translation": "Дорожный трафик был ужасным.", "example": "I'm sorry I'm late. The traffic was terrible." },
+    { "phrase": "My car broke down.", "translation": "Моя машина сломалась.", "example": "My car broke down and I had to walk." },
+    { "phrase": "Don't worry about it.", "translation": "Не беспокойся об этом.", "example": "Sorry. — Don't worry about it." },
+    { "phrase": "That's OK. No problem.", "translation": "Ничего страшного. Всё в порядке.", "example": "You missed the train. — That's OK. No problem." },
+    { "phrase": "Don't let it happen again.", "translation": "Чтобы так больше не было.", "example": "Don't let it happen again. — I promise." },
+    { "phrase": "I didn't mean to ...", "translation": "Я не хотел ...", "example": "I didn't mean to be rude, but I was late." },
+    { "phrase": "I woke up late and ...", "translation": "Я проснулся поздно и ...", "example": "I woke up late and missed my train." }
+  ]
+}

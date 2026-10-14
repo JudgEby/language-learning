@@ -1,0 +1,14 @@
+{
+  "id": "see-it-taste-it",
+  "order": 2,
+  "unit": "Unit 1 — WELCOME",
+  "title": "See it! Taste it!",
+  "contentMd": "## this / that / these / those и притяжательные\n\n### Простая суть\n\nУказательные слова работают как фонарик: **this** — вот этот (один, рядом), **that** — тот (один, подальше), **these** — вот эти (несколько, рядом), **those** — те (несколько, подальше). Закон простой: **th-** = много (**those**), а вот **th**-звук в единственном числе звучит как обычный **z/s** — *this* звучит «зис», *that* — «зэт». Второй блок — притяжательные: **my, your, his, her, its, our, their**. Здесь ловушка в **its**: у него **нет** apostrophe (*its* = «его/её» о вещи), а *it's* всегда значит «это есть». Принадлежность людей передаётся через **'s** (*my friend's bags*), а предметов — через **of** (*the leg of the table*). И ещё: **it's my bag** = «это моя сумка» (одна), а **they're my bags** = «это мои сумки».\n\n### Как это работает\n\n- **Ближний план**: **this** + singular, **these** + plural. *This is a camera. These are my keys.*\n- **Дальний план**: **that** + singular, **those** + plural. *That is my shampoo. What's those in your pocket?*\n- **this / these** — перед словом всегда нужна запятая: *We always have a laptop **in** our bag* — тут предлог, запятая не нужна.\n- **Притяжательные + существительное**: *your bag, their keys, her passport, our hotel*.\n- **'s для людей**: *It's my friend's bag. Sally's camera. Ben's wife.*\n- **of для вещей**: *a picture **of** a mountain, the leg **of** the table, the door **of** the car.*\n- **В вопросе**: *Is **this** your bag? Are **these** your bags?* — указательное слово стоит перед глаголом.\n\n### Живые примеры\n\n- **What's this** in English? (Что это по-английски?)\n- — It's a **camera**. (Это камера.)\n- Is **that** your mobile? (Это твой телефон?)\n- — No, it isn't. It's **Bruno's**. (Нет. Это Бруно.) — А у **these** твои очки? — Нет, это Вероники.\n- **Those** are my friend's bags. (Те сумки — моего друга.)\n- Sorry, **this is** my bag, the black one. (Простите, это моя сумка, чёрная.)\n\n### Лайфхак для запоминания\n\nПроверь себя одной картинкой: **1** штука → **this/that**, **2+** штук → **these/those**; **1** → *is*, **2+** → *are*. Дальше притяжательное: чужое и единственное — *your*, *his*, *her*; чужое и множественное — *your/their* + **plural noun**. И никогда не ставь apostrophe в *its* — если хочешь сказать «это его», скажи *it's his*, а *its* оставь для вещей: *the dog wagged its tail*.",
+  "examples": [
+    "What's this in English?",
+    "Is that your mobile?",
+    "Are these your bags?",
+    "Those are my friend's bags.",
+    "Sorry, this is my bag — the black one."
+  ]
+}

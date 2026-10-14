@@ -1,0 +1,14 @@
+{
+  "id": "a-place-to-stay",
+  "order": 10,
+  "unit": "Unit 4 — PLACES",
+  "title": "A place to stay",
+  "contentMd": "## there is / there are\n\n### Простая суть\n\n**there is / there are** — это не глагол, а конструкция-связка: она означает «есть, находится» и нужна, чтобы сказать о том, **что** существует или **где** что-то находится. Лицо определяется тем, что стоит **после**: одно — *there **is*** (*There's a balcony*), несколько — *there **are*** (*There are two bedrooms*). Формы стягиваются: **there's** и **there're**, а в быстрой речи — **there's a** → «сза», **there are** → «дэра». В вопросе и отрицании форма меняется на месте: *Is there a kitchen? — No, there isn't. Are there any buses at night? — No, there aren't.* Приём «слова-приманки» тоже работает: *There's a **park** by the sea.* И важная мелочь: после **there is / there are** никогда не стоит *have* — только *is / are*.\n\n### Как это работает\n\n- **Есть (1)**: There **is** / There's. *There's a desk in the living room.*\n- **Есть (несколько)**: There **are**. *There are lots of DVDs in English.*\n- **Отрицание**: *there isn't / there aren't*. *There isn't a separate kitchen.*\n- **Вопрос**: *Is there ...? / Are there ...?* *Is there free WiFi in the apartment?*\n- **Место**: предлог после существительного. *a park **by** the sea, a café **near** the station, a room **on** the second floor.*\n- **Комнаты и мебель**: *bedroom, living room, kitchen, bathroom, balcony, terrace; sofa, armchair, table, chair, desk, bed, wardrobe, fridge.*\n- **Вопросы о доме**: *How many rooms are there? Is there a garage?*\n\n### Живые примеры\n\n- There **is** a roof terrace and there are chairs and a table. (Есть терраса на крыше, а также стулья и стол.)\n- There **isn't** a separate kitchen. (Отдельной кухни нет.)\n- Are there any buses **late at night**? (Есть ли автобусы поздно вечером?)\n- There's free WiFi in the apartment. (В квартире есть бесплатный Wi-Fi.)\n- How many rooms **are there**? — There are six. (Сколько комнат? — Шесть.)\n- Sorry, there's no balcony, but there's a park ten minutes' walk away. (Балкона нет, но в десяти минутах ходьбы есть парк.)\n\n### Лайфхак для запоминания\n\nСначала определи, **один** предмет или **несколько**, потом ставь форму: *one thing → **is**, more → **are***. Это работает всегда. Второй трюк — подставка: скажи *there is ...* и прочитай вслух, потом *there are ...*; та форма, которая звучит естественнее после твоего существительного, и есть правильная. И запомни твёрдо: *there is a bus* (один автобус), но *there **have** no buses* — только *there **are** no buses*. Смешение *there is* с *have* — самая частая ошибка русскоязычных, потому что в русском оба слова звучат как «есть».",
+  "examples": [
+    "There is a roof terrace.",
+    "There aren't any buses late at night.",
+    "Is there free WiFi in the apartment?",
+    "There's a park ten minutes' walk away.",
+    "How many rooms are there? — There are six."
+  ]
+}

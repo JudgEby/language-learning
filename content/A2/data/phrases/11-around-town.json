@@ -1,0 +1,18 @@
+{
+  "lessonId": "around-town",
+  "title": "Around town — фразы",
+  "items": [
+    { "phrase": "You can ... at ...", "translation": "В ... можно ...", "example": "You can buy medicine at a pharmacy." },
+    { "phrase": "borrow a book from", "translation": "взять книгу в", "example": "You can borrow a book from a library." },
+    { "phrase": "send a letter", "translation": "отправить письмо", "example": "You can send a letter at a post office." },
+    { "phrase": "look at paintings", "translation": "смотреть картины", "example": "You can look at paintings at an art gallery." },
+    { "phrase": "see plays", "translation": "смотреть спектакли", "example": "You can see plays at a theatre." },
+    { "phrase": "be only open for ...", "translation": "быть открытым только ...", "example": "The post office is only open for one hour a day." },
+    { "phrase": "check the opening times", "translation": "проверить часы работы", "example": "Check the opening times before you go." },
+    { "phrase": "take it back", "translation": "вернуть (это)", "example": "You can borrow a book in Pakistan and return it in Canada." },
+    { "phrase": "the maximum is ...", "translation": "максимум — это ...", "example": "The maximum film length is ten minutes." },
+    { "phrase": "on the second floor", "translation": "на втором этаже", "example": "The café is on the second floor." },
+    { "phrase": "next to / near", "translation": "рядом с / недалеко от", "example": "There's a café next to the station." },
+    { "phrase": "in front of", "translation": "перед (зданием)", "example": "The pharmacy is in front of the bank." }
+  ]
+}

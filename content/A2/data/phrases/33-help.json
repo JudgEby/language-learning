@@ -1,0 +1,19 @@
+{
+  "lessonId": "help",
+  "title": "Help! — фразы",
+  "items": [
+    { "phrase": "Can you help me?", "translation": "Можешь мне помочь?", "example": "Can you help me? — Yes, of course." },
+    { "phrase": "Let me help you.", "translation": "Позвольте помочь.", "example": "Here, let me help. What a mess!" },
+    { "phrase": "Let me try ...", "translation": "Дай попробовать ...", "example": "Let me try ... Ooh, it's stuck." },
+    { "phrase": "Shall I ...?", "translation": "Разрешите ...?", "example": "Shall I close the window? — Yes, please." },
+    { "phrase": "I'll get it for you.", "translation": "Я достану это для вас.", "example": "I'll get it for you. — Thanks a lot!" },
+    { "phrase": "I'll make you a sandwich.", "translation": "Я сделаю вам бутерброд.", "example": "You look tired. I'll make you a sandwich." },
+    { "phrase": "Can I carry your bag?", "translation": "Могу понести вашу сумку?", "example": "Can I carry your bag? — Thanks a lot." },
+    { "phrase": "Do you need help?", "translation": "Вам нужна помощь?", "example": "You look tired. Do you need help?" },
+    { "phrase": "I'm in trouble.", "translation": "У меня проблема.", "example": "Excuse me, I'm in trouble — can you help?" },
+    { "phrase": "What a mess!", "translation": "Какая каша! / Что за беспорядок!", "example": "Here, let me help. What a mess!" },
+    { "phrase": "Thanks a lot.", "translation": "Большое спасибо.", "example": "Thanks a lot for your help." },
+    { "phrase": "No problem. / Any time.", "translation": "Без проблем. / Всегда пожалуйста.", "example": "Thanks. — No problem. / Any time." },
+    { "phrase": "That's very kind of you.", "translation": "Это очень любезно с вашей стороны.", "example": "That's very kind of you — thank you!" }
+  ]
+}

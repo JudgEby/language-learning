@@ -1,0 +1,18 @@
+{
+  "lessonId": "are-you-ready-to-order",
+  "title": "Are you ready to order? — фразы",
+  "items": [
+    { "phrase": "A table for two, please.", "translation": "Стол на двоих, пожалуйста.", "example": "Good evening. — A table for two, please." },
+    { "phrase": "Are you ready to order?", "translation": "Вы готовы заказать?", "example": "Are you ready to order? — Can I have a minute?" },
+    { "phrase": "Can I get the ... , please?", "translation": "Можно ..., пожалуйста?", "example": "Can I get the fish and chips, please?" },
+    { "phrase": "I'll have ...", "translation": "Я возьму ...", "example": "I'll have the soup and the chicken salad." },
+    { "phrase": "I'd like ... for starter", "translation": "Я хотел бы ... на закуску", "example": "I'd like the tomato soup for starter." },
+    { "phrase": "Small, medium or large?", "translation": "Маленький, средний или большой?", "example": "Small, medium or large? — Medium, please." },
+    { "phrase": "Is that eat in or take away?", "translation": "На месте или с собой?", "example": "Is that eat in or take away? — Eat in, please." },
+    { "phrase": "Anything else?", "translation": "Что-нибудь ещё?", "example": "Anything else? — No, that's all, thanks." },
+    { "phrase": "Can we have the bill, please?", "translation": "Счёт, пожалуйста.", "example": "Excuse me, can we have the bill, please?" },
+    { "phrase": "That's all, thanks.", "translation": "Всё, спасибо.", "example": "That's all, thanks. The food was excellent." },
+    { "phrase": "Have a nice day!", "translation": "Хорошего дня!", "example": "Thanks! — Have a nice day!" },
+    { "phrase": "Tonight's special is ...", "translation": "Сегодняшнее фирменное блюдо — ...", "example": "Tonight's special is grilled salmon." }
+  ]
+}

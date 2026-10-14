@@ -1,0 +1,18 @@
+{
+  "lessonId": "afraid-of-nothing",
+  "title": "Afraid of nothing — фразы",
+  "items": [
+    { "phrase": "drive through a tunnel", "translation": "ехать через тоннель", "example": "We drove through a very long tunnel." },
+    { "phrase": "go into a lift", "translation": "зайти в лифт", "example": "The building is so high that you go into a glass lift." },
+    { "phrase": "jump over a gap", "translation": "перепрыгнуть через пропасть", "example": "His car has to jump across a fifteen-metre gap." },
+    { "phrase": "go under the bridge", "translation": "пройти под мостом", "example": "We walked under the bridge when a train went over it." },
+    { "phrase": "walk towards something", "translation": "идти по направлению к чему-то", "example": "A man was running towards the exit." },
+    { "phrase": "move away from something", "translation": "отойти от чего-то", "example": "Please move away from the edge of the pool." },
+    { "phrase": "walk across something", "translation": "пройти по поверхности чего-то", "example": "We walked across the park on Sunday." },
+    { "phrase": "fall out of something", "translation": "выпасть из чего-то", "example": "The cat fell out of the car window." },
+    { "phrase": "take part in", "translation": "участвовать в", "example": "Have you ever taken part in a race?" },
+    { "phrase": "what do you think of it?", "translation": "что ты об этом думаешь?", "example": "I saw Titanic last year. What do you think of it?" },
+    { "phrase": "ask follow-up questions", "translation": "задавать уточняющие вопросы", "example": "Remember to ask follow-up questions." },
+    { "phrase": "in her first year as a ...", "translation": "в её первый год как ...", "example": "Eunice worked on Titanic in her first year as a stuntwoman." }
+  ]
+}

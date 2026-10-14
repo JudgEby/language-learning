@@ -1,0 +1,18 @@
+{
+  "lessonId": "can-i-help-you",
+  "title": "Can I help you? — фразы",
+  "items": [
+    { "phrase": "Can I help you?", "translation": "Вам помочь?", "example": "Can I help you? — Yes, I'd like a sweater, please." },
+    { "phrase": "Can I help you find anything?", "translation": "Помочь вам что-нибудь найти?", "example": "Can I help you find anything? — I'm looking for trainers." },
+    { "phrase": "I'm looking for ...", "translation": "Я ищу ...", "example": "I'm looking for a T-shirt, size M." },
+    { "phrase": "I'd like ... , please", "translation": "Мне нужен ... , пожалуйста", "example": "I'd like a jacket, please." },
+    { "phrase": "Have you got it in ...?", "translation": "У вас есть это в ... ?", "example": "Have you got it in a bigger size / in blue?" },
+    { "phrase": "How much is it?", "translation": "Сколько это стоит?", "example": "How much is it? — It's fifteen euros." },
+    { "phrase": "It's too ...", "translation": "Слишком ...", "example": "It's too small / too expensive for me." },
+    { "phrase": "That's fine. I'll take it.", "translation": "Хорошо. Я беру.", "example": "That's fine. I'll take it." },
+    { "phrase": "I'll have this one", "translation": "Я возьму этот", "example": "I'll have this one, please." },
+    { "phrase": "I'll think about it, thanks", "translation": "Я подумаю, спасибо", "example": "It's fifty euros. — I'll think about it, thanks." },
+    { "phrase": "How can I help you?", "translation": "Как я могу вам помочь?", "example": "The shop assistant asks: How can I help you?" },
+    { "phrase": "buy it online", "translation": "купить онлайн", "example": "It's cheaper to buy these trainers online." }
+  ]
+}

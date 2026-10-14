@@ -74,7 +74,7 @@ properties for theming. No Tailwind, no CSS modules, no preprocessor.
 
 | Level id | Notes |
 |---|---|
-| `A2` | prepared stub — extract text, four empty `data/*/index.json`, no lessons or tests |
+| `A2` | 36 lessons, 12 test days |
 | `A2+` | 36 lessons, 30 test days, ~300 vocabulary items |
 | `B1` | 32 lessons, 30 test days |
 | `B2` | 32 lessons (ids like `1a-my-id`), 6 test days |

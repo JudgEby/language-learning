@@ -1,0 +1,14 @@
+{
+  "id": "high-flyers",
+  "order": 5,
+  "unit": "Unit 2 — LIFESTYLE",
+  "title": "High flyers",
+  "contentMd": "## Present simple: he / she / it (third person -s)\n\n### Простая суть\n\nВот главный камень грамматики английского: при **he / she / it** глагол в третьем лице единственного числа **всегда** получает хвост **-s**. Он читается как «с» (*he works* — «уикс»). Это правило держится на трёх китах: **говорит** только он — **he / she / it**; **говорят** остальные — **I / you / we / they**. Но у правила есть исключения, и их нужно знать наизусть: после **-s, -x, -ch, -sh, -o** добавляется **-es** (*he watches*, *she goes*), а у неправильных глаголов форма вообще своя (*he has*, *she does*). В вопросе и отрицании **-s** переезжает на помощника: глагол **откатывается** в чистую форму, а **does / doesn't** забирает **-s** на себя. Сравни: *She works* → *Does she work?* и *She doesn't work*.\n\n### Как это работает\n\n- **Утверждение**: he/she/it + глагол + **s**. *He leaves home at five. Gagan gets up at four.*\n- **-es** после **-s, -x, -ch, -sh, -o**: *watches, goes, washes, does, fixes.*\n- **Неправильные**: *has* (не *have*), *does* (не *do*). *He has a big breakfast.*\n- **Отрицание**: **doesn't** + чистый глагол. *He doesn't eat meat.*\n- **Вопрос**: **Does** + подлежащее + чистый глагол. *Does she want to be a pilot?*\n- **Краткий ответ**: *Yes, she does. No, he doesn't.*\n- **Звук -s**: после шипящих и свистящих он звучит как **z** (*lives*), после **t / d** — как **ɪz** (*watches*).\n\n### Живые примеры\n\n- **Gagan gets up** at four in the morning. (Гаган встаёт в четыре утра.)\n- **She helps** them with their bags. (Она помогает им с сумками.)\n- **He does** the money. (Он считает деньги.)\n- **Does** she want to be a pilot? (Она хочет стать пилотом?)\n- He **doesn't eat** meat, so they have a vegetable dish. (Он не ест мяса, поэтому у них овощное блюдо.)\n\n### Лайфхак для запоминания\n\nПроговори вслух: **he/she/it → s**, **I/you/we/they → ноль**. Потом проверь себя вопросом: если в вопросе стоит **does**, а после него глагол с **-s** — это ошибка. *Does she watches TV?* — стоп, должно быть *Does she watch TV?* И ещё: **-s** — это про грамматику, а не про произношение. Произноси **-s** как **z** (*lives*) или **из** (*watches*), и тренируй ухо: *sells* и *cells* звучат одинаково, поэтому в быту полагайся на написание, а не на слух.",
+  "examples": [
+    "Gagan gets up at four in the morning.",
+    "She helps them with their bags.",
+    "Does she want to be a pilot?",
+    "He doesn't eat meat.",
+    "He goes to the guest house and walks all morning."
+  ]
+}

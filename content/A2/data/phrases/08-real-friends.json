@@ -1,0 +1,18 @@
+{
+  "lessonId": "real-friends",
+  "title": "Real friends? — фразы",
+  "items": [
+    { "phrase": "How often do you ...?", "translation": "Как часто ты ...?", "example": "How often do you see your friends? — Every weekend." },
+    { "phrase": "three or four times a year", "translation": "три-четыре раза в год", "example": "We meet three or four times a year." },
+    { "phrase": "once a week", "translation": "раз в неделю", "example": "We play football once a week." },
+    { "phrase": "every other day", "translation": "через день", "example": "Mark is on his computer every other day for hours." },
+    { "phrase": "hardly ever", "translation": "почти никогда", "example": "I hardly ever eat sugar — I'm trying to lose weight." },
+    { "phrase": "help you with problems", "translation": "помогать тебе с проблемами", "example": "A real friend often helps you with problems." },
+    { "phrase": "understand each other", "translation": "понимать друг друга", "example": "Real friends always understand each other." },
+    { "phrase": "agree with each other", "translation": "соглашаться друг с другом", "example": "Real friends don't always agree with each other." },
+    { "phrase": "the same age", "translation": "одного возраста", "example": "We're real friends and we're the same age." },
+    { "phrase": "laugh at my jokes", "translation": "смеяться над моими шутками", "example": "He's funny — people laugh at his jokes." },
+    { "phrase": "get on with", "translation": "хорошо ладить с", "example": "I get on with her, but we don't see each other often." },
+    { "phrase": "talk about personal things", "translation": "говорить о личном", "example": "Jane talks about personal things with her best friend." }
+  ]
+}

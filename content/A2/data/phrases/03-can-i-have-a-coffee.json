@@ -1,0 +1,18 @@
+{
+  "lessonId": "can-i-have-a-coffee",
+  "title": "Can I have a coffee? — фразы",
+  "items": [
+    { "phrase": "Can I have ... , please?", "translation": "Можно мне ... , пожалуйста?", "example": "Can I have a sandwich, please?" },
+    { "phrase": "Could I have ... ?", "translation": "Не могли бы вы дать ... ?", "example": "Could I have one of those postcards, please?" },
+    { "phrase": "Can I just ... ?", "translation": "Можно я просто ... ?", "example": "Can I just have the sandwich, but no juice?" },
+    { "phrase": "Could you ... , please?", "translation": "Не могли бы вы ... , пожалуйста?", "example": "Could you open it, please?" },
+    { "phrase": "I'd like ...", "translation": "Я бы хотел(а) ...", "example": "I'd like a single ticket to Sydney, please." },
+    { "phrase": "What would you like?", "translation": "Что бы вы хотели?", "example": "What would you like? — A coffee, please." },
+    { "phrase": "How much is ... ?", "translation": "Сколько стоит ... ?", "example": "How much is the sandwich?" },
+    { "phrase": "That's six euros", "translation": "Это шесть евро", "example": "That's six euros for the sandwich and the juice." },
+    { "phrase": "Here you are", "translation": "Вот, пожалуйста", "example": "Could I have a postcard? — Yes, here you are." },
+    { "phrase": "Yes, of course", "translation": "Да, конечно", "example": "Could I have a coffee? — Yes, of course." },
+    { "phrase": "I only have ...", "translation": "У меня только ...", "example": "Ah, I only have five euros." },
+    { "phrase": "Anything else?", "translation": "Что-нибудь ещё?", "example": "Anything else? — No, that's all, thanks." }
+  ]
+}

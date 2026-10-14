@@ -1,0 +1,19 @@
+{
+  "lessonId": "one-thing-at-a-time",
+  "title": "One thing at a time — фразы",
+  "items": [
+    { "phrase": "do one thing at a time", "translation": "делать одно дело за раз", "example": "Do one thing at a time — you'll do more work." },
+    { "phrase": "at the same time", "translation": "в то же время", "example": "Multi-tasking means doing two things at the same time." },
+    { "phrase": "in an eight-hour day", "translation": "за восьмичасовой день", "example": "Multi-taskers do less work in an eight-hour day." },
+    { "phrase": "not stop talking for more than a few seconds", "translation": "не прерывать разговор больше чем на несколько секунд", "example": "We didn't stop talking for more than a few seconds." },
+    { "phrase": "how often do you ...?", "translation": "как часто ты ...?", "example": "How often do you send a text straightaway?" },
+    { "phrase": "do you always ... straightaway?", "translation": "ты всегда делаешь сразу?", "example": "Do you always answer a text straightaway?" },
+    { "phrase": "turn your phone off", "translation": "выключить телефон", "example": "Next week we're going to turn our phones off." },
+    { "phrase": "have no food or drink", "translation": "не брать ни еды, ни питья", "example": "We'll have no food or drink — just talk and listen." },
+    { "phrase": "get worse", "translation": "становиться хуже", "example": "Your memory gets worse when you multi-task." },
+    { "phrase": "listen to somebody carefully", "translation": "внимательно слушать кого-то", "example": "You don't listen to your friends carefully." },
+    { "phrase": "make mistakes", "translation": "делать ошибки", "example": "You make mistakes because you're doing two things at once." },
+    { "phrase": "I'll let you know what happens", "translation": "Я дам тебе знать, что получится", "example": "That's my plan — she doesn't know it yet. I'll let you know what happens." },
+    { "phrase": "I'll keep you posted", "translation": "Я буду держать тебя в курсе", "example": "We'll turn off our phones — I'll keep you posted." }
+  ]
+}

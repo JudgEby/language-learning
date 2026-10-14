@@ -1,0 +1,18 @@
+{
+  "lessonId": "can-you-tell-me-the-way",
+  "title": "Can you tell me the way? — фразы",
+  "items": [
+    { "phrase": "Excuse me, can you tell me the way to ...?", "translation": "Извините, скажите, как добраться до ...?", "example": "Excuse me, can you tell me the way to the Beatles Story Museum?" },
+    { "phrase": "How do I get to ...?", "translation": "Как мне добраться до ...?", "example": "How do I get to Liverpool One?" },
+    { "phrase": "Go straight on.", "translation": "Идите прямо.", "example": "Go straight on here, and then turn right." },
+    { "phrase": "Turn left / right at ...", "translation": "Поверните налево / направо у ...", "example": "Turn left at the traffic lights." },
+    { "phrase": "Go past ...", "translation": "Пройдите мимо ...", "example": "Go past the big car park." },
+    { "phrase": "Stop at ...", "translation": "Остановитесь у ...", "example": "Stop at the corner and turn right." },
+    { "phrase": "It's on your right / left.", "translation": "Это по правой / по левой стороне.", "example": "The Beatles Story is on your right." },
+    { "phrase": "It's on the corner of ...", "translation": "Это на углу ...", "example": "The hotel is on the corner of Wood Road." },
+    { "phrase": "You can't miss it.", "translation": "Его невозможно не заметить.", "example": "It's a big red building. You can't miss it." },
+    { "phrase": "Can I just check the first part?", "translation": "Можно я уточню первую часть?", "example": "Sorry, can I just check the first part of your directions?" },
+    { "phrase": "So, it's in ... ?", "translation": "То есть это на ... ?", "example": "So, it's in College Lane?" },
+    { "phrase": "It's straight ahead of you.", "translation": "Это прямо перед вами.", "example": "Look — Liverpool One is straight ahead of you." }
+  ]
+}
