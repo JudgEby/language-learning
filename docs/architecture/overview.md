@@ -1,5 +1,8 @@
 # Overview
 
+Covers: `requirements.txt`, `app/package.json`, `content/`, `content/index.json`, `toExtract/`, `prompts/`
+Read when: orienting in the repository, adding a new level, checking stack versions or bundled levels.
+
 ## What this project is
 
 A local, single-user language-learning platform. Course material lives in JSON files on
@@ -57,8 +60,8 @@ properties for theming. No Tailwind, no CSS modules, no preprocessor.
 ## Repository layout
 
 ```
-├── AGENTS.md              # AI-agent instructions: JSON schemas, workflows, commands
-├── .design/               # this folder — modular architecture docs (English)
+├── AGENTS.md              # AI-agent instructions: workflows, commands, Read Map
+├── docs/architecture/     # this folder — modular architecture docs (English)
 ├── prompts/               # editable prompt assets (rule style, test templates)
 ├── toExtract/{LEVEL}/     # input PDFs (SB.pdf, WB.pdf) — gitignored, folders tracked
 ├── content/               # generated content — the app's real data source
@@ -111,3 +114,4 @@ the copy itself.
 - What every JSON file must contain: [`data-contracts.md`](data-contracts.md)
 - Screens, routes, components, CSS: [`ui-structure.md`](ui-structure.md)
 - Stores, localStorage, content loading: [`state-and-storage.md`](state-and-storage.md)
+- How work is tracked and delivered: [`ticket-workflow.md`](ticket-workflow.md)

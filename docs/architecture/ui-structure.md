@@ -1,5 +1,8 @@
 # UI Structure
 
+Covers: `app/src/main.tsx`, `app/src/App.tsx`, `app/src/pages/`, `app/src/components/`, `app/src/lib/plural.ts`, `app/src/index.css`, `app/index.html`
+Read when: adding a page, route, or component; changing UI copy; changing colours or the theme.
+
 ## Entry and providers
 
 `app/src/main.tsx` mounts `<App/>` into `#root` with `StrictMode`. It imports

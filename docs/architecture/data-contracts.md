@@ -1,5 +1,8 @@
 # Data Contracts
 
+Covers: `content/{LEVEL}/`, `content/index.json`, `app/src/lib/types.ts`, `scripts/validate_level.py`, `scripts/fix_test_ids.py`, `app/src/store/progressStore.ts`, `app/index.html`
+Read when: adding or changing JSON data or schema fields, debugging contract mismatches between content and app.
+
 Every contract below is implemented twice: as JSON on disk under `content/`, and as a
 TypeScript mirror in `app/src/lib/types.ts`. Changing one without the other is the main
 source of silent breakage — TypeScript will not catch a wrong field name in JSON because
@@ -218,7 +221,7 @@ containing **only** page markers means the source PDF had no text layer and
 - Both use the default `zustand/persist` envelope — no `partialize`.
 - The progress store has a `migrate` (`LEVEL_RENAMES` in `app/src/store/progressStore.ts`) that
   exists **only** to move a saved level entry when the level id is renamed; `version: 0` predates
-  it. See `.design/state-and-storage.md`.
+  it. See [`state-and-storage.md`](state-and-storage.md).
 - `app/index.html` reads `language-learning-theme` **before hydration** to set
   `document.documentElement.dataset.theme` and avoid a theme flash.
 

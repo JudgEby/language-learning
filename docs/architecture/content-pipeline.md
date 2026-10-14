@@ -1,5 +1,8 @@
 # Content Pipeline
 
+Covers: `scripts/*.py`
+Read when: running, changing, or adding a content pipeline script; extending derived artefacts or test sources.
+
 Eleven Python files in `scripts/`: one shared library plus ten CLI utilities. Every
 level-scoped command takes the level id as its first argument.
 

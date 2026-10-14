@@ -23,7 +23,8 @@ python scripts/run_app.py
 ## Структура проекта
 
 ```
-├── AGENTS.md                 # инструкции для ИИ-агентов (схемы JSON, workflows)
+├── AGENTS.md                 # инструкции для ИИ-агентов (workflows, команды, Read Map)
+├── docs/architecture/        # архитектурная документация (English)
 ├── prompts/
 │   └── rule-generation-style.md  # стиль генерации правил (редактируемый промпт)
 ├── toExtract/                # вход: PDF пособий (папки в git, PDF — локально)

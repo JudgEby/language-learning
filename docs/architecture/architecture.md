@@ -1,5 +1,8 @@
 # Architecture
 
+Covers: `app/vite.config.ts`, `scripts/run_app.py`, `scripts/content_utils.py`, `scripts/extract_pdf.py`, `scripts/extract_pdf_ocr.py`, `app/src/lib/loadContent.ts`, `content/{LEVEL}/manifest.json`
+Read when: content does not load in the app, changing the content sync or mirror, changing ordering derivation.
+
 ## Layering
 
 The system is a straight-line pipeline with no runtime services. Four layers:

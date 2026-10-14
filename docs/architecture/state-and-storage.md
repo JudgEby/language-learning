@@ -1,5 +1,8 @@
 # State and Storage
 
+Covers: `app/src/store/`, `app/src/lib/loadContent.ts`, `app/index.html`
+Read when: changing progress tracking or theme state, debugging content loading, caching, or fetch errors.
+
 Three pieces of client state exist: two persisted Zustand stores, plus an in-memory request
 cache for content. This file documents what each store guarantees, how content is fetched and
 cached, and the trade-offs baked into the current implementation.
