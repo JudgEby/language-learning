@@ -25,8 +25,8 @@ python scripts/run_app.py
 ```
 ├── AGENTS.md                 # инструкции для ИИ-агентов (workflows, команды, Read Map)
 ├── docs/architecture/        # архитектурная документация (English)
-├── prompts/
-│   └── rule-generation-style.md  # стиль генерации правил (редактируемый промпт)
+├── .opencode/skills/         # скиллы генерации (lesson content, tests)
+├── .opencode/command/        # команды генерации для slash-вызовов
 ├── toExtract/                # вход: PDF пособий (папки в git, PDF — локально)
 │   └── {LEVEL}/
 │       ├── SB.pdf            # Student's Book
@@ -135,95 +135,23 @@ cd app
 npm run build
 ```
 
-## Промпты для ИИ
+## Команды генерации
 
-Скопируйте нужный промпт в чат с агентом. Замените `{LEVEL}` на id вашего курса. Агент должен следовать схемам и workflows из [`AGENTS.md`](AGENTS.md).
+Workflows генерации живут в `.opencode/command/` — вызывайте их как slash-команды, подставляя id курса вместо `{LEVEL}`. Правила пишет скилл `generate-lesson-content`, тесты — скилл `generate-tests`. Агент следует схемам и workflows из [`AGENTS.md`](AGENTS.md).
 
-### Полное обучение по уровню
-
-```
-Прочитай AGENTS.md и prompts/rule-generation-style.md. Сгенерируй обучение для уровня {LEVEL}.
-
-Источники:
-- content/{LEVEL}/extract/SB.txt — грамматика и структура уроков
-- content/{LEVEL}/extract/WB.txt — дополнительная лексика из Workbook
-
-Сделай:
-1. JSON-файлы для всех уроков в content/{LEVEL}/data/rules/, vocabulary/, phrases/, idioms/
-2. index.json в каждой подпапке data/
-3. Обнови content/{LEVEL}/manifest.json: title — человекочитаемое название курса, studyOrder — плоский список (rule → vocabulary → phrases → idioms для каждого урока)
-
-Правила (contentMd): строго по структуре и тону из prompts/rule-generation-style.md. Лексика/фразы/идиомы: переводы на языке объяснений, примеры на изучаемом языке.
-```
-
-### Тесты на N дней
-
-```
-Прочитай AGENTS.md и сгенерируй тесты для уровня {LEVEL} на 7 дней по 1 часу (~15–20 вопросов в день).
-
-Источник правил: content/{LEVEL}/data/rules/
-
-Сделай:
-1. Файлы content/{LEVEL}/tests/day-01.json … day-07.json
-2. В каждом вопросе: ≤4 варианта (на изучаемом языке), explanation, relatedRuleIds, id по формуле хэша из AGENTS.md
-3. Обнови content/{LEVEL}/manifest.json → testDays
-
-Вопросы на изучаемом языке. Типы: грамматика, выбор правильного предложения, лексика в контексте, коллокации.
-```
-
-### Один урок (дополнение или перегенерация)
-
-```
-Прочитай AGENTS.md и prompts/rule-generation-style.md. Сгенерируй обучение для урока {LESSON_ID} уровня {LEVEL}.
-
-Источники: content/{LEVEL}/extract/SB.txt, content/{LEVEL}/extract/WB.txt
-
-Создай или обнови:
-- content/{LEVEL}/data/rules/{NN}-{LESSON_ID}.json  (contentMd — по prompts/rule-generation-style.md)
-- content/{LEVEL}/data/vocabulary/{NN}-{LESSON_ID}.json
-- content/{LEVEL}/data/phrases/{NN}-{LESSON_ID}.json
-- content/{LEVEL}/data/idioms/{NN}-{LESSON_ID}.json
-
-Добавь записи в studyOrder manifest.json (rule → vocabulary → phrases → idioms для {LESSON_ID}), не ломая порядок остальных уроков.
-```
-
-### Тесты по конкретным правилам
-
-```
-Прочитай AGENTS.md. Сгенерируй 10 тестовых вопросов для уровня {LEVEL} по правилам из:
-- content/{LEVEL}/data/rules/{файл-1}.json
-- content/{LEVEL}/data/rules/{файл-2}.json
-
-Добавь вопросы в content/{LEVEL}/tests/day-01.json (или создай day-02.json, если day-01 уже заполнен).
-У каждого вопроса — relatedRuleIds, id по хэшу, не более 4 вариантов ответа.
-Обнови testDays в manifest.json.
-```
-
-### Новый уровень с нуля
-
-```
-Прочитай AGENTS.md. Для уровня {LEVEL}:
-1. Предположи, что extract уже выполнен (content/{LEVEL}/extract/SB.txt, WB.txt)
-2. Сгенерируй полное обучение и тесты на 5 дней
-3. Создай content/index.json с уровнем {LEVEL}, если его там ещё нет
-```
-
-### Проверка и исправление контента
-
-```
-Прочитай AGENTS.md и проверь content/{LEVEL}/:
-- все JSON валидны и соответствуют схемам
-- studyOrder в manifest.json совпадает с файлами в data/
-- id тестов вычислены по формуле хэша
-- index.json актуальны во всех подпапках data/
-
-Исправь найденные несоответствия.
-```
+| Команда | Что делает |
+|---|---|
+| `/generate-level-content {LEVEL}` | Полное обучение по уровню |
+| `/generate-lesson {LEVEL} {LESSON_ID}` | Один урок (дополнение или перегенерация) |
+| `/generate-test-days {LEVEL} {N}` | Тесты на N дней |
+| `/generate-test-questions {LEVEL} {файлы-правил}` | Тесты по конкретным правилам |
+| `/scaffold-level {LEVEL}` | Новый уровень с нуля |
+| `/validate-content {LEVEL}` | Проверка и исправление контента |
 
 ### Советы
 
 - Указывайте **конкретные пути к файлам** — агент точнее поймёт источник
-- Стиль правил настраивается в [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md) — меняйте промпт там, не в AGENTS.md
+- Стиль правил живёт в скилле `generate-lesson-content` — меняйте его там, не в AGENTS.md
 - Для больших пособий генерируйте **по юнитам**, а не всё сразу
 - После генерации запустите `python scripts/run_app.py` и проверьте материал в приложении
 
@@ -249,7 +177,7 @@ npm run build
 
 - **Extract из PDF** — `.txt` с маркерами страниц (`--- PAGE N ---`)
 - **Данные для приложения** — JSON (см. схемы в [`AGENTS.md`](AGENTS.md))
-- **Текст правил** — markdown внутри поля `contentMd` (структура и тон — [`prompts/rule-generation-style.md`](prompts/rule-generation-style.md); объяснения на языке обучения, примеры на изучаемом языке)
+- **Текст правил** — markdown внутри поля `contentMd` (структура и тон — скилл `generate-lesson-content`; объяснения на языке обучения, примеры на изучаемом языке)
 
 ## Скрипты для любого уровня
 
@@ -264,9 +192,9 @@ npm run build
 | `fix_test_ids.py LEVEL` | Пересчитать SHA-256 id во всех `tests/day-*.json` |
 | `generate_vocab_questions.py LEVEL` | Сгенерировать вопросы по лексике/фразам (stdout или `--output`) |
 | `assemble_tests.py LEVEL` | Собрать тесты из `test_plan.json` + опциональных `tests/sources/` |
-| `build_rule_md.py` | Собрать `contentMd` по секциям стиля из `prompts/rule-generation-style.md` |
+| `build_rule_md.py` | Собрать `contentMd` по секциям стиля из скилла `generate-lesson-content` |
 
-Шаблоны для тестов: [`prompts/test-plan.example.json`](prompts/test-plan.example.json), [`prompts/grammar-questions.example.json`](prompts/grammar-questions.example.json).
+Шаблоны для тестов лежат в скилле `generate-tests`: `.opencode/skills/generate-tests/references/test-plan.example.json`, `grammar-questions.example.json`.
 
 Типичный workflow для нового уровня:
 
@@ -275,7 +203,7 @@ npm run build
 3. `python scripts/sync_level.py {LEVEL}`
 4. `python scripts/validate_level.py {LEVEL}`
 
-Для тестов с автодополнением лексикой: скопируйте `test_plan.example.json` → `content/{LEVEL}/test_plan.json`, положите грамматические вопросы в `content/{LEVEL}/tests/sources/{lessonId}.json`, затем `python scripts/assemble_tests.py {LEVEL}`.
+Для тестов с автодополнением лексикой: скопируйте `.opencode/skills/generate-tests/references/test-plan.example.json` → `content/{LEVEL}/test_plan.json`, положите грамматические вопросы в `content/{LEVEL}/tests/sources/{lessonId}.json`, затем `python scripts/assemble_tests.py {LEVEL}`.
 
 ## Добавление нового уровня
 

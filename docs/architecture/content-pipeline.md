@@ -62,7 +62,7 @@ formatting; hand edits that break it will show up as diff noise.
   `content/` subdirectory that contains a `manifest.json`.
 - `make_question(...)` — canonical test question object.
 - `build_rule_content_md(heading, essence, how, live_examples, lifehack)` — assembles the
-  markdown shape from `prompts/rule-generation-style.md`. Section headings are **hardcoded
+  markdown shape from the `generate-lesson-content` skill. Section headings are **hardcoded
   Russian strings** (`### Простая суть`, `### Как это работает`, `### Живые примеры`,
   `### Лайфхак для запоминания`) and bullets are `- {target} — {translation}`.
 
@@ -246,7 +246,7 @@ python scripts/sync_level.py {LEVEL}
 python scripts/validate_level.py {LEVEL}
 
 # tests, variant B (plan + grammar sources + auto vocabulary)
-cp prompts/test-plan.example.json content/{LEVEL}/test_plan.json
+cp .opencode/skills/generate-tests/references/test-plan.example.json content/{LEVEL}/test_plan.json
 # hand-write content/{LEVEL}/tests/sources/{lessonId}.json
 python scripts/assemble_tests.py {LEVEL}
 python scripts/validate_level.py {LEVEL}

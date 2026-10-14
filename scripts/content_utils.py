@@ -180,7 +180,7 @@ def build_rule_content_md(
     live_examples: list[tuple[str, str]],
     lifehack: str,
 ) -> str:
-    """Build contentMd following prompts/rule-generation-style.md structure."""
+    """Build contentMd with the four fixed sections (see generate-lesson-content skill)."""
     lines = [
         f"## {heading}",
         "",

@@ -33,7 +33,7 @@ Both scripts rewrite `content/index.json` at the end.
 ## L1 → L2: text to JSON (agent-driven)
 
 This transition is **not automated** — an AI agent performs it, following the schemas and
-workflows in `AGENTS.md` and the style contract in `prompts/rule-generation-style.md`. The
+workflows in `AGENTS.md` and the style contract in the `generate-lesson-content` skill. The
 agent writes lesson files and `manifest.json`; `scripts/sync_level.py` then normalises the
 derived artefacts.
 
