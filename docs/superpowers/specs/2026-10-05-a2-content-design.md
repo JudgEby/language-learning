@@ -79,7 +79,7 @@ Idiom lessons: `join-us`, `are-you-ready-to-order`, `can-you-tell-me-the-way`,
 
 | Path | Count | Shape |
 |---|---|---|
-| `data/rules/NN-<slug>.json` | 36 | `order` 1–36, `unit: "Unit N — TITLE"`, `contentMd` per `prompts/rule-generation-style.md`, 4–5 `examples` |
+| `data/rules/NN-<slug>.json` | 36 | `order` 1–36, `unit: "Unit N — TITLE"`, `contentMd` per the `generate-lesson-content` skill, 4–5 `examples` |
 | `data/vocabulary/NN-<slug>.json` | 36 | 8–14 items `{term, translation, example}` |
 | `data/phrases/NN-<slug>.json` | 36 | 6–10 items `{phrase, translation, example}` |
 | `data/idioms/NN-<slug>.json` | 6 | 4–6 items, Units 2, 5, 7, 8, 10, 12 (mirrors A2+, which has idioms for 6 of 37 lessons) |

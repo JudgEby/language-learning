@@ -1,6 +1,6 @@
 # Overview
 
-Covers: `requirements.txt`, `app/package.json`, `content/`, `content/index.json`, `toExtract/`, `prompts/`
+Covers: `requirements.txt`, `app/package.json`, `content/`, `content/index.json`, `toExtract/`, `.opencode/`
 Read when: orienting in the repository, adding a new level, checking stack versions or bundled levels.
 
 ## What this project is
@@ -62,7 +62,8 @@ properties for theming. No Tailwind, no CSS modules, no preprocessor.
 ```
 ├── AGENTS.md              # AI-agent instructions: workflows, commands, Read Map
 ├── docs/architecture/     # this folder — modular architecture docs (English)
-├── prompts/               # editable prompt assets (rule style, test templates)
+├── .opencode/skills/     # versioned agent skills (lesson content, tests)
+├── .opencode/command/    # slash commands for the generation workflows
 ├── toExtract/{LEVEL}/     # input PDFs (SB.pdf, WB.pdf) — gitignored, folders tracked
 ├── content/               # generated content — the app's real data source
 │   ├── index.json         # list of level ids

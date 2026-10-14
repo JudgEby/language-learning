@@ -26,7 +26,8 @@ AI agents generate rules, vocabulary and tests as JSON (`content/{LEVEL}/`), and
 ```
 ├── AGENTS.md                 # this file — workflows, commands, Read Map
 ├── docs/architecture/        # architecture docs (English) — see Read Map
-├── prompts/                  # rule style, test-plan and grammar-question templates
+├── .opencode/skills/          # versioned agent skills (lesson content, tests)
+├── .opencode/command/         # slash commands wrapping the README workflows
 ├── toExtract/{LEVEL}/        # input PDFs (SB.pdf, WB.pdf) — gitignored, folders tracked
 ├── content/{LEVEL}/          # generated content — the real data source
 │   ├── manifest.json          # level metadata, study order, test days
@@ -82,12 +83,12 @@ documented in `docs/architecture/content-pipeline.md`.
 - Repo documentation, code comments and commit messages are **English**. Learner-facing
   content (rule `contentMd`, translations, UI strings) is Russian; rule section headings are
   fixed Russian literals — do not translate them.
-- Rule `contentMd` always follows `prompts/rule-generation-style.md`. JSON schemas for every
+- Rule `contentMd` always follows the `generate-lesson-content` skill. JSON schemas for every
   file: `docs/architecture/data-contracts.md`.
 
 ## Workflow: generate learning material for level {LEVEL}
 
-1. Read `prompts/rule-generation-style.md` (mandatory style for rule `contentMd`).
+1. Follow the `generate-lesson-content` skill (mandatory style for rule `contentMd`).
 2. Read `content/{LEVEL}/extract/SB.txt` (grammar, lesson order); if it holds only
    `--- PAGE N ---` markers, the PDF is scanned — run `extract_pdf_ocr.py {LEVEL}`.
 3. Read `content/{LEVEL}/extract/WB.txt` (extra vocabulary, phrases, idioms).
@@ -102,9 +103,10 @@ documented in `docs/architecture/content-pipeline.md`.
 2. Write `tests/day-01.json` … (≤4 options, `correctIndex`, `explanation`,
    `relatedRuleIds`; no `id` — it is derived, see `data-contracts.md`).
 3. Update `manifest.json` → `testDays`; run `fix_test_ids.py` then `validate_level.py`.
-4. Variant B (plan + auto vocabulary): copy `prompts/test-plan.example.json` →
+4. Variant B (plan + auto vocabulary): copy
+   `.opencode/skills/generate-tests/references/test-plan.example.json` →
    `content/{LEVEL}/test_plan.json`, put grammar pools in `tests/sources/{lessonId}.json`
-   (`prompts/grammar-questions.example.json`), run `assemble_tests.py`.
+   (`generate-tests/references/grammar-questions.example.json`), run `assemble_tests.py`.
 
 ## Gotchas
 
@@ -126,7 +128,7 @@ the code they point to — never load the entire `docs/architecture/` folder at 
 
 | Task | Read in `docs/architecture/` | Start in code | Verify with |
 |---|---|---|---|
-| Generate lesson content | `data-contracts.md`, `content-pipeline.md` | `prompts/rule-generation-style.md`, `content/{LEVEL}/extract/` | `sync_level.py {LEVEL}`, `validate_level.py {LEVEL}` |
+| Generate lesson content | `data-contracts.md`, `content-pipeline.md` | `generate-lesson-content` skill, `content/{LEVEL}/extract/` | `sync_level.py {LEVEL}`, `validate_level.py {LEVEL}` |
 | Generate tests | `data-contracts.md` | `content/{LEVEL}/data/rules/`, `scripts/assemble_tests.py` | `fix_test_ids.py {LEVEL}`, `validate_level.py {LEVEL}` |
 | Change a pipeline script | `content-pipeline.md` | `scripts/content_utils.py` + target script | `validate_level.py` for an affected level |
 | Change a JSON schema field | `data-contracts.md` | `scripts/validate_level.py`, `app/src/lib/types.ts` | `validate_level.py {LEVEL}`, `npm run typecheck` |

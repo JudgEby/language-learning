@@ -101,11 +101,11 @@ Order comes from rule `order`. `index.json` itself is excluded from its own list
 | `contentMd` | `validate_rules` | markdown, rendered by `react-markdown` + `remark-gfm` |
 | `examples` | — | 2–4 target-language sentences, no translations |
 
-`contentMd` must follow `prompts/rule-generation-style.md` exactly: a `##` heading followed
+`contentMd` must follow the `generate-lesson-content` skill exactly: a `##` heading followed
 by the four sections `### Простая суть`, `### Как это работает`, `### Живые примеры`,
 `### Лайфхак для запоминания`. Explanations are in the language of instruction; examples are
 in the target language. **The section headings are Russian literals in this repo** — they are
-hardcoded in `prompts/rule-generation-style.md` and in
+defined in the `generate-lesson-content` skill and hardcoded in
 `content_utils.build_rule_content_md()`, and changing one without the other breaks the
 generated markdown.
 
@@ -188,8 +188,8 @@ TypeScript mirror: `TestQuestion`.
 
 Optional input for `assemble_tests.py`: a JSON array of objects with
 `{question, options, correctIndex, explanation, relatedRuleIds}` and **no `id`** —
-`assemble_tests.normalize_question` computes it via `make_question`. Templates:
-`prompts/grammar-questions.example.json`.
+`assemble_tests.normalize_question` computes it via `make_question`. Template:
+`generate-tests/references/grammar-questions.example.json`.
 
 ## Test plan — `content/{LEVEL}/test_plan.json`
 
@@ -201,7 +201,7 @@ Optional input for `assemble_tests.py`:
 
 `days` is a list of lesson groups; each group is distributed `questionsPerDay` questions by
 quotient/remainder. Every listed id must exist in `rule_ids(level)` or the run fails.
-Template: `prompts/test-plan.example.json`.
+Template: `generate-tests/references/test-plan.example.json`.
 
 ## Extract text — `content/{LEVEL}/extract/{SB,WB}.txt`
 
