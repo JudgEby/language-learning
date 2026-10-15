@@ -184,7 +184,8 @@ No `AbortController`, no `localStorage` content cache, no service worker.
 
 ## Flashcards — `flashcardsStore`, `lib/srs.ts`, `lib/flashcards.ts`
 
-**Persisted key:** `language-learning-flashcards` (version 0).
+**Persisted key:** `language-learning-flashcards` (version 1; v1 migrates v0
+payloads by filling in the speech defaults below).
 
 State:
 
@@ -199,6 +200,8 @@ State:
     direction: 'en-ru' | 'ru-en' | 'mixed';
     newPerDay: number;        // default 20
     showExample: boolean;
+    speechRate: number;       // default 1, clamped 0.5–2
+    voiceURI: string | null;  // default null = auto-pick best English voice
   };
   progress: Record<cardId, CardProgress>;
 }

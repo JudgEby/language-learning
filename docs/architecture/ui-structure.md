@@ -82,7 +82,9 @@ Decodes `studyKeyParam`, then loads `loadRule` or `loadLexicon` by `type`.
 - Rule branch: `unit-label`, then `ReactMarkdown` with `remarkPlugins={[remarkGfm]}` over
   `contentMd`, then an «Примеры» section listing `rule.examples` as `<em>` inside a `ul`.
 - Lexicon branch: `ul.lexicon-list`; each row shows `strong` = `item.term ?? item.phrase ??
-  item.idiom ?? ''`, the translation, and the example in `.lexicon-example`.
+  item.idiom ?? ''` with a `SpeakButton` («Озвучить слово»), the translation, and the
+  example in `.lexicon-example` with a `SpeakButton` («Озвучить пример»).
+  English strings carry `lang="en"`.
 
 Footer: primary button `markStudyComplete` (disabled and relabelled «Отмечено как
 пройденное» once done) plus a secondary back button navigating to `listPath`, which is
@@ -100,10 +102,12 @@ first, then the two configuration sections:
   titles via `resolveStudyTitle`. Hidden in single-lesson mode (`?lesson=`), which
   instead shows a fixed-deck note with a «Показать выбор уровней и уроков» reset.
 - Settings («Настройки»): direction (`en-ru`/`ru-en`/`mixed`), `newPerDay`,
-  example toggle, progress reset behind `ConfirmModal`.
+  example toggle, speech voice/rate (`SpeechSettings`), progress reset behind `ConfirmModal`.
 - Review: queue counters, then `FlashcardView` (front → «Показать ответ» →
   translation, example, keyword/mnemonic block → four grades
-  «Снова»/«Трудно»/«Хорошо»/«Легко»). The session always shows the head of the
+  «Снова»/«Трудно»/«Хорошо»/«Легко»). The English side (front or back,
+  depending on direction) and the example carry a `SpeakButton` backed by
+  OS-native speech synthesis. The session always shows the head of the
   queue — a graded card leaves it, so no index state exists.
 
 Entry presets come from search params consumed once on mount: `?level=` selects
@@ -155,7 +159,9 @@ rendered through `ReactMarkdown` + `remark-gfm` again.
 | `ThemeProvider.tsx` | `ThemeProvider` | effect-only sync, passes children through unchanged |
 | `ThemeToggle.tsx` | `ThemeToggle` | fixed top-right button |
 | `Logo.tsx` | `Logo`, `LogoProps` | two "L" glyphs, neon gradient `#ff1493 → #8338ec → #fb5607 → #ffbe0b` |
-| `FlashcardView.tsx` | `FlashcardView` | card front/answer, example, mnemonic block, four grade buttons |
+| `FlashcardView.tsx` | `FlashcardView` | card front/answer, example, mnemonic block, four grade buttons, `SpeakButton` on the English side |
+| `SpeakButton.tsx` | `SpeakButton` | icon-only pronunciation button via `lib/speech.ts`; reads voice/rate from `flashcardsStore`, disabled where unsupported |
+| `SpeechSettings.tsx` | `SpeechSettings` | voice (`voiceURI`, auto = best English) and rate selects for the flashcards settings; lists English voices first, shows the auto-picked voice, warns with install steps for the detected OS (`getSpeechPlatform`) when no English voice exists, plus an always-visible collapsed install guide for the current platform |
 
 `BackLink({to, label})` renders `.back-link` with a `← ` prefix. `PageHeader({title, backTo,
 backLabel, actions})` renders `.page-header`, `.page-header__row`, `.page-header__actions`.

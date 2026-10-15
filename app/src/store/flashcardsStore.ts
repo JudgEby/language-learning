@@ -18,6 +18,10 @@ export interface FlashcardsSettings {
   direction: CardDirection;
   newPerDay: number;
   showExample: boolean;
+  /** Speech synthesis rate multiplier (0.5–2), persisted. */
+  speechRate: number;
+  /** Voice selected for pronunciation; null means auto-pick English voice. */
+  voiceURI: string | null;
 }
 
 interface FlashcardsState {
@@ -35,6 +39,8 @@ interface FlashcardsState {
   setDirection: (direction: CardDirection) => void;
   setNewPerDay: (count: number) => void;
   setShowExample: (show: boolean) => void;
+  setSpeechRate: (rate: number) => void;
+  setVoiceURI: (voiceURI: string | null) => void;
   grade: (cardId: string, grade: FlashGrade, now: number) => void;
   resetProgress: () => void;
 }
@@ -47,6 +53,8 @@ const DEFAULT_SETTINGS: FlashcardsSettings = {
   direction: 'en-ru',
   newPerDay: 20,
   showExample: true,
+  speechRate: 1,
+  voiceURI: null,
 };
 
 function patchSettings(
@@ -104,6 +112,13 @@ export const useFlashcardsStore = create<FlashcardsState>()(
 
       setShowExample: (show) => patchSettings(set, { showExample: show }),
 
+      setSpeechRate: (rate) =>
+        patchSettings(set, {
+          speechRate: Math.min(2, Math.max(0.5, Number(rate) || 1)),
+        }),
+
+      setVoiceURI: (voiceURI) => patchSettings(set, { voiceURI }),
+
       grade: (cardId, grade, now) =>
         set((state) => ({
           progress: {
@@ -116,7 +131,21 @@ export const useFlashcardsStore = create<FlashcardsState>()(
     }),
     {
       name: 'language-learning-flashcards',
-      version: 0,
+      // v1 adds speechRate + voiceURI to settings; migrate fills them in
+      // for payloads saved before the pronunciation feature (#5).
+      version: 1,
+      migrate: (persistedState) => {
+        const saved = (persistedState ?? {}) as {
+          initialized?: boolean;
+          settings?: Partial<FlashcardsSettings>;
+          progress?: Record<string, CardProgress>;
+        };
+        return {
+          initialized: saved.initialized ?? false,
+          settings: { ...DEFAULT_SETTINGS, ...saved.settings },
+          progress: saved.progress ?? {},
+        } as FlashcardsState;
+      },
     },
   ),
 );

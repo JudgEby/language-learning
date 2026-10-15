@@ -26,6 +26,18 @@ test.describe('flashcards', () => {
     }
   });
 
+  test('pronunciation buttons are present and safe to press', async ({ page }) => {
+    // Headless Chromium may have no voices — the buttons must exist and a
+    // press must not break the session (sound itself is not asserted).
+    const speak = page.getByRole('button', { name: /Озвучить/ });
+    await expect(speak.first()).toBeVisible();
+    await speak.first().click();
+    await expect(page.getByText(/К повторению:/)).toBeVisible();
+    // Voice settings are always rendered, even with zero OS voices.
+    await expect(page.getByLabel('Голос озвучки')).toBeVisible();
+    await expect(page.getByText(/Как установить другие голоса/)).toBeVisible();
+  });
+
   test('grading a card advances the queue', async ({ page }) => {
     // Fresh slots refill from the unseen pool, so the queue counters may stay
     // put — the visible proof is that the head card moves on.

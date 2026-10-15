@@ -1,5 +1,6 @@
 import type { Flashcard } from '../lib/flashcards';
 import type { FlashGrade } from '../lib/srs';
+import { SpeakButton } from './SpeakButton';
 
 interface FlashcardViewProps {
   card: Flashcard;
@@ -27,6 +28,10 @@ export function FlashcardView({
 }: FlashcardViewProps) {
   const front = flipped ? card.backRu : card.frontEn;
   const back = flipped ? card.frontEn : card.backRu;
+  // Exactly one side is English: the pronunciation button always speaks
+  // card.frontEn, wherever it is currently shown.
+  const frontIsEnglish = !flipped;
+  const backIsEnglish = flipped;
 
   return (
     <div className="flash-session">
@@ -34,15 +39,26 @@ export function FlashcardView({
         {card.level} · {card.lessonTitle}
       </p>
       <div className="flash-card" lang={flipped ? 'ru' : 'en'}>
-        <p className="flash-front">{front}</p>
+        <p className="flash-front">
+          <span className="flash-front-row">
+            <span lang={flipped ? 'ru' : 'en'}>{front}</span>
+            {frontIsEnglish && <SpeakButton text={card.frontEn} label="Озвучить слово" />}
+          </span>
+        </p>
         <div
           className={`flash-back${revealed ? '' : ' flash-back--covered'}`}
           aria-hidden={!revealed}
         >
-          <p className="flash-answer">{back}</p>
+          <p className="flash-answer">
+            <span className="flash-answer-row">
+              <span lang={flipped ? 'en' : 'ru'}>{back}</span>
+              {backIsEnglish && <SpeakButton text={card.frontEn} label="Озвучить слово" small />}
+            </span>
+          </p>
           {showExample && card.example && (
             <p className="flash-example">
-              <em>{card.example}</em>
+              <em lang="en">{card.example}</em>{' '}
+              <SpeakButton text={card.example} label="Озвучить пример" small />
             </p>
           )}
           {card.keyword && card.mnemonic && (

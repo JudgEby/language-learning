@@ -3,7 +3,9 @@ import { useNavigate, useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { PageHeader } from '../components/Layout';
+import { SpeakButton } from '../components/SpeakButton';
 import { loadLexicon, loadRule } from '../lib/loadContent';
+import { cancelSpeech } from '../lib/speech';
 import { parseStudyKey, studyKey, type Lexicon, type Rule } from '../lib/types';
 import { useProgressStore, useCompletedStudy } from '../store/progressStore';
 
@@ -52,6 +54,9 @@ export function StudyViewPage() {
     };
   }, [level, type, id]);
 
+  // Stop pronunciation when leaving the study page.
+  useEffect(() => () => cancelSpeech(), []);
+
   if (loading) return <p className="status">Загрузка...</p>;
   if (error) return <p className="status error">{error}</p>;
 
@@ -85,8 +90,17 @@ export function StudyViewPage() {
               const text = item.term ?? item.phrase ?? item.idiom ?? '';
               return (
                 <li key={text} className="lexicon-item">
-                  <strong>{text}</strong> — {item.translation}
-                  <div className="lexicon-example"><em>{item.example}</em></div>
+                  <span className="lexicon-term-row">
+                    <strong lang="en">{text}</strong>
+                    <SpeakButton text={text} label="Озвучить слово" small />
+                  </span>{' '}
+                  — {item.translation}
+                  {item.example && (
+                    <div className="lexicon-example">
+                      <em lang="en">{item.example}</em>{' '}
+                      <SpeakButton text={item.example} label="Озвучить пример" small />
+                    </div>
+                  )}
                 </li>
               );
             })}

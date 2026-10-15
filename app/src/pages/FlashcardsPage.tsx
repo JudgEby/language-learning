@@ -3,12 +3,14 @@ import { useSearchParams, useNavigate } from 'react-router-dom';
 import { ConfirmModal } from '../components/ConfirmModal';
 import { PageHeader, Toggle } from '../components/Layout';
 import { FlashcardView } from '../components/FlashcardView';
+import { SpeechSettings } from '../components/SpeechSettings';
 import {
   buildDeck,
   buildSessionQueue,
   type DeckScope,
   type Flashcard,
 } from '../lib/flashcards';
+import { cancelSpeech } from '../lib/speech';
 import { listLevels, loadManifest, resolveStudyTitle } from '../lib/loadContent';
 import { cards, materials } from '../lib/plural';
 import { STUDY_TYPE_LABELS, studyKey, type LevelSummary } from '../lib/types';
@@ -176,10 +178,12 @@ export function FlashcardsPage() {
 
   useEffect(() => {
     setRevealed(false);
+    cancelSpeech();
   }, [current?.id]);
 
   function handleGrade(gradeValue: FlashGrade): void {
     if (!current) return;
+    cancelSpeech();
     grade(current.id, gradeValue, Date.now());
     setRevealed(false);
   }
@@ -323,6 +327,7 @@ export function FlashcardsPage() {
           onChange={(checked) => setShowExample(checked)}
           label="Показывать пример после ответа"
         />
+        <SpeechSettings />
         <button type="button" className="btn btn-secondary btn-sm" onClick={() => setConfirmReset(true)}>
           Сбросить прогресс повторений
         </button>

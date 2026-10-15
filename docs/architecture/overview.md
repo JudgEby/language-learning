@@ -29,7 +29,9 @@ those JSON files as its database.
 - No user accounts, no sync between devices, no server-side persistence.
 - No authoring UI: content changes are made by editing JSON and re-running scripts.
 - No grading, scoring, or adaptive difficulty.
-- No streaming audio, no media assets beyond SVG logos.
+- No streaming audio, no media assets beyond SVG logos. Pronunciation playback
+  uses the browser's built-in speech synthesis (Web Speech API) with OS-native
+  voices — local synthesis, no audio files and no network calls.
 
 ## Stack
 
