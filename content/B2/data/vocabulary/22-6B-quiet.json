@@ -26,6 +26,36 @@
       "term": "solitude",
       "translation": "уединение",
       "example": "She enjoys moments of solitude."
+    },
+    {
+      "term": "admit",
+      "translation": "признавать",
+      "example": "He admitted that it was not true."
+    },
+    {
+      "term": "boast",
+      "translation": "хвастаться",
+      "example": "He boasted about his achievements."
+    },
+    {
+      "term": "claim",
+      "translation": "утверждать",
+      "example": "She claimed to manage a famous restaurant."
+    },
+    {
+      "term": "refuse",
+      "translation": "отказываться",
+      "example": "They refused to take the idea seriously."
+    },
+    {
+      "term": "threaten",
+      "translation": "угрожать",
+      "example": "I threatened to stop coming to meetings."
+    },
+    {
+      "term": "emphasise",
+      "translation": "подчёркивать",
+      "example": "She emphasised how much time we saved."
     }
   ]
 }

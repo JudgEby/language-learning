@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "fanfiction"
     ]
+  },
+  {
+    "question": "Complete the sentence: ___, I'd read a book all day.",
+    "options": [
+      "profile",
+      "If it was up to me",
+      "innovation",
+      "In other words"
+    ],
+    "correctIndex": 1,
+    "explanation": "'If it was up to me' (если бы зависело от меня). Full sentence: If it was up to me, I'd read a book all day.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ],
+    "id": "0afaef5fab1a"
+  },
+  {
+    "question": "Choose the correct collocation: No matter how I feel, you always try your best.",
+    "options": [
+      "pose",
+      "no matter how",
+      "convincing",
+      "look more natural"
+    ],
+    "correctIndex": 1,
+    "explanation": "'no matter how' (как бы ни). Full sentence: No matter how I feel, you always try your best.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ],
+    "id": "093d2fba4e89"
+  },
+  {
+    "question": "Complete the sentence: Chemicals can ___, leading to a decline in numbers.",
+    "options": [
+      "illustrate",
+      "Basically",
+      "physical work",
+      "interfere with reproduction"
+    ],
+    "correctIndex": 3,
+    "explanation": "'interfere with reproduction' (мешать размножению). Full sentence: Chemicals can interfere with reproduction, leading to a decline in numbers.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ],
+    "id": "c5f0e584f3ed"
+  },
+  {
+    "question": "Complete the sentence: Words come back ___ as clothes.",
+    "options": [
+      "in much the same way",
+      "stray onto farmland",
+      "set a good example",
+      "lazy day"
+    ],
+    "correctIndex": 0,
+    "explanation": "'in much the same way' (примерно так же). Full sentence: Words come back in much the same way as clothes.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ],
+    "id": "4bf0c3f1475b"
   }
 ]

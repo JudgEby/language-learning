@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "im-just-looking"
     ]
+  },
+  {
+    "question": "Which word means 'крайний срок'?",
+    "options": [
+      "square",
+      "river",
+      "deadline",
+      "If it rains, I'll stay at home"
+    ],
+    "correctIndex": 2,
+    "explanation": "'deadline' means крайний срок. Example: We have a tight deadline for this project.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ],
+    "id": "77ca941fa6dd"
+  },
+  {
+    "question": "Choose the correct collocation: The gallery is about five minutes' walk from here.",
+    "options": [
+      "valley",
+      "It's about five minutes' walk from here",
+      "entertainment",
+      "I'm afraid I have a complaint"
+    ],
+    "correctIndex": 1,
+    "explanation": "'It's about five minutes' walk from here' (Это примерно в пяти минутах ходьбы отсюда). Full sentence: The gallery is about five minutes' walk from here.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ],
+    "id": "b3ef89520f31"
+  },
+  {
+    "question": "Choose the correct collocation: That can't be a wild animal — it's too close to the houses.",
+    "options": [
+      "That can't be a wild animal.",
+      "In my opinion",
+      "crime",
+      "The best thing about... is..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'That can't be a wild animal.' (Не может быть, чтобы это было дикое животное.). Full sentence: That can't be a wild animal — it's too close to the houses.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ],
+    "id": "d0aa52a4178b"
   }
 ]

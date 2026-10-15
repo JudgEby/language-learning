@@ -26,6 +26,36 @@
       "term": "mentor",
       "translation": "наставник",
       "example": "My mentor gave me invaluable advice."
+    },
+    {
+      "term": "get through to",
+      "translation": "достучаться, донести мысль",
+      "example": "Nobody could get through to him."
+    },
+    {
+      "term": "take it personally",
+      "translation": "принимать на свой счёт",
+      "example": "Please do not take it personally."
+    },
+    {
+      "term": "take your mind off",
+      "translation": "отвлечься",
+      "example": "Music helps take your mind off problems."
+    },
+    {
+      "term": "get something off your chest",
+      "translation": "выговориться",
+      "example": "She just needed to get it off her chest."
+    },
+    {
+      "term": "get it wrong",
+      "translation": "ошибиться",
+      "example": "We do not want to get it wrong."
+    },
+    {
+      "term": "get the message",
+      "translation": "понять намёк",
+      "example": "He did not get the message."
     }
   ]
 }

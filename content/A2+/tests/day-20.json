@@ -179,5 +179,50 @@
     "relatedRuleIds": [
       "risky-business"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: I recommend taking a walking tour of the old town.",
+    "options": [
+      "first-aid kit",
+      "I don't mind getting my hands dirty",
+      "I recommend…",
+      "talk about"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I recommend…' (Я рекомендую…). Full sentence: I recommend taking a walking tour of the old town.",
+    "relatedRuleIds": [
+      "relax"
+    ],
+    "id": "8b710a9289d4"
+  },
+  {
+    "question": "Which word means 'принадлежать'?",
+    "options": [
+      "belong to",
+      "Is it compulsory?",
+      "It has something for everyone",
+      "shift"
+    ],
+    "correctIndex": 0,
+    "explanation": "'belong to' means принадлежать. Example: This book belongs to my sister.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ],
+    "id": "fb4cba5e1d68"
+  },
+  {
+    "question": "Which word means 'неисправный, с дефектом'?",
+    "options": [
+      "Could you tell me where the station is?",
+      "faulty",
+      "atmosphere",
+      "belong to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'faulty' means неисправный, с дефектом. Example: We received a faulty product and want a refund.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ],
+    "id": "005d07e9f98c"
   }
 ]

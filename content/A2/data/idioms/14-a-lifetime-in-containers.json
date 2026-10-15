@@ -1,0 +1,41 @@
+{
+  "lessonId": "a-lifetime-in-containers",
+  "title": "A lifetime in containers — идиомы",
+  "items": [
+    {
+      "idiom": "once in a lifetime",
+      "translation": "раз в жизни",
+      "example": "This trip is a once-in-a-lifetime chance."
+    },
+    {
+      "idiom": "drink up",
+      "translation": "допить",
+      "example": "Drink up! The bus is waiting."
+    },
+    {
+      "idiom": "cut down on sugar",
+      "translation": "сократить сахар",
+      "example": "He wants to cut down on sugar."
+    },
+    {
+      "idiom": "a drop of milk",
+      "translation": "капля молока",
+      "example": "Just a drop of milk in my tea, please."
+    },
+    {
+      "idiom": "run out of coffee",
+      "translation": "остаться без кофе (запасы кончились)",
+      "example": "We ran out of coffee yesterday."
+    },
+    {
+      "idiom": "too much of a good thing",
+      "translation": "слишком много хорошего",
+      "example": "Chocolate is nice, but too much of a good thing is bad."
+    },
+    {
+      "idiom": "refill your bottle",
+      "translation": "наполни бутылку заново",
+      "example": "Refill your bottle at the station."
+    }
+  ]
+}

@@ -26,6 +26,36 @@
       "term": "fib",
       "translation": "небольшая ложь",
       "example": "It's just a little fib — no harm done."
+    },
+    {
+      "term": "anyway",
+      "translation": "в общем, кстати",
+      "example": "Anyway, how are you doing?"
+    },
+    {
+      "term": "mind you",
+      "translation": "заметь, учти",
+      "example": "Mind you, it is not easy."
+    },
+    {
+      "term": "as I say",
+      "translation": "как я говорю",
+      "example": "As I say, I really do not know."
+    },
+    {
+      "term": "right",
+      "translation": "ладно, итак (филлер)",
+      "example": "Right, so I took a shirt with me."
+    },
+    {
+      "term": "let me think",
+      "translation": "дай подумать",
+      "example": "Let me think about it for a moment."
+    },
+    {
+      "term": "that's a good question",
+      "translation": "хороший вопрос",
+      "example": "That is a good question, I need time."
     }
   ]
 }

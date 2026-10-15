@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "science-we-need"
     ]
+  },
+  {
+    "question": "Complete the sentence: How competitive are people about ___?",
+    "options": [
+      "compete with others",
+      "couldn't sleep at all",
+      "frugal",
+      "car ownership"
+    ],
+    "correctIndex": 3,
+    "explanation": "'car ownership' (владение машиной). Full sentence: How competitive are people about car ownership?",
+    "relatedRuleIds": [
+      "challenge"
+    ],
+    "id": "a8bb923ab3d5"
+  },
+  {
+    "question": "Which word means 'обучение, подготовка'?",
+    "options": [
+      "training",
+      "extinct",
+      "health insurance",
+      "dystopia"
+    ],
+    "correctIndex": 0,
+    "explanation": "'training' means обучение, подготовка. Example: All new staff receive two weeks of training.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ],
+    "id": "14f750a41fc6"
+  },
+  {
+    "question": "Which word means 'грязный'?",
+    "options": [
+      "strive",
+      "where were we",
+      "filthy",
+      "tuition assistance"
+    ],
+    "correctIndex": 2,
+    "explanation": "'filthy' means грязный. Example: The bathroom was filthy and had obviously not been cleaned.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ],
+    "id": "9836bdd3de37"
+  },
+  {
+    "question": "Choose the correct collocation: Architects will have been building these systems into homes for a while.",
+    "options": [
+      "complain to the referee",
+      "building into new homes",
+      "fake an injury",
+      "paranoia"
+    ],
+    "correctIndex": 1,
+    "explanation": "'building into new homes' (встраивать в новые дома). Full sentence: Architects will have been building these systems into homes for a while.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ],
+    "id": "a5ec77d9879b"
   }
 ]

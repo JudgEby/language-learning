@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "selfie-expression"
     ]
+  },
+  {
+    "question": "Which word means 'хрустящий'?",
+    "options": [
+      "crunchy",
+      "compute",
+      "find a voice",
+      "encouraging"
+    ],
+    "correctIndex": 0,
+    "explanation": "'crunchy' means хрустящий. Example: The crackers are sweet and crunchy.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ],
+    "id": "d130054c540f"
+  },
+  {
+    "question": "Which word means 'мотивация'?",
+    "options": [
+      "achieve",
+      "motivation",
+      "outskirts",
+      "merchandise"
+    ],
+    "correctIndex": 1,
+    "explanation": "'motivation' means мотивация. Example: Money is not the only form of motivation.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ],
+    "id": "26973afa78b4"
+  },
+  {
+    "question": "Which word means 'приют'?",
+    "options": [
+      "compete with yourself",
+      "regulate",
+      "shelter",
+      "show in different packaging"
+    ],
+    "correctIndex": 2,
+    "explanation": "'shelter' means приют. Example: Local charities fund shelters for people who have no home.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ],
+    "id": "94f4972a4318"
+  },
+  {
+    "question": "Complete the sentence: Pizza was ___ in the nineteenth century.",
+    "options": [
+      "spread by migrants",
+      "scan",
+      "describe as",
+      "reaction"
+    ],
+    "correctIndex": 0,
+    "explanation": "'spread by migrants' (распространяться мигрантами). Full sentence: Pizza was spread by migrants in the nineteenth century.",
+    "relatedRuleIds": [
+      "food-fads"
+    ],
+    "id": "937f05c28c89"
   }
 ]

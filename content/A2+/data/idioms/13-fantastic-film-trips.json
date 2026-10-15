@@ -1,0 +1,41 @@
+{
+  "lessonId": "fantastic-film-trips",
+  "title": "Fantastic film trips — идиомы",
+  "items": [
+    {
+      "idiom": "build a wooden raft",
+      "translation": "построить деревянный плот",
+      "example": "They built a wooden raft and left Peru in April."
+    },
+    {
+      "idiom": "cross the Pacific",
+      "translation": "пересечь Тихий океан",
+      "example": "They crossed the Pacific in one hundred and one days."
+    },
+    {
+      "idiom": "crash into the raft",
+      "translation": "удариться о плот (о волнах)",
+      "example": "While they were sailing, huge waves crashed into the raft."
+    },
+    {
+      "idiom": "arrive in Polynesia",
+      "translation": "прибыть в Полинезию",
+      "example": "After a long journey they arrived in Polynesia."
+    },
+    {
+      "idiom": "write a book about the journey",
+      "translation": "написать книгу о путешествии",
+      "example": "He later wrote a book about the journey across the ocean."
+    },
+    {
+      "idiom": "ride a motorbike",
+      "translation": "ехать на мотоцикле",
+      "example": "I was riding my motorbike when it started to rain."
+    },
+    {
+      "idiom": "fall asleep",
+      "translation": "заснуть",
+      "example": "I was reading when I started to feel tired and fell asleep."
+    }
+  ]
+}

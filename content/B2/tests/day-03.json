@@ -748,5 +748,215 @@
     "relatedRuleIds": [
       "4C-keep-moving"
     ]
+  },
+  {
+    "id": "d5e9473637a9",
+    "question": "Which word means 'склонный спорить'?",
+    "options": [
+      "argumentative",
+      "seize the moment",
+      "frozen",
+      "piano"
+    ],
+    "correctIndex": 0,
+    "explanation": "'argumentative' means склонный спорить. Example: Her brother can be quite argumentative.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "e42112018849",
+    "question": "Choose the correct collocation: I get nervous about taking taxis in a foreign city.",
+    "options": [
+      "nervous about (sth)",
+      "get the information across",
+      "impulsive",
+      "act"
+    ],
+    "correctIndex": 0,
+    "explanation": "'nervous about (sth)' (нервничающий из-за (чего-то)). Full sentence: I get nervous about taking taxis in a foreign city.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "d1e21fd44e43",
+    "question": "Which word means 'биоразнообразие'?",
+    "options": [
+      "nap",
+      "biodiversity",
+      "it is time to move on",
+      "figure out"
+    ],
+    "correctIndex": 1,
+    "explanation": "'biodiversity' means биоразнообразие. Example: The rainforest has incredible biodiversity.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "4dc8694808f9",
+    "question": "Which word means 'организатор'?",
+    "options": [
+      "helpful",
+      "professional trial",
+      "step-by-step",
+      "organiser"
+    ],
+    "correctIndex": 3,
+    "explanation": "'organiser' means организатор. Example: Festival organisers care about the environment.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "051e989c57c6",
+    "question": "Which word means 'неожиданный поворот сюжета'?",
+    "options": [
+      "play an instrument",
+      "opportunity",
+      "solitude",
+      "plot twist"
+    ],
+    "correctIndex": 3,
+    "explanation": "'plot twist' means неожиданный поворот сюжета. Example: Nobody expected that plot twist.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "dbdcd3fc094d",
+    "question": "Which word means 'расширить кругозор'?",
+    "options": [
+      "sing along",
+      "get a regular job",
+      "run a project",
+      "expand your horizons"
+    ],
+    "correctIndex": 3,
+    "explanation": "'expand your horizons' means расширить кругозор. Example: Travel helps expand your horizons.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "1b7e48d8a332",
+    "question": "Which word means 'гибкость'?",
+    "options": [
+      "flexibility",
+      "literacy",
+      "civilisation",
+      "make an effort (to keep fit)"
+    ],
+    "correctIndex": 0,
+    "explanation": "'flexibility' means гибкость. Example: Yoga improves flexibility.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "2464e90bc876",
+    "question": "Which word means 'основатель'?",
+    "options": [
+      "founder",
+      "get advice",
+      "keep moving",
+      "step-by-step"
+    ],
+    "correctIndex": 0,
+    "explanation": "'founder' means основатель. Example: The founder welcomed all new employees.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "0436c4a5a2a6",
+    "question": "Which word means 'раздражающий, досадный'?",
+    "options": [
+      "frustrating",
+      "tenant",
+      "go over",
+      "flexibility"
+    ],
+    "correctIndex": 0,
+    "explanation": "'frustrating' means раздражающий, досадный. Example: Delays at work were incredibly frustrating.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "71987aa67855",
+    "question": "Choose the correct collocation: I should have taken her advice.",
+    "options": [
+      "memorable",
+      "work out",
+      "reach a turning point",
+      "take someone's advice"
+    ],
+    "correctIndex": 3,
+    "explanation": "'take someone's advice' (послушать совет). Full sentence: I should have taken her advice.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "9dda96a7ce00",
+    "question": "Which word means 'произведение, композиция'?",
+    "options": [
+      "composition",
+      "freelance",
+      "expand your horizons",
+      "find your feet"
+    ],
+    "correctIndex": 0,
+    "explanation": "'composition' means произведение, композиция. Example: He played his own composition in New York.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "8b89dc4ad02b",
+    "question": "Complete the sentence: It took me ages to ___.",
+    "options": [
+      "colleague",
+      "chat box",
+      "figure out",
+      "come across as"
+    ],
+    "correctIndex": 2,
+    "explanation": "'figure out' (разобраться). Full sentence: It took me ages to figure out.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "05d03f8b7400",
+    "question": "Complete the sentence: It took a while to ___.",
+    "options": [
+      "regret",
+      "support each other",
+      "feel at home",
+      "live on less than $2 a day"
+    ],
+    "correctIndex": 2,
+    "explanation": "'feel at home' (чувствовать себя как дома). Full sentence: It took a while to feel at home.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "7a63cd748edd",
+    "question": "Choose the correct collocation: On the whole, neighbours were happy to help.",
+    "options": [
+      "come out of your shell",
+      "talent",
+      "on the whole",
+      "share accomplishments"
+    ],
+    "correctIndex": 2,
+    "explanation": "'on the whole' (в целом). Full sentence: On the whole, neighbours were happy to help.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
   }
 ]

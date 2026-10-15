@@ -1,0 +1,76 @@
+{
+  "lessonId": "science-fiction",
+  "title": "8D Science Fiction — Идиомы: фантастика и машины",
+  "items": [
+    {
+      "idiom": "a ghost in the machine",
+      "translation": "призрак в машине",
+      "example": "The strange replies felt like a ghost in the machine."
+    },
+    {
+      "idiom": "the rise of the machines",
+      "translation": "восстание машин",
+      "example": "The film is about the rise of the machines."
+    },
+    {
+      "idiom": "on autopilot",
+      "translation": "на автопилоте",
+      "example": "I drove home on autopilot."
+    },
+    {
+      "idiom": "at the push of a button",
+      "translation": "нажатием кнопки",
+      "example": "Soon drones will deliver parcels at the push of a button."
+    },
+    {
+      "idiom": "the future is here",
+      "translation": "будущее уже наступило",
+      "example": "Delivery bots on streets? The future is here."
+    },
+    {
+      "idiom": "straight out of science fiction",
+      "translation": "как из фантастики",
+      "example": "The hand-held scanner looks straight out of science fiction."
+    },
+    {
+      "idiom": "truth is stranger than fiction",
+      "translation": "правда удивительнее вымысла",
+      "example": "Real robots are cleverer than film ones — truth is stranger than fiction."
+    },
+    {
+      "idiom": "fact or fiction?",
+      "translation": "правда или вымысел?",
+      "example": "Teleportation: fact or fiction?"
+    },
+    {
+      "idiom": "a flight of fancy",
+      "translation": "полёт фантазии",
+      "example": "A lift to the Moon sounds like a flight of fancy."
+    },
+    {
+      "idiom": "beam me up",
+      "translation": "телепортируй меня",
+      "example": "Traffic is awful — beam me up!"
+    },
+    {
+      "idiom": "to boldly go",
+      "translation": "смело идти",
+      "example": "Scientists want to boldly go where no one has gone before."
+    },
+    {
+      "idiom": "in a galaxy far, far away",
+      "translation": "в далёкой-далёкой галактике",
+      "example": "The story takes place in a galaxy far, far away."
+    },
+    {
+      "idiom": "blast off",
+      "translation": "взлететь",
+      "example": "The shuttle is ready to blast off."
+    },
+    {
+      "idiom": "a close encounter",
+      "translation": "близкий контакт",
+      "example": "The book describes a close encounter with aliens."
+    }
+  ]
+}

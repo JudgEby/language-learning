@@ -16,6 +16,31 @@
       "phrase": "mess up",
       "translation": "облажаться",
       "example": "Don't worry if you mess up — keep going."
+    },
+    {
+      "phrase": "live up to (expectations)",
+      "translation": "оправдывать (ожидания)",
+      "example": "The show did not quite live up to my expectations."
+    },
+    {
+      "phrase": "come up with (an idea)",
+      "translation": "придумывать (идею)",
+      "example": "I came up with loads of jokes before the performance."
+    },
+    {
+      "phrase": "put up with (sth)",
+      "translation": "мириться с (чем-то)",
+      "example": "Sorry you had to put up with a heckler during the act."
+    },
+    {
+      "phrase": "carry on (doing sth)",
+      "translation": "продолжать (делать что-то)",
+      "example": "Just ignore them and carry on with your speech."
+    },
+    {
+      "phrase": "fall back on (sth)",
+      "translation": "опереться на (что-то), воспользоваться запасным вариантом",
+      "example": "With experience to fall back on, you cope better when things go wrong."
     }
   ]
 }

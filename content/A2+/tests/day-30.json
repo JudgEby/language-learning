@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "caught-on-film"
     ]
+  },
+  {
+    "question": "Which word means 'экзамен'?",
+    "options": [
+      "One thing I don't like is...",
+      "exam",
+      "laugh at",
+      "excited"
+    ],
+    "correctIndex": 1,
+    "explanation": "'exam' means экзамен. Example: We have a maths exam next Monday.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ],
+    "id": "bc16e25fc75b"
+  },
+  {
+    "question": "Which word means 'начать заниматься (хобби, спорт)'?",
+    "options": [
+      "It's just around the corner",
+      "vocabulary",
+      "take up",
+      "My responsibilities include…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'take up' means начать заниматься (хобби, спорт). Example: I've decided to take up yoga.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ],
+    "id": "813fa0f717f3"
+  },
+  {
+    "question": "Complete the sentence: ___ — some people prefer traditional books.",
+    "options": [
+      "I'm not sure about that",
+      "I hope so",
+      "vocabulary",
+      "platform"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I'm not sure about that' (Я не уверен насчёт этого). Full sentence: I'm not sure about that — some people prefer traditional books.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ],
+    "id": "99b11598ae88"
   }
 ]

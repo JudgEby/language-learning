@@ -1,0 +1,41 @@
+{
+  "lessonId": "the-company-4u",
+  "title": "The company 4U — идиомы",
+  "items": [
+    {
+      "idiom": "work for a company",
+      "translation": "работать в компании",
+      "example": "Would you like to work for a company like this?"
+    },
+    {
+      "idiom": "motivate staff",
+      "translation": "мотивировать сотрудников",
+      "example": "Good managers know how to motivate their staff."
+    },
+    {
+      "idiom": "work at a desk",
+      "translation": "работать за столом (в офисе)",
+      "example": "Many people work at desks all day long."
+    },
+    {
+      "idiom": "check emails",
+      "translation": "проверять электронную почту",
+      "example": "I check my emails when I get to work."
+    },
+    {
+      "idiom": "do an online course",
+      "translation": "проходить онлайн-курс",
+      "example": "Six of us are doing an online course this month."
+    },
+    {
+      "idiom": "have a break",
+      "translation": "сделать перерыв",
+      "example": "I am having a break now, can I call you later?"
+    },
+    {
+      "idiom": "look for a job",
+      "translation": "искать работу",
+      "example": "She is looking for a job at the moment."
+    }
+  ]
+}

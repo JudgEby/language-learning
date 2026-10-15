@@ -2,9 +2,40 @@
   "lessonId": "a-lucky-break",
   "title": "A lucky break — идиомы",
   "items": [
-    { "idiom": "a lucky break", "translation": "счастливый шанс, неожиданная удача", "example": "Getting discovered in a coffee shop was a lucky break for the singer." },
-    { "idiom": "make it big", "translation": "добиться большого успеха, прославиться", "example": "She moved to Hollywood hoping to make it big." },
-    { "idiom": "overnight success", "translation": "внезапный успех (букв. успех за одну ночь)", "example": "He was an overnight success after his first single went viral." },
-    { "idiom": "break a leg", "translation": "ни пуха ни пера (удачи перед выступлением)", "example": "Break a leg at your audition tonight!" }
+    {
+      "idiom": "a lucky break",
+      "translation": "счастливый шанс, неожиданная удача",
+      "example": "Getting discovered in a coffee shop was a lucky break for the singer."
+    },
+    {
+      "idiom": "make it big",
+      "translation": "добиться большого успеха, прославиться",
+      "example": "She moved to Hollywood hoping to make it big."
+    },
+    {
+      "idiom": "overnight success",
+      "translation": "внезапный успех (букв. успех за одну ночь)",
+      "example": "He was an overnight success after his first single went viral."
+    },
+    {
+      "idiom": "break a leg",
+      "translation": "ни пуха ни пера (удачи перед выступлением)",
+      "example": "Break a leg at your audition tonight!"
+    },
+    {
+      "idiom": "look for work",
+      "translation": "искать работу",
+      "example": "She started a blog when she was unemployed and looking for work."
+    },
+    {
+      "idiom": "campaign against poverty",
+      "translation": "бороться с бедностью",
+      "example": "He is now a journalist who campaigns against poverty."
+    },
+    {
+      "idiom": "win awards",
+      "translation": "получать награды",
+      "example": "She has won awards for her blog and recipes."
+    }
   ]
 }

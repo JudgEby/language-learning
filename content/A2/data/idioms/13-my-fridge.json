@@ -1,0 +1,41 @@
+{
+  "lessonId": "my-fridge",
+  "title": "My fridge — идиомы",
+  "items": [
+    {
+      "idiom": "go shopping",
+      "translation": "ходить за покупками",
+      "example": "We go shopping every Saturday morning."
+    },
+    {
+      "idiom": "eat out",
+      "translation": "есть вне дома, в кафе",
+      "example": "We often eat out on Fridays."
+    },
+    {
+      "idiom": "a full fridge",
+      "translation": "полный холодильник",
+      "example": "We have a full fridge before the guests come."
+    },
+    {
+      "idiom": "go off",
+      "translation": "испортиться (о еде)",
+      "example": "This milk will go off soon."
+    },
+    {
+      "idiom": "cook from scratch",
+      "translation": "готовить с нуля",
+      "example": "She cooks everything from scratch."
+    },
+    {
+      "idiom": "have a sweet tooth",
+      "translation": "быть сладкоежкой",
+      "example": "He has a sweet tooth, he loves chocolate."
+    },
+    {
+      "idiom": "leftovers for lunch",
+      "translation": "остатки еды на обед",
+      "example": "We had leftovers for lunch today."
+    }
+  ]
+}

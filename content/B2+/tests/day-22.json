@@ -358,5 +358,65 @@
     "relatedRuleIds": [
       "online-blunders"
     ]
+  },
+  {
+    "question": "Which word means 'конкурент'?",
+    "options": [
+      "competitor",
+      "improve people's health",
+      "take and use feedback",
+      "I can offer you"
+    ],
+    "correctIndex": 0,
+    "explanation": "'competitor' means конкурент. Example: Collaboration between competitors is best avoided.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ],
+    "id": "a61d028d36d5"
+  },
+  {
+    "question": "Which word means 'скрытный (синоним: secretive)'?",
+    "options": [
+      "be down in the dumps",
+      "private",
+      "bring back memories",
+      "recyclable"
+    ],
+    "correctIndex": 1,
+    "explanation": "'private' means скрытный (синоним: secretive). Example: Some people are private and don't like attention.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ],
+    "id": "ed947195aba0"
+  },
+  {
+    "question": "Which word means 'данные'?",
+    "options": [
+      "data",
+      "non-profit organisation",
+      "rub someone up the wrong way",
+      "in much the same way"
+    ],
+    "correctIndex": 0,
+    "explanation": "'data' means данные. Example: The algorithm processes vast amounts of data to make accurate predictions.",
+    "relatedRuleIds": [
+      "algorithm"
+    ],
+    "id": "cc0883d6ddd3"
+  },
+  {
+    "question": "Which word means 'воссоздать'?",
+    "options": [
+      "play to win",
+      "genuine",
+      "recreate",
+      "look more natural"
+    ],
+    "correctIndex": 2,
+    "explanation": "'recreate' means воссоздать. Example: I don't think it's possible to recreate a past feeling.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ],
+    "id": "082167690770"
   }
 ]

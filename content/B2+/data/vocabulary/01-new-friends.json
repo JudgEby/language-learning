@@ -1,0 +1,96 @@
+{
+  "lessonId": "new-friends",
+  "title": "1A New Friends — Дружба и привычки",
+  "items": [
+    {
+      "term": "like-minded",
+      "translation": "близкий по духу, единомышленник",
+      "example": "It is not the easiest app to use, but I met a few like-minded people."
+    },
+    {
+      "term": "match",
+      "translation": "подходящий человек, пара",
+      "example": "Addy believes the best way to find a match is to look for people with similar passions."
+    },
+    {
+      "term": "profile",
+      "translation": "профиль, анкета",
+      "example": "The app suggested some great people to chat to based on my profile."
+    },
+    {
+      "term": "sign up",
+      "translation": "регистрироваться",
+      "example": "It is not the easiest app to use, but it is worth signing up."
+    },
+    {
+      "term": "colleague",
+      "translation": "коллега",
+      "example": "My colleagues are nice, but they are at least a decade older than me."
+    },
+    {
+      "term": "decade",
+      "translation": "десятилетие",
+      "example": "My colleagues are at least a decade older than me."
+    },
+    {
+      "term": "married",
+      "translation": "женатый, замужняя",
+      "example": "Most of my colleagues are married with children."
+    },
+    {
+      "term": "single",
+      "translation": "одинокий, не состоящий в браке",
+      "example": "Just what you want as a twenty-two-year-old single person!"
+    },
+    {
+      "term": "wallet",
+      "translation": "кошелёк",
+      "example": "His new friends laughed when he left his wallet at home."
+    },
+    {
+      "term": "tend to",
+      "translation": "иметь склонность, как правило",
+      "example": "I tend to listen rather than speak in a group."
+    },
+    {
+      "term": "be prone to",
+      "translation": "быть склонным к чему-то",
+      "example": "He is prone to turning up late for meetings."
+    },
+    {
+      "term": "be inclined to",
+      "translation": "быть склонным, тяготеть",
+      "example": "He is inclined to act now and think later."
+    },
+    {
+      "term": "keep on",
+      "translation": "продолжать делать (назойливо)",
+      "example": "Megan kept on criticising me during the meeting last week."
+    },
+    {
+      "term": "as a rule",
+      "translation": "как правило",
+      "example": "As a rule, I wake up at 6.30 every morning."
+    },
+    {
+      "term": "nine times out of ten",
+      "translation": "в девяти случаях из десяти",
+      "example": "Nine times out of ten, I let him win to avoid upsetting him."
+    },
+    {
+      "term": "constantly",
+      "translation": "постоянно",
+      "example": "They were constantly competing with each other."
+    },
+    {
+      "term": "habit",
+      "translation": "привычка",
+      "example": "A good habit is to pay attention to how people pronounce words."
+    },
+    {
+      "term": "rewarding",
+      "translation": "стоящий, приносящий удовлетворение",
+      "example": "Helping old friends is a rewarding habit."
+    }
+  ]
+}

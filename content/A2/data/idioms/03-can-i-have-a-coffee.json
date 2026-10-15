@@ -1,0 +1,41 @@
+{
+  "lessonId": "can-i-have-a-coffee",
+  "title": "Can I have a coffee? — идиомы",
+  "items": [
+    {
+      "idiom": "A single or return?",
+      "translation": "В один конец или туда-обратно?",
+      "example": "A single or return to Oxford, please?"
+    },
+    {
+      "idiom": "Just looking, thanks",
+      "translation": "Я просто смотрю, спасибо",
+      "example": "Can I help you? Just looking, thanks."
+    },
+    {
+      "idiom": "Here you go",
+      "translation": "Вот, пожалуйста (передавая что-то)",
+      "example": "Here you go, one coffee and one sandwich."
+    },
+    {
+      "idiom": "Keep the change",
+      "translation": "Сдачи не надо",
+      "example": "Keep the change, please."
+    },
+    {
+      "idiom": "Could I have the bill?",
+      "translation": "Можно счёт?",
+      "example": "Could I have the bill, please?"
+    },
+    {
+      "idiom": "on platform two",
+      "translation": "на второй платформе",
+      "example": "Our train leaves from platform two."
+    },
+    {
+      "idiom": "a coffee to go",
+      "translation": "кофе с собой",
+      "example": "A coffee to go, please."
+    }
+  ]
+}

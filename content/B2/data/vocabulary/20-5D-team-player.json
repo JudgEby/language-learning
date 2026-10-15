@@ -26,6 +26,36 @@
       "term": "accountability",
       "translation": "ответственность",
       "example": "There's a culture of accountability here."
+    },
+    {
+      "term": "self-employed",
+      "translation": "самозанятый",
+      "example": "I am self-employed, so I work alone."
+    },
+    {
+      "term": "perfectionist",
+      "translation": "перфекционист",
+      "example": "She is a bit of a perfectionist."
+    },
+    {
+      "term": "support each other",
+      "translation": "поддерживать друг друга",
+      "example": "In a good team you support each other."
+    },
+    {
+      "term": "share accomplishments",
+      "translation": "делиться достижениями",
+      "example": "I like to share accomplishments with the team."
+    },
+    {
+      "term": "bounce ideas off",
+      "translation": "обсуждать идеи друг с другом",
+      "example": "We bounce ideas off each other every day."
+    },
+    {
+      "term": "frustrating",
+      "translation": "раздражающий, досадный",
+      "example": "Delays at work were incredibly frustrating."
     }
   ]
 }

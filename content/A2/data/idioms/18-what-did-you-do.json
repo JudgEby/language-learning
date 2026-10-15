@@ -1,0 +1,41 @@
+{
+  "lessonId": "what-did-you-do",
+  "title": "What did you do? — идиомы",
+  "items": [
+    {
+      "idiom": "ask follow-up questions",
+      "translation": "задавать уточняющие вопросы",
+      "example": "Ask follow-up questions to keep the conversation going."
+    },
+    {
+      "idiom": "show interest",
+      "translation": "проявлять интерес",
+      "example": "Show interest when your friend tells you about the weekend."
+    },
+    {
+      "idiom": "give extra information",
+      "translation": "добавлять подробности",
+      "example": "Give extra information instead of answering with one word."
+    },
+    {
+      "idiom": "extend a conversation",
+      "translation": "поддерживать разговор",
+      "example": "Follow-up questions help you extend a conversation."
+    },
+    {
+      "idiom": "That's a shame",
+      "translation": "очень жаль",
+      "example": "You missed the party? That's a shame."
+    },
+    {
+      "idiom": "It was amazing",
+      "translation": "это было потрясающе",
+      "example": "Our trip to Dublin was amazing."
+    },
+    {
+      "idiom": "have a perfect weekend",
+      "translation": "отлично провести выходные",
+      "example": "We had a perfect weekend by the sea."
+    }
+  ]
+}

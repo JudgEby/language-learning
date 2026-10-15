@@ -1,0 +1,41 @@
+{
+  "lessonId": "can-you-tell-me",
+  "title": "Can you tell me — как узнать информацию",
+  "items": [
+    {
+      "idiom": "open a bank account",
+      "translation": "открыть банковский счёт",
+      "example": "You open a bank account and start talking to people."
+    },
+    {
+      "idiom": "get a mobile phone contract",
+      "translation": "оформить контракт на мобильный телефон",
+      "example": "First you open a bank account and get a mobile phone contract."
+    },
+    {
+      "idiom": "make photocopies",
+      "translation": "делать ксерокопии",
+      "example": "What can you do in a photocopying room? You can make photocopies."
+    },
+    {
+      "idiom": "borrow a book",
+      "translation": "взять книгу в библиотеке",
+      "example": "I am going to the library to borrow a book."
+    },
+    {
+      "idiom": "register for a new course",
+      "translation": "записаться на новый курс",
+      "example": "Where do I register for my course? At the registration desk."
+    },
+    {
+      "idiom": "study abroad",
+      "translation": "учиться за границей",
+      "example": "Thousands of students come to study abroad in the UK."
+    },
+    {
+      "idiom": "meet for a coffee",
+      "translation": "встретиться за чашкой кофе",
+      "example": "Let us meet for a coffee in the cafeteria at two."
+    }
+  ]
+}

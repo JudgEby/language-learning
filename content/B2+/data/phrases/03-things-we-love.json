@@ -1,0 +1,96 @@
+{
+  "lessonId": "things-we-love",
+  "title": "1C Things We Love — Фразы: гипотетические предпочтения",
+  "items": [
+    {
+      "phrase": "Given the choice",
+      "translation": "если бы был выбор",
+      "example": "Given the choice, I'd choose the bungee jump any day."
+    },
+    {
+      "phrase": "I'd go for",
+      "translation": "я бы выбрал(а)",
+      "example": "I'd go for being in a reality TV show every time."
+    },
+    {
+      "phrase": "I'd sooner",
+      "translation": "я бы лучше",
+      "example": "I'd sooner act on stage than sing in public."
+    },
+    {
+      "phrase": "If it was up to me",
+      "translation": "если бы зависело от меня",
+      "example": "If it was up to me, I'd read a book all day."
+    },
+    {
+      "phrase": "Nothing would make me",
+      "translation": "ничто не заставит меня",
+      "example": "Nothing would make me get up on a stage and sing!"
+    },
+    {
+      "phrase": "I'd rather",
+      "translation": "я бы предпочёл(ла)",
+      "example": "I'd rather appear in a reality show than sing on stage."
+    },
+    {
+      "phrase": "Would you rather",
+      "translation": "что бы ты предпочёл",
+      "example": "Would you rather do a deep-sea dive or a bungee jump?"
+    },
+    {
+      "phrase": "do a bungee jump",
+      "translation": "прыгнуть с банджи",
+      "example": "Would you rather do a bungee jump or dive deep?"
+    },
+    {
+      "phrase": "do a deep-sea dive",
+      "translation": "погрузиться в глубину",
+      "example": "Would you rather do a deep-sea dive with friends?"
+    },
+    {
+      "phrase": "appear in a reality TV show",
+      "translation": "сняться в реалити-шоу",
+      "example": "Would you rather appear in a reality TV show or act on stage?"
+    },
+    {
+      "phrase": "act on stage",
+      "translation": "играть на сцене",
+      "example": "I'd sooner act on stage than sing in public."
+    },
+    {
+      "phrase": "sing in public",
+      "translation": "петь на публике",
+      "example": "I hate to sing in public at karaoke nights."
+    },
+    {
+      "phrase": "binge watch a TV show",
+      "translation": "смотреть сериал запоем",
+      "example": "Would you rather binge watch a TV show all day or read?"
+    },
+    {
+      "phrase": "read a book all day",
+      "translation": "читать книгу весь день",
+      "example": "If it was up to me, I'd read a book all day."
+    },
+    {
+      "phrase": "ask for reasons",
+      "translation": "спрашивать о причинах",
+      "example": "Ask for reasons to encourage your partner to elaborate."
+    },
+    {
+      "phrase": "encourage to elaborate",
+      "translation": "побуждать рассказать подробнее",
+      "example": "Ask about experience to encourage your partner to elaborate."
+    },
+    {
+      "phrase": "fly a plane",
+      "translation": "вести самолёт",
+      "example": "Would you rather fly a plane or parachute out of it?"
+    },
+    {
+      "phrase": "parachute out of a plane",
+      "translation": "прыгнуть с парашютом",
+      "example": "Would you rather fly a plane or parachute out of a plane?"
+    }
+  ]
+}

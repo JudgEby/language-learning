@@ -26,6 +26,36 @@
       "term": "wilderness",
       "translation": "дикая природа",
       "example": "They camped deep in the wilderness."
+    },
+    {
+      "term": "coastline",
+      "translation": "береговая линия",
+      "example": "The coastline stretches for miles."
+    },
+    {
+      "term": "deserted",
+      "translation": "безлюдный",
+      "example": "We sat on a deserted beach."
+    },
+    {
+      "term": "river bank",
+      "translation": "берег реки",
+      "example": "We sat on the river bank watching boats."
+    },
+    {
+      "term": "scenery",
+      "translation": "пейзаж",
+      "example": "The mountains have amazing scenery."
+    },
+    {
+      "term": "sunlight",
+      "translation": "солнечный свет",
+      "example": "Watch the morning sunlight through the trees."
+    },
+    {
+      "term": "woodland",
+      "translation": "лесистая местность",
+      "example": "They walked through woodland near home."
     }
   ]
 }

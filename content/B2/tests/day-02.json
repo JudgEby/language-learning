@@ -748,5 +748,230 @@
     "relatedRuleIds": [
       "3B-performers"
     ]
+  },
+  {
+    "id": "487c28b845be",
+    "question": "Which word means 'весёлый'?",
+    "options": [
+      "self-employed",
+      "hit the ground running",
+      "cheerful",
+      "raise awareness"
+    ],
+    "correctIndex": 2,
+    "explanation": "'cheerful' means весёлый. Example: She's always cheerful in the morning.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "98e68c9bc87c",
+    "question": "Which word means 'с облегчением'?",
+    "options": [
+      "thank your team",
+      "be careful with (sth)",
+      "take risks",
+      "relieved"
+    ],
+    "correctIndex": 3,
+    "explanation": "'relieved' means с облегчением. Example: I was relieved when the test was over.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "6c1a8e1c3906",
+    "question": "Which word means 'удалённый'?",
+    "options": [
+      "remote",
+      "as I say",
+      "hard to believe",
+      "spin-off"
+    ],
+    "correctIndex": 0,
+    "explanation": "'remote' means удалённый. Example: Many people now work remotely.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "220085c87e50",
+    "question": "Which word means 'художник'?",
+    "options": [
+      "painter",
+      "overcrowding",
+      "seek help",
+      "tell stories about yourself"
+    ],
+    "correctIndex": 0,
+    "explanation": "'painter' means художник. Example: Van Gogh is the finest painter of them all.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "f9b35efa5216",
+    "question": "Choose the correct collocation: Don't spoil it for me!",
+    "options": [
+      "be careful with (sth)",
+      "bounce ideas off",
+      "spoil (sth) for (sb)",
+      "tech industry"
+    ],
+    "correctIndex": 2,
+    "explanation": "'spoil (sth) for (sb)' (испортить (рассказав сюжет)). Full sentence: Don't spoil it for me!",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "1c1795db4e72",
+    "question": "Which word means 'изменение образа жизни'?",
+    "options": [
+      "engagement",
+      "lifestyle change",
+      "by chance",
+      "keep your camera turned on"
+    ],
+    "correctIndex": 1,
+    "explanation": "'lifestyle change' means изменение образа жизни. Example: She made a major lifestyle change.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "8c7e37896d2a",
+    "question": "Which word means 'сила'?",
+    "options": [
+      "beekeeper",
+      "strength",
+      "make up (a story)",
+      "pull your weight"
+    ],
+    "correctIndex": 1,
+    "explanation": "'strength' means сила. Example: Lifting weights builds strength.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "1913ac489012",
+    "question": "Complete the sentence: At the reception she had to ___.",
+    "options": [
+      "nail a performance",
+      "frustrated",
+      "work the room",
+      "wellbeing"
+    ],
+    "correctIndex": 2,
+    "explanation": "'work the room' (активно знакомиться со всеми на встрече). Full sentence: At the reception she had to work the room.",
+    "relatedRuleIds": [
+      "5A-first-day"
+    ]
+  },
+  {
+    "id": "d868eb93184d",
+    "question": "Complete the sentence: She likes to ___ with the team.",
+    "options": [
+      "let me think",
+      "literacy",
+      "fall asleep",
+      "share accomplishments"
+    ],
+    "correctIndex": 3,
+    "explanation": "'share accomplishments' (делиться достижениями). Full sentence: She likes to share accomplishments with the team.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "e1cf3eb272bb",
+    "question": "Which word means 'отказываться'?",
+    "options": [
+      "mess up",
+      "get advice",
+      "drive",
+      "refuse"
+    ],
+    "correctIndex": 3,
+    "explanation": "'refuse' means отказываться. Example: They refused to take the idea seriously.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "240f344e75d7",
+    "question": "Which word means 'небольшая ложь'?",
+    "options": [
+      "a piece of cake",
+      "custom",
+      "fib",
+      "endangered"
+    ],
+    "correctIndex": 2,
+    "explanation": "'fib' means небольшая ложь. Example: It's just a little fib — no harm done.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "f04126cf90d7",
+    "question": "Choose the correct collocation: He carried on playing for a few more years.",
+    "options": [
+      "tactful",
+      "learn by heart",
+      "childhood memories",
+      "carry on playing"
+    ],
+    "correctIndex": 3,
+    "explanation": "'carry on playing' (продолжать играть). Full sentence: He carried on playing for a few more years.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "c7ec7e5c06b0",
+    "question": "Which word means 'преданность делу'?",
+    "options": [
+      "have a physical job",
+      "dedication",
+      "impulsive",
+      "wellbeing"
+    ],
+    "correctIndex": 1,
+    "explanation": "'dedication' means преданность делу. Example: Success requires dedication.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "2fba90b431d3",
+    "question": "Complete the sentence: Millions still ___.",
+    "options": [
+      "self-employed",
+      "exhausted",
+      "leave no trace",
+      "live on less than $2 a day"
+    ],
+    "correctIndex": 3,
+    "explanation": "'live on less than $2 a day' (жить менее чем на $2 в день). Full sentence: Millions still live on less than $2 a day.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "8605cc9808e0",
+    "question": "Which word means 'инициатива'?",
+    "options": [
+      "streaming",
+      "initiative",
+      "century",
+      "spin-off"
+    ],
+    "correctIndex": 1,
+    "explanation": "'initiative' means инициатива. Example: The local initiative supports refugees.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
   }
 ]

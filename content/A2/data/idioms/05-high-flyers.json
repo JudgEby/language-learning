@@ -1,0 +1,41 @@
+{
+  "lessonId": "high-flyers",
+  "title": "High flyers — идиомы",
+  "items": [
+    {
+      "idiom": "work long hours",
+      "translation": "работать подолгу",
+      "example": "Nurses often work long hours."
+    },
+    {
+      "idiom": "a day off",
+      "translation": "выходной день",
+      "example": "Sunday is my only day off."
+    },
+    {
+      "idiom": "on duty",
+      "translation": "на дежурстве",
+      "example": "The pilot is on duty from five in the morning."
+    },
+    {
+      "idiom": "get home late",
+      "translation": "возвращаться домой поздно",
+      "example": "Taxi drivers often get home late."
+    },
+    {
+      "idiom": "love your job",
+      "translation": "любить свою работу",
+      "example": "She loves her job as a chef."
+    },
+    {
+      "idiom": "hard work",
+      "translation": "тяжёлая работа",
+      "example": "Being a mechanic is hard work."
+    },
+    {
+      "idiom": "start work at five",
+      "translation": "начинать работу в пять",
+      "example": "Gagan starts work at five in the morning."
+    }
+  ]
+}

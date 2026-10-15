@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "sorry-im-late"
     ]
+  },
+  {
+    "id": "6735bbb898ec",
+    "question": "Which word means 'официант'?",
+    "options": [
+      "an earthquake",
+      "get angry with somebody",
+      "by bus / by train",
+      "a waiter"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a waiter' means официант. Example: The waiter brings us the menu.",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "b8f013fdc271",
+    "question": "Which word means 'договариваться, планировать встречу'?",
+    "options": [
+      "Halloween",
+      "a motorbike",
+      "make arrangements",
+      "start a company"
+    ],
+    "correctIndex": 2,
+    "explanation": "'make arrangements' means договариваться, планировать встречу. Example: Let's make arrangements for Saturday.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "922bc6b19fcb",
+    "question": "Which word means 'сыр'?",
+    "options": [
+      "a bag of ...",
+      "litre",
+      "cheese",
+      "free WiFi"
+    ],
+    "correctIndex": 2,
+    "explanation": "'cheese' means сыр. Example: I love cheese — I buy it every week.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "cce69f726dea",
+    "question": "Choose the correct collocation: You walked ten miles? That sounds awful!",
+    "options": [
+      "That sounds good / interesting / awful!",
+      "shop for food",
+      "an expedition",
+      "be shy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That sounds good / interesting / awful!' (Звучит хорошо / интересно / ужасно!). Full sentence: You walked ten miles? That sounds awful!",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "3e613efd0a6f",
+    "question": "Which word means 'быть о (чём-то)'?",
+    "options": [
+      "Are these yours?",
+      "be about",
+      "win / win the lottery",
+      "take turns"
+    ],
+    "correctIndex": 1,
+    "explanation": "'be about' means быть о (чём-то). Example: What's it about? — About space travel.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "62306e465d38",
+    "question": "Which word means 'мыло'?",
+    "options": [
+      "soap",
+      "take photos",
+      "stop in the middle of nowhere",
+      "give money to somebody"
+    ],
+    "correctIndex": 0,
+    "explanation": "'soap' means мыло. Example: You can wash the cut with soap and water.",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "20084854d6b1",
+    "question": "Complete the sentence: ___ — Yes, of course.",
+    "options": [
+      "lie on the ground",
+      "a pyramid",
+      "a drama",
+      "Can you help me?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Can you help me?' (Можешь мне помочь?). Full sentence: Can you help me? — Yes, of course.",
+    "relatedRuleIds": [
+      "help"
+    ]
   }
 ]

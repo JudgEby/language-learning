@@ -16,6 +16,31 @@
       "phrase": "sing along",
       "translation": "подпевать",
       "example": "Everyone was singing along."
+    },
+    {
+      "phrase": "play an instrument",
+      "translation": "играть на музыкальном инструменте",
+      "example": "She plays the piano brilliantly, you know."
+    },
+    {
+      "phrase": "put music on (in the background)",
+      "translation": "включать музыку (фоном)",
+      "example": "She likes to put music on in the background when working."
+    },
+    {
+      "phrase": "go to festivals",
+      "translation": "ездить на фестивали",
+      "example": "Although he does not go to festivals, he listens to music at home."
+    },
+    {
+      "phrase": "motivate oneself",
+      "translation": "мотивировать себя",
+      "example": "I listen to rap to motivate myself during exercise."
+    },
+    {
+      "phrase": "sing karaoke",
+      "translation": "петь в караоке",
+      "example": "Have you ever sung karaoke with your friends?"
     }
   ]
 }

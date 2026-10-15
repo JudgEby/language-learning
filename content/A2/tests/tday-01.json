@@ -298,5 +298,125 @@
     "relatedRuleIds": [
       "can-i-have-a-coffee"
     ]
+  },
+  {
+    "id": "11b0247f64a6",
+    "question": "Which word means 'турецкий (о человеке)'?",
+    "options": [
+      "Turkish",
+      "You'd like it because ...",
+      "Could I have ... ?",
+      "a perfect holiday"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Turkish' means турецкий (о человеке). Example: Pide is a food from Turkey — it's Turkish pizza.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "f12517132a07",
+    "question": "Which word means 'забронировать экскурсию'?",
+    "options": [
+      "grow up",
+      "Sorry, I've got a problem.",
+      "book the tour",
+      "be expecting ..."
+    ],
+    "correctIndex": 2,
+    "explanation": "'book the tour' means забронировать экскурсию. Example: Do they book the tour? — Yes, we can book it for you.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "eed24345cf11",
+    "question": "Choose the correct collocation: How are your homes different? How are they similar?",
+    "options": [
+      "in their lifetime",
+      "be different from / be similar to",
+      "a school",
+      "true or false"
+    ],
+    "correctIndex": 1,
+    "explanation": "'be different from / be similar to' (отличаться от / быть похожим на). Full sentence: How are your homes different? How are they similar?",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "8285437e5c45",
+    "question": "Which word means 'миска'?",
+    "options": [
+      "Anything else?",
+      "Halloween",
+      "a bowl",
+      "a sweater"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a bowl' means миска. Example: Put the cornflakes in a bowl.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "26d55f4c5683",
+    "question": "Choose the correct collocation: I like going on holiday in autumn.",
+    "options": [
+      "get cold",
+      "What are their names?",
+      "go on holiday",
+      "a garden"
+    ],
+    "correctIndex": 2,
+    "explanation": "'go on holiday' (ездить в отпуск). Full sentence: I like going on holiday in autumn.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "a19e9985bba9",
+    "question": "Complete the sentence: Is cycling better than driving? — ___",
+    "options": [
+      "a shopping centre",
+      "It depends.",
+      "a bag",
+      "the Roof of the World"
+    ],
+    "correctIndex": 1,
+    "explanation": "'It depends.' (Зависит.). Full sentence: Is cycling better than driving? — It depends.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "e6864ab2d136",
+    "question": "Choose the correct collocation: I don't feel like doing that — it's too cold.",
+    "options": [
+      "I don't feel like doing that.",
+      "nationality",
+      "I'm from ...",
+      "a mosque"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I don't feel like doing that.' (Мне не хочется этого.). Full sentence: I don't feel like doing that — it's too cold.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "75a61f6ac00a",
+    "question": "Which word means 'пирамида'?",
+    "options": [
+      "a pyramid",
+      "be different from",
+      "This is my wife",
+      "send a letter"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a pyramid' means пирамида. Example: We haven't seen the Pyramids of Cairo yet.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
   }
 ]

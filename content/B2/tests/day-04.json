@@ -748,5 +748,215 @@
     "relatedRuleIds": [
       "5D-team-player"
     ]
+  },
+  {
+    "id": "06006ee12182",
+    "question": "Choose the correct collocation: We love sharing our childhood memories at family dinners.",
+    "options": [
+      "out of control",
+      "share childhood memories",
+      "graduate scheme",
+      "have a huge impact on (sth)"
+    ],
+    "correctIndex": 1,
+    "explanation": "'share childhood memories' (делиться детскими воспоминаниями). Full sentence: We love sharing our childhood memories at family dinners.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "fb34fe0f6b6e",
+    "question": "Choose the correct collocation: It took me a while to warm up to her.",
+    "options": [
+      "fond of",
+      "findings",
+      "warm up to (sb)",
+      "encore"
+    ],
+    "correctIndex": 2,
+    "explanation": "'warm up to (sb)' (раскрыться, начать симпатизировать). Full sentence: It took me a while to warm up to her.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "613d84f7d0ed",
+    "question": "Which word means 'безлюдный'?",
+    "options": [
+      "work the room",
+      "deserted",
+      "take risks",
+      "warm up to (sb)"
+    ],
+    "correctIndex": 1,
+    "explanation": "'deserted' means безлюдный. Example: We sat on a deserted beach.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "b66719810f34",
+    "question": "Which word means 'посетитель фестиваля'?",
+    "options": [
+      "sustainable",
+      "act",
+      "festival-goer",
+      "bring back memories"
+    ],
+    "correctIndex": 2,
+    "explanation": "'festival-goer' means посетитель фестиваля. Example: Each festival-goer left rubbish behind.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "9e838e3fadd3",
+    "question": "Which word means 'актёрский состав'?",
+    "options": [
+      "cast",
+      "induction",
+      "on the horizon",
+      "keep mentally active"
+    ],
+    "correctIndex": 0,
+    "explanation": "'cast' means актёрский состав. Example: The cast includes famous actors.",
+    "relatedRuleIds": [
+      "3C-binge-watch"
+    ]
+  },
+  {
+    "id": "44191acaf2af",
+    "question": "Which word means 'благополучие'?",
+    "options": [
+      "put up with (sth)",
+      "curious",
+      "raise awareness",
+      "wellbeing"
+    ],
+    "correctIndex": 3,
+    "explanation": "'wellbeing' means благополучие. Example: Exercise improves your wellbeing.",
+    "relatedRuleIds": [
+      "4A-making-changes"
+    ]
+  },
+  {
+    "id": "168fa47e1205",
+    "question": "Which word means 'сидячий (образ жизни)'?",
+    "options": [
+      "sedentary",
+      "coincidence",
+      "step back in time",
+      "sustainable"
+    ],
+    "correctIndex": 0,
+    "explanation": "'sedentary' means сидячий (образ жизни). Example: A sedentary lifestyle is unhealthy.",
+    "relatedRuleIds": [
+      "4C-keep-moving"
+    ]
+  },
+  {
+    "id": "1c04a43b1640",
+    "question": "Which word means 'сектор'?",
+    "options": [
+      "sector",
+      "keep up my progress",
+      "take breaks",
+      "come up with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'sector' means сектор. Example: The tech sector is growing fast.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "af3c4330c411",
+    "question": "Which word means 'самозанятый'?",
+    "options": [
+      "spacious",
+      "put music on (in the background)",
+      "get to the other side",
+      "self-employed"
+    ],
+    "correctIndex": 3,
+    "explanation": "'self-employed' means самозанятый. Example: I am self-employed, so I work alone.",
+    "relatedRuleIds": [
+      "5D-team-player"
+    ]
+  },
+  {
+    "id": "52186ae52bf5",
+    "question": "Which word means 'выговориться'?",
+    "options": [
+      "get something off your chest",
+      "disappointed",
+      "take the idea seriously",
+      "work out"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get something off your chest' means выговориться. Example: She just needed to get it off her chest.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "d1ba809f1eb5",
+    "question": "Complete the sentence: We met ___ at a gallery.",
+    "options": [
+      "as I say",
+      "get hooked on",
+      "mind you",
+      "by chance"
+    ],
+    "correctIndex": 3,
+    "explanation": "'by chance' (случайно). Full sentence: We met by chance at a gallery.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "9a556ff93e65",
+    "question": "Complete the sentence: Draw a diagram to ___.",
+    "options": [
+      "in order to",
+      "get the information across",
+      "spin-off",
+      "carry on (doing sth)"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get the information across' (донести информацию). Full sentence: Draw a diagram to get the information across.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "0de08910d3c0",
+    "question": "Which word means 'совместное проживание'?",
+    "options": [
+      "get involved",
+      "co-living",
+      "concentration",
+      "have no access to electricity"
+    ],
+    "correctIndex": 1,
+    "explanation": "'co-living' means совместное проживание. Example: Co-living is popular among young professionals.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "5da2f5f3d4d7",
+    "question": "Complete the sentence: He still manages to ___ online.",
+    "options": [
+      "bring back memories",
+      "ritual",
+      "composition",
+      "have a good social life"
+    ],
+    "correctIndex": 3,
+    "explanation": "'have a good social life' (иметь насыщенную социальную жизнь). Full sentence: He still manages to have a good social life online.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
   }
 ]

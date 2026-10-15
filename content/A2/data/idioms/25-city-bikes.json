@@ -1,0 +1,41 @@
+{
+  "lessonId": "city-bikes",
+  "title": "City bikes — идиомы",
+  "items": [
+    {
+      "idiom": "leave the bike at any station",
+      "translation": "оставлять велосипед на любой станции",
+      "example": "You can leave the bike at any station in the city."
+    },
+    {
+      "idiom": "pay by credit card",
+      "translation": "платить картой",
+      "example": "Users pay 300 pesos by credit card for a year."
+    },
+    {
+      "idiom": "go by bike when traffic is bad",
+      "translation": "ехать на велосипеде, когда пробки",
+      "example": "I go by bike when the traffic is bad."
+    },
+    {
+      "idiom": "ride in the middle of traffic",
+      "translation": "ехать посреди потока",
+      "example": "They ride in the middle of the traffic."
+    },
+    {
+      "idiom": "be extra-careful now",
+      "translation": "быть особенно осторожным сейчас",
+      "example": "Drivers have to be extra-careful now."
+    },
+    {
+      "idiom": "go too fast",
+      "translation": "ехать слишком быстро",
+      "example": "Some cyclists go too fast in the city."
+    },
+    {
+      "idiom": "the traffic is almost always bad",
+      "translation": "пробки почти всегда",
+      "example": "In this city the traffic is almost always bad."
+    }
+  ]
+}

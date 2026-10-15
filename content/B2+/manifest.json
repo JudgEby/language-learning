@@ -11,7 +11,15 @@
       "id": "new-friends"
     },
     {
+      "type": "vocabulary",
+      "id": "new-friends"
+    },
+    {
       "type": "phrases",
+      "id": "new-friends"
+    },
+    {
+      "type": "idioms",
       "id": "new-friends"
     },
     {
@@ -23,7 +31,23 @@
       "id": "places"
     },
     {
+      "type": "phrases",
+      "id": "places"
+    },
+    {
+      "type": "idioms",
+      "id": "places"
+    },
+    {
       "type": "rule",
+      "id": "things-we-love"
+    },
+    {
+      "type": "vocabulary",
+      "id": "things-we-love"
+    },
+    {
+      "type": "phrases",
       "id": "things-we-love"
     },
     {
@@ -39,7 +63,23 @@
       "id": "comfort-food"
     },
     {
+      "type": "phrases",
+      "id": "comfort-food"
+    },
+    {
+      "type": "idioms",
+      "id": "comfort-food"
+    },
+    {
       "type": "rule",
+      "id": "getting-away-with-it"
+    },
+    {
+      "type": "vocabulary",
+      "id": "getting-away-with-it"
+    },
+    {
+      "type": "phrases",
       "id": "getting-away-with-it"
     },
     {
@@ -55,11 +95,27 @@
       "id": "friend-or-foe"
     },
     {
+      "type": "phrases",
+      "id": "friend-or-foe"
+    },
+    {
+      "type": "idioms",
+      "id": "friend-or-foe"
+    },
+    {
       "type": "rule",
       "id": "in-the-workplace"
     },
     {
       "type": "vocabulary",
+      "id": "in-the-workplace"
+    },
+    {
+      "type": "phrases",
+      "id": "in-the-workplace"
+    },
+    {
+      "type": "idioms",
       "id": "in-the-workplace"
     },
     {
@@ -71,6 +127,14 @@
       "id": "challenge"
     },
     {
+      "type": "phrases",
+      "id": "challenge"
+    },
+    {
+      "type": "idioms",
+      "id": "challenge"
+    },
+    {
       "type": "rule",
       "id": "fanfiction"
     },
@@ -79,7 +143,23 @@
       "id": "fanfiction"
     },
     {
+      "type": "phrases",
+      "id": "fanfiction"
+    },
+    {
+      "type": "idioms",
+      "id": "fanfiction"
+    },
+    {
       "type": "rule",
+      "id": "street-chatter"
+    },
+    {
+      "type": "vocabulary",
+      "id": "street-chatter"
+    },
+    {
+      "type": "phrases",
       "id": "street-chatter"
     },
     {
@@ -92,6 +172,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "carrot-or-stick"
+    },
+    {
+      "type": "phrases",
+      "id": "carrot-or-stick"
+    },
+    {
+      "type": "idioms",
       "id": "carrot-or-stick"
     },
     {
@@ -100,6 +188,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "role-models"
+    },
+    {
+      "type": "phrases",
+      "id": "role-models"
+    },
+    {
+      "type": "idioms",
       "id": "role-models"
     },
     {
@@ -108,6 +204,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "selfie-expression"
+    },
+    {
+      "type": "phrases",
+      "id": "selfie-expression"
+    },
+    {
+      "type": "idioms",
       "id": "selfie-expression"
     },
     {
@@ -116,6 +220,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "creating-a-brand"
+    },
+    {
+      "type": "phrases",
+      "id": "creating-a-brand"
+    },
+    {
+      "type": "idioms",
       "id": "creating-a-brand"
     },
     {
@@ -124,6 +236,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "presenting-yourself"
+    },
+    {
+      "type": "phrases",
+      "id": "presenting-yourself"
+    },
+    {
+      "type": "idioms",
       "id": "presenting-yourself"
     },
     {
@@ -132,6 +252,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "branding-behaviour"
+    },
+    {
+      "type": "phrases",
+      "id": "branding-behaviour"
+    },
+    {
+      "type": "idioms",
       "id": "branding-behaviour"
     },
     {
@@ -140,6 +268,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "life-changing-decisions"
+    },
+    {
+      "type": "phrases",
+      "id": "life-changing-decisions"
+    },
+    {
+      "type": "idioms",
       "id": "life-changing-decisions"
     },
     {
@@ -148,6 +284,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "conservational-change"
+    },
+    {
+      "type": "phrases",
+      "id": "conservational-change"
+    },
+    {
+      "type": "idioms",
       "id": "conservational-change"
     },
     {
@@ -156,6 +300,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "effecting-change"
+    },
+    {
+      "type": "phrases",
+      "id": "effecting-change"
+    },
+    {
+      "type": "idioms",
       "id": "effecting-change"
     },
     {
@@ -164,6 +316,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "habits"
+    },
+    {
+      "type": "phrases",
+      "id": "habits"
+    },
+    {
+      "type": "idioms",
       "id": "habits"
     },
     {
@@ -172,6 +332,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "algorithm"
+    },
+    {
+      "type": "phrases",
+      "id": "algorithm"
+    },
+    {
+      "type": "idioms",
       "id": "algorithm"
     },
     {
@@ -179,7 +347,15 @@
       "id": "online-blunders"
     },
     {
+      "type": "vocabulary",
+      "id": "online-blunders"
+    },
+    {
       "type": "phrases",
+      "id": "online-blunders"
+    },
+    {
+      "type": "idioms",
       "id": "online-blunders"
     },
     {
@@ -188,6 +364,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "in-dispute"
+    },
+    {
+      "type": "phrases",
+      "id": "in-dispute"
+    },
+    {
+      "type": "idioms",
       "id": "in-dispute"
     },
     {
@@ -196,6 +380,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "tech-fail"
+    },
+    {
+      "type": "phrases",
+      "id": "tech-fail"
+    },
+    {
+      "type": "idioms",
       "id": "tech-fail"
     },
     {
@@ -204,6 +396,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "word-on-the-street"
+    },
+    {
+      "type": "phrases",
+      "id": "word-on-the-street"
+    },
+    {
+      "type": "idioms",
       "id": "word-on-the-street"
     },
     {
@@ -212,6 +412,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "food-fads"
+    },
+    {
+      "type": "phrases",
+      "id": "food-fads"
+    },
+    {
+      "type": "idioms",
       "id": "food-fads"
     },
     {
@@ -220,6 +428,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "pre-loved"
+    },
+    {
+      "type": "phrases",
+      "id": "pre-loved"
+    },
+    {
+      "type": "idioms",
       "id": "pre-loved"
     },
     {
@@ -228,6 +444,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "past-and-present"
+    },
+    {
+      "type": "phrases",
+      "id": "past-and-present"
+    },
+    {
+      "type": "idioms",
       "id": "past-and-present"
     },
     {
@@ -236,6 +460,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "dystopias-utopias"
+    },
+    {
+      "type": "phrases",
+      "id": "dystopias-utopias"
+    },
+    {
+      "type": "idioms",
       "id": "dystopias-utopias"
     },
     {
@@ -244,6 +476,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "science-we-need"
+    },
+    {
+      "type": "phrases",
+      "id": "science-we-need"
+    },
+    {
+      "type": "idioms",
       "id": "science-we-need"
     },
     {
@@ -252,6 +492,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "spend-or-save"
+    },
+    {
+      "type": "phrases",
+      "id": "spend-or-save"
+    },
+    {
+      "type": "idioms",
       "id": "spend-or-save"
     },
     {
@@ -260,6 +508,14 @@
     },
     {
       "type": "vocabulary",
+      "id": "science-fiction"
+    },
+    {
+      "type": "phrases",
+      "id": "science-fiction"
+    },
+    {
+      "type": "idioms",
       "id": "science-fiction"
     }
   ],

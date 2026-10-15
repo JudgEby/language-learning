@@ -26,6 +26,36 @@
       "term": "drowsy",
       "translation": "сонный",
       "example": "I feel drowsy after lunch."
+    },
+    {
+      "term": "nightmare",
+      "translation": "кошмар",
+      "example": "I woke up after having a nightmare."
+    },
+    {
+      "term": "snore",
+      "translation": "храпеть",
+      "example": "My husband says I snore loudly."
+    },
+    {
+      "term": "oversleep",
+      "translation": "проспать",
+      "example": "I oversleep and miss the alarm."
+    },
+    {
+      "term": "heavy sleeper",
+      "translation": "человек с крепким сном",
+      "example": "I'm a heavy sleeper and sleep through noise."
+    },
+    {
+      "term": "deep sleep",
+      "translation": "глубокий сон",
+      "example": "I must have been in a deep sleep."
+    },
+    {
+      "term": "exhausted",
+      "translation": "измотанный",
+      "example": "I feel exhausted after a bad night."
     }
   ]
 }

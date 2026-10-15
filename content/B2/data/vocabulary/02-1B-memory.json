@@ -26,6 +26,36 @@
       "term": "memorable",
       "translation": "запоминающийся",
       "example": "It was a truly memorable experience."
+    },
+    {
+      "term": "childhood memories",
+      "translation": "детские воспоминания",
+      "example": "We often talk about our childhood memories."
+    },
+    {
+      "term": "bring back memories",
+      "translation": "вызывать воспоминания",
+      "example": "That song brings back memories of school."
+    },
+    {
+      "term": "have a good memory",
+      "translation": "иметь хорошую память",
+      "example": "She has a good memory for faces."
+    },
+    {
+      "term": "remember every detail",
+      "translation": "помнить каждую деталь",
+      "example": "He remembers every detail of that day."
+    },
+    {
+      "term": "forgetful",
+      "translation": "забывчивый",
+      "example": "Do you have a good memory or are you forgetful?"
+    },
+    {
+      "term": "visualisation",
+      "translation": "визуализация",
+      "example": "I like using visualisation to remember facts."
     }
   ]
 }

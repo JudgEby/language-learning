@@ -748,5 +748,215 @@
     "relatedRuleIds": [
       "8D-second-shot"
     ]
+  },
+  {
+    "id": "d61a5279b800",
+    "question": "Which word means 'кратковременная память'?",
+    "options": [
+      "melody",
+      "short-term memory",
+      "vigorous exercise",
+      "get advice"
+    ],
+    "correctIndex": 1,
+    "explanation": "'short-term memory' means кратковременная память. Example: Phone numbers are often in short-term memory.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "3228a3c160a1",
+    "question": "Which word means 'беззаботный'?",
+    "options": [
+      "spacious",
+      "share accomplishments",
+      "engagement",
+      "happy-go-lucky"
+    ],
+    "correctIndex": 3,
+    "explanation": "'happy-go-lucky' means беззаботный. Example: I'd love to be more happy-go-lucky.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "242a0b4876fc",
+    "question": "Complete the sentence: She is the kind of person who just has to ___.",
+    "options": [
+      "ingredient",
+      "keep moving",
+      "the grass is always greener",
+      "global warming"
+    ],
+    "correctIndex": 1,
+    "explanation": "'keep moving' (продолжать двигаться, не останавливаться). Full sentence: She is the kind of person who just has to keep moving.",
+    "relatedRuleIds": [
+      "2C-amazing-lives"
+    ]
+  },
+  {
+    "id": "e7d7773a3768",
+    "question": "Which word means 'соответствовать ожиданиям'?",
+    "options": [
+      "biodiversity",
+      "woodland",
+      "in order to",
+      "live up to"
+    ],
+    "correctIndex": 3,
+    "explanation": "'live up to' means соответствовать ожиданиям. Example: The show didn't live up to my expectations.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "6ae51eae61fb",
+    "question": "Which word means 'джаз'?",
+    "options": [
+      "mute",
+      "jazz",
+      "surgeon",
+      "rental contract"
+    ],
+    "correctIndex": 1,
+    "explanation": "'jazz' means джаз. Example: Some people find jazz hard to understand.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "4d550bc99277",
+    "question": "Which word means 'проспать'?",
+    "options": [
+      "lead a double life",
+      "oversleep",
+      "get something off your chest",
+      "craftsmanship"
+    ],
+    "correctIndex": 1,
+    "explanation": "'oversleep' means проспать. Example: I oversleep and miss the alarm.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "9bbdd11405f0",
+    "question": "Which word means 'окно возможностей'?",
+    "options": [
+      "window of opportunity",
+      "carbon-neutral",
+      "meet-and-greet",
+      "fond of"
+    ],
+    "correctIndex": 0,
+    "explanation": "'window of opportunity' means окно возможностей. Example: The window of opportunity is short.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "febb25124430",
+    "question": "Choose the correct collocation: Keep your camera turned on during the call.",
+    "options": [
+      "tenant",
+      "keep your camera turned on",
+      "get to the other side",
+      "training session"
+    ],
+    "correctIndex": 1,
+    "explanation": "'keep your camera turned on' (держать камеру включённой). Full sentence: Keep your camera turned on during the call.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "df3ab18412fe",
+    "question": "Which word means 'ненужный'?",
+    "options": [
+      "nomadic",
+      "training session",
+      "unnecessary",
+      "get out of homelessness"
+    ],
+    "correctIndex": 2,
+    "explanation": "'unnecessary' means ненужный. Example: Switch off unnecessary notifications.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "d0be4145368f",
+    "question": "Which word means 'заметь, учти'?",
+    "options": [
+      "mind you",
+      "have a big heart",
+      "delegate",
+      "mission"
+    ],
+    "correctIndex": 0,
+    "explanation": "'mind you' means заметь, учти. Example: Mind you, it is not easy.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "199c3c8bb39f",
+    "question": "Complete the sentence: Nobody wants to ___.",
+    "options": [
+      "switch off your phone",
+      "happy-go-lucky",
+      "ritual",
+      "live with regret"
+    ],
+    "correctIndex": 3,
+    "explanation": "'live with regret' (жить с сожалением). Full sentence: Nobody wants to live with regret.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "971ff774f90b",
+    "question": "Choose the correct collocation: She excels at languages thanks to daily practice.",
+    "options": [
+      "vigorous exercise",
+      "self-employed",
+      "time travel",
+      "excel at something"
+    ],
+    "correctIndex": 3,
+    "explanation": "'excel at something' (преуспевать в чём-то). Full sentence: She excels at languages thanks to daily practice.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "273019ca33a3",
+    "question": "Complete the sentence: Unless we ___, these languages will die.",
+    "options": [
+      "expand your horizons",
+      "civilisation",
+      "make an effort",
+      "plot twist"
+    ],
+    "correctIndex": 2,
+    "explanation": "'make an effort' (прилагать усилия). Full sentence: Unless we make an effort, these languages will die.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "bb6c2b69f36d",
+    "question": "Choose the correct collocation: Training helped him get his life back together.",
+    "options": [
+      "composition",
+      "get your life back together",
+      "make small talk",
+      "initiative"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get your life back together' (наладить свою жизнь). Full sentence: Training helped him get his life back together.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
   }
 ]

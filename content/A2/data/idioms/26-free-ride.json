@@ -1,0 +1,41 @@
+{
+  "lessonId": "free-ride",
+  "title": "Free ride — идиомы",
+  "items": [
+    {
+      "idiom": "sleep in your car",
+      "translation": "спать в машине",
+      "example": "You can't sleep in your car in some cities."
+    },
+    {
+      "idiom": "use your mobile on the flight",
+      "translation": "пользоваться телефоном в полёте",
+      "example": "On some airlines you can use your mobile on the flight."
+    },
+    {
+      "idiom": "travel on the outside of trains",
+      "translation": "ездить снаружи поездов",
+      "example": "In Bangladesh passengers travel on the outside of trains."
+    },
+    {
+      "idiom": "women-only carriages",
+      "translation": "вагоны только для женщин",
+      "example": "In Japan there are women-only carriages on some trains."
+    },
+    {
+      "idiom": "In my country you can't hitchhike",
+      "translation": "В моей стране нельзя ездить автостопом",
+      "example": "In my country you can't hitchhike at all."
+    },
+    {
+      "idiom": "put it in a short phrase",
+      "translation": "записывать слово в короткой фразе",
+      "example": "Put a new noun in a short phrase in your notebook."
+    },
+    {
+      "idiom": "guess the question",
+      "translation": "угадывать вопрос",
+      "example": "Close your book and guess the question."
+    }
+  ]
+}

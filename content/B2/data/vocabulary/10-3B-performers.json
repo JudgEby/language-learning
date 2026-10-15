@@ -26,6 +26,36 @@
       "term": "encore",
       "translation": "на бис",
       "example": "The crowd demanded an encore."
+    },
+    {
+      "term": "carry on",
+      "translation": "продолжать",
+      "example": "Just carry on and hope they stop."
+    },
+    {
+      "term": "come up with",
+      "translation": "придумывать",
+      "example": "She came up with loads of jokes."
+    },
+    {
+      "term": "live up to",
+      "translation": "соответствовать ожиданиям",
+      "example": "The show didn't live up to my expectations."
+    },
+    {
+      "term": "put up with",
+      "translation": "мириться",
+      "example": "Sorry you had to put up with a heckler."
+    },
+    {
+      "term": "end up",
+      "translation": "оказаться в итоге",
+      "example": "I ended up running off stage."
+    },
+    {
+      "term": "fall back on",
+      "translation": "полагаться на запасной вариант",
+      "example": "You have experience to fall back on."
     }
   ]
 }

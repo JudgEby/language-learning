@@ -2,6 +2,40 @@
   "lessonId": "how-are-you-feeling",
   "title": "How are you feeling? — идиомы",
   "items": [
-    { "idiom": "under the weather", "translation": "нездоровится, приболеть", "example": "I'm feeling a bit under the weather today, so I'll work from home." }
+    {
+      "idiom": "under the weather",
+      "translation": "нездоровится, приболеть",
+      "example": "I'm feeling a bit under the weather today, so I'll work from home."
+    },
+    {
+      "idiom": "go to the doctor",
+      "translation": "идти к врачу",
+      "example": "Men are less likely to go to the doctor than women."
+    },
+    {
+      "idiom": "hate waiting",
+      "translation": "ненавидеть ожидание",
+      "example": "I hate waiting, so I do not go to the doctor."
+    },
+    {
+      "idiom": "catch a cold",
+      "translation": "простудиться",
+      "example": "You have caught a cold, so get some rest."
+    },
+    {
+      "idiom": "break your arm",
+      "translation": "сломать руку",
+      "example": "You have broken your arm, so go to the hospital for an X-ray."
+    },
+    {
+      "idiom": "take some medicine",
+      "translation": "принять лекарство",
+      "example": "Take some medicine and drink lots of hot drinks."
+    },
+    {
+      "idiom": "get some rest and drink lots of hot drinks",
+      "translation": "отдохнуть и пить много горячих напитков",
+      "example": "Get some rest and drink lots of hot drinks this weekend."
+    }
   ]
 }

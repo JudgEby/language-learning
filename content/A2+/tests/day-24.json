@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "the-future-of-food"
     ]
+  },
+  {
+    "question": "Complete the sentence: ___. Would you like to hold?",
+    "options": [
+      "There was a traffic jam so we missed the flight.",
+      "disappointed",
+      "You mustn't…",
+      "I'm afraid the line is busy"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'm afraid the line is busy' (Боюсь, линия занята). Full sentence: I'm afraid the line is busy. Would you like to hold?",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ],
+    "id": "77c8e6d69d9f"
+  },
+  {
+    "question": "Complete the sentence: ___",
+    "options": [
+      "I set an alarm so that I wouldn't oversleep.",
+      "I'm broke.",
+      "hang up",
+      "Let me know if you need anything"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I set an alarm so that I wouldn't oversleep.' (Я поставил будильник, чтобы не проспать.). Full sentence: I set an alarm so that I wouldn't oversleep.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ],
+    "id": "1c7581ab2997"
+  },
+  {
+    "question": "Which word means 'вложение'?",
+    "options": [
+      "attachment",
+      "I've already...",
+      "entertainment",
+      "I didn't use to like spicy food."
+    ],
+    "correctIndex": 0,
+    "explanation": "'attachment' means вложение. Example: I can't open the attachment you sent.",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ],
+    "id": "b51665557507"
   }
 ]

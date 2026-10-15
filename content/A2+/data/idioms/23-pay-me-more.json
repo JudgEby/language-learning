@@ -1,0 +1,41 @@
+{
+  "lessonId": "pay-me-more",
+  "title": "Pay me more — деньги и оплата труда",
+  "items": [
+    {
+      "idiom": "be paid more",
+      "translation": "получать больше",
+      "example": "They should be paid more for their difficult work."
+    },
+    {
+      "idiom": "make so much money",
+      "translation": "зарабатывать так много денег",
+      "example": "Why do high earners make so much money?"
+    },
+    {
+      "idiom": "do extra work",
+      "translation": "выполнять дополнительную работу",
+      "example": "Too many of us do extra work like cleaning."
+    },
+    {
+      "idiom": "apply for grants",
+      "translation": "подавать заявки на гранты",
+      "example": "Scientists spend too much time applying for grants."
+    },
+    {
+      "idiom": "make the best argument for more money",
+      "translation": "привести лучший довод в пользу повышения зарплаты",
+      "example": "Who makes the best argument for more money?"
+    },
+    {
+      "idiom": "take over the company",
+      "translation": "возглавить компанию",
+      "example": "We expected things to change after we took over the company."
+    },
+    {
+      "idiom": "turn the living room into a war zone",
+      "translation": "превратить гостиную в поле боя",
+      "example": "The dog turned the living room into a war zone."
+    }
+  ]
+}

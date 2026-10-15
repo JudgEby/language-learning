@@ -343,5 +343,65 @@
     "relatedRuleIds": [
       "role-models"
     ]
+  },
+  {
+    "question": "Complete the sentence: Would you rather fly a plane or ___?",
+    "options": [
+      "neglected",
+      "parachute out of a plane",
+      "no matter what time",
+      "poet"
+    ],
+    "correctIndex": 1,
+    "explanation": "'parachute out of a plane' (прыгнуть с парашютом). Full sentence: Would you rather fly a plane or parachute out of a plane?",
+    "relatedRuleIds": [
+      "things-we-love"
+    ],
+    "id": "456dcb334194"
+  },
+  {
+    "question": "Choose the correct collocation: Active listening shows you are listening to ideas.",
+    "options": [
+      "relate to",
+      "show you are listening",
+      "on an almost yearly basis",
+      "use a similar approach"
+    ],
+    "correctIndex": 1,
+    "explanation": "'show you are listening' (показывать, что слушаешь). Full sentence: Active listening shows you are listening to ideas.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ],
+    "id": "61f78d931ca3"
+  },
+  {
+    "question": "Which word means 'среда обитания'?",
+    "options": [
+      "nostalgia",
+      "referee",
+      "change the world",
+      "habitat"
+    ],
+    "correctIndex": 3,
+    "explanation": "'habitat' means среда обитания. Example: Deforestation destroys the natural habitat of countless animals.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ],
+    "id": "70bf5b873b89"
+  },
+  {
+    "question": "Which word means 'сдвиг, переход'?",
+    "options": [
+      "unskilled",
+      "shift",
+      "different from other products",
+      "push beyond limits"
+    ],
+    "correctIndex": 1,
+    "explanation": "'shift' means сдвиг, переход. Example: We've had the shift from eating at the table to eating in front of the TV.",
+    "relatedRuleIds": [
+      "food-fads"
+    ],
+    "id": "3e3c9ab37372"
   }
 ]

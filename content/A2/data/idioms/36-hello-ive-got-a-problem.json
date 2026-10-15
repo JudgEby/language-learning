@@ -1,0 +1,41 @@
+{
+  "lessonId": "hello-ive-got-a-problem",
+  "title": "Hello, I've got a problem — идиомы",
+  "items": [
+    {
+      "idiom": "Is Kevin there?",
+      "translation": "Кевин там?",
+      "example": "Hi, Sean. It's Debbie. Is Kevin there?"
+    },
+    {
+      "idiom": "He went out ten minutes ago",
+      "translation": "Он вышел десять минут назад",
+      "example": "He's not here. He went out ten minutes ago."
+    },
+    {
+      "idiom": "ask him to call me",
+      "translation": "попросить его перезвонить мне",
+      "example": "Just ask him to call me this evening."
+    },
+    {
+      "idiom": "give me the number",
+      "translation": "назвать мне номер",
+      "example": "Could you give me the number there?"
+    },
+    {
+      "idiom": "That's right",
+      "translation": "Верно",
+      "example": "34 91 308 5238. That's right."
+    },
+    {
+      "idiom": "lock yourself out of your house",
+      "translation": "остаться без ключей перед своим домом",
+      "example": "Have you ever locked yourself out of your house?"
+    },
+    {
+      "idiom": "get lost in a city",
+      "translation": "заблудиться в городе",
+      "example": "Have you ever got lost in a new city?"
+    }
+  ]
+}

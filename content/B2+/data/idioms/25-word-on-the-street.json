@@ -1,0 +1,81 @@
+{
+  "lessonId": "word-on-the-street",
+  "title": "7A The Word on the Street — Идиомы: слухи и разговоры",
+  "items": [
+    {
+      "idiom": "word of mouth",
+      "translation": "сарафанное радио",
+      "example": "News of the new slang spread by word of mouth."
+    },
+    {
+      "idiom": "hear through the grapevine",
+      "translation": "услышать через слухи",
+      "example": "I heard through the grapevine that they are changing the logo."
+    },
+    {
+      "idiom": "the talk of the town",
+      "translation": "притча во языцех",
+      "example": "The emoji debate became the talk of the town."
+    },
+    {
+      "idiom": "on everyone's lips",
+      "translation": "у всех на устах",
+      "example": "The new buzzword is on everyone's lips."
+    },
+    {
+      "idiom": "lost in translation",
+      "translation": "потеряно при переводе",
+      "example": "The joke was lost in translation between the two phones."
+    },
+    {
+      "idiom": "read between the lines",
+      "translation": "читать между строк",
+      "example": "Read between the lines: she is not really joking."
+    },
+    {
+      "idiom": "take at face value",
+      "translation": "принимать за чистую монету",
+      "example": "Don't take every message at face value."
+    },
+    {
+      "idiom": "actions speak louder than words",
+      "translation": "дела говорят громче слов",
+      "example": "He says he cares, but actions speak louder than words."
+    },
+    {
+      "idiom": "get the message across",
+      "translation": "донести мысль",
+      "example": "Emojis don't always get the message across."
+    },
+    {
+      "idiom": "straight from the horse's mouth",
+      "translation": "из первых рук",
+      "example": "I heard it straight from the horse's mouth."
+    },
+    {
+      "idiom": "catch on",
+      "translation": "прижиться, стать популярным",
+      "example": "The new expression quickly caught on."
+    },
+    {
+      "idiom": "coin a term",
+      "translation": "придумать термин",
+      "example": "Journalists coined a term for the trend."
+    },
+    {
+      "idiom": "a play on words",
+      "translation": "игра слов",
+      "example": "The headline is a clever play on words."
+    },
+    {
+      "idiom": "have the last word",
+      "translation": "оставить последнее слово за собой",
+      "example": "She always has to have the last word."
+    },
+    {
+      "idiom": "say a lot about",
+      "translation": "многое говорить о",
+      "example": "Your emojis say a lot about you."
+    }
+  ]
+}

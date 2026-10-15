@@ -1,0 +1,41 @@
+{
+  "lessonId": "hidden-talent",
+  "title": "Hidden talent — идиомы",
+  "items": [
+    {
+      "idiom": "make friends with someone from another country",
+      "translation": "подружиться с кем-то из другой страны",
+      "example": "Have you ever made friends with someone from another country?"
+    },
+    {
+      "idiom": "make a meal for eight people",
+      "translation": "приготовить еду на восемь человек",
+      "example": "She once made a meal for more than eight people."
+    },
+    {
+      "idiom": "make a phone call in a foreign language",
+      "translation": "позвонить на иностранном языке",
+      "example": "Have you ever made a phone call in a foreign language?"
+    },
+    {
+      "idiom": "do a project with a big team",
+      "translation": "делать проект с большой командой",
+      "example": "We did a project with a big team last year."
+    },
+    {
+      "idiom": "do well in an exam",
+      "translation": "хорошо сдать экзамен",
+      "example": "She always does well in exams because she practises a lot."
+    },
+    {
+      "idiom": "do sums in your head",
+      "translation": "считать в уме",
+      "example": "I am good with numbers and can do sums in my head."
+    },
+    {
+      "idiom": "practise on your own",
+      "translation": "тренироваться самостоятельно",
+      "example": "I listen carefully and practise on my own every day."
+    }
+  ]
+}

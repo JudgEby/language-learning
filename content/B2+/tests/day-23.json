@@ -358,5 +358,65 @@
     "relatedRuleIds": [
       "in-dispute"
     ]
+  },
+  {
+    "question": "Complete the sentence: Cooperation allows firms to ___.",
+    "options": [
+      "grow their markets",
+      "in real time",
+      "no matter what",
+      "input the data"
+    ],
+    "correctIndex": 0,
+    "explanation": "'grow their markets' (расширять свои рынки). Full sentence: Cooperation allows firms to grow their markets.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ],
+    "id": "93da77d2759c"
+  },
+  {
+    "question": "Complete the sentence: Different groups were asked to ___.",
+    "options": [
+      "analyse",
+      "use a similar approach",
+      "think something over",
+      "relate to"
+    ],
+    "correctIndex": 1,
+    "explanation": "'use a similar approach' (использовать похожий подход). Full sentence: Different groups were asked to use a similar approach.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ],
+    "id": "96a70b3b0cd7"
+  },
+  {
+    "question": "Which word means 'усиливать, подкреплять'?",
+    "options": [
+      "reinforce",
+      "loss of habitat",
+      "manipulation",
+      "party with"
+    ],
+    "correctIndex": 0,
+    "explanation": "'reinforce' means усиливать, подкреплять. Example: The algorithm will then reinforce the prejudice.",
+    "relatedRuleIds": [
+      "algorithm"
+    ],
+    "id": "4a485abe5c54"
+  },
+  {
+    "question": "Which word means 'стремиться'?",
+    "options": [
+      "aspire",
+      "make mistakes",
+      "discounted",
+      "save"
+    ],
+    "correctIndex": 0,
+    "explanation": "'aspire' means стремиться. Example: We should aspire to create a world where everyone has access to education.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ],
+    "id": "7d76b1901c93"
   }
 ]

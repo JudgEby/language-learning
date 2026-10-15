@@ -313,5 +313,65 @@
     "relatedRuleIds": [
       "habits"
     ]
+  },
+  {
+    "question": "Which word means 'маскировка; маскировать'?",
+    "options": [
+      "disguise",
+      "associate with feeling relaxed",
+      "physical and mental well-being",
+      "cause harm to wildlife"
+    ],
+    "correctIndex": 0,
+    "explanation": "'disguise' means маскировка; маскировать. Example: She put on lots of make-up to disguise her face.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ],
+    "id": "52b7677a1337"
+  },
+  {
+    "question": "Complete the sentence: The rules should be clear, but ___.",
+    "options": [
+      "found a way around the issue",
+      "add false information",
+      "This isn't really acceptable",
+      "check if in doubt"
+    ],
+    "correctIndex": 3,
+    "explanation": "'check if in doubt' (проверять, если сомневаешься). Full sentence: The rules should be clear, but check if in doubt.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ],
+    "id": "d9a373b94fc8"
+  },
+  {
+    "question": "Which word means 'придерживаться, не отступать'?",
+    "options": [
+      "stick to",
+      "drain",
+      "teleport",
+      "go off track"
+    ],
+    "correctIndex": 0,
+    "explanation": "'stick to' means придерживаться, не отступать. Example: It's hard to stick to a new routine.",
+    "relatedRuleIds": [
+      "habits"
+    ],
+    "id": "e060a1699fdf"
+  },
+  {
+    "question": "Which word means 'яркий, отчётливый'?",
+    "options": [
+      "vivid",
+      "in exactly the same order",
+      "meaning",
+      "chemical changes in brains"
+    ],
+    "correctIndex": 0,
+    "explanation": "'vivid' means яркий, отчётливый. Example: The memory is still very vivid after all these years.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ],
+    "id": "74993f9b22dd"
   }
 ]

@@ -16,6 +16,31 @@
       "phrase": "a thing of the past",
       "translation": "пережиток прошлого",
       "example": "Handwritten letters are becoming a thing of the past."
+    },
+    {
+      "phrase": "go back in time",
+      "translation": "отправиться назад во времени",
+      "example": "They go back in time and meet van Gogh in a cafe."
+    },
+    {
+      "phrase": "the wonders of (sth)",
+      "translation": "чудеса (чего-то)",
+      "example": "He talks about the wonders of the universe."
+    },
+    {
+      "phrase": "be careful with (sth)",
+      "translation": "быть осторожным с (чем-то)",
+      "example": "You should be careful with these old paintings."
+    },
+    {
+      "phrase": "with that in mind",
+      "translation": "учитывая это",
+      "example": "With that in mind, I would visit ancient Rome first."
+    },
+    {
+      "phrase": "last but not least",
+      "translation": "последнее, но не менее важное",
+      "example": "And last but not least, I would meet my favourite writer."
     }
   ]
 }

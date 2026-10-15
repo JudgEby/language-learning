@@ -16,6 +16,31 @@
       "phrase": "on the horizon",
       "translation": "на горизонте, впереди",
       "example": "Major changes are on the horizon."
+    },
+    {
+      "phrase": "spend money on (sth)",
+      "translation": "тратить деньги на (что-то)",
+      "example": "Tech companies are spending a lot of money on VR."
+    },
+    {
+      "phrase": "reduce stress",
+      "translation": "снижать стресс",
+      "example": "Using VR can help reduce stress after work."
+    },
+    {
+      "phrase": "predict health issues",
+      "translation": "предсказывать проблемы со здоровьем",
+      "example": "Doctors will use VR to predict health issues."
+    },
+    {
+      "phrase": "give up (sth)",
+      "translation": "отказываться от (чего-то)",
+      "example": "He decided to give up meat for health reasons."
+    },
+    {
+      "phrase": "socialise in virtual spaces",
+      "translation": "общаться в виртуальных пространствах",
+      "example": "Former office workers will meet and socialise in virtual spaces."
     }
   ]
 }

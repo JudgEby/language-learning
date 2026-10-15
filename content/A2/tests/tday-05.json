@@ -298,5 +298,125 @@
     "relatedRuleIds": [
       "are-you-ready-to-order"
     ]
+  },
+  {
+    "id": "b76888c896a9",
+    "question": "Which word means 'паспорт'?",
+    "options": [
+      "once a week",
+      "I'm afraid I didn't hear ...",
+      "leave from",
+      "a passport"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a passport' means паспорт. Example: These are important, so keep your passport in a pocket.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "1e8351eddab0",
+    "question": "Which word means 'племянник / племянница'?",
+    "options": [
+      "move house",
+      "start a company",
+      "a nephew / a niece",
+      "be similar to"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a nephew / a niece' means племянник / племянница. Example: Andreas and they have got a daughter, Eva, and two sons.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "0a46e5cac361",
+    "question": "Choose the correct collocation: There's a café next to the station.",
+    "options": [
+      "be in a film",
+      "there's no ...",
+      "next to / near",
+      "go to work"
+    ],
+    "correctIndex": 2,
+    "explanation": "'next to / near' (рядом с / недалеко от). Full sentence: There's a café next to the station.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "ac3688637910",
+    "question": "Which word means 'родиться'?",
+    "options": [
+      "a sci-fi film",
+      "be born",
+      "check your email",
+      "listen to music"
+    ],
+    "correctIndex": 1,
+    "explanation": "'be born' means родиться. Example: Were you born in this country? — Yes, I was.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "702a886fdb60",
+    "question": "Complete the sentence: They cycle across the Pamirs, ___.",
+    "options": [
+      "a club",
+      "kind",
+      "the Roof of the World",
+      "a main course"
+    ],
+    "correctIndex": 2,
+    "explanation": "'the Roof of the World' (Крыша мира). Full sentence: They cycle across the Pamirs, the Roof of the World.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "c48232f3776e",
+    "question": "Which word means 'путешествовать автостопом'?",
+    "options": [
+      "hitchhike",
+      "I'll make you a sandwich.",
+      "a text message",
+      "a bottle of ..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'hitchhike' means путешествовать автостопом. Example: In Cuba all government cars have to pick up hitchhikers.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "c1c2a44bad75",
+    "question": "Which word means 'плохо себя чувствовать'?",
+    "options": [
+      "once a week",
+      "Maybe it's ...",
+      "not feel well",
+      "I'll let you know what happens"
+    ],
+    "correctIndex": 2,
+    "explanation": "'not feel well' means плохо себя чувствовать. Example: I don't feel well today — I think I've got flu.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "600046316b99",
+    "question": "Which word means 'быть вне (дома/офиса)'?",
+    "options": [
+      "be out",
+      "We'd like to ...",
+      "in her first year as a ...",
+      "the worst time to travel"
+    ],
+    "correctIndex": 0,
+    "explanation": "'be out' means быть вне (дома/офиса). Example: He went out about ten minutes ago.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
   }
 ]

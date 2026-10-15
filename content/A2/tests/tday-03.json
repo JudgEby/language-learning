@@ -298,5 +298,125 @@
     "relatedRuleIds": [
       "are-you-free-tonight"
     ]
+  },
+  {
+    "id": "b4bdcf7882b6",
+    "question": "Complete the sentence: Hi, Zofia. ___.",
+    "options": [
+      "try to be healthy",
+      "do homework",
+      "It's on your right / left.",
+      "Nice to meet you"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Nice to meet you' (Приятно познакомиться). Full sentence: Hi, Zofia. Nice to meet you.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "921d5d648225",
+    "question": "Choose the correct collocation: They're great parents — they really love their big family.",
+    "options": [
+      "Could you ring me back?",
+      "friendly",
+      "litre",
+      "be great parents"
+    ],
+    "correctIndex": 3,
+    "explanation": "'be great parents' (быть хорошими родителями). Full sentence: They're great parents — they really love their big family.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "db627c0f929c",
+    "question": "Which word means 'супермаркет'?",
+    "options": [
+      "a souvenir",
+      "an action film",
+      "a supermarket",
+      "Stop at ..."
+    ],
+    "correctIndex": 2,
+    "explanation": "'a supermarket' means супермаркет. Example: You can buy food at a supermarket.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "ac852db34831",
+    "question": "Which word means 'прошлой ночью'?",
+    "options": [
+      "an electric car",
+      "Don't let it happen again.",
+      "go home",
+      "last night"
+    ],
+    "correctIndex": 3,
+    "explanation": "'last night' means прошлой ночью. Example: I was at home last night.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "6ccd8414fcac",
+    "question": "Which word means 'известное здание'?",
+    "options": [
+      "childhood",
+      "as ... as",
+      "fast food",
+      "a famous building"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a famous building' means известное здание. Example: Along the way there are ancient buildings and famous monuments.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "ecb38da100ba",
+    "question": "Which word means 'сесть в / выйти из'?",
+    "options": [
+      "be good at",
+      "a blind person",
+      "Go straight on.",
+      "get into / out of"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get into / out of' means сесть в / выйти из. Example: You get into a car and a taxi, and you get out of a train.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "de2efa014c6d",
+    "question": "Which word means 'антибиотики'?",
+    "options": [
+      "What do you recommend?",
+      "a post office",
+      "make-up",
+      "antibiotics"
+    ],
+    "correctIndex": 3,
+    "explanation": "'antibiotics' means антибиотики. Example: You shouldn't take antibiotics for a cold.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "a37d4d1f4efa",
+    "question": "Which word means 'У меня проблема'?",
+    "options": [
+      "a platform",
+      "keys",
+      "I've got a problem",
+      "Have you ever ...?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I've got a problem' means У меня проблема. Example: Hello, this is Alan Simpson. I've got a problem.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
   }
 ]

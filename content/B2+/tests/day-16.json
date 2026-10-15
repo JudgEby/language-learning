@@ -343,5 +343,65 @@
     "relatedRuleIds": [
       "branding-behaviour"
     ]
+  },
+  {
+    "question": "Which word means 'лакомство, угощение'?",
+    "options": [
+      "treat",
+      "get on well with colleagues",
+      "chocoholic",
+      "goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "'treat' means лакомство, угощение. Example: Chocolate has always been seen as a treat, especially for children.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ],
+    "id": "178c4e5c183f"
+  },
+  {
+    "question": "Choose the correct collocation: His parents were there for him when problems appeared.",
+    "options": [
+      "first week of university",
+      "disable",
+      "surge",
+      "be there for someone"
+    ],
+    "correctIndex": 3,
+    "explanation": "'be there for someone' (быть рядом с кем-то). Full sentence: His parents were there for him when problems appeared.",
+    "relatedRuleIds": [
+      "role-models"
+    ],
+    "id": "2a818ca27bf2"
+  },
+  {
+    "question": "Which word means 'токсины'?",
+    "options": [
+      "market to tourists",
+      "derive",
+      "toxins",
+      "on a practical level"
+    ],
+    "correctIndex": 2,
+    "explanation": "'toxins' means токсины. Example: Harmful greenhouse gases and toxins pollute the air.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ],
+    "id": "5edc771ea5ac"
+  },
+  {
+    "question": "Which word means 'неряшливый, неопрятный'?",
+    "options": [
+      "hate missing deadlines",
+      "dull rainy afternoon",
+      "scruffy",
+      "produce energy cleanly"
+    ],
+    "correctIndex": 2,
+    "explanation": "'scruffy' means неряшливый, неопрятный. Example: Her scruffy jeans were covered in paint stains.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ],
+    "id": "392f26d9338c"
   }
 ]

@@ -1,0 +1,41 @@
+{
+  "lessonId": "green-living",
+  "title": "Green living — экологичная жизнь",
+  "items": [
+    {
+      "idiom": "work together",
+      "translation": "работать вместе",
+      "example": "Children and adults work together to build schools."
+    },
+    {
+      "idiom": "produce electricity",
+      "translation": "производить электричество",
+      "example": "People dancing produce electricity in the eco-nightclub."
+    },
+    {
+      "idiom": "get in free",
+      "translation": "пройти бесплатно",
+      "example": "If you walk to the club, you can get in free."
+    },
+    {
+      "idiom": "build schools in developing countries",
+      "translation": "строить школы в развивающихся странах",
+      "example": "The project uses plastic boxes to build schools in developing countries."
+    },
+    {
+      "idiom": "swim in the ocean",
+      "translation": "плавать в океане",
+      "example": "In Sydney you can swim in the Pacific Ocean."
+    },
+    {
+      "idiom": "climb a mountain",
+      "translation": "взбираться на гору",
+      "example": "Have you ever climbed a mountain?"
+    },
+    {
+      "idiom": "walk in a desert or a rainforest",
+      "translation": "гулять по пустыне или тропическому лесу",
+      "example": "Have you ever walked in a desert or a rainforest?"
+    }
+  ]
+}

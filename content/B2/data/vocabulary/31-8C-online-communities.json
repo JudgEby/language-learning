@@ -26,6 +26,36 @@
       "term": "anonymous",
       "translation": "анонимный",
       "example": "Users can post anonymously."
+    },
+    {
+      "term": "on the whole",
+      "translation": "в целом",
+      "example": "On the whole, people have few local friends."
+    },
+    {
+      "term": "in order to",
+      "translation": "чтобы, с целью",
+      "example": "In order to help, they met in the morning."
+    },
+    {
+      "term": "by far",
+      "translation": "безусловно, намного",
+      "example": "By far the best way is teamwork."
+    },
+    {
+      "term": "at the same time",
+      "translation": "в то же время",
+      "example": "At the same time, they stayed in touch."
+    },
+    {
+      "term": "in fact",
+      "translation": "на самом деле",
+      "example": "In fact, the work was already done."
+    },
+    {
+      "term": "out of control",
+      "translation": "из-под контроля",
+      "example": "They feared things would get out of control."
     }
   ]
 }

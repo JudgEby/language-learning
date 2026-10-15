@@ -1,0 +1,96 @@
+{
+  "lessonId": "tech-fail",
+  "title": "6D Tech Fail — Технологии в деле",
+  "items": [
+    {
+      "phrase": "battery runs out quickly",
+      "translation": "батарея быстро садится",
+      "example": "My phone battery runs out quickly when I use maps."
+    },
+    {
+      "phrase": "devices won't connect",
+      "translation": "устройства не подключаются",
+      "example": "Our devices won't connect to the office wi-fi today."
+    },
+    {
+      "phrase": "forgotten password",
+      "translation": "забытый пароль",
+      "example": "A forgotten password is the most annoying tech problem for me."
+    },
+    {
+      "phrase": "pop-up ads",
+      "translation": "всплывающие объявления",
+      "example": "Pop-up ads keep covering the text I am trying to read."
+    },
+    {
+      "phrase": "slow internet connection",
+      "translation": "медленное соединение",
+      "example": "A slow internet connection ruins every video call."
+    },
+    {
+      "phrase": "spam in your inbox",
+      "translation": "спам во входящих",
+      "example": "Spam in your inbox wastes time every morning."
+    },
+    {
+      "phrase": "print anywhere in the building",
+      "translation": "печатать где угодно в здании",
+      "example": "The system lets you print anywhere in the building."
+    },
+    {
+      "phrase": "shake hands (devices)",
+      "translation": "обмениваться данными (об устройствах)",
+      "example": "The devices shake hands and share files when they are close."
+    },
+    {
+      "phrase": "share information",
+      "translation": "делиться информацией",
+      "example": "The system allows devices to share information wirelessly."
+    },
+    {
+      "phrase": "integrated software system",
+      "translation": "интегрированная система",
+      "example": "They launched a new integrated software system for the office."
+    },
+    {
+      "phrase": "virtual PA",
+      "translation": "виртуальный помощник",
+      "example": "Welcome to your virtual PA, one unified system for everything."
+    },
+    {
+      "phrase": "changes the game",
+      "translation": "меняет правила игры",
+      "example": "One unified system that really changes the game."
+    },
+    {
+      "phrase": "print a document",
+      "translation": "распечатать документ",
+      "example": "Please print a document on paper for the meeting."
+    },
+    {
+      "phrase": "adjust your settings",
+      "translation": "настроить параметры",
+      "example": "Adjust your settings so the volume works how you want."
+    },
+    {
+      "phrase": "update your apps",
+      "translation": "обновить приложения",
+      "example": "Update your apps so they are the latest version."
+    },
+    {
+      "phrase": "recharge the battery when low",
+      "translation": "заряжать батарею",
+      "example": "Recharge the battery when it is low before you leave home."
+    },
+    {
+      "phrase": "take into account",
+      "translation": "принимать во внимание",
+      "example": "We need to take into account the needs of everyone."
+    },
+    {
+      "phrase": "the main issue is",
+      "translation": "главная проблема в том",
+      "example": "I'd say that connection drops are the main issue here."
+    }
+  ]
+}

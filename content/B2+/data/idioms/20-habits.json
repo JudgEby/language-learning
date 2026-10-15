@@ -1,0 +1,76 @@
+{
+  "lessonId": "habits",
+  "title": "5D Habits — Идиомы: привычки и рутина",
+  "items": [
+    {
+      "idiom": "kick the habit",
+      "translation": "избавиться от привычки",
+      "example": "He finally kicked the habit of checking his phone at night."
+    },
+    {
+      "idiom": "second nature",
+      "translation": "вторая натура",
+      "example": "After a month, getting up early became second nature."
+    },
+    {
+      "idiom": "force of habit",
+      "translation": "сила привычки",
+      "example": "I locked the door out of force of habit."
+    },
+    {
+      "idiom": "old habits die hard",
+      "translation": "старые привычки отмирают с трудом",
+      "example": "She still bites her nails — old habits die hard."
+    },
+    {
+      "idiom": "set in one's ways",
+      "translation": "закостенелый в своих привычках",
+      "example": "My grandfather is set in his ways and hates any change."
+    },
+    {
+      "idiom": "break the mould",
+      "translation": "сломать шаблон",
+      "example": "Travelling alone helped me break the mould."
+    },
+    {
+      "idiom": "shake things up",
+      "translation": "встряхнуть привычный порядок",
+      "example": "I decided to shake things up and cycle to work."
+    },
+    {
+      "idiom": "get into the swing of things",
+      "translation": "войти в ритм",
+      "example": "It took me a week to get into the swing of things at the new job."
+    },
+    {
+      "idiom": "fall back into old habits",
+      "translation": "скатиться к старым привычкам",
+      "example": "After the holidays I fell back into old habits."
+    },
+    {
+      "idiom": "turn over a new leaf",
+      "translation": "начать новую жизнь",
+      "example": "In January he turned over a new leaf and joined a gym."
+    },
+    {
+      "idiom": "a change of pace",
+      "translation": "смена темпа",
+      "example": "A weekend in the countryside was a welcome change of pace."
+    },
+    {
+      "idiom": "day in, day out",
+      "translation": "изо дня в день",
+      "example": "She cooks the same meals day in, day out."
+    },
+    {
+      "idiom": "same old, same old",
+      "translation": "всё то же самое",
+      "example": "Every week at the office is the same old, same old."
+    },
+    {
+      "idiom": "break the cycle",
+      "translation": "разорвать порочный круг",
+      "example": "Regular exercise helped her break the cycle of late nights."
+    }
+  ]
+}

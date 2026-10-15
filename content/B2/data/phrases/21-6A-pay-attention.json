@@ -16,6 +16,31 @@
       "phrase": "stay focused",
       "translation": "оставаться сосредоточенным",
       "example": "It's hard to stay focused all day."
+    },
+    {
+      "phrase": "avoid distractions",
+      "translation": "избегать отвлекающих факторов",
+      "example": "Close the door to avoid distractions."
+    },
+    {
+      "phrase": "switch off your phone",
+      "translation": "выключать телефон",
+      "example": "Switch off your phone while studying."
+    },
+    {
+      "phrase": "take breaks",
+      "translation": "делать перерывы",
+      "example": "Take breaks every twenty minutes."
+    },
+    {
+      "phrase": "keep a strict routine",
+      "translation": "придерживаться строгого режима",
+      "example": "She keeps a strict routine to stay focused."
+    },
+    {
+      "phrase": "check email at certain times",
+      "translation": "проверять почту в определённое время",
+      "example": "He checks email only at certain times of day."
     }
   ]
 }

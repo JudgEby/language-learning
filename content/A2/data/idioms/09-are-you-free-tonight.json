@@ -1,0 +1,41 @@
+{
+  "lessonId": "are-you-free-tonight",
+  "title": "Are you free tonight? — идиомы",
+  "items": [
+    {
+      "idiom": "Are you doing anything on Friday?",
+      "translation": "Ты что-нибудь делаешь в пятницу?",
+      "example": "Are you doing anything on Friday evening?"
+    },
+    {
+      "idiom": "fancy going to the cinema?",
+      "translation": "не хочешь пойти в кино?",
+      "example": "Fancy going to the cinema tonight?"
+    },
+    {
+      "idiom": "I'd love to, but I work late",
+      "translation": "С удовольствием, но я допоздна на работе",
+      "example": "I'd love to, but I work late tonight."
+    },
+    {
+      "idiom": "See you at seven",
+      "translation": "Увидимся в семь",
+      "example": "See you at seven outside the cinema."
+    },
+    {
+      "idiom": "be running late",
+      "translation": "опаздывать",
+      "example": "I am running late, start without me!"
+    },
+    {
+      "idiom": "cancel plans",
+      "translation": "отменить планы",
+      "example": "We had to cancel our plans last night."
+    },
+    {
+      "idiom": "a night out",
+      "translation": "вечер вне дома, развлечения",
+      "example": "Let's have a night out on Saturday."
+    }
+  ]
+}

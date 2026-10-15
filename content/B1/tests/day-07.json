@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "i-dont-believe-it"
     ]
+  },
+  {
+    "id": "8e5c0771b52d",
+    "question": "Choose the correct collocation: Can I ask you about that experience you mentioned?",
+    "options": [
+      "Can I ask you about that?",
+      "In the end, …",
+      "get on with someone",
+      "The most important thing was…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can I ask you about that?' (Могу я спросить вас об этом?). Full sentence: Can I ask you about that experience you mentioned?",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
   }
 ]

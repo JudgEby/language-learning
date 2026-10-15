@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "how-are-you-feeling"
     ]
+  },
+  {
+    "question": "Which word means 'нервничающий'?",
+    "options": [
+      "nervous",
+      "I deal with…",
+      "suit",
+      "It's worth visiting…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'nervous' means нервничающий. Example: I always feel nervous before a test.",
+    "relatedRuleIds": [
+      "nice-day"
+    ],
+    "id": "d12675270db7"
+  },
+  {
+    "question": "Which word means 'карта'?",
+    "options": [
+      "noisy",
+      "map",
+      "While I was waiting…",
+      "keep a promise"
+    ],
+    "correctIndex": 1,
+    "explanation": "'map' means карта. Example: We used a paper map because we didn't have internet access.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ],
+    "id": "bde34d9de219"
+  },
+  {
+    "question": "Which word means 'долина'?",
+    "options": [
+      "hold on",
+      "They might be endangered.",
+      "phrase book",
+      "valley"
+    ],
+    "correctIndex": 3,
+    "explanation": "'valley' means долина. Example: The valley was covered in mist in the morning.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ],
+    "id": "4499c7fcc68d"
   }
 ]

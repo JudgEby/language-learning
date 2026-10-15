@@ -343,5 +343,80 @@
     "relatedRuleIds": [
       "things-we-love"
     ]
+  },
+  {
+    "question": "Which word means 'кошелёк'?",
+    "options": [
+      "convert",
+      "get on well with colleagues",
+      "cheaper to produce",
+      "wallet"
+    ],
+    "correctIndex": 3,
+    "explanation": "'wallet' means кошелёк. Example: His new friends laughed when he left his wallet at home.",
+    "relatedRuleIds": [
+      "new-friends"
+    ],
+    "id": "6a7ebf3db7b7"
+  },
+  {
+    "question": "Complete the sentence: Millions of users ___ on the site.",
+    "options": [
+      "remind of positive experiences",
+      "competitive edge",
+      "read and review stories",
+      "juicy"
+    ],
+    "correctIndex": 2,
+    "explanation": "'read and review stories' (читать и рецензировать истории). Full sentence: Millions of users read and review stories on the site.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ],
+    "id": "20ce24745669"
+  },
+  {
+    "question": "Which word means 'статусный товар'?",
+    "options": [
+      "challenge the decision",
+      "socialise with",
+      "burgle",
+      "status product"
+    ],
+    "correctIndex": 3,
+    "explanation": "'status product' means статусный товар. Example: They tried to make it a status product.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ],
+    "id": "393ddf5bab4c"
+  },
+  {
+    "question": "Choose the correct collocation: Adjust your settings so the volume works how you want.",
+    "options": [
+      "eager",
+      "hazardous",
+      "adjust your settings",
+      "sense of satisfaction"
+    ],
+    "correctIndex": 2,
+    "explanation": "'adjust your settings' (настроить параметры). Full sentence: Adjust your settings so the volume works how you want.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ],
+    "id": "49c3b4177271"
+  },
+  {
+    "question": "Which word means 'бесплатный'?",
+    "options": [
+      "complimentary",
+      "make up",
+      "pathetic",
+      "slogan"
+    ],
+    "correctIndex": 0,
+    "explanation": "'complimentary' means бесплатный. Example: I always keep an eye out for complimentary tickets to shows.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ],
+    "id": "f8eda08ab824"
   }
 ]

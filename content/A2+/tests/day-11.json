@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "treasure-hunt"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: I work as a software developer for a tech company.",
+    "options": [
+      "I work as…",
+      "progress",
+      "Have you ever made a speech in public?",
+      "I'm afraid I totally disagree"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I work as…' (Я работаю… (кем-то)). Full sentence: I work as a software developer for a tech company.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ],
+    "id": "7f3ae4f33bd4"
+  },
+  {
+    "question": "Which word means 'кольцевая развязка, круговое движение'?",
+    "options": [
+      "Tell me about it",
+      "reception",
+      "roundabout",
+      "We stayed in a cabin by the lake."
+    ],
+    "correctIndex": 2,
+    "explanation": "'roundabout' means кольцевая развязка, круговое движение. Example: Turn left at the second roundabout.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ],
+    "id": "0e5856d61a29"
+  },
+  {
+    "question": "Which word means 'дикая природа, животный мир'?",
+    "options": [
+      "How long have you had this?",
+      "wildlife",
+      "Pleased to meet you",
+      "password"
+    ],
+    "correctIndex": 1,
+    "explanation": "'wildlife' means дикая природа, животный мир. Example: The national park is full of wildlife.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ],
+    "id": "bab985902b23"
   }
 ]

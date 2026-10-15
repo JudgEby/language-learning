@@ -31,6 +31,31 @@
       "term": "cutting-edge",
       "translation": "передовой",
       "example": "They use cutting-edge technology."
+    },
+    {
+      "term": "researcher",
+      "translation": "исследователь",
+      "example": "I work as a researcher in a lab."
+    },
+    {
+      "term": "prediction",
+      "translation": "прогноз",
+      "example": "Scientists made alarming predictions about warming."
+    },
+    {
+      "term": "findings",
+      "translation": "результаты, выводы",
+      "example": "The findings showed VR helps students."
+    },
+    {
+      "term": "smart device",
+      "translation": "умное устройство",
+      "example": "What's your favourite smart device?"
+    },
+    {
+      "term": "tech industry",
+      "translation": "технологическая индустрия",
+      "example": "Many people in the tech industry support VR."
     }
   ]
 }

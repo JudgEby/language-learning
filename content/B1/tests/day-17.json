@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "millionaires"
     ]
+  },
+  {
+    "id": "020b04a58c3e",
+    "question": "Which word means 'острый, дерзкий, авангардный'?",
+    "options": [
+      "commitment",
+      "edgy",
+      "I'm going to…",
+      "In the end"
+    ],
+    "correctIndex": 1,
+    "explanation": "'edgy' means острый, дерзкий, авангардный. Example: His later paintings are edgy and full of impact.",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
   }
 ]

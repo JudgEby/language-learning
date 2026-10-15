@@ -2,12 +2,55 @@
   "lessonId": "relax",
   "title": "Relax — фразы",
   "items": [
-    { "phrase": "Why don't we…?", "translation": "Почему бы нам не…?", "example": "Why don't we go to the botanical garden this weekend?" },
-    { "phrase": "You should try…", "translation": "Тебе стоит попробовать…", "example": "You should try the new Italian restaurant downtown." },
-    { "phrase": "What about…?", "translation": "Как насчёт…?", "example": "What about visiting the art gallery on Sunday?" },
-    { "phrase": "I recommend…", "translation": "Я рекомендую…", "example": "I recommend taking a walking tour of the old town." },
-    { "phrase": "Let's…", "translation": "Давай…", "example": "Let's check out that new theme park." },
-    { "phrase": "It's worth visiting…", "translation": "Стоит посетить…", "example": "It's worth visiting the concert hall — the acoustics are amazing." },
-    { "phrase": "If I were you, I'd…", "translation": "На твоём месте я бы…", "example": "If I were you, I'd book tickets in advance." }
+    {
+      "phrase": "Why don't we…?",
+      "translation": "Почему бы нам не…?",
+      "example": "Why don't we go to the botanical garden this weekend?"
+    },
+    {
+      "phrase": "You should try…",
+      "translation": "Тебе стоит попробовать…",
+      "example": "You should try the new Italian restaurant downtown."
+    },
+    {
+      "phrase": "What about…?",
+      "translation": "Как насчёт…?",
+      "example": "What about visiting the art gallery on Sunday?"
+    },
+    {
+      "phrase": "I recommend…",
+      "translation": "Я рекомендую…",
+      "example": "I recommend taking a walking tour of the old town."
+    },
+    {
+      "phrase": "Let's…",
+      "translation": "Давай…",
+      "example": "Let's check out that new theme park."
+    },
+    {
+      "phrase": "It's worth visiting…",
+      "translation": "Стоит посетить…",
+      "example": "It's worth visiting the concert hall — the acoustics are amazing."
+    },
+    {
+      "phrase": "If I were you, I'd…",
+      "translation": "На твоём месте я бы…",
+      "example": "If I were you, I'd book tickets in advance."
+    },
+    {
+      "phrase": "Who spends the most time on the internet?",
+      "translation": "Кто проводит больше всего времени в интернете?",
+      "example": "Who spends the most time on the internet? People from Canada."
+    },
+    {
+      "phrase": "What is the world's most popular sport?",
+      "translation": "Какой самый популярный вид спорта в мире?",
+      "example": "What is the world's most popular sport? Football is king."
+    },
+    {
+      "phrase": "How often do you listen to music?",
+      "translation": "Как часто ты слушаешь музыку?",
+      "example": "How often do you listen to music? Every day on my way to work."
+    }
   ]
 }

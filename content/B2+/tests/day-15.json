@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "presenting-yourself"
     ]
+  },
+  {
+    "question": "Complete the sentence: So, ___? Oh yes, we were talking about desserts.",
+    "options": [
+      "built-up area",
+      "filthy",
+      "improve people's health",
+      "where were we"
+    ],
+    "correctIndex": 3,
+    "explanation": "'where were we' (на чём мы остановились). Full sentence: So, where were we? Oh yes, we were talking about desserts.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ],
+    "id": "9fbc0a98b216"
+  },
+  {
+    "question": "Complete the sentence: Parents should ___ for children.",
+    "options": [
+      "depressing",
+      "go around the world",
+      "set a good example",
+      "slums"
+    ],
+    "correctIndex": 2,
+    "explanation": "'set a good example' (подавать хороший пример). Full sentence: Parents should set a good example for children.",
+    "relatedRuleIds": [
+      "role-models"
+    ],
+    "id": "8a7e11bfb952"
+  },
+  {
+    "question": "Choose the correct collocation: He is raising money for an organisation that protects coastlines.",
+    "options": [
+      "input the data",
+      "raise money for",
+      "What I can say is…",
+      "undecided"
+    ],
+    "correctIndex": 1,
+    "explanation": "'raise money for' (собирать деньги на). Full sentence: He is raising money for an organisation that protects coastlines.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ],
+    "id": "823a2f900853"
+  },
+  {
+    "question": "Which word means 'приличный, достойный'?",
+    "options": [
+      "decent",
+      "make the most of",
+      "change the goal",
+      "organic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'decent' means приличный, достойный. Example: Sell the decent clothes that don't fit anymore.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ],
+    "id": "b233be421622"
   }
 ]

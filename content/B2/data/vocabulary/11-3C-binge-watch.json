@@ -26,6 +26,36 @@
       "term": "streaming",
       "translation": "стриминг",
       "example": "Streaming has changed how we watch TV."
+    },
+    {
+      "term": "cast",
+      "translation": "актёрский состав",
+      "example": "The cast includes famous actors."
+    },
+    {
+      "term": "scene",
+      "translation": "сцена",
+      "example": "I love that film, especially that scene."
+    },
+    {
+      "term": "costumes",
+      "translation": "костюмы",
+      "example": "All the costumes were amazing."
+    },
+    {
+      "term": "subtitles",
+      "translation": "субтитры",
+      "example": "I read the subtitles to learn words."
+    },
+    {
+      "term": "soundtrack",
+      "translation": "саундтрек",
+      "example": "I've downloaded the soundtrack."
+    },
+    {
+      "term": "set in",
+      "translation": "действие происходит",
+      "example": "The film is set in Italy."
     }
   ]
 }

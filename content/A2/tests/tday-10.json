@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "lets-do-something-new"
     ]
+  },
+  {
+    "id": "fad759fea2ac",
+    "question": "Complete the sentence: I ___ by bus every morning.",
+    "options": [
+      "Have you got anything for ...?",
+      "an ice pack",
+      "an armchair",
+      "go to work"
+    ],
+    "correctIndex": 3,
+    "explanation": "'go to work' (идти на работу). Full sentence: I go to work by bus every morning.",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "605226cf15e3",
+    "question": "Which word means 'быть жаль'?",
+    "options": [
+      "be a shame",
+      "a medium size",
+      "How about ...?",
+      "lock yourself out"
+    ],
+    "correctIndex": 0,
+    "explanation": "'be a shame' means быть жаль. Example: You can't come? That's a shame!",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "416fbf99b1cf",
+    "question": "Which word means 'сбалансированное питание'?",
+    "options": [
+      "carry a bag",
+      "once a week",
+      "Brazilian",
+      "a balanced diet"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a balanced diet' means сбалансированное питание. Example: André tries to have a balanced diet.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "72e42ab7d8ef",
+    "question": "Complete the sentence: ___ — With my sister and two friends.",
+    "options": [
+      "boring",
+      "Who did you go with?",
+      "fast food",
+      "a carton"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Who did you go with?' (С кем ты ходил?). Full sentence: Who did you go with? — With my sister and two friends.",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "bde01b8beb50",
+    "question": "Which word means 'инопланетянин'?",
+    "options": [
+      "an alien",
+      "a jar",
+      "a helmet",
+      "the front gate"
+    ],
+    "correctIndex": 0,
+    "explanation": "'an alien' means инопланетянин. Example: A sci-fi film is usually about aliens.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "5b8befa4e492",
+    "question": "Choose the correct collocation: Are you ready for nature's little surprises?",
+    "options": [
+      "a tent",
+      "Are you ready for ... ?",
+      "Indian",
+      "My car broke down."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Are you ready for ... ?' (Ты готов к ... ?). Full sentence: Are you ready for nature's little surprises?",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "b3e36b5d51d8",
+    "question": "Complete the sentence: ___ — Thanks a lot.",
+    "options": [
+      "I've got a cough / a sore throat / a runny nose",
+      "Can I carry your bag?",
+      "give money to somebody",
+      "a tablet"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Can I carry your bag?' (Могу понести вашу сумку?). Full sentence: Can I carry your bag? — Thanks a lot.",
+    "relatedRuleIds": [
+      "help"
+    ]
   }
 ]

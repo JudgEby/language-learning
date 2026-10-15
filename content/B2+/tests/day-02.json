@@ -343,5 +343,80 @@
     "relatedRuleIds": [
       "places"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: My neighbour Joao and I clicked as soon as we met.",
+    "options": [
+      "chemical changes in brains",
+      "come into use",
+      "nine times out of ten",
+      "click with"
+    ],
+    "correctIndex": 3,
+    "explanation": "'click with' (найти контакт с кем-то). Full sentence: My neighbour Joao and I clicked as soon as we met.",
+    "relatedRuleIds": [
+      "new-friends"
+    ],
+    "id": "773a1e29f02f"
+  },
+  {
+    "question": "Choose the correct collocation: The winner will be determined after three rounds.",
+    "options": [
+      "What I can do is",
+      "bankruptcy",
+      "determine the winner",
+      "allowance"
+    ],
+    "correctIndex": 2,
+    "explanation": "'determine the winner' (определить победителя). Full sentence: The winner will be determined after three rounds.",
+    "relatedRuleIds": [
+      "challenge"
+    ],
+    "id": "4b838b9ca2d1"
+  },
+  {
+    "question": "Which word means 'прибыль'?",
+    "options": [
+      "travel through space and time",
+      "loud",
+      "hopeless",
+      "profit"
+    ],
+    "correctIndex": 3,
+    "explanation": "'profit' means прибыль. Example: The business made a healthy profit this year.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ],
+    "id": "42824e3ddaa3"
+  },
+  {
+    "question": "Complete the sentence: Alternative accommodation for a month? ___.",
+    "options": [
+      "That's acceptable to me",
+      "wildlife",
+      "follow rules",
+      "a weight lifted off your shoulders"
+    ],
+    "correctIndex": 0,
+    "explanation": "'That's acceptable to me' (меня это устраивает). Full sentence: Alternative accommodation for a month? That's acceptable to me.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ],
+    "id": "539df2dbc703"
+  },
+  {
+    "question": "Which word means 'рентабельный, выгодный'?",
+    "options": [
+      "sailing",
+      "no-frills",
+      "referee",
+      "cost-effective"
+    ],
+    "correctIndex": 3,
+    "explanation": "'cost-effective' means рентабельный, выгодный. Example: We do our food shopping together because it's more cost-effective.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ],
+    "id": "bdcd99daf4fb"
   }
 ]

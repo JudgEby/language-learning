@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "hello-ive-got-a-problem"
     ]
+  },
+  {
+    "id": "700f9c15a42f",
+    "question": "Choose the correct collocation: The tour starts at ten o'clock exactly.",
+    "options": [
+      "a baby",
+      "a plane / a flight",
+      "at ... exactly",
+      "There was a long queue at ..."
+    ],
+    "correctIndex": 2,
+    "explanation": "'at ... exactly' (ровно в ...). Full sentence: The tour starts at ten o'clock exactly.",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "79f265f38c54",
+    "question": "Choose the correct collocation: Can I go to Valletta by bus?",
+    "options": [
+      "in their lifetime",
+      "get hungry / thirsty",
+      "by bus / by train",
+      "be too scary for somebody"
+    ],
+    "correctIndex": 2,
+    "explanation": "'by bus / by train' (на автобусе / на поезде). Full sentence: Can I go to Valletta by bus?",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "69392ce1d8a5",
+    "question": "Which word means 'бутылка'?",
+    "options": [
+      "answer the phone",
+      "a boat tour",
+      "Chinese",
+      "a bottle"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a bottle' means бутылка. Example: A bottle of mineral water is in the fridge.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "438a6fab9fdd",
+    "question": "Choose the correct collocation: An e-book is as good as a paper book.",
+    "options": [
+      "turn your phone off",
+      "a beach",
+      "as ... as",
+      "be too scary for somebody"
+    ],
+    "correctIndex": 2,
+    "explanation": "'as ... as' (так же ... как). Full sentence: An e-book is as good as a paper book.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "8c0ef6e90bc4",
+    "question": "Which word means 'общественный транспорт'?",
+    "options": [
+      "public transport",
+      "a main course",
+      "a police station",
+      "across the bridge"
+    ],
+    "correctIndex": 0,
+    "explanation": "'public transport' means общественный транспорт. Example: Public transport is cheap and fast in this city.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "74f92a862d27",
+    "question": "Choose the correct collocation: See you at the museum at three.",
+    "options": [
+      "a carton",
+      "Could you ring me back?",
+      "friendly",
+      "See you at ..."
+    ],
+    "correctIndex": 3,
+    "explanation": "'See you at ...' (Увидимся в ...). Full sentence: See you at the museum at three.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "2d1a9ec7a8b1",
+    "question": "Which word means 'потрясающий'?",
+    "options": [
+      "a tour",
+      "amazing",
+      "trainers",
+      "a cup of tea"
+    ],
+    "correctIndex": 1,
+    "explanation": "'amazing' means потрясающий. Example: The temples were amazing!",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
   }
 ]

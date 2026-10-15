@@ -1,0 +1,41 @@
+{
+  "lessonId": "crime-and-punishment",
+  "title": "Crime and punishment — преступления и наказания",
+  "items": [
+    {
+      "idiom": "write graffiti on a wall",
+      "translation": "рисовать граффити на стене",
+      "example": "Two boys were caught writing large graffiti on a wall."
+    },
+    {
+      "idiom": "do unpaid work to help your town",
+      "translation": "выполнять неоплачиваемую работу на пользу города",
+      "example": "They do unpaid work to help their town or city."
+    },
+    {
+      "idiom": "cheat someone to make money",
+      "translation": "обмануть кого-то ради денег",
+      "example": "He was cheating people to make money from them."
+    },
+    {
+      "idiom": "pay an amount of money",
+      "translation": "заплатить сумму денег",
+      "example": "You have to pay an amount of money as a fine."
+    },
+    {
+      "idiom": "go sailing illegally in dangerous waters",
+      "translation": "выйти под парусом незаконно в опасных водах",
+      "example": "A couple went sailing illegally in dangerous waters."
+    },
+    {
+      "idiom": "spend hours looking for someone",
+      "translation": "потратить часы на поиски кого-то",
+      "example": "A search team had to spend hours looking for them."
+    },
+    {
+      "idiom": "play loud music late at night",
+      "translation": "включать громкую музыку поздно ночью",
+      "example": "He was arrested for playing loud music late at night."
+    }
+  ]
+}

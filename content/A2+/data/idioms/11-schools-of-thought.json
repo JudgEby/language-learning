@@ -1,0 +1,41 @@
+{
+  "lessonId": "schools-of-thought",
+  "title": "Schools of thought — идиомы",
+  "items": [
+    {
+      "idiom": "study a foreign language",
+      "translation": "учить иностранный язык",
+      "example": "In our school we have to study a foreign language."
+    },
+    {
+      "idiom": "take a test",
+      "translation": "проходить тест, сдавать тест",
+      "example": "We take a test at the end of every term."
+    },
+    {
+      "idiom": "wear a school uniform",
+      "translation": "носить школьную форму",
+      "example": "In France children do not have to wear a uniform to school."
+    },
+    {
+      "idiom": "watch a video at home",
+      "translation": "смотреть видео дома",
+      "example": "In a flipped classroom children watch a video at home."
+    },
+    {
+      "idiom": "ask the teacher for help",
+      "translation": "просить учителя о помощи",
+      "example": "In class they can ask the teacher for help."
+    },
+    {
+      "idiom": "learn by copying",
+      "translation": "учиться через повторение, копируя",
+      "example": "Small children learn music by copying what they hear."
+    },
+    {
+      "idiom": "practise for hours every day",
+      "translation": "тренироваться часами каждый день",
+      "example": "The children have to practise for hours every day."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lessonId": "can-i-help-you",
+  "title": "Can I help you? — идиомы",
+  "items": [
+    {
+      "idiom": "try it on",
+      "translation": "примерить (одежду)",
+      "example": "You can try it on in the changing room."
+    },
+    {
+      "idiom": "It fits well",
+      "translation": "Хорошо сидит",
+      "example": "This jacket fits well, I will take it."
+    },
+    {
+      "idiom": "pay by card",
+      "translation": "платить картой",
+      "example": "Can I pay by card?"
+    },
+    {
+      "idiom": "a real bargain",
+      "translation": "настоящая выгодная покупка",
+      "example": "These boots were a real bargain."
+    },
+    {
+      "idiom": "shop around",
+      "translation": "сравнивать цены в магазинах",
+      "example": "Shop around before you buy a tablet."
+    },
+    {
+      "idiom": "out of stock",
+      "translation": "нет в наличии",
+      "example": "Sorry, this size is out of stock."
+    },
+    {
+      "idiom": "keep the receipt",
+      "translation": "сохрани чек",
+      "example": "Keep the receipt for your charger."
+    }
+  ]
+}

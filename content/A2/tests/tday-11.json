@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "help"
     ]
+  },
+  {
+    "id": "0521cb2ddf3f",
+    "question": "Choose the correct collocation: He has a big breakfast every morning.",
+    "options": [
+      "have a big breakfast",
+      "safe / dangerous",
+      "a self-catering apartment",
+      "a suit and a tie"
+    ],
+    "correctIndex": 0,
+    "explanation": "'have a big breakfast' (плотно позавтракать). Full sentence: He has a big breakfast every morning.",
+    "relatedRuleIds": [
+      "high-flyers"
+    ]
+  },
+  {
+    "id": "ffa42f859ab9",
+    "question": "Which word means 'раз в месяц'?",
+    "options": [
+      "opening times",
+      "once a month",
+      "cycle / to cycle",
+      "a souvenir"
+    ],
+    "correctIndex": 1,
+    "explanation": "'once a month' means раз в месяц. Example: We meet once a month at the cinema.",
+    "relatedRuleIds": [
+      "are-you-free-tonight"
+    ]
+  },
+  {
+    "id": "63b8f1cb9d0a",
+    "question": "Choose the correct collocation: There's a bottle of mineral water in the fridge.",
+    "options": [
+      "stomachache",
+      "a bottle of ...",
+      "What can we do at the weekend?",
+      "I saw it last week."
+    ],
+    "correctIndex": 1,
+    "explanation": "'a bottle of ...' (бутылка ...). Full sentence: There's a bottle of mineral water in the fridge.",
+    "relatedRuleIds": [
+      "my-fridge"
+    ]
+  },
+  {
+    "id": "352f67257090",
+    "question": "Which word means 'делать домашнюю работу'?",
+    "options": [
+      "a garden",
+      "a campsite / a camp",
+      "remember a name / a number",
+      "do housework"
+    ],
+    "correctIndex": 3,
+    "explanation": "'do housework' means делать домашнюю работу. Example: I did housework and cleaned my room.",
+    "relatedRuleIds": [
+      "what-did-you-do"
+    ]
+  },
+  {
+    "id": "511235bba76f",
+    "question": "Which word means 'мультфильм'?",
+    "options": [
+      "a travel partner",
+      "have you seen ... yet?",
+      "an animated film",
+      "a souvenir"
+    ],
+    "correctIndex": 2,
+    "explanation": "'an animated film' means мультфильм. Example: My son only watches animated films.",
+    "relatedRuleIds": [
+      "what-do-you-recommend"
+    ]
+  },
+  {
+    "id": "08eb03bd8133",
+    "question": "Which word means 'выжить, пережить'?",
+    "options": [
+      "a holiday",
+      "survive",
+      "a pain in your back",
+      "How about ...?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'survive' means выжить, пережить. Example: Who is the best survivor?",
+    "relatedRuleIds": [
+      "survive"
+    ]
+  },
+  {
+    "id": "e522144ffa9d",
+    "question": "Complete the sentence: Thanks. — ___",
+    "options": [
+      "a mobile phone",
+      "No problem. / Any time.",
+      "a user",
+      "How often do you ...?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'No problem. / Any time.' (Без проблем. / Всегда пожалуйста.). Full sentence: Thanks. — No problem. / Any time.",
+    "relatedRuleIds": [
+      "help"
+    ]
   }
 ]

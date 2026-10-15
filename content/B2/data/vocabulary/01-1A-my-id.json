@@ -36,6 +36,26 @@
       "term": "adventurous",
       "translation": "любящий приключения",
       "example": "She's adventurous and loves travelling."
+    },
+    {
+      "term": "cheerful",
+      "translation": "весёлый",
+      "example": "She's always cheerful in the morning."
+    },
+    {
+      "term": "curious",
+      "translation": "любопытный",
+      "example": "He's curious about the world."
+    },
+    {
+      "term": "argumentative",
+      "translation": "склонный спорить",
+      "example": "Her brother can be quite argumentative."
+    },
+    {
+      "term": "helpful",
+      "translation": "готовый помочь",
+      "example": "Our new teacher is really helpful."
     }
   ]
 }

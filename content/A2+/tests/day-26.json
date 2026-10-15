@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "treasure-hunt"
     ]
+  },
+  {
+    "question": "Which word means 'шуметь'?",
+    "options": [
+      "have an argument",
+      "This must be their habitat.",
+      "poaching",
+      "make a noise"
+    ],
+    "correctIndex": 3,
+    "explanation": "'make a noise' means шуметь. Example: Please don't make a noise — the baby is sleeping.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ],
+    "id": "4036317cd435"
+  },
+  {
+    "question": "Complete the sentence: ___",
+    "options": [
+      "Would you mind telling me the way to the library?",
+      "You'd better…",
+      "flight",
+      "I'm calling about…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Would you mind telling me the way to the library?' (Не могли бы вы подсказать дорогу до библиотеки?). Full sentence: Would you mind telling me the way to the library?",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ],
+    "id": "803575d457ce"
+  },
+  {
+    "question": "Which word means 'испытывающий облегчение'?",
+    "options": [
+      "fashion",
+      "voicemail",
+      "relieved",
+      "lake"
+    ],
+    "correctIndex": 2,
+    "explanation": "'relieved' means испытывающий облегчение. Example: I was relieved when I heard the news.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ],
+    "id": "b81f133f0bd5"
   }
 ]

@@ -16,6 +16,31 @@
       "phrase": "at one with nature",
       "translation": "в гармонии с природой",
       "example": "She feels at one with nature when hiking."
+    },
+    {
+      "phrase": "spend time in nature",
+      "translation": "проводить время на природе",
+      "example": "We try to spend more time in nature every week."
+    },
+    {
+      "phrase": "improve health and well-being",
+      "translation": "улучшать здоровье и самочувствие",
+      "example": "Two hours in nature is enough to improve health and well-being."
+    },
+    {
+      "phrase": "sit by the sea",
+      "translation": "сидеть у моря",
+      "example": "We sat by the sea and listened to the waves."
+    },
+    {
+      "phrase": "walk along the beach",
+      "translation": "гулять вдоль пляжа",
+      "example": "Several of us walk along the beach in the morning."
+    },
+    {
+      "phrase": "a lack of (sth)",
+      "translation": "нехватка (чего-то)",
+      "example": "There is a lack of green public spaces in this district."
     }
   ]
 }

@@ -2,11 +2,50 @@
   "lessonId": "top-cities",
   "title": "Top cities — фразы",
   "items": [
-    { "phrase": "It's a city with...", "translation": "Это город с...", "example": "It's a city with a rich history and modern architecture." },
-    { "phrase": "There's plenty of...", "translation": "Здесь много...", "example": "There's plenty of things to do in the city centre." },
-    { "phrase": "What I like about... is...", "translation": "Что мне нравится в... — это...", "example": "What I like about this city is the friendly atmosphere." },
-    { "phrase": "The best thing about... is...", "translation": "Самое лучшее в... — это...", "example": "The best thing about living here is the transport system." },
-    { "phrase": "One thing I don't like is...", "translation": "Одна вещь, которая мне не нравится — это...", "example": "One thing I don't like is the traffic during rush hour." },
-    { "phrase": "It has something for everyone", "translation": "Здесь есть всё для каждого", "example": "Whether you like art or sports, this city has something for everyone." }
+    {
+      "phrase": "It's a city with...",
+      "translation": "Это город с...",
+      "example": "It's a city with a rich history and modern architecture."
+    },
+    {
+      "phrase": "There's plenty of...",
+      "translation": "Здесь много...",
+      "example": "There's plenty of things to do in the city centre."
+    },
+    {
+      "phrase": "What I like about... is...",
+      "translation": "Что мне нравится в... — это...",
+      "example": "What I like about this city is the friendly atmosphere."
+    },
+    {
+      "phrase": "The best thing about... is...",
+      "translation": "Самое лучшее в... — это...",
+      "example": "The best thing about living here is the transport system."
+    },
+    {
+      "phrase": "One thing I don't like is...",
+      "translation": "Одна вещь, которая мне не нравится — это...",
+      "example": "One thing I don't like is the traffic during rush hour."
+    },
+    {
+      "phrase": "It has something for everyone",
+      "translation": "Здесь есть всё для каждого",
+      "example": "Whether you like art or sports, this city has something for everyone."
+    },
+    {
+      "phrase": "What's Prague like?",
+      "translation": "Какая Прага?",
+      "example": "What's Prague like? It's a very beautiful city."
+    },
+    {
+      "phrase": "What do you like best about living in Melbourne?",
+      "translation": "Что тебе больше всего нравится в жизни в Мельбурне?",
+      "example": "What do you like best about living in Melbourne? I think it's probably the atmosphere."
+    },
+    {
+      "phrase": "The people are really friendly",
+      "translation": "Люди здесь очень дружелюбные",
+      "example": "It's a lovely city and the people are really friendly."
+    }
   ]
 }

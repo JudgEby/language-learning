@@ -1,0 +1,41 @@
+{
+  "lessonId": "top-cities",
+  "title": "Top cities — лучшие города",
+  "items": [
+    {
+      "idiom": "have traffic problems",
+      "translation": "иметь проблемы с движением",
+      "example": "Many big cities are expensive and have traffic problems."
+    },
+    {
+      "idiom": "have high crime rates",
+      "translation": "иметь высокий уровень преступности",
+      "example": "Many big cities have high crime rates and poor transport."
+    },
+    {
+      "idiom": "explore new lifestyles",
+      "translation": "изучать новый образ жизни",
+      "example": "Young people are carefree and want to explore new lifestyles."
+    },
+    {
+      "idiom": "the top ten cities for young people",
+      "translation": "десять лучших городов для молодёжи",
+      "example": "Have a look at our list of the top ten cities for young people."
+    },
+    {
+      "idiom": "free trams",
+      "translation": "бесплатные трамваи",
+      "example": "Melbourne has free trams in the city centre."
+    },
+    {
+      "idiom": "beautiful buildings and squares",
+      "translation": "красивые здания и площади",
+      "example": "The city has beautiful buildings and squares to visit."
+    },
+    {
+      "idiom": "cafes and street art",
+      "translation": "кафе и уличное искусство",
+      "example": "We love the cafes and street art in this area."
+    }
+  ]
+}

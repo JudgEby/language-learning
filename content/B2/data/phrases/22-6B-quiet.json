@@ -16,6 +16,31 @@
       "phrase": "drain your energy",
       "translation": "высасывать энергию",
       "example": "Small talk can drain my energy."
+    },
+    {
+      "phrase": "spend time alone",
+      "translation": "проводить время в одиночестве",
+      "example": "She likes to spend time alone at weekends."
+    },
+    {
+      "phrase": "work from home",
+      "translation": "работать из дома",
+      "example": "He asked to work from home twice a week."
+    },
+    {
+      "phrase": "give a presentation",
+      "translation": "выступать с презентацией",
+      "example": "She gave a presentation to a large audience."
+    },
+    {
+      "phrase": "take the idea seriously",
+      "translation": "воспринимать идею всерьёз",
+      "example": "At first nobody took the idea seriously."
+    },
+    {
+      "phrase": "reduce the number of meetings",
+      "translation": "сокращать число встреч",
+      "example": "We agreed to reduce the number of meetings."
     }
   ]
 }

@@ -177,5 +177,20 @@
     "relatedRuleIds": [
       "millionaires"
     ]
+  },
+  {
+    "id": "f638a250753e",
+    "question": "Which word means 'достижение'?",
+    "options": [
+      "achievement",
+      "stressed",
+      "hostage",
+      "I'm proud of…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'achievement' means достижение. Example: What is your greatest achievement in life?",
+    "relatedRuleIds": [
+      "the-blind-painter"
+    ]
   }
 ]

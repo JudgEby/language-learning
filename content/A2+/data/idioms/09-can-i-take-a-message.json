@@ -1,0 +1,46 @@
+{
+  "lessonId": "can-i-take-a-message",
+  "title": "Can I take a message? — идиомы",
+  "items": [
+    {
+      "idiom": "book a table",
+      "translation": "забронировать столик",
+      "example": "Have you booked a table on the phone recently?"
+    },
+    {
+      "idiom": "arrange to meet friends",
+      "translation": "договориться о встрече с друзьями",
+      "example": "I called to arrange to meet friends for dinner."
+    },
+    {
+      "idiom": "have a chat",
+      "translation": "поболтать",
+      "example": "We had a chat on the phone last night."
+    },
+    {
+      "idiom": "cancel a booking",
+      "translation": "отменить бронь",
+      "example": "She called to cancel a booking for Saturday."
+    },
+    {
+      "idiom": "check train times",
+      "translation": "уточнить расписание поездов",
+      "example": "I need to check train times before we leave."
+    },
+    {
+      "idiom": "change a ticket",
+      "translation": "обменять билет, изменить билет",
+      "example": "He wants to change a ticket to a different date."
+    },
+    {
+      "idiom": "get the sack",
+      "translation": "быть уволенным, потерять работу",
+      "example": "She got the sack today, so she lost her job."
+    },
+    {
+      "idiom": "pigs might fly",
+      "translation": "когда рак на горе свистнет (этого никогда не будет)",
+      "example": "He will call back soon, and pigs might fly."
+    }
+  ]
+}

@@ -179,5 +179,50 @@
     "relatedRuleIds": [
       "hidden-talent"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: What about visiting the art gallery on Sunday?",
+    "options": [
+      "sightseeing",
+      "I would love to... if I had the chance",
+      "historic",
+      "What about…?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'What about…?' (Как насчёт…?). Full sentence: What about visiting the art gallery on Sunday?",
+    "relatedRuleIds": [
+      "relax"
+    ],
+    "id": "9153d3baf4e1"
+  },
+  {
+    "question": "Choose the correct collocation: What did you use to do at weekends before you had kids?",
+    "options": [
+      "He mentioned that...",
+      "What do you do that really interests you?",
+      "What did you use to do at weekends?",
+      "She used to have a dog."
+    ],
+    "correctIndex": 2,
+    "explanation": "'What did you use to do at weekends?' (Чем ты раньше занимался по выходным?). Full sentence: What did you use to do at weekends before you had kids?",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ],
+    "id": "113cf2f7bb4c"
+  },
+  {
+    "question": "Choose the correct collocation: Would you mind changing my room?",
+    "options": [
+      "Can I take a message?",
+      "exchange",
+      "department",
+      "Would you mind...?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Would you mind...?' (Вы не возражаете...?). Full sentence: Would you mind changing my room?",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ],
+    "id": "b69ec7204bdf"
   }
 ]

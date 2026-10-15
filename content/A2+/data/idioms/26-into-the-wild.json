@@ -1,0 +1,41 @@
+{
+  "lessonId": "into-the-wild",
+  "title": "Into the wild — дикая природа",
+  "items": [
+    {
+      "idiom": "be out in the wild",
+      "translation": "быть в дикой природе",
+      "example": "Have you ever slept outdoors or been out in the wild?"
+    },
+    {
+      "idiom": "sleep outdoors",
+      "translation": "спать под открытым небом",
+      "example": "Do you like sleeping outdoors in wild places?"
+    },
+    {
+      "idiom": "come face to face with an anaconda",
+      "translation": "оказаться лицом к лицу с анакондой",
+      "example": "She came face to face with an anaconda in the jungle."
+    },
+    {
+      "idiom": "freeze with fear",
+      "translation": "замереть от страха",
+      "example": "I opened my eyes and froze with fear."
+    },
+    {
+      "idiom": "shut my eyes",
+      "translation": "закрыть глаза",
+      "example": "He asked me to shut my eyes and listen."
+    },
+    {
+      "idiom": "change my life",
+      "translation": "изменить мою жизнь",
+      "example": "I knew that my answer would probably change my life."
+    },
+    {
+      "idiom": "prepare meals",
+      "translation": "готовить еду",
+      "example": "I helped the women prepare meals in the village."
+    }
+  ]
+}

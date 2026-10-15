@@ -283,5 +283,80 @@
     "relatedRuleIds": [
       "friend-or-foe"
     ]
+  },
+  {
+    "question": "Complete the sentence: We need to feel that we will ___ to work well.",
+    "options": [
+      "fit in",
+      "set a good example",
+      "rewarding",
+      "contaminated"
+    ],
+    "correctIndex": 0,
+    "explanation": "'fit in' (вписываться). Full sentence: We need to feel that we will fit in to work well.",
+    "relatedRuleIds": [
+      "places"
+    ],
+    "id": "553c8370c4c1"
+  },
+  {
+    "question": "Choose the correct collocation: Thousands of writers compete to win a writing award.",
+    "options": [
+      "compete to win an award",
+      "understanding",
+      "campaign",
+      "melt on the tongue"
+    ],
+    "correctIndex": 0,
+    "explanation": "'compete to win an award' (бороться за награду). Full sentence: Thousands of writers compete to win a writing award.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ],
+    "id": "eda145cea1b5"
+  },
+  {
+    "question": "Which word means 'не колеблясь'?",
+    "options": [
+      "protect coastlines",
+      "profit from the food",
+      "without hesitation",
+      "appeal to someone's logic"
+    ],
+    "correctIndex": 2,
+    "explanation": "'without hesitation' means не колеблясь. Example: If I'm sure, I'll decide quickly, without hesitation.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ],
+    "id": "2abf26e663ae"
+  },
+  {
+    "question": "Which word means 'единый, объединённый'?",
+    "options": [
+      "unified",
+      "pescatarian",
+      "lazy day",
+      "no matter how"
+    ],
+    "correctIndex": 0,
+    "explanation": "'unified' means единый, объединённый. Example: One unified system that changes the game.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ],
+    "id": "e23b7887446d"
+  },
+  {
+    "question": "Complete the sentence: ___ to be in this episode.",
+    "options": [
+      "input",
+      "Nothing is as it appears",
+      "set about renovating",
+      "come into use"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Nothing is as it appears' (всё не то, чем кажется). Full sentence: Nothing is as it appears to be in this episode.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ],
+    "id": "2cd118d38fb5"
   }
 ]

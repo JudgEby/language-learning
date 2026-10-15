@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "what-did-you-do"
     ]
+  },
+  {
+    "id": "ae6986be4b34",
+    "question": "Which word means 'сувенир'?",
+    "options": [
+      "When did it start?",
+      "a souvenir",
+      "Chinese",
+      "take a credit card"
+    ],
+    "correctIndex": 1,
+    "explanation": "'a souvenir' means сувенир. Example: A souvenir is a nice thing to bring home from a holiday.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "84a975807837",
+    "question": "Which word means 'серьёзный'?",
+    "options": [
+      "grow up",
+      "a tourist shop",
+      "start your own business",
+      "serious"
+    ],
+    "correctIndex": 3,
+    "explanation": "'serious' means серьёзный. Example: My boss is serious, but he's a very good manager.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "495c709ffffa",
+    "question": "Complete the sentence: ___ — Yes, I'd like a sweater, please.",
+    "options": [
+      "Can I help you?",
+      "a stunt woman / a stuntman",
+      "watch films",
+      "be thrilled"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Can I help you?' (Вам помочь?). Full sentence: Can I help you? — Yes, I'd like a sweater, please.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "8bda8e319d63",
+    "question": "Which word means 'деревня'?",
+    "options": [
+      "look at photos of ...",
+      "What's it about?",
+      "a village",
+      "be out"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a village' means деревня. Example: She was born in a small village near Lagos.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "2b22392a073e",
+    "question": "Choose the correct collocation: We're expecting a lot of guests tonight.",
+    "options": [
+      "be expecting ...",
+      "gradually",
+      "win / win the lottery",
+      "How old is ... ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'be expecting ...' (ждать, ожидать ...). Full sentence: We're expecting a lot of guests tonight.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "b6d8bd679938",
+    "question": "Complete the sentence: I'm sorry I'm late. ___",
+    "options": [
+      "The traffic was terrible.",
+      "a pain in your back",
+      "I think it's a good idea",
+      "a market"
+    ],
+    "correctIndex": 0,
+    "explanation": "'The traffic was terrible.' (Дорожный трафик был ужасным.). Full sentence: I'm sorry I'm late. The traffic was terrible.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "358a1b7e6e1a",
+    "question": "Complete the sentence: You ___ because you're doing two things at once.",
+    "options": [
+      "pick something up",
+      "Can I carry your bag?",
+      "has somebody got ... ?",
+      "make mistakes"
+    ],
+    "correctIndex": 3,
+    "explanation": "'make mistakes' (делать ошибки). Full sentence: You make mistakes because you're doing two things at once.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
   }
 ]
