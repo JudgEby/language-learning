@@ -2,15 +2,15 @@
   "lessonId": "living-the-dream",
   "title": "Living the dream — новые слова",
   "items": [
-    { "term": "dream of", "translation": "мечтать о", "example": "I dream of travelling around the world one day." },
-    { "term": "wait for", "translation": "ждать (кого-то/что-то)", "example": "I'm waiting for my friend at the station." },
-    { "term": "belong to", "translation": "принадлежать", "example": "This book belongs to my sister." },
-    { "term": "depend on", "translation": "зависеть от", "example": "The result depends on your hard work." },
-    { "term": "worry about", "translation": "волноваться о", "example": "Don't worry about the exam, you'll pass." },
-    { "term": "listen to", "translation": "слушать", "example": "I like to listen to music while I work." },
-    { "term": "pay for", "translation": "платить за", "example": "I paid for the tickets online." },
-    { "term": "laugh at", "translation": "смеяться над", "example": "Everyone laughed at his joke." },
-    { "term": "talk about", "translation": "говорить о", "example": "We talked about our plans for the summer." },
-    { "term": "look after", "translation": "заботиться о", "example": "She looks after her younger brother after school." }
+    { "term": "dream of", "translation": "мечтать о", "example": "I dream of travelling around the world one day.", "keyword": "дрёма", "mnemonic": "Дрёма про кругосветку — I dream of travelling, мечтаю о путешествии." },
+    { "term": "wait for", "translation": "ждать (кого-то/что-то)", "example": "I'm waiting for my friend at the station.", "keyword": "Вася", "mnemonic": "Вася ждёт на вокзале — I'm waiting for my friend, жду друга." },
+    { "term": "belong to", "translation": "принадлежать", "example": "This book belongs to my sister.", "keyword": "билет", "mnemonic": "Билет сестры — не трогай: this book belongs to my sister, принадлежит сестре." },
+    { "term": "depend on", "translation": "зависеть от", "example": "The result depends on your hard work.", "keyword": "депутат", "mnemonic": "Депутат зависит от голосов — the result depends on hard work, зависит от труда." },
+    { "term": "worry about", "translation": "волноваться о", "example": "Don't worry about the exam, you'll pass.", "keyword": "вор", "mnemonic": "Вор волнуется перед делом — don't worry about the exam, не волнуйся." },
+    { "term": "listen to", "translation": "слушать", "example": "I like to listen to music while I work.", "keyword": "лиса", "mnemonic": "Лиса слушает музыку за работой — like to listen to music, слушать." },
+    { "term": "pay for", "translation": "платить за", "example": "I paid for the tickets online.", "keyword": "пей", "mnemonic": "Пей чай — билеты уже оплачены: I paid for the tickets, заплатил." },
+    { "term": "laugh at", "translation": "смеяться над", "example": "Everyone laughed at his joke.", "keyword": "лафа", "mnemonic": "Лафа — все ржут: everyone laughed at his joke, смеются над шуткой." },
+    { "term": "talk about", "translation": "говорить о", "example": "We talked about our plans for the summer.", "keyword": "ток-шоу", "mnemonic": "Ток-шоу про лето — we talked about our plans, говорили о планах." },
+    { "term": "look after", "translation": "заботиться о", "example": "She looks after her younger brother after school.", "keyword": "автор", "mnemonic": "Автор присматривает за младшим братом — she looks after her brother, заботится." }
   ]
 }

@@ -2,15 +2,75 @@
   "lessonId": "caught-on-film",
   "title": "Caught on film — новые слова",
   "items": [
-    { "term": "director", "translation": "режиссёр", "example": "The director won an award for his latest film." },
-    { "term": "script", "translation": "сценарий", "example": "The script was written by a famous screenwriter." },
-    { "term": "cast", "translation": "актёрский состав", "example": "The film has an all-star cast." },
-    { "term": "blockbuster", "translation": "блокбастер, кассовый фильм", "example": "Avengers is one of the biggest blockbusters of all time." },
-    { "term": "soundtrack", "translation": "саундтрек, музыка к фильму", "example": "The soundtrack was composed by Hans Zimmer." },
-    { "term": "scene", "translation": "сцена, эпизод", "example": "My favourite scene is the car chase." },
-    { "term": "role", "translation": "роль", "example": "She played the role of a detective." },
-    { "term": "audition", "translation": "прослушивание, кастинг", "example": "He went to an audition for a TV commercial." },
-    { "term": "premiere", "translation": "премьера", "example": "The premiere will take place next Friday." },
-    { "term": "review", "translation": "рецензия, отзыв", "example": "The film got mixed reviews from critics." }
+    {
+      "term": "director",
+      "translation": "режиссёр",
+      "example": "The director won an award for his latest film.",
+      "keyword": "директор",
+      "mnemonic": "Директор с мегафоном — это director, режиссёр с наградой за фильм."
+    },
+    {
+      "term": "script",
+      "translation": "сценарий",
+      "example": "The script was written by a famous screenwriter.",
+      "keyword": "скрип",
+      "mnemonic": "Сценарий скрипит в руках — это script, сценарий от звезды."
+    },
+    {
+      "term": "cast",
+      "translation": "актёрский состав",
+      "example": "The film has an all-star cast.",
+      "keyword": "каста",
+      "mnemonic": "Вся каста звёзд — это cast, актёрский состав фильма."
+    },
+    {
+      "term": "blockbuster",
+      "translation": "блокбастер, кассовый фильм",
+      "example": "Avengers is one of the biggest blockbusters of all time.",
+      "keyword": "баста",
+      "mnemonic": "Продюсер кричит баста — сняли blockbuster, кассовый фильм как Мстители."
+    },
+    {
+      "term": "soundtrack",
+      "translation": "саундтрек, музыка к фильму",
+      "example": "The soundtrack was composed by Hans Zimmer.",
+      "keyword": "трактор",
+      "mnemonic": "Трактор гудит мотив — это soundtrack, музыка к фильму от Циммера."
+    },
+    {
+      "term": "scene",
+      "translation": "сцена, эпизод",
+      "example": "My favourite scene is the car chase.",
+      "keyword": "сено",
+      "mnemonic": "Погоня летит через сено — любимая scene, сцена и эпизод с машинами."
+    },
+    {
+      "term": "role",
+      "translation": "роль",
+      "example": "She played the role of a detective.",
+      "keyword": "руль",
+      "mnemonic": "Она вцепилась в руль — играет role, роль детектива."
+    },
+    {
+      "term": "audition",
+      "translation": "прослушивание, кастинг",
+      "example": "He went to an audition for a TV commercial.",
+      "keyword": "один",
+      "mnemonic": "Он один пришёл на audition — на прослушивание и кастинг рекламы."
+    },
+    {
+      "term": "premiere",
+      "translation": "премьера",
+      "example": "The premiere will take place next Friday.",
+      "keyword": "пример",
+      "mnemonic": "Ученик списал пример — зато premiere, премьера уже в пятницу."
+    },
+    {
+      "term": "review",
+      "translation": "рецензия, отзыв",
+      "example": "The film got mixed reviews from critics.",
+      "keyword": "ревень",
+      "mnemonic": "Критик жуёт ревень и строчит review — рецензию и отзыв со смешанными чувствами."
+    }
   ]
 }

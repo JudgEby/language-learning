@@ -5,22 +5,30 @@
     {
       "idiom": "go in one ear and out the other",
       "translation": "в одно ухо влетело, в другое вылетело",
-      "example": "Everything he said went in one ear and out the other."
+      "example": "Everything he said went in one ear and out the other.",
+      "keyword": "ирокез",
+      "mnemonic": "Всё, что говорил, — в одно ухо влетело: пролетело мимо ирокеза: in one ear and out the other."
     },
     {
       "idiom": "rings a bell",
       "translation": "что-то напоминает",
-      "example": "That name rings a bell, but I can't remember where I heard it."
+      "example": "That name rings a bell, but I can't remember where I heard it.",
+      "keyword": "Белла",
+      "mnemonic": "Имя что-то напоминает — звонила Белла: rings a bell, что-то напоминает."
     },
     {
       "idiom": "slip my mind",
       "translation": "вылетело из головы",
-      "example": "I'm sorry — it completely slipped my mind."
+      "example": "I'm sorry — it completely slipped my mind.",
+      "keyword": "слипы",
+      "mnemonic": "Прости — вылетело из головы вместе со слипами: slipped my mind."
     },
     {
       "idiom": "my memory is playing tricks on me",
       "translation": "память меня подводит",
-      "example": "You were there too, weren't you? My memory is playing tricks on me."
+      "example": "You were there too, weren't you? My memory is playing tricks on me.",
+      "keyword": "трико",
+      "mnemonic": "Память меня подводит — надела трико задом наперёд: playing tricks on me."
     }
   ]
 }

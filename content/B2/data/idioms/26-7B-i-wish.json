@@ -5,17 +5,23 @@
     {
       "idiom": "cry over spilt milk",
       "translation": "плакать над пролитым молоком",
-      "example": "There's no point crying over spilt milk."
+      "example": "There's no point crying over spilt milk.",
+      "keyword": "Милка",
+      "mnemonic": "Нет смысла плакать над пролитым молоком — купи Милку: crying over spilt milk."
     },
     {
       "idiom": "if only I knew then",
       "translation": "если бы я тогда знал",
-      "example": "If only I knew then what I know now."
+      "example": "If only I knew then what I know now.",
+      "keyword": "нюни",
+      "mnemonic": "Если бы я тогда знал — не распускал бы нюни: if only I knew then."
     },
     {
       "idiom": "miss the boat",
       "translation": "упустить шанс",
-      "example": "I did not get back to them in time - I had missed the boat."
+      "example": "I did not get back to them in time - I had missed the boat.",
+      "keyword": "бот",
+      "mnemonic": "Не ответил вовремя — упустил шанс: проворонил бота: missed the boat."
     }
   ]
 }

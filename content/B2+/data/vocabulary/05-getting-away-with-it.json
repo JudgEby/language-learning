@@ -5,97 +5,135 @@
     {
       "term": "tournament",
       "translation": "турнир",
-      "example": "They had not lost in twenty games before this tournament."
+      "example": "They had not lost in twenty games before this tournament.",
+      "keyword": "тур мент",
+      "mnemonic": "На турнире тур ведёт мент со свистком — вот тебе tournament."
     },
     {
       "term": "penalty area",
       "translation": "штрафная площадь",
-      "example": "They kept falling over in the penalty area to win a penalty."
+      "example": "They kept falling over in the penalty area to win a penalty.",
+      "keyword": "пена",
+      "mnemonic": "Штрафная площадь вся в пене после дождя — вот тебе penalty area."
     },
     {
       "term": "free kick",
       "translation": "штрафной удар",
-      "example": "Every time we got a free kick, they tried to distract our players."
+      "example": "Every time we got a free kick, they tried to distract our players.",
+      "keyword": "фрик",
+      "mnemonic": "Штрафной удар бьёт фрик в парике — вот тебе free kick."
     },
     {
       "term": "referee",
       "translation": "судья",
-      "example": "Luckily, the referee could see the injury was not genuine."
+      "example": "Luckily, the referee could see the injury was not genuine.",
+      "keyword": "рефера",
+      "mnemonic": "Судья пишет рефера перед матчем и всё видит — вот тебе referee."
     },
     {
       "term": "genuine",
       "translation": "подлинный, настоящий",
-      "example": "The referee could see that the injury was not genuine."
+      "example": "The referee could see that the injury was not genuine.",
+      "keyword": "гений",
+      "mnemonic": "Подлинную травму от липы отличит даже гений — вот тебе genuine, настоящий."
     },
     {
       "term": "tackle",
       "translation": "отбор мяча, подкат",
-      "example": "They were doing dodgy tackles all through the game."
+      "example": "They were doing dodgy tackles all through the game.",
+      "keyword": "текла",
+      "mnemonic": "После подката и отбора мяча слеза текла ручьём — вот тебе tackle."
     },
     {
       "term": "slow the game down",
       "translation": "замедлять игру",
-      "example": "What the players do is slow the game down to waste time."
+      "example": "What the players do is slow the game down to waste time.",
+      "keyword": "слон",
+      "mnemonic": "Игру замедляют, будто слона тянут за хвост — вот тебе slow the game down."
     },
     {
       "term": "spoil",
       "translation": "портить, омрачать",
-      "example": "Cheating spoiled the game for me."
+      "example": "Cheating spoiled the game for me.",
+      "keyword": "спел",
+      "mnemonic": "Жульничество портит игру, как певец спел мимо нот — вот тебе spoil."
     },
     {
       "term": "disgusted",
       "translation": "возмущённый",
-      "example": "I was absolutely disgusted by the behaviour of some players."
+      "example": "I was absolutely disgusted by the behaviour of some players.",
+      "keyword": "диско гад",
+      "mnemonic": "Возмущённый зритель увидел на диско гада в бутсах — вот тебе disgusted."
     },
     {
       "term": "human nature",
       "translation": "человеческая природа",
-      "example": "Some people say that cheating is just human nature."
+      "example": "Some people say that cheating is just human nature.",
+      "keyword": "хмурый",
+      "mnemonic": "Человеческая природа хмурого жулика — жульничать, вот тебе human nature."
     },
     {
       "term": "competitive",
       "translation": "соревновательный, любящий соперничать",
-      "example": "Confession time: I am a really competitive person."
+      "example": "Confession time: I am a really competitive person.",
+      "keyword": "копыто",
+      "mnemonic": "Любит соперничать и бьёт копытом перед стартом — вот тебе competitive."
     },
     {
       "term": "nephew",
       "translation": "племянник",
-      "example": "Even when I play games against my young nephews, I hate losing."
+      "example": "Even when I play games against my young nephews, I hate losing.",
+      "keyword": "не фью",
+      "mnemonic": "Племянник свистит «не фью, а фа!» и не хочет проигрывать — вот тебе nephew."
     },
     {
       "term": "unfair means",
       "translation": "нечестные средства",
-      "example": "They won the match by unfair means."
+      "example": "They won the match by unfair means.",
+      "keyword": "анфиса",
+      "mnemonic": "Нечестные средства принесла Анфиса в сумке — вот тебе unfair means."
     },
     {
       "term": "ashamed",
       "translation": "пристыженный",
-      "example": "They should be ashamed of winning by unfair means."
+      "example": "They should be ashamed of winning by unfair means.",
+      "keyword": "шалость",
+      "mnemonic": "Пристыженный за шалость стоит в углу с медалью — вот тебе ashamed."
     },
     {
       "term": "fraud",
       "translation": "мошенничество, обман",
-      "example": "The mother was charged with fraud after the exam."
+      "example": "The mother was charged with fraud after the exam.",
+      "keyword": "франт",
+      "mnemonic": "Мошенничество и обман провернул франт в цилиндре — вот тебе fraud."
     },
     {
       "term": "disguise",
       "translation": "маскировка; маскировать",
-      "example": "She put on lots of make-up to disguise her face."
+      "example": "She put on lots of make-up to disguise her face.",
+      "keyword": "диско гайка",
+      "mnemonic": "Маскировка из диско-блеска и гайки на лице — вот тебе disguise."
     },
     {
       "term": "quiz team",
       "translation": "команда викторины",
-      "example": "You are in a quiz team with some friends and it is the final round."
+      "example": "You are in a quiz team with some friends and it is the final round.",
+      "keyword": "квиток",
+      "mnemonic": "Команда викторины держится за квиток в финале — вот тебе quiz team."
     },
     {
       "term": "take credit for",
       "translation": "приписывать себе чужую заслугу",
-      "example": "Would you take credit for a junior colleague's work?"
+      "example": "Would you take credit for a junior colleague's work?",
+      "keyword": "кредит",
+      "mnemonic": "Чужую заслугу он приписал себе ради кредита — вот тебе take credit for."
     },
     {
       "term": "call in sick",
       "translation": "отпроситься с работы по болезни",
-      "example": "Would you call in sick to get the day off work?"
+      "example": "Would you call in sick to get the day off work?",
+      "keyword": "сикось",
+      "mnemonic": "Отпросился с работы по болезни, крича «сикось-накось!» — вот тебе call in sick."
     }
   ]
 }

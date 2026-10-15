@@ -5,92 +5,128 @@
     {
       "phrase": "Although utopias are idyllic",
       "translation": "хотя утопии идиллические",
-      "example": "Although utopias are idyllic, dystopias give better stories."
+      "example": "Although utopias are idyllic, dystopias give better stories.",
+      "keyword": "алло",
+      "mnemonic": "По телефону «алло» спорят: хотя утопии идиллические, дистопии дают сюжет, — алло гудит Although utopias are idyllic."
     },
     {
       "phrase": "While dystopian fiction is popular",
       "translation": "в то время как дистопии популярны",
-      "example": "While dystopian fiction is popular, it is darkest for young adults."
+      "example": "While dystopian fiction is popular, it is darkest for young adults.",
+      "keyword": "фикшн",
+      "mnemonic": "Журнал фикшн доказывает: в то время как дистопии популярны, тираж растёт, — фикшн шумит While dystopian fiction is popular."
     },
     {
       "phrase": "Even though the world is depressing",
       "translation": "даже хотя мир удручает",
-      "example": "Even though the world can be depressing, there is a lot to enjoy."
+      "example": "Even though the world can be depressing, there is a lot to enjoy.",
+      "keyword": "депрессия",
+      "mnemonic": "Мир накрыла депрессия: даже хотя мир удручает, есть чему радоваться, — депрессия давит Even though the world is depressing."
     },
     {
       "phrase": "That said",
       "translation": "тем не менее",
-      "example": "E-books are convenient. That said, paper books feel better."
+      "example": "E-books are convenient. That said, paper books feel better.",
+      "keyword": "сед",
+      "mnemonic": "Дед сед, но вставил: тем не менее бумага лучше цифры, — сед ворчит That said."
     },
     {
       "phrase": "However, utopias inspire us",
       "translation": "однако утопии вдохновляют",
-      "example": "Struggles uplift us. However, utopias give us something to aspire to."
+      "example": "Struggles uplift us. However, utopias give us something to aspire to.",
+      "keyword": "инспайр",
+      "mnemonic": "Плакат дал инспайр: однако утопии вдохновляют сильнее борьбы, — инспайр светит However, utopias inspire us."
     },
     {
       "phrase": "Admittedly ... but",
       "translation": "надо признать… но",
-      "example": "Admittedly, there are great sci-fi stories, but I prefer romance."
+      "example": "Admittedly, there are great sci-fi stories, but I prefer romance.",
+      "keyword": "админ",
+      "mnemonic": "Админ развёл руками: надо признать… но романтика лучше фантастики, — админ жмёт Admittedly ... but."
     },
     {
       "phrase": "The film was rubbish, though",
       "translation": "фильм был дрянью, впрочем",
-      "example": "The book was brilliant. The film was rubbish, though."
+      "example": "The book was brilliant. The film was rubbish, though.",
+      "keyword": "рабиш",
+      "mnemonic": "Критик обозвал кино «рабиш»: фильм был дрянью, впрочем книга лучше, — рабиш фыркает The film was rubbish, though."
     },
     {
       "phrase": "True though that is",
       "translation": "хоть это и правда",
-      "example": "True though that seems, we have only seen a tiny extract."
+      "example": "True though that seems, we have only seen a tiny extract.",
+      "keyword": "тру",
+      "mnemonic": "Фанат гудит «тру»: хоть это и правда, мы видели лишь отрывок, — тру звенит True though that is."
     },
     {
       "phrase": "While there are many books",
       "translation": "хотя книг много",
-      "example": "While there are a lot of books in this genre, this one stands out."
+      "example": "While there are a lot of books in this genre, this one stands out.",
+      "keyword": "букс",
+      "mnemonic": "Шкаф-букс ломится: хотя книг много, эта выделяется, — букс скрипит While there are many books."
     },
     {
       "phrase": "turn a blind eye",
       "translation": "закрывать глаза",
-      "example": "We all turned a blind eye for the sake of convenience."
+      "example": "We all turned a blind eye for the sake of convenience.",
+      "keyword": "блайнд",
+      "mnemonic": "Занавеска-блайнд опустилась: пора закрывать глаза ради удобства, — блайнд шуршит turn a blind eye."
     },
     {
       "phrase": "safe haven",
       "translation": "тихое пристанище",
-      "example": "Home was once a safe haven to rest after work."
+      "example": "Home was once a safe haven to rest after work.",
+      "keyword": "сейф",
+      "mnemonic": "Дом как сейф с тишиной: это тихое пристанище после работы, — сейф хранит safe haven."
     },
     {
       "phrase": "personal freedom",
       "translation": "личная свобода",
-      "example": "We had rules, but we kept our personal freedom."
+      "example": "We had rules, but we kept our personal freedom.",
+      "keyword": "фридом",
+      "mnemonic": "Флаг фридом реет: у нас личная свобода при всех правилах, — фридом машет personal freedom."
     },
     {
       "phrase": "sense of community",
       "translation": "чувство общности",
-      "example": "Despite disagreements, there was harmony and a sense of community."
+      "example": "Despite disagreements, there was harmony and a sense of community.",
+      "keyword": "сенсор",
+      "mnemonic": "Общий сенсор настроился: возникло чувство общности несмотря на споры, — сенсор ловит sense of community."
     },
     {
       "phrase": "pay the price for",
       "translation": "поплатиться за",
-      "example": "We are now paying the price for our carelessness."
+      "example": "We are now paying the price for our carelessness.",
+      "keyword": "прайс",
+      "mnemonic": "На кассе выбили прайс: пришлось поплатиться за беспечность, — прайс бьёт pay the price for."
     },
     {
       "phrase": "follow rules",
       "translation": "соблюдать правила",
-      "example": "We had to follow rules and contribute to society."
+      "example": "We had to follow rules and contribute to society.",
+      "keyword": "фол",
+      "mnemonic": "Судья свистнул фол: надо соблюдать правила ради общества, — фол гудит follow rules."
     },
     {
       "phrase": "contribute to society",
       "translation": "вносить вклад в общество",
-      "example": "Everyone was expected to follow rules and contribute to society."
+      "example": "Everyone was expected to follow rules and contribute to society.",
+      "keyword": "трибьют",
+      "mnemonic": "Каждый платит трибьют общему делу, чтобы вносить вклад в общество, — трибьют звенит contribute to society."
     },
     {
       "phrase": "deathly quiet",
       "translation": "могильная тишина",
-      "example": "The street was deathly quiet as people hurried home."
+      "example": "The street was deathly quiet as people hurried home.",
+      "keyword": "квиет",
+      "mnemonic": "Улица встала на квиет-режим: легла могильная тишина, — квиет шипит deathly quiet."
     },
     {
       "phrase": "avoid contact",
       "translation": "избегать контактов",
-      "example": "People walk heads down, avoiding all contact with neighbours."
+      "example": "People walk heads down, avoiding all contact with neighbours.",
+      "keyword": "такт",
+      "mnemonic": "Прохожие сбили такт шагов, чтобы избегать контактов с соседями, — такт стучит avoid contact."
     }
   ]
 }

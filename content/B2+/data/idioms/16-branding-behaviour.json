@@ -5,72 +5,100 @@
     {
       "idiom": "don't judge a book by its cover",
       "translation": "не суди по внешности",
-      "example": "The plain packaging hides great quality — don't judge a book by its cover."
+      "example": "The plain packaging hides great quality — don't judge a book by its cover.",
+      "keyword": "кавер",
+      "mnemonic": "Упаковка в кавер-пыли: поэтому не суди по внешности, — кавер прячет don't judge a book by its cover."
     },
     {
       "idiom": "beauty is only skin deep",
       "translation": "красота поверхностна",
-      "example": "The documentary shows that beauty is only skin deep."
+      "example": "The documentary shows that beauty is only skin deep.",
+      "keyword": "скин",
+      "mnemonic": "Фильм содрал скин-глянец: доказал, что красота поверхностна, — скин шелушится beauty is only skin deep."
     },
     {
       "idiom": "keep up with the Joneses",
       "translation": "гнаться за соседями; не отставать",
-      "example": "People buy creams just to keep up with the Joneses."
+      "example": "People buy creams just to keep up with the Joneses.",
+      "keyword": "джонс",
+      "mnemonic": "Сосед Джонс купил крем: все стали гнаться за соседями и не отставать, — Джонс машет keep up with the Joneses."
     },
     {
       "idiom": "shop till you drop",
       "translation": "шопинг до упаду",
-      "example": "Tourists shop till they drop on the main street."
+      "example": "Tourists shop till they drop on the main street.",
+      "keyword": "шоп",
+      "mnemonic": "Туристы включили шоп-марафон: у них шопинг до упаду, — шоп гудит shop till you drop."
     },
     {
       "idiom": "money to burn",
       "translation": "денег куры не клюют",
-      "example": "Luxury brands target people with money to burn."
+      "example": "Luxury brands target people with money to burn.",
+      "keyword": "бёрн",
+      "mnemonic": "Люкс целит в бёрн-кошелёк: у них денег куры не клюют, — бёрн пылает money to burn."
     },
     {
       "idiom": "cost an arm and a leg",
       "translation": "стоить целое состояние",
-      "example": "The scientific-looking cream costs an arm and a leg."
+      "example": "The scientific-looking cream costs an arm and a leg.",
+      "keyword": "арм",
+      "mnemonic": "Крем заломил арм-цену: он стал стоить целое состояние, — арм гудит cost an arm and a leg."
     },
     {
       "idiom": "vote with one's wallet",
       "translation": "голосовать кошельком",
-      "example": "Shoppers vote with their wallets for natural products."
+      "example": "Shoppers vote with their wallets for natural products.",
+      "keyword": "воллет",
+      "mnemonic": "Покупатели машут воллет-бюллетенем: они стали голосовать кошельком, — воллет щёлкает vote with one's wallet."
     },
     {
       "idiom": "put one's money where one's mouth is",
       "translation": "подкрепить слова деньгами",
-      "example": "The brand put its money where its mouth is and dropped animal testing."
+      "example": "The brand put its money where its mouth is and dropped animal testing.",
+      "keyword": "мани",
+      "mnemonic": "Бренд выложил мани-стопку: он смог подкрепить слова деньгами, — мани звенит put one's money where one's mouth is."
     },
     {
       "idiom": "get one's money's worth",
       "translation": "получить сполна за свои деньги",
-      "example": "Customers want to get their money's worth."
+      "example": "Customers want to get their money's worth.",
+      "keyword": "ворс",
+      "mnemonic": "Клиенты требуют ворс-отдачу: они хотят получить сполна за свои деньги, — ворс весит get one's money's worth."
     },
     {
       "idiom": "retail therapy",
       "translation": "шопинг как лекарство от стресса",
-      "example": "A bad week often ends in retail therapy."
+      "example": "A bad week often ends in retail therapy.",
+      "keyword": "ритейл",
+      "mnemonic": "Неделя кончилась в ритейл-аптеке: это шопинг как лекарство от стресса, — ритейл лечит retail therapy."
     },
     {
       "idiom": "dressed to kill",
       "translation": "разодетый в пух и прах",
-      "example": "She arrived at the presentation dressed to kill."
+      "example": "She arrived at the presentation dressed to kill.",
+      "keyword": "килл",
+      "mnemonic": "Гостья надела килл-наряд: она разодетая в пух и прах, — килл слепит dressed to kill."
     },
     {
       "idiom": "window shopping",
       "translation": "разглядывание витрин",
-      "example": "We spent Saturday window shopping, comparing brands."
+      "example": "We spent Saturday window shopping, comparing brands.",
+      "keyword": "виндоу",
+      "mnemonic": "В субботу залипли на виндоу-стекло: занимались разглядыванием витрин, — виндоу бликует window shopping."
     },
     {
       "idiom": "a steal",
       "translation": "выгодная покупка",
-      "example": "At half price the serum was a real steal."
+      "example": "At half price the serum was a real steal.",
+      "keyword": "стил",
+      "mnemonic": "Сыворотка по скидке как стил-находка: это выгодная покупка, — стил сверкает a steal."
     },
     {
       "idiom": "keeping up appearances",
       "translation": "держать марку; соблюдать приличия",
-      "example": "Much of beauty spending is about keeping up appearances."
+      "example": "Much of beauty spending is about keeping up appearances.",
+      "keyword": "апиренс",
+      "mnemonic": "Траты на апиренс-фасад: всё чтобы держать марку и соблюдать приличия, — апиренс блестит keeping up appearances."
     }
   ]
 }

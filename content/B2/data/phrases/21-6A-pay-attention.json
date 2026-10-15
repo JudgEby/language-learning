@@ -5,42 +5,58 @@
     {
       "phrase": "pay attention",
       "translation": "обращать внимание",
-      "example": "Pay attention to the details."
+      "example": "Pay attention to the details.",
+      "keyword": "пэйвол",
+      "mnemonic": "Обращай внимание на детали — иначе пэйвол: pay attention to the details."
     },
     {
       "phrase": "zone out",
       "translation": "отключиться, задуматься",
-      "example": "I zoned out during the lecture."
+      "example": "I zoned out during the lecture.",
+      "keyword": "зона",
+      "mnemonic": "Отключился на лекции — ушёл в зону: zoned out during the lecture."
     },
     {
       "phrase": "stay focused",
       "translation": "оставаться сосредоточенным",
-      "example": "It's hard to stay focused all day."
+      "example": "It's hard to stay focused all day.",
+      "keyword": "фокусник",
+      "mnemonic": "Трудно оставаться сосредоточенным весь день — смотри, фокусник: stay focused all day."
     },
     {
       "phrase": "avoid distractions",
       "translation": "избегать отвлекающих факторов",
-      "example": "Close the door to avoid distractions."
+      "example": "Close the door to avoid distractions.",
+      "keyword": "войд",
+      "mnemonic": "Закрой дверь, чтобы избежать отвлечений, — войди в войд: avoid distractions."
     },
     {
       "phrase": "switch off your phone",
       "translation": "выключать телефон",
-      "example": "Switch off your phone while studying."
+      "example": "Switch off your phone while studying.",
+      "keyword": "свитч",
+      "mnemonic": "Выключай телефон во время учёбы — щёлкни свитч: switch off your phone."
     },
     {
       "phrase": "take breaks",
       "translation": "делать перерывы",
-      "example": "Take breaks every twenty minutes."
+      "example": "Take breaks every twenty minutes.",
+      "keyword": "брейк",
+      "mnemonic": "Делай перерывы каждые двадцать минут — объяви брейк: take breaks."
     },
     {
       "phrase": "keep a strict routine",
       "translation": "придерживаться строгого режима",
-      "example": "She keeps a strict routine to stay focused."
+      "example": "She keeps a strict routine to stay focused.",
+      "keyword": "рулет",
+      "mnemonic": "Держится строгого режима — ест рулет по расписанию: keeps a strict routine."
     },
     {
       "phrase": "check email at certain times",
       "translation": "проверять почту в определённое время",
-      "example": "He checks email only at certain times of day."
+      "example": "He checks email only at certain times of day.",
+      "keyword": "Емеля",
+      "mnemonic": "Проверяет почту только в своё время — Емеля на печи: checks email at certain times."
     }
   ]
 }

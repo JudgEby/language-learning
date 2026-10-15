@@ -5,92 +5,128 @@
     {
       "phrase": "maintain appearance",
       "translation": "поддерживать внешность",
-      "example": "What products help people maintain appearance?"
+      "example": "What products help people maintain appearance?",
+      "keyword": "меню",
+      "mnemonic": "Изучаю меню кремов, чтобы поддерживать внешность каждый день, — меню листается maintain appearance."
     },
     {
       "phrase": "improve appearance",
       "translation": "улучшать внешность",
-      "example": "What else helps improve appearance every day?"
+      "example": "What else helps improve appearance every day?",
+      "keyword": "пруд",
+      "mnemonic": "Умылся из пруда — и сразу стал улучшать внешность ежедневно, — пруд плещет improve appearance."
     },
     {
       "phrase": "persuade people to buy",
       "translation": "убеждать людей купить",
-      "example": "Firms use many tactics to persuade us to buy."
+      "example": "Firms use many tactics to persuade us to buy.",
+      "keyword": "сват",
+      "mnemonic": "Хитрый сват убеждает людей купить его товар любыми тактиками, — сват уговаривает persuade people to buy."
     },
     {
       "phrase": "carry out an investigation",
       "translation": "проводить расследование",
-      "example": "Reporters carry out an in-depth investigation."
+      "example": "Reporters carry out an in-depth investigation.",
+      "keyword": "инспекция",
+      "mnemonic": "Приехала инспекция проводить расследование журналистов вглубь, — инспекция проверяет carry out an investigation."
     },
     {
       "phrase": "show in different packaging",
       "translation": "показывать в разной упаковке",
-      "example": "They showed the same product in different packaging."
+      "example": "They showed the same product in different packaging.",
+      "keyword": "пакет",
+      "mnemonic": "Один товар показали в разной упаковке — пакет к пакету, — пакет шуршит show in different packaging."
     },
     {
       "phrase": "look more natural",
       "translation": "выглядеть натуральнее",
-      "example": "In the test the product looked more natural and expensive."
+      "example": "In the test the product looked more natural and expensive.",
+      "keyword": "натуралист",
+      "mnemonic": "Юный натуралист выглядит натуральнее и дороже в тестах, — натуралист шепчет look more natural."
     },
     {
       "phrase": "popular with customers",
       "translation": "популярен у покупателей",
-      "example": "The new pack is more popular with customers."
+      "example": "The new pack is more popular with customers.",
+      "keyword": "костюм",
+      "mnemonic": "Новая упаковка в костюме популярна у покупателей, — костюм красуется popular with customers."
     },
     {
       "phrase": "real reason",
       "translation": "настоящая причина",
-      "example": "Customers didn't know the real reason for the survey."
+      "example": "Customers didn't know the real reason for the survey.",
+      "keyword": "резон",
+      "mnemonic": "Есть резон: настоящая причина опроса скрыта от покупателей, — резон гудит real reason."
     },
     {
       "phrase": "decide whether or not to buy",
       "translation": "решать, покупать или нет",
-      "example": "The survey measured anxiety when deciding whether to buy."
+      "example": "The survey measured anxiety when deciding whether to buy.",
+      "keyword": "вездеход",
+      "mnemonic": "Вездеход застрял, пока я решал, покупать или нет, — тревога растёт, — вездеход буксует decide whether or not to buy."
     },
     {
       "phrase": "feel better about themselves",
       "translation": "чувствовать себя лучше",
-      "example": "The luxury pack makes people feel better about themselves."
+      "example": "The luxury pack makes people feel better about themselves.",
+      "keyword": "бэтэр",
+      "mnemonic": "Въехал на бэтэре и сразу стал чувствовать себя лучше всех, — бэтэр гремит feel better about themselves."
     },
     {
       "phrase": "more likely to buy",
       "translation": "с большей вероятностью купит",
-      "example": "It makes them more likely to buy it."
+      "example": "It makes them more likely to buy it.",
+      "keyword": "лайк",
+      "mnemonic": "Поставил лайк — и с большей вероятностью купит этот товар, — лайк кликает more likely to buy."
     },
     {
       "phrase": "revolutionary new product",
-      "translation": "революционно новый продукт",
-      "example": "This revolutionary new product will improve your life."
+      "translation": "революционно nowy продукт",
+      "example": "This revolutionary new product will improve your life.",
+      "keyword": "нюх",
+      "mnemonic": "Учуял нюхом революционно новый продукт — он улучшит твою жизнь, — нюх ведёт revolutionary new product."
     },
     {
       "phrase": "appeal to customers as",
       "translation": "привлекать покупателей как",
-      "example": "It will appeal to customers as a premium item."
+      "example": "It will appeal to customers as a premium item.",
+      "keyword": "пила",
+      "mnemonic": "Пила визжит, привлекая покупателей как премиальный товар, — пила пилит appeal to customers as."
     },
     {
       "phrase": "unique feature is",
       "translation": "уникальная особенность",
-      "example": "One of its unique features is the smart design."
+      "example": "One of its unique features is the smart design.",
+      "keyword": "уникум",
+      "mnemonic": "Настоящий уникум — его уникальная особенность в умном дизайне, — уникум красуется unique feature is."
     },
     {
       "phrase": "feel good about themselves",
       "translation": "чувствовать себя уверенно",
-      "example": "Present a product to help people feel good about themselves."
+      "example": "Present a product to help people feel good about themselves.",
+      "keyword": "гудок",
+      "mnemonic": "Паровоз дал гудок — и все стали чувствовать себя уверенно с новым продуктом, — гудок гудит feel good about themselves."
     },
     {
       "phrase": "different from other products",
       "translation": "отличаться от других товаров",
-      "example": "How is it different from other products on the market?"
+      "example": "How is it different from other products on the market?",
+      "keyword": "дифферент",
+      "mnemonic": "Корабль дал дифферент, чтобы отличаться от других товаров на рынке, — дифферент кренит different from other products."
     },
     {
       "phrase": "strong points",
       "translation": "сильные стороны",
-      "example": "What are its strong points and benefits?"
+      "example": "What are its strong points and benefits?",
+      "keyword": "струна",
+      "mnemonic": "Натянул струну — вот сильные стороны и преимущества товара, — струна звенит strong points."
     },
     {
       "phrase": "ask questions to find out more",
       "translation": "задавать вопросы, чтобы узнать больше",
-      "example": "Ask questions to find out more about each product."
+      "example": "Ask questions to find out more about each product.",
+      "keyword": "квест",
+      "mnemonic": "Прошёл квест из вопросов, чтобы узнать больше о каждом продукте, — квест пройден ask questions to find out more."
     }
   ]
 }

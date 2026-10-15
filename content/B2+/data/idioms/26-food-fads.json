@@ -5,72 +5,100 @@
     {
       "idiom": "food for thought",
       "translation": "пища для размышлений",
-      "example": "The article gave me real food for thought."
+      "example": "The article gave me real food for thought.",
+      "keyword": "фуд",
+      "mnemonic": "Статья как фуд для мозга: она дала пищу для размышлений, — фуд питает food for thought."
     },
     {
       "idiom": "an acquired taste",
       "translation": "вкус, к которому нужно привыкнуть",
-      "example": "Squid on pizza is an acquired taste."
+      "example": "Squid on pizza is an acquired taste.",
+      "keyword": "тейст",
+      "mnemonic": "Кальмар прошёл тейст-тест: это вкус, к которому нужно привыкнуть, — тейст морщится an acquired taste."
     },
     {
       "idiom": "the icing on the cake",
       "translation": "вишенка на торте",
-      "example": "Live music was the icing on the cake of the food festival."
+      "example": "Live music was the icing on the cake of the food festival.",
+      "keyword": "айс",
+      "mnemonic": "Фестиваль покрыли айс-глазурью: музыка стала вишенкой на торте, — айс блестит the icing on the cake."
     },
     {
       "idiom": "have a lot on one's plate",
       "translation": "иметь много дел",
-      "example": "With three diets to follow, she has got a lot on her plate."
+      "example": "With three diets to follow, she has got a lot on her plate.",
+      "keyword": "плейт",
+      "mnemonic": "На плейт-тарелке три диеты: она стала иметь много дел, — плейт ломится have a lot on one's plate."
     },
     {
       "idiom": "bite off more than one can chew",
       "translation": "откусить больше, чем можешь прожевать",
-      "example": "Opening two cafes at once was biting off more than he could chew."
+      "example": "Opening two cafes at once was biting off more than he could chew.",
+      "keyword": "чу",
+      "mnemonic": "Кафе откусило чу-кусок: оно смогло откусить больше, чем можешь прожевать, — чу давится bite off more than one can chew."
     },
     {
       "idiom": "a piece of cake",
       "translation": "проще простого",
-      "example": "Cooking pasta is a piece of cake."
+      "example": "Cooking pasta is a piece of cake.",
+      "keyword": "кейк",
+      "mnemonic": "Паста как кейк-полуфабрикат: это проще простого, — кейк варится a piece of cake."
     },
     {
       "idiom": "sell like hot cakes",
       "translation": "расхватывать как горячие пирожки",
-      "example": "The new bubble tea sells like hot cakes."
+      "example": "The new bubble tea sells like hot cakes.",
+      "keyword": "хот",
+      "mnemonic": "Чай улетает как хот-пирожки: его стали расхватывать как горячие пирожки, — хот пылает sell like hot cakes."
     },
     {
       "idiom": "spice things up",
       "translation": "добавить остроты",
-      "example": "Chilli oil really spices things up."
+      "example": "Chilli oil really spices things up.",
+      "keyword": "спайс",
+      "mnemonic": "Масло чили как спайс-бомба: оно смогло добавить остроты, — спайс жжёт spice things up."
     },
     {
       "idiom": "a recipe for disaster",
       "translation": "верный путь к провалу",
-      "example": "Copying every food fad is a recipe for disaster."
+      "example": "Copying every food fad is a recipe for disaster.",
+      "keyword": "рецепт",
+      "mnemonic": "Копирование трендов по рецепту: это верный путь к провалу, — рецепт чадит a recipe for disaster."
     },
     {
       "idiom": "a melting pot",
       "translation": "плавильный котёл",
-      "example": "The city is a melting pot of cuisines."
+      "example": "The city is a melting pot of cuisines.",
+      "keyword": "мелтинг-пот",
+      "mnemonic": "Город бурлит как мелтинг-пот: это плавильный котёл кухонь, — мелтинг-пот кипит a melting pot."
     },
     {
       "idiom": "whet the appetite",
       "translation": "разжечь аппетит",
-      "example": "The photos whetted our appetite for Thai food."
+      "example": "The photos whetted our appetite for Thai food.",
+      "keyword": "аппетайт",
+      "mnemonic": "Фото включили аппетайт-сигнал: они смогли разжечь аппетит, — аппетайт урчит whet the appetite."
     },
     {
       "idiom": "eat one's words",
       "translation": "взять свои слова обратно",
-      "example": "He had to eat his words about vegan burgers."
+      "example": "He had to eat his words about vegan burgers.",
+      "keyword": "ит",
+      "mnemonic": "Скептик жуёт ит-бургер: он смог взять свои слова обратно, — ит чавкает eat one's words."
     },
     {
       "idiom": "a hot potato",
       "translation": "щекотливая тема",
-      "example": "Food appropriation is a real hot potato."
+      "example": "Food appropriation is a real hot potato.",
+      "keyword": "потато",
+      "mnemonic": "Апроприация как потато-уголёк: это щекотливая тема, — потато жжёт a hot potato."
     },
     {
       "idiom": "full of beans",
       "translation": "энергичный, бодрый",
-      "example": "After breakfast he is full of beans."
+      "example": "After breakfast he is full of beans.",
+      "keyword": "бинс",
+      "mnemonic": "После завтрака скачет бинс-батарейка: он энергичный и бодрый, — бинс прыгает full of beans."
     }
   ]
 }

@@ -5,12 +5,16 @@
     {
       "idiom": "live life to the full",
       "translation": "жить полной жизнью",
-      "example": "She really lives life to the full."
+      "example": "She really lives life to the full.",
+      "keyword": "фулл-хаус",
+      "mnemonic": "Она живёт полной жизнью — фулл-хаус: lives life to the full."
     },
     {
       "idiom": "the world is your oyster",
       "translation": "мир у твоих ног",
-      "example": "With your skills, the world is your oyster."
+      "example": "With your skills, the world is your oyster.",
+      "keyword": "устрицы",
+      "mnemonic": "С твоими навыками мир у твоих ног — заказывай устрицы: world is your oyster."
     }
   ]
 }

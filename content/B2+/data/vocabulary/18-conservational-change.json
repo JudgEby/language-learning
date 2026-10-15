@@ -5,87 +5,121 @@
     {
       "term": "conservation",
       "translation": "сохранение природы",
-      "example": "Conservation of natural habitats is essential for protecting wildlife."
+      "example": "Conservation of natural habitats is essential for protecting wildlife.",
+      "keyword": "консервы",
+      "mnemonic": "Сохранение природы в консервах для зверей — вот тебе conservation."
     },
     {
       "term": "environment",
       "translation": "окружающая среда",
-      "example": "Plastics cause a lot of damage to the environment."
+      "example": "Plastics cause a lot of damage to the environment.",
+      "keyword": "вайфай",
+      "mnemonic": "Окружающей среде вредит вайфай из пластика — вот тебе environment."
     },
     {
       "term": "environmental",
       "translation": "экологический",
-      "example": "The government has introduced new environmental regulations."
+      "example": "The government has introduced new environmental regulations.",
+      "keyword": "ментальный",
+      "mnemonic": "Новые экологические нормы ментально давят — вот тебе environmental."
     },
     {
       "term": "species",
       "translation": "вид",
-      "example": "Many species are at risk of extinction due to climate change."
+      "example": "Many species are at risk of extinction due to climate change.",
+      "keyword": "специи",
+      "mnemonic": "Вид под угрозой — спасай специи климата, вот тебе species."
     },
     {
       "term": "habitat",
       "translation": "среда обитания",
-      "example": "Deforestation destroys the natural habitat of countless animals."
+      "example": "Deforestation destroys the natural habitat of countless animals.",
+      "keyword": "Хабиб",
+      "mnemonic": "Среда обитания, где Хабиб борется с вырубкой, — вот тебе habitat."
     },
     {
       "term": "ecosystem",
       "translation": "экосистема",
-      "example": "The entire ecosystem depends on the delicate balance between predators and prey."
+      "example": "The entire ecosystem depends on the delicate balance between predators and prey.",
+      "keyword": "эко сок",
+      "mnemonic": "Вся экосистема на эко соке хищников и жертв — вот тебе ecosystem."
     },
     {
       "term": "endangered",
       "translation": "исчезающий",
-      "example": "The giant panda is no longer classified as an endangered species."
+      "example": "The giant panda is no longer classified as an endangered species.",
+      "keyword": "на грани",
+      "mnemonic": "Исчезающая панда на грани классификации — вот тебе endangered."
     },
     {
       "term": "extinct",
       "translation": "вымерший",
-      "example": "Dinosaurs became extinct millions of years ago."
+      "example": "Dinosaurs became extinct millions of years ago.",
+      "keyword": "инстинкт",
+      "mnemonic": "Вымершие динозавры без инстинкта миллионы лет назад — вот тебе extinct."
     },
     {
       "term": "poacher",
       "translation": "браконьер",
-      "example": "Poachers kill elephants for their ivory tusks."
+      "example": "Poachers kill elephants for their ivory tusks.",
+      "keyword": "почерк",
+      "mnemonic": "Браконьер с плохим почерком бьёт слонов — вот тебе poacher."
     },
     {
       "term": "predator",
       "translation": "хищник",
-      "example": "Lions are apex predators at the top of the food chain."
+      "example": "Lions are apex predators at the top of the food chain.",
+      "keyword": "предатель",
+      "mnemonic": "Хищник на вершине — предатель пищевой цепи, вот тебе predator."
     },
     {
       "term": "prey",
       "translation": "жертва",
-      "example": "The rabbit is a common prey for foxes."
+      "example": "The rabbit is a common prey for foxes.",
+      "keyword": "пряник",
+      "mnemonic": "Жертва-кролик грызёт пряник перед лисой — вот тебе prey."
     },
     {
       "term": "migrate",
       "translation": "мигрировать",
-      "example": "Birds migrate south for the winter."
+      "example": "Birds migrate south for the winter.",
+      "keyword": "эмигрант",
+      "mnemonic": "Птицы мигрируют на юг, как эмигрант зимой, — вот тебе migrate."
     },
     {
       "term": "reproduce",
       "translation": "размножаться",
-      "example": "Climate change is making it difficult for some animals to reproduce."
+      "example": "Climate change is making it difficult for some animals to reproduce.",
+      "keyword": "репродуктор",
+      "mnemonic": "Размножаться мешает климат через репродуктор — вот тебе reproduce."
     },
     {
       "term": "instinctive",
       "translation": "инстинктивный",
-      "example": "Some animals seem to have an instinctive fear of water."
+      "example": "Some animals seem to have an instinctive fear of water.",
+      "keyword": "институт",
+      "mnemonic": "Инстинктивный страх воды изучают в институте — вот тебе instinctive."
     },
     {
       "term": "breed",
       "translation": "разводить, размножаться",
-      "example": "Endangered animals can be bred in captivity and then returned to the wild."
+      "example": "Endangered animals can be bred in captivity and then returned to the wild.",
+      "keyword": "брит",
+      "mnemonic": "Исчезающих разводят в неволе, где пёс брит наголо, — вот тебе breed."
     },
     {
       "term": "game",
       "translation": "дичь (животные как объект охоты)",
-      "example": "Some animals are seen as game and hunted for sport."
+      "example": "Some animals are seen as game and hunted for sport.",
+      "keyword": "гам",
+      "mnemonic": "Дичь для охоты с гамом и шумом — вот тебе game."
     },
     {
       "term": "wildlife",
       "translation": "дикая природа",
-      "example": "Tourism can have a negative effect on wildlife."
+      "example": "Tourism can have a negative effect on wildlife.",
+      "keyword": "вайлд лайф",
+      "mnemonic": "Дикой природе вредит вайлд лайф туристов — вот тебе wildlife."
     }
   ]
 }

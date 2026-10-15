@@ -2,22 +2,124 @@
   "lessonId": "afraid-of-nothing",
   "title": "Afraid of nothing — новые слова",
   "items": [
-    { "term": "a stunt double", "translation": "каскадёр, актёр-двойник", "example": "Eunice is a stunt double in films." },
-    { "term": "a stunt", "translation": "трюк (в кино)", "example": "There's a great stunt in which his car has to jump across a fifteen-metre gap." },
-    { "term": "a stunt woman / a stuntman", "translation": "каскадёрша / каскадёр", "example": "She started doing stunt work over fifteen years ago." },
-    { "term": "a stunt director", "translation": "постановщик трюков", "example": "Now she works more as a stunt director." },
-    { "term": "crash a car", "translation": "разбить машину", "example": "Crashing a car at high speed is part of the job." },
-    { "term": "jump off something", "translation": "прыгнуть с чего-то", "example": "She jumped off ships and fallen off buildings." },
-    { "term": "fall off something", "translation": "упасть с чего-то", "example": "She has fallen off buildings in films." },
-    { "term": "a broken bone", "translation": "перелом", "example": "She has broken some bones during her career." },
-    { "term": "an injury", "translation": "травма", "example": "Broken bones and other injuries are normal for stunt doubles." },
-    { "term": "an ache", "translation": "ноющая боль", "example": "She woke up with a few aches and pains." },
-    { "term": "the challenge", "translation": "вызов, испытание", "example": "Most stunt performers talk about the excitement and the challenge." },
-    { "term": "be memorable", "translation": "быть запоминающимся", "example": "It was the most memorable moment in her life." },
-    { "term": "be afraid of", "translation": "бояться", "example": "Are you afraid of heights?" },
-    { "term": "towards something", "translation": "по направлению к чему-то", "example": "He was running towards the bridge." },
-    { "term": "away from something", "translation": "прочь от чего-то", "example": "Move away from the building — it's dangerous." },
-    { "term": "across the bridge", "translation": "через мост", "example": "They walked across the bridge together." },
-    { "term": "under the bridge", "translation": "под мостом", "example": "The boat went under the bridge." }
+    {
+      "term": "a stunt double",
+      "translation": "каскадёр, актёр-двойник",
+      "example": "Eunice is a stunt double in films.",
+      "keyword": "стенд",
+      "mnemonic": "Каскадёр стоит на стенде — это a stunt double."
+    },
+    {
+      "term": "a stunt",
+      "translation": "трюк (в кино)",
+      "example": "There's a great stunt in which his car has to jump across a fifteen-metre gap.",
+      "keyword": "стук",
+      "mnemonic": "Каскадёр с грохотом делает трюк — стук, вот a stunt."
+    },
+    {
+      "term": "a stunt woman / a stuntman",
+      "translation": "каскадёрша / каскадёр",
+      "example": "She started doing stunt work over fifteen years ago.",
+      "keyword": "мент",
+      "mnemonic": "Мент переквалифицировался в каскадёра — это a stuntman."
+    },
+    {
+      "term": "a stunt director",
+      "translation": "постановщик трюков",
+      "example": "Now she works more as a stunt director.",
+      "keyword": "директор",
+      "mnemonic": "Директор ставит трюки — это a stunt director, постановщик трюков."
+    },
+    {
+      "term": "crash a car",
+      "translation": "разбить машину",
+      "example": "Crashing a car at high speed is part of the job.",
+      "keyword": "краш",
+      "mnemonic": "Каскадёр устраивает краш — crash a car, разбить машину."
+    },
+    {
+      "term": "jump off something",
+      "translation": "прыгнуть с чего-то",
+      "example": "She jumped off ships and fallen off buildings.",
+      "keyword": "джамп",
+      "mnemonic": "Каскадёр кричит «джамп» и прыгает — jump off."
+    },
+    {
+      "term": "fall off something",
+      "translation": "упасть с чего-то",
+      "example": "She has fallen off buildings in films.",
+      "keyword": "фол",
+      "mnemonic": "Судья свистит фол, а каскадёр падает — fall off."
+    },
+    {
+      "term": "a broken bone",
+      "translation": "перелом",
+      "example": "She has broken some bones during her career.",
+      "keyword": "брокколи",
+      "mnemonic": "Каскадёр с брокколи получил перелом — это a broken bone."
+    },
+    {
+      "term": "an injury",
+      "translation": "травма",
+      "example": "Broken bones and other injuries are normal for stunt doubles.",
+      "keyword": "инжир",
+      "mnemonic": "Каскадёр лечит травму инжиром — это an injury."
+    },
+    {
+      "term": "an ache",
+      "translation": "ноющая боль",
+      "example": "She woke up with a few aches and pains.",
+      "keyword": "ахи",
+      "mnemonic": "Бабушка охает «ахи» от ноющей боли — это an ache."
+    },
+    {
+      "term": "the challenge",
+      "translation": "вызов, испытание",
+      "example": "Most stunt performers talk about the excitement and the challenge.",
+      "keyword": "челлендж",
+      "mnemonic": "Каскадёр принимает челлендж — это the challenge, вызов."
+    },
+    {
+      "term": "be memorable",
+      "translation": "быть запоминающимся",
+      "example": "It was the most memorable moment in her life.",
+      "keyword": "мемориал",
+      "mnemonic": "Мемориал запоминается навсегда — be memorable."
+    },
+    {
+      "term": "be afraid of",
+      "translation": "бояться",
+      "example": "Are you afraid of heights?",
+      "keyword": "фрейд",
+      "mnemonic": "Пациент Фрейда боится высоты — be afraid of."
+    },
+    {
+      "term": "towards something",
+      "translation": "по направлению к чему-то",
+      "example": "He was running towards the bridge.",
+      "keyword": "тауэр",
+      "mnemonic": "Бегун мчится к тауэру — towards, по направлению к."
+    },
+    {
+      "term": "away from something",
+      "translation": "прочь от чего-то",
+      "example": "Move away from the building — it's dangerous.",
+      "keyword": "вей",
+      "mnemonic": "Проводник кричит «вей» — прочь, away from."
+    },
+    {
+      "term": "across the bridge",
+      "translation": "через мост",
+      "example": "They walked across the bridge together.",
+      "keyword": "кросс",
+      "mnemonic": "Бегуны устроили кросс через мост — across the bridge."
+    },
+    {
+      "term": "under the bridge",
+      "translation": "под мостом",
+      "example": "The boat went under the bridge.",
+      "keyword": "андер",
+      "mnemonic": "Лодка с надписью «андер» идёт под мостом — under the bridge."
+    }
   ]
 }

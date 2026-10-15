@@ -2,21 +2,117 @@
   "lessonId": "lifes-a-lottery",
   "title": "Life's a lottery — новые слова",
   "items": [
-    { "term": "the lottery", "translation": "лотерея", "example": "Is there a lottery in your country? Do you ever play?" },
-    { "term": "a lottery ticket", "translation": "лотерейный билет", "example": "The piece of paper under the leaves was a winning lottery ticket." },
-    { "term": "win / win the lottery", "translation": "выигрывать / выиграть в лотерею", "example": "Martin and his wife are ten million dollars richer." },
-    { "term": "a winner", "translation": "победитель", "example": "Listen to a radio interview with lottery winners." },
-    { "term": "plans for the future", "translation": "планы на будущее", "example": "What are your plans for the future? — I'd like to learn to fly." },
-    { "term": "have a barbecue", "translation": "устроить барбекю", "example": "We're going to have a barbecue in the garden." },
-    { "term": "start your own business", "translation": "начать своё дело", "example": "I'd like to start my own business." },
-    { "term": "move house", "translation": "переезжать", "example": "They won ten million and now they want to move house." },
-    { "term": "buy a new car", "translation": "купить новую машину", "example": "He's going to buy a new car." },
-    { "term": "give money to someone", "translation": "дать кому-то денег", "example": "They are going to give the money to a children's hospital." },
-    { "term": "learn to fly", "translation": "научиться летать", "example": "One of their plans is to learn to fly." },
-    { "term": "have a party", "translation": "устроить вечеринку", "example": "We're going to have a party and invite all our friends." },
-    { "term": "a storm", "translation": "шторм, буря", "example": "A gardener found a tree on top of his car after a storm." },
-    { "term": "be thrilled", "translation": "быть в восторге", "example": "We're thrilled, of course." },
-    { "term": "a sports car", "translation": "спорткар", "example": "I'd like to drive a sports car." },
-    { "term": "the Caribbean", "translation": "Карибы", "example": "I'm going to have a holiday in the Caribbean." }
+    {
+      "term": "the lottery",
+      "translation": "лотерея",
+      "example": "Is there a lottery in your country? Do you ever play?",
+      "keyword": "лото",
+      "mnemonic": "Бабушка играет в лото — это the lottery, лотерея."
+    },
+    {
+      "term": "a lottery ticket",
+      "translation": "лотерейный билет",
+      "example": "The piece of paper under the leaves was a winning lottery ticket.",
+      "keyword": "тикет",
+      "mnemonic": "Счастливчик машет тикетом — это a lottery ticket, лотерейный билет."
+    },
+    {
+      "term": "win / win the lottery",
+      "translation": "выигрывать / выиграть в лотерею",
+      "example": "Martin and his wife are ten million dollars richer.",
+      "keyword": "вин",
+      "mnemonic": "Винт крутится и выигрывает в лотерею — to win."
+    },
+    {
+      "term": "a winner",
+      "translation": "победитель",
+      "example": "Listen to a radio interview with lottery winners.",
+      "keyword": "вино",
+      "mnemonic": "Победитель поливает вином студию — он a winner."
+    },
+    {
+      "term": "plans for the future",
+      "translation": "планы на будущее",
+      "example": "What are your plans for the future? — I'd like to learn to fly.",
+      "keyword": "футурист",
+      "mnemonic": "Футурист чертит планы на будущее — plans for the future."
+    },
+    {
+      "term": "have a barbecue",
+      "translation": "устроить барбекю",
+      "example": "We're going to have a barbecue in the garden.",
+      "keyword": "барби",
+      "mnemonic": "Барби жарит барбекю в саду — have a barbecue."
+    },
+    {
+      "term": "start your own business",
+      "translation": "начать своё дело",
+      "example": "I'd like to start my own business.",
+      "keyword": "бизнес",
+      "mnemonic": "Бизнесмен открывает своё дело — start your own business."
+    },
+    {
+      "term": "move house",
+      "translation": "переезжать",
+      "example": "They won ten million and now they want to move house.",
+      "keyword": "мув",
+      "mnemonic": "Грузчик кричит «мув» и переезжает — move house."
+    },
+    {
+      "term": "buy a new car",
+      "translation": "купить новую машину",
+      "example": "He's going to buy a new car.",
+      "keyword": "бай",
+      "mnemonic": "Байкер кричит «бай» и покупает машину — buy a new car."
+    },
+    {
+      "term": "give money to someone",
+      "translation": "дать кому-то денег",
+      "example": "They are going to give the money to a children's hospital.",
+      "keyword": "мани",
+      "mnemonic": "Богач трясёт мани и даёт денег — give money to someone."
+    },
+    {
+      "term": "learn to fly",
+      "translation": "научиться летать",
+      "example": "One of their plans is to learn to fly.",
+      "keyword": "флай",
+      "mnemonic": "Пилот кричит «флай» и учится летать — learn to fly."
+    },
+    {
+      "term": "have a party",
+      "translation": "устроить вечеринку",
+      "example": "We're going to have a party and invite all our friends.",
+      "keyword": "пати",
+      "mnemonic": "Диджей зовёт на пати — это have a party, вечеринка."
+    },
+    {
+      "term": "a storm",
+      "translation": "шторм, буря",
+      "example": "A gardener found a tree on top of his car after a storm.",
+      "keyword": "шторка",
+      "mnemonic": "Шторка рвётся в шторм — это a storm."
+    },
+    {
+      "term": "be thrilled",
+      "translation": "быть в восторге",
+      "example": "We're thrilled, of course.",
+      "keyword": "триллер",
+      "mnemonic": "Зритель в восторге от триллера — he is thrilled."
+    },
+    {
+      "term": "a sports car",
+      "translation": "спорткар",
+      "example": "I'd like to drive a sports car.",
+      "keyword": "спортзал",
+      "mnemonic": "Спортзал на колёсах мчится — это a sports car, спорткар."
+    },
+    {
+      "term": "the Caribbean",
+      "translation": "Карибы",
+      "example": "I'm going to have a holiday in the Caribbean.",
+      "keyword": "карусель",
+      "mnemonic": "Карусель крутится на Карибах — вот the Caribbean."
+    }
   ]
 }

@@ -5,97 +5,135 @@
     {
       "idiom": "the underdog",
       "translation": "аутсайдер",
-      "example": "Sasha Brown is very inexperienced, so she's the underdog in this game."
+      "example": "Sasha Brown is very inexperienced, so she's the underdog in this game.",
+      "keyword": "андердог",
+      "mnemonic": "Новичок-андердог вышел на поле: он аутсайдер в игре, — андердог пыхтит the underdog."
     },
     {
       "idiom": "play for time",
       "translation": "тянуть время",
-      "example": "I don't believe she's really injured — I think she's playing for time because the game's nearly over."
+      "example": "I don't believe she's really injured — I think she's playing for time because the game's nearly over.",
+      "keyword": "плей",
+      "mnemonic": "Игрок жмёт плей-паузу: он стал тянуть время до конца, — плей тянет play for time."
     },
     {
       "idiom": "bend the rules",
       "translation": "нарушать правила",
-      "example": "This kind of behaviour isn't against the rules, but it's definitely bending the rules."
+      "example": "This kind of behaviour isn't against the rules, but it's definitely bending the rules.",
+      "keyword": "бенд",
+      "mnemonic": "Хитрец согнул бенд-правило в дугу: он стал нарушать правила, — бенд гнётся bend the rules."
     },
     {
       "idiom": "the favourite",
       "translation": "фаворит",
-      "example": "Her opponent is definitely the favourite and should win comfortably."
+      "example": "Her opponent is definitely the favourite and should win comfortably.",
+      "keyword": "фав",
+      "mnemonic": "Соперница словила фав-фору: она фаворит и выиграет, — фав светит the favourite."
     },
     {
       "idiom": "dive",
       "translation": "симулировать",
-      "example": "Was he really tripped, or did he dive to try and get a penalty?"
+      "example": "Was he really tripped, or did he dive to try and get a penalty?",
+      "keyword": "дайв",
+      "mnemonic": "Футболист ушёл в дайв на газоне: он стал симулировать фол, — дайв плещет dive."
     },
     {
       "idiom": "unbeaten",
       "translation": "непобеждённый",
-      "example": "Manchester United are having a great season — they're unbeaten in nine games now."
+      "example": "Manchester United are having a great season — they're unbeaten in nine games now.",
+      "keyword": "бит",
+      "mnemonic": "Команда качает бит победы: она непобеждённая девять игр, — бит гремит unbeaten."
     },
     {
       "idiom": "concede",
       "translation": "признать поражение",
-      "example": "He can't win the game now, so he may choose to concede."
+      "example": "He can't win the game now, so he may choose to concede.",
+      "keyword": "сид",
+      "mnemonic": "Игрок сел на сид-скамью: он готов признать поражение, — сид скрипит concede."
     },
     {
       "idiom": "put someone off",
       "translation": "сбить кого-то",
-      "example": "All this messing around has definitely put him off and caused him to make mistakes."
+      "example": "All this messing around has definitely put him off and caused him to make mistakes.",
+      "keyword": "офф",
+      "mnemonic": "Возня нажала офф-кнопку: она смогла сбить кого-то и наделать ошибок, — офф мигает put someone off."
     },
     {
       "idiom": "win at all costs",
       "translation": "победить любой ценой",
-      "example": "They just want to win at all costs, even if they have to cheat."
+      "example": "They just want to win at all costs, even if they have to cheat.",
+      "keyword": "вин",
+      "mnemonic": "Команда орёт «вин!»: она хочет победить любой ценой, хоть мухлюя, — вин гремит win at all costs."
     },
     {
       "idiom": "con",
       "translation": "обмануть, надуть",
-      "example": "They've conned other people to gain an advantage."
+      "example": "They've conned other people to gain an advantage.",
+      "keyword": "кон",
+      "mnemonic": "Мошенник ставит кон на доверии: он смог обмануть и надуть ради выгоды, — кон звенит con."
     },
     {
       "idiom": "let someone win",
       "translation": "поддаться, дать выиграть",
-      "example": "I can't bear to let them win — I always play to win."
+      "example": "I can't bear to let them win — I always play to win.",
+      "keyword": "лет",
+      "mnemonic": "Чемпион кричит «лет-пас!»: он не хочет поддаться и дать выиграть, — лет свистит let someone win."
     },
     {
       "idiom": "get away with it",
       "translation": "выйти сухим из воды, сойти с рук",
-      "example": "People will always cheat if they think they can get away with it."
+      "example": "People will always cheat if they think they can get away with it.",
+      "keyword": "вей",
+      "mnemonic": "Жулик свернул на вей-объезд: он смог выйти сухим из воды, сойти с рук, — вей петляет get away with it."
     },
     {
       "idiom": "hold your head up",
       "translation": "держать голову высоко, не стыдиться",
-      "example": "You played by the rules, so you can definitely hold your head up."
+      "example": "You played by the rules, so you can definitely hold your head up.",
+      "keyword": "холд",
+      "mnemonic": "Честный игрок встал в холд-стойку: он может держать голову высоко, не стыдиться, — холд держит hold your head up."
     },
     {
       "idiom": "not the done thing",
       "translation": "так не принято",
-      "example": "Making fun of the losing team isn't the done thing."
+      "example": "Making fun of the losing team isn't the done thing.",
+      "keyword": "дан",
+      "mnemonic": "Судья качает головой «дан-нет»: смеяться — так не принято, — дан гудит not the done thing."
     },
     {
       "idiom": "play fair",
       "translation": "играть честно",
-      "example": "Why can't these top players just play fair?"
+      "example": "Why can't these top players just play fair?",
+      "keyword": "фэйр",
+      "mnemonic": "Капитан поднял фэйр-флаг: призвал играть честно, — фэйр реет play fair."
     },
     {
       "idiom": "play by the rules",
       "translation": "играть по правилам",
-      "example": "You played by the rules, so hold your head up and feel proud."
+      "example": "You played by the rules, so hold your head up and feel proud.",
+      "keyword": "рулс",
+      "mnemonic": "Команда зубрит рулс-кодекс: она стала играть по правилам и гордиться, — рулс гремит play by the rules."
     },
     {
       "idiom": "come out on top",
       "translation": "выйти победителем",
-      "example": "You'll do anything to come out on top."
+      "example": "You'll do anything to come out on top.",
+      "keyword": "топ",
+      "mnemonic": "Хитрец лезет в топ-таблицу: он хочет выйти победителем любой ценой, — топ манит come out on top."
     },
     {
       "idiom": "disgraceful",
       "translation": "позорный",
-      "example": "It was disgraceful the way they cheated!"
+      "example": "It was disgraceful the way they cheated!",
+      "keyword": "дисгрейс",
+      "mnemonic": "Трибуны орут «дисгрейс!»: жульничество — это позорный провал, — дисгрейс гудит disgraceful."
     },
     {
       "idiom": "fake",
       "translation": "симулировать, притворяться",
-      "example": "Denby was definitely faking his injury to get a penalty."
+      "example": "Denby was definitely faking his injury to get a penalty.",
+      "keyword": "фейк",
+      "mnemonic": "Форвард клеит фейк-травму: он стал симулировать и притворяться ради пенальти, — фейк хромает fake."
     }
   ]
 }

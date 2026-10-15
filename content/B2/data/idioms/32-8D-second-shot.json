@@ -5,12 +5,16 @@
     {
       "idiom": "second shot / second chance",
       "translation": "второй шанс",
-      "example": "Everyone deserves a second shot."
+      "example": "Everyone deserves a second shot.",
+      "keyword": "шоты",
+      "mnemonic": "Каждый заслуживает второй шанс — налей шоты: deserves a second shot."
     },
     {
       "idiom": "get the ball rolling",
       "translation": "запустить процесс",
-      "example": "Let's get the ball rolling on this project."
+      "example": "Let's get the ball rolling on this project.",
+      "keyword": "болеем",
+      "mnemonic": "Запустим проект — болеем за него: get the ball rolling on this project."
     }
   ]
 }

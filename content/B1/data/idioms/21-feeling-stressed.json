@@ -2,10 +2,40 @@
   "lessonId": "feeling-stressed",
   "title": "Feeling stressed? — идиомы",
   "items": [
-    { "idiom": "get on someone's nerves", "translation": "действовать на нервы", "example": "That constant tapping is getting on my nerves." },
-    { "idiom": "blow off steam", "translation": "выпускать пар, снимать напряжение", "example": "I went for a run to blow off steam." },
-    { "idiom": "on edge", "translation": "на взводе, в напряжении", "example": "I've been on edge all day because of the interview." },
-    { "idiom": "take it easy", "translation": "относиться проще, не напрягаться", "example": "You've been working too hard — take it easy this weekend." },
-    { "idiom": "keep your cool", "translation": "сохранять спокойствие", "example": "Even when things go wrong, try to keep your cool." }
+    {
+      "idiom": "get on someone's nerves",
+      "translation": "действовать на нервы",
+      "example": "That constant tapping is getting on my nerves.",
+      "keyword": "нерпа",
+      "mnemonic": "Нерпа стучит по столу: get on someone's nerves — действовать на нервы этим стуком."
+    },
+    {
+      "idiom": "blow off steam",
+      "translation": "выпускать пар, снимать напряжение",
+      "example": "I went for a run to blow off steam.",
+      "keyword": "стим",
+      "mnemonic": "Стим выходит на пробежке: blow off steam — выпускать пар, снимать напряжение."
+    },
+    {
+      "idiom": "on edge",
+      "translation": "на взводе, в напряжении",
+      "example": "I've been on edge all day because of the interview.",
+      "keyword": "эдж",
+      "mnemonic": "Эдж собеседования давит: on edge — на взводе, в напряжении весь день."
+    },
+    {
+      "idiom": "take it easy",
+      "translation": "относиться проще, не напрягаться",
+      "example": "You've been working too hard — take it easy this weekend.",
+      "keyword": "изи",
+      "mnemonic": "Изи на выходных: take it easy — относиться проще, не напрягаться после переработок."
+    },
+    {
+      "idiom": "keep your cool",
+      "translation": "сохранять спокойствие",
+      "example": "Even when things go wrong, try to keep your cool.",
+      "keyword": "кул",
+      "mnemonic": "Кул даже при провале: keep your cool — сохранять спокойствие, когда всё идёт не так."
+    }
   ]
 }

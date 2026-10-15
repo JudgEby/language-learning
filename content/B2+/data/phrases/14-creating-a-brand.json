@@ -5,92 +5,128 @@
     {
       "phrase": "sum up the image",
       "translation": "охарактеризовать имидж одним словом",
-      "example": "Write one word to sum up the image of each city."
+      "example": "Write one word to sum up the image of each city.",
+      "keyword": "сумма",
+      "mnemonic": "Подбили сумму слов и охарактеризовали имидж города одним словом, — сумма считает sum up the image."
     },
     {
       "phrase": "change its image",
       "translation": "изменить свой имидж",
-      "example": "Can a city change its image with branding?"
+      "example": "Can a city change its image with branding?",
+      "keyword": "чендж",
+      "mnemonic": "Обмен-чендж имиджа: может ли город изменить свой имидж брендингом? — чендж меняет change its image."
     },
     {
       "phrase": "create its own brand",
       "translation": "создать собственный бренд",
-      "example": "Can a city create its own brand from scratch?"
+      "example": "Can a city create its own brand from scratch?",
+      "keyword": "кредит",
+      "mnemonic": "Взяли кредит, чтобы создать собственный бренд города с нуля, — кредит жмёт create its own brand."
     },
     {
       "phrase": "benefit from it",
       "translation": "выиграть от этого",
-      "example": "Many places have benefited from it."
+      "example": "Many places have benefited from it.",
+      "keyword": "беня",
+      "mnemonic": "Хитрый Беня выиграл от этого ребрендинга больше всех мест, — Беня потирает руки benefit from it."
     },
     {
       "phrase": "change outdated opinions",
       "translation": "менять устаревшие мнения",
-      "example": "Branding can change outdated opinions people have."
+      "example": "Branding can change outdated opinions people have.",
+      "keyword": "апдейт",
+      "mnemonic": "Накатили апдейт и поменяли устаревшие мнения людей, — апдейт грузится change outdated opinions."
     },
     {
       "phrase": "attract tourists and investment",
       "translation": "привлекать туристов и инвестиции",
-      "example": "Branding helps attract tourists and investment."
+      "example": "Branding helps attract tourists and investment.",
+      "keyword": "аттракцион",
+      "mnemonic": "Построили аттракцион, чтобы привлекать туристов и инвестиции, — аттракцион крутит attract tourists and investment."
     },
     {
       "phrase": "use visual symbols",
       "translation": "использовать визуальные символы",
-      "example": "New York successfully used visual symbols."
+      "example": "New York successfully used visual symbols.",
+      "keyword": "узы",
+      "mnemonic": "Связали город узами и стали использовать визуальные символы Нью-Йорка, — узы держат use visual symbols."
     },
     {
       "phrase": "use a similar approach",
       "translation": "использовать похожий подход",
-      "example": "Different groups were asked to use a similar approach."
+      "example": "Different groups were asked to use a similar approach.",
+      "keyword": "семья",
+      "mnemonic": "Вся семья попросила использовать похожий подход к брендингу, — семья решает use a similar approach."
     },
     {
       "phrase": "market to tourists",
       "translation": "продвигать для туристов",
-      "example": "Less-known areas can be marketed to tourists."
+      "example": "Less-known areas can be marketed to tourists.",
+      "keyword": "марка",
+      "mnemonic": "Наклеили марку и стали продвигать неизвестные районы для туристов, — марка липнет market to tourists."
     },
     {
       "phrase": "other parts of the city",
       "translation": "другие районы города",
-      "example": "Visit other parts of the city beyond Manhattan."
+      "example": "Visit other parts of the city beyond Manhattan.",
+      "keyword": "порт",
+      "mnemonic": "За Манхэттеном нашли порт — другие районы города таят сюрпризы, — порт манит other parts of the city."
     },
     {
       "phrase": "new generation of tourists",
       "translation": "новое поколение туристов",
-      "example": "The city wanted to attract a new generation of tourists."
+      "example": "The city wanted to attract a new generation of tourists.",
+      "keyword": "генерал",
+      "mnemonic": "Бравый генерал ведёт новое поколение туристов на город, — генерал командует new generation of tourists."
     },
     {
       "phrase": "iconic phrase",
       "translation": "культовая фраза",
-      "example": "The result was the iconic phrase on T-shirts."
+      "example": "The result was the iconic phrase on T-shirts.",
+      "keyword": "икона",
+      "mnemonic": "На футболке икона рядом с культовой фразой города, — икона сияет iconic phrase."
     },
     {
       "phrase": "be seen on T-shirts",
       "translation": "красоваться на футболках",
-      "example": "The logo can still be seen on T-shirts today."
+      "example": "The logo can still be seen on T-shirts today.",
+      "keyword": "сено",
+      "mnemonic": "Логотип красуется на футболках даже у тех, кто ворочает сено, — сено шуршит be seen on T-shirts."
     },
     {
       "phrase": "be used everywhere",
       "translation": "использоваться повсюду",
-      "example": "Such a simple logo can be used everywhere."
+      "example": "Such a simple logo can be used everywhere.",
+      "keyword": "евро",
+      "mnemonic": "Простой логотип за евро используется повсюду, — евро звенит be used everywhere."
     },
     {
       "phrase": "appear online",
       "translation": "появляться в сети",
-      "example": "Images of the logo might appear online."
+      "example": "Images of the logo might appear online.",
+      "keyword": "пир",
+      "mnemonic": "Закатили пир, когда логотип стал появляться в сети, — пир шумит appear online."
     },
     {
       "phrase": "reach an audience of millions",
       "translation": "охватывать миллионную аудиторию",
-      "example": "Online images reach an audience of millions."
+      "example": "Online images reach an audience of millions.",
+      "keyword": "аудиенция",
+      "mnemonic": "Картинки в сети получили аудиенцию у миллионной аудитории, — аудиенция слушает reach an audience of millions."
     },
     {
       "phrase": "as hoped",
       "translation": "как надеялись",
-      "example": "The campaign was not as successful as hoped."
+      "example": "The campaign was not as successful as hoped.",
+      "keyword": "хоп",
+      "mnemonic": "Крикнули «хоп!», но кампания вышла не такой успешной, как надеялись, — хоп подпрыгнул as hoped."
     },
     {
       "phrase": "move forward",
       "translation": "двигаться вперёд",
-      "example": "The city needs a new plan to move forward."
+      "example": "The city needs a new plan to move forward.",
+      "keyword": "форд",
+      "mnemonic": "Старый форд тарахтит, но городу нужен новый план, чтобы двигаться вперёд, — форд пыхтит move forward."
     }
   ]
 }

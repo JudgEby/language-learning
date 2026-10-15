@@ -2,17 +2,17 @@
   "lessonId": "you-cant-miss-it",
   "title": "You can't miss it! — новые слова",
   "items": [
-    { "term": "tour guide", "translation": "гид, экскурсовод", "example": "Our tour guide told us the history of every building." },
-    { "term": "souvenir", "translation": "сувенир", "example": "I always buy a souvenir magnet from every city I visit." },
-    { "term": "sightseeing", "translation": "осмотр достопримечательностей", "example": "We spent the whole day sightseeing around Paris." },
-    { "term": "boat trip", "translation": "прогулка на лодке / катере", "example": "We went on a boat trip along the canals." },
-    { "term": "guided tour", "translation": "экскурсия с гидом", "example": "A guided tour of the castle takes about two hours." },
-    { "term": "landmark", "translation": "достопримечательность, ориентир", "example": "The Eiffel Tower is the most famous landmark in Paris." },
-    { "term": "cathedral", "translation": "собор", "example": "The cathedral is one of the oldest buildings in the city." },
-    { "term": "square", "translation": "площадь", "example": "There's a beautiful fountain in the main square." },
-    { "term": "market", "translation": "рынок", "example": "The local market sells fresh fruit and handmade crafts." },
-    { "term": "pedestrian zone", "translation": "пешеходная зона", "example": "The city centre is a pedestrian zone — cars are not allowed." },
-    { "term": "roundabout", "translation": "кольцевая развязка, круговое движение", "example": "Turn left at the second roundabout." },
-    { "term": "traffic lights", "translation": "светофор", "example": "Go straight on until you reach the traffic lights, then turn right." }
+    { "term": "tour guide", "translation": "гид, экскурсовод", "example": "Our tour guide told us the history of every building.", "keyword": "гайд", "mnemonic": "Гайд тараторит историю каждого дома — our tour guide, гид." },
+    { "term": "souvenir", "translation": "сувенир", "example": "I always buy a souvenir magnet from every city I visit.", "keyword": "сувенир", "mnemonic": "Сувенир-магнит из каждого города — always buy a souvenir, сувенир." },
+    { "term": "sightseeing", "translation": "осмотр достопримечательностей", "example": "We spent the whole day sightseeing around Paris.", "keyword": "сайт", "mnemonic": "Зависли на сайте про Париж — spent the whole day sightseeing, осмотр достопримечательностей." },
+    { "term": "boat trip", "translation": "прогулка на лодке / катере", "example": "We went on a boat trip along the canals.", "keyword": "бот", "mnemonic": "Бот плывёт по каналам — went on a boat trip, прогулка на катере." },
+    { "term": "guided tour", "translation": "экскурсия с гидом", "example": "A guided tour of the castle takes about two hours.", "keyword": "тур", "mnemonic": "Тур по замку на два часа — a guided tour, экскурсия с гидом." },
+    { "term": "landmark", "translation": "достопримечательность, ориентир", "example": "The Eiffel Tower is the most famous landmark in Paris.", "keyword": "марка", "mnemonic": "Марка с башней — the most famous landmark, достопримечательность Парижа." },
+    { "term": "cathedral", "translation": "собор", "example": "The cathedral is one of the oldest buildings in the city.", "keyword": "кафедра", "mnemonic": "Кафедра в старейшем здании города — the cathedral, собор." },
+    { "term": "square", "translation": "площадь", "example": "There's a beautiful fountain in the main square.", "keyword": "сквер", "mnemonic": "Сквер с фонтаном на главной — beautiful fountain in the main square, на площади." },
+    { "term": "market", "translation": "рынок", "example": "The local market sells fresh fruit and handmade crafts.", "keyword": "маркет", "mnemonic": "Маркет с фруктами и поделками — the local market, рынок." },
+    { "term": "pedestrian zone", "translation": "пешеходная зона", "example": "The city centre is a pedestrian zone — cars are not allowed.", "keyword": "педаль", "mnemonic": "Жми на педаль — ой, это pedestrian zone, пешеходная зона, машины запрещены." },
+    { "term": "roundabout", "translation": "кольцевая развязка, круговое движение", "example": "Turn left at the second roundabout.", "keyword": "раунд", "mnemonic": "Второй раунд кругового движения — turn at the second roundabout, развязка." },
+    { "term": "traffic lights", "translation": "светофор", "example": "Go straight on until you reach the traffic lights, then turn right.", "keyword": "трафик", "mnemonic": "Трафик встал у светофора — reach the traffic lights, светофор." }
   ]
 }

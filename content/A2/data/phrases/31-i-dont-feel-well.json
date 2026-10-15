@@ -2,19 +2,103 @@
   "lessonId": "i-dont-feel-well",
   "title": "I don't feel well — фразы",
   "items": [
-    { "phrase": "You should ...", "translation": "Тебе следует ...", "example": "You should drink lots of water." },
-    { "phrase": "You shouldn't ...", "translation": "Тебе не следует ...", "example": "You shouldn't take antibiotics." },
-    { "phrase": "What should I do?", "translation": "Что мне делать?", "example": "I don't feel well. What should I do?" },
-    { "phrase": "I've got a cold / flu / a temperature", "translation": "У меня простуда / грипп / температура", "example": "I've got a temperature of 39 degrees." },
-    { "phrase": "I've got a cough / a sore throat / a runny nose", "translation": "У меня кашель / горло болит / насморк", "example": "I've got a cough and a runny nose." },
-    { "phrase": "My ... hurts", "translation": "У меня болит ...", "example": "My leg hurts and my head hurts too." },
-    { "phrase": "Have you got anything for ...?", "translation": "Есть у вас что-нибудь от ...?", "example": "Have you got anything for a sore throat?" },
-    { "phrase": "Could I have some plasters?", "translation": "Можно пару пластырей?", "example": "Could I have some plasters? I cut my thumb." },
-    { "phrase": "Take these tablets three times a day.", "translation": "Принимайте эти таблетки три раза в день.", "example": "Take these tablets three times a day after meals." },
-    { "phrase": "Put this cream on your ...", "translation": "Нанесите этот крем на ...", "example": "Put this cream on your arm twice a day." },
-    { "phrase": "When did it start?", "translation": "Когда это началось?", "example": "Have you got anything for a cough? — When did it start?" },
-    { "phrase": "Go to bed early", "translation": "Ложись спать пораньше", "example": "You should go to bed early — you need more sleep." },
-    { "phrase": "get more sleep / rest", "translation": "больше спать / отдыхать", "example": "You should get more sleep and stay at home." },
-    { "phrase": "go back to work", "translation": "вернуться на работу", "example": "You shouldn't go back to work too soon." }
+    {
+      "phrase": "You should ...",
+      "translation": "Тебе следует ...",
+      "example": "You should drink lots of water.",
+      "keyword": "шут",
+      "mnemonic": "Шут в халате советует — You should drink, тебе следует пить."
+    },
+    {
+      "phrase": "You shouldn't ...",
+      "translation": "Тебе не следует ...",
+      "example": "You shouldn't take antibiotics.",
+      "keyword": "шутник",
+      "mnemonic": "Шутник машет пальцем — You shouldn't take, тебе не следует."
+    },
+    {
+      "phrase": "What should I do?",
+      "translation": "Что мне делать?",
+      "example": "I don't feel well. What should I do?",
+      "keyword": "шуба",
+      "mnemonic": "Пациент в шубе спрашивает — What should I do, что мне делать."
+    },
+    {
+      "phrase": "I've got a cold / flu / a temperature",
+      "translation": "У меня простуда / грипп / температура",
+      "example": "I've got a temperature of 39 degrees.",
+      "keyword": "кот",
+      "mnemonic": "Кот чихает — I've got a cold, у меня простуда."
+    },
+    {
+      "phrase": "I've got a cough / a sore throat / a runny nose",
+      "translation": "У меня кашель / горло болит / насморк",
+      "example": "I've got a cough and a runny nose.",
+      "keyword": "кофе",
+      "mnemonic": "Пациент давится кофе — I've got a cough, у меня кашель."
+    },
+    {
+      "phrase": "My ... hurts",
+      "translation": "У меня болит ...",
+      "example": "My leg hurts and my head hurts too.",
+      "keyword": "хруст",
+      "mnemonic": "Сустав хрустит — my leg hurts, нога болит."
+    },
+    {
+      "phrase": "Have you got anything for ...?",
+      "translation": "Есть у вас что-нибудь от ...?",
+      "example": "Have you got anything for a sore throat?",
+      "keyword": "эникейщик",
+      "mnemonic": "Эникейщик в аптеке спрашивает — Have you got anything for, есть что-нибудь от."
+    },
+    {
+      "phrase": "Could I have some plasters?",
+      "translation": "Можно пару пластырей?",
+      "example": "Could I have some plasters? I cut my thumb.",
+      "keyword": "плащ",
+      "mnemonic": "Раненый в плаще просит — Could I have plasters, можно пластырей."
+    },
+    {
+      "phrase": "Take these tablets three times a day.",
+      "translation": "Принимайте эти таблетки три раза в день.",
+      "example": "Take these tablets three times a day after meals.",
+      "keyword": "табло",
+      "mnemonic": "Врач показывает на табло — Take these tablets, принимайте таблетки."
+    },
+    {
+      "phrase": "Put this cream on your ...",
+      "translation": "Нанесите этот крем на ...",
+      "example": "Put this cream on your arm twice a day.",
+      "keyword": "крик",
+      "mnemonic": "Медсестра с криком мажет крем — Put this cream, нанесите крем."
+    },
+    {
+      "phrase": "When did it start?",
+      "translation": "Когда это началось?",
+      "example": "Have you got anything for a cough? — When did it start?",
+      "keyword": "старт",
+      "mnemonic": "Врач со стартом спрашивает — When did it start, когда началось."
+    },
+    {
+      "phrase": "Go to bed early",
+      "translation": "Ложись спать пораньше",
+      "example": "You should go to bed early — you need more sleep.",
+      "keyword": "бедлам",
+      "mnemonic": "Пациент устроил бедлам и лёг пораньше — go to bed early."
+    },
+    {
+      "phrase": "get more sleep / rest",
+      "translation": "больше спать / отдыхать",
+      "example": "You should get more sleep and stay at home.",
+      "keyword": "сливки",
+      "mnemonic": "Соня со сливками спит — get more sleep, больше спать."
+    },
+    {
+      "phrase": "go back to work",
+      "translation": "вернуться на работу",
+      "example": "You shouldn't go back to work too soon.",
+      "keyword": "бекон",
+      "mnemonic": "Клерк с беконом вернулся на работу — go back to work."
+    }
   ]
 }

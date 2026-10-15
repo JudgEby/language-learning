@@ -5,37 +5,51 @@
     {
       "idiom": "there is nothing better to do",
       "translation": "нечего делать",
-      "example": "I use social media when there is nothing better to do."
+      "example": "I use social media when there is nothing better to do.",
+      "keyword": "батат",
+      "mnemonic": "Скучающий с бататом в ленте — there is nothing better to do, нечего делать, сижу в соцсетях."
     },
     {
       "idiom": "find useful information",
       "translation": "найти полезную информацию",
-      "example": "I am amazed by how much useful information you can find."
+      "example": "I am amazed by how much useful information you can find.",
+      "keyword": "афиша",
+      "mnemonic": "Удивлённый с афишей фактов — find useful information, найти полезную информацию, сколько можно."
     },
     {
       "idiom": "keep in touch with friends",
       "translation": "поддерживать связь с друзьями",
-      "example": "Social media is a good way to keep in touch with friends."
+      "example": "Social media is a good way to keep in touch with friends.",
+      "keyword": "тачдаун",
+      "mnemonic": "С тачдауном дружбы в сети — keep in touch with friends, поддерживать связь с друзьями, соцсети помогают."
     },
     {
       "idiom": "chat about the latest music",
       "translation": "обсуждать новую музыку",
-      "example": "We chat about the latest music and play games online."
+      "example": "We chat about the latest music and play games online.",
+      "keyword": "летеха",
+      "mnemonic": "Летеха-меломан в чате — chat about the latest music, обсуждать новую музыку и играть онлайн."
     },
     {
       "idiom": "play games with each other",
       "translation": "играть друг с другом",
-      "example": "They play games with each other after school."
+      "example": "They play games with each other after school.",
+      "keyword": "геймер",
+      "mnemonic": "Геймеры после школы рубятся — play games with each other, играть друг с другом."
     },
     {
       "idiom": "change the world",
       "translation": "изменить мир",
-      "example": "Young people use technology to change the world."
+      "example": "Young people use technology to change the world.",
+      "keyword": "ворота",
+      "mnemonic": "Молодёжь с воротами в будущее — change the world, изменить мир технологиями."
     },
     {
       "idiom": "organise political change",
       "translation": "организовать политические перемены",
-      "example": "Social media helps young people organise political change."
+      "example": "Social media helps young people organise political change.",
+      "keyword": "поллитра",
+      "mnemonic": "Активисты с поллитрой листовок — organise political change, организовать политические перемены соцсетями."
     }
   ]
 }

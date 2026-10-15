@@ -5,37 +5,51 @@
     {
       "idiom": "a true friend",
       "translation": "настоящий друг",
-      "example": "A true friend is always there for you."
+      "example": "A true friend is always there for you.",
+      "keyword": "труба",
+      "mnemonic": "Друг гудит в трубу: a true friend — настоящий друг."
     },
     {
       "idiom": "lose touch",
       "translation": "потерять связь",
-      "example": "We left school and lost touch."
+      "example": "We left school and lost touch.",
+      "keyword": "лужа",
+      "mnemonic": "Связь утонула в луже: lose touch — потерять связь."
     },
     {
       "idiom": "have a lot in common",
       "translation": "иметь много общего",
-      "example": "We have a lot in common, the same music and films."
+      "example": "We have a lot in common, the same music and films.",
+      "keyword": "комод",
+      "mnemonic": "Друзья делят комод: have a lot in common — иметь много общего."
     },
     {
       "idiom": "fall out with a friend",
       "translation": "поссориться с другом",
-      "example": "They fell out with each other last year."
+      "example": "They fell out with each other last year.",
+      "keyword": "футбол",
+      "mnemonic": "Друзья поругались из-за футбола: fall out with a friend — поссориться с другом."
     },
     {
       "idiom": "a shoulder to cry on",
       "translation": "плечо поддержки в трудную минуту",
-      "example": "Kate is my shoulder to cry on."
+      "example": "Kate is my shoulder to cry on.",
+      "keyword": "шуба",
+      "mnemonic": "Кейт подставляет шубу плакать: a shoulder to cry on — плечо поддержки."
     },
     {
       "idiom": "know somebody for ages",
       "translation": "знать кого-то целую вечность",
-      "example": "I know Kate for ages, since school."
+      "example": "I know Kate for ages, since school.",
+      "keyword": "аист",
+      "mnemonic": "Аист знает Кейт вечность: know somebody for ages — знать целую вечность."
     },
     {
       "idiom": "make friends",
       "translation": "заводить друзей",
-      "example": "It is easy to make friends at university."
+      "example": "It is easy to make friends at university.",
+      "keyword": "француз",
+      "mnemonic": "Француз заводит друзей в универе: make friends — заводить друзей."
     }
   ]
 }

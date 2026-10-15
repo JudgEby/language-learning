@@ -1,0 +1,20 @@
+{
+  "lessonId": "nice-to-meet-you",
+  "title": "Nice to meet you — новые слова",
+  "items": [
+    {
+      "term": "nationality",
+      "translation": "национальность",
+      "example": "Write your country and your nationality in your notebook.",
+      "keyword": "нашёл шёлк",
+      "mnemonic": "Таможенник нашёл шёлк в чемодане и сразу спросил твою nationality — национальность."
+    },
+    {
+      "term": "Greek",
+      "translation": "греческий (о человеке)",
+      "example": "The blue and white flag is Greek.",
+      "keyword": "грек",
+      "mnemonic": "Загорелый грек машет бело-голубым флагом — сразу понятно, что он Greek."
+    }
+  ]
+}

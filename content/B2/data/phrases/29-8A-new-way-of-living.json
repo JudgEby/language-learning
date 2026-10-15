@@ -5,42 +5,58 @@
     {
       "phrase": "move in",
       "translation": "въехать",
-      "example": "We moved in last month."
+      "example": "We moved in last month.",
+      "keyword": "мув",
+      "mnemonic": "Въехали в прошлом месяце — сделали мув: moved in last month, въехать."
     },
     {
       "phrase": "split the rent",
       "translation": "делить аренду",
-      "example": "We split the rent equally."
+      "example": "We split the rent equally.",
+      "keyword": "сплит-система",
+      "mnemonic": "Делим аренду поровну — ставим сплит-систему: split the rent equally."
     },
     {
       "phrase": "feel at home",
       "translation": "чувствовать себя как дома",
-      "example": "It took a while to feel at home."
+      "example": "It took a while to feel at home.",
+      "keyword": "хомяк",
+      "mnemonic": "Долго чувствовал себя как дома — завёл хомяка: feel at home."
     },
     {
       "phrase": "find somewhere to live",
       "translation": "найти жильё",
-      "example": "Young people struggle to find somewhere affordable to live."
+      "example": "Young people struggle to find somewhere affordable to live.",
+      "keyword": "самовар",
+      "mnemonic": "Молодёжь бьётся за жильё — грей самовар: find somewhere to live, найти жильё."
     },
     {
       "phrase": "share living spaces",
       "translation": "делить общие пространства",
-      "example": "Residents share living spaces and kitchens."
+      "example": "Residents share living spaces and kitchens.",
+      "keyword": "шарик",
+      "mnemonic": "Жители делят пространства и кухни — надувают шарик: share living spaces."
     },
     {
       "phrase": "have a ready-made community",
       "translation": "иметь готовое сообщество",
-      "example": "Newcomers have a ready-made community there."
+      "example": "Newcomers have a ready-made community there.",
+      "keyword": "ремейк",
+      "mnemonic": "У новичков готовое сообщество — смотрят ремейк: ready-made community."
     },
     {
       "phrase": "have something in common",
       "translation": "иметь что-то общее",
-      "example": "They found they had a lot in common."
+      "example": "They found they had a lot in common.",
+      "keyword": "коммуна",
+      "mnemonic": "Нашли много общего — живут коммуной: had a lot in common."
     },
     {
       "phrase": "go hand in hand",
       "translation": "идти рука об руку",
-      "example": "Work and leisure can go hand in hand there."
+      "example": "Work and leisure can go hand in hand there.",
+      "keyword": "хендмейд",
+      "mnemonic": "Работа и отдых идут рука об руку — хендмейд: go hand in hand."
     }
   ]
 }

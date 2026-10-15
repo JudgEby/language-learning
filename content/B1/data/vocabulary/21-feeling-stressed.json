@@ -2,23 +2,131 @@
   "lessonId": "feeling-stressed",
   "title": "Feeling stressed? — новые слова",
   "items": [
-    { "term": "stressed", "translation": "находящийся в стрессе", "example": "I feel really stressed about my exams." },
-    { "term": "relaxing", "translation": "расслабляющий", "example": "I find yoga very relaxing." },
-    { "term": "annoyed", "translation": "раздражённый", "example": "I was annoyed by the constant noise." },
-    { "term": "annoying", "translation": "раздражающий", "example": "The traffic is so annoying today." },
-    { "term": "confused", "translation": "смущённый, запутанный", "example": "I'm completely confused by this grammar." },
-    { "term": "confusing", "translation": "сбивающий с толку", "example": "The instructions were very confusing." },
-    { "term": "exhausted", "translation": "измотанный", "example": "I'm exhausted after working all week." },
-    { "term": "satisfying", "translation": "приносящий удовлетворение", "example": "Finishing a project is very satisfying." },
-    { "term": "frightened", "translation": "испуганный", "example": "I'm frightened of spiders." },
-    { "term": "embarrassed", "translation": "смущённый, испытывающий неловкость", "example": "I was so embarrassed when I fell on stage." },
-    { "term": "calm down", "translation": "успокаиваться", "example": "Take a deep breath and calm down." },
-    { "term": "wind up", "translation": "нервировать, заводить", "example": "Traffic jams really wind me up." },
-    { "term": "chill out", "translation": "расслабляться, отдыхать", "example": "I like to chill out in front of the TV." },
-    { "term": "chat someone up", "translation": "кокетничать, знакомиться", "example": "He tried to chat me up in the coffee shop." },
-    { "term": "get on with", "translation": "ладить с кем-то", "example": "I get on really well with my colleagues." },
-    { "term": "settle down", "translation": "осесть, успокоиться (жизненно)", "example": "They want to get married and settle down." },
-    { "term": "dress up", "translation": "наряжаться", "example": "We dressed up for the party." },
-    { "term": "try on", "translation": "примерять", "example": "Can I try on this jacket?" }
+    {
+      "term": "stressed",
+      "translation": "находящийся в стрессе",
+      "example": "I feel really stressed about my exams.",
+      "keyword": "стрессед",
+      "mnemonic": "Стресс-ед ест изнутри: I feel stressed — находящийся в стрессе из-за экзаменов."
+    },
+    {
+      "term": "relaxing",
+      "translation": "расслабляющий",
+      "example": "I find yoga very relaxing.",
+      "keyword": "релаксинг",
+      "mnemonic": "Релаксинг-йога тянется: yoga is relaxing — расслабляющая, отдыхаешь душой."
+    },
+    {
+      "term": "annoyed",
+      "translation": "раздражённый",
+      "example": "I was annoyed by the constant noise.",
+      "keyword": "анойд",
+      "mnemonic": "Анойд-шум сверлит: I was annoyed — раздражённый постоянным шумом."
+    },
+    {
+      "term": "annoying",
+      "translation": "раздражающий",
+      "example": "The traffic is so annoying today.",
+      "keyword": "анойинг",
+      "mnemonic": "Анойинг-пробка гудит: the traffic is annoying — раздражающая сегодня."
+    },
+    {
+      "term": "confused",
+      "translation": "смущённый, запутанный",
+      "example": "I'm completely confused by this grammar.",
+      "keyword": "конфьюзд",
+      "mnemonic": "Конфьюзд-грамматика путает: I'm confused — смущённый и запутанный этой грамматикой."
+    },
+    {
+      "term": "confusing",
+      "translation": "сбивающий с толку",
+      "example": "The instructions were very confusing.",
+      "keyword": "конфьюзинг",
+      "mnemonic": "Конфьюзинг-инструкция мутная: instructions were confusing — сбивающие с толку."
+    },
+    {
+      "term": "exhausted",
+      "translation": "измотанный",
+      "example": "I'm exhausted after working all week.",
+      "keyword": "экзостед",
+      "mnemonic": "Экзостед-батарейка села: I'm exhausted — измотанный после недели работы."
+    },
+    {
+      "term": "satisfying",
+      "translation": "приносящий удовлетворение",
+      "example": "Finishing a project is very satisfying.",
+      "keyword": "сатисфайинг",
+      "mnemonic": "Сатисфайинг-финиш сладок: finishing is satisfying — приносящий удовлетворение проект."
+    },
+    {
+      "term": "frightened",
+      "translation": "испуганный",
+      "example": "I'm frightened of spiders.",
+      "keyword": "фрайтнд",
+      "mnemonic": "Фрайт-паук ползёт: I'm frightened — испуганный пауками."
+    },
+    {
+      "term": "embarrassed",
+      "translation": "смущённый, испытывающий неловкость",
+      "example": "I was so embarrassed when I fell on stage.",
+      "keyword": "эмбаррасед",
+      "mnemonic": "Эмбаррасед-падение на сцене: I was embarrassed — смущённый, испытывающий неловкость."
+    },
+    {
+      "term": "calm down",
+      "translation": "успокаиваться",
+      "example": "Take a deep breath and calm down.",
+      "keyword": "кам, даун",
+      "mnemonic": "Кам-даун: вдох-выдох: calm down — успокаивайся, дыши глубже."
+    },
+    {
+      "term": "wind up",
+      "translation": "нервировать, заводить",
+      "example": "Traffic jams really wind me up.",
+      "keyword": "вайнд, ап",
+      "mnemonic": "Вайнд-ап-пробка накручивает: jams wind me up — нервируют и заводят меня."
+    },
+    {
+      "term": "chill out",
+      "translation": "расслабляться, отдыхать",
+      "example": "I like to chill out in front of the TV.",
+      "keyword": "чил, аут",
+      "mnemonic": "Чил-аут у телика: I chill out — расслабляюсь и отдыхаю перед ТВ."
+    },
+    {
+      "term": "chat someone up",
+      "translation": "кокетничать, знакомиться",
+      "example": "He tried to chat me up in the coffee shop.",
+      "keyword": "чат, ап",
+      "mnemonic": "Чат-ап в кофейне: he tried to chat me up — кокетничал и знакомился."
+    },
+    {
+      "term": "get on with",
+      "translation": "ладить с кем-то",
+      "example": "I get on really well with my colleagues.",
+      "keyword": "гет, он",
+      "mnemonic": "Гет-он с коллегами дружит: I get on with — лажу с коллегами отлично."
+    },
+    {
+      "term": "settle down",
+      "translation": "осесть, успокоиться (жизненно)",
+      "example": "They want to get married and settle down.",
+      "keyword": "сетл, даун",
+      "mnemonic": "Сетл-даун-дом с крыльцом: they settle down — оседают и успокаиваются, женятся."
+    },
+    {
+      "term": "dress up",
+      "translation": "наряжаться",
+      "example": "We dressed up for the party.",
+      "keyword": "дресс, ап",
+      "mnemonic": "Дресс-ап-вечеринка блестит: we dressed up — нарядились на праздник."
+    },
+    {
+      "term": "try on",
+      "translation": "примерять",
+      "example": "Can I try on this jacket?",
+      "keyword": "трай, он",
+      "mnemonic": "Трай-он-примерка жакета: can I try on — примерить этот жакет?"
+    }
   ]
 }

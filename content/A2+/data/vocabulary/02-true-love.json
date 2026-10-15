@@ -2,15 +2,15 @@
   "lessonId": "true-love",
   "title": "True love — новые слова",
   "items": [
-    { "term": "fall in love", "translation": "влюбиться", "example": "They fell in love when they were travelling in Italy." },
-    { "term": "get engaged", "translation": "обручиться", "example": "He got engaged to his girlfriend last Christmas." },
-    { "term": "propose", "translation": "делать предложение", "example": "He proposed to her at the top of the Eiffel Tower." },
-    { "term": "get married", "translation": "пожениться", "example": "My sister got married last June." },
-    { "term": "get divorced", "translation": "развестись", "example": "They got divorced after ten years of marriage." },
-    { "term": "split up", "translation": "расстаться", "example": "They split up because they wanted different things." },
-    { "term": "go out with", "translation": "встречаться с кем-то", "example": "She is going out with a guy from her yoga class." },
-    { "term": "have an argument", "translation": "ссориться", "example": "We had an argument about money last night." },
-    { "term": "make up", "translation": "помириться", "example": "They had a fight but made up the next day." },
-    { "term": "go on a date", "translation": "идти на свидание", "example": "We went on a date to a nice Italian restaurant." }
+    { "term": "fall in love", "translation": "влюбиться", "example": "They fell in love when they were travelling in Italy.", "keyword": "лавка", "mnemonic": "Он так fall in love — влюбился, что грохнулся с лавки прямо в Италии." },
+    { "term": "get engaged", "translation": "обручиться", "example": "He got engaged to his girlfriend last Christmas.", "keyword": "ангел", "mnemonic": "Ангел с двумя кольцами устроил get engaged — обручение прямо на облаке." },
+    { "term": "propose", "translation": "делать предложение", "example": "He proposed to her at the top of the Eiffel Tower.", "keyword": "поза", "mnemonic": "Встал в торжественную позу на Эйфелевой башне — propose, делает предложение." },
+    { "term": "get married", "translation": "пожениться", "example": "My sister got married last June.", "keyword": "Мэри", "mnemonic": "Мэри в фате кричит «да!» — она get married, выходит замуж." },
+    { "term": "get divorced", "translation": "развестись", "example": "They got divorced after ten years of marriage.", "keyword": "двор", "mnemonic": "После суда вещи полетели во двор — they get divorced, разводятся." },
+    { "term": "split up", "translation": "расстаться", "example": "They split up because they wanted different things.", "keyword": "сплит", "mnemonic": "Их любовь дала сплит — трещину, и они split up, расстались." },
+    { "term": "go out with", "translation": "встречаться с кем-то", "example": "She is going out with a guy from her yoga class.", "keyword": "визг", "mnemonic": "С визгом несётся на свидание — she is going out with парнем с йоги, встречается с ним." },
+    { "term": "have an argument", "translation": "ссориться", "example": "We had an argument about money last night.", "keyword": "аргумент", "mnemonic": "Кидаются друг в друга аргументами — have an argument, ссорятся из-за денег." },
+    { "term": "make up", "translation": "помириться", "example": "They had a fight but made up the next day.", "keyword": "макияж", "mnemonic": "Она наводит боевой макияж — и они make up, мирятся на следующий день." },
+    { "term": "go on a date", "translation": "идти на свидание", "example": "We went on a date to a nice Italian restaurant.", "keyword": "дата", "mnemonic": "Назначил дату на салфетке в ресторане — go on a date, идёт на свидание." }
   ]
 }

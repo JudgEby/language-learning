@@ -5,17 +5,23 @@
     {
       "idiom": "make a fortune",
       "translation": "сделать состояние",
-      "example": "He made a fortune investing in technology stocks when they were cheap."
+      "example": "He made a fortune investing in technology stocks when they were cheap.",
+      "keyword": "фортуна",
+      "mnemonic": "Фортуна с дешёвыми акциями: make a fortune — сделать состояние на технологических акциях."
     },
     {
       "idiom": "born with a silver spoon in your mouth",
       "translation": "родиться в богатой семье",
-      "example": "She worked hard for everything — she was not born with a silver spoon in her mouth."
+      "example": "She worked hard for everything — she was not born with a silver spoon in her mouth.",
+      "keyword": "сильвер",
+      "mnemonic": "Сильвер-ложка с рождения: born with a silver spoon in your mouth — родиться в богатой семье, а она всего добилась сама."
     },
     {
       "idiom": "cost an arm and a leg",
       "translation": "стоить целое состояние",
-      "example": "Their new house must have cost an arm and a leg."
+      "example": "Their new house must have cost an arm and a leg.",
+      "keyword": "лег",
+      "mnemonic": "Лег дом за состояние: cost an arm and a leg — стоить целое состояние, как их новый дом."
     }
   ]
 }

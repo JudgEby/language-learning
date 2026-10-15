@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ThemeProvider } from './components/ThemeProvider';
 import { ThemeToggle } from './components/ThemeToggle';
 import { HomePage } from './pages/HomePage';
+import { FlashcardsPage } from './pages/FlashcardsPage';
 import { LevelPage } from './pages/LevelPage';
 import { RulesListPage } from './pages/RulesListPage';
 import { StudyViewPage } from './pages/StudyViewPage';
@@ -17,6 +18,7 @@ export default function App() {
       <main className="app-shell">
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/flashcards" element={<FlashcardsPage />} />
           <Route path="/:level" element={<LevelPage />} />
           <Route path="/:level/rules" element={<RulesListPage />} />
           <Route path="/:level/rules/:studyKeyParam" element={<StudyViewPage />} />

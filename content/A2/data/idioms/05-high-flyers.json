@@ -5,37 +5,51 @@
     {
       "idiom": "work long hours",
       "translation": "работать подолгу",
-      "example": "Nurses often work long hours."
+      "example": "Nurses often work long hours.",
+      "keyword": "хор",
+      "mnemonic": "Хор медсестёр ноет work long hours — работать подолгу."
     },
     {
       "idiom": "a day off",
       "translation": "выходной день",
-      "example": "Sunday is my only day off."
+      "example": "Sunday is my only day off.",
+      "keyword": "офсайд",
+      "mnemonic": "Футболист в офсайде отдыхает: a day off — выходной день."
     },
     {
       "idiom": "on duty",
       "translation": "на дежурстве",
-      "example": "The pilot is on duty from five in the morning."
+      "example": "The pilot is on duty from five in the morning.",
+      "keyword": "дуть",
+      "mnemonic": "Пилот дует в свисток on duty — на дежурстве."
     },
     {
       "idiom": "get home late",
       "translation": "возвращаться домой поздно",
-      "example": "Taxi drivers often get home late."
+      "example": "Taxi drivers often get home late.",
+      "keyword": "лето",
+      "mnemonic": "Таксист встречает лето в пробке: get home late — возвращаться домой поздно."
     },
     {
       "idiom": "love your job",
       "translation": "любить свою работу",
-      "example": "She loves her job as a chef."
+      "example": "She loves her job as a chef.",
+      "keyword": "лавка",
+      "mnemonic": "Повар обнимает лавку: love your job — любить свою работу."
     },
     {
       "idiom": "hard work",
       "translation": "тяжёлая работа",
-      "example": "Being a mechanic is hard work."
+      "example": "Being a mechanic is hard work.",
+      "keyword": "харчо",
+      "mnemonic": "Механик хлебает харчо после hard work — тяжёлой работы."
     },
     {
       "idiom": "start work at five",
       "translation": "начинать работу в пять",
-      "example": "Gagan starts work at five in the morning."
+      "example": "Gagan starts work at five in the morning.",
+      "keyword": "фифа",
+      "mnemonic": "Фифа приходит start work at five — начинать работу в пять."
     }
   ]
 }

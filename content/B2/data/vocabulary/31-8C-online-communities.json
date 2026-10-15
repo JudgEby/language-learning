@@ -5,57 +5,79 @@
     {
       "term": "forum",
       "translation": "форум",
-      "example": "She's active on several forums."
+      "example": "She's active on several forums.",
+      "keyword": "форма",
+      "mnemonic": "Активна на нескольких форумах — везде в форме: active on several forums."
     },
     {
       "term": "moderator",
       "translation": "модератор",
-      "example": "Moderators enforce the rules."
+      "example": "Moderators enforce the rules.",
+      "keyword": "модерн",
+      "mnemonic": "Модераторы следят за правилами — модерн с дубинкой: enforce the rules."
     },
     {
       "term": "troll",
       "translation": "тролль",
-      "example": "Don't feed the trolls."
+      "example": "Don't feed the trolls.",
+      "keyword": "троллейбус",
+      "mnemonic": "Не корми троллей — они уже в троллейбусе: don't feed the trolls."
     },
     {
       "term": "engagement",
       "translation": "вовлечённость",
-      "example": "Community engagement is high."
+      "example": "Community engagement is high.",
+      "keyword": "ангажемент",
+      "mnemonic": "Вовлечённость сообщества высока — у всех ангажемент: engagement is high."
     },
     {
       "term": "anonymous",
       "translation": "анонимный",
-      "example": "Users can post anonymously."
+      "example": "Users can post anonymously.",
+      "keyword": "анонимка",
+      "mnemonic": "Можно постить анонимно — строчи анонимку: post anonymously."
     },
     {
       "term": "on the whole",
       "translation": "в целом",
-      "example": "On the whole, people have few local friends."
+      "example": "On the whole, people have few local friends.",
+      "keyword": "холст",
+      "mnemonic": "В целом у людей мало друзей — рисуй холст: on the whole, few local friends."
     },
     {
       "term": "in order to",
       "translation": "чтобы, с целью",
-      "example": "In order to help, they met in the morning."
+      "example": "In order to help, they met in the morning.",
+      "keyword": "ордер",
+      "mnemonic": "Чтобы помочь, встретились утром — получили ордер на добро: in order to help."
     },
     {
       "term": "by far",
       "translation": "безусловно, намного",
-      "example": "By far the best way is teamwork."
+      "example": "By far the best way is teamwork.",
+      "keyword": "фара",
+      "mnemonic": "Безусловно лучший способ — командная работа: свети фарой: by far the best."
     },
     {
       "term": "at the same time",
       "translation": "в то же время",
-      "example": "At the same time, they stayed in touch."
+      "example": "At the same time, they stayed in touch.",
+      "keyword": "сейм",
+      "mnemonic": "В то же время оставались на связи — заседает сейм: stayed in touch."
     },
     {
       "term": "in fact",
       "translation": "на самом деле",
-      "example": "In fact, the work was already done."
+      "example": "In fact, the work was already done.",
+      "keyword": "факт",
+      "mnemonic": "На самом деле работа уже сделана — вот тебе и факт: in fact."
     },
     {
       "term": "out of control",
       "translation": "из-под контроля",
-      "example": "They feared things would get out of control."
+      "example": "They feared things would get out of control.",
+      "keyword": "контролёр",
+      "mnemonic": "Боялись, всё выйдет из-под контроля, — зовите контролёра: get out of control."
     }
   ]
 }

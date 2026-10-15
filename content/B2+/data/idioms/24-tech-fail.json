@@ -5,72 +5,100 @@
     {
       "idiom": "back to the drawing board",
       "translation": "начать всё сначала",
-      "example": "The app crashed on stage — back to the drawing board."
+      "example": "The app crashed on stage — back to the drawing board.",
+      "keyword": "борд",
+      "mnemonic": "Приложение рухнуло на борд-доску: надо начать всё сначала, — борд трещит back to the drawing board."
     },
     {
       "idiom": "reinvent the wheel",
       "translation": "изобретать велосипед",
-      "example": "Don't reinvent the wheel; just update the old system."
+      "example": "Don't reinvent the wheel; just update the old system.",
+      "keyword": "вил",
+      "mnemonic": "Сисадмин крутит вил-колесо: не надо изобретать велосипед, — вил вертится reinvent the wheel."
     },
     {
       "idiom": "throw a spanner in the works",
       "translation": "вставить палки в колёса",
-      "example": "A dead battery threw a spanner in the works."
+      "example": "A dead battery threw a spanner in the works.",
+      "keyword": "спаннер",
+      "mnemonic": "Севший аккумулятор кинул спаннер-ключ: он смог вставить палки в колёса, — спаннер лязгает throw a spanner in the works."
     },
     {
       "idiom": "bells and whistles",
       "translation": "навороты",
-      "example": "I don't need all the bells and whistles, just a phone that works."
+      "example": "I don't need all the bells and whistles, just a phone that works.",
+      "keyword": "беллс",
+      "mnemonic": "Телефон увешан беллс-бубенцами: это лишние навороты, — беллс звенят bells and whistles."
     },
     {
       "idiom": "like clockwork",
       "translation": "как часы",
-      "example": "After the update, everything runs like clockwork."
+      "example": "After the update, everything runs like clockwork.",
+      "keyword": "клок",
+      "mnemonic": "После апдейта всё тикает как клок-механизм: работает как часы, — клок стучит like clockwork."
     },
     {
       "idiom": "a cog in the machine",
       "translation": "винтик в системе",
-      "example": "He felt like a tiny cog in the machine."
+      "example": "He felt like a tiny cog in the machine.",
+      "keyword": "ког",
+      "mnemonic": "Клерк как ког-шестерёнка: он винтик в системе, — ког скрипит a cog in the machine."
     },
     {
       "idiom": "teething troubles",
       "translation": "начальные проблемы",
-      "example": "The new software has a few teething troubles."
+      "example": "The new software has a few teething troubles.",
+      "keyword": "тизинг",
+      "mnemonic": "Софт режет тизинг-зубы: у него начальные проблемы, — тизинг ноет teething troubles."
     },
     {
       "idiom": "pull the plug",
       "translation": "прекратить, отключить",
-      "example": "They pulled the plug on the faulty system."
+      "example": "They pulled the plug on the faulty system.",
+      "keyword": "плаг",
+      "mnemonic": "Админ дёрнул плаг-шнур: он решил прекратить и отключить систему, — плаг щёлкает pull the plug."
     },
     {
       "idiom": "on its last legs",
       "translation": "на последнем издыхании",
-      "example": "My old laptop is on its last legs."
+      "example": "My old laptop is on its last legs.",
+      "keyword": "легс",
+      "mnemonic": "Ноутбук ковыляет на легс-ножках: он на последнем издыхании, — легс дрожит on its last legs."
     },
     {
       "idiom": "work like a charm",
       "translation": "работать отлично",
-      "example": "The restart worked like a charm."
+      "example": "The restart worked like a charm.",
+      "keyword": "чарм",
+      "mnemonic": "Перезагрузка кинула чарм-заклинание: она стала работать отлично, — чарм сверкает work like a charm."
     },
     {
       "idiom": "crash and burn",
       "translation": "с треском провалиться",
-      "example": "The live demo crashed and burned."
+      "example": "The live demo crashed and burned.",
+      "keyword": "крэш",
+      "mnemonic": "Демо ушло в крэш-пике: оно смогло с треском провалиться, — крэш грохочет crash and burn."
     },
     {
       "idiom": "plug and play",
       "translation": "подключил и работай",
-      "example": "The new printer is fully plug and play."
+      "example": "The new printer is fully plug and play.",
+      "keyword": "плаг-плей",
+      "mnemonic": "Принтер как плаг-плей игрушка: подключил и работай, — плаг-плей жужжит plug and play."
     },
     {
       "idiom": "smooth sailing",
       "translation": "лёгкий путь без проблем",
-      "example": "After the fix, it was smooth sailing."
+      "example": "After the fix, it was smooth sailing.",
+      "keyword": "сейлинг",
+      "mnemonic": "После фикса настал сейлинг-штиль: это лёгкий путь без проблем, — сейлинг плывёт smooth sailing."
     },
     {
       "idiom": "back up and running",
       "translation": "снова в строю",
-      "example": "An hour later the network was back up and running."
+      "example": "An hour later the network was back up and running.",
+      "keyword": "раннинг",
+      "mnemonic": "Сеть встала на раннинг-дорожку: она снова в строю, — раннинг гудит back up and running."
     }
   ]
 }

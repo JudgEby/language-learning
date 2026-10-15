@@ -207,6 +207,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .action-btn {
@@ -808,4 +809,272 @@ body {
   display: flex;
   justify-content: flex-end;
   gap: 0.75rem;
+}
+
+/* Flashcards */
+
+.flash-scope,
+.flash-settings {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.flash-scope h2,
+.flash-settings h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+}
+
+.flash-levels,
+.flash-types {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.flash-check {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+}
+
+/* Switch-style toggle (accessible: native checkbox underneath) */
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+}
+
+.toggle__input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+
+.toggle__track {
+  flex: none;
+  width: 2.75rem;
+  height: 1.5rem;
+  border-radius: 999px;
+  background: var(--color-btn-secondary-bg);
+  border: 1px solid var(--color-border);
+  position: relative;
+  transition: background 0.15s;
+}
+
+.toggle__thumb {
+  position: absolute;
+  top: 50%;
+  left: 0.2rem;
+  width: 1.05rem;
+  height: 1.05rem;
+  border-radius: 50%;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  transform: translate(0, -50%);
+  transition: transform 0.15s;
+}
+
+.toggle--on .toggle__track {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.toggle--on .toggle__thumb {
+  transform: translate(1.25rem, -50%);
+  border-color: var(--color-primary);
+}
+
+.toggle__input:focus-visible + .toggle__track {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.toggle__label {
+  line-height: 1.4;
+}
+
+.flash-lessons {
+  margin-top: 0.5rem;
+  border-top: 1px solid var(--color-border-light);
+  padding-top: 0.5rem;
+}
+
+.flash-lessons summary {
+  cursor: pointer;
+  color: var(--color-text-secondary);
+}
+
+.flash-lessons-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.flash-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.flash-row select,
+.flash-row input[type='number'] {
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 0.4rem 0.6rem;
+  font: inherit;
+}
+
+.flash-settings .toggle {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.flash-fixed-note {
+  background: var(--color-accent-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.flash-fixed-note p {
+  margin: 0;
+}
+
+.flash-review {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.flash-queue {
+  color: var(--color-text-muted);
+  margin: 0 0 0.75rem;
+}
+
+.flash-session {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.flash-meta {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.flash-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 8px var(--color-shadow-sm);
+  min-height: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flash-front {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.flash-back {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--color-border-light);
+}
+
+/* The answer block is always rendered so the card keeps its height; until
+   revealed it is covered (invisible but space-reserving). */
+.flash-back--covered {
+  visibility: hidden;
+}
+
+.flash-answer {
+  margin: 0 0 0.75rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-success-text);
+}
+
+.flash-example {
+  margin: 0 0 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.flash-mnemonic {
+  background: var(--color-accent-bg);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.flash-mnemonic p {
+  margin: 0 0 0.4rem;
+}
+
+.flash-mnemonic p:last-child {
+  margin-bottom: 0;
+}
+
+.flash-grades {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+
+.flash-grade--again {
+  background: var(--color-error);
+  color: #fff;
+}
+
+.flash-grade--hard {
+  background: var(--color-btn-secondary-bg);
+  color: var(--color-btn-secondary-text);
+}
+
+.flash-grade--good {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.flash-grade--easy {
+  background: var(--color-success);
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .flash-grades {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .flash-card {
+    padding: 1.5rem 1rem;
+  }
 }

@@ -5,87 +5,121 @@
     {
       "phrase": "look at old photos",
       "translation": "смотреть старые фото",
-      "example": "I often look at old photos of myself."
+      "example": "I often look at old photos of myself.",
+      "keyword": "лук",
+      "mnemonic": "Дед нацепил модный лук и стал смотреть старые фото, — лук блестит look at old photos."
     },
     {
       "phrase": "think about the past",
       "translation": "думать о прошлом",
-      "example": "I often think about things in the past that I miss."
+      "example": "I often think about things in the past that I miss.",
+      "keyword": "тинк",
+      "mnemonic": "Часы тинк-тинк капают, пока ты будешь думать о прошлом, — тинк стучит think about the past."
     },
     {
       "phrase": "talk about past events",
       "translation": "говорить о прошлых событиях",
-      "example": "She loves to talk about past events with friends and family."
+      "example": "She loves to talk about past events with friends and family.",
+      "keyword": "ток",
+      "mnemonic": "Бабушка включила ток красноречия и стала говорить о прошлых событиях, — ток гудит talk about past events."
     },
     {
       "phrase": "feel nostalgic",
       "translation": "испытывать ностальгию",
-      "example": "Some people feel nostalgic about the same things as me."
+      "example": "Some people feel nostalgic about the same things as me.",
+      "keyword": "фил",
+      "mnemonic": "Киноплёнка Фил листает альбом и стала испытывать ностальгию, — фил вздыхает feel nostalgic."
     },
     {
       "phrase": "seem better in the past",
       "translation": "казаться лучше в прошлом",
-      "example": "Some things seemed better in the past."
+      "example": "Some things seemed better in the past.",
+      "keyword": "сим",
+      "mnemonic": "Старая сим-карта хранит фото: вещи стали казаться лучше в прошлом, — сим помнит seem better in the past."
     },
     {
       "phrase": "pore over old photos",
       "translation": "разглядывать старые фото",
-      "example": "She loves poring over old photos on rainy afternoons."
+      "example": "She loves poring over old photos on rainy afternoons.",
+      "keyword": "поры",
+      "mnemonic": "Лупа разглядела все поры на снимке: она любит разглядывать старые фото, — поры видны в pore over old photos."
     },
     {
       "phrase": "flick through photos",
       "translation": "листать фотографии",
-      "example": "Flicking through photos of that amazing holiday is the best."
+      "example": "Flicking through photos of that amazing holiday is the best.",
+      "keyword": "флик",
+      "mnemonic": "Палец делает флик по экрану, чтобы листать фотографии отпуска, — флик листает flick through photos."
     },
     {
       "phrase": "lift your mood",
       "translation": "поднимать настроение",
-      "example": "Revisiting happy times can lift your mood in the present."
+      "example": "Revisiting happy times can lift your mood in the present.",
+      "keyword": "лифт",
+      "mnemonic": "Настроение село в лифт и стало поднимать настроение вверх, — лифт едет lift your mood."
     },
     {
       "phrase": "get stuck in the past",
       "translation": "застрять в прошлом",
-      "example": "Getting stuck in the past prevents you from enjoying the present."
+      "example": "Getting stuck in the past prevents you from enjoying the present.",
+      "keyword": "стакан",
+      "mnemonic": "Время прилипло как стакан к столу: ты смог застрять в прошлом, — стакан прилип get stuck in the past."
     },
     {
       "phrase": "carry it with us",
       "translation": "нести это с собой",
-      "example": "Our past is never gone, we carry it with us every day."
+      "example": "Our past is never gone, we carry it with us every day.",
+      "keyword": "карри",
+      "mnemonic": "Прошлое тащим как пакет карри, чтобы нести это с собой каждый день, — карри пахнет carry it with us."
     },
     {
       "phrase": "inform our present",
       "translation": "формировать наше настоящее",
-      "example": "The past is part of us and informs our present choices."
+      "example": "The past is part of us and informs our present choices.",
+      "keyword": "инфо",
+      "mnemonic": "Старое инфо из архива стало формировать наше настоящее, — инфо шумит inform our present."
     },
     {
       "phrase": "happy memory",
       "translation": "счастливое воспоминание",
-      "example": "Tell your partner about a particularly happy memory from your past."
+      "example": "Tell your partner about a particularly happy memory from your past.",
+      "keyword": "мем",
+      "mnemonic": "Партнёру показал мем из прошлого: вот тебе счастливое воспоминание, — мем смеётся happy memory."
     },
     {
       "phrase": "dull rainy afternoon",
       "translation": "пасмурный дождливый день",
-      "example": "Old photos are the best on a dull, rainy afternoon."
+      "example": "Old photos are the best on a dull, rainy afternoon.",
+      "keyword": "рейн",
+      "mnemonic": "За окном рейн барабанит: наступил пасмурный дождливый день для фото, — рейн шумит dull rainy afternoon."
     },
     {
       "phrase": "fun times with friends",
       "translation": "весёлые времена с друзьями",
-      "example": "Being transported back to fun times with friends is a joy."
+      "example": "Being transported back to fun times with friends is a joy.",
+      "keyword": "фан",
+      "mnemonic": "Компания ловит фан и вспоминает весёлые времена с друзьями, — фан гремит fun times with friends."
     },
     {
       "phrase": "first week of university",
       "translation": "первая неделя в университете",
-      "example": "That song recaptures that crazy first week of university."
+      "example": "That song recaptures that crazy first week of university.",
+      "keyword": "вик",
+      "mnemonic": "Первокурсник Вик отгулял первую неделю в университете без сна, — Вик гуляет first week of university."
     },
     {
       "phrase": "be reminded of people",
       "translation": "вспоминать о людях",
-      "example": "The photos show her being reminded of people far away."
+      "example": "The photos show her being reminded of people far away.",
+      "keyword": "ремонт",
+      "mnemonic": "Фото как ремонт памяти: помогают вспоминать о людях вдали, — ремонт чинит be reminded of people."
     },
     {
       "phrase": "changing seasons",
       "translation": "смена сезонов",
-      "example": "The changing seasons always make him think of the past."
+      "example": "The changing seasons always make him think of the past.",
+      "keyword": "чейндж",
+      "mnemonic": "Листья устроили чейндж нарядов: вот тебе смена сезонов, — чейндж крутит changing seasons."
     }
   ]
 }

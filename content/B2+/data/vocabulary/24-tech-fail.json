@@ -5,112 +5,156 @@
     {
       "term": "technology",
       "translation": "технология",
-      "example": "I try to embrace new technology."
+      "example": "I try to embrace new technology.",
+      "keyword": "техно",
+      "mnemonic": "Он обнимает новую технологию под техно-ритмы — вот тебе technology."
     },
     {
       "term": "device",
       "translation": "устройство",
-      "example": "Modern devices are getting smarter every year."
+      "example": "Modern devices are getting smarter every year.",
+      "keyword": "девица",
+      "mnemonic": "Современное устройство умнеет, как девица на глазах, — вот тебе device."
     },
     {
       "term": "gadget",
       "translation": "гаджет, устройство",
-      "example": "He loves buying the latest gadgets."
+      "example": "He loves buying the latest gadgets.",
+      "keyword": "гад же",
+      "mnemonic": "Он скупает гаджеты — ах, гад же, опять новинку взял! Это gadget."
     },
     {
       "term": "let down",
       "translation": "подвести",
-      "example": "The battery let me down at the worst moment."
+      "example": "The battery let me down at the worst moment.",
+      "keyword": "лето даун",
+      "mnemonic": "Батарея подвела в худший момент — лето, даун и севший телефон, это let down."
     },
     {
       "term": "glitch",
       "translation": "сбой, неполадка",
-      "example": "The app had a minor glitch."
+      "example": "The app had a minor glitch.",
+      "keyword": "клич",
+      "mnemonic": "В приложении мелкий сбой — издаёт клич и виснет, вот тебе glitch."
     },
     {
       "term": "fail",
       "translation": "сбой, отказ",
-      "example": "The system fail caused a major delay."
+      "example": "The system fail caused a major delay.",
+      "keyword": "файл",
+      "mnemonic": "Сбой системы из-за слетевшего файла задержал всё — вот тебе fail."
     },
     {
       "term": "malfunction",
       "translation": "неисправность, сбой",
-      "example": "The machine malfunctioned and stopped working."
+      "example": "The machine malfunctioned and stopped working.",
+      "keyword": "мальчик фырчит",
+      "mnemonic": "Неисправность станка — мальчик фырчит и пинает его, это malfunction."
     },
     {
       "term": "innovation",
       "translation": "инновация",
-      "example": "This innovation changed the industry forever."
+      "example": "This innovation changed the industry forever.",
+      "keyword": "новая",
+      "mnemonic": "Эта инновация изменила индустрию навсегда — совсем новая штука, это innovation."
     },
     {
       "term": "breakthrough",
       "translation": "прорыв",
-      "example": "Scientists made a major breakthrough in AI."
+      "example": "Scientists made a major breakthrough in AI.",
+      "keyword": "бей в трубу",
+      "mnemonic": "Учёные совершили прорыв в ИИ — бей в трубу от радости, это breakthrough."
     },
     {
       "term": "state-of-the-art",
       "translation": "самый современный, передовой",
-      "example": "The lab is equipped with state-of-the-art technology."
+      "example": "The lab is equipped with state-of-the-art technology.",
+      "keyword": "арт",
+      "mnemonic": "Лаборатория самая современная и передовая — чистый арт, это state-of-the-art."
     },
     {
       "term": "print",
       "translation": "печатать",
-      "example": "Can you print this document for me?"
+      "example": "Can you print this document for me?",
+      "keyword": "прыгнет",
+      "mnemonic": "Напечатай документ — бумага прыгнет из принтера, вот тебе print."
     },
     {
       "term": "adjust",
       "translation": "настраивать, регулировать",
-      "example": "Adjust your settings before the call."
+      "example": "Adjust your settings before the call.",
+      "keyword": "а джаз",
+      "mnemonic": "Настраивай звук перед звонком — а джаз уже играет, это adjust."
     },
     {
       "term": "update",
       "translation": "обновлять",
-      "example": "Update your apps regularly."
+      "example": "Update your apps regularly.",
+      "keyword": "аппетит",
+      "mnemonic": "Обновляй приложения регулярно — иначе аппетит к ним пропадёт, это update."
     },
     {
       "term": "recharge",
       "translation": "заряжать (аккумулятор)",
-      "example": "Recharge your battery when it's low."
+      "example": "Recharge your battery when it's low.",
+      "keyword": "Ричард",
+      "mnemonic": "Заряжай батарею, когда села, — Ричард уже ставит её на зарядку, это recharge."
     },
     {
       "term": "drain",
       "translation": "разряжать, сажать (батарею)",
-      "example": "Video calls drain your battery of power."
+      "example": "Video calls drain your battery of power.",
+      "keyword": "дренаж",
+      "mnemonic": "Видеозвонки сажают батарею, как открытый дренаж, — вот тебе drain."
     },
     {
       "term": "jam",
       "translation": "зажевать (о принтере), заклинить",
-      "example": "Too much paper can jam the printer."
+      "example": "Too much paper can jam the printer.",
+      "keyword": "джем",
+      "mnemonic": "Слишком много бумаги — принтер зажевал и заклинил, будто намазан джемом, это jam."
     },
     {
       "term": "disable",
       "translation": "отключать (функцию)",
-      "example": "You can disable this feature in settings."
+      "example": "You can disable this feature in settings.",
+      "keyword": "дизель",
+      "mnemonic": "Отключай функцию в настройках — дизель заглох и молчит, это disable."
     },
     {
       "term": "sync",
       "translation": "синхронизировать",
-      "example": "It syncs you with everything around you."
+      "example": "It syncs you with everything around you.",
+      "keyword": "сын",
+      "mnemonic": "Она синхронизирует тебя со всем вокруг — даже сын на связи, это sync."
     },
     {
       "term": "integrate",
       "translation": "объединять в единое целое",
-      "example": "One unified system integrates your world."
+      "example": "One unified system integrates your world.",
+      "keyword": "интеграл",
+      "mnemonic": "Единая система объединяет твой мир, как интеграл в математике, — это integrate."
     },
     {
       "term": "wirelessly",
       "translation": "по беспроводной связи",
-      "example": "It syncs you wirelessly and continuously."
+      "example": "It syncs you wirelessly and continuously.",
+      "keyword": "в лес",
+      "mnemonic": "Синхронизирует по беспроводной связи даже в лес без проводов — вот тебе wirelessly."
     },
     {
       "term": "in real time",
       "translation": "в реальном времени",
-      "example": "It syncs you to the BBC itself in real time."
+      "example": "It syncs you to the BBC itself in real time.",
+      "keyword": "реал",
+      "mnemonic": "Синхронизирует с Би-би-си в реальном времени — чистый реал, это in real time."
     },
     {
       "term": "unified",
       "translation": "единый, объединённый",
-      "example": "One unified system that changes the game."
+      "example": "One unified system that changes the game.",
+      "keyword": "униформа",
+      "mnemonic": "Единая объединённая система меняет игру — все в одной униформе, это unified."
     }
   ]
 }

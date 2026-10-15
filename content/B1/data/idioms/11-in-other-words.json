@@ -5,17 +5,23 @@
     {
       "idiom": "get the wrong end of the stick",
       "translation": "неправильно понять",
-      "example": "I didn't mean that — you got the wrong end of the stick."
+      "example": "I didn't mean that — you got the wrong end of the stick.",
+      "keyword": "стик",
+      "mnemonic": "Стик не тем концом схватил: get the wrong end of the stick — неправильно понять мои слова."
     },
     {
       "idiom": "lost for words",
       "translation": "потерять дар речи",
-      "example": "When she told me the news, I was completely lost for words."
+      "example": "When she told me the news, I was completely lost for words.",
+      "keyword": "лост",
+      "mnemonic": "Лост от новости: lost for words — потерять дар речи, когда она рассказала."
     },
     {
       "idiom": "not make head nor tail of something",
       "translation": "не понять ничего",
-      "example": "I can't make head nor tail of these instructions."
+      "example": "I can't make head nor tail of these instructions.",
+      "keyword": "тейл",
+      "mnemonic": "Ни хед, ни тейл неясны: not make head nor tail of something — не понять ничего в инструкции."
     }
   ]
 }

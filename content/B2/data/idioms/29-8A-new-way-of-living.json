@@ -5,12 +5,16 @@
     {
       "idiom": "home sweet home",
       "translation": "дом, милый дом",
-      "example": "After travelling, home sweet home."
+      "example": "After travelling, home sweet home.",
+      "keyword": "хомяк",
+      "mnemonic": "После поездок — дом, милый дом: ждёт хомяк: home sweet home."
     },
     {
       "idiom": "a roof over your head",
       "translation": "крыша над головой",
-      "example": "Everyone deserves a roof over their head."
+      "example": "Everyone deserves a roof over their head.",
+      "keyword": "руфер",
+      "mnemonic": "Каждый заслуживает крышу над головой — не будь руфером: roof over their head."
     }
   ]
 }

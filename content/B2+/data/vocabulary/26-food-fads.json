@@ -5,52 +5,72 @@
     {
       "term": "diet",
       "translation": "диета, рацион",
-      "example": "Pescatarians have a diet that includes fish, but no meat."
+      "example": "Pescatarians have a diet that includes fish, but no meat.",
+      "keyword": "дед",
+      "mnemonic": "У пескатарианцев диета с рыбой, но без мяса — так дед питается, это diet."
     },
     {
       "term": "vegan",
       "translation": "веган",
-      "example": "Vegans avoid any animal-related products, including dairy and eggs."
+      "example": "Vegans avoid any animal-related products, including dairy and eggs.",
+      "keyword": "вагон",
+      "mnemonic": "Веганы избегают всего животного, включая молочку и яйца, — вагон без коров, вот тебе vegan."
     },
     {
       "term": "vegetarian",
       "translation": "вегетарианец",
-      "example": "Vegetarians don't eat meat, but they do eat dairy products."
+      "example": "Vegetarians don't eat meat, but they do eat dairy products.",
+      "keyword": "Вегета",
+      "mnemonic": "Вегетарианцы не едят мясо, но едят молочку, — сыпь Вегету, это vegetarian."
     },
     {
       "term": "pescatarian",
       "translation": "пескатарианец",
-      "example": "My sister is a pescatarian, so she eats fish but not meat."
+      "example": "My sister is a pescatarian, so she eats fish but not meat.",
+      "keyword": "пескарь",
+      "mnemonic": "Моя сестра пескатарианец — ест рыбу, как пескарь, а мясо не трогает."
     },
     {
       "term": "calories",
       "translation": "калории",
-      "example": "A healthy diet isn't just about keeping the number of calories at a sensible level."
+      "example": "A healthy diet isn't just about keeping the number of calories at a sensible level.",
+      "keyword": "калорифер",
+      "mnemonic": "Здоровая диета — не только калории на разумном уровне: выключи калорифер, это calories."
     },
     {
       "term": "cholesterol",
       "translation": "холестерин",
-      "example": "Eating too much fatty food can cause cholesterol to build up in your blood."
+      "example": "Eating too much fatty food can cause cholesterol to build up in your blood.",
+      "keyword": "холостяк",
+      "mnemonic": "От жирной еды холестерин копится в крови — холостяк доелся, вот тебе cholesterol."
     },
     {
       "term": "nutrients",
       "translation": "питательные вещества",
-      "example": "It's important to consume a variety of food types to get the nutrients we need."
+      "example": "It's important to consume a variety of food types to get the nutrients we need.",
+      "keyword": "ну три",
+      "mnemonic": "Чтобы получить питательные вещества, съешь ну три тарелки разного — это nutrients."
     },
     {
       "term": "binge on",
       "translation": "объедаться, набрасываться на еду",
-      "example": "I love to binge on unhealthy foods on the odd occasion."
+      "example": "I love to binge on unhealthy foods on the odd occasion.",
+      "keyword": "бензин",
+      "mnemonic": "Объедаться вредным изредка — будто нюхнул бензин и набросился на еду, это binge on."
     },
     {
       "term": "grab a snack",
       "translation": "перекусить",
-      "example": "When I'm in a hurry, I tend to grab a snack rather than eat a proper meal."
+      "example": "When I'm in a hurry, I tend to grab a snack rather than eat a proper meal.",
+      "keyword": "грабли",
+      "mnemonic": "Когда спешу, успеваю только перекусить — хватай грабли вместо обеда, это grab a snack."
     },
     {
       "term": "junk food",
       "translation": "фастфуд, вредная еда",
-      "example": "I avoid buying junk food like burgers and chips."
+      "example": "I avoid buying junk food like burgers and chips.",
+      "keyword": "джунгли",
+      "mnemonic": "Вредную еду вроде бургеров будто привезли из джунглей — вот тебе junk food."
     },
     {
       "term": "in season",
@@ -65,67 +85,93 @@
     {
       "term": "organic",
       "translation": "органический",
-      "example": "I go for organic alternatives as I know they're natural and no chemicals have been used."
+      "example": "I go for organic alternatives as I know they're natural and no chemicals have been used.",
+      "keyword": "орган",
+      "mnemonic": "Беру органические продукты без химии — играй на органе чистоты, это organic."
     },
     {
       "term": "surge",
       "translation": "резкий рост, всплеск",
-      "example": "The surge in popularity of a new superfood can attract attention quickly."
+      "example": "The surge in popularity of a new superfood can attract attention quickly.",
+      "keyword": "сержант",
+      "mnemonic": "Резкий всплеск популярности суперфуда — сержант орёт о нём, это surge."
     },
     {
       "term": "switch",
       "translation": "переходить (на другое)",
-      "example": "Switching to a new diet which omits a particular food."
+      "example": "Switching to a new diet which omits a particular food.",
+      "keyword": "свеча",
+      "mnemonic": "Переходи на новую диету без одного продукта — задуй свечу старой, это switch."
     },
     {
       "term": "shift",
       "translation": "сдвиг, переход",
-      "example": "We've had the shift from eating at the table to eating in front of the TV."
+      "example": "We've had the shift from eating at the table to eating in front of the TV.",
+      "keyword": "лифт",
+      "mnemonic": "Сдвиг от стола к телевизору — застряли в лифте с тарелками, это shift."
     },
     {
       "term": "decline",
       "translation": "спад, упадок",
-      "example": "Their subsequent decline as we all reverted to eating chocolate cold."
+      "example": "Their subsequent decline as we all reverted to eating chocolate cold.",
+      "keyword": "наклони",
+      "mnemonic": "Последующий спад — наклони график вниз к холодному шоколаду, это decline."
     },
     {
       "term": "revert",
       "translation": "возвращаться (к прежнему)",
-      "example": "We all reverted to eating chocolate cold."
+      "example": "We all reverted to eating chocolate cold.",
+      "keyword": "реверс",
+      "mnemonic": "Мы вернулись к холодному шоколаду — включи реверс, это revert."
     },
     {
       "term": "evolution",
       "translation": "эволюция, развитие",
-      "example": "The evolution of the avocado from Mexican ingredient to toast topping."
+      "example": "The evolution of the avocado from Mexican ingredient to toast topping.",
+      "keyword": "революция",
+      "mnemonic": "Эволюция авокадо от мексиканского ингредиента до топпинга — целая революция, это evolution."
     },
     {
       "term": "shrink",
       "translation": "сокращаться",
-      "example": "Will demand for avocados shrink or remain steady?"
+      "example": "Will demand for avocados shrink or remain steady?",
+      "keyword": "ширинка",
+      "mnemonic": "Спрос на авокадо сокращается — застегни ширинку, это shrink."
     },
     {
       "term": "remain steady",
       "translation": "оставаться стабильным",
-      "example": "Will demand for avocados shrink or remain steady in the future?"
+      "example": "Will demand for avocados shrink or remain steady in the future?",
+      "keyword": "стадо",
+      "mnemonic": "Спрос останется стабильным — стоит как стадо и не движется, это remain steady."
     },
     {
       "term": "explode",
       "translation": "ворваться (на сцену), резко появиться",
-      "example": "This pastry exploded onto the food scene in 2013."
+      "example": "This pastry exploded onto the food scene in 2013.",
+      "keyword": "плод лопнул",
+      "mnemonic": "Булочка резко появилась на сцене в 2013-м — плод лопнул от славы, это explode."
     },
     {
       "term": "transform",
       "translation": "превращаться",
-      "example": "It failed to transform from a trend to a consistent part of our diets."
+      "example": "It failed to transform from a trend to a consistent part of our diets.",
+      "keyword": "трансформер",
+      "mnemonic": "Тренд не смог превратиться в часть рациона — даже трансформер не справился, это transform."
     },
     {
       "term": "consistent",
       "translation": "постоянный, стабильный",
-      "example": "A consistent part of our diets."
+      "example": "A consistent part of our diets.",
+      "keyword": "консьерж",
+      "mnemonic": "Постоянная часть рациона — как консьерж всегда на посту, это consistent."
     },
     {
       "term": "catalyst",
       "translation": "катализатор",
-      "example": "Social media is a huge catalyst for food fads these days."
+      "example": "Social media is a huge catalyst for food fads these days.",
+      "keyword": "катапульта",
+      "mnemonic": "Соцсети — огромный катализатор фуд-трендов, как катапульта, это catalyst."
     }
   ]
 }

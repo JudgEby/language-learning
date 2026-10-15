@@ -5,42 +5,58 @@
     {
       "phrase": "learn by heart",
       "translation": "выучить наизусть",
-      "example": "We had to learn the poem by heart."
+      "example": "We had to learn the poem by heart.",
+      "keyword": "хор",
+      "mnemonic": "Учили стих наизусть всем хором: learn the poem by heart."
     },
     {
       "phrase": "refresh my memory",
       "translation": "освежить в памяти",
-      "example": "Could you refresh my memory about what happened?"
+      "example": "Could you refresh my memory about what happened?",
+      "keyword": "фреш",
+      "mnemonic": "Освежи мою память — выпей фреш: refresh my memory."
     },
     {
       "phrase": "on the tip of my tongue",
       "translation": "вертится на языке",
-      "example": "His name is on the tip of my tongue."
+      "example": "His name is on the tip of my tongue.",
+      "keyword": "танго",
+      "mnemonic": "Его имя вертится на языке — танцует танго: on the tip of my tongue."
     },
     {
       "phrase": "bring back memories",
       "translation": "навевать воспоминания",
-      "example": "That song brings back memories of our summer trip."
+      "example": "That song brings back memories of our summer trip.",
+      "keyword": "бекон",
+      "mnemonic": "Песня навевает воспоминания — пахнет беконом из той поездки: brings back memories."
     },
     {
       "phrase": "have a good memory",
       "translation": "обладать хорошей памятью",
-      "example": "My grandmother has a good memory for faces and names."
+      "example": "My grandmother has a good memory for faces and names.",
+      "keyword": "мемориал",
+      "mnemonic": "У бабушки в голове мемориал лиц и имён — has a good memory."
     },
     {
       "phrase": "share childhood memories",
       "translation": "делиться детскими воспоминаниями",
-      "example": "We love sharing our childhood memories at family dinners."
+      "example": "We love sharing our childhood memories at family dinners.",
+      "keyword": "чадо",
+      "mnemonic": "Любим делиться детскими воспоминаниями — чадо хохочет: sharing childhood memories."
     },
     {
       "phrase": "remember every detail",
       "translation": "помнить каждую деталь",
-      "example": "He remembers every detail of the day they first met."
+      "example": "He remembers every detail of the day they first met.",
+      "keyword": "делит",
+      "mnemonic": "Помнит каждую деталь дня знакомства — делит рассказ на кусочки: remembers every detail."
     },
     {
       "phrase": "make the effort (to learn)",
       "translation": "прилагать усилие (чтобы выучить)",
-      "example": "She never makes the effort to learn new words by heart."
+      "example": "She never makes the effort to learn new words by heart.",
+      "keyword": "форт",
+      "mnemonic": "Никогда не прилагает усилий — не берёт форт: never makes the effort to learn."
     }
   ]
 }

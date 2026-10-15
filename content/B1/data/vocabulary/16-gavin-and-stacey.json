@@ -2,15 +2,75 @@
   "lessonId": "gavin-and-stacey",
   "title": "Gavin and Stacey — новые слова",
   "items": [
-    { "term": "daily routine", "translation": "повседневная рутина", "example": "Describe a typical day in your life." },
-    { "term": "get up", "translation": "вставать (с постели)", "example": "I get up at 5 a.m. every morning." },
-    { "term": "wake up", "translation": "просыпаться", "example": "I usually wake up at about 6.30." },
-    { "term": "switch on / off", "translation": "включать / выключать", "example": "The first thing I do is switch on the lights." },
-    { "term": "have a break", "translation": "делать перерыв", "example": "I have a one-hour break for lunch." },
-    { "term": "make a cup of coffee", "translation": "сварить/сделать чашку кофе", "example": "I get up and make a cup of coffee." },
-    { "term": "take (time)", "translation": "занимать (время)", "example": "The drive takes about fifteen minutes." },
-    { "term": "relax", "translation": "расслабляться, отдыхать", "example": "In the evenings I relax by reading a book." },
-    { "term": "welcome pack", "translation": "пакет welcome-документов", "example": "Did you get your welcome pack on your first day?" },
-    { "term": "show someone around", "translation": "провести экскурсию, показать", "example": "OK, let's show you around the office." }
+    {
+      "term": "daily routine",
+      "translation": "повседневная рутина",
+      "example": "Describe a typical day in your life.",
+      "keyword": "дейли, рутин",
+      "mnemonic": "Дейли-рутин-будильник: вот daily routine — повседневная рутина типичного дня."
+    },
+    {
+      "term": "get up",
+      "translation": "вставать (с постели)",
+      "example": "I get up at 5 a.m. every morning.",
+      "keyword": "гет, ап",
+      "mnemonic": "Гет-ап-подъём в пять: I get up — встаю с постели в пять утра."
+    },
+    {
+      "term": "wake up",
+      "translation": "просыпаться",
+      "example": "I usually wake up at about 6.30.",
+      "keyword": "вейк, ап",
+      "mnemonic": "Вейк-ап-петух кричит: I wake up — просыпаюсь в полседьмого."
+    },
+    {
+      "term": "switch on / off",
+      "translation": "включать / выключать",
+      "example": "The first thing I do is switch on the lights.",
+      "keyword": "свитч",
+      "mnemonic": "Свитч-щелчок у двери: switch on — включай, switch off — выключай свет."
+    },
+    {
+      "term": "have a break",
+      "translation": "делать перерыв",
+      "example": "I have a one-hour break for lunch.",
+      "keyword": "брейк",
+      "mnemonic": "Брейк-бутерброд на час: I have a break — делаю перерыв на обед."
+    },
+    {
+      "term": "make a cup of coffee",
+      "translation": "сварить/сделать чашку кофе",
+      "example": "I get up and make a cup of coffee.",
+      "keyword": "кап, кофе",
+      "mnemonic": "Кап-кофе дымится: make a cup of coffee — свари чашку кофе после подъёма."
+    },
+    {
+      "term": "take (time)",
+      "translation": "занимать (время)",
+      "example": "The drive takes about fifteen minutes.",
+      "keyword": "тейк, тайм",
+      "mnemonic": "Тейк-тайм-таксометр тикает: the drive takes — занимает пятнадцать минут."
+    },
+    {
+      "term": "relax",
+      "translation": "расслабляться, отдыхать",
+      "example": "In the evenings I relax by reading a book.",
+      "keyword": "релакс",
+      "mnemonic": "Релакс-кресло обнимает: in the evenings I relax — расслабляюсь с книгой."
+    },
+    {
+      "term": "welcome pack",
+      "translation": "пакет welcome-документов",
+      "example": "Did you get your welcome pack on your first day?",
+      "keyword": "велком, пак",
+      "mnemonic": "Велком-пак-пакет в руках: did you get welcome pack — пакет welcome-документов в первый день?"
+    },
+    {
+      "term": "show someone around",
+      "translation": "провести экскурсию, показать",
+      "example": "OK, let's show you around the office.",
+      "keyword": "шоу, эраунд",
+      "mnemonic": "Шоу-эраунд по офису: let's show you around — проведём экскурсию и покажем всё."
+    }
   ]
 }

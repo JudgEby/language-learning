@@ -1,11 +1,14 @@
 # State and Storage
 
-Covers: `app/src/store/`, `app/src/lib/loadContent.ts`, `app/index.html`
+Covers: `app/src/store/`, `app/src/lib/loadContent.ts`, `app/src/lib/srs.ts`, `app/src/lib/flashcards.ts`, `app/index.html`
 Read when: changing progress tracking or theme state, debugging content loading, caching, or fetch errors.
 
 Three pieces of client state exist: two persisted Zustand stores, plus an in-memory request
 cache for content. This file documents what each store guarantees, how content is fetched and
 cached, and the trade-offs baked into the current implementation.
+
+Flashcards add a third persisted store plus two pure library modules
+(`lib/srs.ts`, `lib/flashcards.ts`) — see the Flashcards section below.
 
 ## Stores
 
@@ -178,6 +181,48 @@ No `AbortController`, no `localStorage` content cache, no service worker.
   `Promise.all`.
 - `TestViewPage` resets `selected`, `confirmed` and `showRules` on `[qIndex, dayId]` so the
   sidebar state cannot leak between questions.
+
+## Flashcards — `flashcardsStore`, `lib/srs.ts`, `lib/flashcards.ts`
+
+**Persisted key:** `language-learning-flashcards` (version 0).
+
+State:
+
+```ts
+{
+  initialized: boolean;
+  settings: {
+    selectedLevels: string[];
+    lessons: string[] | null; // `{level}|{studyKey}` filter; null = all lessons
+    fixedLesson: boolean;     // single-lesson mode hides the scope picker
+    types: ('vocabulary' | 'phrases' | 'idioms')[];
+    direction: 'en-ru' | 'ru-en' | 'mixed';
+    newPerDay: number;        // default 20
+    showExample: boolean;
+  };
+  progress: Record<cardId, CardProgress>;
+}
+```
+
+Card ids are `{level}|{type}:{lessonId}#{itemIndex}` (see `buildDeck`). Reordering
+items inside a lesson file orphans that card's SRS state — the same accepted
+trade-off as derived test ids.
+
+- `lib/srs.ts` is pure SM-2: `gradeCard(prev, grade, now)` maps the four UI
+  grades to qualities 0/3/4/5, updates easiness (clamped at 1.3), and sets the
+  next due day. `isDue` compares day-granular due dates, so review hour does
+  not matter.
+- `lib/flashcards.ts` builds the deck from `loadManifest` + `loadLexicon`
+  (reusing the request cache) in textbook order, and splits it into
+  `{ due (oldest first), fresh (deck order, capped at newPerDay) }`.
+- The review session always renders the queue head: a graded card leaves the
+  queue, so no index state exists and no re-render loop is possible.
+- `ensureInitialized(allLevels)` selects every level on the very first visit;
+  entry presets (`enterLevel`, `enterLesson`) overwrite the scope and persist
+  like any other settings change.
+- Deliberately separate from `progressStore`: flashcard SRS state must survive
+  level renames differently (card ids embed the level id, a rename starts that
+  level's cards fresh) and must never be read as study/test progress.
 
 ## Things that will bite you
 

@@ -5,57 +5,79 @@
     {
       "term": "gig",
       "translation": "концерт (неформально)",
-      "example": "We're going to a gig on Saturday."
+      "example": "We're going to a gig on Saturday.",
+      "keyword": "гик",
+      "mnemonic": "Гик идёт на концерт в субботу — going to a gig, концерт."
     },
     {
       "term": "lyrics",
       "translation": "текст песни",
-      "example": "I never understand the lyrics."
+      "example": "I never understand the lyrics.",
+      "keyword": "лирика",
+      "mnemonic": "Никогда не понимаю лирику в припеве — never understand the lyrics, текст песни."
     },
     {
       "term": "melody",
       "translation": "мелодия",
-      "example": "The melody is incredibly catchy."
+      "example": "The melody is incredibly catchy.",
+      "keyword": "мел",
+      "mnemonic": "Мелодия такая приставучая, что хоть мелом записывай, — incredibly catchy melody."
     },
     {
       "term": "genre",
       "translation": "жанр",
-      "example": "What genre of music do you prefer?"
+      "example": "What genre of music do you prefer?",
+      "keyword": "Жанна",
+      "mnemonic": "Жанна решает, какой жанр слушать в дороге, — what genre of music do you prefer?"
     },
     {
       "term": "track",
       "translation": "трек",
-      "example": "This is my favourite track on the album."
+      "example": "This is my favourite track on the album.",
+      "keyword": "треск",
+      "mnemonic": "Любимый трек на альбоме — слушаю до треска колонок: favourite track."
     },
     {
       "term": "classical",
       "translation": "классическая музыка",
-      "example": "Do you like classical music?"
+      "example": "Do you like classical music?",
+      "keyword": "классики",
+      "mnemonic": "Любишь классику? — прыгаем в классики под Моцарта: classical music."
     },
     {
       "term": "folk",
       "translation": "фолк",
-      "example": "She listens to folk and jazz."
+      "example": "She listens to folk and jazz.",
+      "keyword": "фокус",
+      "mnemonic": "Слушает фолк и джаз, а на перерыве показывает фокусы — folk and jazz."
     },
     {
       "term": "hip hop",
       "translation": "хип-хоп",
-      "example": "They play hip hop at the gym."
+      "example": "They play hip hop at the gym.",
+      "keyword": "хиппи",
+      "mnemonic": "В зале качают хип-хоп для бывших хиппи — play hip hop at the gym."
     },
     {
       "term": "jazz",
       "translation": "джаз",
-      "example": "Some people find jazz hard to understand."
+      "example": "Some people find jazz hard to understand.",
+      "keyword": "джем",
+      "mnemonic": "Некоторым джаз понять трудно — закусывают джемом: find jazz hard to understand."
     },
     {
       "term": "opera",
       "translation": "опера",
-      "example": "I don't like opera so much."
+      "example": "I don't like opera so much.",
+      "keyword": "опора",
+      "mnemonic": "Оперу не люблю — сижу на опоре моста и жду антракта: don't like opera."
     },
     {
       "term": "rock",
       "translation": "рок",
-      "example": "He likes music with guitars, like rock."
+      "example": "He likes music with guitars, like rock.",
+      "keyword": "урок",
+      "mnemonic": "Любит музыку с гитарами — прогулял урок ради рока: likes rock."
     }
   ]
 }

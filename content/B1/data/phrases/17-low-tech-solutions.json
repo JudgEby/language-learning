@@ -2,13 +2,61 @@
   "lessonId": "low-tech-solutions",
   "title": "Low-tech solutions — фразы",
   "items": [
-    { "phrase": "It's as … as …", "translation": "Это такой же …, как и …", "example": "This tablet is as fast as the new model." },
-    { "phrase": "It's not as … as …", "translation": "Оно не такое …, как …", "example": "The bicycle is not as fast as a car, but it's healthier." },
-    { "phrase": "It's too … (for someone)", "translation": "Это слишком … (для кого-то)", "example": "The new smartphone is too expensive for most students." },
-    { "phrase": "It's … enough", "translation": "Это достаточно …", "example": "Is the internet connection fast enough for video calls?" },
-    { "phrase": "… a lot / much / far + comparative", "translation": "… гораздо / намного + сравнительная степень", "example": "Life is a lot easier now than it was a hundred years ago." },
-    { "phrase": "… a little / slightly + comparative", "translation": "… немного / чуть + сравнительная степень", "example": "E-books are slightly cheaper than printed books." },
-    { "phrase": "the best / worst invention", "translation": "лучшее / худшее изобретение", "example": "What do you think is the best invention of the last century?" },
-    { "phrase": "What could be better than …?", "translation": "Что может быть лучше, чем …?", "example": "What could be better than sitting in the sun with a good book?" }
+    {
+      "phrase": "It's as … as …",
+      "translation": "Это такой же …, как и …",
+      "example": "This tablet is as fast as the new model.",
+      "keyword": "эзэз",
+      "mnemonic": "Эз-эз-близнецы планшеты: it's as fast as — это такой же быстрый, как новая модель."
+    },
+    {
+      "phrase": "It's not as … as …",
+      "translation": "Оно не такое …, как …",
+      "example": "The bicycle is not as fast as a car, but it's healthier.",
+      "keyword": "нэзэз",
+      "mnemonic": "Нэз-эз велик медленней: it's not as fast as — оно не такое быстрое, как машина, но здоровее."
+    },
+    {
+      "phrase": "It's too … (for someone)",
+      "translation": "Это слишком … (для кого-то)",
+      "example": "The new smartphone is too expensive for most students.",
+      "keyword": "ту",
+      "mnemonic": "Ту-дорого студентам: it's too expensive — это слишком дорого для студентов."
+    },
+    {
+      "phrase": "It's … enough",
+      "translation": "Это достаточно …",
+      "example": "Is the internet connection fast enough for video calls?",
+      "keyword": "инаф",
+      "mnemonic": "Инаф-интернет тянет: is it fast enough — это достаточно быстро для видеозвонков?"
+    },
+    {
+      "phrase": "… a lot / much / far + comparative",
+      "translation": "… гораздо / намного + сравнительная степень",
+      "example": "Life is a lot easier now than it was a hundred years ago.",
+      "keyword": "лот, компаратив",
+      "mnemonic": "Лот-легче жизнь стала: a lot easier now — гораздо легче, чем сто лет назад."
+    },
+    {
+      "phrase": "… a little / slightly + comparative",
+      "translation": "… немного / чуть + сравнительная степень",
+      "example": "E-books are slightly cheaper than printed books.",
+      "keyword": "слайтли",
+      "mnemonic": "Слайтли-дешевле книги: slightly cheaper — немного дешевле бумажных книг."
+    },
+    {
+      "phrase": "the best / worst invention",
+      "translation": "лучшее / худшее изобретение",
+      "example": "What do you think is the best invention of the last century?",
+      "keyword": "инвеншн",
+      "mnemonic": "Инвеншн-века на голосовании: the best invention — лучшее изобретение века, как думаешь?"
+    },
+    {
+      "phrase": "What could be better than …?",
+      "translation": "Что может быть лучше, чем …?",
+      "example": "What could be better than sitting in the sun with a good book?",
+      "keyword": "бетте",
+      "mnemonic": "Бетте-солнце с книгой: what could be better — что может быть лучше солнца с книгой?"
+    }
   ]
 }

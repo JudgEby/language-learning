@@ -5,37 +5,51 @@
     {
       "idiom": "have traffic problems",
       "translation": "иметь проблемы с движением",
-      "example": "Many big cities are expensive and have traffic problems."
+      "example": "Many big cities are expensive and have traffic problems.",
+      "keyword": "трактор",
+      "mnemonic": "Мегаполис с трактором в пробке — have traffic problems, иметь проблемы с движением, дорого и тесно."
     },
     {
       "idiom": "have high crime rates",
       "translation": "иметь высокий уровень преступности",
-      "example": "Many big cities have high crime rates and poor transport."
+      "example": "Many big cities have high crime rates and poor transport.",
+      "keyword": "крамола",
+      "mnemonic": "Мегаполис с крамолой в подворотнях — have high crime rates, иметь высокий уровень преступности и плохой транспорт."
     },
     {
       "idiom": "explore new lifestyles",
       "translation": "изучать новый образ жизни",
-      "example": "Young people are carefree and want to explore new lifestyles."
+      "example": "Young people are carefree and want to explore new lifestyles.",
+      "keyword": "стиляги",
+      "mnemonic": "Беспечные стиляги кочуют — explore new lifestyles, изучать новый образ жизни."
     },
     {
       "idiom": "the top ten cities for young people",
       "translation": "десять лучших городов для молодёжи",
-      "example": "Have a look at our list of the top ten cities for young people."
+      "example": "Have a look at our list of the top ten cities for young people.",
+      "keyword": "топот",
+      "mnemonic": "Молодёжь с топотом кроссовок — the top ten cities for young people, десять лучших городов для молодёжи, смотри список."
     },
     {
       "idiom": "free trams",
       "translation": "бесплатные трамваи",
-      "example": "Melbourne has free trams in the city centre."
+      "example": "Melbourne has free trams in the city centre.",
+      "keyword": "трамплин",
+      "mnemonic": "Мельбурн с трамплином вместо вагона — free trams, бесплатные трамваи в центре."
     },
     {
       "idiom": "beautiful buildings and squares",
       "translation": "красивые здания и площади",
-      "example": "The city has beautiful buildings and squares to visit."
+      "example": "The city has beautiful buildings and squares to visit.",
+      "keyword": "бильярд",
+      "mnemonic": "Туристы с бильярдом на площади — beautiful buildings and squares, красивые здания и площади для визита."
     },
     {
       "idiom": "cafes and street art",
       "translation": "кафе и уличное искусство",
-      "example": "We love the cafes and street art in this area."
+      "example": "We love the cafes and street art in this area.",
+      "keyword": "арбуз",
+      "mnemonic": "Хипстеры с арбузом в кофейне — cafes and street art, кафе и уличное искусство в районе любим."
     }
   ]
 }

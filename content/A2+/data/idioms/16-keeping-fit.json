@@ -5,37 +5,51 @@
     {
       "idiom": "get rid of your anger",
       "translation": "избавиться от злости",
-      "example": "If you want to get rid of your anger, try boxing training."
+      "example": "If you want to get rid of your anger, try boxing training.",
+      "keyword": "ангар",
+      "mnemonic": "Боксёр в ангаре колотит грушу — get rid of your anger, избавиться от злости тренировкой."
     },
     {
       "idiom": "build your muscles",
       "translation": "накачать мышцы, укрепить мышцы",
-      "example": "Pilates helps you build your muscles and strength."
+      "example": "Pilates helps you build your muscles and strength.",
+      "keyword": "мусс",
+      "mnemonic": "Пилатес с муссом на боках — build your muscles, накачать мышцы и силу."
     },
     {
       "idiom": "learn dance moves",
       "translation": "выучить танцевальные движения",
-      "example": "You also learn some great dance moves in class."
+      "example": "You also learn some great dance moves in class.",
+      "keyword": "муха",
+      "mnemonic": "Танцор с мухой в ритме — learn dance moves, выучить танцевальные движения в классе."
     },
     {
       "idiom": "run up the stairs",
       "translation": "бежать вверх по лестнице",
-      "example": "Start at the bottom of the tower and run up the stairs to the top."
+      "example": "Start at the bottom of the tower and run up the stairs to the top.",
+      "keyword": "стирка",
+      "mnemonic": "Спринтер со стиркой на башню — run up the stairs, бежать вверх по лестнице наверх."
     },
     {
       "idiom": "keep your balance",
       "translation": "держать равновесие",
-      "example": "You need to be strong to keep your balance on the board."
+      "example": "You need to be strong to keep your balance on the board.",
+      "keyword": "блин",
+      "mnemonic": "Серфер с блином от штанги — keep your balance, держать равновесие на доске нужна сила."
     },
     {
       "idiom": "forget all your problems",
       "translation": "забыть обо всех проблемах",
-      "example": "The calm ocean will make you forget all your problems."
+      "example": "The calm ocean will make you forget all your problems.",
+      "keyword": "пробка",
+      "mnemonic": "Океан смывает пробки в голове — forget all your problems, забыть обо всех проблемах."
     },
     {
       "idiom": "eat lots of fruit",
       "translation": "есть много фруктов",
-      "example": "What do you do to keep fit? I eat lots of fruit."
+      "example": "What do you do to keep fit? I eat lots of fruit.",
+      "keyword": "фундук",
+      "mnemonic": "Качок с фундуком в кармане — eat lots of fruit, есть много фруктов для формы."
     }
   ]
 }

@@ -5,72 +5,100 @@
     {
       "idiom": "give it one's best shot",
       "translation": "выложиться; постараться изо всех сил",
-      "example": "Mist gave it his best shot in the final run."
+      "example": "Mist gave it his best shot in the final run.",
+      "keyword": "шот",
+      "mnemonic": "Гонщик вложил шот-энергию: он смог выложиться и постараться изо всех сил, — шот гремит give it one's best shot."
     },
     {
       "idiom": "a level playing field",
       "translation": "равные условия",
-      "example": "The handicap system keeps a level playing field for all drivers."
+      "example": "The handicap system keeps a level playing field for all drivers.",
+      "keyword": "левел",
+      "mnemonic": "Гандикап выровнял левел-трек: стали равные условия, — левел держит a level playing field."
     },
     {
       "idiom": "down to the wire",
       "translation": "до последнего момента",
-      "example": "The race went down to the wire."
+      "example": "The race went down to the wire.",
+      "keyword": "вайр",
+      "mnemonic": "Гонка висела на вайр-проводе: всё решилось до последнего момента, — вайр натянут down to the wire."
     },
     {
       "idiom": "a photo finish",
       "translation": "финиш нос к носу",
-      "example": "It was a photo finish after three laps."
+      "example": "It was a photo finish after three laps.",
+      "keyword": "фото",
+      "mnemonic": "Судьи смотрят фото кадра: был финиш нос к носу, — фото решает a photo finish."
     },
     {
       "idiom": "throw in the towel",
       "translation": "сдаться; признать поражение",
-      "example": "He refused to throw in the towel despite the bad start."
+      "example": "He refused to throw in the towel despite the bad start.",
+      "keyword": "тауэл",
+      "mnemonic": "Боксёр швырнул тауэл-полотенце: он готов сдаться и признать поражение, — тауэл летит throw in the towel."
     },
     {
       "idiom": "win hands down",
       "translation": "победить с лёгкостью",
-      "example": "The favourite won hands down."
+      "example": "The favourite won hands down.",
+      "keyword": "хэндс",
+      "mnemonic": "Фаворит играл хэндс-лежа: он смог победить с лёгкостью, — хэндс хлопает win hands down."
     },
     {
       "idiom": "raise the bar",
       "translation": "поднять планку",
-      "example": "Each season the drivers raise the bar higher."
+      "example": "Each season the drivers raise the bar higher.",
+      "keyword": "бар",
+      "mnemonic": "Пилоты подняли бар-рейку: они стали поднять планку выше, — бар взлетел raise the bar."
     },
     {
       "idiom": "the ball is in your court",
       "translation": "ход за тобой",
-      "example": "You have trained all month — now the ball is in your court."
+      "example": "You have trained all month — now the ball is in your court.",
+      "keyword": "болл",
+      "mnemonic": "Тренер кинул болл-мяч: теперь ход за тобой, — болл летит the ball is in your court."
     },
     {
       "idiom": "by a whisker",
       "translation": "с минимальным отрывом",
-      "example": "Ryan won by a whisker in the last round."
+      "example": "Ryan won by a whisker in the last round.",
+      "keyword": "виски",
+      "mnemonic": "Райан выиграл на глоток виски: он пришёл с минимальным отрывом, — виски плещет by a whisker."
     },
     {
       "idiom": "snatch victory from the jaws of defeat",
       "translation": "вырвать победу из пасти поражения",
-      "example": "Mist snatched victory from the jaws of defeat."
+      "example": "Mist snatched victory from the jaws of defeat.",
+      "keyword": "джоз",
+      "mnemonic": "Гонщик клацнул джоз-челюстью: он смог вырвать победу из пасти поражения, — джоз щёлкает snatch victory from the jaws of defeat."
     },
     {
       "idiom": "may the best man win",
       "translation": "пусть победит сильнейший",
-      "example": "Both crews shook hands: may the best man win!"
+      "example": "Both crews shook hands: may the best man win!",
+      "keyword": "бест",
+      "mnemonic": "Экипажи жмут руки за бест-кубок: пусть победит сильнейший, — бест сияет may the best man win."
     },
     {
       "idiom": "no pain, no gain",
       "translation": "без труда нет победы",
-      "example": "Gym training is hard, but no pain, no gain."
+      "example": "Gym training is hard, but no pain, no gain.",
+      "keyword": "пейн-гейн",
+      "mnemonic": "Качок стонет «пейн-гейн!»: он знает, что без труда нет победы, — пейн-гейн гудит no pain, no gain."
     },
     {
       "idiom": "the thrill of victory",
       "translation": "восторг победы",
-      "example": "Nothing beats the thrill of victory after months of practice."
+      "example": "Nothing beats the thrill of victory after months of practice.",
+      "keyword": "трилл",
+      "mnemonic": "Подиум дрожит от трилл-дрожи: это восторг победы после тренировок, — трилл звенит the thrill of victory."
     },
     {
       "idiom": "take home the trophy",
       "translation": "завоевать кубок",
-      "example": "The Birmingham driver took home the trophy."
+      "example": "The Birmingham driver took home the trophy.",
+      "keyword": "трофи",
+      "mnemonic": "Пилот обнял трофи-кубок: он смог завоевать кубок, — трофи блестит take home the trophy."
     }
   ]
 }

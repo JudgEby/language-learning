@@ -5,92 +5,128 @@
     {
       "phrase": "fake an injury",
       "translation": "симулировать травму",
-      "example": "Denby was faking his injury to win a penalty."
+      "example": "Denby was faking his injury to win a penalty.",
+      "keyword": "фейк",
+      "mnemonic": "Его травма — чистой воды фейк: симулировал ради пенальти, — фейк хромает fake an injury."
     },
     {
       "phrase": "cheat in quizzes",
       "translation": "мухлевать в викторинах",
-      "example": "Everyone cheats in quizzes if they get the chance."
+      "example": "Everyone cheats in quizzes if they get the chance.",
+      "keyword": "чит",
+      "mnemonic": "Ввёл чит-код и начал мухлевать в викторинах без зазрения совести, — чит мигает cheat in quizzes."
     },
     {
       "phrase": "affect the result",
       "translation": "повлиять на результат",
-      "example": "The foul definitely affected the result."
+      "example": "The foul definitely affected the result.",
+      "keyword": "афиша",
+      "mnemonic": "Сорванная афиша повлияла на результат матча — болельщики не пришли, — афиша кричит affect the result."
     },
     {
       "phrase": "bump into someone",
       "translation": "врезаться в кого-то",
-      "example": "What Rona did was bump into her to make her fall."
+      "example": "What Rona did was bump into her to make her fall.",
+      "keyword": "бум",
+      "mnemonic": "Раздался бум — она врезалась в соперницу, чтобы та упала, — бум гремит bump into someone."
     },
     {
       "phrase": "waste time",
       "translation": "тянуть время",
-      "example": "Players complain to the referee to waste time."
+      "example": "Players complain to the referee to waste time.",
+      "keyword": "весть",
+      "mnemonic": "Гонец с вестью специально тянет время, чтобы опоздать к судье, — весть ползёт waste time."
     },
     {
       "phrase": "complain to the referee",
       "translation": "жаловаться судье",
-      "example": "Players complain to the referee to slow the game down."
+      "example": "Players complain to the referee to slow the game down.",
+      "keyword": "рефери",
+      "mnemonic": "Игроки гурьбой жалуются судье, а рефери хватается за свисток, — рефери свистит complain to the referee."
     },
     {
       "phrase": "ask for a day’s holiday",
       "translation": "просить день отпуска",
-      "example": "I’d ask for a day’s holiday, but I might miss the celebration."
+      "example": "I’d ask for a day’s holiday, but I might miss the celebration.",
+      "keyword": "холодец",
+      "mnemonic": "Пришёл просить день отпуска с кастрюлей холодца для начальника, — холодец дрожит ask for a day’s holiday."
     },
     {
       "phrase": "dive in the penalty area",
       "translation": "нырнуть в штрафной (симулировать фол)",
-      "example": "What she did was dive in the penalty area."
+      "example": "What she did was dive in the penalty area.",
+      "keyword": "дайвер",
+      "mnemonic": "Дайвер в ластах нырнул в штрафной и симулировал фол, — дайвер кувыркается dive in the penalty area."
     },
     {
       "phrase": "break the rules",
       "translation": "нарушать правила",
-      "example": "Players are more likely to break the rules in team sports."
+      "example": "Players are more likely to break the rules in team sports.",
+      "keyword": "брейк",
+      "mnemonic": "Танцор устроил брейк прямо на поле и нарушил все правила, — брейк крутится break the rules."
     },
     {
       "phrase": "copy behaviour",
       "translation": "копировать поведение",
-      "example": "They copy the behaviour of the opposite team."
+      "example": "They copy the behaviour of the opposite team.",
+      "keyword": "копия",
+      "mnemonic": "Снял копию с поведения соперников и копирует каждый их шаг, — копия повторяет copy behaviour."
     },
     {
       "phrase": "cheater's high",
       "translation": "«кайф жулика»",
-      "example": "Have you ever experienced the cheater's high?"
+      "example": "Have you ever experienced the cheater's high?",
+      "keyword": "читер",
+      "mnemonic": "Довольный читер поймал «кайф жулика» после удачной аферы, — читер хихикает cheater's high."
     },
     {
       "phrase": "sense of satisfaction",
       "translation": "чувство удовлетворения",
-      "example": "Cheaters feel a greater sense of satisfaction."
+      "example": "Cheaters feel a greater sense of satisfaction.",
+      "keyword": "сетка",
+      "mnemonic": "Мяч влетел в сетку, и жулика накрыло чувство удовлетворения, — сетка звенит sense of satisfaction."
     },
     {
       "phrase": "make the grade",
       "translation": "сдать, пройти (экзамен)",
-      "example": "You really need to do well and make the grade."
+      "example": "You really need to do well and make the grade.",
+      "keyword": "грядка",
+      "mnemonic": "Вскопал грядку перед экзаменом на счастье — и сдал его с первого раза, — грядка цветёт make the grade."
     },
     {
       "phrase": "take notes into an exam",
       "translation": "пронести шпаргалки на экзамен",
-      "example": "Would you secretly take notes into the exam?"
+      "example": "Would you secretly take notes into the exam?",
+      "keyword": "ноутбук",
+      "mnemonic": "Пытался пронести шпаргалки на экзамен в корпусе ноутбука, — ноутбук пищит take notes into an exam."
     },
     {
       "phrase": "add false information",
       "translation": "добавить ложные сведения",
-      "example": "Would you add false information to your CV?"
+      "example": "Would you add false information to your CV?",
+      "keyword": "фальшь",
+      "mnemonic": "Певец сфальшивил и добавил ложные сведения в резюме, — фальшь режет слух add false information."
     },
     {
       "phrase": "exaggerate the facts",
       "translation": "преувеличивать факты",
-      "example": "I might exaggerate the facts a little in my CV."
+      "example": "I might exaggerate the facts a little in my CV.",
+      "keyword": "эгегей",
+      "mnemonic": "Крикнул «эгегей!» и преувеличил факты в резюме втрое, — эгегей хвастает exaggerate the facts."
     },
     {
       "phrase": "play to win",
       "translation": "играть на победу",
-      "example": "I can’t bear to lose, so I always play to win."
+      "example": "I can’t bear to lose, so I always play to win.",
+      "keyword": "плей",
+      "mnemonic": "Нажал «плей» и вышел играть на победу, проигрыш невыносим, — плей гремит play to win."
     },
     {
       "phrase": "be caught out",
       "translation": "быть пойманным",
-      "example": "It would be embarrassing to be caught out lying."
+      "example": "It would be embarrassing to be caught out lying.",
+      "keyword": "кот",
+      "mnemonic": "Кот, стащивший сметану, был пойман с поличным и смущён, — кот мяукает be caught out."
     }
   ]
 }

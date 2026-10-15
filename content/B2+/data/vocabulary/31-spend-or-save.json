@@ -5,72 +5,100 @@
     {
       "term": "overpriced",
       "translation": "завышенная цена",
-      "example": "I avoid buying designer brands because I think they're overpriced."
+      "example": "I avoid buying designer brands because I think they're overpriced.",
+      "keyword": "прайс",
+      "mnemonic": "Дизайнерские бренды не беру — завышенная цена: вот тебе прайс, это overpriced."
     },
     {
       "term": "economical",
       "translation": "экономичный",
-      "example": "I drive a small car which is very economical on fuel."
+      "example": "I drive a small car which is very economical on fuel.",
+      "keyword": "эконом",
+      "mnemonic": "Машинка экономична по топливу — езди экономом, это economical."
     },
     {
       "term": "cost-effective",
       "translation": "рентабельный, выгодный",
-      "example": "We do our food shopping together because it's more cost-effective."
+      "example": "We do our food shopping together because it's more cost-effective.",
+      "keyword": "кошелёк",
+      "mnemonic": "Закупаемся вместе, потому что это выгодно кошельку, — это cost-effective."
     },
     {
       "term": "pricey",
       "translation": "дорогой",
-      "example": "I never eat out in pricey restaurants."
+      "example": "I never eat out in pricey restaurants.",
+      "keyword": "пряник",
+      "mnemonic": "В дорогих ресторанах не ем — пряник дешевле, это pricey."
     },
     {
       "term": "complimentary",
       "translation": "бесплатный",
-      "example": "I always keep an eye out for complimentary tickets to shows."
+      "example": "I always keep an eye out for complimentary tickets to shows.",
+      "keyword": "комплимент",
+      "mnemonic": "Высматриваю бесплатные билеты на шоу — получи комплимент, это complimentary."
     },
     {
       "term": "discounted",
       "translation": "со скидкой",
-      "example": "I try to find things that are discounted, for example in the sales."
+      "example": "I try to find things that are discounted, for example in the sales.",
+      "keyword": "дисконт",
+      "mnemonic": "Ищу вещи со скидкой на распродажах — загляни в дисконт, это discounted."
     },
     {
       "term": "save",
       "translation": "экономить, копить",
-      "example": "I'm trying to save money by cooking at home instead of eating out."
+      "example": "I'm trying to save money by cooking at home instead of eating out.",
+      "keyword": "сейф",
+      "mnemonic": "Стараюсь экономить, готовя дома, — сложи в сейф, это save."
     },
     {
       "term": "afford",
       "translation": "позволить себе",
-      "example": "I can't afford to buy a new car right now."
+      "example": "I can't afford to buy a new car right now.",
+      "keyword": "форд",
+      "mnemonic": "Не могу позволить себе новую машину — даже Форд не тяну, это afford."
     },
     {
       "term": "bargain",
       "translation": "выгодная покупка",
-      "example": "This jacket was a real bargain — I got it for half price."
+      "example": "This jacket was a real bargain — I got it for half price.",
+      "keyword": "баржа",
+      "mnemonic": "Куртка за полцены — выгодная покупка с баржи, это bargain."
     },
     {
       "term": "worth the money",
       "translation": "стоящий своих денег",
-      "example": "The hotel was expensive but it was definitely worth the money."
+      "example": "The hotel was expensive but it was definitely worth the money.",
+      "keyword": "мани",
+      "mnemonic": "Отель дорогой, но стоящий своих денег, — мани не жалко, это worth the money."
     },
     {
       "term": "expenditure",
       "translation": "расходы, траты",
-      "example": "I keep a careful eye on my expenditure."
+      "example": "I keep a careful eye on my expenditure.",
+      "keyword": "эксперт",
+      "mnemonic": "Пристально слежу за расходами — эксперт по тратам, это expenditure."
     },
     {
       "term": "put aside",
       "translation": "откладывать (деньги)",
-      "example": "I put aside as much money as I can each month."
+      "example": "I put aside as much money as I can each month.",
+      "keyword": "путёвка",
+      "mnemonic": "Откладываю деньги каждый месяц — коплю на путёвку, это put aside."
     },
     {
       "term": "essentials",
       "translation": "предметы первой необходимости",
-      "example": "I buy the essentials such as food and cover the bills."
+      "example": "I buy the essentials such as food and cover the bills.",
+      "keyword": "эссенция",
+      "mnemonic": "Покупаю предметы первой необходимости и оплачиваю счета — капни эссенцию, это essentials."
     },
     {
       "term": "allowance",
       "translation": "сумма на расходы, пособие",
-      "example": "I give myself a small allowance each month for clothes."
+      "example": "I give myself a small allowance each month for clothes.",
+      "keyword": "аванс",
+      "mnemonic": "Выделяю себе небольшую сумму на одежду каждый месяц — получи аванс, это allowance."
     },
     {
       "term": "stingy",
@@ -80,22 +108,30 @@
     {
       "term": "steady job",
       "translation": "стабильная работа",
-      "example": "I've got a steady job and I'm well paid."
+      "example": "I've got a steady job and I'm well paid.",
+      "keyword": "стадо",
+      "mnemonic": "У меня стабильная работа и хорошая зарплата — стою как стадо, это steady job."
     },
     {
       "term": "frugal",
       "translation": "бережливый, экономный",
-      "example": "I don't see the point in being frugal and holding on to money."
+      "example": "I don't see the point in being frugal and holding on to money.",
+      "keyword": "фрукт",
+      "mnemonic": "Не вижу смысла быть бережливым и держаться за деньги — грызи фрукт, это frugal."
     },
     {
       "term": "splash out",
       "translation": "шиковать, сорить деньгами",
-      "example": "I don't think twice about splashing out on a new outfit."
+      "example": "I don't think twice about splashing out on a new outfit.",
+      "keyword": "шлёп",
+      "mnemonic": "Не задумываясь шикую на новый наряд — шлёп картой, это splash out."
     },
     {
       "term": "blow",
       "translation": "промотать, спустить (деньги)",
-      "example": "I usually manage to blow my salary before the next one."
+      "example": "I usually manage to blow my salary before the next one.",
+      "keyword": "блин",
+      "mnemonic": "Умудряюсь промотать зарплату до следующей — блин, это blow."
     },
     {
       "term": "overdraft",

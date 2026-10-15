@@ -5,62 +5,86 @@
     {
       "term": "alliance",
       "translation": "альянс, союз",
-      "example": "We should form an alliance with our rivals to strengthen our position."
+      "example": "We should form an alliance with our rivals to strengthen our position.",
+      "keyword": "Алиса",
+      "mnemonic": "Альянс и союз с соперниками заключила Алиса — вот тебе alliance."
     },
     {
       "term": "rival",
       "translation": "соперник, конкурент",
-      "example": "Our biggest rival launched a similar product last month."
+      "example": "Our biggest rival launched a similar product last month.",
+      "keyword": "ревет",
+      "mnemonic": "Главный соперник ревет после запуска продукта — вот тебе rival."
     },
     {
       "term": "competitive edge",
       "translation": "конкурентное преимущество",
-      "example": "These new products will help us gain a competitive edge."
+      "example": "These new products will help us gain a competitive edge.",
+      "keyword": "эдак",
+      "mnemonic": "Конкурентное преимущество, когда скажешь «эдак мы их!» — вот тебе competitive edge."
     },
     {
       "term": "push beyond limits",
       "translation": "выходить за пределы возможностей",
-      "example": "I think I really pushed beyond my limits last year to meet all the targets."
+      "example": "I think I really pushed beyond my limits last year to meet all the targets.",
+      "keyword": "пушка",
+      "mnemonic": "Вышел за пределы возможностей, как выстрел из пушки — вот тебе push beyond limits."
     },
     {
       "term": "cooperate",
       "translation": "сотрудничать",
-      "example": "The two companies agreed to cooperate on the research project."
+      "example": "The two companies agreed to cooperate on the research project.",
+      "keyword": "кооператив",
+      "mnemonic": "Две компании решили сотрудничать и открыли кооператив — вот тебе cooperate."
     },
     {
       "term": "gain advantage",
       "translation": "получить преимущество",
-      "example": "We need to act fast to gain advantage over our competitors."
+      "example": "We need to act fast to gain advantage over our competitors.",
+      "keyword": "гайка",
+      "mnemonic": "Преимущество получил тот, кто закрутил гайку быстрее всех — вот тебе gain advantage."
     },
     {
       "term": "form a partnership",
       "translation": "сформировать партнёрство",
-      "example": "They decided to form a partnership to expand into new markets."
+      "example": "They decided to form a partnership to expand into new markets.",
+      "keyword": "форма",
+      "mnemonic": "Партнёрство сформировали и надели общую форму — вот тебе form a partnership."
     },
     {
       "term": "combine resources",
       "translation": "объединять ресурсы",
-      "example": "By combining resources, both companies saved money and time."
+      "example": "By combining resources, both companies saved money and time.",
+      "keyword": "комбайн",
+      "mnemonic": "Ресурсы объединили и купили общий комбайн — вот тебе combine resources."
     },
     {
       "term": "outdo each other",
       "translation": "перещеголять друг друга",
-      "example": "When these competitors try to outdo each other, they do better."
+      "example": "When these competitors try to outdo each other, they do better.",
+      "keyword": "отдушина",
+      "mnemonic": "Перещеголять друг друга — их отдушина в конкуренции, вот тебе outdo each other."
     },
     {
       "term": "fulfil one's potential",
       "translation": "реализовать свой потенциал",
-      "example": "They're more likely to fulfil their potential that way."
+      "example": "They're more likely to fulfil their potential that way.",
+      "keyword": "филин",
+      "mnemonic": "Свой потенциал реализовал филин в очках — вот тебе fulfil one's potential."
     },
     {
       "term": "adversary",
       "translation": "соперник, противник",
-      "example": "A German company is one of their main adversaries."
+      "example": "A German company is one of their main adversaries.",
+      "keyword": "дверца",
+      "mnemonic": "Главный соперник и противник прячется за дверцей — вот тебе adversary."
     },
     {
       "term": "competitor",
       "translation": "конкурент",
-      "example": "Collaboration between competitors is best avoided."
+      "example": "Collaboration between competitors is best avoided.",
+      "keyword": "компот",
+      "mnemonic": "Конкурент варит компот из наших идей — вот тебе competitor."
     }
   ]
 }

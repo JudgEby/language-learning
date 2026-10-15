@@ -5,37 +5,51 @@
     {
       "idiom": "a close family",
       "translation": "дружная семья",
-      "example": "They are a very close family."
+      "example": "They are a very close family.",
+      "keyword": "ключ",
+      "mnemonic": "Семья держится на ключ: a close family — дружная семья."
     },
     {
       "idiom": "get on well with cousins",
       "translation": "хорошо ладить с двоюродными",
-      "example": "I get on well with my cousins."
+      "example": "I get on well with my cousins.",
+      "keyword": "казино",
+      "mnemonic": "Кузены ладят в казино: get on well with cousins — хорошо ладить с двоюродными."
     },
     {
       "idiom": "take after your mother",
       "translation": "пойти в маму (характером или внешностью)",
-      "example": "She takes after her mother."
+      "example": "She takes after her mother.",
+      "keyword": "автор",
+      "mnemonic": "Дочка как автор повторяет маму: take after your mother — пойти в маму."
     },
     {
       "idiom": "a family gathering",
       "translation": "семейная встреча",
-      "example": "We have a big family gathering every summer."
+      "example": "We have a big family gathering every summer.",
+      "keyword": "газета",
+      "mnemonic": "Родня с газетой на gathering: a family gathering — семейная встреча."
     },
     {
       "idiom": "raise a family",
       "translation": "растить семью",
-      "example": "They want to raise a family in the country."
+      "example": "They want to raise a family in the country.",
+      "keyword": "рейс",
+      "mnemonic": "Семья летит рейсом в деревню: raise a family — растить семью."
     },
     {
       "idiom": "the eldest child",
       "translation": "старший ребёнок",
-      "example": "He is the eldest child of three."
+      "example": "He is the eldest child of three.",
+      "keyword": "эльф",
+      "mnemonic": "Эльф старший из троих: the eldest child — старший ребёнок."
     },
     {
       "idiom": "stay in touch with relatives",
       "translation": "поддерживать связь с родственниками",
-      "example": "We stay in touch with our relatives in Poland."
+      "example": "We stay in touch with our relatives in Poland.",
+      "keyword": "тачка",
+      "mnemonic": "Родня на тачке stay in touch — поддерживает связь."
     }
   ]
 }

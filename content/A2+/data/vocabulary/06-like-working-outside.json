@@ -2,15 +2,15 @@
   "lessonId": "like-working-outside",
   "title": "Like working outside — новые слова",
   "items": [
-    { "term": "fashion", "translation": "мода", "example": "She works in the fashion industry as a designer." },
-    { "term": "entertainment", "translation": "развлечения, индустрия развлечений", "example": "The entertainment industry includes film, TV and music." },
-    { "term": "retail", "translation": "розничная торговля", "example": "He works in retail, managing a clothing store." },
-    { "term": "construction", "translation": "строительство", "example": "Many people work in construction, building new houses and offices." },
-    { "term": "healthcare", "translation": "здравоохранение", "example": "My sister works in healthcare as a nurse." },
-    { "term": "hospitality", "translation": "гостеприимство, сфера услуг", "example": "Hotels and restaurants are part of the hospitality industry." },
-    { "term": "education", "translation": "образование", "example": "She chose a career in education and became a teacher." },
-    { "term": "manufacturing", "translation": "производство", "example": "The manufacturing sector produces cars, electronics and clothes." },
-    { "term": "freelance", "translation": "фриланс, внештатная работа", "example": "I work freelance from home as a graphic designer." },
-    { "term": "shift", "translation": "смена (рабочая)", "example": "Nurses often work long shifts, including night shifts." }
+    { "term": "fashion", "translation": "мода", "example": "She works in the fashion industry as a designer.", "keyword": "фэшн", "mnemonic": "Фэшн-манекенщица шагает по подиуму — she works in fashion, в моде." },
+    { "term": "entertainment", "translation": "развлечения, индустрия развлечений", "example": "The entertainment industry includes film, TV and music.", "keyword": "интернат", "mnemonic": "Весь интернат приехал на экскурсию — entertainment, развлечения: кино, ТВ и музыка." },
+    { "term": "retail", "translation": "розничная торговля", "example": "He works in retail, managing a clothing store.", "keyword": "ритейл", "mnemonic": "Ритейл-магазин гудит от покупателей — he works in retail, в розничной торговле." },
+    { "term": "construction", "translation": "строительство", "example": "Many people work in construction, building new houses and offices.", "keyword": "конструктор", "mnemonic": "Рабочие собирают дом как конструктор — construction, строительство." },
+    { "term": "healthcare", "translation": "здравоохранение", "example": "My sister works in healthcare as a nurse.", "keyword": "ха, лечит", "mnemonic": "Ха, лечит всех подряд — my sister works in healthcare, в здравоохранении, медсестрой." },
+    { "term": "hospitality", "translation": "гостеприимство, сфера услуг", "example": "Hotels and restaurants are part of the hospitality industry.", "keyword": "госпиталь", "mnemonic": "Отели встречают теплее, чем госпиталь, — hospitality, гостеприимство." },
+    { "term": "education", "translation": "образование", "example": "She chose a career in education and became a teacher.", "keyword": "Эдик", "mnemonic": "Эдик выбрал education — образование, и стал учителем." },
+    { "term": "manufacturing", "translation": "производство", "example": "The manufacturing sector produces cars, electronics and clothes.", "keyword": "мануфактура", "mnemonic": "Старая мануфактура дымит день и ночь — manufacturing, производство машин и одежды." },
+    { "term": "freelance", "translation": "фриланс, внештатная работа", "example": "I work freelance from home as a graphic designer.", "keyword": "фриланс", "mnemonic": "Фрилансер в пижаме рисует дома — I work freelance, на фрилансе." },
+    { "term": "shift", "translation": "смена (рабочая)", "example": "Nurses often work long shifts, including night shifts.", "keyword": "шифт", "mnemonic": "Ночной шифт тянется бесконечно — nurses work long shifts, длинные смены." }
   ]
 }

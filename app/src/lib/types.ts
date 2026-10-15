@@ -28,6 +28,10 @@ export interface LexiconItem {
   idiom?: string;
   translation: string;
   example: string;
+  /** Russian sound-alike for the keyword method (optional, paired with mnemonic). */
+  keyword?: string;
+  /** Vivid scene linking keyword to translation (optional, paired with keyword). */
+  mnemonic?: string;
 }
 
 export interface Lexicon {

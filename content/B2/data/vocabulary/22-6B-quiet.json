@@ -5,17 +5,23 @@
     {
       "term": "introvert",
       "translation": "интроверт",
-      "example": "As an introvert, she needs quiet time."
+      "example": "As an introvert, she needs quiet time.",
+      "keyword": "интро",
+      "mnemonic": "Интроверту нужно тихое время — начни с интро тишины: needs quiet time."
     },
     {
       "term": "extrovert",
       "translation": "экстраверт",
-      "example": "Extroverts gain energy from socialising."
+      "example": "Extroverts gain energy from socialising.",
+      "keyword": "экстра",
+      "mnemonic": "Экстраверты черпают энергию из общения — им всего надо экстра: gain energy from socialising."
     },
     {
       "term": "recharge",
       "translation": "восстанавливать силы",
-      "example": "I need alone time to recharge."
+      "example": "I need alone time to recharge.",
+      "keyword": "Ричард",
+      "mnemonic": "Нужно побыть одному, чтобы восстановить силы, — Ричард в домике: alone time to recharge."
     },
     {
       "term": "overstimulated",
@@ -25,37 +31,51 @@
     {
       "term": "solitude",
       "translation": "уединение",
-      "example": "She enjoys moments of solitude."
+      "example": "She enjoys moments of solitude.",
+      "keyword": "солист",
+      "mnemonic": "Наслаждается моментами уединения — солист тишины: moments of solitude."
     },
     {
       "term": "admit",
       "translation": "признавать",
-      "example": "He admitted that it was not true."
+      "example": "He admitted that it was not true.",
+      "keyword": "админ",
+      "mnemonic": "Он признал, что это неправда, — админ всё видел: admitted it was not true, признавать."
     },
     {
       "term": "boast",
       "translation": "хвастаться",
-      "example": "He boasted about his achievements."
+      "example": "He boasted about his achievements.",
+      "keyword": "буст",
+      "mnemonic": "Хвастался достижениями — купил буст: boasted about achievements, хвастаться."
     },
     {
       "term": "claim",
       "translation": "утверждать",
-      "example": "She claimed to manage a famous restaurant."
+      "example": "She claimed to manage a famous restaurant.",
+      "keyword": "клеймо",
+      "mnemonic": "Утверждала, что рулит рестораном, — ставь клеймо: claimed to manage a restaurant."
     },
     {
       "term": "refuse",
       "translation": "отказываться",
-      "example": "They refused to take the idea seriously."
+      "example": "They refused to take the idea seriously.",
+      "keyword": "рефери",
+      "mnemonic": "Отказались воспринимать идею всерьёз — свистит рефери: refused to take seriously."
     },
     {
       "term": "threaten",
       "translation": "угрожать",
-      "example": "I threatened to stop coming to meetings."
+      "example": "I threatened to stop coming to meetings.",
+      "keyword": "тритон",
+      "mnemonic": "Пригрозил не ходить на встречи — надулся, как тритон: threatened to stop coming."
     },
     {
       "term": "emphasise",
       "translation": "подчёркивать",
-      "example": "She emphasised how much time we saved."
+      "example": "She emphasised how much time we saved.",
+      "keyword": "фаза",
+      "mnemonic": "Подчеркнула, сколько времени сэкономили, — перешли в фазу похвалы: emphasised."
     }
   ]
 }

@@ -5,57 +5,79 @@
     {
       "term": "delighted",
       "translation": "в восторге",
-      "example": "She was delighted with the news."
+      "example": "She was delighted with the news.",
+      "keyword": "лайт",
+      "mnemonic": "Услышала лайтовый бит и завизжала в восторге — она delighted."
     },
     {
       "term": "frustrated",
       "translation": "разочарованный, раздражённый",
-      "example": "He felt frustrated by the delay."
+      "example": "He felt frustrated by the delay.",
+      "keyword": "фрустрация",
+      "mnemonic": "Его фрустрация растёт с каждой минутой опоздания — он frustrated, разочарованный и раздражённый."
     },
     {
       "term": "anxious",
       "translation": "тревожный, беспокойный",
-      "example": "I'm anxious about the exam results."
+      "example": "I'm anxious about the exam results.",
+      "keyword": "анкета",
+      "mnemonic": "Трясётся над анкетой перед собеседованием — он anxious, тревожный."
     },
     {
       "term": "thrilled",
       "translation": "в восторге, взволнованный",
-      "example": "We were thrilled to hear you'd won."
+      "example": "We were thrilled to hear you'd won.",
+      "keyword": "триллер",
+      "mnemonic": "Вышел из кино после триллера в восторге и весь взволнованный — он thrilled."
     },
     {
       "term": "disappointed",
       "translation": "разочарованный",
-      "example": "They were disappointed with the service."
+      "example": "They were disappointed with the service.",
+      "keyword": "дизлайк",
+      "mnemonic": "Поставил дизлайк сервису — они disappointed, разочарованные."
     },
     {
       "term": "relieved",
       "translation": "с облегчением",
-      "example": "I was relieved when the test was over."
+      "example": "I was relieved when the test was over.",
+      "keyword": "рельеф",
+      "mnemonic": "Тест закончился — он вздохнул с облегчением и растёкся по креслу, как рельеф по карте: relieved."
     },
     {
       "term": "passionate about",
       "translation": "увлечённый",
-      "example": "She's passionate about travel."
+      "example": "She's passionate about travel.",
+      "keyword": "пассия",
+      "mnemonic": "У него новая пассия — путешествия: он passionate about travel, увлечённый."
     },
     {
       "term": "fond of",
       "translation": "любящий, неравнодушный",
-      "example": "He's fond of street markets."
+      "example": "He's fond of street markets.",
+      "keyword": "фонд",
+      "mnemonic": "Открыл в сердце целый фонд уличных рынков — он fond of street markets."
     },
     {
       "term": "nervous about",
       "translation": "нервничающий из-за",
-      "example": "I feel nervous about getting lost."
+      "example": "I feel nervous about getting lost.",
+      "keyword": "не рвись",
+      "mnemonic": "Шепчет себе «не рвись» перед поворотом и всё равно нервничает — nervous about getting lost."
     },
     {
       "term": "terrified of",
       "translation": "в ужасе от",
-      "example": "I'm terrified of flying."
+      "example": "I'm terrified of flying.",
+      "keyword": "террор",
+      "mnemonic": "Для него самолёт — чистый террор: он terrified of flying, в ужасе от полётов."
     },
     {
       "term": "fed up of",
       "translation": "сытый по горло",
-      "example": "They were fed up of the city centre."
+      "example": "They were fed up of the city centre.",
+      "keyword": "Федя",
+      "mnemonic": "Федя сыт центром по горло и ворчит на каждом углу — they are fed up of the city centre."
     }
   ]
 }

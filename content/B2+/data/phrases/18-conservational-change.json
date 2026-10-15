@@ -5,92 +5,128 @@
     {
       "phrase": "capacity to adapt to change",
       "translation": "способность приспосабливаться",
-      "example": "Animals in the wild have a huge capacity to adapt to change."
+      "example": "Animals in the wild have a huge capacity to adapt to change.",
+      "keyword": "капот",
+      "mnemonic": "Под капотом у зверя скрыта способность приспосабливаться к любым дорогам — капот хранит capacity to adapt to change."
     },
     {
       "phrase": "decline of a species",
       "translation": "сокращение численности вида",
-      "example": "Both natural and man-made factors can lead to the decline of a species."
+      "example": "Both natural and man-made factors can lead to the decline of a species.",
+      "keyword": "клин",
+      "mnemonic": "Клин вбили между животными, и началось сокращение численности вида — клин вколачивает decline of a species."
     },
     {
       "phrase": "destruction of habitat",
       "translation": "разрушение среды обитания",
-      "example": "Destruction of habitat is the main cause of extinction here."
+      "example": "Destruction of habitat is the main cause of extinction here.",
+      "keyword": "деструктор",
+      "mnemonic": "Деструктор проехал по лесу — вот тебе и разрушение среды обитания, а деструктор грохочет destruction of habitat."
     },
     {
       "phrase": "loss of habitat",
       "translation": "потеря среды обитания",
-      "example": "Loss of habitat can occur due to natural disasters or human activities."
+      "example": "Loss of habitat can occur due to natural disasters or human activities.",
+      "keyword": "лось",
+      "mnemonic": "Лось бродит без дома — случилась потеря среды обитания, а лось трубит loss of habitat."
     },
     {
       "phrase": "due to natural disasters",
       "translation": "из-за стихийных бедствий",
-      "example": "Loss of habitat can occur due to natural disasters or climate change."
+      "example": "Loss of habitat can occur due to natural disasters or climate change.",
+      "keyword": "дизель",
+      "mnemonic": "Дизель заглох из-за стихийных бедствий — наводнение залило бак, а дизель чихает due to natural disasters."
     },
     {
       "phrase": "in danger of being lost",
       "translation": "под угрозой исчезновения",
-      "example": "A whole ecosystem such as a rainforest may be in danger of being lost."
+      "example": "A whole ecosystem such as a rainforest may be in danger of being lost.",
+      "keyword": "Даня",
+      "mnemonic": "Даня заблудился в джунглях и оказался под угрозой исчезновения — Даня кричит in danger of being lost."
     },
     {
       "phrase": "interfere with reproduction",
       "translation": "мешать размножению",
-      "example": "Chemicals can interfere with reproduction, leading to a decline in numbers."
+      "example": "Chemicals can interfere with reproduction, leading to a decline in numbers.",
+      "keyword": "интервал",
+      "mnemonic": "Химикаты вставили интервал между сезонами и стали мешать размножению лягушек — интервал вклинился в interfere with reproduction."
     },
     {
       "phrase": "build-up of chemicals",
       "translation": "накопление химикатов",
-      "example": "The build-up of chemicals in the environment is dangerous even to large predators."
+      "example": "The build-up of chemicals in the environment is dangerous even to large predators.",
+      "keyword": "билдер",
+      "mnemonic": "Билдер сложил стену из бочек — вышло накопление химикатов на стройке, а билдер складирует build-up of chemicals."
     },
     {
       "phrase": "feed on smaller animals",
       "translation": "питаться мелкими животными",
-      "example": "Large predators feed on smaller animals which have accumulated chemicals."
+      "example": "Large predators feed on smaller animals which have accumulated chemicals.",
+      "keyword": "финик",
+      "mnemonic": "Хищник презрел финик и стал питаться мелкими животными — финик обиженно смотрит на feed on smaller animals."
     },
     {
       "phrase": "hunted for sport",
       "translation": "объект охоты ради спорта",
-      "example": "Some animals are seen as game and hunted for sport."
+      "example": "Some animals are seen as game and hunted for sport.",
+      "keyword": "хантер",
+      "mnemonic": "Хантер с кубком гонится за зверем: тот стал объектом охоты ради спорта — хантер трубит hunted for sport."
     },
     {
       "phrase": "stray onto farmland",
       "translation": "забредать на поля",
-      "example": "Grazing animals may stray onto agricultural land in search of food."
+      "example": "Grazing animals may stray onto agricultural land in search of food.",
+      "keyword": "строй",
+      "mnemonic": "Овцы сломали строй и пошли забредать на поля строем врассыпную — строй развалил stray onto farmland."
     },
     {
       "phrase": "in search of food",
       "translation": "в поисках пищи",
-      "example": "The bears stray into villages in search of food."
+      "example": "The bears stray into villages in search of food.",
+      "keyword": "серфер",
+      "mnemonic": "Голодный серфер без волны бродит в поисках пищи по деревне — серфер ловит in search of food."
     },
     {
       "phrase": "killed for their tusks",
       "translation": "убиты ради бивней",
-      "example": "Large numbers of elephants are killed by poachers each year for their tusks."
+      "example": "Large numbers of elephants are killed by poachers each year for their tusks.",
+      "keyword": "таск",
+      "mnemonic": "Браконьер поставил таск в список: слоны убиты ради бивней — жуткий таск и есть killed for their tusks."
     },
     {
       "phrase": "negative effect on wildlife",
       "translation": "вред дикой природе",
-      "example": "If tourism is not regulated, it can have a negative effect on wildlife."
+      "example": "If tourism is not regulated, it can have a negative effect on wildlife.",
+      "keyword": "негатив",
+      "mnemonic": "Турист сливает негатив в реку — вот и вред дикой природе, а негатив булькает negative effect on wildlife."
     },
     {
       "phrase": "properly regulated",
       "translation": "должным образом регулируемый",
-      "example": "Tourism must be properly regulated to avoid too much disturbance."
+      "example": "Tourism must be properly regulated to avoid too much disturbance.",
+      "keyword": "регулятор",
+      "mnemonic": "На реке поставили регулятор потока: туризм стал должным образом регулируемый — регулятор крутит properly regulated."
     },
     {
       "phrase": "during the breeding season",
       "translation": "в сезон размножения",
-      "example": "Responsible tourism prevents disturbance during the breeding season."
+      "example": "Responsible tourism prevents disturbance during the breeding season.",
+      "keyword": "бридер",
+      "mnemonic": "Бридер закрыл питомник в сезон размножения для тишины — бридер шепчет during the breeding season."
     },
     {
       "phrase": "embark on migration",
       "translation": "отправляться в миграцию",
-      "example": "Elephants embark on an annual migration to find water."
+      "example": "Elephants embark on an annual migration to find water.",
+      "keyword": "эмбарго",
+      "mnemonic": "На засуху наложили эмбарго, и слоны решили отправляться в миграцию за водой — эмбарго гонит embark on migration."
     },
     {
       "phrase": "in the wild",
       "translation": "в дикой природе",
-      "example": "It is hard for some animals to reproduce in the wild now."
+      "example": "It is hard for some animals to reproduce in the wild now.",
+      "keyword": "вилы",
+      "mnemonic": "Енот схватил вилы и защищает свой дом в дикой природе — вилы торчат над in the wild."
     }
   ]
 }

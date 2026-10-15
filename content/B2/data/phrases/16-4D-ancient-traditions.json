@@ -5,42 +5,58 @@
     {
       "phrase": "pass down",
       "translation": "передавать из поколения в поколение",
-      "example": "Recipes are passed down through families."
+      "example": "Recipes are passed down through families.",
+      "keyword": "пас",
+      "mnemonic": "Рецепты передают из поколения в поколение — пас по наследству: passed down through families."
     },
     {
       "phrase": "die out",
       "translation": "вымереть, исчезнуть",
-      "example": "Many languages are dying out."
+      "example": "Many languages are dying out.",
+      "keyword": "дайвинг",
+      "mnemonic": "Языки вымирают — уходят в дайвинг: many languages are dying out."
     },
     {
       "phrase": "stand the test of time",
       "translation": "выдержать испытание временем",
-      "example": "This building has stood the test of time."
+      "example": "This building has stood the test of time.",
+      "keyword": "тесто",
+      "mnemonic": "Здание выдержало испытание временем — замешано на тесте: stood the test of time."
     },
     {
       "phrase": "just in time for (sth)",
       "translation": "как раз к (чему-то)",
-      "example": "They travelled across China just in time for the bloom."
+      "example": "They travelled across China just in time for the bloom.",
+      "keyword": "темень",
+      "mnemonic": "Проехали Китай как раз к цветению — успели до темени: just in time for the bloom."
     },
     {
       "phrase": "time is running out",
       "translation": "время на исходе",
-      "example": "These bees are not going anywhere and time is running out."
+      "example": "These bees are not going anywhere and time is running out.",
+      "keyword": "раунд",
+      "mnemonic": "Пчёлы никуда не денутся, а время на исходе — последний раунд: time is running out."
     },
     {
       "phrase": "under threat",
       "translation": "под угрозой",
-      "example": "Their future is under threat from pesticides."
+      "example": "Their future is under threat from pesticides.",
+      "keyword": "тред",
+      "mnemonic": "Их будущее под угрозой пестицидов — обсуждают в треде: under threat."
     },
     {
       "phrase": "a window of opportunity",
       "translation": "окно возможностей",
-      "example": "His window of opportunity is very short."
+      "example": "His window of opportunity is very short.",
+      "keyword": "винда",
+      "mnemonic": "Его окно возможностей коротко — винда зависла: window of opportunity is short."
     },
     {
       "phrase": "it is time to move on",
       "translation": "пора двигаться дальше",
-      "example": "The fields will be sprayed soon, so it is time to move on."
+      "example": "The fields will be sprayed soon, so it is time to move on.",
+      "keyword": "мув",
+      "mnemonic": "Поля скоро опрыскают — пора двигаться дальше, делаем мув: time to move on."
     }
   ]
 }

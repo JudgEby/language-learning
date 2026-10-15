@@ -121,11 +121,19 @@ npm run dev
 создаётся автоматически, в `.gitignore` и ручным редактированием не трогается —
 изменения будут перезаписаны.
 
-Проверка типов (оба tsconfig-проекта: `src` и `vite.config.ts`):
+Проверка типов (проект `src` плюс `tsconfig.node.json`: `vite.config.ts`,
+`playwright.config.ts`, `e2e/`):
 
 ```bash
 cd app
 npm run typecheck
+```
+
+Сквозные тесты в реальном браузере (Chromium, dev-сервер поднимается сам):
+
+```bash
+cd app
+npm run e2e
 ```
 
 Сборка production-версии:
@@ -137,7 +145,7 @@ npm run build
 
 ## Команды генерации
 
-Workflows генерации живут в `.opencode/command/` — вызывайте их как slash-команды, подставляя id курса вместо `{LEVEL}`. Правила пишет скилл `generate-lesson-content`, тесты — скилл `generate-tests`. Агент следует схемам и workflows из [`AGENTS.md`](AGENTS.md).
+Workflows генерации живут в `.opencode/command/` — вызывайте их как slash-команды, подставляя id курса вместо `{LEVEL}`. Правила пишет скилл `generate-lesson-content`, тесты — скилл `generate-tests`, фонетические ассоциации для карточек — скилл `generate-mnemonics`. Агент следует схемам и workflows из [`AGENTS.md`](AGENTS.md).
 
 | Команда | Что делает |
 |---|---|

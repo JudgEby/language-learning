@@ -2,15 +2,75 @@
   "lessonId": "me-and-my-language",
   "title": "Me and my language — новые слова",
   "items": [
-    { "term": "mother tongue", "translation": "родной язык", "example": "My mother tongue is Russian, but I speak English fluently." },
-    { "term": "fluency", "translation": "беглость (речи)", "example": "She speaks Spanish with great fluency." },
-    { "term": "accuracy", "translation": "точность, правильность", "example": "His grammar is good, but he needs to work on accuracy." },
-    { "term": "slang", "translation": "сленг", "example": "Teenagers often use slang that older people don't understand." },
-    { "term": "jargon", "translation": "жаргон, профессиональная лексика", "example": "Computer programmers use a lot of technical jargon." },
-    { "term": "bilingual", "translation": "двуязычный", "example": "Being bilingual has many cognitive advantages." },
-    { "term": "native speaker", "translation": "носитель языка", "example": "I practice with native speakers to improve my pronunciation." },
-    { "term": "learning strategies", "translation": "стратегии обучения", "example": "Good learning strategies can help you acquire a language faster." },
-    { "term": "skill", "translation": "навык", "example": "Listening is the hardest skill for me in English." },
-    { "term": "foreign", "translation": "иностранный", "example": "Living in a foreign country is a great way to learn the language." }
+    {
+      "term": "mother tongue",
+      "translation": "родной язык",
+      "example": "My mother tongue is Russian, but I speak English fluently.",
+      "keyword": "мать тянет",
+      "mnemonic": "Мать тянет сына за рукав и говорит только на mother tongue — на родном языке."
+    },
+    {
+      "term": "fluency",
+      "translation": "беглость (речи)",
+      "example": "She speaks Spanish with great fluency.",
+      "keyword": "флюгер",
+      "mnemonic": "Флюгер вертится с невероятной беглостью — вот что такое fluency, беглость речи."
+    },
+    {
+      "term": "accuracy",
+      "translation": "точность, правильность",
+      "example": "His grammar is good, but he needs to work on accuracy.",
+      "keyword": "аккурат",
+      "mnemonic": "Бурчит перфекционист «аккурат, аккурат» и доводит всё до accuracy — до точности и правильности."
+    },
+    {
+      "term": "slang",
+      "translation": "сленг",
+      "example": "Teenagers often use slang that older people don't understand.",
+      "keyword": "слон",
+      "mnemonic": "Слон в кепке сыплет slang — сленгом, и вся саванна в шоке."
+    },
+    {
+      "term": "jargon",
+      "translation": "жаргон, профессиональная лексика",
+      "example": "Computer programmers use a lot of technical jargon.",
+      "keyword": "жар",
+      "mnemonic": "В кузнице стоит жар, а мастера сыплют jargon — жаргоном и профессиональной лексикой."
+    },
+    {
+      "term": "bilingual",
+      "translation": "двуязычный",
+      "example": "Being bilingual has many cognitive advantages.",
+      "keyword": "байки лингвиста",
+      "mnemonic": "Байки лингвиста звучат сразу на двух языках — он настоящий bilingual, двуязычный рассказчик."
+    },
+    {
+      "term": "native speaker",
+      "translation": "носитель языка",
+      "example": "I practice with native speakers to improve my pronunciation.",
+      "keyword": "спикер",
+      "mnemonic": "На сцене спикер тараторит как native speaker — как настоящий носитель языка."
+    },
+    {
+      "term": "learning strategies",
+      "translation": "стратегии обучения",
+      "example": "Good learning strategies can help you acquire a language faster.",
+      "keyword": "хитрый стратег",
+      "mnemonic": "Хитрый стратег придумал learning strategies — стратегии обучения, как выучить язык за неделю."
+    },
+    {
+      "term": "skill",
+      "translation": "навык",
+      "example": "Listening is the hardest skill for me in English.",
+      "keyword": "скилл",
+      "mnemonic": "Геймер хвастается: мой скилл — это и есть skill, настоящий навык аудирования."
+    },
+    {
+      "term": "foreign",
+      "translation": "иностранный",
+      "example": "Living in a foreign country is a great way to learn the language.",
+      "keyword": "фараон",
+      "mnemonic": "Фараон в сарафане приехал из foreign края — из иностранной страны учить язык."
+    }
   ]
 }

@@ -5,42 +5,58 @@
     {
       "phrase": "come alive",
       "translation": "оживать, расцветать",
-      "example": "She really comes alive on stage."
+      "example": "She really comes alive on stage.",
+      "keyword": "оливье",
+      "mnemonic": "На сцене она расцветает — как оливье на Новый год: comes alive on stage."
     },
     {
       "phrase": "nail a performance",
       "translation": "блестяще выступить",
-      "example": "He nailed the performance."
+      "example": "He nailed the performance.",
+      "keyword": "налим",
+      "mnemonic": "Он блестяще выступил — скользкий, как налим: nailed the performance."
     },
     {
       "phrase": "mess up",
       "translation": "облажаться",
-      "example": "Don't worry if you mess up — keep going."
+      "example": "Don't worry if you mess up — keep going.",
+      "keyword": "месть",
+      "mnemonic": "Не бойся облажаться — месть перфекционизму: mess up, keep going."
     },
     {
       "phrase": "live up to (expectations)",
       "translation": "оправдывать (ожидания)",
-      "example": "The show did not quite live up to my expectations."
+      "example": "The show did not quite live up to my expectations.",
+      "keyword": "ливень",
+      "mnemonic": "Шоу не оправдало ожиданий — полило ливнем: did not live up to expectations."
     },
     {
       "phrase": "come up with (an idea)",
       "translation": "придумывать (идею)",
-      "example": "I came up with loads of jokes before the performance."
+      "example": "I came up with loads of jokes before the performance.",
+      "keyword": "компот",
+      "mnemonic": "Напридумывал шуток — хлебнул компота: came up with loads of jokes, придумывать."
     },
     {
       "phrase": "put up with (sth)",
       "translation": "мириться с (чем-то)",
-      "example": "Sorry you had to put up with a heckler during the act."
+      "example": "Sorry you had to put up with a heckler during the act.",
+      "keyword": "паб",
+      "mnemonic": "Пришлось мириться с хеклером в пабе: put up with a heckler, мириться."
     },
     {
       "phrase": "carry on (doing sth)",
       "translation": "продолжать (делать что-то)",
-      "example": "Just ignore them and carry on with your speech."
+      "example": "Just ignore them and carry on with your speech.",
+      "keyword": "карри",
+      "mnemonic": "Просто игнорируй и продолжай — жуй карри: carry on with your speech."
     },
     {
       "phrase": "fall back on (sth)",
       "translation": "опереться на (что-то), воспользоваться запасным вариантом",
-      "example": "With experience to fall back on, you cope better when things go wrong."
+      "example": "With experience to fall back on, you cope better when things go wrong.",
+      "keyword": "бак",
+      "mnemonic": "С опытом за спиной справляешься — запасной бак: experience to fall back on."
     }
   ]
 }

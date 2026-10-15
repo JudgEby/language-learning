@@ -2,19 +2,103 @@
   "lessonId": "hello-ive-got-a-problem",
   "title": "Hello, I've got a problem — фразы",
   "items": [
-    { "phrase": "This is ... (speaking)", "translation": "Это ... (говорю)", "example": "Hello, this is Alan Simpson speaking." },
-    { "phrase": "Is ... there? / Is ... in?", "translation": "... на месте? / ... дома?", "example": "Is Kevin there? — No, he's not in the office." },
-    { "phrase": "Sorry, I've got a problem.", "translation": "Извините, у меня проблема.", "example": "Sorry, I've got a problem with my order." },
-    { "phrase": "Could I speak to ... , please?", "translation": "Могу ли я поговорить с ... ?", "example": "Could I speak to customer services, please?" },
-    { "phrase": "Could I leave a message for him?", "translation": "Могу ли я оставить для него сообщение?", "example": "Could I leave a message for him? — Yes, of course." },
-    { "phrase": "Could you ring me back?", "translation": "Не перезвоните мне?", "example": "He's not in. Could you ring me back?" },
-    { "phrase": "What number are you on?", "translation": "На каком вы номере?", "example": "What number are you on? — 34 for Spain, then 308 5238." },
-    { "phrase": "Let me check that.", "translation": "Дайте проверю.", "example": "Let me check that. 34, 91, 308 5238." },
-    { "phrase": "Just a moment. / Hold on, please.", "translation": "Минуточку. / Подождите, пожалуйста.", "example": "Just a moment, please. — Customer services." },
-    { "phrase": "He's not here / He's not in.", "translation": "Его нет на месте / его нет дома.", "example": "Is Mark there? — No, he's not in." },
-    { "phrase": "Hang up and I'll call you back.", "translation": "Положите трубку, и я перезвоню.", "example": "Fine. Hang up and I'll call you back straightaway." },
-    { "phrase": "You've got the wrong number.", "translation": "Вы не туда звоните.", "example": "Is that 34 91 308? — Sorry, you've got the wrong number." },
-    { "phrase": "What's up?", "translation": "Что случилось? / В чём дело?", "example": "Hi, Debbie. What's up? — I've got a problem." },
-    { "phrase": "Don't worry — I'll sort it out.", "translation": "Не волнуйтесь, я разберусь.", "example": "You've got a problem? Don't worry, I'll sort it out." }
+    {
+      "phrase": "This is ... (speaking)",
+      "translation": "Это ... (говорю)",
+      "example": "Hello, this is Alan Simpson speaking.",
+      "keyword": "спичка",
+      "mnemonic": "Абонент со спичкой представляется — This is Alan speaking, это Алан."
+    },
+    {
+      "phrase": "Is ... there? / Is ... in?",
+      "translation": "... на месте? / ... дома?",
+      "example": "Is Kevin there? — No, he's not in the office.",
+      "keyword": "зефир",
+      "mnemonic": "Секретарь с зефиром спрашивает — Is Kevin there, Кевин на месте."
+    },
+    {
+      "phrase": "Sorry, I've got a problem.",
+      "translation": "Извините, у меня проблема.",
+      "example": "Sorry, I've got a problem with my order.",
+      "keyword": "пробка",
+      "mnemonic": "Водитель в пробке извиняется — Sorry, I've got a problem, у меня проблема."
+    },
+    {
+      "phrase": "Could I speak to ... , please?",
+      "translation": "Могу ли я поговорить с ... ?",
+      "example": "Could I speak to customer services, please?",
+      "keyword": "спикер",
+      "mnemonic": "Спикер просит — Could I speak to services, могу поговорить."
+    },
+    {
+      "phrase": "Could I leave a message for him?",
+      "translation": "Могу ли я оставить для него сообщение?",
+      "example": "Could I leave a message for him? — Yes, of course.",
+      "keyword": "ливень",
+      "mnemonic": "Абонент в ливень просит — Could I leave a message, могу оставить сообщение."
+    },
+    {
+      "phrase": "Could you ring me back?",
+      "translation": "Не перезвоните мне?",
+      "example": "He's not in. Could you ring me back?",
+      "keyword": "бумеранг",
+      "mnemonic": "Звонок вернулся как бумеранг — Could you ring me back, перезвоните."
+    },
+    {
+      "phrase": "What number are you on?",
+      "translation": "На каком вы номере?",
+      "example": "What number are you on? — 34 for Spain, then 308 5238.",
+      "keyword": "амбар",
+      "mnemonic": "Оператор в амбаре спрашивает — What number are you on, на каком номере."
+    },
+    {
+      "phrase": "Let me check that.",
+      "translation": "Дайте проверю.",
+      "example": "Let me check that. 34, 91, 308 5238.",
+      "keyword": "чек",
+      "mnemonic": "Оператор с чеком проверяет — Let me check that, дайте проверю."
+    },
+    {
+      "phrase": "Just a moment. / Hold on, please.",
+      "translation": "Минуточку. / Подождите, пожалуйста.",
+      "example": "Just a moment, please. — Customer services.",
+      "keyword": "момент",
+      "mnemonic": "Оператор тянет момент — Just a moment, минуточку."
+    },
+    {
+      "phrase": "He's not here / He's not in.",
+      "translation": "Его нет на месте / его нет дома.",
+      "example": "Is Mark there? — No, he's not in.",
+      "keyword": "хижина",
+      "mnemonic": "Секретарь из хижины отвечает — He's not here, его нет."
+    },
+    {
+      "phrase": "Hang up and I'll call you back.",
+      "translation": "Положите трубку, и я перезвоню.",
+      "example": "Fine. Hang up and I'll call you back straightaway.",
+      "keyword": "ангар",
+      "mnemonic": "Механик в ангаре кладёт трубку — Hang up and I'll call back, перезвоню."
+    },
+    {
+      "phrase": "You've got the wrong number.",
+      "translation": "Вы не туда звоните.",
+      "example": "Is that 34 91 308? — Sorry, you've got the wrong number.",
+      "keyword": "ворон",
+      "mnemonic": "Ворон набрал не тот номер — You've got the wrong number."
+    },
+    {
+      "phrase": "What's up?",
+      "translation": "Что случилось? / В чём дело?",
+      "example": "Hi, Debbie. What's up? — I've got a problem.",
+      "keyword": "апчхи",
+      "mnemonic": "Подруга чихнула апчхи — What's up, что случилось."
+    },
+    {
+      "phrase": "Don't worry — I'll sort it out.",
+      "translation": "Не волнуйтесь, я разберусь.",
+      "example": "You've got a problem? Don't worry, I'll sort it out.",
+      "keyword": "сортировка",
+      "mnemonic": "Оператор с сортировкой успокаивает — I'll sort it out, я разберусь."
+    }
   ]
 }

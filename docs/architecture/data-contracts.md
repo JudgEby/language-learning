@@ -1,6 +1,6 @@
 # Data Contracts
 
-Covers: `content/{LEVEL}/`, `content/index.json`, `app/src/lib/types.ts`, `scripts/validate_level.py`, `scripts/fix_test_ids.py`, `app/src/store/progressStore.ts`, `app/index.html`
+Covers: `content/{LEVEL}/`, `content/index.json`, `app/src/lib/types.ts`, `app/src/lib/srs.ts`, `app/src/lib/flashcards.ts`, `scripts/validate_level.py`, `scripts/fix_test_ids.py`, `app/src/store/progressStore.ts`, `app/src/store/flashcardsStore.ts`, `app/index.html`
 Read when: adding or changing JSON data or schema fields, debugging contract mismatches between content and app.
 
 Every contract below is implemented twice: as JSON on disk under `content/`, and as a
@@ -131,6 +131,17 @@ One shared shape for all three categories:
 | `phrases` | `phrase` | `Lexicon` / `LexiconItem` |
 | `idioms` | `idiom` | `Lexicon` / `LexiconItem` |
 
+Optional keyword-method association (see the `generate-mnemonics` skill):
+
+| Field | Notes |
+|---|---|
+| `keyword` | Russian sound-alike of the foreign text |
+| `mnemonic` | 1-2 sentence scene linking `keyword` to the translation |
+
+The two come as a pair: `validate_level.py` rejects a lone `keyword` or
+`mnemonic`. Absent fields mean "no association yet" — the flashcard UI hides
+the mnemonic block rather than failing.
+
 - `lessonId` is **required** here (rules use `id` instead) and must match an existing rule id.
 - `translation` is required on every item; `example` is required for
   `generate_vocab_questions.py` to include the item at all.
@@ -215,6 +226,7 @@ containing **only** page markers means the source PDF had no text layer and
 |---|---|
 | `language-learning-progress` | `{ state: { levels: { [level]: { completedStudy: string[], completedTests: string[] } } }, version: 1 }` |
 | `language-learning-theme` | `{ state: { theme: "light" \| "dark" }, version: 0 }` |
+| `language-learning-flashcards` | `{ state: { initialized: boolean, settings: FlashcardsSettings, progress: Record<cardId, CardProgress> }, version: 0 }` |
 
 - `completedStudy` entries are `studyKey` strings (`` rule:lesson-slug ``).
 - `completedTests` entries are `TestQuestion.id` values.

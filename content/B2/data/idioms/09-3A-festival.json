@@ -5,12 +5,16 @@
     {
       "idiom": "steal the show",
       "translation": "затмить всех",
-      "example": "The young dancer stole the show."
+      "example": "The young dancer stole the show.",
+      "keyword": "стиль",
+      "mnemonic": "Юная танцовщица затмила всех — стиль решает: stole the show."
     },
     {
       "idiom": "the show must go on",
       "translation": "шоу должно продолжаться",
-      "example": "Despite the rain, the show must go on."
+      "example": "Despite the rain, the show must go on.",
+      "keyword": "шоумен",
+      "mnemonic": "Несмотря на дождь, шоу продолжается — ведёт шоумен: show must go on."
     }
   ]
 }

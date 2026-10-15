@@ -2,15 +2,15 @@
   "lessonId": "hidden-talent",
   "title": "Hidden talent — новые слова",
   "items": [
-    { "term": "make a speech", "translation": "произносить речь", "example": "I had to make a speech at my friend's wedding." },
-    { "term": "make a mistake", "translation": "совершить ошибку", "example": "Don't worry, everyone makes mistakes sometimes." },
-    { "term": "make a decision", "translation": "принять решение", "example": "I need to make a decision about which course to take." },
-    { "term": "make a noise", "translation": "шуметь", "example": "Please don't make a noise — the baby is sleeping." },
-    { "term": "make an effort", "translation": "приложить усилие", "example": "You should make an effort to arrive on time." },
-    { "term": "do business", "translation": "вести дела", "example": "Our company does business with clients in Europe." },
-    { "term": "do homework", "translation": "делать домашнее задание", "example": "I usually do my homework in the evening." },
-    { "term": "do housework", "translation": "делать работу по дому", "example": "My brother and I share the housework equally." },
-    { "term": "do a course", "translation": "проходить курс", "example": "I'm doing a course in graphic design this year." },
-    { "term": "do someone a favour", "translation": "оказать услугу", "example": "Could you do me a favour and open the window?" }
+    { "term": "make a speech", "translation": "произносить речь", "example": "I had to make a speech at my friend's wedding.", "keyword": "спич", "mnemonic": "Закатил спич на свадьбе друга — make a speech, произносит речь." },
+    { "term": "make a mistake", "translation": "совершить ошибку", "example": "Don't worry, everyone makes mistakes sometimes.", "keyword": "стейк", "mnemonic": "Заказал стейк по ошибке — make a mistake, совершил ошибку." },
+    { "term": "make a decision", "translation": "принять решение", "example": "I need to make a decision about which course to take.", "keyword": "сижу", "mnemonic": "Сижу и не могу решиться — need to make a decision, принять решение." },
+    { "term": "make a noise", "translation": "шуметь", "example": "Please don't make a noise — the baby is sleeping.", "keyword": "нос", "mnemonic": "Малыш спит — не суй нос: don't make a noise, не шуми." },
+    { "term": "make an effort", "translation": "приложить усилие", "example": "You should make an effort to arrive on time.", "keyword": "форд", "mnemonic": "Жмёт на газ форда из последних сил — make an effort, прилагает усилие." },
+    { "term": "do business", "translation": "вести дела", "example": "Our company does business with clients in Europe.", "keyword": "бизнес", "mnemonic": "Бизнес с Европой кипит — our company does business, ведёт дела." },
+    { "term": "do homework", "translation": "делать домашнее задание", "example": "I usually do my homework in the evening.", "keyword": "хомяк", "mnemonic": "Хомяк грызёт тетрадку вечером — do homework, делает домашнее задание." },
+    { "term": "do housework", "translation": "делать работу по дому", "example": "My brother and I share the housework equally.", "keyword": "хаус", "mnemonic": "Хаус разваливается без уборки — share the housework, делим работу по дому." },
+    { "term": "do a course", "translation": "проходить курс", "example": "I'm doing a course in graphic design this year.", "keyword": "курс", "mnemonic": "Курс дизайна в разгаре — I'm doing a course, прохожу курс." },
+    { "term": "do someone a favour", "translation": "оказать услугу", "example": "Could you do me a favour and open the window?", "keyword": "фавор", "mnemonic": "Попал в фавор — открыл окно: do me a favour, окажи услугу." }
   ]
 }

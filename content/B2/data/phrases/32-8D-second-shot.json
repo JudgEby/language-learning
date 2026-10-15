@@ -5,42 +5,58 @@
     {
       "phrase": "get involved",
       "translation": "включиться, принять участие",
-      "example": "More people should get involved."
+      "example": "More people should get involved.",
+      "keyword": "вольный",
+      "mnemonic": "Больше людей должны включиться — выходи вольным: get involved."
     },
     {
       "phrase": "get back on your feet",
       "translation": "встать на ноги",
-      "example": "The charity helps people get back on their feet."
+      "example": "The charity helps people get back on their feet.",
+      "keyword": "фитнес",
+      "mnemonic": "Благотворительность помогает встать на ноги — иди на фитнес: get back on their feet."
     },
     {
       "phrase": "give back",
       "translation": "отдавать обществу",
-      "example": "Successful people often want to give back."
+      "example": "Successful people often want to give back.",
+      "keyword": "гифка",
+      "mnemonic": "Успешные хотят отдавать обществу — шлют гифки: want to give back."
     },
     {
       "phrase": "fall into homelessness",
       "translation": "оказаться бездомным",
-      "example": "It is easy to fall into homelessness after losing a job."
+      "example": "It is easy to fall into homelessness after losing a job.",
+      "keyword": "фол",
+      "mnemonic": "Легко оказаться бездомным после потери работы — упал в фол: fall into homelessness."
     },
     {
       "phrase": "get out of homelessness",
       "translation": "выбраться из бездомности",
-      "example": "The cafe helps people get out of homelessness."
+      "example": "The cafe helps people get out of homelessness.",
+      "keyword": "гетто",
+      "mnemonic": "Кафе помогает выбраться из бездомности — выводит из гетто: get out of homelessness."
     },
     {
       "phrase": "get your life back together",
       "translation": "наладить свою жизнь",
-      "example": "Training helped him get his life back together."
+      "example": "Training helped him get his life back together.",
+      "keyword": "тусовка",
+      "mnemonic": "Тренинг помог наладить жизнь — вернулся в тусовку: get his life back together."
     },
     {
       "phrase": "get your confidence back",
       "translation": "вернуть уверенность",
-      "example": "The programme helps trainees get their confidence back."
+      "example": "The programme helps trainees get their confidence back.",
+      "keyword": "конфиденциально",
+      "mnemonic": "Программа возвращает уверенность — строго конфиденциально: get their confidence back."
     },
     {
       "phrase": "run a project",
       "translation": "вести проект",
-      "example": "Volunteers run a project for homeless people."
+      "example": "Volunteers run a project for homeless people.",
+      "keyword": "проджект",
+      "mnemonic": "Волонтёры ведут проект — каждый проджект-менеджер: run a project."
     }
   ]
 }

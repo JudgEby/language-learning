@@ -5,87 +5,121 @@
     {
       "phrase": "see where you're coming from",
       "translation": "понимать твою позицию",
-      "example": "I can see where you're coming from, but it's impractical."
+      "example": "I can see where you're coming from, but it's impractical.",
+      "keyword": "камин",
+      "mnemonic": "Сидим у камина и я понимаю твою позицию, хоть она и непрактична, — камин трещит see where you're coming from."
     },
     {
       "phrase": "on a practical level",
       "translation": "с практической точки зрения",
-      "example": "On a practical level, we can't ask people to leave."
+      "example": "On a practical level, we can't ask people to leave.",
+      "keyword": "ливень",
+      "mnemonic": "С практической точки зрения ливень не даст нам выгнать людей на улицу, — ливень льёт on a practical level."
     },
     {
       "phrase": "see the logic in that",
       "translation": "видеть логику в этом",
-      "example": "I can see the logic in that, but we don't want to cut prices."
+      "example": "I can see the logic in that, but we don't want to cut prices.",
+      "keyword": "лоджия",
+      "mnemonic": "Стою на лоджии и вижу логику в этом, но цены резать не хочу, — лоджия скрипит see the logic in that."
     },
     {
       "phrase": "on the other hand",
       "translation": "с другой стороны",
-      "example": "On the other hand, some visitors need their dogs."
+      "example": "On the other hand, some visitors need their dogs.",
+      "keyword": "хандра",
+      "mnemonic": "С другой стороны напала хандра: некоторым посетителям нужны их собаки, — хандра ноет on the other hand."
     },
     {
       "phrase": "suggest a tough approach",
       "translation": "предлагать жёсткий подход",
-      "example": "I see why you're suggesting a tough approach."
+      "example": "I see why you're suggesting a tough approach.",
+      "keyword": "туфля",
+      "mnemonic": "Стучу туфлей и предлагаю жёсткий подход к нарушителям, — туфля стучит suggest a tough approach."
     },
     {
       "phrase": "more effective to",
       "translation": "эффективнее (сделать что-то)",
-      "example": "It might be more effective to offer a reward."
+      "example": "It might be more effective to offer a reward.",
+      "keyword": "мор",
+      "mnemonic": "Нагрянул мор — эффективнее предложить награду, чем наказание, — мор морозит more effective to."
     },
     {
       "phrase": "that makes sense",
       "translation": "в этом есть смысл",
-      "example": "That makes sense. So what reward would you suggest?"
+      "example": "That makes sense. So what reward would you suggest?",
+      "keyword": "сенсор",
+      "mnemonic": "Сенсор пискнул: в этом есть смысл, какую награду предложишь? — сенсор пищит that makes sense."
     },
     {
       "phrase": "quite a neat idea",
       "translation": "довольно удачная идея",
-      "example": "That's quite a neat idea, but it would be expensive."
+      "example": "That's quite a neat idea, but it would be expensive.",
+      "keyword": "нитка",
+      "mnemonic": "Нитка протянулась — довольно удачная идея, хоть и дорогая, — нитка тянется quite a neat idea."
     },
     {
       "phrase": "one disadvantage of that",
       "translation": "один минус этого",
-      "example": "One disadvantage of that would be the high cost."
+      "example": "One disadvantage of that would be the high cost.",
+      "keyword": "диван",
+      "mnemonic": "Один минус этого плана — диван слишком дорогой для кинотеатра, — диван скрипит one disadvantage of that."
     },
     {
       "phrase": "offer a reward",
       "translation": "предлагать награду",
-      "example": "It is better to offer a reward than a punishment."
+      "example": "It is better to offer a reward than a punishment.",
+      "keyword": "рекорд",
+      "mnemonic": "Поставил рекорд щедрости: предлагать награду лучше, чем наказание, — рекорд гремит offer a reward."
     },
     {
       "phrase": "combine a carrot and a stick",
       "translation": "сочетать кнут и пряник",
-      "example": "What about combining a carrot and a stick?"
+      "example": "What about combining a carrot and a stick?",
+      "keyword": "карета",
+      "mnemonic": "В карету запрягли кнут и пряник разом — сочетаем оба метода, — карета тарахтит combine a carrot and a stick."
     },
     {
       "phrase": "reduce prices",
       "translation": "снижать цены",
-      "example": "We don't want to reduce prices too much."
+      "example": "We don't want to reduce prices too much.",
+      "keyword": "редут",
+      "mnemonic": "Засели в редут и отказываемся снижать цены слишком сильно, — редут держит reduce prices."
     },
     {
       "phrase": "ask people to leave halfway",
       "translation": "просить людей выйти посередине",
-      "example": "We can't ask people to leave halfway through a film."
+      "example": "We can't ask people to leave halfway through a film.",
+      "keyword": "халва",
+      "mnemonic": "Раздаём халву и просим людей выйти посередине фильма — немыслимо, — халва крошится ask people to leave halfway."
     },
     {
       "phrase": "ban phones",
       "translation": "запрещать телефоны",
-      "example": "I think we should ban all phones from the cinema."
+      "example": "I think we should ban all phones from the cinema.",
+      "keyword": "бан",
+      "mnemonic": "Объявили бан и стали запрещать телефоны в кинотеатре, — бан гремит ban phones."
     },
     {
       "phrase": "put up notices",
       "translation": "развесить объявления",
-      "example": "We should put up notices asking to switch off phones."
+      "example": "We should put up notices asking to switch off phones.",
+      "keyword": "нота",
+      "mnemonic": "Развесили объявления нотами на стенах: выключите телефоны, — нота звенит put up notices."
     },
     {
       "phrase": "switch off phones",
       "translation": "выключать телефоны",
-      "example": "We could reward visitors if they switch off their phones."
+      "example": "We could reward visitors if they switch off their phones.",
+      "keyword": "свеча",
+      "mnemonic": "Зажгли свечу вместо экрана: выключать телефоны будем за награду, — свеча горит switch off phones."
     },
     {
       "phrase": "show you are listening",
       "translation": "показывать, что слушаешь",
-      "example": "Active listening shows you are listening to ideas."
+      "example": "Active listening shows you are listening to ideas.",
+      "keyword": "лысина",
+      "mnemonic": "Лысина блестит, показывая, что ты внимательно слушаешь идеи, — лысина сияет show you are listening."
     }
   ]
 }

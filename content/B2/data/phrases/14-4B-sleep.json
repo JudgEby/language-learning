@@ -5,42 +5,58 @@
     {
       "phrase": "get a good night's sleep",
       "translation": "хорошо выспаться",
-      "example": "Try to get a good night's sleep."
+      "example": "Try to get a good night's sleep.",
+      "keyword": "слипы",
+      "mnemonic": "Постарайся хорошо выспаться — надень слипы: get a good night's sleep."
     },
     {
       "phrase": "drift off",
       "translation": "заснуть",
-      "example": "I usually drift off within minutes."
+      "example": "I usually drift off within minutes.",
+      "keyword": "дрифт",
+      "mnemonic": "Обычно засыпаю за минуты — ухожу в дрифт: drift off within minutes, заснуть."
     },
     {
       "phrase": "sleep in",
       "translation": "выспаться (долго)",
-      "example": "I love sleeping in on Sundays."
+      "example": "I love sleeping in on Sundays.",
+      "keyword": "сплин",
+      "mnemonic": "Люблю выспаться в воскресенье — лечу сплин: love sleeping in on Sundays."
     },
     {
       "phrase": "fall asleep",
       "translation": "засыпать",
-      "example": "It usually takes me long to fall asleep."
+      "example": "It usually takes me long to fall asleep.",
+      "keyword": "сливки",
+      "mnemonic": "Долго засыпаю — считаю сливки: takes me long to fall asleep."
     },
     {
       "phrase": "sleep through (the alarm)",
       "translation": "проспать сквозь (будильник), не услышать",
-      "example": "I am a heavy sleeper, so I often sleep through the alarm."
+      "example": "I am a heavy sleeper, so I often sleep through the alarm.",
+      "keyword": "труба",
+      "mnemonic": "Я крепко сплю — сплю сквозь будильник, как в трубе: sleep through the alarm."
     },
     {
       "phrase": "switch off",
       "translation": "отключаться, расслабляться",
-      "example": "Reading for an hour helps me to switch off."
+      "example": "Reading for an hour helps me to switch off.",
+      "keyword": "свитч",
+      "mnemonic": "Час чтения помогает отключиться — щёлкни свитч: helps me switch off."
     },
     {
       "phrase": "catch up on sleep",
       "translation": "отоспаться, наверстать сон",
-      "example": "I often have a nap to try and catch up on sleep."
+      "example": "I often have a nap to try and catch up on sleep.",
+      "keyword": "соня",
+      "mnemonic": "Часто дремлю, чтобы отоспаться, — соня в законе: catch up on sleep."
     },
     {
       "phrase": "keep (sb) awake",
       "translation": "не давать (кому-то) спать",
-      "example": "I sleep alone so that I do not keep my partner awake."
+      "example": "I sleep alone so that I do not keep my partner awake.",
+      "keyword": "вейк",
+      "mnemonic": "Сплю одна, чтобы не мешать партнёру, — вейк подождёт: do not keep my partner awake."
     }
   ]
 }

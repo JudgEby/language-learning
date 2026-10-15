@@ -5,37 +5,51 @@
     {
       "idiom": "open a bank account",
       "translation": "открыть банковский счёт",
-      "example": "You open a bank account and start talking to people."
+      "example": "You open a bank account and start talking to people.",
+      "keyword": "банкет",
+      "mnemonic": "Студент с банкетом документов — open a bank account, открыть банковский счёт и болтать с людьми."
     },
     {
       "idiom": "get a mobile phone contract",
       "translation": "оформить контракт на мобильный телефон",
-      "example": "First you open a bank account and get a mobile phone contract."
+      "example": "First you open a bank account and get a mobile phone contract.",
+      "keyword": "контрабас",
+      "mnemonic": "Первокурсник с контрабасом в салоне — get a mobile phone contract, оформить контракт на мобильный телефон."
     },
     {
       "idiom": "make photocopies",
       "translation": "делать ксерокопии",
-      "example": "What can you do in a photocopying room? You can make photocopies."
+      "example": "What can you do in a photocopying room? You can make photocopies.",
+      "keyword": "фокус",
+      "mnemonic": "Студент показывает фокус с бумагой — make photocopies, делать ксерокопии в копировальной."
     },
     {
       "idiom": "borrow a book",
       "translation": "взять книгу в библиотеке",
-      "example": "I am going to the library to borrow a book."
+      "example": "I am going to the library to borrow a book.",
+      "keyword": "боров",
+      "mnemonic": "Боров с формуляром в библиотеке — borrow a book, взять книгу в библиотеке."
     },
     {
       "idiom": "register for a new course",
       "translation": "записаться на новый курс",
-      "example": "Where do I register for my course? At the registration desk."
+      "example": "Where do I register for my course? At the registration desk.",
+      "keyword": "регистратура",
+      "mnemonic": "Новичок с регистратурой на груди — register for a new course, записаться на новый курс у стойки."
     },
     {
       "idiom": "study abroad",
       "translation": "учиться за границей",
-      "example": "Thousands of students come to study abroad in the UK."
+      "example": "Thousands of students come to study abroad in the UK.",
+      "keyword": "абракадабра",
+      "mnemonic": "Тысячи с абракадаброй акцентов — study abroad, учиться за границей в Британии."
     },
     {
       "idiom": "meet for a coffee",
       "translation": "встретиться за чашкой кофе",
-      "example": "Let us meet for a coffee in the cafeteria at two."
+      "example": "Let us meet for a coffee in the cafeteria at two.",
+      "keyword": "кефир",
+      "mnemonic": "Парочка с кефиром в столовой — meet for a coffee, встретиться за чашкой кофе в два."
     }
   ]
 }

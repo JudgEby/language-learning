@@ -2,17 +2,89 @@
   "lessonId": "lifes-a-lottery",
   "title": "Life's a lottery — фразы",
   "items": [
-    { "phrase": "What are your plans for the future?", "translation": "Какие у тебя планы на будущее?", "example": "What are your plans for the future? — I'd like to study medicine." },
-    { "phrase": "What are you going to do?", "translation": "Что ты собираешься делать?", "example": "What are you going to do with the money?" },
-    { "phrase": "I'm going to ...", "translation": "Я собираюсь ...", "example": "I'm going to learn to fly." },
-    { "phrase": "I'd like to ...", "translation": "Я хотел бы ...", "example": "I'd like to move into a big flat in the city centre." },
-    { "phrase": "We'd like to ...", "translation": "Мы хотели бы ...", "example": "We'd like to look for a house in the country." },
-    { "phrase": "I'm not going to ...", "translation": "Я не собираюсь ...", "example": "I'm not going to give any presents to my family." },
-    { "phrase": "change your life", "translation": "изменить свою жизнь", "example": "We're not going to change our life very much." },
-    { "phrase": "stay in my job", "translation": "остаться на своей работе", "example": "I'm going to stay in my job. I like it." },
-    { "phrase": "buy a lottery ticket", "translation": "купить лотерейный билет", "example": "He buys a lottery ticket every week." },
-    { "phrase": "give money to somebody", "translation": "дать кому-то денег", "example": "They are going to give the money to someone who needs it." },
-    { "phrase": "find three things the same", "translation": "найти три совпадения", "example": "Compare your answers. Find three things the same." },
-    { "phrase": "Is it a good idea?", "translation": "Это хорошая идея?", "example": "Is playing the lottery a good idea? — It's fun but it's not cheap." }
+    {
+      "phrase": "What are your plans for the future?",
+      "translation": "Какие у тебя планы на будущее?",
+      "example": "What are your plans for the future? — I'd like to study medicine.",
+      "keyword": "план",
+      "mnemonic": "Победитель машет планом — What are your plans, какие планы."
+    },
+    {
+      "phrase": "What are you going to do?",
+      "translation": "Что ты собираешься делать?",
+      "example": "What are you going to do with the money?",
+      "keyword": "гонг",
+      "mnemonic": "Судья бьёт в гонг — What are you going to do, что собираешься делать."
+    },
+    {
+      "phrase": "I'm going to ...",
+      "translation": "Я собираюсь ...",
+      "example": "I'm going to learn to fly.",
+      "keyword": "гоу",
+      "mnemonic": "Пилот кричит «гоу» — I'm going to fly, я собираюсь лететь."
+    },
+    {
+      "phrase": "I'd like to ...",
+      "translation": "Я хотел бы ...",
+      "example": "I'd like to move into a big flat in the city centre.",
+      "keyword": "лайк",
+      "mnemonic": "Мечтатель жмёт лайк — I'd like to move, я хотел бы переехать."
+    },
+    {
+      "phrase": "We'd like to ...",
+      "translation": "Мы хотели бы ...",
+      "example": "We'd like to look for a house in the country.",
+      "keyword": "лайки",
+      "mnemonic": "Семья собирает лайки — We'd like a house, мы хотели бы дом."
+    },
+    {
+      "phrase": "I'm not going to ...",
+      "translation": "Я не собираюсь ...",
+      "example": "I'm not going to give any presents to my family.",
+      "keyword": "гонка",
+      "mnemonic": "Скряга в гонке тормозит — I'm not going to give, не собираюсь давать."
+    },
+    {
+      "phrase": "change your life",
+      "translation": "изменить свою жизнь",
+      "example": "We're not going to change our life very much.",
+      "keyword": "чейндж",
+      "mnemonic": "Победитель требует чейндж и меняет жизнь — change your life."
+    },
+    {
+      "phrase": "stay in my job",
+      "translation": "остаться на своей работе",
+      "example": "I'm going to stay in my job. I like it.",
+      "keyword": "стой",
+      "mnemonic": "Клерк замер «стой» — stay in my job, остаться на работе."
+    },
+    {
+      "phrase": "buy a lottery ticket",
+      "translation": "купить лотерейный билет",
+      "example": "He buys a lottery ticket every week.",
+      "keyword": "тикет",
+      "mnemonic": "Счастливчик машет тикетом — buy a lottery ticket, купить билет."
+    },
+    {
+      "phrase": "give money to somebody",
+      "translation": "дать кому-то денег",
+      "example": "They are going to give the money to someone who needs it.",
+      "keyword": "мани",
+      "mnemonic": "Богач трясёт мани — give money to somebody, дать денег."
+    },
+    {
+      "phrase": "find three things the same",
+      "translation": "найти три совпадения",
+      "example": "Compare your answers. Find three things the same.",
+      "keyword": "фантик",
+      "mnemonic": "Школьник с фантиком ищет совпадения — find three things the same."
+    },
+    {
+      "phrase": "Is it a good idea?",
+      "translation": "Это хорошая идея?",
+      "example": "Is playing the lottery a good idea? — It's fun but it's not cheap.",
+      "keyword": "айди",
+      "mnemonic": "Игрок машет айди — Is it a good idea, хорошая ли идея."
+    }
   ]
 }

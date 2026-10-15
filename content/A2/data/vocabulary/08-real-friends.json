@@ -2,20 +2,110 @@
   "lessonId": "real-friends",
   "title": "Real friends? — новые слова",
   "items": [
-    { "term": "interesting", "translation": "интересный", "example": "She's really interesting — I want to know her better." },
-    { "term": "intelligent", "translation": "умный", "example": "Mark is intelligent but very quiet in big groups." },
-    { "term": "kind", "translation": "добрый", "example": "I'm really kind. I always help my friends." },
-    { "term": "talkative", "translation": "болтливый", "example": "My sister is very talkative — she speaks all the time." },
-    { "term": "friendly", "translation": "дружелюбный", "example": "Everyone in the group is friendly and helpful." },
-    { "term": "funny", "translation": "смешной", "example": "Tom is funny — people often laugh at his jokes." },
-    { "term": "serious", "translation": "серьёзный", "example": "My boss is serious, but he's a very good manager." },
-    { "term": "boring", "translation": "скучный", "example": "The film was long and boring." },
-    { "term": "quiet", "translation": "тихий, спокойный", "example": "He's quiet, but he loves being with people." },
-    { "term": "unkind", "translation": "недобрый, жестокий", "example": "It was unkind to say that to your best friend." },
-    { "term": "not very ...", "translation": "не очень ...", "example": "I'm not very friendly in the morning." },
-    { "term": "a best friend", "translation": "лучший друг", "example": "Have you got one real best friend?" },
-    { "term": "an online friend", "translation": "друг из интернета", "example": "Bridget has got thirty-five online friends." },
-    { "term": "keep in touch", "translation": "поддерживать связь", "example": "We hardly ever meet, but we keep in touch." },
-    { "term": "tell each other", "translation": "рассказывать друг другу", "example": "Real friends tell each other about personal things." }
+    {
+      "term": "interesting",
+      "translation": "интересный",
+      "example": "She's really interesting — I want to know her better.",
+      "keyword": "интерн",
+      "mnemonic": "Интерн рассказывает захватывающе — он interesting, интересный."
+    },
+    {
+      "term": "intelligent",
+      "translation": "умный",
+      "example": "Mark is intelligent but very quiet in big groups.",
+      "keyword": "интеллигент",
+      "mnemonic": "Интеллигент в очках щёлкает задачи — он intelligent, умный."
+    },
+    {
+      "term": "kind",
+      "translation": "добрый",
+      "example": "I'm really kind. I always help my friends.",
+      "keyword": "киндер",
+      "mnemonic": "Малыш делится киндером — он kind, добрый."
+    },
+    {
+      "term": "talkative",
+      "translation": "болтливый",
+      "example": "My sister is very talkative — she speaks all the time.",
+      "keyword": "толк",
+      "mnemonic": "Попугай мелет без толку — он talkative, болтливый."
+    },
+    {
+      "term": "friendly",
+      "translation": "дружелюбный",
+      "example": "Everyone in the group is friendly and helpful.",
+      "keyword": "френд",
+      "mnemonic": "Френд обнимает всех у входа — он friendly, дружелюбный."
+    },
+    {
+      "term": "funny",
+      "translation": "смешной",
+      "example": "Tom is funny — people often laugh at his jokes.",
+      "keyword": "фан",
+      "mnemonic": "Комик в майке «фан» шутит — он funny, смешной."
+    },
+    {
+      "term": "serious",
+      "translation": "серьёзный",
+      "example": "My boss is serious, but he's a very good manager.",
+      "keyword": "сериал",
+      "mnemonic": "Босс смотрит сериал с каменным лицом — он serious, серьёзный."
+    },
+    {
+      "term": "boring",
+      "translation": "скучный",
+      "example": "The film was long and boring.",
+      "keyword": "бор",
+      "mnemonic": "Лось заснул в бору от скуки — фильм boring, скучный."
+    },
+    {
+      "term": "quiet",
+      "translation": "тихий, спокойный",
+      "example": "He's quiet, but he loves being with people.",
+      "keyword": "квит",
+      "mnemonic": "Библиотекарь шепчет «квит» — тихо, он quiet, спокойный."
+    },
+    {
+      "term": "unkind",
+      "translation": "недобрый, жестокий",
+      "example": "It was unkind to say that to your best friend.",
+      "keyword": "киндер",
+      "mnemonic": "Хулиган отбирает киндер — он unkind, недобрый."
+    },
+    {
+      "term": "not very ...",
+      "translation": "не очень ...",
+      "example": "I'm not very friendly in the morning.",
+      "keyword": "веришь",
+      "mnemonic": "Ты веришь, но не очень — это not very, не очень."
+    },
+    {
+      "term": "a best friend",
+      "translation": "лучший друг",
+      "example": "Have you got one real best friend?",
+      "keyword": "бест",
+      "mnemonic": "Певец орёт «бест» и обнимает друга — это a best friend, лучший друг."
+    },
+    {
+      "term": "an online friend",
+      "translation": "друг из интернета",
+      "example": "Bridget has got thirty-five online friends.",
+      "keyword": "онлайн",
+      "mnemonic": "Приятель машет из онлайна — он an online friend, друг из интернета."
+    },
+    {
+      "term": "keep in touch",
+      "translation": "поддерживать связь",
+      "example": "We hardly ever meet, but we keep in touch.",
+      "keyword": "тач",
+      "mnemonic": "Друзья стукаются телефонами «тач» — они keep in touch, поддерживают связь."
+    },
+    {
+      "term": "tell each other",
+      "translation": "рассказывать друг другу",
+      "example": "Real friends tell each other about personal things.",
+      "keyword": "тельняшка",
+      "mnemonic": "Матросы в тельняшках шепчутся — они tell each other, рассказывают друг другу."
+    }
   ]
 }

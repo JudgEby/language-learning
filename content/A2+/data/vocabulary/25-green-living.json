@@ -2,15 +2,75 @@
   "lessonId": "green-living",
   "title": "Green living — новые слова",
   "items": [
-    { "term": "recycle", "translation": "перерабатывать", "example": "We should recycle plastic, glass and paper." },
-    { "term": "pollution", "translation": "загрязнение", "example": "Air pollution is a serious problem in big cities." },
-    { "term": "renewable energy", "translation": "возобновляемая энергия", "example": "Solar and wind power are types of renewable energy." },
-    { "term": "greenhouse gases", "translation": "парниковые газы", "example": "Greenhouse gases trap heat in the atmosphere." },
-    { "term": "waste", "translation": "мусор, отходы", "example": "We need to reduce the amount of waste we produce." },
-    { "term": "environment", "translation": "окружающая среда", "example": "We must protect the environment for future generations." },
-    { "term": "climate change", "translation": "изменение климата", "example": "Climate change is causing more extreme weather." },
-    { "term": "solar power", "translation": "солнечная энергия", "example": "The house runs entirely on solar power." },
-    { "term": "carbon footprint", "translation": "углеродный след", "example": "Taking public transport reduces your carbon footprint." },
-    { "term": "sustainable", "translation": "устойчивый, экологичный", "example": "We need more sustainable ways of living." }
+    {
+      "term": "recycle",
+      "translation": "перерабатывать",
+      "example": "We should recycle plastic, glass and paper.",
+      "keyword": "сайка",
+      "mnemonic": "Бабушка с сайкой велит recycle — перерабатывать пластик, стекло и бумагу."
+    },
+    {
+      "term": "pollution",
+      "translation": "загрязнение",
+      "example": "Air pollution is a serious problem in big cities.",
+      "keyword": "полюшко",
+      "mnemonic": "Смог накрыл полюшко, ведь pollution — это загрязнение в больших городах."
+    },
+    {
+      "term": "renewable energy",
+      "translation": "возобновляемая энергия",
+      "example": "Solar and wind power are types of renewable energy.",
+      "keyword": "нюня",
+      "mnemonic": "Нюня с солнечной панелью просит renewable energy — возобновляемую энергию ветра и солнца."
+    },
+    {
+      "term": "greenhouse gases",
+      "translation": "парниковые газы",
+      "example": "Greenhouse gases trap heat in the atmosphere.",
+      "keyword": "грибы",
+      "mnemonic": "Грибы в теплице пукают greenhouse gases — парниковые газы и держат тепло."
+    },
+    {
+      "term": "waste",
+      "translation": "мусор, отходы",
+      "example": "We need to reduce the amount of waste we produce.",
+      "keyword": "хвост",
+      "mnemonic": "Дракон с хвостом учит не waste — не плодить мусор и отходы."
+    },
+    {
+      "term": "environment",
+      "translation": "окружающая среда",
+      "example": "We must protect the environment for future generations.",
+      "keyword": "варево",
+      "mnemonic": "Вонючее варево разлили — страдает environment, окружающая среда будущих поколений."
+    },
+    {
+      "term": "climate change",
+      "translation": "изменение климата",
+      "example": "Climate change is causing more extreme weather.",
+      "keyword": "лимит",
+      "mnemonic": "Синоптик исчерпал лимит, и climate change — изменение климата устраивает ураганы."
+    },
+    {
+      "term": "solar power",
+      "translation": "солнечная энергия",
+      "example": "The house runs entirely on solar power.",
+      "keyword": "ссора",
+      "mnemonic": "Ссора из-за solar power — из-за солнечной энергии для дома на панелях."
+    },
+    {
+      "term": "carbon footprint",
+      "translation": "углеродный след",
+      "example": "Taking public transport reduces your carbon footprint.",
+      "keyword": "футболка",
+      "mnemonic": "Пассажир в футболке топчет поменьше carbon footprint — уменьшает углеродный след в автобусе."
+    },
+    {
+      "term": "sustainable",
+      "translation": "устойчивый, экологичный",
+      "example": "We need more sustainable ways of living.",
+      "keyword": "стейк",
+      "mnemonic": "Жуёшь стейк и думаешь про sustainable — про устойчивый, экологичный образ жизни."
+    }
   ]
 }

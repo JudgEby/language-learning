@@ -2,15 +2,75 @@
   "lessonId": "what-really-happened",
   "title": "What really happened — новые слова",
   "items": [
-    { "term": "headline", "translation": "заголовок (новостей)", "example": "The headline said 'Massive earthquake hits Italy'." },
-    { "term": "reporter", "translation": "репортёр", "example": "The reporter interviewed eyewitnesses at the scene." },
-    { "term": "coverage", "translation": "освещение (в СМИ)", "example": "There was extensive news coverage of the event." },
-    { "term": "breaking news", "translation": "срочные новости", "example": "We interrupt this programme for breaking news." },
-    { "term": "eyewitness", "translation": "очевидец", "example": "An eyewitness described what happened." },
-    { "term": "report", "translation": "репортаж, сообщение", "example": "The report concluded that the driver was not at fault." },
-    { "term": "conspiracy theory", "translation": "теория заговора", "example": "Many people believe conspiracy theories about the moon landing." },
-    { "term": "suspect", "translation": "подозреваемый", "example": "The police arrested the suspect two days later." },
-    { "term": "fugitive", "translation": "беглец", "example": "The fugitive was finally arrested after six months." },
-    { "term": "hostage", "translation": "заложник", "example": "The hostages were released after negotiations." }
+    {
+      "term": "headline",
+      "translation": "заголовок (новостей)",
+      "example": "The headline said 'Massive earthquake hits Italy'.",
+      "keyword": "хедлайн",
+      "mnemonic": "Хедлайн кричит с первой полосы: вот headline — заголовок новостей про землетрясение."
+    },
+    {
+      "term": "reporter",
+      "translation": "репортёр",
+      "example": "The reporter interviewed eyewitnesses at the scene.",
+      "keyword": "репортёр",
+      "mnemonic": "Репортёр с микрофоном берёт интервью как reporter — репортёр, опрашивающий очевидцев."
+    },
+    {
+      "term": "coverage",
+      "translation": "освещение (в СМИ)",
+      "example": "There was extensive news coverage of the event.",
+      "keyword": "кавередж",
+      "mnemonic": "Кавередж-одеяло накрыло эфир: идёт coverage — широкое освещение в СМИ."
+    },
+    {
+      "term": "breaking news",
+      "translation": "срочные новости",
+      "example": "We interrupt this programme for breaking news.",
+      "keyword": "брейкинг, ньюс",
+      "mnemonic": "Брейкинг-танец прерывают ради ньюс-выпуска: вот breaking news — срочные новости."
+    },
+    {
+      "term": "eyewitness",
+      "translation": "очевидец",
+      "example": "An eyewitness described what happened.",
+      "keyword": "айвитнесс",
+      "mnemonic": "Ай-витнесс в очках видел всё: он eyewitness — очевидец, описавший случившееся."
+    },
+    {
+      "term": "report",
+      "translation": "репортаж, сообщение",
+      "example": "The report concluded that the driver was not at fault.",
+      "keyword": "репорт",
+      "mnemonic": "Репорт-отчёт лёг на стол: the report — репортаж и сообщение, водитель невиновен."
+    },
+    {
+      "term": "conspiracy theory",
+      "translation": "теория заговора",
+      "example": "Many people believe conspiracy theories about the moon landing.",
+      "keyword": "конспираси",
+      "mnemonic": "Конспираси-шёпот в подвале: это conspiracy theory — теория заговора про высадку на Луну."
+    },
+    {
+      "term": "suspect",
+      "translation": "подозреваемый",
+      "example": "The police arrested the suspect two days later.",
+      "keyword": "саспект",
+      "mnemonic": "Саспект с усами попал под фонарь: вот suspect — подозреваемый, его арестовали."
+    },
+    {
+      "term": "fugitive",
+      "translation": "беглец",
+      "example": "The fugitive was finally arrested after six months.",
+      "keyword": "фуджитив",
+      "mnemonic": "Фуджи-тив убегает через тив-кусты: вот fugitive — беглец, пойманный через полгода."
+    },
+    {
+      "term": "hostage",
+      "translation": "заложник",
+      "example": "The hostages were released after negotiations.",
+      "keyword": "хостидж",
+      "mnemonic": "Хости-джем застрял в заложниках: вот hostage — заложник, освобождённый после переговоров."
+    }
   ]
 }

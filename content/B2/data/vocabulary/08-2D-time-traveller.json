@@ -5,17 +5,23 @@
     {
       "term": "era",
       "translation": "эпоха",
-      "example": "The Victorian era fascinates many historians."
+      "example": "The Victorian era fascinates many historians.",
+      "keyword": "эра",
+      "mnemonic": "Целая эра кринолинов — Victorian era, эпоха, сводит историков с ума."
     },
     {
       "term": "century",
       "translation": "век",
-      "example": "Life was very different a century ago."
+      "example": "Life was very different a century ago.",
+      "keyword": "центнер",
+      "mnemonic": "Сто лет назад всё было другим — целый центнер времени назад: a century ago, век назад."
     },
     {
       "term": "ancestor",
       "translation": "предок",
-      "example": "My ancestors came from Ireland."
+      "example": "My ancestors came from Ireland.",
+      "keyword": "предатель",
+      "mnemonic": "Мой предок оказался предателем и сбежал из Ирландии — ancestors came from Ireland."
     },
     {
       "term": "civilisation",
@@ -25,37 +31,51 @@
     {
       "term": "landmark",
       "translation": "достопримечательность",
-      "example": "The castle is a famous landmark."
+      "example": "The castle is a famous landmark.",
+      "keyword": "марка",
+      "mnemonic": "Замок красуется на почтовой марке — a famous landmark, достопримечательность."
     },
     {
       "term": "painter",
       "translation": "художник",
-      "example": "Van Gogh is the finest painter of them all."
+      "example": "Van Gogh is the finest painter of them all.",
+      "keyword": "пейнтбол",
+      "mnemonic": "Художник после пейнтбола весь в краске — Van Gogh is the finest painter."
     },
     {
       "term": "museum",
       "translation": "музей",
-      "example": "The group went to a museum in Paris."
+      "example": "The group went to a museum in Paris.",
+      "keyword": "муза",
+      "mnemonic": "Муза водит группы по музею в Париже — went to a museum."
     },
     {
       "term": "time travel",
       "translation": "путешествие во времени",
-      "example": "Is time travel actually possible?"
+      "example": "Is time travel actually possible?",
+      "keyword": "таймер",
+      "mnemonic": "Завёл таймер на сто лет назад — is time travel actually possible, путешествие во времени?"
     },
     {
       "term": "wormhole",
       "translation": "червоточина",
-      "example": "Wormholes could allow travel through space and time."
+      "example": "Wormholes could allow travel through space and time.",
+      "keyword": "холл",
+      "mnemonic": "Сквозь червоточину — прямо в холл другой галактики: wormhole, червоточина."
     },
     {
       "term": "dark matter",
       "translation": "тёмная материя",
-      "example": "Scientists know that dark matter exists."
+      "example": "Scientists know that dark matter exists.",
+      "keyword": "дырка",
+      "mnemonic": "Тёмная материя — сплошная дырка в знаниях учёных: dark matter exists."
     },
     {
       "term": "astonishing",
       "translation": "поразительный",
-      "example": "Those final months were an astonishing outpouring."
+      "example": "Those final months were an astonishing outpouring.",
+      "keyword": "Эстония",
+      "mnemonic": "Те финальные месяцы были такими, что ахнула вся Эстония, — astonishing outpouring, поразительный."
     }
   ]
 }

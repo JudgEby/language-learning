@@ -2,15 +2,15 @@
   "lessonId": "can-i-take-a-message",
   "title": "Can I take a message? — новые слова",
   "items": [
-    { "term": "take a message", "translation": "принять сообщение", "example": "I'm sorry, she's not here. Can I take a message?" },
-    { "term": "call back", "translation": "перезвонить", "example": "I'll call back later this afternoon." },
-    { "term": "leave a message", "translation": "оставить сообщение", "example": "He left a message on my voicemail." },
-    { "term": "ring", "translation": "звонить (по телефону)", "example": "The phone is ringing — can you answer it?" },
-    { "term": "dial", "translation": "набирать номер", "example": "Dial the number and wait for the tone." },
-    { "term": "put someone through", "translation": "соединить с кем-то", "example": "Please put me through to the sales department." },
-    { "term": "hold on", "translation": "подождать (на линии)", "example": "Hold on for a moment, I'll get him." },
-    { "term": "hang up", "translation": "повесить трубку", "example": "Don't hang up — I have one more question." },
-    { "term": "voicemail", "translation": "голосовая почта", "example": "I left a message on her voicemail." },
-    { "term": "wrong number", "translation": "неправильный номер", "example": "Sorry, I think I dialled the wrong number." }
+    { "term": "take a message", "translation": "принять сообщение", "example": "I'm sorry, she's not here. Can I take a message?", "keyword": "месседж", "mnemonic": "Месседж нацарапан на салфетке — can I take a message, принять сообщение?" },
+    { "term": "call back", "translation": "перезвонить", "example": "I'll call back later this afternoon.", "keyword": "бэк", "mnemonic": "Бэк-вокал перезвонит днём — I'll call back, перезвоню." },
+    { "term": "leave a message", "translation": "оставить сообщение", "example": "He left a message on my voicemail.", "keyword": "ливень", "mnemonic": "Проливной ливень сообщений на автоответчике — he left a message, оставил сообщение." },
+    { "term": "ring", "translation": "звонить (по телефону)", "example": "The phone is ringing — can you answer it?", "keyword": "ринг", "mnemonic": "Телефон звенит как гонг на ринге — ring, звонит." },
+    { "term": "dial", "translation": "набирать номер", "example": "Dial the number and wait for the tone.", "keyword": "даль", "mnemonic": "Крути диск до самой дали — dial, набирай номер и жди гудок." },
+    { "term": "put someone through", "translation": "соединить с кем-то", "example": "Please put me through to the sales department.", "keyword": "труба", "mnemonic": "Голос летит по трубе — put me through, соедините с отделом продаж." },
+    { "term": "hold on", "translation": "подождать (на линии)", "example": "Hold on for a moment, I'll get him.", "keyword": "холд", "mnemonic": "Холд на линии — hold on, подождите минутку." },
+    { "term": "hang up", "translation": "повесить трубку", "example": "Don't hang up — I have one more question.", "keyword": "ангар", "mnemonic": "Не вешай трубку даже в ангаре — don't hang up, у меня ещё вопрос." },
+    { "term": "voicemail", "translation": "голосовая почта", "example": "I left a message on her voicemail.", "keyword": "войс", "mnemonic": "Кинул войс в мессенджер — I left a message on her voicemail, на голосовую почту." },
+    { "term": "wrong number", "translation": "неправильный номер", "example": "Sorry, I think I dialled the wrong number.", "keyword": "врун", "mnemonic": "Врун набрал wrong number — неправильный номер — и извиняется." }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "Is Kevin there?",
       "translation": "Кевин там?",
-      "example": "Hi, Sean. It's Debbie. Is Kevin there?"
+      "example": "Hi, Sean. It's Debbie. Is Kevin there?",
+      "keyword": "кефир",
+      "mnemonic": "Дебби с кефиром ищет Кевина — Is Kevin there, Кевин там."
     },
     {
       "idiom": "He went out ten minutes ago",
       "translation": "Он вышел десять минут назад",
-      "example": "He's not here. He went out ten minutes ago."
+      "example": "He's not here. He went out ten minutes ago.",
+      "keyword": "аут",
+      "mnemonic": "Судья кричит «аут» — he went out, он вышел."
     },
     {
       "idiom": "ask him to call me",
       "translation": "попросить его перезвонить мне",
-      "example": "Just ask him to call me this evening."
+      "example": "Just ask him to call me this evening.",
+      "keyword": "кольцо",
+      "mnemonic": "Абонент с кольцом просит — ask him to call me, попросить перезвонить."
     },
     {
       "idiom": "give me the number",
       "translation": "назвать мне номер",
-      "example": "Could you give me the number there?"
+      "example": "Could you give me the number there?",
+      "keyword": "амбар",
+      "mnemonic": "Оператор в амбаре диктует номер — give me the number."
     },
     {
       "idiom": "That's right",
       "translation": "Верно",
-      "example": "34 91 308 5238. That's right."
+      "example": "34 91 308 5238. That's right.",
+      "keyword": "рай",
+      "mnemonic": "Оператор попал в рай — That's right, верно."
     },
     {
       "idiom": "lock yourself out of your house",
       "translation": "остаться без ключей перед своим домом",
-      "example": "Have you ever locked yourself out of your house?"
+      "example": "Have you ever locked yourself out of your house?",
+      "keyword": "локон",
+      "mnemonic": "Турист прищемил локон и остался без ключей — lock yourself out."
     },
     {
       "idiom": "get lost in a city",
       "translation": "заблудиться в городе",
-      "example": "Have you ever got lost in a new city?"
+      "example": "Have you ever got lost in a new city?",
+      "keyword": "лось",
+      "mnemonic": "Лось заблудился в городе — get lost in a city."
     }
   ]
 }

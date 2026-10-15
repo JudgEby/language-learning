@@ -2,15 +2,75 @@
   "lessonId": "top-cities",
   "title": "Top cities — новые слова",
   "items": [
-    { "term": "crowded", "translation": "людный, переполненный", "example": "The city centre is always crowded at weekends." },
-    { "term": "lively", "translation": "оживлённый, живой", "example": "The market is very lively in the morning." },
-    { "term": "polluted", "translation": "загрязнённый", "example": "The air in industrial areas is heavily polluted." },
-    { "term": "safe", "translation": "безопасный", "example": "This neighbourhood is very safe, even at night." },
-    { "term": "modern", "translation": "современный", "example": "The city has many modern skyscrapers." },
-    { "term": "historic", "translation": "исторический", "example": "We walked through the historic district of the city." },
-    { "term": "spacious", "translation": "просторный", "example": "The new square is very spacious and open." },
-    { "term": "quiet", "translation": "тихий, спокойный", "example": "I prefer quiet residential areas to busy centres." },
-    { "term": "convenient", "translation": "удобный", "example": "The public transport system is very convenient." },
-    { "term": "atmosphere", "translation": "атмосфера", "example": "The atmosphere in the old town is very charming." }
+    {
+      "term": "crowded",
+      "translation": "людный, переполненный",
+      "example": "The city centre is always crowded at weekends.",
+      "keyword": "крот",
+      "mnemonic": "Крот в толпе — это crowded, людный и переполненный центр в выходные."
+    },
+    {
+      "term": "lively",
+      "translation": "оживлённый, живой",
+      "example": "The market is very lively in the morning.",
+      "keyword": "лайв",
+      "mnemonic": "Торговец ведёт лайв с lively — с оживлённого, живого рынка утром."
+    },
+    {
+      "term": "polluted",
+      "translation": "загрязнённый",
+      "example": "The air in industrial areas is heavily polluted.",
+      "keyword": "поллитра",
+      "mnemonic": "В воздухе висит поллитра грязи — это polluted, загрязнённый воздух района."
+    },
+    {
+      "term": "safe",
+      "translation": "безопасный",
+      "example": "This neighbourhood is very safe, even at night.",
+      "keyword": "сейф",
+      "mnemonic": "Район прячут в сейф — он safe, безопасный даже ночью."
+    },
+    {
+      "term": "modern",
+      "translation": "современный",
+      "example": "The city has many modern skyscrapers.",
+      "keyword": "модник",
+      "mnemonic": "Модник фоткает modern — современные небоскрёбы города."
+    },
+    {
+      "term": "historic",
+      "translation": "исторический",
+      "example": "We walked through the historic district of the city.",
+      "keyword": "истерика",
+      "mnemonic": "Турист с истерикой бродит по historic — по историческому кварталу города."
+    },
+    {
+      "term": "spacious",
+      "translation": "просторный",
+      "example": "The new square is very spacious and open.",
+      "keyword": "спейс",
+      "mnemonic": "На площади спейс для танцев — она spacious, просторная и открытая."
+    },
+    {
+      "term": "quiet",
+      "translation": "тихий, спокойный",
+      "example": "I prefer quiet residential areas to busy centres.",
+      "keyword": "котик",
+      "mnemonic": "Котик шипит и просит quiet — тихий, спокойный район вместо шумного центра."
+    },
+    {
+      "term": "convenient",
+      "translation": "удобный",
+      "example": "The public transport system is very convenient.",
+      "keyword": "веник",
+      "mnemonic": "Кондуктор с веником хвалит convenient — удобный транспорт города."
+    },
+    {
+      "term": "atmosphere",
+      "translation": "атмосфера",
+      "example": "The atmosphere in the old town is very charming.",
+      "keyword": "астма",
+      "mnemonic": "У туриста астма от восторга — такая atmosphere, атмосфера старого города."
+    }
   ]
 }

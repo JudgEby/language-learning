@@ -2,17 +2,89 @@
   "lessonId": "andy-murray",
   "title": "Andy Murray — новые слова",
   "items": [
-    { "term": "achievement", "translation": "достижение", "example": "Winning gold at the Olympics is a massive achievement." },
-    { "term": "determination", "translation": "решимость, целеустремлённость", "example": "His determination helped him overcome every obstacle." },
-    { "term": "sports icon", "translation": "спортивная икона", "example": "Murray is a global sports icon." },
-    { "term": "champion", "translation": "чемпион", "example": "He became Wimbledon champion in 2016." },
-    { "term": "Grand Slam", "translation": "турнир Большого шлема", "example": "Winning a Grand Slam is every tennis player's dream." },
-    { "term": "victory", "translation": "победа", "example": "His victory at Wimbledon was emotional." },
-    { "term": "commitment", "translation": "обязательство, преданность", "example": "Being a top athlete requires total commitment." },
-    { "term": "inspiration", "translation": "вдохновение", "example": "His story is an inspiration to young athletes." },
-    { "term": "overcome", "translation": "преодолеть", "example": "He overcame many injuries during his career." },
-    { "term": "raw emotion", "translation": "неподдельные эмоции", "example": "He showed raw emotion after losing the final." },
-    { "term": "icon", "translation": "икона, легенда", "example": "He became a national icon." },
-    { "term": "challenge", "translation": "вызов, испытание", "example": "Running a marathon is a real challenge." }
+    {
+      "term": "achievement",
+      "translation": "достижение",
+      "example": "Winning gold at the Olympics is a massive achievement.",
+      "keyword": "ачивмент",
+      "mnemonic": "Ачивмент-золото Олимпиады: massive achievement — достижение, победа Маррея."
+    },
+    {
+      "term": "determination",
+      "translation": "решимость, целеустремлённость",
+      "example": "His determination helped him overcome every obstacle.",
+      "keyword": "детерминейшн",
+      "mnemonic": "Детерминейшн-таран прёт: his determination — решимость помогла пройти препятствия."
+    },
+    {
+      "term": "sports icon",
+      "translation": "спортивная икона",
+      "example": "Murray is a global sports icon.",
+      "keyword": "айкон",
+      "mnemonic": "Айкон-спорт на постере: Murray is sports icon — спортивная икона мира."
+    },
+    {
+      "term": "champion",
+      "translation": "чемпион",
+      "example": "He became Wimbledon champion in 2016.",
+      "keyword": "чемпион",
+      "mnemonic": "Чемпион Уимблдона с кубком: he became champion — чемпион 2016 года."
+    },
+    {
+      "term": "Grand Slam",
+      "translation": "турнир Большого шлема",
+      "example": "Winning a Grand Slam is every tennis player's dream.",
+      "keyword": "гранд, слэм",
+      "mnemonic": "Гранд-слэм-мечта теннисиста: winning Grand Slam — турнир Большого шлема, мечта всех."
+    },
+    {
+      "term": "victory",
+      "translation": "победа",
+      "example": "His victory at Wimbledon was emotional.",
+      "keyword": "виктори",
+      "mnemonic": "Виктори-уимблдонские слёзы: his victory — победа эмоциональная на Уимблдоне."
+    },
+    {
+      "term": "commitment",
+      "translation": "обязательство, преданность",
+      "example": "Being a top athlete requires total commitment.",
+      "keyword": "коммитмент",
+      "mnemonic": "Коммитмент-атлет живёт залом: top requires commitment — обязательство и преданность спорту."
+    },
+    {
+      "term": "inspiration",
+      "translation": "вдохновение",
+      "example": "His story is an inspiration to young athletes.",
+      "keyword": "инспирейшн",
+      "mnemonic": "Инспирейшн-история окрыляет: his story is inspiration — вдохновение молодым атлетам."
+    },
+    {
+      "term": "overcome",
+      "translation": "преодолеть",
+      "example": "He overcame many injuries during his career.",
+      "keyword": "оверкам",
+      "mnemonic": "Оверкам-травмы позади: he overcame injuries — преодолел травмы в карьере."
+    },
+    {
+      "term": "raw emotion",
+      "translation": "неподдельные эмоции",
+      "example": "He showed raw emotion after losing the final.",
+      "keyword": "ро, эмоушн",
+      "mnemonic": "Ро-эмоушн без грима: he showed raw emotion — неподдельные эмоции после финала."
+    },
+    {
+      "term": "icon",
+      "translation": "икона, легенда",
+      "example": "He became a national icon.",
+      "keyword": "айкон",
+      "mnemonic": "Айкон-нация на футболках: he became icon — икона и легенда страны."
+    },
+    {
+      "term": "challenge",
+      "translation": "вызов, испытание",
+      "example": "Running a marathon is a real challenge.",
+      "keyword": "челлендж",
+      "mnemonic": "Челлендж-марафон зовёт: running marathon is challenge — вызов и испытание настоящее."
+    }
   ]
 }

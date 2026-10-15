@@ -5,32 +5,44 @@
     {
       "term": "video call",
       "translation": "видеозвонок",
-      "example": "We have daily video calls with the team."
+      "example": "We have daily video calls with the team.",
+      "keyword": "видосик",
+      "mnemonic": "Ежедневные видеозвонки с командой — шлёт всем видосики с котом: daily video calls."
     },
     {
       "term": "mute",
       "translation": "отключить микрофон",
-      "example": "Please mute yourself when not speaking."
+      "example": "Please mute yourself when not speaking.",
+      "keyword": "мутная",
+      "mnemonic": "Отключи микрофон, пока молчишь, — а то вода мутная в эфире: please mute yourself."
     },
     {
       "term": "share screen",
       "translation": "демонстрировать экран",
-      "example": "Can you share your screen?"
+      "example": "Can you share your screen?",
+      "keyword": "скрин",
+      "mnemonic": "Покажи экран — кинь скрин в чат: share your screen, демонстрировать экран."
     },
     {
       "term": "bandwidth",
       "translation": "пропускная способность",
-      "example": "Poor bandwidth causes lag."
+      "example": "Poor bandwidth causes lag.",
+      "keyword": "бандана",
+      "mnemonic": "Плохая пропускная способность тормозит — затяни бандану и терпи: poor bandwidth causes lag."
     },
     {
       "term": "connectivity",
       "translation": "подключение",
-      "example": "Connectivity issues disrupted the meeting."
+      "example": "Connectivity issues disrupted the meeting.",
+      "keyword": "Коннектикут",
+      "mnemonic": "Проблемы с подключением — будто звонишь из Коннектикута: connectivity issues disrupted the meeting."
     },
     {
       "term": "invite",
       "translation": "приглашение",
-      "example": "Did you get the invite to the meeting?"
+      "example": "Did you get the invite to the meeting?",
+      "keyword": "инвентарь",
+      "mnemonic": "Получил приглашение на встречу — захвати инвентарь: get the invite."
     },
     {
       "term": "webcam",
@@ -40,12 +52,16 @@
     {
       "term": "chat box",
       "translation": "окно чата",
-      "example": "Post the link in the chat box."
+      "example": "Post the link in the chat box.",
+      "keyword": "бокс",
+      "mnemonic": "Кинь ссылку в окно чата — прямо в боксёрский ринг ссылок: post the link in the chat box."
     },
     {
       "term": "frozen",
       "translation": "зависший",
-      "example": "My screen is frozen again."
+      "example": "My screen is frozen again.",
+      "keyword": "морозилка",
+      "mnemonic": "Экран снова завис — будто в морозилке: screen is frozen again, зависший."
     },
     {
       "term": "echo",
@@ -55,7 +71,9 @@
     {
       "term": "volume",
       "translation": "громкость",
-      "example": "Turn the volume down, please."
+      "example": "Turn the volume down, please.",
+      "keyword": "вольер",
+      "mnemonic": "Убавь громкость — вопли из вольера: turn the volume down, громкость."
     }
   ]
 }

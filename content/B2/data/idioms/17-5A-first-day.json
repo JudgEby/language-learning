@@ -5,12 +5,16 @@
     {
       "idiom": "learn the ropes",
       "translation": "освоить азы",
-      "example": "My mentor helped me learn the ropes."
+      "example": "My mentor helped me learn the ropes.",
+      "keyword": "роба",
+      "mnemonic": "Наставник помог освоить азы — выдай робу: learn the ropes."
     },
     {
       "idiom": "a steep learning curve",
       "translation": "крутая кривая обучения",
-      "example": "The first week was a steep learning curve."
+      "example": "The first week was a steep learning curve.",
+      "keyword": "карьера",
+      "mnemonic": "Первая неделя — крутая кривая обучения, как карьера в гору: steep learning curve."
     }
   ]
 }

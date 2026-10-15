@@ -5,7 +5,9 @@
     {
       "term": "lifestyle change",
       "translation": "изменение образа жизни",
-      "example": "She made a major lifestyle change."
+      "example": "She made a major lifestyle change.",
+      "keyword": "чайник",
+      "mnemonic": "Она устроила изменение образа жизни — выкинула даже чайник со свистком: major lifestyle change."
     },
     {
       "term": "wellbeing",
@@ -20,42 +22,58 @@
     {
       "term": "habit",
       "translation": "привычка",
-      "example": "It takes time to break a bad habit."
+      "example": "It takes time to break a bad habit.",
+      "keyword": "хоббит",
+      "mnemonic": "Чтобы сломать плохую привычку, нужен характер хоббита: break a bad habit."
     },
     {
       "term": "commitment",
       "translation": "обязательство, приверженность",
-      "example": "It requires real commitment."
+      "example": "It requires real commitment.",
+      "keyword": "комментарий",
+      "mnemonic": "Нужна настоящая приверженность — комментарием не отделаешься: requires real commitment."
     },
     {
       "term": "cut down on",
       "translation": "сократить потребление",
-      "example": "I cut down on sugar and feel better."
+      "example": "I cut down on sugar and feel better.",
+      "keyword": "скат",
+      "mnemonic": "Срезал сахар, как скат режет волну, — cut down on sugar, сократил потребление."
     },
     {
       "term": "vary my diet",
       "translation": "разнообразить рацион",
-      "example": "I try to vary my diet every week."
+      "example": "I try to vary my diet every week.",
+      "keyword": "диета",
+      "mnemonic": "Старается разнообразить рацион — диета меняется каждую неделю: vary my diet."
     },
     {
       "term": "expand your horizons",
       "translation": "расширить кругозор",
-      "example": "Travel helps expand your horizons."
+      "example": "Travel helps expand your horizons.",
+      "keyword": "горизонт",
+      "mnemonic": "Путешествия раздвигают горизонт — travel helps expand your horizons, кругозор."
     },
     {
       "term": "keep mentally active",
       "translation": "оставаться умственно активным",
-      "example": "Study helps keep mentally active."
+      "example": "Study helps keep mentally active.",
+      "keyword": "актив",
+      "mnemonic": "Учёба держит мозг в активе — study helps keep mentally active, умственно активным."
     },
     {
       "term": "work long hours",
       "translation": "работать долгие часы",
-      "example": "I work long hours in the office."
+      "example": "I work long hours in the office.",
+      "keyword": "лангет",
+      "mnemonic": "Пашет в офисе долгие часы, жуя лангет, — work long hours."
     },
     {
       "term": "keep up my progress",
       "translation": "поддерживать прогресс",
-      "example": "I want to keep up my progress in training."
+      "example": "I want to keep up my progress in training.",
+      "keyword": "прогулка",
+      "mnemonic": "Хочет держать прогресс в тренировках — даже прогулка считается: keep up my progress."
     }
   ]
 }

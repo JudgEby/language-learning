@@ -5,37 +5,51 @@
     {
       "idiom": "sleep in your car",
       "translation": "спать в машине",
-      "example": "You can't sleep in your car in some cities."
+      "example": "You can't sleep in your car in some cities.",
+      "keyword": "сливки",
+      "mnemonic": "Водитель со сливками спит в машине — sleep in your car."
     },
     {
       "idiom": "use your mobile on the flight",
       "translation": "пользоваться телефоном в полёте",
-      "example": "On some airlines you can use your mobile on the flight."
+      "example": "On some airlines you can use your mobile on the flight.",
+      "keyword": "флейта",
+      "mnemonic": "Пассажир с флейтой сидит в полёте с телефоном — use mobile on the flight."
     },
     {
       "idiom": "travel on the outside of trains",
       "translation": "ездить снаружи поездов",
-      "example": "In Bangladesh passengers travel on the outside of trains."
+      "example": "In Bangladesh passengers travel on the outside of trains.",
+      "keyword": "сайд",
+      "mnemonic": "Пассажир висит на сайде поезда — travel on the outside of trains."
     },
     {
       "idiom": "women-only carriages",
       "translation": "вагоны только для женщин",
-      "example": "In Japan there are women-only carriages on some trains."
+      "example": "In Japan there are women-only carriages on some trains.",
+      "keyword": "витамин",
+      "mnemonic": "Пассажирки с витаминами едут в вагонах only — women-only carriages."
     },
     {
       "idiom": "In my country you can't hitchhike",
       "translation": "В моей стране нельзя ездить автостопом",
-      "example": "In my country you can't hitchhike at all."
+      "example": "In my country you can't hitchhike at all.",
+      "keyword": "кантри",
+      "mnemonic": "Ковбой с кантри запрещает автостоп — in my country you can't hitchhike."
     },
     {
       "idiom": "put it in a short phrase",
       "translation": "записывать слово в короткой фразе",
-      "example": "Put a new noun in a short phrase in your notebook."
+      "example": "Put a new noun in a short phrase in your notebook.",
+      "keyword": "шорты",
+      "mnemonic": "Ученик в шортах пишет короткую фразу — put it in a short phrase."
     },
     {
       "idiom": "guess the question",
       "translation": "угадывать вопрос",
-      "example": "Close your book and guess the question."
+      "example": "Close your book and guess the question.",
+      "keyword": "гусь",
+      "mnemonic": "Гусь угадывает вопрос — guess the question."
     }
   ]
 }

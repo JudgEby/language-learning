@@ -5,37 +5,51 @@
     {
       "idiom": "Shall we try it?",
       "translation": "Попробуем?",
-      "example": "Silent disco sounds fun. Shall we try it?"
+      "example": "Silent disco sounds fun. Shall we try it?",
+      "keyword": "шёл",
+      "mnemonic": "Прохожий шёл и предлагает — Shall we try it, попробуем."
     },
     {
       "idiom": "How about going to the theatre?",
       "translation": "Как насчёт театра?",
-      "example": "How about going to the theatre on Saturday?"
+      "example": "How about going to the theatre on Saturday?",
+      "keyword": "терем",
+      "mnemonic": "Друзья в тереме зовут в театр — How about going to the theatre."
     },
     {
       "idiom": "That doesn't sound very good",
       "translation": "Звучит не очень",
-      "example": "Blind date cinema? That doesn't sound very good."
+      "example": "Blind date cinema? That doesn't sound very good.",
+      "keyword": "саунд",
+      "mnemonic": "Критик вырубил саунд — that doesn't sound good, звучит не очень."
     },
     {
       "idiom": "They give us our money back",
       "translation": "Нам вернут деньги",
-      "example": "If we don't like the film, they give us our money back."
+      "example": "If we don't like the film, they give us our money back.",
+      "keyword": "мани",
+      "mnemonic": "Кассир трясёт мани — they give money back, вернут деньги."
     },
     {
       "idiom": "Sounds great",
       "translation": "Звучит отлично",
-      "example": "Theatre in the evening and museum in the afternoon? Sounds great."
+      "example": "Theatre in the evening and museum in the afternoon? Sounds great.",
+      "keyword": "саундтрек",
+      "mnemonic": "Диджей врубил саундтрек — Sounds great, звучит отлично."
     },
     {
       "idiom": "Dinner in the dark?",
       "translation": "Ужин в темноте?",
-      "example": "Let me see. Dinner in the dark?"
+      "example": "Let me see. Dinner in the dark?",
+      "keyword": "дыня",
+      "mnemonic": "Гости с дыней ужинают в темноте — Dinner in the dark."
     },
     {
       "idiom": "meditate for an hour",
       "translation": "медитировать час",
-      "example": "You go with a small group and meditate for an hour."
+      "example": "You go with a small group and meditate for an hour.",
+      "keyword": "медуза",
+      "mnemonic": "Медуза медитирует час — meditate for an hour."
     }
   ]
 }

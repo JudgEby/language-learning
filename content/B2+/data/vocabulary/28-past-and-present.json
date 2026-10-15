@@ -5,22 +5,30 @@
     {
       "term": "memory",
       "translation": "память, воспоминание",
-      "example": "I have a vivid memory of my first day at school."
+      "example": "I have a vivid memory of my first day at school.",
+      "keyword": "мем",
+      "mnemonic": "У меня яркое воспоминание о первом дне в школе — сохрани как мем, это memory."
     },
     {
       "term": "vivid",
       "translation": "яркий, отчётливый",
-      "example": "The memory is still very vivid after all these years."
+      "example": "The memory is still very vivid after all these years.",
+      "keyword": "вид",
+      "mnemonic": "Воспоминание яркое спустя все эти годы — вот это вид, это vivid."
     },
     {
       "term": "recall",
       "translation": "вспоминать",
-      "example": "I can't recall exactly what happened."
+      "example": "I can't recall exactly what happened.",
+      "keyword": "прикол",
+      "mnemonic": "Не могу точно вспомнить, что случилось, — вот так прикол, это recall."
     },
     {
       "term": "reminisce",
       "translation": "предаваться воспоминаниям",
-      "example": "They spent the evening reminiscing about their childhood."
+      "example": "They spent the evening reminiscing about their childhood.",
+      "keyword": "ремикс",
+      "mnemonic": "Весь вечер предавались воспоминаниям о детстве — крутили ремикс детства, это reminisce."
     },
     {
       "term": "nostalgia",
@@ -30,57 +38,79 @@
     {
       "term": "memorable",
       "translation": "запоминающийся",
-      "example": "It was one of the most memorable trips I've ever had."
+      "example": "It was one of the most memorable trips I've ever had.",
+      "keyword": "мемориал",
+      "mnemonic": "Одна из самых запоминающихся поездок — ставь мемориал, это memorable."
     },
     {
       "term": "impression",
       "translation": "впечатление",
-      "example": "The view made a lasting impression on me."
+      "example": "The view made a lasting impression on me.",
+      "keyword": "пресс",
+      "mnemonic": "Вид произвёл на меня неизгладимое впечатление — жмёт как пресс, это impression."
     },
     {
       "term": "childhood",
       "translation": "детство",
-      "example": "She has happy memories of her childhood."
+      "example": "She has happy memories of her childhood.",
+      "keyword": "чадо",
+      "mnemonic": "У неё счастливые воспоминания о детстве — любимое чадо, это childhood."
     },
     {
       "term": "flashback",
       "translation": "воспоминание, флешбэк",
-      "example": "I had a sudden flashback to that day."
+      "example": "I had a sudden flashback to that day.",
+      "keyword": "фляжка",
+      "mnemonic": "Внезапное воспоминание о том дне — хлебнул из фляжки, это flashback."
     },
     {
       "term": "take back",
       "translation": "возвращать мысленно (в прошлое)",
-      "example": "That smell just took me back to my childhood."
+      "example": "That smell just took me back to my childhood.",
+      "keyword": "табак",
+      "mnemonic": "Этот запах вернул меня в детство — пахнет табаком деда, это take back."
     },
     {
       "term": "remind of",
       "translation": "напоминать о",
-      "example": "It reminds me of driving in the car with my mum."
+      "example": "It reminds me of driving in the car with my mum.",
+      "keyword": "ремень",
+      "mnemonic": "Это напоминает мне о поездках с мамой — пристегни ремень, это remind of."
     },
     {
       "term": "bring back memories",
       "translation": "пробуждать воспоминания",
-      "example": "It brings back memories of family holidays."
+      "example": "It brings back memories of family holidays.",
+      "keyword": "бак",
+      "mnemonic": "Это пробуждает воспоминания о семейных праздниках — загляни в бак памяти, это bring back memories."
     },
     {
       "term": "transport back",
       "translation": "переносить назад (во времени)",
-      "example": "Seeing old movies transports me back to my childhood."
+      "example": "Seeing old movies transports me back to my childhood.",
+      "keyword": "транспорт",
+      "mnemonic": "Старые фильмы переносят меня в детство — садись в транспорт времени, это transport back."
     },
     {
       "term": "recapture",
       "translation": "вновь обрести (чувство)",
-      "example": "I'd love to recapture that feeling of freedom."
+      "example": "I'd love to recapture that feeling of freedom.",
+      "keyword": "капкан",
+      "mnemonic": "Хочу вновь обрести чувство свободы — поймай его в капкан, это recapture."
     },
     {
       "term": "relive",
       "translation": "пережить заново",
-      "example": "Looking at old photos can help you relive experiences."
+      "example": "Looking at old photos can help you relive experiences.",
+      "keyword": "ливень",
+      "mnemonic": "Старые фото помогают пережить всё заново — будто попал под ливень прошлого, это relive."
     },
     {
       "term": "recreate",
       "translation": "воссоздать",
-      "example": "I don't think it's possible to recreate a past feeling."
+      "example": "I don't think it's possible to recreate a past feeling.",
+      "keyword": "креатив",
+      "mnemonic": "Воссоздать прошлое чувство, думаю, невозможно — даже креатив не спасёт, это recreate."
     }
   ]
 }

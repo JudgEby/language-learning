@@ -5,42 +5,58 @@
     {
       "phrase": "I'm going to tell you about myself",
       "translation": "Я расскажу вам о себе",
-      "example": "I'm going to tell you about myself and my journey."
+      "example": "I'm going to tell you about myself and my journey.",
+      "keyword": "тел",
+      "mnemonic": "Тел-рассказ у микрофона: I'm going to tell you — я расскажу вам о себе и пути."
     },
     {
       "phrase": "three words that describe me would be",
       "translation": "три слова, которые меня описывают",
-      "example": "Three words that describe me would be creative, patient and optimistic."
+      "example": "Three words that describe me would be creative, patient and optimistic.",
+      "keyword": "дескрайб",
+      "mnemonic": "Дескрайб-три слова на карточке: words that describe me — три слова, которые меня описывают."
     },
     {
       "phrase": "One of the things I like about my lifestyle",
       "translation": "Одна из вещей, которые мне нравятся в моём образе жизни",
-      "example": "One of the things I like about my lifestyle is that I travel a lot."
+      "example": "One of the things I like about my lifestyle is that I travel a lot.",
+      "keyword": "лайфстайл",
+      "mnemonic": "Лайфстайл-чемодан катится: things I like about my lifestyle — одна из вещей в моём образе жизни, люблю путешествия."
     },
     {
       "phrase": "I suppose that's one thing I don't like",
       "translation": "Полагаю, это одна вещь, которая мне не нравится",
-      "example": "I suppose that's one thing I don't like about living in a big city."
+      "example": "I suppose that's one thing I don't like about living in a big city.",
+      "keyword": "сапоуз",
+      "mnemonic": "Сапоуз-вздох в мегаполисе: I suppose that's one thing — полагаю, это одна вещь, которая мне не нравится."
     },
     {
       "phrase": "my idea of perfect happiness",
       "translation": "моё представление об идеальном счастье",
-      "example": "My idea of perfect happiness is spending time with family."
+      "example": "My idea of perfect happiness is spending time with family.",
+      "keyword": "айдиа",
+      "mnemonic": "Айдиа-счастье с семьёй: my idea of perfect happiness — моё представление об идеальном счастье."
     },
     {
       "phrase": "In the summer, I love to go to the coast",
       "translation": "Летом я люблю ездить на побережье",
-      "example": "In the summer, I love to go to the coast."
+      "example": "In the summer, I love to go to the coast.",
+      "keyword": "коуст",
+      "mnemonic": "Коуст-побережье манит летом: I love to go to the coast — летом люблю ездить на побережье."
     },
     {
       "phrase": "What is your greatest achievement?",
       "translation": "Какое твоё самое большое достижение?",
-      "example": "What is your greatest achievement? Starting my own business."
+      "example": "What is your greatest achievement? Starting my own business.",
+      "keyword": "ачивмент",
+      "mnemonic": "Ачивмент-бизнес на витрине: what is your achievement — какое твоё самое большое достижение?"
     },
     {
       "phrase": "Who would be your perfect dinner date?",
       "translation": "С кем бы ты идеально поужинал?",
-      "example": "Who would be your perfect dinner date? Why?"
+      "example": "Who would be your perfect dinner date? Why?",
+      "keyword": "диннер, дейт",
+      "mnemonic": "Диннер-дейт при свечах: who would be your date — с кем бы ты идеально поужинал?"
     }
   ]
 }

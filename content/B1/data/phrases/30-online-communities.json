@@ -2,13 +2,61 @@
   "lessonId": "online-communities",
   "title": "Online communities — фразы",
   "items": [
-    { "phrase": "The website which…", "translation": "Сайт, который…", "example": "The website which I use most is YouTube." },
-    { "phrase": "People who… often…", "translation": "Люди, которые…, часто…", "example": "People who use social media often feel more connected." },
-    { "phrase": "It's a place where…", "translation": "Это место, где…", "example": "It's a place where you can share your ideas." },
-    { "phrase": "The reason why… is…", "translation": "Причина, по которой…, в том, что…", "example": "The reason why I like this site is the design." },
-    { "phrase": "…, which means that…", "translation": "…, что означает, что…", "example": "The site is free, which means that anyone can join." },
-    { "phrase": "I'd recommend it to anyone who…", "translation": "Я бы порекомендовал его любому, кто…", "example": "I'd recommend it to anyone who likes photography." },
-    { "phrase": "What I like about… is…", "translation": "Что мне нравится в…, так это…", "example": "What I like about this forum is the friendly community." },
-    { "phrase": "The best thing about… is that…", "translation": "Лучшее в… — это то, что…", "example": "The best thing about the site is that it's easy to use." }
+    {
+      "phrase": "The website which…",
+      "translation": "Сайт, который…",
+      "example": "The website which I use most is YouTube.",
+      "keyword": "свич",
+      "mnemonic": "Свич щёлкает на сайте: The website which… — сайт, который я смотрю чаще всего."
+    },
+    {
+      "phrase": "People who… often…",
+      "translation": "Люди, которые…, часто…",
+      "example": "People who use social media often feel more connected.",
+      "keyword": "хутор",
+      "mnemonic": "Хутор сидит в соцсетях: People who… often… — люди, которые в соцсетях, часто чувствуют связь."
+    },
+    {
+      "phrase": "It's a place where…",
+      "translation": "Это место, где…",
+      "example": "It's a place where you can share your ideas.",
+      "keyword": "веер",
+      "mnemonic": "Веер идей в одном месте: It's a place where… — это место, где можно делиться идеями."
+    },
+    {
+      "phrase": "The reason why… is…",
+      "translation": "Причина, по которой…, в том, что…",
+      "example": "The reason why I like this site is the design.",
+      "keyword": "резон",
+      "mnemonic": "Резон простой — дизайн: The reason why… is… — причина, по которой нравится сайт, в том, что дизайн."
+    },
+    {
+      "phrase": "…, which means that…",
+      "translation": "…, что означает, что…",
+      "example": "The site is free, which means that anyone can join.",
+      "keyword": "минус",
+      "mnemonic": "Сайт бесплатный, в этом и вся фишка-минус: …, which means that… — что означает, что любой может зайти."
+    },
+    {
+      "phrase": "I'd recommend it to anyone who…",
+      "translation": "Я бы порекомендовал его любому, кто…",
+      "example": "I'd recommend it to anyone who likes photography.",
+      "keyword": "рекорд",
+      "mnemonic": "Ставишь рекорд щедрости: I'd recommend it to anyone who… — я бы порекомендовал его любому, кто любит фото."
+    },
+    {
+      "phrase": "What I like about… is…",
+      "translation": "Что мне нравится в…, так это…",
+      "example": "What I like about this forum is the friendly community.",
+      "keyword": "лайк",
+      "mnemonic": "Жмёшь лайк форуму: What I like about… is… — что мне нравится в форуме, так это дружелюбность."
+    },
+    {
+      "phrase": "The best thing about… is that…",
+      "translation": "Лучшее в… — это то, что…",
+      "example": "The best thing about the site is that it's easy to use.",
+      "keyword": "бест",
+      "mnemonic": "Бест сайта — простота: The best thing about… is that… — лучшее в сайте — это то, что им легко пользоваться."
+    }
   ]
 }

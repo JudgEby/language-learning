@@ -2,17 +2,89 @@
   "lessonId": "time-twins",
   "title": "Time twins — фразы",
   "items": [
-    { "phrase": "meet somebody", "translation": "познакомиться с кем-то", "example": "We met at university and became friends." },
-    { "phrase": "get married", "translation": "пожениться", "example": "After they finished university they got married." },
-    { "phrase": "grow up", "translation": "вырасти", "example": "He grew up in a small town." },
-    { "phrase": "leave school", "translation": "окончить школу, уйти из школы", "example": "He left school at sixteen and started work." },
-    { "phrase": "do well at school", "translation": "хорошо учиться", "example": "She did well at school and got a scholarship." },
-    { "phrase": "make a lot of money", "translation": "заработать много денег", "example": "Their app made a lot of money in a year." },
-    { "phrase": "buy somebody a new house", "translation": "купить кому-то новый дом", "example": "She bought her parents a new house." },
-    { "phrase": "fall in love with", "translation": "влюбиться в", "example": "They fell in love at university and married in 2019." },
-    { "phrase": "change one's mind", "translation": "передумать", "example": "He changed his mind and stayed at the same company." },
-    { "phrase": "be similar to", "translation": "быть похожим на", "example": "The twins are very similar — they both love the sea." },
-    { "phrase": "how often did you ... ?", "translation": "Как часто ты ... ?", "example": "How often did you speak to each other?" },
-    { "phrase": "What were you like ... ?", "translation": "Каким ты был ... ?", "example": "What were you like when you were ten?" }
+    {
+      "phrase": "meet somebody",
+      "translation": "познакомиться с кем-то",
+      "example": "We met at university and became friends.",
+      "keyword": "митинг",
+      "mnemonic": "Митинг знакомств: meet somebody at university — познакомиться с кем-то."
+    },
+    {
+      "phrase": "get married",
+      "translation": "пожениться",
+      "example": "After they finished university they got married.",
+      "keyword": "мэрия",
+      "mnemonic": "Мэрия женит: get married after university — пожениться."
+    },
+    {
+      "phrase": "grow up",
+      "translation": "вырасти",
+      "example": "He grew up in a small town.",
+      "keyword": "гром",
+      "mnemonic": "Мальчик вырос под гром: grow up in a town — вырасти."
+    },
+    {
+      "phrase": "leave school",
+      "translation": "окончить школу, уйти из школы",
+      "example": "He left school at sixteen and started work.",
+      "keyword": "ливень",
+      "mnemonic": "В ливень уходят leave school — уйти из школы."
+    },
+    {
+      "phrase": "do well at school",
+      "translation": "хорошо учиться",
+      "example": "She did well at school and got a scholarship.",
+      "keyword": "велосипед",
+      "mnemonic": "Велосипед за успехи: do well at school — хорошо учиться."
+    },
+    {
+      "phrase": "make a lot of money",
+      "translation": "заработать много денег",
+      "example": "Their app made a lot of money in a year.",
+      "keyword": "мания",
+      "mnemonic": "Мания денег: make a lot of money — заработать много денег."
+    },
+    {
+      "phrase": "buy somebody a new house",
+      "translation": "купить кому-то новый дом",
+      "example": "She bought her parents a new house.",
+      "keyword": "Байкал",
+      "mnemonic": "Дом на Байкале: buy somebody a new house — купить кому-то новый дом."
+    },
+    {
+      "phrase": "fall in love with",
+      "translation": "влюбиться в",
+      "example": "They fell in love at university and married in 2019.",
+      "keyword": "лавка",
+      "mnemonic": "Пара на лавке fall in love — влюбиться."
+    },
+    {
+      "phrase": "change one's mind",
+      "translation": "передумать",
+      "example": "He changed his mind and stayed at the same company.",
+      "keyword": "мина",
+      "mnemonic": "Мина в голове: change one's mind — передумать."
+    },
+    {
+      "phrase": "be similar to",
+      "translation": "быть похожим на",
+      "example": "The twins are very similar — they both love the sea.",
+      "keyword": "семья",
+      "mnemonic": "Близнецы как одна семья: be similar to — быть похожим."
+    },
+    {
+      "phrase": "how often did you ... ?",
+      "translation": "Как часто ты ... ?",
+      "example": "How often did you speak to each other?",
+      "keyword": "афиша",
+      "mnemonic": "Афиша спрашивает how often did you speak — как часто ты говорил."
+    },
+    {
+      "phrase": "What were you like ... ?",
+      "translation": "Каким ты был ... ?",
+      "example": "What were you like when you were ten?",
+      "keyword": "лайк",
+      "mnemonic": "Лайк десятилетнему: what were you like at ten — каким ты был в десять."
+    }
   ]
 }

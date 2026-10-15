@@ -5,37 +5,51 @@
     {
       "idiom": "be out in the wild",
       "translation": "быть в дикой природе",
-      "example": "Have you ever slept outdoors or been out in the wild?"
+      "example": "Have you ever slept outdoors or been out in the wild?",
+      "keyword": "войлок",
+      "mnemonic": "Турист в войлоке среди кустов — be out in the wild, быть в дикой природе, спал под небом."
     },
     {
       "idiom": "sleep outdoors",
       "translation": "спать под открытым небом",
-      "example": "Do you like sleeping outdoors in wild places?"
+      "example": "Do you like sleeping outdoors in wild places?",
+      "keyword": "дурдом",
+      "mnemonic": "Любитель дурдома под звёздами — sleep outdoors, спать под открытым небом в глуши."
     },
     {
       "idiom": "come face to face with an anaconda",
       "translation": "оказаться лицом к лицу с анакондой",
-      "example": "She came face to face with an anaconda in the jungle."
+      "example": "She came face to face with an anaconda in the jungle.",
+      "keyword": "фикус",
+      "mnemonic": "Путешественница с фикусом против змеи — come face to face with an anaconda, оказаться лицом к лицу с анакондой в джунглях."
     },
     {
       "idiom": "freeze with fear",
       "translation": "замереть от страха",
-      "example": "I opened my eyes and froze with fear."
+      "example": "I opened my eyes and froze with fear.",
+      "keyword": "филин",
+      "mnemonic": "С филином на плече оцепенел — freeze with fear, замереть от страха, открыл глаза."
     },
     {
       "idiom": "shut my eyes",
       "translation": "закрыть глаза",
-      "example": "He asked me to shut my eyes and listen."
+      "example": "He asked me to shut my eyes and listen.",
+      "keyword": "айва",
+      "mnemonic": "С айвой в ушах и закрытыми глазами — shut my eyes, закрыть глаза и слушать."
     },
     {
       "idiom": "change my life",
       "translation": "изменить мою жизнь",
-      "example": "I knew that my answer would probably change my life."
+      "example": "I knew that my answer would probably change my life.",
+      "keyword": "линейка",
+      "mnemonic": "С линейкой судьбы на распутье — change my life, изменить мою жизнь ответом."
     },
     {
       "idiom": "prepare meals",
       "translation": "готовить еду",
-      "example": "I helped the women prepare meals in the village."
+      "example": "I helped the women prepare meals in the village.",
+      "keyword": "метла",
+      "mnemonic": "Помощница с метлой на кухне — prepare meals, готовить еду с женщинами в деревне."
     }
   ]
 }

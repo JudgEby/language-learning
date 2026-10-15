@@ -5,57 +5,79 @@
     {
       "term": "headline",
       "translation": "быть хедлайнером",
-      "example": "A famous DJ will headline the festival."
+      "example": "A famous DJ will headline the festival.",
+      "keyword": "лайнер",
+      "mnemonic": "Знаменитый диджей прилетит на лайнере, чтобы быть хедлайнером, — will headline the festival."
     },
     {
       "term": "venue",
       "translation": "площадка, место проведения",
-      "example": "The venue holds 10,000 people."
+      "example": "The venue holds 10,000 people.",
+      "keyword": "Венера",
+      "mnemonic": "Площадка на десять тысяч — как целая Венера народу: the venue holds 10,000."
     },
     {
       "term": "line-up",
       "translation": "состав (участников)",
-      "example": "The line-up includes three international acts."
+      "example": "The line-up includes three international acts.",
+      "keyword": "линейка",
+      "mnemonic": "Состав участников выстроили, как на школьной линейке, — the line-up."
     },
     {
       "term": "eco-friendly",
       "translation": "экологичный",
-      "example": "They organised an eco-friendly festival."
+      "example": "They organised an eco-friendly festival.",
+      "keyword": "френч",
+      "mnemonic": "Пьют кофе френч из эко-стаканчиков — eco-friendly festival, экологичный."
     },
     {
       "term": "carbon-neutral",
       "translation": "углеродно-нейтральный",
-      "example": "The event aims to be carbon-neutral."
+      "example": "The event aims to be carbon-neutral.",
+      "keyword": "карбон",
+      "mnemonic": "Даже карбон на сцене нейтрален к природе — the event aims to be carbon-neutral."
     },
     {
       "term": "act",
       "translation": "выступление, номер",
-      "example": "I saw as many acts as I could."
+      "example": "I saw as many acts as I could.",
+      "keyword": "акт",
+      "mnemonic": "Видел столько актов, сколько влезло в день, — I saw as many acts: выступление за выступлением."
     },
     {
       "term": "atmosphere",
       "translation": "атмосфера",
-      "example": "The atmosphere was amazing."
+      "example": "The atmosphere was amazing.",
+      "keyword": "атом",
+      "mnemonic": "Каждый атом воздуха вибрировал — the atmosphere was amazing, атмосфера."
     },
     {
       "term": "attend",
       "translation": "посещать",
-      "example": "Millions attend festivals every year."
+      "example": "Millions attend festivals every year.",
+      "keyword": "тент",
+      "mnemonic": "Миллионы ставят тенты у сцены каждый год — millions attend festivals, посещают."
     },
     {
       "term": "attract",
       "translation": "привлекать",
-      "example": "The festival attracts travellers from abroad."
+      "example": "The festival attracts travellers from abroad.",
+      "keyword": "трактор",
+      "mnemonic": "Фестиваль затаскивает туристов, как трактор, — attracts travellers from abroad, привлекает."
     },
     {
       "term": "organiser",
       "translation": "организатор",
-      "example": "Festival organisers care about the environment."
+      "example": "Festival organisers care about the environment.",
+      "keyword": "органайзер",
+      "mnemonic": "У организатора всё расписано в органайзере — festival organisers заботятся о природе."
     },
     {
       "term": "festival-goer",
       "translation": "посетитель фестиваля",
-      "example": "Each festival-goer left rubbish behind."
+      "example": "Each festival-goer left rubbish behind.",
+      "keyword": "Гоша",
+      "mnemonic": "Каждый Гоша с фестиваля оставил после себя мусор — each festival-goer left rubbish, посетитель фестиваля."
     }
   ]
 }

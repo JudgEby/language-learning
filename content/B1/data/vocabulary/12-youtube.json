@@ -2,15 +2,75 @@
   "lessonId": "youtube",
   "title": "YouTube — новые слова",
   "items": [
-    { "term": "audience", "translation": "аудитория", "example": "The audience for some YouTube videos may be bigger than for some TV programmes." },
-    { "term": "consumer", "translation": "потребитель", "example": "The creators of the videos are often normal people like us, the consumers." },
-    { "term": "target audience", "translation": "целевая аудитория", "example": "Our target audience is anyone interested in science." },
-    { "term": "upload", "translation": "загружать (видео/файлы)", "example": "We will upload new videos once a month." },
-    { "term": "subscribe", "translation": "подписываться", "example": "I'd never subscribe to a YouTube channel." },
-    { "term": "channel", "translation": "канал", "example": "We are going to create our own video channel." },
-    { "term": "content", "translation": "контент, содержание", "example": "90% of the content on YouTube is terrible." },
-    { "term": "invest in", "translation": "инвестировать в", "example": "Making good quality videos requires a big investment of time and money." },
-    { "term": "competitor / rival", "translation": "конкурент / соперник", "example": "Who are our competitors or rivals in this market?" },
-    { "term": "proposal", "translation": "предложение, заявка", "example": "We are looking for funding to make exciting and innovative videos." }
+    {
+      "term": "audience",
+      "translation": "аудитория",
+      "example": "The audience for some YouTube videos may be bigger than for some TV programmes.",
+      "keyword": "аудиенс",
+      "mnemonic": "Аудиенс-толпа в зале гудит: the audience — аудитория роликов больше, чем у ТВ."
+    },
+    {
+      "term": "consumer",
+      "translation": "потребитель",
+      "example": "The creators of the videos are often normal people like us, the consumers.",
+      "keyword": "консьюмер",
+      "mnemonic": "Консьюмер жуёт попкорн: creators — обычные люди, как мы, consumers — потребители."
+    },
+    {
+      "term": "target audience",
+      "translation": "целевая аудитория",
+      "example": "Our target audience is anyone interested in science.",
+      "keyword": "таргет, аудиенс",
+      "mnemonic": "Таргет-аудиенс в прицеле: our target audience — целевая аудитория любителей науки."
+    },
+    {
+      "term": "upload",
+      "translation": "загружать (видео/файлы)",
+      "example": "We will upload new videos once a month.",
+      "keyword": "аплоад",
+      "mnemonic": "Аплоад-полоса ползёт вверх: we will upload — загрузим новые видео раз в месяц."
+    },
+    {
+      "term": "subscribe",
+      "translation": "подписываться",
+      "example": "I'd never subscribe to a YouTube channel.",
+      "keyword": "сабскрайб",
+      "mnemonic": "Сабскрайб-кнопка манит: I'd never subscribe — ни за что не подпишусь на канал."
+    },
+    {
+      "term": "channel",
+      "translation": "канал",
+      "example": "We are going to create our own video channel.",
+      "keyword": "чэнел",
+      "mnemonic": "Чэнел-коридор из видео: we will create our own channel — канал, свой видеоканал."
+    },
+    {
+      "term": "content",
+      "translation": "контент, содержание",
+      "example": "90% of the content on YouTube is terrible.",
+      "keyword": "контент",
+      "mnemonic": "Контент-лента захламлена: 90% content — контента на YouTube ужасно."
+    },
+    {
+      "term": "invest in",
+      "translation": "инвестировать в",
+      "example": "Making good quality videos requires a big investment of time and money.",
+      "keyword": "инвест",
+      "mnemonic": "Инвест-мешок с деньгами: making videos requires investment — инвестировать в время и деньги."
+    },
+    {
+      "term": "competitor / rival",
+      "translation": "конкурент / соперник",
+      "example": "Who are our competitors or rivals in this market?",
+      "keyword": "компетитор",
+      "mnemonic": "Компетитор-райвал дышит в спину: who are our competitors — конкуренты и соперники на рынке."
+    },
+    {
+      "term": "proposal",
+      "translation": "предложение, заявка",
+      "example": "We are looking for funding to make exciting and innovative videos.",
+      "keyword": "пропозал",
+      "mnemonic": "Пропозал-папка на столе: we look for funding, вот proposal — предложение и заявка на видео."
+    }
   ]
 }

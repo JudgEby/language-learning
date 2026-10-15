@@ -5,17 +5,23 @@
     {
       "idiom": "get down to business",
       "translation": "приступить к делу",
-      "example": "Let's get down to business and discuss the quarterly results."
+      "example": "Let's get down to business and discuss the quarterly results.",
+      "keyword": "бизнес",
+      "mnemonic": "Бизнес без раскачки: get down to business — приступить к делу и обсудить квартал."
     },
     {
       "idiom": "on the same page",
       "translation": "быть на одной волне",
-      "example": "We need to make sure everyone is on the same page before we start."
+      "example": "We need to make sure everyone is on the same page before we start.",
+      "keyword": "пейдж",
+      "mnemonic": "Все на одном пейдже: on the same page — быть на одной волне перед стартом."
     },
     {
       "idiom": "play devil's advocate",
       "translation": "спорить ради спора",
-      "example": "Let me play devil's advocate and ask — what if this plan fails?"
+      "example": "Let me play devil's advocate and ask — what if this plan fails?",
+      "keyword": "девил",
+      "mnemonic": "Девил спорит из вредности: play devil's advocate — спорить ради спора, а вдруг план провалится."
     }
   ]
 }

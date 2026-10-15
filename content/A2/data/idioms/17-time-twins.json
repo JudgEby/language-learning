@@ -5,37 +5,51 @@
     {
       "idiom": "twin sisters",
       "translation": "сёстры-близнецы",
-      "example": "They are twin sisters from Leeds."
+      "example": "They are twin sisters from Leeds.",
+      "keyword": "твид",
+      "mnemonic": "Сёстры в твиде: twin sisters — сёстры-близнецы."
     },
     {
       "idiom": "go separate ways",
       "translation": "разойтись путями",
-      "example": "After school they went separate ways."
+      "example": "After school they went separate ways.",
+      "keyword": "сепаратор",
+      "mnemonic": "После школы через сепаратор: go separate ways — разойтись путями."
     },
     {
       "idiom": "get a job in a bank",
       "translation": "устроиться на работу в банк",
-      "example": "He got a job in a bank in 2015."
+      "example": "He got a job in a bank in 2015.",
+      "keyword": "джоб",
+      "mnemonic": "Джоб в банке: get a job in a bank — устроиться в банк."
     },
     {
       "idiom": "settle down in a village",
       "translation": "обосноваться в деревне",
-      "example": "They married and settled down in a village."
+      "example": "They married and settled down in a village.",
+      "keyword": "сетка",
+      "mnemonic": "Сетка в деревне: settle down in a village — обосноваться в деревне."
     },
     {
       "idiom": "tell your life story",
       "translation": "рассказать историю своей жизни",
-      "example": "In class we told our life stories in 100 words."
+      "example": "In class we told our life stories in 100 words.",
+      "keyword": "шторы",
+      "mnemonic": "Жизнь в сто слов на шторах: tell your life story — рассказать историю жизни."
     },
     {
       "idiom": "It all started when we met",
       "translation": "Всё началось, когда мы встретились",
-      "example": "It all started when they met at university."
+      "example": "It all started when they met at university.",
+      "keyword": "старт",
+      "mnemonic": "Старт в универе: it all started when we met — всё началось, когда мы встретились."
     },
     {
       "idiom": "at first",
       "translation": "сначала",
-      "example": "At first, life was hard for the twins."
+      "example": "At first, life was hard for the twins.",
+      "keyword": "ферзь",
+      "mnemonic": "Ферзь ходит at first — сначала."
     }
   ]
 }

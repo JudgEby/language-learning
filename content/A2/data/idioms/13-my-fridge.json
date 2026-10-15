@@ -5,37 +5,51 @@
     {
       "idiom": "go shopping",
       "translation": "ходить за покупками",
-      "example": "We go shopping every Saturday morning."
+      "example": "We go shopping every Saturday morning.",
+      "keyword": "шоп",
+      "mnemonic": "В субботу в шоп: go shopping — ходить за покупками."
     },
     {
       "idiom": "eat out",
       "translation": "есть вне дома, в кафе",
-      "example": "We often eat out on Fridays."
+      "example": "We often eat out on Fridays.",
+      "keyword": "аут",
+      "mnemonic": "Турист кричит «аут!» и eat out — есть вне дома."
     },
     {
       "idiom": "a full fridge",
       "translation": "полный холодильник",
-      "example": "We have a full fridge before the guests come."
+      "example": "We have a full fridge before the guests come.",
+      "keyword": "фура",
+      "mnemonic": "Фура привезла a full fridge — полный холодильник."
     },
     {
       "idiom": "go off",
       "translation": "испортиться (о еде)",
-      "example": "This milk will go off soon."
+      "example": "This milk will go off soon.",
+      "keyword": "офис",
+      "mnemonic": "Молоко киснет в офисе: go off — испортиться."
     },
     {
       "idiom": "cook from scratch",
       "translation": "готовить с нуля",
-      "example": "She cooks everything from scratch."
+      "example": "She cooks everything from scratch.",
+      "keyword": "скрепка",
+      "mnemonic": "Повар готовит скрепкой cook from scratch — готовить с нуля."
     },
     {
       "idiom": "have a sweet tooth",
       "translation": "быть сладкоежкой",
-      "example": "He has a sweet tooth, he loves chocolate."
+      "example": "He has a sweet tooth, he loves chocolate.",
+      "keyword": "туфля",
+      "mnemonic": "Сладкоежка грызёт туфлю: have a sweet tooth — быть сладкоежкой."
     },
     {
       "idiom": "leftovers for lunch",
       "translation": "остатки еды на обед",
-      "example": "We had leftovers for lunch today."
+      "example": "We had leftovers for lunch today.",
+      "keyword": "лев",
+      "mnemonic": "Лев доедает leftovers for lunch — остатки на обед."
     }
   ]
 }

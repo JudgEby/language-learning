@@ -5,37 +5,51 @@
     {
       "idiom": "build a wooden raft",
       "translation": "построить деревянный плот",
-      "example": "They built a wooden raft and left Peru in April."
+      "example": "They built a wooden raft and left Peru in April.",
+      "keyword": "рафинад",
+      "mnemonic": "Плотники с рафинадом в карманах — build a wooden raft, построить деревянный плот, отплыли из Перу."
     },
     {
       "idiom": "cross the Pacific",
       "translation": "пересечь Тихий океан",
-      "example": "They crossed the Pacific in one hundred and one days."
+      "example": "They crossed the Pacific in one hundred and one days.",
+      "keyword": "пасека",
+      "mnemonic": "Пчеловоды с пасеки гребут — cross the Pacific, пересечь Тихий океан за сто один день."
     },
     {
       "idiom": "crash into the raft",
       "translation": "удариться о плот (о волнах)",
-      "example": "While they were sailing, huge waves crashed into the raft."
+      "example": "While they were sailing, huge waves crashed into the raft.",
+      "keyword": "краш",
+      "mnemonic": "Волны с крашем в борт — crash into the raft, удариться о плот в плавании."
     },
     {
       "idiom": "arrive in Polynesia",
       "translation": "прибыть в Полинезию",
-      "example": "After a long journey they arrived in Polynesia."
+      "example": "After a long journey they arrived in Polynesia.",
+      "keyword": "полынья",
+      "mnemonic": "После долгого пути в полынью влетели — arrive in Polynesia, прибыть в Полинезию."
     },
     {
       "idiom": "write a book about the journey",
       "translation": "написать книгу о путешествии",
-      "example": "He later wrote a book about the journey across the ocean."
+      "example": "He later wrote a book about the journey across the ocean.",
+      "keyword": "журнал",
+      "mnemonic": "Моряк с журналом мемуаров — write a book about the journey, написать книгу о путешествии через океан."
     },
     {
       "idiom": "ride a motorbike",
       "translation": "ехать на мотоцикле",
-      "example": "I was riding my motorbike when it started to rain."
+      "example": "I was riding my motorbike when it started to rain.",
+      "keyword": "мотыга",
+      "mnemonic": "Дождь застал с мотыгой в коляске — ride a motorbike, ехать на мотоцикле под дождём."
     },
     {
       "idiom": "fall asleep",
       "translation": "заснуть",
-      "example": "I was reading when I started to feel tired and fell asleep."
+      "example": "I was reading when I started to feel tired and fell asleep.",
+      "keyword": "слепота",
+      "mnemonic": "Читатель со слепотой зевоты — fall asleep, заснуть за книгой от усталости."
     }
   ]
 }

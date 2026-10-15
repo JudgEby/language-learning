@@ -5,42 +5,58 @@
     {
       "phrase": "put in the hours",
       "translation": "вкладывать время и усилия",
-      "example": "You have to put in the hours."
+      "example": "You have to put in the hours.",
+      "keyword": "хоры",
+      "mnemonic": "Придётся вкладывать время — пой в хорах: put in the hours."
     },
     {
       "phrase": "natural ability",
       "translation": "природные способности",
-      "example": "He has natural ability, but he still practises."
+      "example": "He has natural ability, but he still practises.",
+      "keyword": "натурал",
+      "mnemonic": "Есть природные способности, но он всё равно занимается — натурал: natural ability."
     },
     {
       "phrase": "reach your potential",
       "translation": "раскрыть потенциал",
-      "example": "Coaching helps you reach your potential."
+      "example": "Coaching helps you reach your potential.",
+      "keyword": "потолок",
+      "mnemonic": "Тренер помогает раскрыть потенциал — пробей потолок: reach your potential."
     },
     {
       "phrase": "put hard work in",
       "translation": "вкладывать много труда",
-      "example": "If you put enough hard work in, you will succeed."
+      "example": "If you put enough hard work in, you will succeed.",
+      "keyword": "хард",
+      "mnemonic": "Вложишь труда — преуспеешь: ставь на хард: put hard work in."
     },
     {
       "phrase": "get by on talent alone",
       "translation": "обходиться одним талантом",
-      "example": "You cannot get by on talent alone."
+      "example": "You cannot get by on talent alone.",
+      "keyword": "байк",
+      "mnemonic": "На одном таланте не выедешь — даже на байке: get by on talent alone."
     },
     {
       "phrase": "excel at something",
       "translation": "преуспевать в чём-то",
-      "example": "She excels at languages thanks to daily practice."
+      "example": "She excels at languages thanks to daily practice.",
+      "keyword": "эксель",
+      "mnemonic": "Преуспевает в языках — ведёт эксель: excels at languages."
     },
     {
       "phrase": "get anywhere in life",
       "translation": "добиться чего-то в жизни",
-      "example": "You must work hard to get anywhere in life."
+      "example": "You must work hard to get anywhere in life.",
+      "keyword": "эники",
+      "mnemonic": "Чтобы добиться чего-то в жизни — работай, эники-беники: get anywhere in life."
     },
     {
       "phrase": "run in your blood",
       "translation": "быть у тебя в крови",
-      "example": "Cooking runs in her blood; her family are chefs."
+      "example": "Cooking runs in her blood; her family are chefs.",
+      "keyword": "блат",
+      "mnemonic": "Готовка у неё в крови — по блату от семьи шефов: runs in her blood."
     }
   ]
 }

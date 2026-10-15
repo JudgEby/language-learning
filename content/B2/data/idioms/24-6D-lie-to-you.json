@@ -5,12 +5,16 @@
     {
       "idiom": "would I lie to you?",
       "translation": "разве я тебе совру?",
-      "example": "I won the lottery — would I lie to you?"
+      "example": "I won the lottery — would I lie to you?",
+      "keyword": "лай",
+      "mnemonic": "Выиграл в лотерею — разве совру: лай собак: would I lie to you?"
     },
     {
       "idiom": "pull someone's leg",
       "translation": "разыгрывать",
-      "example": "Don't worry — I'm just pulling your leg."
+      "example": "Don't worry — I'm just pulling your leg.",
+      "keyword": "лего",
+      "mnemonic": "Не волнуйся — я разыгрываю: собери лего: pulling your leg."
     }
   ]
 }

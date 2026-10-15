@@ -5,17 +5,23 @@
     {
       "term": "virtual reality",
       "translation": "виртуальная реальность",
-      "example": "Virtual reality is used in training simulations."
+      "example": "Virtual reality is used in training simulations.",
+      "keyword": "виртуоз",
+      "mnemonic": "Виртуоз в шлеме дирижирует несуществующим оркестром — это virtual reality, виртуальная реальность."
     },
     {
       "term": "artificial intelligence",
       "translation": "искусственный интеллект",
-      "example": "Artificial intelligence is advancing rapidly."
+      "example": "Artificial intelligence is advancing rapidly.",
+      "keyword": "артист",
+      "mnemonic": "Артист репетирует с искусственным интеллектом и спорит с ним о Станиславском — вот он, artificial intelligence."
     },
     {
       "term": "breakthrough",
       "translation": "прорыв",
-      "example": "Scientists announced a major breakthrough."
+      "example": "Scientists announced a major breakthrough.",
+      "keyword": "брешь",
+      "mnemonic": "Пробил брешь в стене лаборатории — вот это breakthrough, прорыв."
     },
     {
       "term": "innovation",
@@ -25,37 +31,51 @@
     {
       "term": "remote",
       "translation": "удалённый",
-      "example": "Many people now work remotely."
+      "example": "Many people now work remotely.",
+      "keyword": "ремонт",
+      "mnemonic": "Работает удалённо, а за спиной вечный ремонт с дрелью — он remote."
     },
     {
       "term": "cutting-edge",
       "translation": "передовой",
-      "example": "They use cutting-edge technology."
+      "example": "They use cutting-edge technology.",
+      "keyword": "ёж",
+      "mnemonic": "Их технологии колючие, как ёж, — всё самое передовое, cutting-edge."
     },
     {
       "term": "researcher",
       "translation": "исследователь",
-      "example": "I work as a researcher in a lab."
+      "example": "I work as a researcher in a lab.",
+      "keyword": "ресёрч",
+      "mnemonic": "Засела за ресёрч в лаборатории с колбами — она researcher, исследователь."
     },
     {
       "term": "prediction",
       "translation": "прогноз",
-      "example": "Scientists made alarming predictions about warming."
+      "example": "Scientists made alarming predictions about warming.",
+      "keyword": "предикт",
+      "mnemonic": "Его предикт про потепление сбылся — scientists made alarming predictions, прогнозы."
     },
     {
       "term": "findings",
       "translation": "результаты, выводы",
-      "example": "The findings showed VR helps students."
+      "example": "The findings showed VR helps students.",
+      "keyword": "фантик",
+      "mnemonic": "Развернули фантики данных — а внутри результаты и выводы: the findings."
     },
     {
       "term": "smart device",
       "translation": "умное устройство",
-      "example": "What's your favourite smart device?"
+      "example": "What's your favourite smart device?",
+      "keyword": "девица",
+      "mnemonic": "Девица советуется с умным устройством даже о супе — вот он, smart device."
     },
     {
       "term": "tech industry",
       "translation": "технологическая индустрия",
-      "example": "Many people in the tech industry support VR."
+      "example": "Many people in the tech industry support VR.",
+      "keyword": "тег",
+      "mnemonic": "Лепит теги на всё подряд в технологической индустрии — he works in the tech industry."
     }
   ]
 }

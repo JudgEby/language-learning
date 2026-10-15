@@ -2,17 +2,89 @@
   "lessonId": "a-lifetime-in-containers",
   "title": "A lifetime in containers — фразы",
   "items": [
-    { "phrase": "a jar of coffee beans", "translation": "банка кофейных зёрен", "example": "They use 13 kilos of coffee beans a year." },
-    { "phrase": "a cup of tea", "translation": "чашка чая", "example": "People in the UK drink about eight cups of tea a day." },
-    { "phrase": "a bottle of water", "translation": "бутылка воды", "example": "How much mineral water do you drink a day?" },
-    { "phrase": "a spoonful of sugar", "translation": "ложка сахара", "example": "A can of soft drink has about seven spoonfuls of sugar." },
-    { "phrase": "on average", "translation": "в среднем", "example": "On average, people drink two litres of water a day." },
-    { "phrase": "in their lifetime", "translation": "за свою жизнь", "example": "How much food does an average person eat in their lifetime?" },
-    { "phrase": "quite a lot of", "translation": "довольно много", "example": "We eat quite a lot of beans in Russia." },
-    { "phrase": "not many / not much", "translation": "немного / мало", "example": "He doesn't drink much coffee and he hasn't got many hobbies." },
-    { "phrase": "How many kilos of ... ?", "translation": "Сколько килограммов ... ?", "example": "How many kilos of coffee does a person use in a year?" },
-    { "phrase": "How many times ... ?", "translation": "Сколько раз ... ?", "example": "How many times does a six-year-old child laugh every day?" },
-    { "phrase": "come in ...", "translation": "продаваться в ...", "example": "Yoghurt comes in a big plastic bottle." },
-    { "phrase": "the top ...-drinkers", "translation": "лучшие ...-любители", "example": "The top coffee-drinkers in the world are from Finland." }
+    {
+      "phrase": "a jar of coffee beans",
+      "translation": "банка кофейных зёрен",
+      "example": "They use 13 kilos of coffee beans a year.",
+      "keyword": "жар",
+      "mnemonic": "На жаре a jar of coffee beans — банка кофейных зёрен."
+    },
+    {
+      "phrase": "a cup of tea",
+      "translation": "чашка чая",
+      "example": "People in the UK drink about eight cups of tea a day.",
+      "keyword": "капля",
+      "mnemonic": "Капля чая: a cup of tea — чашка чая."
+    },
+    {
+      "phrase": "a bottle of water",
+      "translation": "бутылка воды",
+      "example": "How much mineral water do you drink a day?",
+      "keyword": "батл",
+      "mnemonic": "Батл за воду: a bottle of water — бутылка воды."
+    },
+    {
+      "phrase": "a spoonful of sugar",
+      "translation": "ложка сахара",
+      "example": "A can of soft drink has about seven spoonfuls of sugar.",
+      "keyword": "спонсор",
+      "mnemonic": "Спонсор с ложкой: a spoonful of sugar — ложка сахара."
+    },
+    {
+      "phrase": "on average",
+      "translation": "в среднем",
+      "example": "On average, people drink two litres of water a day.",
+      "keyword": "авария",
+      "mnemonic": "Авария в среднем раз в год: on average — в среднем."
+    },
+    {
+      "phrase": "in their lifetime",
+      "translation": "за свою жизнь",
+      "example": "How much food does an average person eat in their lifetime?",
+      "keyword": "лайфхак",
+      "mnemonic": "Лайфхак на всю жизнь: in their lifetime — за свою жизнь."
+    },
+    {
+      "phrase": "quite a lot of",
+      "translation": "довольно много",
+      "example": "We eat quite a lot of beans in Russia.",
+      "keyword": "квас",
+      "mnemonic": "Кваса quite a lot — довольно много."
+    },
+    {
+      "phrase": "not many / not much",
+      "translation": "немного / мало",
+      "example": "He doesn't drink much coffee and he hasn't got many hobbies.",
+      "keyword": "мачо",
+      "mnemonic": "Мачо пьёт not much coffee — немного кофе."
+    },
+    {
+      "phrase": "How many kilos of ... ?",
+      "translation": "Сколько килограммов ... ?",
+      "example": "How many kilos of coffee does a person use in a year?",
+      "keyword": "килт",
+      "mnemonic": "Шотландец в килте взвешивает how many kilos — сколько килограммов."
+    },
+    {
+      "phrase": "How many times ... ?",
+      "translation": "Сколько раз ... ?",
+      "example": "How many times does a six-year-old child laugh every day?",
+      "keyword": "таймер",
+      "mnemonic": "Таймер считает how many times — сколько раз."
+    },
+    {
+      "phrase": "come in ...",
+      "translation": "продаваться в ...",
+      "example": "Yoghurt comes in a big plastic bottle.",
+      "keyword": "камаз",
+      "mnemonic": "Йогурт приезжает на камазе: come in a bottle — продаваться в бутылке."
+    },
+    {
+      "phrase": "the top ...-drinkers",
+      "translation": "лучшие ...-любители",
+      "example": "The top coffee-drinkers in the world are from Finland.",
+      "keyword": "топ",
+      "mnemonic": "Финны в топе: the top coffee-drinkers — лучшие любители кофе."
+    }
   ]
 }

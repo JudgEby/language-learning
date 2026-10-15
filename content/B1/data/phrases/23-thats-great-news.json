@@ -2,14 +2,68 @@
   "lessonId": "thats-great-news",
   "title": "That's great news! — фразы",
   "items": [
-    { "phrase": "I've got some good news (for you).", "translation": "У меня есть хорошие новости (для тебя).", "example": "I've got some good news — I passed my exam!" },
-    { "phrase": "I'm sorry to have to tell you, but …", "translation": "Мне жаль сообщать, но …", "example": "I'm sorry to have to tell you, but we lost the match." },
-    { "phrase": "Bad news, I'm afraid.", "translation": "Плохие новости, боюсь.", "example": "Bad news, I'm afraid — the flight has been cancelled." },
-    { "phrase": "You'll never guess what!", "translation": "Ни за что не угадаешь!", "example": "You'll never guess what — I was promoted!" },
-    { "phrase": "That's fantastic! / That's amazing!", "translation": "Это фантастика! / Потрясающе!", "example": "You've won? That's amazing! Well done!" },
-    { "phrase": "I'm really sorry to hear that.", "translation": "Мне очень жаль это слышать.", "example": "You lost your job? I'm really sorry to hear that." },
-    { "phrase": "That's a shame. / That's awful.", "translation": "Как жаль. / Это ужасно.", "example": "Oh no, that's awful! Are you OK?" },
-    { "phrase": "Congratulations! / Well done!", "translation": "Поздравляю! / Молодец!", "example": "You got the job? Congratulations! I'm so pleased for you." },
-    { "phrase": "You must be delighted.", "translation": "Ты, должно быть, счастлив.", "example": "You passed with flying colours! You must be delighted!" }
+    {
+      "phrase": "I've got some good news (for you).",
+      "translation": "У меня есть хорошие новости (для тебя).",
+      "example": "I've got some good news — I passed my exam!",
+      "keyword": "гудньюс",
+      "mnemonic": "Гуд-ньюс-экзамен сдан: I've got good news — у меня хорошие новости, сдал экзамен!"
+    },
+    {
+      "phrase": "I'm sorry to have to tell you, but …",
+      "translation": "Мне жаль сообщать, но …",
+      "example": "I'm sorry to have to tell you, but we lost the match.",
+      "keyword": "соррител",
+      "mnemonic": "Сорри-тел-матч проигран: I'm sorry to tell — мне жаль сообщать, но мы проиграли."
+    },
+    {
+      "phrase": "Bad news, I'm afraid.",
+      "translation": "Плохие новости, боюсь.",
+      "example": "Bad news, I'm afraid — the flight has been cancelled.",
+      "keyword": "бэдньюс",
+      "mnemonic": "Бэд-ньюс-рейс отменён: bad news I'm afraid — плохие новости, боюсь, рейс отменён."
+    },
+    {
+      "phrase": "You'll never guess what!",
+      "translation": "Ни за что не угадаешь!",
+      "example": "You'll never guess what — I was promoted!",
+      "keyword": "гессвот",
+      "mnemonic": "Гесс-вот-промоушн: you'll never guess what — ни за что не угадаешь, меня повысили!"
+    },
+    {
+      "phrase": "That's fantastic! / That's amazing!",
+      "translation": "Это фантастика! / Потрясающе!",
+      "example": "You've won? That's amazing! Well done!",
+      "keyword": "фантастик",
+      "mnemonic": "Фантастик-победа гремит: that's amazing — это фантастика, потрясающе, молодец!"
+    },
+    {
+      "phrase": "I'm really sorry to hear that.",
+      "translation": "Мне очень жаль это слышать.",
+      "example": "You lost your job? I'm really sorry to hear that.",
+      "keyword": "соррихиар",
+      "mnemonic": "Сорри-хиар-работа потеряна: I'm sorry to hear — мне очень жаль это слышать про работу."
+    },
+    {
+      "phrase": "That's a shame. / That's awful.",
+      "translation": "Как жаль. / Это ужасно.",
+      "example": "Oh no, that's awful! Are you OK?",
+      "keyword": "шейм",
+      "mnemonic": "Шейм-ужас в голосе: that's awful — как жаль, это ужасно, ты в порядке?"
+    },
+    {
+      "phrase": "Congratulations! / Well done!",
+      "translation": "Поздравляю! / Молодец!",
+      "example": "You got the job? Congratulations! I'm so pleased for you.",
+      "keyword": "конгрэтс",
+      "mnemonic": "Конгрэтс-работа твоя: congratulations — поздравляю, молодец, получил работу!"
+    },
+    {
+      "phrase": "You must be delighted.",
+      "translation": "Ты, должно быть, счастлив.",
+      "example": "You passed with flying colours! You must be delighted!",
+      "keyword": "дилайт",
+      "mnemonic": "Дилайт-на-высоте: you must be delighted — ты, должно быть, счастлив, сдал на отлично!"
+    }
   ]
 }

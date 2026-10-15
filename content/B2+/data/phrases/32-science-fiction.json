@@ -5,87 +5,121 @@
     {
       "phrase": "travel through space and time",
       "translation": "путешествовать в пространстве и времени",
-      "example": "The Doctor and her assistants travel through space and time."
+      "example": "The Doctor and her assistants travel through space and time.",
+      "keyword": "спейс",
+      "mnemonic": "Корабль врубил спейс-режим, чтобы путешествовать в пространстве и времени, — спейс гудит travel through space and time."
     },
     {
       "phrase": "deliver goods across the universe",
       "translation": "доставлять товары по вселенной",
-      "example": "A company might deliver goods to different parts of the universe."
+      "example": "A company might deliver goods to different parts of the universe.",
+      "keyword": "универ",
+      "mnemonic": "Курьер из универа взялся доставлять товары по вселенной на практике, — универ гудит deliver goods across the universe."
     },
     {
       "phrase": "have a series of adventures",
       "translation": "пережить череду приключений",
-      "example": "They visit new places and have a series of adventures there."
+      "example": "They visit new places and have a series of adventures there.",
+      "keyword": "серия",
+      "mnemonic": "Серия за серией герои идут, чтобы пережить череду приключений, — серия крутит have a series of adventures."
     },
     {
       "phrase": "gain access to the building",
       "translation": "проникнуть в здание",
-      "example": "They decide to gain access to the building with a fake delivery."
+      "example": "They decide to gain access to the building with a fake delivery.",
+      "keyword": "экспресс",
+      "mnemonic": "Грабители сели на экспресс, чтобы проникнуть в здание с доставкой, — экспресс мчит gain access to the building."
     },
     {
       "phrase": "swap tags",
       "translation": "поменяться бирками",
-      "example": "The Doctor swaps tags with Graham to change his job."
+      "example": "The Doctor swaps tags with Graham to change his job.",
+      "keyword": "своп",
+      "mnemonic": "Доктор устроил своп-обмен: герои смогли поменяться бирками ради должностей, — своп щёлкает swap tags."
     },
     {
       "phrase": "read information on something",
       "translation": "считывать данные с чего-то",
-      "example": "The workers read information on products with a special device."
+      "example": "The workers read information on products with a special device.",
+      "keyword": "ридер",
+      "mnemonic": "Рабочий навёл ридер на товар, чтобы считывать данные с чего-то, — ридер пищит read information on something."
     },
     {
       "phrase": "make regular journeys",
       "translation": "совершать регулярные рейсы",
-      "example": "A shuttle makes regular journeys to and from the station."
+      "example": "A shuttle makes regular journeys to and from the station.",
+      "keyword": "джорни",
+      "mnemonic": "Шаттл по кличке Джорни стал совершать регулярные рейсы к станции, — Джорни пыхтит make regular journeys."
     },
     {
       "phrase": "carry things along",
       "translation": "везти предметы",
-      "example": "Once packed, the order goes on a belt that carries things along."
+      "example": "Once packed, the order goes on a belt that carries things along.",
+      "keyword": "лонг",
+      "mnemonic": "Конвейер-лонг тянет ленту, чтобы везти предметы к упаковке, — лонг ползёт carry things along."
     },
     {
       "phrase": "break down into tiny pieces",
       "translation": "распадаться на мельчайшие частицы",
-      "example": "Parcels break down into tiny pieces and teleport to customers."
+      "example": "Parcels break down into tiny pieces and teleport to customers.",
+      "keyword": "брейк",
+      "mnemonic": "Посылка нажала брейк и стала распадаться на мельчайшие частицы для телепорта, — брейк хрустит break down into tiny pieces."
     },
     {
       "phrase": "The plot is straightforward",
       "translation": "сюжет простой",
-      "example": "The plot is fairly straightforward, but the ending surprises you."
+      "example": "The plot is fairly straightforward, but the ending surprises you.",
+      "keyword": "плот",
+      "mnemonic": "Сюжет плывёт как плот: он простой, но финал топит, — плот качает The plot is straightforward."
     },
     {
       "phrase": "Nothing is as it appears",
       "translation": "всё не то, чем кажется",
-      "example": "Nothing is as it appears to be in this episode."
+      "example": "Nothing is as it appears to be in this episode.",
+      "keyword": "пирс",
+      "mnemonic": "На пирсе мираж: всё не то, чем кажется в эпизоде, — пирс мутнеет Nothing is as it appears."
     },
     {
       "phrase": "face the difficult task of",
       "translation": "столкнуться со сложной задачей",
-      "example": "They face the difficult task of saving the factory crew."
+      "example": "They face the difficult task of saving the factory crew.",
+      "keyword": "фейс",
+      "mnemonic": "Герои сделали фейс кирпичом, чтобы столкнуться со сложной задачей спасения, — фейс держит face the difficult task of."
     },
     {
       "phrase": "race against time",
       "translation": "гонка со временем",
-      "example": "It is a race against time because the system is failing."
+      "example": "It is a race against time because the system is failing.",
+      "keyword": "рейс",
+      "mnemonic": "Экипаж сорвал рейс: началась гонка со временем из-за поломки, — рейс горит race against time."
     },
     {
       "phrase": "tension rises as",
       "translation": "напряжение растёт, когда",
-      "example": "The tension rises as the robots stop obeying orders."
+      "example": "The tension rises as the robots stop obeying orders.",
+      "keyword": "теншн",
+      "mnemonic": "В зале повис теншн: напряжение растёт, когда роботы бунтуют, — теншн звенит tension rises as."
     },
     {
       "phrase": "twist at the end",
       "translation": "поворот в конце",
-      "example": "In a twist at the end, the delivery turns out to be a trap."
+      "example": "In a twist at the end, the delivery turns out to be a trap.",
+      "keyword": "твист",
+      "mnemonic": "Сюжет станцевал твист: случился поворот в конце с ловушкой, — твист крутит twist at the end."
     },
     {
       "phrase": "look like a human",
       "translation": "выглядеть как человек",
-      "example": "The courier looks like a human but is actually a machine."
+      "example": "The courier looks like a human but is actually a machine.",
+      "keyword": "хумус",
+      "mnemonic": "Курьер намазан хумусом, но стал выглядеть как человек, хотя он машина, — хумус маскирует look like a human."
     },
     {
       "phrase": "narrate fictitious events",
       "translation": "рассказывать выдуманные события",
-      "example": "All these films narrate a sequence of fictitious events."
+      "example": "All these films narrate a sequence of fictitious events.",
+      "keyword": "нарратив",
+      "mnemonic": "Режиссёр включил нарратив: стал рассказывать выдуманные события пачками, — нарратив журчит narrate fictitious events."
     }
   ]
 }

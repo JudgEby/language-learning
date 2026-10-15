@@ -2,20 +2,110 @@
   "lessonId": "lets-do-something-new",
   "title": "Let's do something new — новые слова",
   "items": [
-    { "term": "suggest", "translation": "предлагать", "example": "Student A makes a suggestion and Student B responds to it." },
-    { "term": "a suggestion", "translation": "предложение (идея)", "example": "That's a great suggestion, but I'm tired." },
-    { "term": "an exhibition", "translation": "выставка", "example": "There's an exhibition of photographs in the museum." },
-    { "term": "a dance performance", "translation": "танцевальное представление", "example": "The dance performance starts at seven thirty." },
-    { "term": "a concert", "translation": "концерт", "example": "Shall we go to a concert on Friday?" },
-    { "term": "a play", "translation": "пьеса, спектакль", "example": "The play is about life in a small town." },
-    { "term": "a club / clubbing", "translation": "клуб / тусовка", "example": "Clubbing is expensive in London." },
-    { "term": "silent disco", "translation": "тихая дискотека (в наушниках)", "example": "A silent disco: everyone wears headphones and dances to their own music." },
-    { "term": "a blind date", "translation": "свидание вслепую", "example": "Blind Date Cinema — Friday at seven thirty." },
-    { "term": "museum meditation", "translation": "медитация в музее", "example": "Museum Meditation — Saturday and Sunday afternoons." },
-    { "term": "a statue", "translation": "статуя", "example": "There's a famous statue in the square." },
-    { "term": "go clubbing", "translation": "пойти в клубы", "example": "I don't feel like going clubbing tonight." },
-    { "term": "an alternative", "translation": "альтернативный", "example": "Why is the website called Alternative City? — It has unusual events." },
-    { "term": "feel like doing something", "translation": "хотеть, быть в настроении что-то делать", "example": "I don't feel like doing that. It's too cold." },
-    { "term": "What can we do at the weekend?", "translation": "Что мы можем сделать на выходных?", "example": "What can we do at the weekend? — Let's go to a museum." }
+    {
+      "term": "suggest",
+      "translation": "предлагать",
+      "example": "Student A makes a suggestion and Student B responds to it.",
+      "keyword": "суета",
+      "mnemonic": "Студент в суете предлагает идею — he suggests."
+    },
+    {
+      "term": "a suggestion",
+      "translation": "предложение (идея)",
+      "example": "That's a great suggestion, but I'm tired.",
+      "keyword": "саженец",
+      "mnemonic": "Саженец в горшке — это a suggestion, предложение."
+    },
+    {
+      "term": "an exhibition",
+      "translation": "выставка",
+      "example": "There's an exhibition of photographs in the museum.",
+      "keyword": "экспонат",
+      "mnemonic": "Экспонат стоит на выставке — это an exhibition."
+    },
+    {
+      "term": "a dance performance",
+      "translation": "танцевальное представление",
+      "example": "The dance performance starts at seven thirty.",
+      "keyword": "перфоратор",
+      "mnemonic": "Танцор с перфоратором даёт представление — a dance performance."
+    },
+    {
+      "term": "a concert",
+      "translation": "концерт",
+      "example": "Shall we go to a concert on Friday?",
+      "keyword": "консервы",
+      "mnemonic": "Группа играет на консервах — это a concert."
+    },
+    {
+      "term": "a play",
+      "translation": "пьеса, спектакль",
+      "example": "The play is about life in a small town.",
+      "keyword": "плей",
+      "mnemonic": "Актёр жмёт плей — начинается пьеса, a play."
+    },
+    {
+      "term": "a club / clubbing",
+      "translation": "клуб / тусовка",
+      "example": "Clubbing is expensive in London.",
+      "keyword": "клоп",
+      "mnemonic": "Клоп тусит в клубе — это a club."
+    },
+    {
+      "term": "silent disco",
+      "translation": "тихая дискотека (в наушниках)",
+      "example": "A silent disco: everyone wears headphones and dances to their own music.",
+      "keyword": "сало",
+      "mnemonic": "Сало в наушниках танцует на тихой дискотеке — silent disco."
+    },
+    {
+      "term": "a blind date",
+      "translation": "свидание вслепую",
+      "example": "Blind Date Cinema — Friday at seven thirty.",
+      "keyword": "блин",
+      "mnemonic": "Парень с блином идёт на свидание вслепую — a blind date."
+    },
+    {
+      "term": "museum meditation",
+      "translation": "медитация в музее",
+      "example": "Museum Meditation — Saturday and Sunday afternoons.",
+      "keyword": "медуза",
+      "mnemonic": "Медуза медитирует в музее — вот museum meditation."
+    },
+    {
+      "term": "a statue",
+      "translation": "статуя",
+      "example": "There's a famous statue in the square.",
+      "keyword": "статус",
+      "mnemonic": "Мэр повысил статус статуе — это a statue."
+    },
+    {
+      "term": "go clubbing",
+      "translation": "пойти в клубы",
+      "example": "I don't feel like going clubbing tonight.",
+      "keyword": "гоблин",
+      "mnemonic": "Гоблин тащит в клубы — go clubbing."
+    },
+    {
+      "term": "an alternative",
+      "translation": "альтернативный",
+      "example": "Why is the website called Alternative City? — It has unusual events.",
+      "keyword": "альт",
+      "mnemonic": "Певец взял альт — вот an alternative, альтернатива."
+    },
+    {
+      "term": "feel like doing something",
+      "translation": "хотеть, быть в настроении что-то делать",
+      "example": "I don't feel like doing that. It's too cold.",
+      "keyword": "филин",
+      "mnemonic": "Филин в настроении ухать — he feels like doing it, хочет."
+    },
+    {
+      "term": "What can we do at the weekend?",
+      "translation": "Что мы можем сделать на выходных?",
+      "example": "What can we do at the weekend? — Let's go to a museum.",
+      "keyword": "уикенд",
+      "mnemonic": "Турист с уикендом спрашивает что делать — What can we do at the weekend."
+    }
   ]
 }

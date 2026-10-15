@@ -2,17 +2,89 @@
   "lessonId": "what-did-you-do",
   "title": "What did you do? — фразы",
   "items": [
-    { "phrase": "Did you have a good weekend?", "translation": "Как прошли выходные?", "example": "Did you have a good weekend? — Not bad, thanks." },
-    { "phrase": "How was your weekend?", "translation": "Как у тебя прошли выходные?", "example": "How was your weekend? — It was great." },
-    { "phrase": "What did you do?", "translation": "Что ты делал?", "example": "What did you do at the weekend?" },
-    { "phrase": "Where did you go?", "translation": "Куда ты ходил?", "example": "Where did you go? — We went to the beach." },
-    { "phrase": "Who did you go with?", "translation": "С кем ты ходил?", "example": "Who did you go with? — With my sister and two friends." },
-    { "phrase": "Why was that?", "translation": "Почему так?", "example": "You didn't like the film? Why was that?" },
-    { "phrase": "What happened?", "translation": "Что случилось?", "example": "That sounds awful! What happened?" },
-    { "phrase": "Me too.", "translation": "Я тоже.", "example": "Did you go swimming? — Me too!" },
-    { "phrase": "Nothing special.", "translation": "Ничего особенного.", "example": "What did you do on Sunday? — Nothing special." },
-    { "phrase": "That sounds good / interesting / awful!", "translation": "Звучит хорошо / интересно / ужасно!", "example": "You walked ten miles? That sounds awful!" },
-    { "phrase": "Not bad.", "translation": "Неплохо.", "example": "How was your weekend? — Not bad." },
-    { "phrase": "find three things in common", "translation": "найти три общего", "example": "Find three things that you both did." }
+    {
+      "phrase": "Did you have a good weekend?",
+      "translation": "Как прошли выходные?",
+      "example": "Did you have a good weekend? — Not bad, thanks.",
+      "keyword": "викенд",
+      "mnemonic": "Викенд удался: did you have a good weekend — как прошли выходные."
+    },
+    {
+      "phrase": "How was your weekend?",
+      "translation": "Как у тебя прошли выходные?",
+      "example": "How was your weekend? — It was great.",
+      "keyword": "воз",
+      "mnemonic": "Воз выходных: how was your weekend — как прошли выходные."
+    },
+    {
+      "phrase": "What did you do?",
+      "translation": "Что ты делал?",
+      "example": "What did you do at the weekend?",
+      "keyword": "дед",
+      "mnemonic": "Дед спрашивает what did you do — что ты делал."
+    },
+    {
+      "phrase": "Where did you go?",
+      "translation": "Куда ты ходил?",
+      "example": "Where did you go? — We went to the beach.",
+      "keyword": "веер",
+      "mnemonic": "С веером ищут where did you go — куда ты ходил."
+    },
+    {
+      "phrase": "Who did you go with?",
+      "translation": "С кем ты ходил?",
+      "example": "Who did you go with? — With my sister and two friends.",
+      "keyword": "хвост",
+      "mnemonic": "Хвост компании: who did you go with — с кем ты ходил."
+    },
+    {
+      "phrase": "Why was that?",
+      "translation": "Почему так?",
+      "example": "You didn't like the film? Why was that?",
+      "keyword": "вайфай",
+      "mnemonic": "Вайфай пропал: why was that — почему так."
+    },
+    {
+      "phrase": "What happened?",
+      "translation": "Что случилось?",
+      "example": "That sounds awful! What happened?",
+      "keyword": "хэппи",
+      "mnemonic": "Хэппи-энд сорвался: what happened — что случилось."
+    },
+    {
+      "phrase": "Me too.",
+      "translation": "Я тоже.",
+      "example": "Did you go swimming? — Me too!",
+      "keyword": "туфли",
+      "mnemonic": "Туфли тоже пошли купаться: me too — я тоже."
+    },
+    {
+      "phrase": "Nothing special.",
+      "translation": "Ничего особенного.",
+      "example": "What did you do on Sunday? — Nothing special.",
+      "keyword": "Нафаня",
+      "mnemonic": "Нафаня разводит руками: nothing special — ничего особенного."
+    },
+    {
+      "phrase": "That sounds good / interesting / awful!",
+      "translation": "Звучит хорошо / интересно / ужасно!",
+      "example": "You walked ten miles? That sounds awful!",
+      "keyword": "саундтрек",
+      "mnemonic": "Саундтрек на десять миль: that sounds awful — звучит ужасно."
+    },
+    {
+      "phrase": "Not bad.",
+      "translation": "Неплохо.",
+      "example": "How was your weekend? — Not bad.",
+      "keyword": "бедствие",
+      "mnemonic": "Бедствия не было: not bad — неплохо."
+    },
+    {
+      "phrase": "find three things in common",
+      "translation": "найти три общего",
+      "example": "Find three things that you both did.",
+      "keyword": "комод",
+      "mnemonic": "В комоде ищут find three things in common — найти три общего."
+    }
   ]
 }

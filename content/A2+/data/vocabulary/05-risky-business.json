@@ -2,15 +2,15 @@
   "lessonId": "risky-business",
   "title": "Risky business — новые слова",
   "items": [
-    { "term": "sales rep", "translation": "торговый представитель", "example": "A sales rep visits clients to show them new products." },
-    { "term": "IT consultant", "translation": "ИТ-консультант", "example": "The IT consultant helped us set up the new network." },
-    { "term": "architect", "translation": "архитектор", "example": "The architect designed a beautiful modern building." },
-    { "term": "journalist", "translation": "журналист", "example": "She works as a journalist for a local newspaper." },
-    { "term": "accountant", "translation": "бухгалтер", "example": "My accountant helps me with my taxes every year." },
-    { "term": "lawyer", "translation": "юрист", "example": "The lawyer reviewed the contract before I signed it." },
-    { "term": "receptionist", "translation": "администратор на ресепшн", "example": "The receptionist greeted us with a smile." },
-    { "term": "manager", "translation": "менеджер, руководитель", "example": "The manager is responsible for the whole team." },
-    { "term": "retire", "translation": "выходить на пенсию", "example": "My father retired at the age of 65." },
-    { "term": "get fired", "translation": "быть уволенным", "example": "He got fired for always coming to work late." }
+    { "term": "sales rep", "translation": "торговый представитель", "example": "A sales rep visits clients to show them new products.", "keyword": "рэп", "mnemonic": "Рэпер в деловом костюме впаривает клиентам товары — sales rep, торговый представитель." },
+    { "term": "IT consultant", "translation": "ИТ-консультант", "example": "The IT consultant helped us set up the new network.", "keyword": "консультант", "mnemonic": "Консультант с ноутбуком чинит сеть — IT consultant, ИТ-консультант." },
+    { "term": "architect", "translation": "архитектор", "example": "The architect designed a beautiful modern building.", "keyword": "архитектор", "mnemonic": "Архитектор нарисовал дом вверх ногами — the architect, архитектор." },
+    { "term": "journalist", "translation": "журналист", "example": "She works as a journalist for a local newspaper.", "keyword": "журналист", "mnemonic": "Журналист строчит в блокнот на бегу — she works as a journalist местной газеты." },
+    { "term": "accountant", "translation": "бухгалтер", "example": "My accountant helps me with my taxes every year.", "keyword": "аккаунт", "mnemonic": "Бухгалтер свёл все аккаунты в один — accountant помогает с налогами." },
+    { "term": "lawyer", "translation": "юрист", "example": "The lawyer reviewed the contract before I signed it.", "keyword": "лжец", "mnemonic": "Юрист-лжец перечитал контракт трижды — the lawyer проверил всё перед подписью." },
+    { "term": "receptionist", "translation": "администратор на ресепшн", "example": "The receptionist greeted us with a smile.", "keyword": "ресепшн", "mnemonic": "На ресепшн сияют улыбками — the receptionist встретила нас с улыбкой." },
+    { "term": "manager", "translation": "менеджер, руководитель", "example": "The manager is responsible for the whole team.", "keyword": "менеджер", "mnemonic": "Менеджер жонглирует всей командой — the manager отвечает за всех." },
+    { "term": "retire", "translation": "выходить на пенсию", "example": "My father retired at the age of 65.", "keyword": "ретировался", "mnemonic": "Отец ретировался на дачу — retired, вышел на пенсию в 65." },
+    { "term": "get fired", "translation": "быть уволенным", "example": "He got fired for always coming to work late.", "keyword": "фаер", "mnemonic": "Вылетел с работы как фаер-шоу — got fired за вечные опоздания." }
   ]
 }

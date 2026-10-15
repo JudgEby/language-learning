@@ -5,72 +5,100 @@
     {
       "idiom": "the carrot or the stick",
       "translation": "кнут или пряник",
-      "example": "The essay compares the carrot and the stick in motivating people."
+      "example": "The essay compares the carrot and the stick in motivating people.",
+      "keyword": "стик",
+      "mnemonic": "Мотивация выбирает стик-палку: это кнут или пряник в эссе, — стик свистит the carrot or the stick."
     },
     {
       "idiom": "twist someone's arm",
       "translation": "уговорить; надавить",
-      "example": "They twisted his arm to join the gym with them."
+      "example": "They twisted his arm to join the gym with them.",
+      "keyword": "твист",
+      "mnemonic": "Приятели крутанули твист-руку: смогли уговорить и надавить на зал, — твист хрустит twist someone's arm."
     },
     {
       "idiom": "talk someone into something",
       "translation": "уговорить сделать что-то",
-      "example": "She talked me into revising with her every evening."
+      "example": "She talked me into revising with her every evening.",
+      "keyword": "ток",
+      "mnemonic": "Подруга включила ток-убеждение: смогла уговорить сделать что-то каждый вечер, — ток гудит talk someone into something."
     },
     {
       "idiom": "bring someone round",
       "translation": "склонить на свою сторону",
-      "example": "It took weeks to bring the manager round to the four-day week."
+      "example": "It took weeks to bring the manager round to the four-day week.",
+      "keyword": "раунд",
+      "mnemonic": "Менеджера водили раунд за раундом: смогли склонить на свою сторону, — раунд крутится bring someone round."
     },
     {
       "idiom": "sweeten the deal",
       "translation": "подсластить предложение",
-      "example": "Free gifts sweeten the deal for hesitant buyers."
+      "example": "Free gifts sweeten the deal for hesitant buyers.",
+      "keyword": "дил",
+      "mnemonic": "Подарки сделали дил слаще: смогли подсластить предложение, — дил сияет sweeten the deal."
     },
     {
       "idiom": "drive a hard bargain",
       "translation": "жёстко торговаться",
-      "example": "She drove a hard bargain and got a good discount."
+      "example": "She drove a hard bargain and got a good discount.",
+      "keyword": "баргейн",
+      "mnemonic": "Покупательница выбила баргейн-скидку: она стала жёстко торговаться, — баргейн звенит drive a hard bargain."
     },
     {
       "idiom": "give and take",
       "translation": "взаимные уступки",
-      "example": "Negotiation needs give and take from both sides."
+      "example": "Negotiation needs give and take from both sides.",
+      "keyword": "гив-тейк",
+      "mnemonic": "Переговоры как гив-тейк качели: нужны взаимные уступки, — гив-тейк качается give and take."
     },
     {
       "idiom": "meet halfway",
       "translation": "пойти на компромисс",
-      "example": "Parents and teens should meet halfway on screen time."
+      "example": "Parents and teens should meet halfway on screen time.",
+      "keyword": "мит",
+      "mnemonic": "Родители назначили мит-встречу: смогли пойти на компромисс по экранам, — мит мирит meet halfway."
     },
     {
       "idiom": "pull strings",
       "translation": "дёргать за ниточки; использовать связи",
-      "example": "He pulled strings to get his son an interview."
+      "example": "He pulled strings to get his son an interview.",
+      "keyword": "струны",
+      "mnemonic": "Папа дёрнул струны связей: он стал дёргать за ниточки и использовать связи, — струны звенят pull strings."
     },
     {
       "idiom": "play hardball",
       "translation": "действовать жёстко",
-      "example": "The company played hardball and threatened big fines."
+      "example": "The company played hardball and threatened big fines.",
+      "keyword": "хардболл",
+      "mnemonic": "Компания кинула хардболл-мяч: она стала действовать жёстко с штрафами, — хардболл бьёт play hardball."
     },
     {
       "idiom": "soften the blow",
       "translation": "смягчить удар",
-      "example": "A small bonus softened the blow of the pay freeze."
+      "example": "A small bonus softened the blow of the pay freeze.",
+      "keyword": "блоу",
+      "mnemonic": "Премия смягчила блоу-заморозку: смогла смягчить удар, — блоу стихает soften the blow."
     },
     {
       "idiom": "sugar the pill",
       "translation": "подсластить пилюлю",
-      "example": "They sugared the pill of extra homework with a class trip."
+      "example": "They sugared the pill of extra homework with a class trip.",
+      "keyword": "шугар",
+      "mnemonic": "Учитель сыпнул шугар на дз: он смог подсластить пилюлю поездкой, — шугар тает sugar the pill."
     },
     {
       "idiom": "dangle a carrot",
       "translation": "поманить наградой",
-      "example": "Bosses dangle a carrot of promotion to boost effort."
+      "example": "Bosses dangle a carrot of promotion to boost effort.",
+      "keyword": "кэррот",
+      "mnemonic": "Боссы машут кэррот-морковкой: они любят поманить наградой, — кэррот манит dangle a carrot."
     },
     {
       "idiom": "sell someone on an idea",
       "translation": "убедить в идее",
-      "example": "She sold the team on going green with clear numbers."
+      "example": "She sold the team on going green with clear numbers.",
+      "keyword": "селл",
+      "mnemonic": "Лидер провела селл-презентацию: смогла убедить в идее озеленения, — селл сверкает sell someone on an idea."
     }
   ]
 }

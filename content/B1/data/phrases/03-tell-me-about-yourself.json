@@ -5,42 +5,58 @@
     {
       "phrase": "In my opinion...",
       "translation": "По моему мнению...",
-      "example": "In my opinion, you need to be well-prepared for any interview."
+      "example": "In my opinion, you need to be well-prepared for any interview.",
+      "keyword": "опинион",
+      "mnemonic": "Опинион-трибуна гудит: In my opinion — по моему мнению, готовься к интервью."
     },
     {
       "phrase": "I'd have to say...",
       "translation": "Должен сказать...",
-      "example": "I'd have to say that teamwork is the most important skill."
+      "example": "I'd have to say that teamwork is the most important skill.",
+      "keyword": "сей",
+      "mnemonic": "Сей прямо в микрофон: I'd have to say — должен сказать, что тимворк важнее всего."
     },
     {
       "phrase": "One thing I'd like to say is...",
       "translation": "Одна вещь, которую я хотел бы сказать...",
-      "example": "One thing I'd like to say is that online courses are more difficult."
+      "example": "One thing I'd like to say is that online courses are more difficult.",
+      "keyword": "синг",
+      "mnemonic": "Синг-вещь в руке: One thing I'd like to say — одна вещь, которую я хотел бы сказать про курсы."
     },
     {
       "phrase": "For me the most important thing is...",
       "translation": "Для меня самое важное — это...",
-      "example": "For me the most important thing is to enjoy what I do."
+      "example": "For me the most important thing is to enjoy what I do.",
+      "keyword": "импортант",
+      "mnemonic": "Импортант-печать на лбу: the most important thing — для меня самое важное наслаждаться делом."
     },
     {
       "phrase": "Go ahead",
       "translation": "Пожалуйста, продолжайте / Давайте",
-      "example": "Can I ask a question? Sure, go ahead."
+      "example": "Can I ask a question? Sure, go ahead.",
+      "keyword": "ахед",
+      "mnemonic": "Ахед-жезл машет: go ahead — пожалуйста, продолжайте, давайте, спрашивайте."
     },
     {
       "phrase": "That's right",
       "translation": "Верно",
-      "example": "So you live at 106 West Smith Road? That's right."
+      "example": "So you live at 106 West Smith Road? That's right.",
+      "keyword": "райт",
+      "mnemonic": "Райт-галочка в адресе: That's right — верно, живу на Вест Смит Роуд 106."
     },
     {
       "phrase": "I see",
       "translation": "Понимаю",
-      "example": "I couldn't come because I was ill. I see."
+      "example": "I couldn't come because I was ill. I see.",
+      "keyword": "си",
+      "mnemonic": "Си-кивок понимания: I see — понимаю, ты болел и не пришёл."
     },
     {
       "phrase": "Is there anything else?",
       "translation": "Что-нибудь ещё?",
-      "example": "OK ... Is there anything else? Could I ask a question?"
+      "example": "OK ... Is there anything else? Could I ask a question?",
+      "keyword": "элс",
+      "mnemonic": "Элс-хвостик вопроса: Is there anything else — что-нибудь ещё, могу задать вопрос?"
     }
   ]
 }

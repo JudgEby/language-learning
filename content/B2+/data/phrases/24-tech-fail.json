@@ -5,92 +5,128 @@
     {
       "phrase": "battery runs out quickly",
       "translation": "батарея быстро садится",
-      "example": "My phone battery runs out quickly when I use maps."
+      "example": "My phone battery runs out quickly when I use maps.",
+      "keyword": "батарейка",
+      "mnemonic": "Батарейка села и бежит: батарея быстро садится на картах — батарейка пыхтит battery runs out quickly."
     },
     {
       "phrase": "devices won't connect",
       "translation": "устройства не подключаются",
-      "example": "Our devices won't connect to the office wi-fi today."
+      "example": "Our devices won't connect to the office wi-fi today.",
+      "keyword": "девайс",
+      "mnemonic": "Упрямый девайс скрестил руки: устройства не подключаются к вайфаю — девайс бастует devices won't connect."
     },
     {
       "phrase": "forgotten password",
       "translation": "забытый пароль",
-      "example": "A forgotten password is the most annoying tech problem for me."
+      "example": "A forgotten password is the most annoying tech problem for me.",
+      "keyword": "паспорт",
+      "mnemonic": "Забыл пароль и ищешь паспорт как запасной ключ — забытый пароль прячется в forgotten password."
     },
     {
       "phrase": "pop-up ads",
       "translation": "всплывающие объявления",
-      "example": "Pop-up ads keep covering the text I am trying to read."
+      "example": "Pop-up ads keep covering the text I am trying to read.",
+      "keyword": "поплавок",
+      "mnemonic": "Реклама всплывает как поплавок и закрывает текст — всплывающие объявления клюют на pop-up ads."
     },
     {
       "phrase": "slow internet connection",
       "translation": "медленное соединение",
-      "example": "A slow internet connection ruins every video call."
+      "example": "A slow internet connection ruins every video call.",
+      "keyword": "коннектор",
+      "mnemonic": "Коннектор заржавел, вот и медленное соединение рвёт звонки, — коннектор скрипит slow internet connection."
     },
     {
       "phrase": "spam in your inbox",
       "translation": "спам во входящих",
-      "example": "Spam in your inbox wastes time every morning."
+      "example": "Spam in your inbox wastes time every morning.",
+      "keyword": "спам",
+      "mnemonic": "На завтрак спам во входящих вместо яичницы — спам лезет в spam in your inbox."
     },
     {
       "phrase": "print anywhere in the building",
       "translation": "печатать где угодно в здании",
-      "example": "The system lets you print anywhere in the building."
+      "example": "The system lets you print anywhere in the building.",
+      "keyword": "принтер",
+      "mnemonic": "Принтер на колёсиках позволяет печатать где угодно в здании — принтер катается в print anywhere in the building."
     },
     {
       "phrase": "shake hands (devices)",
       "translation": "обмениваться данными (об устройствах)",
-      "example": "The devices shake hands and share files when they are close."
+      "example": "The devices shake hands and share files when they are close.",
+      "keyword": "шейк",
+      "mnemonic": "Два телефона чокнулись как шейком и стали обмениваться данными — шейк связывает shake hands."
     },
     {
       "phrase": "share information",
       "translation": "делиться информацией",
-      "example": "The system allows devices to share information wirelessly."
+      "example": "The system allows devices to share information wirelessly.",
+      "keyword": "шарик",
+      "mnemonic": "Шарик с флешкой летит делиться информацией по воздуху — шарик несёт share information."
     },
     {
       "phrase": "integrated software system",
       "translation": "интегрированная система",
-      "example": "They launched a new integrated software system for the office."
+      "example": "They launched a new integrated software system for the office.",
+      "keyword": "интеграл",
+      "mnemonic": "Интеграл связал все программы в интегрированную систему офиса — интеграл считает integrated software system."
     },
     {
       "phrase": "virtual PA",
       "translation": "виртуальный помощник",
-      "example": "Welcome to your virtual PA, one unified system for everything."
+      "example": "Welcome to your virtual PA, one unified system for everything.",
+      "keyword": "пиар",
+      "mnemonic": "Виртуальный пиар-агент стал помощником на все случаи — пиар мелькает в virtual PA."
     },
     {
       "phrase": "changes the game",
       "translation": "меняет правила игры",
-      "example": "One unified system that really changes the game."
+      "example": "One unified system that really changes the game.",
+      "keyword": "геймпад",
+      "mnemonic": "Новый геймпад полностью меняет правила игры в офисе — геймпад жмёт changes the game."
     },
     {
       "phrase": "print a document",
       "translation": "распечатать документ",
-      "example": "Please print a document on paper for the meeting."
+      "example": "Please print a document on paper for the meeting.",
+      "keyword": "принт",
+      "mnemonic": "Нажал «принт» и смог распечатать документ к совещанию — принт шуршит print a document."
     },
     {
       "phrase": "adjust your settings",
       "translation": "настроить параметры",
-      "example": "Adjust your settings so the volume works how you want."
+      "example": "Adjust your settings so the volume works how you want.",
+      "keyword": "джаст",
+      "mnemonic": "Мастер Джаст подкрутил ручки и помог настроить параметры звука — джаст крутит adjust your settings."
     },
     {
       "phrase": "update your apps",
       "translation": "обновить приложения",
-      "example": "Update your apps so they are the latest version."
+      "example": "Update your apps so they are the latest version.",
+      "keyword": "апдейт",
+      "mnemonic": "Нажал апдейт и сумел обновить приложения до свежих — апдейт качает update your apps."
     },
     {
       "phrase": "recharge the battery when low",
       "translation": "заряжать батарею",
-      "example": "Recharge the battery when it is low before you leave home."
+      "example": "Recharge the battery when it is low before you leave home.",
+      "keyword": "чарджи",
+      "mnemonic": "Поставь телефон на чарджи, чтобы заряжать батарею перед выходом, — чарджи гудит recharge the battery when low."
     },
     {
       "phrase": "take into account",
       "translation": "принимать во внимание",
-      "example": "We need to take into account the needs of everyone."
+      "example": "We need to take into account the needs of everyone.",
+      "keyword": "аккаунт",
+      "mnemonic": "Завёл аккаунт для каждого мнения, чтобы принимать во внимание всех, — аккаунт хранит take into account."
     },
     {
       "phrase": "the main issue is",
       "translation": "главная проблема в том",
-      "example": "I'd say that connection drops are the main issue here."
+      "example": "I'd say that connection drops are the main issue here.",
+      "keyword": "ишью",
+      "mnemonic": "Журнал «Ишью» вышел с заголовком: главная проблема в том, что рвётся связь — ишью кричит the main issue is."
     }
   ]
 }

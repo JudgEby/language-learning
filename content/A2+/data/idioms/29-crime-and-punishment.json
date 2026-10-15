@@ -5,37 +5,51 @@
     {
       "idiom": "write graffiti on a wall",
       "translation": "рисовать граффити на стене",
-      "example": "Two boys were caught writing large graffiti on a wall."
+      "example": "Two boys were caught writing large graffiti on a wall.",
+      "keyword": "графин",
+      "mnemonic": "Пацаны с графином краски — write graffiti on a wall, рисовать граффити на стене, поймали двоих."
     },
     {
       "idiom": "do unpaid work to help your town",
       "translation": "выполнять неоплачиваемую работу на пользу города",
-      "example": "They do unpaid work to help their town or city."
+      "example": "They do unpaid work to help their town or city.",
+      "keyword": "аншлаг",
+      "mnemonic": "Штрафники с аншлагом метлы — do unpaid work to help your town, выполнять неоплачиваемую работу на пользу города."
     },
     {
       "idiom": "cheat someone to make money",
       "translation": "обмануть кого-то ради денег",
-      "example": "He was cheating people to make money from them."
+      "example": "He was cheating people to make money from them.",
+      "keyword": "читер",
+      "mnemonic": "Читер в казино мухлюет — cheat someone to make money, обмануть кого-то ради денег."
     },
     {
       "idiom": "pay an amount of money",
       "translation": "заплатить сумму денег",
-      "example": "You have to pay an amount of money as a fine."
+      "example": "You have to pay an amount of money as a fine.",
+      "keyword": "амулет",
+      "mnemonic": "Казначей с амулетом штрафа — pay an amount of money, заплатить сумму денег как штраф."
     },
     {
       "idiom": "go sailing illegally in dangerous waters",
       "translation": "выйти под парусом незаконно в опасных водах",
-      "example": "A couple went sailing illegally in dangerous waters."
+      "example": "A couple went sailing illegally in dangerous waters.",
+      "keyword": "селёдка",
+      "mnemonic": "Парочка с селёдкой под парусом — go sailing illegally in dangerous waters, выйти под парусом незаконно в опасных водах."
     },
     {
       "idiom": "spend hours looking for someone",
       "translation": "потратить часы на поиски кого-то",
-      "example": "A search team had to spend hours looking for them."
+      "example": "A search team had to spend hours looking for them.",
+      "keyword": "уборка",
+      "mnemonic": "Поисковики с уборкой фонарей — spend hours looking for someone, потратить часы на поиски кого-то."
     },
     {
       "idiom": "play loud music late at night",
       "translation": "включать громкую музыку поздно ночью",
-      "example": "He was arrested for playing loud music late at night."
+      "example": "He was arrested for playing loud music late at night.",
+      "keyword": "ладушки",
+      "mnemonic": "Сосед хлопает в ладушки ночью — play loud music late at night, включать громкую музыку поздно ночью, арестовали."
     }
   ]
 }

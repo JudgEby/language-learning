@@ -5,87 +5,121 @@
     {
       "term": "algorithm",
       "translation": "алгоритм",
-      "example": "Social media platforms use algorithms to decide what content to show you."
+      "example": "Social media platforms use algorithms to decide what content to show you.",
+      "keyword": "а логарифм",
+      "mnemonic": "Соцсети решают контент через а логарифм — вот тебе algorithm."
     },
     {
       "term": "data",
       "translation": "данные",
-      "example": "The algorithm processes vast amounts of data to make accurate predictions."
+      "example": "The algorithm processes vast amounts of data to make accurate predictions.",
+      "keyword": "да",
+      "mnemonic": "Алгоритм жуёт данные и говорит «да» — вот тебе data."
     },
     {
       "term": "process",
       "translation": "обрабатывать",
-      "example": "The computer can process millions of calculations per second."
+      "example": "The computer can process millions of calculations per second.",
+      "keyword": "процесс",
+      "mnemonic": "Компьютер обрабатывает миллионы в процессе — вот тебе process."
     },
     {
       "term": "input",
       "translation": "вводные данные, ввод",
-      "example": "The input for the program is a set of user preferences."
+      "example": "The input for the program is a set of user preferences.",
+      "keyword": "и путь",
+      "mnemonic": "Вводные данные и путь программы — вот тебе input."
     },
     {
       "term": "output",
       "translation": "вывод, результат",
-      "example": "The output of the algorithm was a list of recommended products."
+      "example": "The output of the algorithm was a list of recommended products.",
+      "keyword": "а тут",
+      "mnemonic": "Вывод и результат — а тут список товаров, вот тебе output."
     },
     {
       "term": "program",
       "translation": "программа",
-      "example": "She wrote a program that can translate text into multiple languages."
+      "example": "She wrote a program that can translate text into multiple languages.",
+      "keyword": "погром",
+      "mnemonic": "Программа переводит тексты после погрома — вот тебе program."
     },
     {
       "term": "code",
       "translation": "код",
-      "example": "The developers spent hours debugging the code."
+      "example": "The developers spent hours debugging the code.",
+      "keyword": "кот",
+      "mnemonic": "Разработчики чинят код с котом на коленях — вот тебе code."
     },
     {
       "term": "predict",
       "translation": "предсказывать",
-      "example": "Machine learning models can predict consumer behaviour with high accuracy."
+      "example": "Machine learning models can predict consumer behaviour with high accuracy.",
+      "keyword": "предок",
+      "mnemonic": "Модель предсказывает поведение, как предок гадал, — вот тебе predict."
     },
     {
       "term": "compute",
       "translation": "вычислять",
-      "example": "The system needs to compute the shortest route between two locations."
+      "example": "The system needs to compute the shortest route between two locations.",
+      "keyword": "компот",
+      "mnemonic": "Система вычисляет маршрут через компот — вот тебе compute."
     },
     {
       "term": "analyse",
       "translation": "анализировать",
-      "example": "Data scientists analyse trends to help businesses make better decisions."
+      "example": "Data scientists analyse trends to help businesses make better decisions.",
+      "keyword": "наливай",
+      "mnemonic": "Учёные анализируют тренды — наливай бизнесу пользы, вот тебе analyse."
     },
     {
       "term": "dictate",
       "translation": "диктовать, предписывать",
-      "example": "An algorithm will dictate how much the bank will lend us."
+      "example": "An algorithm will dictate how much the bank will lend us.",
+      "keyword": "тик-так",
+      "mnemonic": "Алгоритм диктует кредит под тик-так — вот тебе dictate."
     },
     {
       "term": "determine",
       "translation": "определять",
-      "example": "It will determine what adverts we see online."
+      "example": "It will determine what adverts we see online.",
+      "keyword": "термин",
+      "mnemonic": "Рекламу определяет термин онлайна — вот тебе determine."
     },
     {
       "term": "categorise",
       "translation": "распределять по категориям",
-      "example": "The algorithm categorised me as a certain type of user."
+      "example": "The algorithm categorised me as a certain type of user.",
+      "keyword": "кот гаразд",
+      "mnemonic": "Алгоритм распределил меня — кот гаразд на типы, вот тебе categorise."
     },
     {
       "term": "generate",
       "translation": "порождать, создавать",
-      "example": "It will generate decisions that are skewed."
+      "example": "It will generate decisions that are skewed.",
+      "keyword": "генерал",
+      "mnemonic": "Решения порождает генерал с перекосом — вот тебе generate."
     },
     {
       "term": "reinforce",
       "translation": "усиливать, подкреплять",
-      "example": "The algorithm will then reinforce the prejudice."
+      "example": "The algorithm will then reinforce the prejudice.",
+      "keyword": "реформа",
+      "mnemonic": "Предубеждение усиливает реформа алгоритма — вот тебе reinforce."
     },
     {
       "term": "miscalculate",
       "translation": "просчитаться, неверно подсчитать",
-      "example": "A machine is less likely to miscalculate than a human."
+      "example": "A machine is less likely to miscalculate than a human.",
+      "keyword": "миска",
+      "mnemonic": "Машина реже просчитается, чем человек с миской, — вот тебе miscalculate."
     },
     {
       "term": "forecast",
       "translation": "прогнозировать",
-      "example": "You can forecast where and when crimes may take place."
+      "example": "You can forecast where and when crimes may take place.",
+      "keyword": "форточка",
+      "mnemonic": "Прогнозировать преступления через форточку — вот тебе forecast."
     }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "How are things?",
       "translation": "Как дела? (неформально)",
-      "example": "Hi, Anna! How are things with you?"
+      "example": "Hi, Anna! How are things with you?",
+      "keyword": "сингл",
+      "mnemonic": "Певец выпустил сингл и спрашивает фанатов how are things — как дела."
     },
     {
       "idiom": "Pleased to meet you",
       "translation": "Приятно познакомиться",
-      "example": "Pleased to meet you, Mr Rossi."
+      "example": "Pleased to meet you, Mr Rossi.",
+      "keyword": "плиз",
+      "mnemonic": "Англичанин на каждый чих отвечает «плиз» — pleased to meet you, приятно познакомиться."
     },
     {
       "idiom": "See you soon",
       "translation": "До скорого",
-      "example": "It was nice to meet you. See you soon!"
+      "example": "It was nice to meet you. See you soon!",
+      "keyword": "сундук",
+      "mnemonic": "Пират захлопывает сундук с картой: see you soon — до скорого."
     },
     {
       "idiom": "Have a nice day",
       "translation": "Хорошего дня",
-      "example": "Bye, students! Have a nice day."
+      "example": "Bye, students! Have a nice day.",
+      "keyword": "дай",
+      "mnemonic": "Прохожий протягивает шапку: «дай!» — have a nice day, хорошего дня."
     },
     {
       "idiom": "Welcome to London",
       "translation": "Добро пожаловать в Лондон",
-      "example": "Welcome to London, Omar!"
+      "example": "Welcome to London, Omar!",
+      "keyword": "лондонка",
+      "mnemonic": "Бифитер в лондонке распахивает ворота: welcome to London — добро пожаловать в Лондон."
     },
     {
       "idiom": "Say hello to your wife",
       "translation": "Передавай привет жене",
-      "example": "Say hello to your wife from me."
+      "example": "Say hello to your wife from me.",
+      "keyword": "холодец",
+      "mnemonic": "Тёща суёт зятю холодец: say hello to your wife — передавай привет жене."
     },
     {
       "idiom": "Good to see you again",
       "translation": "Рад снова тебя видеть",
-      "example": "Hi, Jenny! Good to see you again."
+      "example": "Hi, Jenny! Good to see you again.",
+      "keyword": "егерь",
+      "mnemonic": "Егерь снова машет фонарём в лесу: good to see you again — рад снова тебя видеть."
     }
   ]
 }

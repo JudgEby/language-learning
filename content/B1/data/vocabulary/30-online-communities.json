@@ -2,17 +2,89 @@
   "lessonId": "online-communities",
   "title": "Online communities — новые слова",
   "items": [
-    { "term": "website", "translation": "веб-сайт", "example": "I run a website about travel." },
-    { "term": "forum", "translation": "форум", "example": "There's a forum where people discuss books." },
-    { "term": "member", "translation": "участник, член", "example": "She is a member of several online groups." },
-    { "term": "upload", "translation": "загружать", "example": "You can upload photos to the site." },
-    { "term": "download", "translation": "скачивать", "example": "I downloaded the app yesterday." },
-    { "term": "comment", "translation": "комментарий / комментировать", "example": "Please leave a comment below the video." },
-    { "term": "social networking", "translation": "социальная сеть", "example": "Facebook was one of the first social networking sites." },
-    { "term": "search engine", "translation": "поисковая система", "example": "Google is the most popular search engine." },
-    { "term": "blog", "translation": "блог", "example": "He writes a blog about photography." },
-    { "term": "rating site", "translation": "сайт с рейтингами / отзывами", "example": "I use rating sites to choose restaurants." },
-    { "term": "news site", "translation": "новостной сайт", "example": "I check the news site every morning." },
-    { "term": "followers", "translation": "подписчики", "example": "She has over two thousand followers on Instagram." }
+    {
+      "term": "website",
+      "translation": "веб-сайт",
+      "example": "I run a website about travel.",
+      "keyword": "вебсайт",
+      "mnemonic": "Вебсайт-путешествий открыт: I run a website — веб-сайт про travel веду сам."
+    },
+    {
+      "term": "forum",
+      "translation": "форум",
+      "example": "There's a forum where people discuss books.",
+      "keyword": "форум",
+      "mnemonic": "Форум-книголюбы спорят: there's a forum — форум, где обсуждают книги."
+    },
+    {
+      "term": "member",
+      "translation": "участник, член",
+      "example": "She is a member of several online groups.",
+      "keyword": "мембер",
+      "mnemonic": "Мембер пяти чатов: she is a member — участник и член онлайн-групп."
+    },
+    {
+      "term": "upload",
+      "translation": "загружать",
+      "example": "You can upload photos to the site.",
+      "keyword": "аплоад",
+      "mnemonic": "Аплоад-фото ползут: you can upload — загружать фото на сайт."
+    },
+    {
+      "term": "download",
+      "translation": "скачивать",
+      "example": "I downloaded the app yesterday.",
+      "keyword": "даунлоад",
+      "mnemonic": "Даунлоад-приложение качается: I downloaded — скачал приложение вчера."
+    },
+    {
+      "term": "comment",
+      "translation": "комментарий / комментировать",
+      "example": "Please leave a comment below the video.",
+      "keyword": "коммент",
+      "mnemonic": "Коммент под видео: leave a comment — оставь комментарий под видео."
+    },
+    {
+      "term": "social networking",
+      "translation": "социальная сеть",
+      "example": "Facebook was one of the first social networking sites.",
+      "keyword": "соушл, нетворк",
+      "mnemonic": "Соушл-нетворк-фейсбук гудит: social networking — социальная сеть первая."
+    },
+    {
+      "term": "search engine",
+      "translation": "поисковая система",
+      "example": "Google is the most popular search engine.",
+      "keyword": "сёрч, энджин",
+      "mnemonic": "Сёрч-энджин-гугл ищет: Google is search engine — поисковая система популярная."
+    },
+    {
+      "term": "blog",
+      "translation": "блог",
+      "example": "He writes a blog about photography.",
+      "keyword": "блог",
+      "mnemonic": "Блог-фотограф щёлкает: he writes a blog — блог про фотографию ведёт."
+    },
+    {
+      "term": "rating site",
+      "translation": "сайт с рейтингами / отзывами",
+      "example": "I use rating sites to choose restaurants.",
+      "keyword": "рейтинг, сайт",
+      "mnemonic": "Рейтинг-сайт-рестораны: I use rating sites — сайты с рейтингами, чтобы выбрать ресторан."
+    },
+    {
+      "term": "news site",
+      "translation": "новостной сайт",
+      "example": "I check the news site every morning.",
+      "keyword": "ньюс, сайт",
+      "mnemonic": "Ньюс-сайт утром: I check news site — новостной сайт каждое утро."
+    },
+    {
+      "term": "followers",
+      "translation": "подписчики",
+      "example": "She has over two thousand followers on Instagram.",
+      "keyword": "фолловерс",
+      "mnemonic": "Фолловерс-толпа в инсте: two thousand followers — подписчики у неё в Instagram."
+    }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "use rats after an earthquake",
       "translation": "использовать крыс после землетрясения",
-      "example": "Why do we use rats after an earthquake?"
+      "example": "Why do we use rats after an earthquake?",
+      "keyword": "рация",
+      "mnemonic": "Спасатели с рацией и крысами — use rats after an earthquake, использовать крыс после землетрясения, зачем."
     },
     {
       "idiom": "the army uses dolphins",
       "translation": "армия использует дельфинов",
-      "example": "Why does the army use dolphins?"
+      "example": "Why does the army use dolphins?",
+      "keyword": "дальнобойщик",
+      "mnemonic": "Адмирал-дальнобойщик свистит стае — the army uses dolphins, армия использует дельфинов, зачем."
     },
     {
       "idiom": "use seals for research in the ocean",
       "translation": "использовать тюленей для исследований в океане",
-      "example": "We use seals for research in the ocean."
+      "example": "We use seals for research in the ocean.",
+      "keyword": "сельдь",
+      "mnemonic": "Океанологи с сельдью в аквариуме — use seals for research in the ocean, использовать тюленей для исследований."
     },
     {
       "idiom": "guard the prisoners",
       "translation": "охранять заключённых",
-      "example": "Maybe they use the dogs to guard the prisoners."
+      "example": "Maybe they use the dogs to guard the prisoners.",
+      "keyword": "гардемарин",
+      "mnemonic": "Псы-гардемарины на вышках — guard the prisoners, охранять заключённых собаками."
     },
     {
       "idiom": "smell drugs",
       "translation": "чуять наркотики",
-      "example": "Perhaps they can smell drugs from far away."
+      "example": "Perhaps they can smell drugs from far away.",
+      "keyword": "смола",
+      "mnemonic": "Ищейка в смоле принюхивается — smell drugs, чуять наркотики издалека."
     },
     {
       "idiom": "live in very cold temperatures",
       "translation": "жить при очень низких температурах",
-      "example": "It might be because they can live in very cold temperatures."
+      "example": "It might be because they can live in very cold temperatures.",
+      "keyword": "тельняшка",
+      "mnemonic": "Пингвины в тельняшках мерзнут — live in very cold temperatures, жить при очень низких температурах, поэтому."
     },
     {
       "idiom": "definitely not to attack people",
       "translation": "точно не для нападения на людей",
-      "example": "It is definitely not to attack people in the street."
+      "example": "It is definitely not to attack people in the street.",
+      "keyword": "аптека",
+      "mnemonic": "Добряки с аптекой вместо дубинок — definitely not to attack people, точно не для нападения на людей на улице."
     }
   ]
 }

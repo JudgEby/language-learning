@@ -5,37 +5,51 @@
     {
       "idiom": "waste time at work",
       "translation": "тратить время на работе",
-      "example": "Nearly half of us waste our time at work on Fridays."
+      "example": "Nearly half of us waste our time at work on Fridays.",
+      "keyword": "вист",
+      "mnemonic": "Лентяи с вистом в офисе — waste time at work, тратить время на работе по пятницам."
     },
     {
       "idiom": "look up funny news articles",
       "translation": "искать смешные новости",
-      "example": "They look up funny news articles on the internet."
+      "example": "They look up funny news articles on the internet.",
+      "keyword": "фанатка",
+      "mnemonic": "Офисные фанатки ржут — look up funny news articles, искать смешные новости в сети."
     },
     {
       "idiom": "watch silly cat videos",
       "translation": "смотреть глупые видео с котами",
-      "example": "We watch silly cat videos when we need a break."
+      "example": "We watch silly cat videos when we need a break.",
+      "keyword": "каталог",
+      "mnemonic": "Перекур с каталогом котов — watch silly cat videos, смотреть глупые видео с котами."
     },
     {
       "idiom": "plan our next holiday",
       "translation": "планировать следующий отпуск",
-      "example": "We plan our next holiday instead of working."
+      "example": "We plan our next holiday instead of working.",
+      "keyword": "хоккей",
+      "mnemonic": "Мечтатели с хоккеем на Бали — plan our next holiday, планировать следующий отпуск вместо работы."
     },
     {
       "idiom": "be bad for relationships",
       "translation": "вредить отношениям",
-      "example": "Many people think the internet can be bad for relationships."
+      "example": "Many people think the internet can be bad for relationships.",
+      "keyword": "беда",
+      "mnemonic": "Сеть-беда для любви — be bad for relationships, вредить отношениям, так думают многие."
     },
     {
       "idiom": "argue with their partners",
       "translation": "ссориться со своими партнёрами",
-      "example": "They argue with their partners who spend too much time online."
+      "example": "They argue with their partners who spend too much time online.",
+      "keyword": "арена",
+      "mnemonic": "Пары на арене вайфая — argue with their partners, ссориться со своими партнёрами, что сидят в сети."
     },
     {
       "idiom": "get on with life",
       "translation": "жить дальше",
-      "example": "Get off the internet and get on with life."
+      "example": "Get off the internet and get on with life.",
+      "keyword": "лимон",
+      "mnemonic": "Слезай с сети с лимоном бодрости — get on with life, жить дальше."
     }
   ]
 }

@@ -5,72 +5,100 @@
     {
       "idiom": "cry buckets",
       "translation": "рыдать в три ручья",
-      "example": "I cried buckets when my favourite character died at the end."
+      "example": "I cried buckets when my favourite character died at the end.",
+      "keyword": "бак",
+      "mnemonic": "Фанат роняет слёзы в бак: он стал рыдать в три ручья, — бак полнится cry buckets."
     },
     {
       "idiom": "a happy ending",
       "translation": "счастливый финал",
-      "example": "Readers demanded a happy ending instead of the dark finale."
+      "example": "Readers demanded a happy ending instead of the dark finale.",
+      "keyword": "эндинг",
+      "mnemonic": "Читатели требуют эндинг-переписку: им нужен счастливый финал, — эндинг светит a happy ending."
     },
     {
       "idiom": "a plot twist",
       "translation": "неожиданный поворот сюжета",
-      "example": "The story's plot twist left the whole forum arguing for weeks."
+      "example": "The story's plot twist left the whole forum arguing for weeks.",
+      "keyword": "твист",
+      "mnemonic": "Сюжет исполнил твист-поворот: случился неожиданный поворот сюжета, — твист крутит a plot twist."
     },
     {
       "idiom": "a cliffhanger",
       "translation": "захватывающая пауза; открытый финал",
-      "example": "Each chapter ends with a cliffhanger, so you cannot stop reading."
+      "example": "Each chapter ends with a cliffhanger, so you cannot stop reading.",
+      "keyword": "клиф",
+      "mnemonic": "Глава обрывается на клиф-обрыве: это захватывающая пауза и открытый финал, — клиф висит a cliffhanger."
     },
     {
       "idiom": "read between the lines",
       "translation": "читать между строк",
-      "example": "Fans read between the lines to guess the hero's fate."
+      "example": "Fans read between the lines to guess the hero's fate.",
+      "keyword": "лайнс",
+      "mnemonic": "Фанаты шарят по лайнс-строчкам: они любят читать между строк, — лайнс шепчет read between the lines."
     },
     {
       "idiom": "an open book",
       "translation": "открытая книга (о человеке)",
-      "example": "Her motives are an open book to anyone who read the first volume."
+      "example": "Her motives are an open book to anyone who read the first volume.",
+      "keyword": "бук",
+      "mnemonic": "Мотивы героини как раскрытый бук: она открытая книга для всех, — бук шумит an open book."
     },
     {
       "idiom": "larger than life",
       "translation": "яркий; колоритный",
-      "example": "The villain is a larger-than-life character fans love to hate."
+      "example": "The villain is a larger-than-life character fans love to hate.",
+      "keyword": "лайф",
+      "mnemonic": "Злодей как лайф-легенда: он яркий и колоритный, — лайф гремит larger than life."
     },
     {
       "idiom": "a tall tale",
       "translation": "небылица; россказни",
-      "example": "His alternative-universe story is a tall tale full of dragons."
+      "example": "His alternative-universe story is a tall tale full of dragons.",
+      "keyword": "тейл",
+      "mnemonic": "История с драконами — чистый тейл: это небылица и россказни, — тейл врёт a tall tale."
     },
     {
       "idiom": "spin a yarn",
       "translation": "рассказывать истории",
-      "example": "She can spin a yarn that keeps millions of readers hooked."
+      "example": "She can spin a yarn that keeps millions of readers hooked.",
+      "keyword": "спин",
+      "mnemonic": "Писательница крутит спин-прялку: она любит рассказывать истории, — спин жужжит spin a yarn."
     },
     {
       "idiom": "turn the page",
       "translation": "перевернуть страницу; начать заново",
-      "example": "After the sad finale, I was ready to turn the page and start a new series."
+      "example": "After the sad finale, I was ready to turn the page and start a new series.",
+      "keyword": "тёрн",
+      "mnemonic": "Читатель сделал тёрн-лист: решил перевернуть страницу и начать заново, — тёрн шелестит turn the page."
     },
     {
       "idiom": "open a new chapter",
       "translation": "открыть новую главу",
-      "example": "Writing fanfiction opened a new chapter in her life."
+      "example": "Writing fanfiction opened a new chapter in her life.",
+      "keyword": "чаптер",
+      "mnemonic": "Фанфик открыл чаптер-жизни: она смогла открыть новую главу, — чаптер скрипит open a new chapter."
     },
     {
       "idiom": "a page-turner",
       "translation": "книга, от которой не оторваться",
-      "example": "The award-winning story is a real page-turner."
+      "example": "The award-winning story is a real page-turner.",
+      "keyword": "тёрнер",
+      "mnemonic": "Роман как токарь-тёрнер страниц: это книга, от которой не оторваться, — тёрнер крутит a page-turner."
     },
     {
       "idiom": "the backstory",
       "translation": "предыстория",
-      "example": "Fans love exploring the backstory of minor characters."
+      "example": "Fans love exploring the backstory of minor characters.",
+      "keyword": "бэкстори",
+      "mnemonic": "Фанаты копают бэкстори героев: им нужна предыстория, — бэкстори шумит the backstory."
     },
     {
       "idiom": "from cover to cover",
       "translation": "от корки до корки",
-      "example": "He read the whole novel from cover to cover in one night."
+      "example": "He read the whole novel from cover to cover in one night.",
+      "keyword": "кавер",
+      "mnemonic": "Роман в кавер-обложке прочли: от корки до корки за ночь, — кавер шелестит from cover to cover."
     }
   ]
 }

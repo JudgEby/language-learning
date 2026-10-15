@@ -5,42 +5,58 @@
     {
       "phrase": "work out",
       "translation": "тренироваться",
-      "example": "I work out at the gym twice a week."
+      "example": "I work out at the gym twice a week.",
+      "keyword": "воркаут",
+      "mnemonic": "Тренируюсь в зале дважды в неделю — мой воркаут: work out at the gym."
     },
     {
       "phrase": "warm up",
       "translation": "разминаться",
-      "example": "Always warm up before exercising."
+      "example": "Always warm up before exercising.",
+      "keyword": "ворс",
+      "mnemonic": "Всегда разминайся перед тренировкой — грей ворс: warm up before exercising."
     },
     {
       "phrase": "push yourself",
       "translation": "заставлять себя (стараться)",
-      "example": "You need to push yourself harder."
+      "example": "You need to push yourself harder.",
+      "keyword": "пуш-ап",
+      "mnemonic": "Нужно стараться сильнее — делай пуш-ап: push yourself harder."
     },
     {
       "phrase": "do moderate exercise",
       "translation": "заниматься умеренной физической активностью",
-      "example": "Adults should do 150 minutes of moderate exercise each week."
+      "example": "Adults should do 150 minutes of moderate exercise each week.",
+      "keyword": "модератор",
+      "mnemonic": "Взрослым нужно 150 минут умеренной активности — следит модератор: moderate exercise."
     },
     {
       "phrase": "stick at (it)",
       "translation": "не бросать (дело), держаться",
-      "example": "How can we stick at it even when we are tired?"
+      "example": "How can we stick at it even when we are tired?",
+      "keyword": "стикеры",
+      "mnemonic": "Как не бросать, даже устав, — клей стикеры: stick at it, не бросать."
     },
     {
       "phrase": "lift weights",
       "translation": "поднимать тяжести, заниматься с весами",
-      "example": "I need to do training with weights to improve my strength."
+      "example": "I need to do training with weights to improve my strength.",
+      "keyword": "лифтинг",
+      "mnemonic": "Нужно тренироваться с весами — займись лифтингом: training with weights."
     },
     {
       "phrase": "make an effort (to keep fit)",
       "translation": "прилагать усилие (чтобы быть в форме)",
-      "example": "It is important to make an effort to keep fit."
+      "example": "It is important to make an effort to keep fit.",
+      "keyword": "форт",
+      "mnemonic": "Важно прилагать усилия, чтобы быть в форме, — бери форт: make an effort."
     },
     {
       "phrase": "have a physical job",
       "translation": "иметь физическую работу",
-      "example": "He does not need extra exercise because he has a physical job."
+      "example": "He does not need extra exercise because he has a physical job.",
+      "keyword": "физрук",
+      "mnemonic": "Ему не нужен спорт — он сам физрук: has a physical job."
     }
   ]
 }

@@ -2,21 +2,117 @@
   "lessonId": "the-longest-bike-ride",
   "title": "The longest bike ride — новые слова",
   "items": [
-    { "term": "a bicycle tour", "translation": "велосипедный тур", "example": "It is the longest bicycle tour in the world." },
-    { "term": "a ride", "translation": "поездка, пробег", "example": "In eighteen weeks you travel over 12,000 kilometres — it's the ride of your life." },
-    { "term": "a camel", "translation": "верблюд", "example": "A thousand years ago people travelled by camel and did twenty-five kilometres a day." },
-    { "term": "a mountain / a hill", "translation": "гора / холм", "example": "The tour crosses the Pamir Highway at over 4,600 metres." },
-    { "term": "a river / a lake", "translation": "река / озеро", "example": "The Silk Route passes a lake in northern China." },
-    { "term": "a forest", "translation": "лес", "example": "Cyclists cycle through a forest in Iran." },
-    { "term": "a desert", "translation": "пустыня", "example": "You travel across the deserts of China." },
-    { "term": "a market", "translation": "рынок", "example": "Cyclists shop in local markets for their food." },
-    { "term": "a famous building", "translation": "известное здание", "example": "Along the way there are ancient buildings and famous monuments." },
-    { "term": "ancient", "translation": "древний", "example": "At night you stay in ancient roadside hotels." },
-    { "term": "take turns", "translation": "чередоваться", "example": "The cyclists take turns cooking dinner every evening." },
-    { "term": "friendliness", "translation": "дружелюбие, приветливость", "example": "The best thing was the friendliness of the people." },
-    { "term": "a chef", "translation": "шеф-повар", "example": "A chef cooks dinner for about half of the 133 days." },
-    { "term": "a campsite / a camp", "translation": "лагерь, место стоянки", "example": "On other days cyclists sleep in camps." },
-    { "term": "an expedition", "translation": "экспедиция", "example": "The Silk Route is a true expedition." },
-    { "term": "the Pamir Highway", "translation": "Памирский тракт", "example": "The tour cycles the Pamir Highway across the Roof of the World." }
+    {
+      "term": "a bicycle tour",
+      "translation": "велосипедный тур",
+      "example": "It is the longest bicycle tour in the world.",
+      "keyword": "тур",
+      "mnemonic": "Гид дудит в тур рога с велосипеда — это a bicycle tour, велосипедный тур."
+    },
+    {
+      "term": "a ride",
+      "translation": "поездка, пробег",
+      "example": "In eighteen weeks you travel over 12,000 kilometres — it's the ride of your life.",
+      "keyword": "райд",
+      "mnemonic": "Байкер кричит «райд» и жмёт на педали — это a ride, поездка."
+    },
+    {
+      "term": "a camel",
+      "translation": "верблюд",
+      "example": "A thousand years ago people travelled by camel and did twenty-five kilometres a day.",
+      "keyword": "кэмел",
+      "mnemonic": "Караванщик ведёт кэмела через дюны — это a camel, верблюд."
+    },
+    {
+      "term": "a mountain / a hill",
+      "translation": "гора / холм",
+      "example": "The tour crosses the Pamir Highway at over 4,600 metres.",
+      "keyword": "мантия",
+      "mnemonic": "Альпинист кутается в мантию на горе — вот a mountain, гора."
+    },
+    {
+      "term": "a river / a lake",
+      "translation": "река / озеро",
+      "example": "The Silk Route passes a lake in northern China.",
+      "keyword": "ривер",
+      "mnemonic": "Бобр строит плотину на ривере — это a river, река."
+    },
+    {
+      "term": "a forest",
+      "translation": "лес",
+      "example": "Cyclists cycle through a forest in Iran.",
+      "keyword": "форест",
+      "mnemonic": "Лесник кричит «форест» среди сосен — это a forest, лес."
+    },
+    {
+      "term": "a desert",
+      "translation": "пустыня",
+      "example": "You travel across the deserts of China.",
+      "keyword": "дезертир",
+      "mnemonic": "Дезертир ползёт через пустыню — вот a desert."
+    },
+    {
+      "term": "a market",
+      "translation": "рынок",
+      "example": "Cyclists shop in local markets for their food.",
+      "keyword": "маркет",
+      "mnemonic": "Фермер кричит «маркет» — это a market, рынок."
+    },
+    {
+      "term": "a famous building",
+      "translation": "известное здание",
+      "example": "Along the way there are ancient buildings and famous monuments.",
+      "keyword": "билдинг",
+      "mnemonic": "Архитектор показывает билдинг — это a famous building, известное здание."
+    },
+    {
+      "term": "ancient",
+      "translation": "древний",
+      "example": "At night you stay in ancient roadside hotels.",
+      "keyword": "антик",
+      "mnemonic": "Торговец трясёт антиком в лавке — ваза ancient, древняя."
+    },
+    {
+      "term": "take turns",
+      "translation": "чередоваться",
+      "example": "The cyclists take turns cooking dinner every evening.",
+      "keyword": "турник",
+      "mnemonic": "Велосипедисты висят на турнике по очереди — они take turns, чередуются."
+    },
+    {
+      "term": "friendliness",
+      "translation": "дружелюбие, приветливость",
+      "example": "The best thing was the friendliness of the people.",
+      "keyword": "френдли",
+      "mnemonic": "Гид светится френдли-улыбкой — это friendliness, дружелюбие."
+    },
+    {
+      "term": "a chef",
+      "translation": "шеф-повар",
+      "example": "A chef cooks dinner for about half of the 133 days.",
+      "keyword": "шов",
+      "mnemonic": "Повар зашивает шов на колпаке — он a chef, шеф-повар."
+    },
+    {
+      "term": "a campsite / a camp",
+      "translation": "лагерь, место стоянки",
+      "example": "On other days cyclists sleep in camps.",
+      "keyword": "кемп",
+      "mnemonic": "Туристы ставят кемп у реки — это a camp, лагерь."
+    },
+    {
+      "term": "an expedition",
+      "translation": "экспедиция",
+      "example": "The Silk Route is a true expedition.",
+      "keyword": "экспресс",
+      "mnemonic": "Проводник гонит экспресс в джунгли — это an expedition, экспедиция."
+    },
+    {
+      "term": "the Pamir Highway",
+      "translation": "Памирский тракт",
+      "example": "The tour cycles the Pamir Highway across the Roof of the World.",
+      "keyword": "хайвей",
+      "mnemonic": "Дальнобойщик гудит на хайвее — это the Pamir Highway, Памирский тракт."
+    }
   ]
 }

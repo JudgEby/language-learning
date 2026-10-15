@@ -5,7 +5,9 @@
     {
       "term": "talent",
       "translation": "талант",
-      "example": "She has a natural talent for music."
+      "example": "She has a natural talent for music.",
+      "keyword": "талон",
+      "mnemonic": "У неё природный талант к музыке — выдай талон: natural talent for music."
     },
     {
       "term": "dedication",
@@ -15,47 +17,65 @@
     {
       "term": "perseverance",
       "translation": "настойчивость",
-      "example": "Perseverance beats talent sometimes."
+      "example": "Perseverance beats talent sometimes.",
+      "keyword": "персик",
+      "mnemonic": "Настойчивость бьёт талант — вгрызайся, как в персик: perseverance beats talent."
     },
     {
       "term": "gifted",
       "translation": "одарённый",
-      "example": "He's a gifted pianist."
+      "example": "He's a gifted pianist.",
+      "keyword": "гифт",
+      "mnemonic": "Он одарённый пианист — каждый концерт как гифт: gifted pianist."
     },
     {
       "term": "work ethic",
       "translation": "трудовая этика",
-      "example": "Her work ethic is impressive."
+      "example": "Her work ethic is impressive.",
+      "keyword": "этикетка",
+      "mnemonic": "Её трудовая этика впечатляет — приклеена, как этикетка: work ethic is impressive."
     },
     {
       "term": "natural talent",
       "translation": "природный талант",
-      "example": "You need some natural talent to succeed."
+      "example": "You need some natural talent to succeed.",
+      "keyword": "натурал",
+      "mnemonic": "Нужен природный талант, чтобы преуспеть, — натурал сцены: need natural talent."
     },
     {
       "term": "excel at",
       "translation": "преуспевать в",
-      "example": "She wants to excel at music."
+      "example": "She wants to excel at music.",
+      "keyword": "эксель",
+      "mnemonic": "Хочет преуспевать в музыке — ведёт учёт в экселе: excel at music."
     },
     {
       "term": "get by",
       "translation": "обходиться, справляться",
-      "example": "You cannot get by on talent alone."
+      "example": "You cannot get by on talent alone.",
+      "keyword": "байк",
+      "mnemonic": "На одном таланте не выедешь — даже на байке: cannot get by on talent alone."
     },
     {
       "term": "drive",
       "translation": "стремление, драйв",
-      "example": "That drive will take you further."
+      "example": "That drive will take you further.",
+      "keyword": "драйвер",
+      "mnemonic": "Этот драйв увезёт тебя дальше — жми, драйвер: drive will take you further, стремление."
     },
     {
       "term": "run in the blood",
       "translation": "в крови, наследственное",
-      "example": "Cooking runs in my blood."
+      "example": "Cooking runs in my blood.",
+      "keyword": "блат",
+      "mnemonic": "Готовка у меня в крови — по блату от бабушки: runs in my blood."
     },
     {
       "term": "succeed",
       "translation": "преуспеть",
-      "example": "Work hard and you will succeed."
+      "example": "Work hard and you will succeed.",
+      "keyword": "саксофон",
+      "mnemonic": "Работай — и преуспеешь: дуй в саксофон: work hard and you will succeed."
     }
   ]
 }

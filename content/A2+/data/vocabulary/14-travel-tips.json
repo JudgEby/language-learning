@@ -2,17 +2,17 @@
   "lessonId": "travel-tips",
   "title": "Travel tips — новые слова",
   "items": [
-    { "term": "suitcase", "translation": "чемодан", "example": "I packed everything into one small suitcase." },
-    { "term": "backpack", "translation": "рюкзак", "example": "A backpack is more practical than a suitcase for hiking." },
-    { "term": "passport", "translation": "загранпаспорт", "example": "Don't forget to check your passport expiry date before booking a flight." },
-    { "term": "sunscreen", "translation": "солнцезащитный крем", "example": "Apply sunscreen every two hours when you're at the beach." },
-    { "term": "binoculars", "translation": "бинокль", "example": "I took my binoculars to watch the birds on the lake." },
-    { "term": "adaptor", "translation": "переходник (для розетки)", "example": "You'll need a travel adaptor for charging your phone abroad." },
-    { "term": "travel insurance", "translation": "туристическая страховка", "example": "It's wise to buy travel insurance before going on a trip." },
-    { "term": "first-aid kit", "translation": "аптечка", "example": "Always keep a first-aid kit in your backpack." },
-    { "term": "guidebook", "translation": "путеводитель", "example": "I bought a guidebook to help me plan my route." },
-    { "term": "phrase book", "translation": "разговорник", "example": "A phrase book can be useful when you don't speak the local language." },
-    { "term": "rucksack", "translation": "рюкзак (походный)", "example": "He packed his rucksack with camping gear." },
-    { "term": "map", "translation": "карта", "example": "We used a paper map because we didn't have internet access." }
+    { "term": "suitcase", "translation": "чемодан", "example": "I packed everything into one small suitcase.", "keyword": "кейс", "mnemonic": "Впихнул всё в один кейс за сутки — packed into a small suitcase, чемодан." },
+    { "term": "backpack", "translation": "рюкзак", "example": "A backpack is more practical than a suitcase for hiking.", "keyword": "пакет", "mnemonic": "Засунул всё в пакет вместо чемодана — backpack, рюкзак практичнее." },
+    { "term": "passport", "translation": "загранпаспорт", "example": "Don't forget to check your passport expiry date before booking a flight.", "keyword": "паспорт", "mnemonic": "Паспорт просрочен — проверь expiry date: check your passport перед рейсом." },
+    { "term": "sunscreen", "translation": "солнцезащитный крем", "example": "Apply sunscreen every two hours when you're at the beach.", "keyword": "санки", "mnemonic": "Санки мажут кремом от солнца — apply sunscreen, солнцезащитный крем." },
+    { "term": "binoculars", "translation": "бинокль", "example": "I took my binoculars to watch the birds on the lake.", "keyword": "бинокль", "mnemonic": "Бинокль нацелился на птиц — took my binoculars следить за озером." },
+    { "term": "adaptor", "translation": "переходник (для розетки)", "example": "You'll need a travel adaptor for charging your phone abroad.", "keyword": "адаптер", "mnemonic": "Адаптер для зарядки за границей — need a travel adaptor, переходник." },
+    { "term": "travel insurance", "translation": "туристическая страховка", "example": "It's wise to buy travel insurance before going on a trip.", "keyword": "шуруп", "mnemonic": "Шуруп страховки держит нервы — wise to buy travel insurance, страховку." },
+    { "term": "first-aid kit", "translation": "аптечка", "example": "Always keep a first-aid kit in your backpack.", "keyword": "кит", "mnemonic": "Кит тащит аптечку в рюкзаке — keep a first-aid kit, аптечку." },
+    { "term": "guidebook", "translation": "путеводитель", "example": "I bought a guidebook to help me plan my route.", "keyword": "гайд", "mnemonic": "Гайд по маршруту куплен — bought a guidebook, путеводитель." },
+    { "term": "phrase book", "translation": "разговорник", "example": "A phrase book can be useful when you don't speak the local language.", "keyword": "фраза", "mnemonic": "Фраза из разговорника спасает — a phrase book can be useful без языка." },
+    { "term": "rucksack", "translation": "рюкзак (походный)", "example": "He packed his rucksack with camping gear.", "keyword": "ранец", "mnemonic": "Ранец набит палаткой — packed his rucksack, походный рюкзак." },
+    { "term": "map", "translation": "карта", "example": "We used a paper map because we didn't have internet access.", "keyword": "мопс", "mnemonic": "Мопс ведёт по бумажной карте — we used a paper map, карту." }
   ]
 }

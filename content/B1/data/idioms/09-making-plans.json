@@ -5,17 +5,23 @@
     {
       "idiom": "put something on hold",
       "translation": "отложить что-то",
-      "example": "We've put the project on hold until next month."
+      "example": "We've put the project on hold until next month.",
+      "keyword": "холд",
+      "mnemonic": "Холд проекта до следующего месяца: put something on hold — отложить что-то до лучших времён."
     },
     {
       "idiom": "get the ball rolling",
       "translation": "начать процесс",
-      "example": "Let's get the ball rolling on the new marketing campaign."
+      "example": "Let's get the ball rolling on the new marketing campaign.",
+      "keyword": "ролл",
+      "mnemonic": "Ролл кампании катится: get the ball rolling — начать процесс новой маркетинговой кампании."
     },
     {
       "idiom": "in the pipeline",
       "translation": "в разработке, в планах",
-      "example": "We have several new products in the pipeline for next year."
+      "example": "We have several new products in the pipeline for next year.",
+      "keyword": "пайп",
+      "mnemonic": "В пайпе зреют новинки: in the pipeline — в разработке, в планах на следующий год."
     }
   ]
 }

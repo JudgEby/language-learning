@@ -5,12 +5,16 @@
     {
       "idiom": "a shoulder to cry on",
       "translation": "плечо, на которое можно опереться",
-      "example": "She's always a shoulder to cry on."
+      "example": "She's always a shoulder to cry on.",
+      "keyword": "шуба",
+      "mnemonic": "Она всегда плечо для слёз — плачь в шубу: shoulder to cry on."
     },
     {
       "idiom": "cross that bridge when you come to it",
       "translation": "решим, когда дойдём",
-      "example": "Let's cross that bridge when we come to it."
+      "example": "Let's cross that bridge when we come to it.",
+      "keyword": "бридж",
+      "mnemonic": "Решим, когда дойдём, — доиграем в бридж: cross that bridge."
     }
   ]
 }

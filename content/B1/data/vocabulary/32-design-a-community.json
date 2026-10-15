@@ -2,17 +2,89 @@
   "lessonId": "design-a-community",
   "title": "Design a community — новые слова",
   "items": [
-    { "term": "government", "translation": "правительство", "example": "The community would have a simple government." },
-    { "term": "law", "translation": "закон", "example": "There would be laws to protect the environment." },
-    { "term": "custom", "translation": "обычай", "example": "New customs would bring people together." },
-    { "term": "facility", "translation": "объект, удобство", "example": "The community would have sports facilities." },
-    { "term": "community centre", "translation": "общественный центр", "example": "Ideally, there would be a community centre." },
-    { "term": "public transport", "translation": "общественный транспорт", "example": "There would be free public transport." },
-    { "term": "renewable energy", "translation": "возобновляемая энергия", "example": "The community would use renewable energy." },
-    { "term": "environmentally-friendly", "translation": "экологичный", "example": "All buildings would be environmentally-friendly." },
-    { "term": "population", "translation": "население", "example": "The population of the community would be small." },
-    { "term": "global warming", "translation": "глобальное потепление", "example": "The community would be designed to fight global warming." },
-    { "term": "rule", "translation": "правило", "example": "There would be simple rules that everyone follows." },
-    { "term": "shared resources", "translation": "общие ресурсы", "example": "People would share resources like tools and food." }
+    {
+      "term": "government",
+      "translation": "правительство",
+      "example": "The community would have a simple government.",
+      "keyword": "гавернмент",
+      "mnemonic": "Гавернмент-простой совет: community would have government — правительство простое."
+    },
+    {
+      "term": "law",
+      "translation": "закон",
+      "example": "There would be laws to protect the environment.",
+      "keyword": "ло",
+      "mnemonic": "Ло-защита природы: there would be laws — закон защитит среду."
+    },
+    {
+      "term": "custom",
+      "translation": "обычай",
+      "example": "New customs would bring people together.",
+      "keyword": "кастом",
+      "mnemonic": "Кастом-объединялка: new customs bring — обычай новый сплотит людей."
+    },
+    {
+      "term": "facility",
+      "translation": "объект, удобство",
+      "example": "The community would have sports facilities.",
+      "keyword": "фэсилити",
+      "mnemonic": "Фэсилити-стадион светится: sports facilities — объекты и удобства для спорта."
+    },
+    {
+      "term": "community centre",
+      "translation": "общественный центр",
+      "example": "Ideally, there would be a community centre.",
+      "keyword": "центр",
+      "mnemonic": "Центр-комьюнити гудит: there would be community centre — общественный центр идеальный."
+    },
+    {
+      "term": "public transport",
+      "translation": "общественный транспорт",
+      "example": "There would be free public transport.",
+      "keyword": "паблик, транспорт",
+      "mnemonic": "Паблик-транспорт бесплатный: there would be public transport — общественный транспорт всем."
+    },
+    {
+      "term": "renewable energy",
+      "translation": "возобновляемая энергия",
+      "example": "The community would use renewable energy.",
+      "keyword": "реньюабл, энерджи",
+      "mnemonic": "Реньюабл-энерджи-ветряк крутится: community uses renewable energy — возобновляемую энергию."
+    },
+    {
+      "term": "environmentally-friendly",
+      "translation": "экологичный",
+      "example": "All buildings would be environmentally-friendly.",
+      "keyword": "френдли",
+      "mnemonic": "Френдли-дома зелёные: buildings are environmentally-friendly — экологичные дома."
+    },
+    {
+      "term": "population",
+      "translation": "население",
+      "example": "The population of the community would be small.",
+      "keyword": "попьюлейшн",
+      "mnemonic": "Попьюлейшн-малый посёлок: the population — население общины небольшое."
+    },
+    {
+      "term": "global warming",
+      "translation": "глобальное потепление",
+      "example": "The community would be designed to fight global warming.",
+      "keyword": "глобал, ворминг",
+      "mnemonic": "Глобал-ворминг тает: community fights global warming — глобальное потепление, боремся проектом."
+    },
+    {
+      "term": "rule",
+      "translation": "правило",
+      "example": "There would be simple rules that everyone follows.",
+      "keyword": "рул",
+      "mnemonic": "Рул-простые правила: simple rules — правило простое, все соблюдают."
+    },
+    {
+      "term": "shared resources",
+      "translation": "общие ресурсы",
+      "example": "People would share resources like tools and food.",
+      "keyword": "шейрд, ресурс",
+      "mnemonic": "Шейрд-ресурс-инструменты общие: people share resources — общие ресурсы, инструменты и еда."
+    }
   ]
 }

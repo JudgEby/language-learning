@@ -2,15 +2,75 @@
   "lessonId": "what-can-i-do-for-you",
   "title": "What can I do for you? — новые слова",
   "items": [
-    { "term": "do a favour", "translation": "сделать одолжение", "example": "Could you do me a favour and carry this bag?" },
-    { "term": "lend a hand", "translation": "помочь (протянуть руку помощи)", "example": "Could you lend me a hand with the boxes?" },
-    { "term": "make an effort", "translation": "приложить усилие", "example": "She made an effort to arrive on time." },
-    { "term": "take a risk", "translation": "рискнуть", "example": "He took a risk by investing in the new project." },
-    { "term": "make a decision", "translation": "принять решение", "example": "I need to make a decision by tomorrow." },
-    { "term": "keep a promise", "translation": "сдержать обещание", "example": "She always keeps her promises." },
-    { "term": "tell a lie", "translation": "солгать", "example": "He told a lie to avoid getting into trouble." },
-    { "term": "tell the truth", "translation": "сказать правду", "example": "You should always tell the truth." },
-    { "term": "have a guess", "translation": "попробовать угадать", "example": "Have a guess how much this costs." },
-    { "term": "give a hand", "translation": "помочь", "example": "Can you give me a hand with the luggage?" }
+    {
+      "term": "do a favour",
+      "translation": "сделать одолжение",
+      "example": "Could you do me a favour and carry this bag?",
+      "keyword": "повар",
+      "mnemonic": "Повар просит do a favour — сделать одолжение и донести сумку."
+    },
+    {
+      "term": "lend a hand",
+      "translation": "помочь (протянуть руку помощи)",
+      "example": "Could you lend me a hand with the boxes?",
+      "keyword": "лента",
+      "mnemonic": "Перевяжи коробки лентой — lend a hand, помоги с коробками."
+    },
+    {
+      "term": "make an effort",
+      "translation": "приложить усилие",
+      "example": "She made an effort to arrive on time.",
+      "keyword": "форт",
+      "mnemonic": "Она штурмовала форт, чтобы make an effort — приложить усилие и прийти вовремя."
+    },
+    {
+      "term": "take a risk",
+      "translation": "рискнуть",
+      "example": "He took a risk by investing in the new project.",
+      "keyword": "рысь",
+      "mnemonic": "Рысь прыгнула в акции — он take a risk, рискнул в новом проекте."
+    },
+    {
+      "term": "make a decision",
+      "translation": "принять решение",
+      "example": "I need to make a decision by tomorrow.",
+      "keyword": "дизель",
+      "mnemonic": "Налил дизель и make a decision — принял решение к завтрашнему дню."
+    },
+    {
+      "term": "keep a promise",
+      "translation": "сдержать обещание",
+      "example": "She always keeps her promises.",
+      "keyword": "промах",
+      "mnemonic": "Без единого промаха она keep a promise — сдерживает обещания всегда."
+    },
+    {
+      "term": "tell a lie",
+      "translation": "солгать",
+      "example": "He told a lie to avoid getting into trouble.",
+      "keyword": "лай",
+      "mnemonic": "Пёс поднял лай — он tell a lie, солгал, чтоб не влетело."
+    },
+    {
+      "term": "tell the truth",
+      "translation": "сказать правду",
+      "example": "You should always tell the truth.",
+      "keyword": "труд",
+      "mnemonic": "Трудно, но tell the truth — скажи правду всегда."
+    },
+    {
+      "term": "have a guess",
+      "translation": "попробовать угадать",
+      "example": "Have a guess how much this costs.",
+      "keyword": "гость",
+      "mnemonic": "Гость приценивается — have a guess, попробуй угадать цену."
+    },
+    {
+      "term": "give a hand",
+      "translation": "помочь",
+      "example": "Can you give me a hand with the luggage?",
+      "keyword": "гиря",
+      "mnemonic": "Качок с гирей просит give a hand — помочь с багажом."
+    }
   ]
 }

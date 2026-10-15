@@ -5,52 +5,72 @@
     {
       "term": "long-term memory",
       "translation": "долговременная память",
-      "example": "Some facts stay in long-term memory for years."
+      "example": "Some facts stay in long-term memory for years.",
+      "keyword": "мемуары",
+      "mnemonic": "Бабушкины мемуары лежат сто лет — вот она, долговременная память, long-term memory."
     },
     {
       "term": "short-term memory",
       "translation": "кратковременная память",
-      "example": "Phone numbers are often in short-term memory."
+      "example": "Phone numbers are often in short-term memory.",
+      "keyword": "шорты",
+      "mnemonic": "Номер телефона держится в голове, как шорты на верёвочке, — чуть что и слетел: это кратковременная память, short-term memory."
     },
     {
       "term": "perfect recall",
       "translation": "точное воспроизведение",
-      "example": "She has perfect recall of every detail."
+      "example": "She has perfect recall of every detail.",
+      "keyword": "прикол",
+      "mnemonic": "Она пересказывает каждый прикол слово в слово — у неё perfect recall, точное воспроизведение."
     },
     {
       "term": "false memories",
       "translation": "ложные воспоминания",
-      "example": "Research shows that false memories are common."
+      "example": "Research shows that false memories are common.",
+      "keyword": "фальшь",
+      "mnemonic": "В его рассказе сквозит фальшь — это false memories, ложные воспоминания."
     },
     {
       "term": "memorable",
       "translation": "запоминающийся",
-      "example": "It was a truly memorable experience."
+      "example": "It was a truly memorable experience.",
+      "keyword": "мем",
+      "mnemonic": "Вечер стал мемом в чате группы — он был по-настоящему memorable, запоминающийся."
     },
     {
       "term": "childhood memories",
       "translation": "детские воспоминания",
-      "example": "We often talk about our childhood memories."
+      "example": "We often talk about our childhood memories.",
+      "keyword": "чадо",
+      "mnemonic": "Чадо лепит куличики в песочнице — эти childhood memories, детские воспоминания, греют всю жизнь."
     },
     {
       "term": "bring back memories",
       "translation": "вызывать воспоминания",
-      "example": "That song brings back memories of school."
+      "example": "That song brings back memories of school.",
+      "keyword": "бумеранг",
+      "mnemonic": "Песня вернулась, как бумеранг, и накрыло волной прошлого — она bring back memories, вызывает воспоминания."
     },
     {
       "term": "have a good memory",
       "translation": "иметь хорошую память",
-      "example": "She has a good memory for faces."
+      "example": "She has a good memory for faces.",
+      "keyword": "мемориал",
+      "mnemonic": "У неё в голове целый мемориал дат и лиц — она have a good memory, имеет хорошую память."
     },
     {
       "term": "remember every detail",
       "translation": "помнить каждую деталь",
-      "example": "He remembers every detail of that day."
+      "example": "He remembers every detail of that day.",
+      "keyword": "делит",
+      "mnemonic": "Он делит историю на крошечные кусочки и помнит каждую деталь — вот что значит remember every detail."
     },
     {
       "term": "forgetful",
       "translation": "забывчивый",
-      "example": "Do you have a good memory or are you forgetful?"
+      "example": "Do you have a good memory or are you forgetful?",
+      "keyword": "фартук",
+      "mnemonic": "Надел фартук вместо шапки и вышел из дома — он forgetful, забывчивый."
     },
     {
       "term": "visualisation",

@@ -2,14 +2,68 @@
   "lessonId": "same-or-different",
   "title": "Same or different — новые слова",
   "items": [
-    { "term": "boss", "translation": "начальник", "example": "She asked her boss for some time off work." },
-    { "term": "employee", "translation": "сотрудник", "example": "He's an employee of a large company." },
-    { "term": "classmates", "translation": "одноклассники", "example": "Dave is my classmate. We're both in Year 12." },
-    { "term": "partner", "translation": "партнёр", "example": "My business partner and I started the company together." },
-    { "term": "team-mates", "translation": "товарищи по команде", "example": "Leticia is my team-mate. We play in the same basketball team." },
-    { "term": "member", "translation": "член (организации)", "example": "I'm a member of a swimming club." },
-    { "term": "godfather / godmother", "translation": "крёстный отец / крёстная мать", "example": "My father asked his best friend to be my godfather." },
-    { "term": "mentor / pupil", "translation": "наставник / ученик", "example": "My mentor helped me develop my career." },
-    { "term": "fiancé / fiancée", "translation": "жених / невеста", "example": "This is Marianna, my fiancée. We're getting married next year." }
+    {
+      "term": "boss",
+      "translation": "начальник",
+      "example": "She asked her boss for some time off work.",
+      "keyword": "босс",
+      "mnemonic": "Толстый босс стучит по столу: я и есть boss — начальник, мне нужен отгул наоборот."
+    },
+    {
+      "term": "employee",
+      "translation": "сотрудник",
+      "example": "He's an employee of a large company.",
+      "keyword": "эмплой",
+      "mnemonic": "Эм-плой, плыви сюда: каждый employee — сотрудник большой компании плывёт к кулеру."
+    },
+    {
+      "term": "classmates",
+      "translation": "одноклассники",
+      "example": "Dave is my classmate. We're both in Year 12.",
+      "keyword": "класс, метис",
+      "mnemonic": "Весь класс и метис из соседней парты — все они classmates, одноклассники Дэйва."
+    },
+    {
+      "term": "partner",
+      "translation": "партнёр",
+      "example": "My business partner and I started the company together.",
+      "keyword": "партнёр",
+      "mnemonic": "Партнёр по танцам оказался и business partner — партнёром, с которым открыли компанию."
+    },
+    {
+      "term": "team-mates",
+      "translation": "товарищи по команде",
+      "example": "Leticia is my team-mate. We play in the same basketball team.",
+      "keyword": "тим, метис",
+      "mnemonic": "Тим и метис из соседнего двора — мои team-mates, товарищи по команде по баскетболу."
+    },
+    {
+      "term": "member",
+      "translation": "член (организации)",
+      "example": "I'm a member of a swimming club.",
+      "keyword": "мембер",
+      "mnemonic": "Мем про бобра висит в клубе, где я member — член организации пловцов."
+    },
+    {
+      "term": "godfather / godmother",
+      "translation": "крёстный отец / крёстная мать",
+      "example": "My father asked his best friend to be my godfather.",
+      "keyword": "годфазер",
+      "mnemonic": "Годфазер в шляпе встречает как godfather — крёстный отец, лучший друг папы."
+    },
+    {
+      "term": "mentor / pupil",
+      "translation": "наставник / ученик",
+      "example": "My mentor helped me develop my career.",
+      "keyword": "ментор",
+      "mnemonic": "Ментор в ментии наставляет как mentor — наставник, развивающий твою карьеру."
+    },
+    {
+      "term": "fiancé / fiancée",
+      "translation": "жених / невеста",
+      "example": "This is Marianna, my fiancée. We're getting married next year.",
+      "keyword": "фиансе",
+      "mnemonic": "Фиансе с кольцом представляет: это Мариanna, моя fiancée — невеста, свадьба в следующем году."
+    }
   ]
 }

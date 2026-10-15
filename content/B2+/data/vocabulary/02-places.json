@@ -5,92 +5,128 @@
     {
       "term": "industrial estate",
       "translation": "промышленная зона",
-      "example": "The factory is located on a small industrial estate on the outskirts of the city."
+      "example": "The factory is located on a small industrial estate on the outskirts of the city.",
+      "keyword": "эстеты",
+      "mnemonic": "На промышленной зоне эстеты в касках бродят среди заводов — вот тебе industrial estate."
     },
     {
       "term": "outskirts",
       "translation": "окраина",
-      "example": "They live on the outskirts of town, far from the busy centre."
+      "example": "They live on the outskirts of town, far from the busy centre.",
+      "keyword": "от скитов",
+      "mnemonic": "На окраине от скитов остались одни шалаши вдали от центра — вот тебе outskirts."
     },
     {
       "term": "slums",
       "translation": "трущобы",
-      "example": "A lot of old slums have been demolished and replaced with modern apartments."
+      "example": "A lot of old slums have been demolished and replaced with modern apartments.",
+      "keyword": "слом",
+      "mnemonic": "Старые трущобы пошли на слом и стали новостройками — вот тебе slums."
     },
     {
       "term": "inner-city",
       "translation": "внутренняя часть города (обычно с проблемами)",
-      "example": "Inner-city areas often suffer from poor housing and limited services."
+      "example": "Inner-city areas often suffer from poor housing and limited services.",
+      "keyword": "иней сити",
+      "mnemonic": "Во внутренней части города иней-сити покрыл бедные дома — вот тебе inner-city."
     },
     {
       "term": "residential area",
       "translation": "жилой район",
-      "example": "Their apartment building is in a quiet residential area of the city."
+      "example": "Their apartment building is in a quiet residential area of the city.",
+      "keyword": "резидент",
+      "mnemonic": "В жилом районе каждый резидент знает соседей по дому — вот тебе residential area."
     },
     {
       "term": "architecture",
       "translation": "архитектура",
-      "example": "This building is a beautiful example of eighteenth-century architecture."
+      "example": "This building is a beautiful example of eighteenth-century architecture.",
+      "keyword": "арка течёт",
+      "mnemonic": "Красивый образец архитектуры, где арка течёт от дождя — вот тебе architecture."
     },
     {
       "term": "built-up area",
       "translation": "застроенная территория",
-      "example": "We moved out of a built-up area in the city centre to a leafy suburban street."
+      "example": "We moved out of a built-up area in the city centre to a leafy suburban street.",
+      "keyword": "бил ап",
+      "mnemonic": "С застроенной территории он сбежал на тихую улицу, где только бил и кричал «ап!» — вот тебе built-up area."
     },
     {
       "term": "suburban",
       "translation": "пригородный",
-      "example": "Many families prefer suburban life because it is quieter and safer."
+      "example": "Many families prefer suburban life because it is quieter and safer.",
+      "keyword": "суббота",
+      "mnemonic": "Пригородная жизнь тише, потому что в субботу все спят — вот тебе suburban."
     },
     {
       "term": "residence",
       "translation": "жилище, резиденция",
-      "example": "This house is a beautiful new residence built using modern methods."
+      "example": "This house is a beautiful new residence built using modern methods.",
+      "keyword": "резной",
+      "mnemonic": "Красивое жилище с резной дверью построили по-новому — вот тебе residence."
     },
     {
       "term": "construction",
       "translation": "строительство",
-      "example": "The construction industry should do more to combat climate change."
+      "example": "The construction industry should do more to combat climate change.",
+      "keyword": "конструкция",
+      "mnemonic": "Строительство должно бороться с климатом, собирая каждую конструкцию заново — вот тебе construction."
     },
     {
       "term": "demolish",
       "translation": "снести, разрушить",
-      "example": "They should demolish a lot of tower blocks built in the 1970s."
+      "example": "They should demolish a lot of tower blocks built in the 1970s.",
+      "keyword": "демо лишь",
+      "mnemonic": "Башни семидесятых надо снести и разрушить — это всего лишь демо, demolish."
     },
     {
       "term": "modernise",
       "translation": "модернизировать",
-      "example": "The city centre used to be old-fashioned, but it has been completely modernised."
+      "example": "The city centre used to be old-fashioned, but it has been completely modernised.",
+      "keyword": "модница",
+      "mnemonic": "Старомодный центр удалось модернизировать — теперь он как модница после салона."
     },
     {
       "term": "reconstruct",
       "translation": "перестроить, восстановить",
-      "example": "The old town hall was destroyed in a fire, but they are going to reconstruct it."
+      "example": "The old town hall was destroyed in a fire, but they are going to reconstruct it.",
+      "keyword": "реконструктор",
+      "mnemonic": "Ратушу надо перестроить и восстановить — зовём реконструктора с краном, это reconstruct."
     },
     {
       "term": "build in",
       "translation": "предусмотреть при строительстве, встроить",
-      "example": "We should build in more green and blue spaces."
+      "example": "We should build in more green and blue spaces.",
+      "keyword": "бить в",
+      "mnemonic": "Надо встроить и предусмотреть при строительстве парки, а не бить в стену — вот тебе build in."
     },
     {
       "term": "merge",
       "translation": "объединить",
-      "example": "The two small parks have been merged into one larger green space."
+      "example": "The two small parks have been merged into one larger green space.",
+      "keyword": "мэр же",
+      "mnemonic": "Два парка решили объединить — мэр же подписал бумагу, это merge."
     },
     {
       "term": "spruce up",
       "translation": "приукрасить, привести в порядок",
-      "example": "The local authority spent a lot of money sprucing up the city centre."
+      "example": "The local authority spent a lot of money sprucing up the city centre.",
+      "keyword": "спрут встал",
+      "mnemonic": "Центр приукрасили и привели в порядок — даже спрут встал с метлой, это spruce up."
     },
     {
       "term": "refurbish",
       "translation": "отремонтировать, обновить",
-      "example": "The old theatre has been refurbished, so it looks as good as new."
+      "example": "The old theatre has been refurbished, so it looks as good as new.",
+      "keyword": "фуршет",
+      "mnemonic": "Театр отремонтировали и обновили так, что открыли фуршетом — вот тебе refurbish."
     },
     {
       "term": "restore",
       "translation": "восстановить, реставрировать",
-      "example": "They are going to restore the fountain, which was taken out a few years ago."
+      "example": "They are going to restore the fountain, which was taken out a few years ago.",
+      "keyword": "ресторан",
+      "mnemonic": "Фонтан надо восстановить и реставрировать, а рядом уже открыли ресторан — вот тебе restore."
     }
   ]
 }

@@ -5,42 +5,58 @@
     {
       "phrase": "pull your weight",
       "translation": "вносить свой вклад",
-      "example": "Everyone needs to pull their weight."
+      "example": "Everyone needs to pull their weight.",
+      "keyword": "пуд",
+      "mnemonic": "Каждый должен вносить вклад — тяни свой пуд: pull their weight."
     },
     {
       "phrase": "pitch in",
       "translation": "помочь, включиться",
-      "example": "We all pitched in to finish on time."
+      "example": "We all pitched in to finish on time.",
+      "keyword": "питч",
+      "mnemonic": "Все включились, чтобы успеть, — устроили питч: pitched in to finish on time."
     },
     {
       "phrase": "work well under pressure",
       "translation": "работать под давлением",
-      "example": "She works well under pressure."
+      "example": "She works well under pressure.",
+      "keyword": "пресс",
+      "mnemonic": "Она хорошо работает под давлением — качает пресс: works well under pressure."
     },
     {
       "phrase": "share accomplishments",
       "translation": "делиться достижениями",
-      "example": "She likes to share accomplishments with the team."
+      "example": "She likes to share accomplishments with the team.",
+      "keyword": "комплимент",
+      "mnemonic": "Любит делиться достижениями — раздаёт комплименты: share accomplishments."
     },
     {
       "phrase": "support each other",
       "translation": "поддерживать друг друга",
-      "example": "In a good team people support each other."
+      "example": "In a good team people support each other.",
+      "keyword": "саппорт",
+      "mnemonic": "В хорошей команде поддерживают друг друга — саппорт рядом: support each other."
     },
     {
       "phrase": "bounce ideas off other people",
       "translation": "обсуждать идеи с другими",
-      "example": "We bounce ideas off other people in meetings."
+      "example": "We bounce ideas off other people in meetings.",
+      "keyword": "баунти",
+      "mnemonic": "Кидаемся идеями на встречах, как баунти: bounce ideas off other people."
     },
     {
       "phrase": "work in a team",
       "translation": "работать в команде",
-      "example": "He prefers to work in a team rather than alone."
+      "example": "He prefers to work in a team rather than alone.",
+      "keyword": "тимлид",
+      "mnemonic": "Предпочитает работать в команде, а не один, — нужен тимлид: work in a team."
     },
     {
       "phrase": "thank your team",
       "translation": "благодарить свою команду",
-      "example": "Do not forget to thank your team for their help."
+      "example": "Do not forget to thank your team for their help.",
+      "keyword": "санкция",
+      "mnemonic": "Не забудь поблагодарить команду — иначе санкция: thank your team."
     }
   ]
 }

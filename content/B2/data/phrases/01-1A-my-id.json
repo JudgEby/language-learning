@@ -5,42 +5,58 @@
     {
       "phrase": "take risks",
       "translation": "рисковать",
-      "example": "She loves to take risks when travelling."
+      "example": "She loves to take risks when travelling.",
+      "keyword": "риск",
+      "mnemonic": "Любит рисковать в поездках — риск её второе имя: loves to take risks."
     },
     {
       "phrase": "take after (sb)",
       "translation": "быть похожим на (родственника)",
-      "example": "He takes after his father."
+      "example": "He takes after his father.",
+      "keyword": "автор",
+      "mnemonic": "Похож на отца — вылитый автор: takes after his father, похож на родственника."
     },
     {
       "phrase": "first-born",
       "translation": "первенец в семье",
-      "example": "As the first-born, she felt responsible for her siblings."
+      "example": "As the first-born, she felt responsible for her siblings.",
+      "keyword": "борщ",
+      "mnemonic": "Как первенец, отвечала за всех — варила борщ: as the first-born, felt responsible."
     },
     {
       "phrase": "have a huge impact on (sth)",
       "translation": "оказывать огромное влияние на (что-то)",
-      "example": "Our experiences have a huge impact on our personalities."
+      "example": "Our experiences have a huge impact on our personalities.",
+      "keyword": "пакт",
+      "mnemonic": "Опыт оказывает огромное влияние — заключил пакт с характером: huge impact on personalities."
     },
     {
       "phrase": "play a part in (sth)",
       "translation": "играть роль в (чём-то)",
-      "example": "All the places I have lived play a part in who I am."
+      "example": "All the places I have lived play a part in who I am.",
+      "keyword": "парта",
+      "mnemonic": "Все места, где жил, играют роль — сидят за партой: play a part in who I am."
     },
     {
       "phrase": "take up (a hobby)",
       "translation": "начать заниматься (хобби)",
-      "example": "Recently I have taken up rock climbing and surfing."
+      "example": "Recently I have taken up rock climbing and surfing.",
+      "keyword": "апгрейд",
+      "mnemonic": "Недавно начал заниматься скалолазанием — апгрейд жизни: taken up rock climbing."
     },
     {
       "phrase": "get together with (friends)",
       "translation": "собираться вместе с (друзьями)",
-      "example": "I love getting together with a big group of friends."
+      "example": "I love getting together with a big group of friends.",
+      "keyword": "гетры",
+      "mnemonic": "Любит собираться с друзьями — надень гетры: getting together with friends."
     },
     {
       "phrase": "work late",
       "translation": "работать допоздна",
-      "example": "You will often find me working late at night to get the job done."
+      "example": "You will often find me working late at night to get the job done.",
+      "keyword": "лейтенант",
+      "mnemonic": "Допоздна на работе — дослужился до лейтенанта: working late at night."
     }
   ]
 }

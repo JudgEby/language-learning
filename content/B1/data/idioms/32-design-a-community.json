@@ -5,17 +5,23 @@
     {
       "idiom": "it takes a village to raise a child",
       "translation": "весь мир помогает растить ребёнка",
-      "example": "In our community, everyone helps with childcare — it takes a village to raise a child."
+      "example": "In our community, everyone helps with childcare — it takes a village to raise a child.",
+      "keyword": "виллидж",
+      "mnemonic": "Виллидж нянчит всех: it takes a village to raise a child — весь мир помогает растить ребёнка, все помогают с детьми."
     },
     {
       "idiom": "close-knit community",
       "translation": "сплочённое сообщество",
-      "example": "It's a close-knit community where everyone knows each other."
+      "example": "It's a close-knit community where everyone knows each other.",
+      "keyword": "нить",
+      "mnemonic": "Нить связывает всех: close-knit community — сплочённое сообщество, где все знают друг друга."
     },
     {
       "idiom": "pull together",
       "translation": "работать сообща",
-      "example": "In difficult times, the community pulled together to help each other."
+      "example": "In difficult times, the community pulled together to help each other.",
+      "keyword": "пул",
+      "mnemonic": "Пул в трудные времена: pull together — работать сообща и помогать друг другу."
     }
   ]
 }

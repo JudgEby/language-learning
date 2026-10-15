@@ -5,92 +5,128 @@
     {
       "phrase": "change the world",
       "translation": "изменить мир",
-      "example": "Simple inventions could change the world in the future."
+      "example": "Simple inventions could change the world in the future.",
+      "keyword": "чай",
+      "mnemonic": "Изобретатель пролил чай на чертёж и смог изменить мир случайностью, — чай плещет change the world."
     },
     {
       "phrase": "small benefits add up",
       "translation": "мелочи складываются",
-      "example": "A lot of small benefits would make a big difference when added up."
+      "example": "A lot of small benefits would make a big difference when added up.",
+      "keyword": "бенефис",
+      "mnemonic": "Артист дал бенефис мелочей: мелочи складываются в аншлаг, — бенефис гремит small benefits add up."
     },
     {
       "phrase": "make a big difference",
       "translation": "сильно изменить дело",
-      "example": "Small savings make a big difference when all added up."
+      "example": "Small savings make a big difference when all added up.",
+      "keyword": "дифферанс",
+      "mnemonic": "Экономия дала дифферанс в счетах: удалось сильно изменить дело, — дифферанс решает make a big difference."
     },
     {
       "phrase": "on a small or large scale",
       "translation": "в малом или большом масштабе",
-      "example": "The technology can be used on a small or large scale."
+      "example": "The technology can be used on a small or large scale.",
+      "keyword": "скала",
+      "mnemonic": "Технологию разложили от скалы до песчинки: она работает в малом или большом масштабе, — скала держит on a small or large scale."
     },
     {
       "phrase": "improve people's health",
       "translation": "улучшить здоровье людей",
-      "example": "The fabric could improve people's health in hot countries."
+      "example": "The fabric could improve people's health in hot countries.",
+      "keyword": "хелс",
+      "mnemonic": "Ткань с хелс-браслетом помогла улучшить здоровье людей в жару, — хелс пищит improve people's health."
     },
     {
       "phrase": "will have been addressed",
       "translation": "будут решены (к моменту)",
-      "example": "Within ten years, these issues will have been addressed."
+      "example": "Within ten years, these issues will have been addressed.",
+      "keyword": "адрес",
+      "mnemonic": "Письмо дошло на адрес вовремя: проблемы будут решены к сроку, — адрес доставил will have been addressed."
     },
     {
       "phrase": "costs will have come down",
       "translation": "расходы снизятся (к моменту)",
-      "example": "I am hopeful that the costs will have come down by then."
+      "example": "I am hopeful that the costs will have come down by then.",
+      "keyword": "кости",
+      "mnemonic": "Бухгалтер пересчитал кости сметы: расходы снизятся к сроку, — кости стучат costs will have come down."
     },
     {
       "phrase": "won't be using apps soon",
       "translation": "не будем пользоваться приложениями",
-      "example": "We won't be using food-scanner apps any time soon."
+      "example": "We won't be using food-scanner apps any time soon.",
+      "keyword": "апс",
+      "mnemonic": "Телефон кричит «апс!»: мы не будем пользоваться приложениями сканера, — апс глючит won't be using apps soon."
     },
     {
       "phrase": "building into new homes",
       "translation": "встраивать в новые дома",
-      "example": "Architects will have been building these systems into homes for a while."
+      "example": "Architects will have been building these systems into homes for a while.",
+      "keyword": "билдинг",
+      "mnemonic": "Билдинг-краны втискивают систему, чтобы встраивать в новые дома, — билдинг гудит building into new homes."
     },
     {
       "phrase": "found a way around the issue",
       "translation": "найти обходной путь",
-      "example": "Scientists will have found a way around this issue soon."
+      "example": "Scientists will have found a way around this issue soon.",
+      "keyword": "вей",
+      "mnemonic": "Учёный свернул на вей-объезд и смог найти обходной путь, — вей петляет found a way around the issue."
     },
     {
       "phrase": "become very popular",
       "translation": "стать очень популярным",
-      "example": "These devices will have become very popular within a few years."
+      "example": "These devices will have become very popular within a few years.",
+      "keyword": "попкорн",
+      "mnemonic": "Гаджет хрустит как попкорн: он смог стать очень популярным за годы, — попкорн лопается become very popular."
     },
     {
       "phrase": "cut down on waste",
       "translation": "сократить отходы",
-      "example": "The new shower will definitely cut down on a lot of waste."
+      "example": "The new shower will definitely cut down on a lot of waste.",
+      "keyword": "кат",
+      "mnemonic": "Душ отрезал кат-норму воды и помог сократить отходы, — кат режет cut down on waste."
     },
     {
       "phrase": "produce energy cleanly",
       "translation": "производить энергию чисто",
-      "example": "It will produce energy in a way that does not harm nature."
+      "example": "It will produce energy in a way that does not harm nature.",
+      "keyword": "клин",
+      "mnemonic": "Турбина дала клин-тишину: стала производить энергию чисто без вреда, — клин свистит produce energy cleanly."
     },
     {
       "phrase": "harm the environment",
       "translation": "вредить окружающей среде",
-      "example": "The car runs without anything that harms the environment."
+      "example": "The car runs without anything that harms the environment.",
+      "keyword": "хам",
+      "mnemonic": "Выхлоп как хам лезет: он любит вредить окружающей среде, — хам чадит harm the environment."
     },
     {
       "phrase": "already in use",
       "translation": "уже в ходу",
-      "example": "It is already in use, so we will all have it in ten years."
+      "example": "It is already in use, so we will all have it in ten years.",
+      "keyword": "юз",
+      "mnemonic": "Прибор уже в юзе: он уже в ходу и будет у всех, — юз жужжит already in use."
     },
     {
       "phrase": "cheaper to produce",
       "translation": "дешевле производить",
-      "example": "It will be cheaper to produce, so it will be widely used."
+      "example": "It will be cheaper to produce, so it will be widely used.",
+      "keyword": "чип",
+      "mnemonic": "Чип подешевел в сборке: стало дешевле производить приборы, — чип пищит cheaper to produce."
     },
     {
       "phrase": "encourage healthier options",
       "translation": "побуждать к здоровому выбору",
-      "example": "Clear labels would encourage sellers to offer healthier options."
+      "example": "Clear labels would encourage sellers to offer healthier options.",
+      "keyword": "кураж",
+      "mnemonic": "Этикетка дала кураж: стала побуждать к здоровому выбору, — кураж бодрит encourage healthier options."
     },
     {
       "phrase": "change people's lives",
       "translation": "менять жизнь людей",
-      "example": "Electricity changed people's lives by giving them light."
+      "example": "Electricity changed people's lives by giving them light.",
+      "keyword": "лайв",
+      "mnemonic": "Электричество вышло в лайв-эфир и стало менять жизнь людей светом, — лайв светит change people's lives."
     }
   ]
 }

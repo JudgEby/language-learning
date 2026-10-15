@@ -5,77 +5,107 @@
     {
       "term": "hand-held",
       "translation": "ручной, портативный",
-      "example": "I love my new hand-held massager for relaxing tired muscles."
+      "example": "I love my new hand-held massager for relaxing tired muscles.",
+      "keyword": "хендмейд",
+      "mnemonic": "Обожаю новый ручной массажёр для уставших мышц — держи хендмейд, это hand-held."
     },
     {
       "term": "user-friendly",
       "translation": "удобный в использовании",
-      "example": "This microwave is really user-friendly — you don't need the instruction book."
+      "example": "This microwave is really user-friendly — you don't need the instruction book.",
+      "keyword": "френдзона",
+      "mnemonic": "Микроволновка такая удобная, что инструкция не нужна, — вышла из френдзоны, это user-friendly."
     },
     {
       "term": "energy-efficient",
       "translation": "энергоэффективный",
-      "example": "An energy-efficient heater will save you lots of money on bills."
+      "example": "An energy-efficient heater will save you lots of money on bills.",
+      "keyword": "эффект",
+      "mnemonic": "Энергоэффективный обогреватель сэкономит на счетах — вот это эффект, это energy-efficient."
     },
     {
       "term": "state-of-the-art",
       "translation": "современный, передовой",
-      "example": "The health tracker uses state-of-the-art technology to monitor your health."
+      "example": "The health tracker uses state-of-the-art technology to monitor your health.",
+      "keyword": "арт",
+      "mnemonic": "Трекер здоровья с самой передовой технологией — чистый арт, это state-of-the-art."
     },
     {
       "term": "recyclable",
       "translation": "пригодный для переработки",
-      "example": "One of the best things about this device is that it's completely recyclable."
+      "example": "One of the best things about this device is that it's completely recyclable.",
+      "keyword": "сайклинг",
+      "mnemonic": "Лучшее в этом устройстве — оно полностью пригодно для переработки: отправь на сайклинг, это recyclable."
     },
     {
       "term": "environmentally friendly",
       "translation": "экологичный",
-      "example": "This cleaning product contains no hazardous chemicals and is environmentally friendly."
+      "example": "This cleaning product contains no hazardous chemicals and is environmentally friendly.",
+      "keyword": "инвентарь",
+      "mnemonic": "Средство без опасной химии, экологичное, — проверь инвентарь чистоты, это environmentally friendly."
     },
     {
       "term": "hazardous",
       "translation": "опасный",
-      "example": "Some cleaning products contain hazardous chemicals that are harmful to the environment."
+      "example": "Some cleaning products contain hazardous chemicals that are harmful to the environment.",
+      "keyword": "азарт",
+      "mnemonic": "Некоторые средства содержат опасную химию — чистый азарт, это hazardous."
     },
     {
       "term": "device",
       "translation": "устройство",
-      "example": "This hand-held device is great for massaging tired muscles."
+      "example": "This hand-held device is great for massaging tired muscles.",
+      "keyword": "девица",
+      "mnemonic": "Это ручное устройство отлично массирует мышцы — как девица-массажистка, это device."
     },
     {
       "term": "invention",
       "translation": "изобретение",
-      "example": "The invention of the smartphone changed the way we communicate."
+      "example": "The invention of the smartphone changed the way we communicate.",
+      "keyword": "вентилятор",
+      "mnemonic": "Изобретение смартфона изменило общение — дует вентилятор перемен, это invention."
     },
     {
       "term": "monitor",
       "translation": "отслеживать, контролировать",
-      "example": "A device that could monitor my brain as I sleep."
+      "example": "A device that could monitor my brain as I sleep.",
+      "keyword": "монитор",
+      "mnemonic": "Девайс, что отслеживает мозг во сне, — смотри в монитор, это monitor."
     },
     {
       "term": "convert",
       "translation": "преобразовывать",
-      "example": "Convert my thought patterns into a story I could read."
+      "example": "Convert my thought patterns into a story I could read.",
+      "keyword": "конверт",
+      "mnemonic": "Преобразуй мысли в историю — сложи в конверт, это convert."
     },
     {
       "term": "detect",
       "translation": "обнаруживать",
-      "example": "Clothes that can detect dirt and clean themselves."
+      "example": "Clothes that can detect dirt and clean themselves.",
+      "keyword": "детектив",
+      "mnemonic": "Одежда, что обнаруживает грязь и чистится сама, — найми детектива, это detect."
     },
     {
       "term": "activate",
       "translation": "активировать, запускать",
-      "example": "Activate their own cleaning process to eliminate dirt."
+      "example": "Activate their own cleaning process to eliminate dirt.",
+      "keyword": "актив",
+      "mnemonic": "Запусти собственный процесс очистки от грязи — включи актив, это activate."
     },
     {
       "term": "eliminate",
       "translation": "устранять",
-      "example": "To eliminate dirt, so I'd never have to do washing."
+      "example": "To eliminate dirt, so I'd never have to do washing.",
+      "keyword": "лимонад",
+      "mnemonic": "Чтобы устранить грязь и забыть о стирке — выпей лимонад, это eliminate."
     },
     {
       "term": "generate",
       "translation": "вырабатывать, производить",
-      "example": "A car that could generate its own power."
+      "example": "A car that could generate its own power.",
+      "keyword": "генератор",
+      "mnemonic": "Машина, что вырабатывает энергию сама, — встроенный генератор, это generate."
     },
     {
       "term": "emit",
@@ -85,17 +115,23 @@
     {
       "term": "recharge",
       "translation": "заряжать",
-      "example": "No need to recharge the battery."
+      "example": "No need to recharge the battery.",
+      "keyword": "Ричард",
+      "mnemonic": "Батарею заряжать не нужно — Ричард уже всё зарядил, это recharge."
     },
     {
       "term": "modify",
       "translation": "модифицировать, видоизменять",
-      "example": "A way to modify our favourite foods."
+      "example": "A way to modify our favourite foods.",
+      "keyword": "мода",
+      "mnemonic": "Способ видоизменить любимую еду — следи за модой, это modify."
     },
     {
       "term": "revolutionise",
       "translation": "совершить революцию в чём-то",
-      "example": "That would really revolutionise our diets and our health!"
+      "example": "That would really revolutionise our diets and our health!",
+      "keyword": "революция",
+      "mnemonic": "Это совершит революцию в диетах и здоровье — настоящая революция, это revolutionise."
     }
   ]
 }

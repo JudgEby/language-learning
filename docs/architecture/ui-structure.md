@@ -1,7 +1,7 @@
 # UI Structure
 
-Covers: `app/src/main.tsx`, `app/src/App.tsx`, `app/src/pages/`, `app/src/components/`, `app/src/lib/plural.ts`, `app/src/index.css`, `app/index.html`
-Read when: adding a page, route, or component; changing UI copy; changing colours or the theme.
+Covers: `app/src/main.tsx`, `app/src/App.tsx`, `app/src/pages/`, `app/src/components/`, `app/src/lib/plural.ts`, `app/src/index.css`, `app/index.html`, `app/e2e/`, `app/playwright.config.ts`
+Read when: adding a page, route, or component; changing UI copy; changing colours or the theme; writing or debugging an e2e test.
 
 ## Entry and providers
 
@@ -26,8 +26,9 @@ whether `dayId` is present in the params.
 
 | Path | Component | Purpose |
 |---|---|---|
-| `/` | `HomePage` | level list |
-| `/:level` | `LevelPage` | choose study or tests |
+| `/` | `HomePage` | level list, plus the global «Карточки» entry |
+| `/flashcards` | `FlashcardsPage` | SM-2 review session, settings, scope picker |
+| `/:level` | `LevelPage` | choose study, tests, or level-scoped cards |
 | `/:level/rules` | `RulesListPage` | flat numbered study list |
 | `/:level/rules/:studyKeyParam` | `StudyViewPage` | one rule or lexicon |
 | `/:level/tests` | `TestsListPage` | all days, all questions |
@@ -43,7 +44,8 @@ with `parseStudyKey()`. `:questionIndex` is parsed with `parseInt`. Breadcrumbs 
 
 ### `HomePage.tsx`
 `listLevels()` in a `useEffect(…, [])`; tri-state `loading` / `error` / `levels`. Renders
-`PageHeader title="Language Learning"` with `Logo` (48×31), then `ul.card-list` of
+`PageHeader title="Language Learning"` with `Logo` (48×31), then an `action-list`
+with the global «Карточки» link to `/flashcards`, then `ul.card-list` of
 `Link.card` per level.
 
 Card title is the level title, which equals the level id — `A2`, `A2+`, `B1`, `B2`, `B2+`.
@@ -62,7 +64,8 @@ Empty state: «Нет доступных уровней…».
 `useParams().level`, `loadManifest(level)` keyed on `[level]`. Renders a back link to `/`
 and `div.action-list` of conditional `action-btn` links: «Изучать правила» →
 `/{level}/rules` when `studyOrder.length`, «Проходить тесты» → `/{level}/tests` when
-`testDays.length`, otherwise «Для этого уровня пока нет материалов.»
+`testDays.length`, «Карточки» → `/flashcards?level={level}` when `studyOrder.length`,
+otherwise «Для этого уровня пока нет материалов.»
 
 ### `RulesListPage.tsx`
 Loads the manifest, then `Promise.all(manifest.studyOrder.map(resolveStudyTitle))` — one
@@ -84,6 +87,31 @@ Decodes `studyKeyParam`, then loads `loadRule` or `loadLexicon` by `type`.
 Footer: primary button `markStudyComplete` (disabled and relabelled «Отмечено как
 пройденное» once done) plus a secondary back button navigating to `listPath`, which is
 `/{level}/tests/{dayId}/study` in the day context and `/{level}/rules` otherwise.
+On lexicon entries (any `type` except `rule`) a second secondary button «Карточки»
+navigates to `/flashcards?lesson={level}|{studyKey}` — a fixed single-lesson deck.
+
+### `FlashcardsPage.tsx`
+
+Route `/flashcards` (static, so it wins over `/:level`). The review session comes
+first, then the two configuration sections:
+
+- Scope («Что повторяем»): level checkboxes, category toggles
+  (`vocabulary`/`phrases`/`idioms`), per-level collapsible lesson checklists with
+  titles via `resolveStudyTitle`. Hidden in single-lesson mode (`?lesson=`), which
+  instead shows a fixed-deck note with a «Показать выбор уровней и уроков» reset.
+- Settings («Настройки»): direction (`en-ru`/`ru-en`/`mixed`), `newPerDay`,
+  example toggle, progress reset behind `ConfirmModal`.
+- Review: queue counters, then `FlashcardView` (front → «Показать ответ» →
+  translation, example, keyword/mnemonic block → four grades
+  «Снова»/«Трудно»/«Хорошо»/«Легко»). The session always shows the head of the
+  queue — a graded card leaves it, so no index state exists.
+
+Entry presets come from search params consumed once on mount: `?level=` selects
+one level, `?lesson={level}|{studyKey}` pins a fixed single-lesson deck. First
+visit selects all levels via `ensureInitialized`; afterwards stored settings win.
+A plain visit (no params) clears a stuck lesson filter. The back link follows
+the entry: lesson deck → the lesson study page («К списку»), level preset →
+the level page («К уровню»), plain visit → `/` («Ко всем уровням»).
 
 ### `TestsListPage.tsx`
 Loads the manifest, then `Promise.all` over **every** day file — all days are fetched up
@@ -122,11 +150,12 @@ rendered through `ReactMarkdown` + `remark-gfm` again.
 
 | File | Exports | Notes |
 |---|---|---|
-| `Layout.tsx` | `BackLink`, `PageHeader`, `CheckMark` | despite the filename there is **no** `Layout` export |
+| `Layout.tsx` | `BackLink`, `PageHeader`, `CheckMark`, `Toggle` | despite the filename there is **no** `Layout` export |
 | `ConfirmModal.tsx` | `ConfirmModal` | controlled; returns `null` when closed |
 | `ThemeProvider.tsx` | `ThemeProvider` | effect-only sync, passes children through unchanged |
 | `ThemeToggle.tsx` | `ThemeToggle` | fixed top-right button |
 | `Logo.tsx` | `Logo`, `LogoProps` | two "L" glyphs, neon gradient `#ff1493 → #8338ec → #fb5607 → #ffbe0b` |
+| `FlashcardView.tsx` | `FlashcardView` | card front/answer, example, mnemonic block, four grade buttons |
 
 `BackLink({to, label})` renders `.back-link` with a `← ` prefix. `PageHeader({title, backTo,
 backLabel, actions})` renders `.page-header`, `.page-header__row`, `.page-header__actions`.
@@ -134,7 +163,10 @@ backLabel, actions})` renders `.page-header`, `.page-header__row`, `.page-header
 native checkbox inside `label.study-checkbox` (icon state driven by `--done`) so keyboard and
 screen-reader users get a real control; without `onChange` it renders a read-only
 `.check-mark`. `CheckIcon()` is a 24×24 inline SVG with path `M20 6L9 17l-5-5`,
-`stroke="currentColor"`.
+`stroke="currentColor"`. `Toggle({checked, onChange, label})` is a switch-style
+control over a native checkbox, so keyboard, screen readers and
+`getByRole('checkbox')` in e2e keep working; used for every flashcards
+scope/settings switch.
 
 `ConfirmModal` defaults: `confirmLabel='Подтвердить'`, `cancelLabel='Отмена'`, cancel styled
 `btn-secondary`, confirm `btn-danger`. Backdrop click closes (`.modal-overlay`),
@@ -204,8 +236,29 @@ Level ids (`A2`, `A2+`, `B1`, `B2`, `B2+`) are not UI copy — they are data and
 
 When adding a Russian count to the UI, use `plural()` from `lib/plural.ts` instead of writing
 the three forms inline — the `11-14` and `1`/`2-4` exceptions are easy to miss by hand.
+Ready-made helpers exist for lessons, test days, flashcards and study materials
+(`lessons()`, `testDays()`, `cards()`, `materials()`).
 
 When adding UI copy, keep it Russian. Repo documentation, in contrast, is English.
+
+## E2E tests (`app/e2e/`, `app/playwright.config.ts`)
+
+Chromium-only Playwright suite, run with `npm run e2e` from `app/`. The config
+starts the Vite dev server itself (`webServer`, port 5173, `reuseExistingServer`
+outside CI), so no manual `dev` is needed. Screenshots are kept only on failure.
+
+- `e2e/smoke.spec.ts` — every route renders: home, level, rules list + one
+  study page, tests list, `/flashcards` with its three sections.
+- `e2e/flashcards.spec.ts` — the review loop on a clean `localStorage`: the
+  answer block is covered (`visibility: hidden`, space reserved) until
+  «Показать ответ», grading advances the head card, and `?level=` presets the
+  scope.
+
+Conventions: drive tests through public pages as a user would; reset
+`localStorage` in `beforeEach` (flashcards settings persist); select by visible
+Russian copy (`getByRole` + text), not by CSS classes, except for
+layout-asserting internals (`.flash-back--covered`, `.flash-answer`,
+`.flash-front`).
 
 ## Conventions for UI changes
 

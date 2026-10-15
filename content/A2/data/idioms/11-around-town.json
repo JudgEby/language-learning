@@ -5,37 +5,51 @@
     {
       "idiom": "in the centre of town",
       "translation": "в центре города",
-      "example": "The museum is in the centre of town."
+      "example": "The museum is in the centre of town.",
+      "keyword": "цирк",
+      "mnemonic": "Цирк in the centre of town — в центре города."
     },
     {
       "idiom": "open late",
       "translation": "открыт допоздна",
-      "example": "The supermarket is open late on Fridays."
+      "example": "The supermarket is open late on Fridays.",
+      "keyword": "латте",
+      "mnemonic": "Супермаркет с латте open late — открыт допоздна."
     },
     {
       "idiom": "pop into the pharmacy",
       "translation": "заскочить в аптеку",
-      "example": "Pop into the pharmacy for me, please."
+      "example": "Pop into the pharmacy for me, please.",
+      "keyword": "попкорн",
+      "mnemonic": "С попкорном pop into the pharmacy — заскочить в аптеку."
     },
     {
       "idiom": "across the street",
       "translation": "через дорогу",
-      "example": "The bank is across the street from the school."
+      "example": "The bank is across the street from the school.",
+      "keyword": "строитель",
+      "mnemonic": "Строитель меряет across the street — через дорогу."
     },
     {
       "idiom": "on the corner",
       "translation": "на углу",
-      "example": "The cafe is on the corner of the street."
+      "example": "The cafe is on the corner of the street.",
+      "keyword": "корова",
+      "mnemonic": "Корова стоит on the corner — на углу."
     },
     {
       "idiom": "find your way around town",
       "translation": "ориентироваться в городе",
-      "example": "You will soon find your way around town."
+      "example": "You will soon find your way around town.",
+      "keyword": "вейп",
+      "mnemonic": "Турист с вейпом find your way around town — ориентироваться в городе."
     },
     {
       "idiom": "a short walk from here",
       "translation": "в двух шагах отсюда",
-      "example": "The library is a short walk from here."
+      "example": "The library is a short walk from here.",
+      "keyword": "шорты",
+      "mnemonic": "Библиотека в шортах: a short walk from here — в двух шагах отсюда."
     }
   ]
 }

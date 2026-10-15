@@ -5,102 +5,142 @@
     {
       "term": "competence",
       "translation": "компетентность",
-      "example": "Her competence in the role was obvious."
+      "example": "Her competence in the role was obvious.",
+      "keyword": "компот",
+      "mnemonic": "Компетентность видна в компоте её роли — вот тебе competence."
     },
     {
       "term": "experienced",
       "translation": "опытный",
-      "example": "We are looking for an experienced designer."
+      "example": "We are looking for an experienced designer.",
+      "keyword": "эксперт",
+      "mnemonic": "Опытный эксперт ищет дизайнера — вот тебе experienced."
     },
     {
       "term": "inexperienced",
       "translation": "неопытный",
-      "example": "He is young and inexperienced but eager to learn."
+      "example": "He is young and inexperienced but eager to learn.",
+      "keyword": "не эксперт",
+      "mnemonic": "Молодой неопытный — не эксперт, но учится, вот тебе inexperienced."
     },
     {
       "term": "incompetent",
       "translation": "некомпетентный",
-      "example": "The manager was fired for being incompetent."
+      "example": "The manager was fired for being incompetent.",
+      "keyword": "компот нет",
+      "mnemonic": "Некомпетентного уволили — компот нет, вот тебе incompetent."
     },
     {
       "term": "proficiency",
       "translation": "владение, профессионализм",
-      "example": "She has a high level of proficiency in Spanish."
+      "example": "She has a high level of proficiency in Spanish.",
+      "keyword": "профи",
+      "mnemonic": "Высокое владение испанским у профи — вот тебе proficiency."
     },
     {
       "term": "skilled",
       "translation": "квалифицированный, искусный",
-      "example": "Skilled workers are in high demand."
+      "example": "Skilled workers are in high demand.",
+      "keyword": "скидка",
+      "mnemonic": "Квалифицированным искусным дают скидку на рынке — вот тебе skilled."
     },
     {
       "term": "unskilled",
       "translation": "неквалифицированный",
-      "example": "He started with an unskilled job at the factory."
+      "example": "He started with an unskilled job at the factory.",
+      "keyword": "не скидка",
+      "mnemonic": "Неквалифицированному — не скидка, а завод, вот тебе unskilled."
     },
     {
       "term": "training",
       "translation": "обучение, подготовка",
-      "example": "All new staff receive two weeks of training."
+      "example": "All new staff receive two weeks of training.",
+      "keyword": "треник",
+      "mnemonic": "Две недели обучения в трениках — вот тебе training."
     },
     {
       "term": "trained",
       "translation": "обученный, подготовленный",
-      "example": "She is fully trained in first aid."
+      "example": "She is fully trained in first aid.",
+      "keyword": "тренер",
+      "mnemonic": "Полностью обученный тренер с аптечкой — вот тебе trained."
     },
     {
       "term": "untrained",
       "translation": "необученный",
-      "example": "Untrained employees cannot operate this machine."
+      "example": "Untrained employees cannot operate this machine.",
+      "keyword": "не тренер",
+      "mnemonic": "Необученный — не тренер, к станку не пустим, вот тебе untrained."
     },
     {
       "term": "That's quite a broad topic",
       "translation": "«это широкая тема» (выигрыш времени)",
-      "example": "That's quite a broad topic. Perhaps I could just talk about my last job."
+      "example": "That's quite a broad topic. Perhaps I could just talk about my last job.",
+      "keyword": "брод",
+      "mnemonic": "Широкая тема, как брод через реку про работу, — вот тебе That's quite a broad topic."
     },
     {
       "term": "Perhaps I could just talk about…",
       "translation": "«может, я расскажу о…» (переход к своей теме)",
-      "example": "Perhaps I could just talk about one incident I dealt with recently."
+      "example": "Perhaps I could just talk about one incident I dealt with recently.",
+      "keyword": "первый",
+      "mnemonic": "Может, расскажу о первом случае на работе — вот тебе Perhaps I could just talk about…"
     },
     {
       "term": "The most important point here is…",
       "translation": "«главное здесь…» (переход к своей теме)",
-      "example": "The most important point here is that I'm committed to ongoing training."
+      "example": "The most important point here is that I'm committed to ongoing training.",
+      "keyword": "понт",
+      "mnemonic": "Главное здесь — не понт, а учёба, вот тебе The most important point here is…"
     },
     {
       "term": "That's an interesting question",
       "translation": "«интересный вопрос» (выигрыш времени)",
-      "example": "That's an interesting question. What I can say is that I'm a quick learner."
+      "example": "That's an interesting question. What I can say is that I'm a quick learner.",
+      "keyword": "интрига",
+      "mnemonic": "Интересный вопрос с интригой тянет время — вот тебе That's an interesting question."
     },
     {
       "term": "What I can say is…",
       "translation": "«что я могу сказать…» (переход к своей теме)",
-      "example": "What I can say is that I believe in giving great customer service."
+      "example": "What I can say is that I believe in giving great customer service.",
+      "keyword": "сей",
+      "mnemonic": "Что могу сказать — сей же час про сервис, вот тебе What I can say is…"
     },
     {
       "term": "I've thought about this quite a lot",
       "translation": "«я много об этом думал» (выигрыш времени)",
-      "example": "I've thought about this quite a lot over the years."
+      "example": "I've thought about this quite a lot over the years.",
+      "keyword": "сотка",
+      "mnemonic": "Много об этом думал — целая сотка мыслей за годы, вот тебе I've thought about this quite a lot."
     },
     {
       "term": "Can I just say that…",
       "translation": "«позвольте заметить…» (переход к своей теме)",
-      "example": "Can I just say that I'm an extremely hard worker?"
+      "example": "Can I just say that I'm an extremely hard worker?",
+      "keyword": "сядь",
+      "mnemonic": "Позвольте заметить — сядь и слушай про труд, вот тебе Can I just say that…"
     },
     {
       "term": "handy",
       "translation": "умелый, ловкий",
-      "example": "I'm quite handy with most tools."
+      "example": "I'm quite handy with most tools.",
+      "keyword": "хана",
+      "mnemonic": "Умелый с инструментами — хана всем поломкам, вот тебе handy."
     },
     {
       "term": "hopeless",
       "translation": "безнадёжный (в чём-то)",
-      "example": "I thought I'd be hopeless at the new job."
+      "example": "I thought I'd be hopeless at the new job.",
+      "keyword": "хоп",
+      "mnemonic": "Безнадёжный на работе кричит «хоп!» и падает — вот тебе hopeless."
     },
     {
       "term": "beyond me",
       "translation": "выше моего понимания, мне не по силам",
-      "example": "I thought the new job would be beyond me."
+      "example": "I thought the new job would be beyond me.",
+      "keyword": "бидон",
+      "mnemonic": "Выше понимания и не по силам — бидон с работой не поднять, вот тебе beyond me."
     }
   ]
 }

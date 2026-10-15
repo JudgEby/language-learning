@@ -2,13 +2,61 @@
   "lessonId": "the-great-impostor",
   "title": "The great impostor — фразы",
   "items": [
-    { "phrase": "I went to the library to study.", "translation": "Я пошёл в библиотеку, чтобы заниматься.", "example": "I went to the library to study for my final exams." },
-    { "phrase": "I was tired so I went to bed.", "translation": "Я устал, поэтому пошёл спать.", "example": "I was tired so I went to bed early." },
-    { "phrase": "I was late because I missed the bus.", "translation": "Я опоздал, потому что пропустил автобус.", "example": "I was late because I missed the bus this morning." },
-    { "phrase": "We stayed inside because of the rain.", "translation": "Мы остались внутри из-за дождя.", "example": "We stayed inside because of the heavy rain." },
-    { "phrase": "She called him to invite him to the party.", "translation": "Она позвонила ему, чтобы пригласить на вечеринку.", "example": "She called him to invite him to the party." },
-    { "phrase": "I set an alarm so that I wouldn't oversleep.", "translation": "Я поставил будильник, чтобы не проспать.", "example": "I set an alarm so that I wouldn't oversleep." },
-    { "phrase": "He studied hard because he wanted to pass.", "translation": "Он много занимался, потому что хотел сдать.", "example": "He studied hard because he wanted to pass the exam." },
-    { "phrase": "There was a traffic jam so we missed the flight.", "translation": "Была пробка, поэтому мы опоздали на рейс.", "example": "There was a traffic jam so we missed the flight." }
+    {
+      "phrase": "I went to the library to study.",
+      "translation": "Я пошёл в библиотеку, чтобы заниматься.",
+      "example": "I went to the library to study for my final exams.",
+      "keyword": "ребята",
+      "mnemonic": "Ребята с учебниками топают I went to the library to study — Я пошёл в библиотеку, чтобы заниматься к экзаменам."
+    },
+    {
+      "phrase": "I was tired so I went to bed.",
+      "translation": "Я устал, поэтому пошёл спать.",
+      "example": "I was tired so I went to bed early.",
+      "keyword": "тир",
+      "mnemonic": "Стрелок устал в тире — I was tired so I went to bed, Я устал, поэтому пошёл спать рано."
+    },
+    {
+      "phrase": "I was late because I missed the bus.",
+      "translation": "Я опоздал, потому что пропустил автобус.",
+      "example": "I was late because I missed the bus this morning.",
+      "keyword": "лапти",
+      "mnemonic": "В лаптях бежит за автобусом — I was late because I missed the bus, Я опоздал, потому что пропустил автобус утром."
+    },
+    {
+      "phrase": "We stayed inside because of the rain.",
+      "translation": "Мы остались внутри из-за дождя.",
+      "example": "We stayed inside because of the heavy rain.",
+      "keyword": "рейнджер",
+      "mnemonic": "Рейнджер под ливнем держит крышу — We stayed inside because of the rain, Мы остались внутри из-за дождя."
+    },
+    {
+      "phrase": "She called him to invite him to the party.",
+      "translation": "Она позвонила ему, чтобы пригласить на вечеринку.",
+      "example": "She called him to invite him to the party.",
+      "keyword": "инвестор",
+      "mnemonic": "Инвестор звонит с вечеринки — She called him to invite him to the party, Она позвонила ему, чтобы пригласить на вечеринку."
+    },
+    {
+      "phrase": "I set an alarm so that I wouldn't oversleep.",
+      "translation": "Я поставил будильник, чтобы не проспать.",
+      "example": "I set an alarm so that I wouldn't oversleep.",
+      "keyword": "ларчик",
+      "mnemonic": "Дед с ларчиком-будильником — I set an alarm so that I wouldn't oversleep, Я поставил будильник, чтобы не проспать."
+    },
+    {
+      "phrase": "He studied hard because he wanted to pass.",
+      "translation": "Он много занимался, потому что хотел сдать.",
+      "example": "He studied hard because he wanted to pass the exam.",
+      "keyword": "пас",
+      "mnemonic": "Зубрила отдаёт пас экзамену — He studied hard because he wanted to pass, Он много занимался, потому что хотел сдать."
+    },
+    {
+      "phrase": "There was a traffic jam so we missed the flight.",
+      "translation": "Была пробка, поэтому мы опоздали на рейс.",
+      "example": "There was a traffic jam so we missed the flight.",
+      "keyword": "джем",
+      "mnemonic": "Автобус в джеме из машин — There was a traffic jam so we missed the flight, Была пробка, поэтому мы опоздали на рейс."
+    }
   ]
 }

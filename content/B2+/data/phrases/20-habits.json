@@ -5,92 +5,128 @@
     {
       "phrase": "follow a routine",
       "translation": "придерживаться распорядка",
-      "example": "I follow a similar routine in most areas of my life."
+      "example": "I follow a similar routine in most areas of my life.",
+      "keyword": "рутина",
+      "mnemonic": "Рутина держит за руку, чтобы придерживаться распорядка каждый день, — рутина ведёт follow a routine."
     },
     {
       "phrase": "do things differently",
       "translation": "делать по-другому",
-      "example": "In some areas I like to change and do things differently."
+      "example": "In some areas I like to change and do things differently.",
+      "keyword": "дифферент",
+      "mnemonic": "Корабль дал дифферент и стал делать по-другому — крениться на бок, а дифферент кренит do things differently."
     },
     {
       "phrase": "in exactly the same order",
       "translation": "в ровно том же порядке",
-      "example": "I do certain things in exactly the same order every day."
+      "example": "I do certain things in exactly the same order every day.",
+      "keyword": "ордер",
+      "mnemonic": "Каждое утро строю дела по ордеру — всё в ровно том же порядке, а ордер командует in exactly the same order."
     },
     {
       "phrase": "make plans",
       "translation": "строить планы",
-      "example": "She is not keen on making plans for the weekend."
+      "example": "She is not keen on making plans for the weekend.",
+      "keyword": "планка",
+      "mnemonic": "Прыгунья подняла планку и стала строить планы на выходные выше крыши — планка держит make plans."
     },
     {
       "phrase": "feel secure",
       "translation": "чувствовать себя уверенно",
-      "example": "My routines make me feel secure when life is busy."
+      "example": "My routines make me feel secure when life is busy.",
+      "keyword": "секьюрити",
+      "mnemonic": "Секьюрити у двери помогает чувствовать себя уверенно в суете — секьюрити охраняет feel secure."
     },
     {
       "phrase": "feel natural and automatic",
       "translation": "ощущаться естественным",
-      "example": "After a month, the new actions feel natural and automatic."
+      "example": "After a month, the new actions feel natural and automatic.",
+      "keyword": "автомат",
+      "mnemonic": "Новый навык строчит как автомат и уже ощущается естественным — автомат щёлкает feel natural and automatic."
     },
     {
       "phrase": "prevent you from changing",
       "translation": "мешать меняться",
-      "example": "Plans that are too fixed may prevent you from changing."
+      "example": "Plans that are too fixed may prevent you from changing.",
+      "keyword": "брезент",
+      "mnemonic": "Жёсткий план накрыли брезентом, и он стал мешать меняться — брезент душит prevent you from changing."
     },
     {
       "phrase": "try new experiences",
       "translation": "пробовать новое",
-      "example": "She thinks she ought to try new experiences this year."
+      "example": "She thinks she ought to try new experiences this year.",
+      "keyword": "экспресс",
+      "mnemonic": "Она села в экспресс, чтобы пробовать новое в каждом городе, — экспресс мчит try new experiences."
     },
     {
       "phrase": "feel in control",
       "translation": "чувствовать контроль",
-      "example": "Strict routines help him feel in control of his life."
+      "example": "Strict routines help him feel in control of his life.",
+      "keyword": "контора",
+      "mnemonic": "Он открыл контору расписаний и стал чувствовать контроль над жизнью — контора штампует feel in control."
     },
     {
       "phrase": "have strict routines",
       "translation": "иметь строгий распорядок",
-      "example": "To be successful in life, you need to have strict routines."
+      "example": "To be successful in life, you need to have strict routines.",
+      "keyword": "стриж",
+      "mnemonic": "Стриж летает по минутам и учит иметь строгий распорядок — стриж свистит have strict routines."
     },
     {
       "phrase": "tackle the problem head on",
       "translation": "взяться за проблему вплотную",
-      "example": "I decided to tackle the problem head on and make big changes."
+      "example": "I decided to tackle the problem head on and make big changes.",
+      "keyword": "такелаж",
+      "mnemonic": "Матрос подтянул такелаж и решился взяться за проблему вплотную — такелаж тянет tackle the problem head on."
     },
     {
       "phrase": "from time to time",
       "translation": "время от времени",
-      "example": "I like to go outside my comfort zone from time to time."
+      "example": "I like to go outside my comfort zone from time to time.",
+      "keyword": "таймер",
+      "mnemonic": "Таймер звонит время от времени и выгоняет из комфорта — таймер тикает from time to time."
     },
     {
       "phrase": "in case something goes wrong",
       "translation": "на случай если что-то пойдёт не так",
-      "example": "It is important to have a back-up plan in case something goes wrong."
+      "example": "It is important to have a back-up plan in case something goes wrong.",
+      "keyword": "кейс",
+      "mnemonic": "Запасной план лежит в кейсе на случай если что-то пойдёт не так — кейс хранит in case something goes wrong."
     },
     {
       "phrase": "go outside your comfort zone",
       "translation": "выйти из зоны комфорта",
-      "example": "New habits allow you to go outside your comfort zone."
+      "example": "New habits allow you to go outside your comfort zone.",
+      "keyword": "конфорка",
+      "mnemonic": "Привычки выключили конфорку уюта и заставили выйти из зоны комфорта — конфорка гаснет в go outside your comfort zone."
     },
     {
       "phrase": "Let's be honest",
       "translation": "честно говоря",
-      "example": "Let's be honest, strict routines do not suit everyone."
+      "example": "Let's be honest, strict routines do not suit everyone.",
+      "keyword": "анис",
+      "mnemonic": "Нюхнул анис и признался: честно говоря, распорядок не для всех — анис пахнет Let's be honest."
     },
     {
       "phrase": "If you think about it",
       "translation": "если задуматься",
-      "example": "If you think about it, routines give you a sense of comfort."
+      "example": "If you think about it, routines give you a sense of comfort.",
+      "keyword": "тын",
+      "mnemonic": "Уткнулся лбом в тын и замер: если задуматься, распорядок даёт уют — тын держит If you think about it."
     },
     {
       "phrase": "You have to admit that",
       "translation": "надо признать, что",
-      "example": "You have to admit that habits shape most of our day."
+      "example": "You have to admit that habits shape most of our day.",
+      "keyword": "админ",
+      "mnemonic": "Админ чата постановил: надо признать, что привычки правят днём — админ банит You have to admit that."
     },
     {
       "phrase": "The big downside of ... is that",
       "translation": "главный минус в том, что",
-      "example": "The big downside of routines is that they can get you stuck."
+      "example": "The big downside of routines is that they can get you stuck.",
+      "keyword": "дно",
+      "mnemonic": "Распорядок пробил дно: главный минус в том, что застреваешь в рутине — дно стучит The big downside of ... is that."
     }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "be paid more",
       "translation": "получать больше",
-      "example": "They should be paid more for their difficult work."
+      "example": "They should be paid more for their difficult work.",
+      "keyword": "пейджер",
+      "mnemonic": "Тяжело пашущие с пейджером жалоб — be paid more, получать больше за трудную работу."
     },
     {
       "idiom": "make so much money",
       "translation": "зарабатывать так много денег",
-      "example": "Why do high earners make so much money?"
+      "example": "Why do high earners make so much money?",
+      "keyword": "манифест",
+      "mnemonic": "Богачи с манифестом зарплат — make so much money, зарабатывать так много денег, почему."
     },
     {
       "idiom": "do extra work",
       "translation": "выполнять дополнительную работу",
-      "example": "Too many of us do extra work like cleaning."
+      "example": "Too many of us do extra work like cleaning.",
+      "keyword": "экстрасенс",
+      "mnemonic": "Уборщик-экстрасенс видит грязь — do extra work, выполнять дополнительную работу вроде уборки."
     },
     {
       "idiom": "apply for grants",
       "translation": "подавать заявки на гранты",
-      "example": "Scientists spend too much time applying for grants."
+      "example": "Scientists spend too much time applying for grants.",
+      "keyword": "гранёный",
+      "mnemonic": "Учёные с гранёным стаканом — apply for grants, подавать заявки на гранты, времени нет."
     },
     {
       "idiom": "make the best argument for more money",
       "translation": "привести лучший довод в пользу повышения зарплаты",
-      "example": "Who makes the best argument for more money?"
+      "example": "Who makes the best argument for more money?",
+      "keyword": "аргамак",
+      "mnemonic": "Профсоюз на аргамаке спорит — make the best argument for more money, привести лучший довод в пользу повышения зарплаты."
     },
     {
       "idiom": "take over the company",
       "translation": "возглавить компанию",
-      "example": "We expected things to change after we took over the company."
+      "example": "We expected things to change after we took over the company.",
+      "keyword": "компас",
+      "mnemonic": "Новые боссы с компасом реформ — take over the company, возглавить компанию, ждали перемен."
     },
     {
       "idiom": "turn the living room into a war zone",
       "translation": "превратить гостиную в поле боя",
-      "example": "The dog turned the living room into a war zone."
+      "example": "The dog turned the living room into a war zone.",
+      "keyword": "варвар",
+      "mnemonic": "Пёс-варвар громит диван — turn the living room into a war zone, превратить гостиную в поле боя."
     }
   ]
 }

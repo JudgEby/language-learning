@@ -5,17 +5,23 @@
     {
       "idiom": "a level playing field",
       "translation": "равные условия",
-      "example": "The new rules create a level playing field for all competitors."
+      "example": "The new rules create a level playing field for all competitors.",
+      "keyword": "левел",
+      "mnemonic": "Левел един для всех: a level playing field — равные условия для всех соперников."
     },
     {
       "idiom": "raise the bar",
       "translation": "поднять планку",
-      "example": "Andy Murray raised the bar for British tennis with his achievements."
+      "example": "Andy Murray raised the bar for British tennis with his achievements.",
+      "keyword": "бар",
+      "mnemonic": "Бар британского тенниса поднят: raise the bar — поднять планку достижениями Маррея."
     },
     {
       "idiom": "a game-changer",
       "translation": "переломный момент",
-      "example": "His Olympic gold medal was a real game-changer for his career."
+      "example": "His Olympic gold medal was a real game-changer for his career.",
+      "keyword": "гейм",
+      "mnemonic": "Гейм с золотой медалью: a game-changer — переломный момент для карьеры."
     }
   ]
 }

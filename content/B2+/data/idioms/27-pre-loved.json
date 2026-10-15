@@ -5,77 +5,107 @@
     {
       "idiom": "cost a fortune",
       "translation": "стоить целое состояние",
-      "example": "This shirt costs an absolute fortune!"
+      "example": "This shirt costs an absolute fortune!",
+      "keyword": "фортуна",
+      "mnemonic": "Ценник крутит фортуна-колесо: рубашка стала стоить целое состояние, — фортуна звенит cost a fortune."
     },
     {
       "idiom": "take forever",
       "translation": "длиться вечность",
-      "example": "It takes forever to find the right size."
+      "example": "It takes forever to find the right size.",
+      "keyword": "форева",
+      "mnemonic": "Поиск размера тянет форева-волынку: он стал длиться вечность, — форева длится take forever."
     },
     {
       "idiom": "feet are killing me",
       "translation": "ноги отваливаются",
-      "example": "My feet were killing me after the market."
+      "example": "My feet were killing me after the market.",
+      "keyword": "килька",
+      "mnemonic": "После рынка в туфлях бьётся килька: ноги отваливаются, — килька дёргается feet are killing me."
     },
     {
       "idiom": "eat a horse",
       "translation": "съесть быка (очень проголодаться)",
-      "example": "I'm starving — I could eat a horse."
+      "example": "I'm starving — I could eat a horse.",
+      "keyword": "хорс",
+      "mnemonic": "Голодный ржёт как хорс-конь: готов съесть быка, очень проголодался, — хорс топчет eat a horse."
     },
     {
       "idiom": "die of embarrassment",
       "translation": "умереть от стыда",
-      "example": "I would die of embarrassment in that hat."
+      "example": "I would die of embarrassment in that hat.",
+      "keyword": "эмбарго",
+      "mnemonic": "Шляпа под эмбарго-запретом: можно умереть от стыда, — эмбарго давит die of embarrassment."
     },
     {
       "idiom": "wouldn't be seen dead",
       "translation": "ни за что не надеть",
-      "example": "I wouldn't be seen dead in those shoes."
+      "example": "I wouldn't be seen dead in those shoes.",
+      "keyword": "дед",
+      "mnemonic": "Дед открестился от туфель: он ни за что не надеть их, — дед ворчит wouldn't be seen dead."
     },
     {
       "idiom": "tell someone a million times",
       "translation": "повторять миллион раз",
-      "example": "I've told you a million times: no denim!"
+      "example": "I've told you a million times: no denim!",
+      "keyword": "миля",
+      "mnemonic": "Нотации тянутся на милю: он стал повторять миллион раз, — миля тянется tell someone a million times."
     },
     {
       "idiom": "a needle in a haystack",
       "translation": "иголка в стоге сена",
-      "example": "Finding my size here is like looking for a needle in a haystack."
+      "example": "Finding my size here is like looking for a needle in a haystack.",
+      "keyword": "нидл",
+      "mnemonic": "Размер как нидл-иголка: это иголка в стоге сена, — нидл потерялся a needle in a haystack."
     },
     {
       "idiom": "green with envy",
       "translation": "позеленеть от зависти",
-      "example": "You'll be green with envy when you see my bag."
+      "example": "You'll be green with envy when you see my bag.",
+      "keyword": "грин",
+      "mnemonic": "Сумка цвета грин: подруги смогли позеленеть от зависти, — грин сияет green with envy."
     },
     {
       "idiom": "weigh a ton",
       "translation": "весить тонну",
-      "example": "After shopping, my bags weigh a ton."
+      "example": "After shopping, my bags weigh a ton.",
+      "keyword": "вей",
+      "mnemonic": "Пакеты встали на вей-весы: они стали весить тонну, — вей скрипит weigh a ton."
     },
     {
       "idiom": "nothing better than",
       "translation": "нет ничего лучше",
-      "example": "There's nothing better than a vintage market."
+      "example": "There's nothing better than a vintage market.",
+      "keyword": "беттер",
+      "mnemonic": "Рынок хвалит беттер-выбор: нет ничего лучше винтажа, — беттер манит nothing better than."
     },
     {
       "idiom": "shop till you drop",
       "translation": "ходить по магазинам до упаду",
-      "example": "We shopped till we dropped on Saturday."
+      "example": "We shopped till we dropped on Saturday.",
+      "keyword": "шоп",
+      "mnemonic": "В субботу врубили шоп-забег: стали ходить по магазинам до упаду, — шоп гудит shop till you drop."
     },
     {
       "idiom": "a steal",
       "translation": "выгодная покупка за копейки",
-      "example": "This second-hand coat was a steal."
+      "example": "This second-hand coat was a steal.",
+      "keyword": "стил",
+      "mnemonic": "Пальто как стил-трофей: это выгодная покупка за копейки, — стил сверкает a steal."
     },
     {
       "idiom": "fit like a glove",
       "translation": "сидеть как влитой",
-      "example": "The jacket fits like a glove."
+      "example": "The jacket fits like a glove.",
+      "keyword": "глав",
+      "mnemonic": "Куртка обняла как глав-перчатка: она стала сидеть как влитой, — глав держит fit like a glove."
     },
     {
       "idiom": "over the moon",
       "translation": "на седьмом небе",
-      "example": "She was over the moon with her new dress."
+      "example": "She was over the moon with her new dress.",
+      "keyword": "мун",
+      "mnemonic": "Покупательница прыгнула выше мун-луны: она на седьмом небе, — мун светит over the moon."
     }
   ]
 }

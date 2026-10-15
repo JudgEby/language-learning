@@ -10,12 +10,16 @@
     {
       "term": "dystopia",
       "translation": "дистопия",
-      "example": "Many modern films portray a dystopia where technology controls people's lives."
+      "example": "Many modern films portray a dystopia where technology controls people's lives.",
+      "keyword": "дистанция",
+      "mnemonic": "Фильмы рисуют дистопию, где техника правит жизнью, — держи дистанцию от неё, это dystopia."
     },
     {
       "term": "society",
       "translation": "общество",
-      "example": "A fair society should provide equal opportunities for all its citizens."
+      "example": "A fair society should provide equal opportunities for all its citizens.",
+      "keyword": "соцсети",
+      "mnemonic": "Справедливое общество даёт равные возможности — обсуди в соцсетях, это society."
     },
     {
       "term": "idyllic",
@@ -25,32 +29,44 @@
     {
       "term": "depressing",
       "translation": "удручающий",
-      "example": "The film's depiction of a post-apocalyptic world was deeply depressing."
+      "example": "The film's depiction of a post-apocalyptic world was deeply depressing.",
+      "keyword": "депрессия",
+      "mnemonic": "Фильм о постапокалипсисе глубоко удручает — сплошная депрессия, это depressing."
     },
     {
       "term": "oppressive",
       "translation": "гнетущий, репрессивный",
-      "example": "The government in the novel is oppressive, controlling every aspect of life."
+      "example": "The government in the novel is oppressive, controlling every aspect of life.",
+      "keyword": "прессует",
+      "mnemonic": "Правительство в романе гнетущее — прессует каждый шаг жизни, это oppressive."
     },
     {
       "term": "aspire",
       "translation": "стремиться",
-      "example": "We should aspire to create a world where everyone has access to education."
+      "example": "We should aspire to create a world where everyone has access to education.",
+      "keyword": "аспирант",
+      "mnemonic": "Нам стоит стремиться к миру с образованием для всех — как аспирант к науке, это aspire."
     },
     {
       "term": "struggle",
       "translation": "борьба",
-      "example": "The characters struggle against an unjust system throughout the story."
+      "example": "The characters struggle against an unjust system throughout the story.",
+      "keyword": "страж",
+      "mnemonic": "Герои борются с несправедливой системой — страж на их стороне, это struggle."
     },
     {
       "term": "vision",
       "translation": "видение",
-      "example": "The author's vision of the future is both terrifying and thought-provoking."
+      "example": "The author's vision of the future is both terrifying and thought-provoking.",
+      "keyword": "виза",
+      "mnemonic": "Видение будущего у автора пугающее — оформи визу туда, это vision."
     },
     {
       "term": "surveillance",
       "translation": "слежка, наблюдение",
-      "example": "We're under constant surveillance — cameras are everywhere."
+      "example": "We're under constant surveillance — cameras are everywhere.",
+      "keyword": "сервис",
+      "mnemonic": "Мы под постоянной слежкой, камеры везде, — сервис следит, это surveillance."
     },
     {
       "term": "paranoia",
@@ -60,47 +76,65 @@
     {
       "term": "curfew",
       "translation": "комендантский час",
-      "example": "Everyone must be home before curfew."
+      "example": "Everyone must be home before curfew.",
+      "keyword": "кофе",
+      "mnemonic": "Все должны быть дома до комендантского часа — допей кофе и домой, это curfew."
     },
     {
       "term": "unrest",
       "translation": "беспорядки, волнения",
-      "example": "They are not getting involved in any social unrest."
+      "example": "They are not getting involved in any social unrest.",
+      "keyword": "арест",
+      "mnemonic": "Они не ввязываются в беспорядки — арест ни к чему, это unrest."
     },
     {
       "term": "justice",
       "translation": "справедливость, правосудие",
-      "example": "There's a lack of justice in the city now."
+      "example": "There's a lack of justice in the city now.",
+      "keyword": "юстиция",
+      "mnemonic": "В городе нет справедливости — юстиция спит, это justice."
     },
     {
       "term": "greed",
       "translation": "жадность",
-      "example": "Their greed wasn't the only cause of the crisis."
+      "example": "Their greed wasn't the only cause of the crisis.",
+      "keyword": "грех",
+      "mnemonic": "Их жадность — не единственная причина кризиса, а главный грех, это greed."
     },
     {
       "term": "harmony",
       "translation": "гармония",
-      "example": "Despite small disagreements, there was harmony in our neighbourhood."
+      "example": "Despite small disagreements, there was harmony in our neighbourhood.",
+      "keyword": "гармонь",
+      "mnemonic": "Несмотря на споры, в квартале царила гармония — играй, гармонь, это harmony."
     },
     {
       "term": "paradise",
       "translation": "рай",
-      "example": "It wasn't paradise — there were bad times as well as good."
+      "example": "It wasn't paradise — there were bad times as well as good.",
+      "keyword": "парад",
+      "mnemonic": "Это был не рай — были и плохие времена: парад закончился, это paradise."
     },
     {
       "term": "tranquillity",
       "translation": "спокойствие, безмятежность",
-      "example": "Home was once a place of tranquillity to rest after work."
+      "example": "Home was once a place of tranquillity to rest after work.",
+      "keyword": "транквилизатор",
+      "mnemonic": "Дом был местом спокойствия после работы — принял транквилизатор, это tranquillity."
     },
     {
       "term": "innocence",
       "translation": "невинность, неведение",
-      "example": "A warm place, full of life, laughter and innocence."
+      "example": "A warm place, full of life, laughter and innocence.",
+      "keyword": "не виноват",
+      "mnemonic": "Тёплое место, полное жизни, смеха и невинности, — никто не виноват, это innocence."
     },
     {
       "term": "idealism",
       "translation": "идеализм",
-      "example": "That might sound like idealism, but it was better than today."
+      "example": "That might sound like idealism, but it was better than today.",
+      "keyword": "идея",
+      "mnemonic": "Звучит как идеализм, но было лучше, чем сегодня, — держись за идею, это idealism."
     }
   ]
 }

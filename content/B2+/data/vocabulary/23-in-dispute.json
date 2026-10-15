@@ -5,67 +5,93 @@
     {
       "term": "run-down",
       "translation": "запущенный, обветшалый",
-      "example": "The apartment block was really run-down, with paint peeling off the walls."
+      "example": "The apartment block was really run-down, with paint peeling off the walls.",
+      "keyword": "раненый",
+      "mnemonic": "Запущенный обветшалый дом стоит раненый, краска слезает — вот тебе run-down."
     },
     {
       "term": "cramped",
       "translation": "тесный",
-      "example": "The flat was so cramped there was hardly room to move around."
+      "example": "The flat was so cramped there was hardly room to move around.",
+      "keyword": "крепко",
+      "mnemonic": "Тесная квартира так зажала, что держит крепко и не повернуться — это cramped."
     },
     {
       "term": "crumbling",
       "translation": "разрушающийся",
-      "example": "The old building was crumbling and looked like it might collapse."
+      "example": "The old building was crumbling and looked like it might collapse.",
+      "keyword": "кромсают",
+      "mnemonic": "Старое разрушающееся здание кромсают трещины, вот-вот рухнет — это crumbling."
     },
     {
       "term": "dim",
       "translation": "тусклый, плохо освещённый",
-      "example": "The flat was dark and dim, even during the day."
+      "example": "The flat was dark and dim, even during the day.",
+      "keyword": "дым",
+      "mnemonic": "Тусклая плохо освещённая квартира весь день в дыму — вот тебе dim."
     },
     {
       "term": "filthy",
       "translation": "грязный",
-      "example": "The bathroom was filthy and had obviously not been cleaned."
+      "example": "The bathroom was filthy and had obviously not been cleaned.",
+      "keyword": "фильтр",
+      "mnemonic": "Грязная ванна забила фильтр и её явно не чистили — вот тебе filthy."
     },
     {
       "term": "chilly",
       "translation": "прохладный",
-      "example": "The heating wasn't working, so it was quite chilly inside."
+      "example": "The heating wasn't working, so it was quite chilly inside.",
+      "keyword": "чили",
+      "mnemonic": "Отопление сломалось и внутри прохладно, как от перца чили, — вот тебе chilly."
     },
     {
       "term": "block of flats",
       "translation": "многоквартирный дом",
-      "example": "They rented a modern block of flats in the city centre."
+      "example": "They rented a modern block of flats in the city centre.",
+      "keyword": "блок",
+      "mnemonic": "Многоквартирный дом в центре — целый блок квартир, это block of flats."
     },
     {
       "term": "accommodation",
       "translation": "жильё",
-      "example": "Finding affordable accommodation in the city is becoming harder."
+      "example": "Finding affordable accommodation in the city is becoming harder.",
+      "keyword": "комод",
+      "mnemonic": "Найти жильё в городе всё труднее — везде только комод в углу, это accommodation."
     },
     {
       "term": "landlord",
       "translation": "арендодатель",
-      "example": "The landlord refused to fix the broken heating system."
+      "example": "The landlord refused to fix the broken heating system.",
+      "keyword": "лорд",
+      "mnemonic": "Арендодатель отказался чинить отопление, как важный лорд, — вот тебе landlord."
     },
     {
       "term": "tenant",
       "translation": "арендатор",
-      "example": "The tenant complained about the damp walls to the landlord."
+      "example": "The tenant complained about the damp walls to the landlord.",
+      "keyword": "тент",
+      "mnemonic": "Арендатор жалуется на сырые стены, сидя под тентом, — вот тебе tenant."
     },
     {
       "term": "deposit",
       "translation": "залог",
-      "example": "You usually have to pay a deposit equal to one month's rent."
+      "example": "You usually have to pay a deposit equal to one month's rent.",
+      "keyword": "депозит",
+      "mnemonic": "Обычно платят залог за месяц аренды — держи депозит у лорда, это deposit."
     },
     {
       "term": "rent",
       "translation": "арендная плата",
-      "example": "The rent for this flat is extremely high for the size."
+      "example": "The rent for this flat is extremely high for the size.",
+      "keyword": "рента",
+      "mnemonic": "Арендная плата за такую площадь огромна — целая рента, вот тебе rent."
     },
     {
       "term": "derelict",
       "translation": "заброшенный, разрушенный",
-      "example": "The old factory was pretty derelict."
+      "example": "The old factory was pretty derelict.",
+      "keyword": "дырявый лифт",
+      "mnemonic": "Старый заброшенный разрушенный завод с дырявым лифтом — вот тебе derelict."
     },
     {
       "term": "in ruins",
@@ -75,37 +101,51 @@
     {
       "term": "cosy",
       "translation": "уютный",
-      "example": "It looked lovely and cosy inside."
+      "example": "It looked lovely and cosy inside.",
+      "keyword": "коза",
+      "mnemonic": "Внутри так уютно, что даже коза спит у печки — вот тебе cosy."
     },
     {
       "term": "luxurious",
       "translation": "роскошный",
-      "example": "The bathroom looked luxurious."
+      "example": "The bathroom looked luxurious.",
+      "keyword": "люстра",
+      "mnemonic": "Роскошная ванна сияет, как люстра во дворце, — вот тебе luxurious."
     },
     {
       "term": "rotten",
       "translation": "гнилой",
-      "example": "A lot of the wood was rotten."
+      "example": "A lot of the wood was rotten.",
+      "keyword": "рот",
+      "mnemonic": "Много дерева гнилого — разинул рот от запаха, вот тебе rotten."
     },
     {
       "term": "cracks",
       "translation": "трещины",
-      "example": "There were cracks in some of the walls."
+      "example": "There were cracks in some of the walls.",
+      "keyword": "кряк",
+      "mnemonic": "Трещины в стенах крякают при каждом шаге — вот тебе cracks."
     },
     {
       "term": "mould",
       "translation": "плесень",
-      "example": "The walls were covered in mould."
+      "example": "The walls were covered in mould.",
+      "keyword": "моль",
+      "mnemonic": "Стены покрыты плесенью, будто их съела моль, — вот тебе mould."
     },
     {
       "term": "damp",
       "translation": "сырой, влажный",
-      "example": "It was dark and damp inside."
+      "example": "It was dark and damp inside.",
+      "keyword": "дамба",
+      "mnemonic": "Внутри темно и сыро, как у старой дамбы, — вот тебе damp."
     },
     {
       "term": "overlook",
       "translation": "выходить окнами на",
-      "example": "It overlooked a really ugly factory."
+      "example": "It overlooked a really ugly factory.",
+      "keyword": "а лук",
+      "mnemonic": "Окна выходят на уродливый завод — а лук с подоконника воняет, это overlook."
     }
   ]
 }

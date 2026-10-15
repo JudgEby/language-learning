@@ -2,22 +2,124 @@
   "lessonId": "travel-partners",
   "title": "Travel partners — новые слова",
   "items": [
-    { "term": "travelling / a trip", "translation": "путешествие / поездка", "example": "I like travelling by train and seeing the countryside." },
-    { "term": "a self-catering apartment", "translation": "квартира с кухней", "example": "We stayed in a self-catering apartment in Spain." },
-    { "term": "a tent", "translation": "палатка", "example": "Some people prefer staying in a tent in the mountains." },
-    { "term": "a beach", "translation": "пляж", "example": "I prefer relaxing on a beach to going sightseeing." },
-    { "term": "go sightseeing", "translation": "осматривать достопримечательности", "example": "We spent three days going sightseeing in Rome." },
-    { "term": "something sporty", "translation": "что-то спортивное", "example": "I don't like doing something sporty on holiday." },
-    { "term": "a travel partner", "translation": "попутчик, компания для путешествий", "example": "Is he a good travel partner? Why/Why not?" },
-    { "term": "a perfect holiday", "translation": "идеальный отпуск", "example": "My perfect holiday is a week in a small village." },
-    { "term": "local dishes", "translation": "местные блюда", "example": "When I'm on holiday I like eating local dishes." },
-    { "term": "fast food", "translation": "фастфуд", "example": "I don't want to eat fast food every day." },
-    { "term": "a day out", "translation": "прогулка на один день", "example": "The city is nice for a day out." },
-    { "term": "crowded", "translation": "многолюдный", "example": "The old town is beautiful but very crowded in summer." },
-    { "term": "boring", "translation": "скучный", "example": "The museum is boring for children." },
-    { "term": "comfortable / uncomfortable", "translation": "удобный / неудобный", "example": "These trainers are more comfortable than shoes." },
-    { "term": "romantic", "translation": "романтичный", "example": "Autumn is more romantic than spring." },
-    { "term": "cheap / expensive", "translation": "дешёвый / дорогой", "example": "Cafés in my city are cheaper than in the centre." },
-    { "term": "a night club", "translation": "ночной клуб", "example": "We went to a night club on the last night." }
+    {
+      "term": "travelling / a trip",
+      "translation": "путешествие / поездка",
+      "example": "I like travelling by train and seeing the countryside.",
+      "keyword": "трип",
+      "mnemonic": "Автостопщик ловит трип с рюкзаком — это travelling, путешествие."
+    },
+    {
+      "term": "a self-catering apartment",
+      "translation": "квартира с кухней",
+      "example": "We stayed in a self-catering apartment in Spain.",
+      "keyword": "апарт",
+      "mnemonic": "Риелтор показывает апарт с плитой — это a self-catering apartment, квартира с кухней."
+    },
+    {
+      "term": "a tent",
+      "translation": "палатка",
+      "example": "Some people prefer staying in a tent in the mountains.",
+      "keyword": "тент",
+      "mnemonic": "Турист ставит тент в горах — это a tent, палатка."
+    },
+    {
+      "term": "a beach",
+      "translation": "пляж",
+      "example": "I prefer relaxing on a beach to going sightseeing.",
+      "keyword": "бич",
+      "mnemonic": "Серфер-бич дремлет на пляже — вот a beach."
+    },
+    {
+      "term": "go sightseeing",
+      "translation": "осматривать достопримечательности",
+      "example": "We spent three days going sightseeing in Rome.",
+      "keyword": "сайт",
+      "mnemonic": "Турист тычет в сайт с картой — они go sightseeing, осматривают достопримечательности."
+    },
+    {
+      "term": "something sporty",
+      "translation": "что-то спортивное",
+      "example": "I don't like doing something sporty on holiday.",
+      "keyword": "спрут",
+      "mnemonic": "Спрут в кроссовках бежит марафон — это something sporty, что-то спортивное."
+    },
+    {
+      "term": "a travel partner",
+      "translation": "попутчик, компания для путешествий",
+      "example": "Is he a good travel partner? Why/Why not?",
+      "keyword": "тревел",
+      "mnemonic": "Бэкпекер с бейджем «тревел» ищет попутчика — вот a travel partner."
+    },
+    {
+      "term": "a perfect holiday",
+      "translation": "идеальный отпуск",
+      "example": "My perfect holiday is a week in a small village.",
+      "keyword": "перфект",
+      "mnemonic": "Гид кричит «перфект» у пальмы — это a perfect holiday, идеальный отпуск."
+    },
+    {
+      "term": "local dishes",
+      "translation": "местные блюда",
+      "example": "When I'm on holiday I like eating local dishes.",
+      "keyword": "диш",
+      "mnemonic": "Повар кричит «диш» и подаёт местные блюда — вот local dishes."
+    },
+    {
+      "term": "fast food",
+      "translation": "фастфуд",
+      "example": "I don't want to eat fast food every day.",
+      "keyword": "фосфор",
+      "mnemonic": "Повар сыплет фосфор в картошку — это fast food, фастфуд."
+    },
+    {
+      "term": "a day out",
+      "translation": "прогулка на один день",
+      "example": "The city is nice for a day out.",
+      "keyword": "дэй",
+      "mnemonic": "Гид кричит «дэй» и машет флажком — это a day out, прогулка на один день."
+    },
+    {
+      "term": "crowded",
+      "translation": "многолюдный",
+      "example": "The old town is beautiful but very crowded in summer.",
+      "keyword": "крауд",
+      "mnemonic": "Крауд фанатов толпится у сцены — там crowded, многолюдно."
+    },
+    {
+      "term": "boring",
+      "translation": "скучный",
+      "example": "The museum is boring for children.",
+      "keyword": "бор",
+      "mnemonic": "Гид зевает в бору — музей boring, скучный."
+    },
+    {
+      "term": "comfortable / uncomfortable",
+      "translation": "удобный / неудобный",
+      "example": "These trainers are more comfortable than shoes.",
+      "keyword": "комфорт",
+      "mnemonic": "Пассажир развалился в комфорте — ему comfortable, удобно, а не uncomfortable, неудобно."
+    },
+    {
+      "term": "romantic",
+      "translation": "романтичный",
+      "example": "Autumn is more romantic than spring.",
+      "keyword": "ром",
+      "mnemonic": "Пират пьёт ром при свечах — вечер romantic, романтичный."
+    },
+    {
+      "term": "cheap / expensive",
+      "translation": "дешёвый / дорогой",
+      "example": "Cafés in my city are cheaper than in the centre.",
+      "keyword": "чип",
+      "mnemonic": "Торговец впаивает чип в ценник — там cheap, дёшево, а не expensive, дорого."
+    },
+    {
+      "term": "a night club",
+      "translation": "ночной клуб",
+      "example": "We went to a night club on the last night.",
+      "keyword": "найт",
+      "mnemonic": "Охранник шепчет «найт» у дверей — это a night club, ночной клуб."
+    }
   ]
 }
