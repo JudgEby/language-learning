@@ -28,3 +28,13 @@ export function lessons(count: number): string {
 export function testDays(count: number): string {
   return `${count} ${plural(count, 'день тестов', 'дня тестов', 'дней тестов')}`;
 }
+
+/** "12 карточек" / "1 карточка" / "3 карточки". */
+export function cards(count: number): string {
+  return `${count} ${plural(count, 'карточка', 'карточки', 'карточек')}`;
+}
+
+/** "108 материалов" / "1 материал" / "3 материала". */
+export function materials(count: number): string {
+  return `${count} ${plural(count, 'материал', 'материала', 'материалов')}`;
+}

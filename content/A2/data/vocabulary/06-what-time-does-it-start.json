@@ -2,20 +2,110 @@
   "lessonId": "what-time-does-it-start",
   "title": "What time does it start? — новые слова",
   "items": [
-    { "term": "a tour", "translation": "экскурсия", "example": "What tours can people take in San Francisco?" },
-    { "term": "a walking tour", "translation": "пешеходная экскурсия", "example": "The walking tour starts at the front gate at nine forty-five." },
-    { "term": "a boat tour", "translation": "экскурсия на катере", "example": "Would you like the morning or the afternoon boat tour?" },
-    { "term": "a bus tour", "translation": "экскурсия на автобусе", "example": "The bus tour is thirty dollars." },
-    { "term": "start / finish", "translation": "начинаться / заканчиваться", "example": "What time does the tour start and when does it finish?" },
-    { "term": "leave from", "translation": "отправляться (от ...)", "example": "And where does it leave from? — From Pier 43." },
-    { "term": "a minibus", "translation": "микроавтобус", "example": "The minibus to the boat leaves at ten." },
-    { "term": "a pier", "translation": "причал, пирс", "example": "The boat tour leaves from Pier 43." },
-    { "term": "the front gate", "translation": "парадный вход, ворота", "example": "Meet at the front gate at nine forty-five." },
-    { "term": "a tourist information centre", "translation": "туристический информационный центр", "example": "Ask at the tourist information centre about boat tours." },
-    { "term": "a leaflet", "translation": "буклет", "example": "Look at the photos and leaflets from San Francisco." },
-    { "term": "a famous bridge", "translation": "известный мост", "example": "The tour includes a famous bridge and shopping." },
-    { "term": "a food market", "translation": "продуктовый рынок", "example": "The guide takes you to the food markets in Chinatown." },
-    { "term": "a herbal pharmacy", "translation": "травяная аптека", "example": "You'll see a herbal pharmacy in Chinatown." },
-    { "term": "book the tour", "translation": "забронировать экскурсию", "example": "Do they book the tour? — Yes, we can book it for you." }
+    {
+      "term": "a tour",
+      "translation": "экскурсия",
+      "example": "What tours can people take in San Francisco?",
+      "keyword": "тур",
+      "mnemonic": "Гид дудит в тур рога — ведёт a tour, экскурсию."
+    },
+    {
+      "term": "a walking tour",
+      "translation": "пешеходная экскурсия",
+      "example": "The walking tour starts at the front gate at nine forty-five.",
+      "keyword": "тур",
+      "mnemonic": "Толпа дудит в тур на ходу — это a walking tour, пешеходная экскурсия."
+    },
+    {
+      "term": "a boat tour",
+      "translation": "экскурсия на катере",
+      "example": "Would you like the morning or the afternoon boat tour?",
+      "keyword": "бот",
+      "mnemonic": "Капитан спускает бот на воду — это a boat tour, экскурсия на катере."
+    },
+    {
+      "term": "a bus tour",
+      "translation": "экскурсия на автобусе",
+      "example": "The bus tour is thirty dollars.",
+      "keyword": "бас",
+      "mnemonic": "Гид басит в микрофон в автобусе — это a bus tour, экскурсия на автобусе."
+    },
+    {
+      "term": "start / finish",
+      "translation": "начинаться / заканчиваться",
+      "example": "What time does the tour start and when does it finish?",
+      "keyword": "старт",
+      "mnemonic": "Судья кричит «старт» — гонка start, начинается, а потом finish, заканчивается."
+    },
+    {
+      "term": "leave from",
+      "translation": "отправляться (от ...)",
+      "example": "And where does it leave from? — From Pier 43.",
+      "keyword": "ливень",
+      "mnemonic": "Автобус отъезжает прямо в ливень — он leave from, отправляется."
+    },
+    {
+      "term": "a minibus",
+      "translation": "микроавтобус",
+      "example": "The minibus to the boat leaves at ten.",
+      "keyword": "минус",
+      "mnemonic": "Водитель пишет на борту «минус» — это a minibus, микроавтобус."
+    },
+    {
+      "term": "a pier",
+      "translation": "причал, пирс",
+      "example": "The boat tour leaves from Pier 43.",
+      "keyword": "пир",
+      "mnemonic": "Туристы закатили пир на причале — это a pier."
+    },
+    {
+      "term": "the front gate",
+      "translation": "парадный вход, ворота",
+      "example": "Meet at the front gate at nine forty-five.",
+      "keyword": "гейт",
+      "mnemonic": "Охранник орёт «гейт закрыт» у ворот — это the front gate."
+    },
+    {
+      "term": "a tourist information centre",
+      "translation": "туристический информационный центр",
+      "example": "Ask at the tourist information centre about boat tours.",
+      "keyword": "инфузория",
+      "mnemonic": "Инфузория в очках выдаёт карты — это a tourist information centre, туристический информационный центр."
+    },
+    {
+      "term": "a leaflet",
+      "translation": "буклет",
+      "example": "Look at the photos and leaflets from San Francisco.",
+      "keyword": "флейта",
+      "mnemonic": "Промоутер дудит во флейту и суёт буклет — это a leaflet."
+    },
+    {
+      "term": "a famous bridge",
+      "translation": "известный мост",
+      "example": "The tour includes a famous bridge and shopping.",
+      "keyword": "бридж",
+      "mnemonic": "Картежники играют в бридж на мосту — это a famous bridge, известный мост."
+    },
+    {
+      "term": "a food market",
+      "translation": "продуктовый рынок",
+      "example": "The guide takes you to the food markets in Chinatown.",
+      "keyword": "маркет",
+      "mnemonic": "Фермер кричит «маркет открыт» — это a food market, продуктовый рынок."
+    },
+    {
+      "term": "a herbal pharmacy",
+      "translation": "травяная аптека",
+      "example": "You'll see a herbal pharmacy in Chinatown.",
+      "keyword": "фарш",
+      "mnemonic": "Травник мешает фарш из ромашки — это a herbal pharmacy, травяная аптека."
+    },
+    {
+      "term": "book the tour",
+      "translation": "забронировать экскурсию",
+      "example": "Do they book the tour? — Yes, we can book it for you.",
+      "keyword": "бук",
+      "mnemonic": "Гид ставит бук на список — они book the tour, бронируют экскурсию."
+    }
   ]
 }

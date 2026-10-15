@@ -5,92 +5,128 @@
     {
       "term": "role model",
       "translation": "образец для подражания",
-      "example": "My grandmother has always been my role model."
+      "example": "My grandmother has always been my role model.",
+      "keyword": "руль",
+      "mnemonic": "Образец для подражания крутит руль бабушкиного авто — вот тебе role model."
     },
     {
       "term": "inspiration",
       "translation": "вдохновение",
-      "example": "She is an inspiration to young people everywhere."
+      "example": "She is an inspiration to young people everywhere.",
+      "keyword": "испанец",
+      "mnemonic": "Вдохновение для молодёжи от испанца с гитарой — вот тебе inspiration."
     },
     {
       "term": "admire",
       "translation": "восхищаться",
-      "example": "I admire people who work hard to achieve their dreams."
+      "example": "I admire people who work hard to achieve their dreams.",
+      "keyword": "адмирал",
+      "mnemonic": "Восхищаться адмиралом-трудоголиком за мечты — вот тебе admire."
     },
     {
       "term": "look up to",
       "translation": "уважать, равняться на",
-      "example": "Many young athletes look up to professional players."
+      "example": "Many young athletes look up to professional players.",
+      "keyword": "лук",
+      "mnemonic": "Равняться на старших и уважать, чистя лук на кухне, — вот тебе look up to."
     },
     {
       "term": "achieve",
       "translation": "достигать",
-      "example": "It took years of hard work to achieve her goals."
+      "example": "It took years of hard work to achieve her goals.",
+      "keyword": "а чих",
+      "mnemonic": "Достигать целей годами, говоря «а чих!» от усталости, — вот тебе achieve."
     },
     {
       "term": "path",
       "translation": "путь",
-      "example": "Everyone has to find their own path in life."
+      "example": "Everyone has to find their own path in life.",
+      "keyword": "патч",
+      "mnemonic": "Свой путь в жизни с патчем на джинсах — вот тебе path."
     },
     {
       "term": "goal",
       "translation": "цель",
-      "example": "Setting clear goals is the first step to success."
+      "example": "Setting clear goals is the first step to success.",
+      "keyword": "гол",
+      "mnemonic": "Чёткая цель — забить гол к успеху, вот тебе goal."
     },
     {
       "term": "motivate",
       "translation": "мотивировать",
-      "example": "A good teacher knows how to motivate their students."
+      "example": "A good teacher knows how to motivate their students.",
+      "keyword": "мото",
+      "mnemonic": "Хороший учитель умеет мотивировать ревом мото — вот тебе motivate."
     },
     {
       "term": "passionate",
       "translation": "страстно увлечённый",
-      "example": "She is passionate about helping underprivileged children."
+      "example": "She is passionate about helping underprivileged children.",
+      "keyword": "паштет",
+      "mnemonic": "Страстно увлечена паштетом для детей — вот тебе passionate."
     },
     {
       "term": "visionary",
       "translation": "провидец, дальновидный человек",
-      "example": "Steve Jobs was a visionary who changed the way we use technology."
+      "example": "Steve Jobs was a visionary who changed the way we use technology.",
+      "keyword": "вишня",
+      "mnemonic": "Дальновидный провидец видит будущее в вишне — вот тебе visionary."
     },
     {
       "term": "strive",
       "translation": "стремиться",
-      "example": "They make me strive to be better all the time."
+      "example": "They make me strive to be better all the time.",
+      "keyword": "страйк",
+      "mnemonic": "Стремиться к лучшему со страйком в боулинге — вот тебе strive."
     },
     {
       "term": "humble beginnings",
       "translation": "скромное происхождение",
-      "example": "She's come from very humble beginnings."
+      "example": "She's come from very humble beginnings.",
+      "keyword": "хам",
+      "mnemonic": "Скромное происхождение, где хам вырос в звезду, — вот тебе humble beginnings."
     },
     {
       "term": "encouraging",
       "translation": "ободряющий, поддерживающий",
-      "example": "He was really encouraging and helped me get into university."
+      "example": "He was really encouraging and helped me get into university.",
+      "keyword": "курица",
+      "mnemonic": "Ободряющий друг кудахчет, как курица, и ведёт в вуз — вот тебе encouraging."
     },
     {
       "term": "push someone to their limits",
       "translation": "требовать от кого-то максимума",
-      "example": "My parents pushed me to my limits."
+      "example": "My parents pushed me to my limits.",
+      "keyword": "лимон",
+      "mnemonic": "Требовать максимума, выжимая лимон из родителей, — вот тебе push someone to their limits."
     },
     {
       "term": "live authentically",
       "translation": "жить по-настоящему, быть собой",
-      "example": "Should you always try to live authentically?"
+      "example": "Should you always try to live authentically?",
+      "keyword": "автор",
+      "mnemonic": "Быть собой и жить по-настоящему, как автор книги, — вот тебе live authentically."
     },
     {
       "term": "enthusiastic",
       "translation": "восторженный, увлечённый",
-      "example": "How enthusiastic were your teachers at school?"
+      "example": "How enthusiastic were your teachers at school?",
+      "keyword": "тусовка",
+      "mnemonic": "Восторженные увлечённые учителя на тусовке школы — вот тебе enthusiastic."
     },
     {
       "term": "rub off on",
       "translation": "передаваться кому-то (о качествах)",
-      "example": "My cousin's love of travel has really rubbed off on me."
+      "example": "My cousin's love of travel has really rubbed off on me.",
+      "keyword": "рубль",
+      "mnemonic": "Любовь к путешествиям передалась мне, как рубль от двоюродной, — вот тебе rub off on."
     },
     {
       "term": "understanding",
       "translation": "понимающий, чуткий",
-      "example": "Being understanding of other people helps everyone."
+      "example": "Being understanding of other people helps everyone.",
+      "keyword": "Андер",
+      "mnemonic": "Понимающий и чуткий Андер всем помогает — вот тебе understanding."
     }
   ]
 }

@@ -50,6 +50,7 @@ npm run dev         # Vite dev server on http://localhost:5173
 npm run typecheck   # tsc -b for src + tsconfig.node.json for vite.config.ts
 npm run build       # typecheck + vite build
 npm run preview     # serve the production build
+npm run e2e         # Playwright: Chromium smoke + flashcards flow (starts dev server itself)
 
 # everything, from repo root
 pip install -r requirements.txt
@@ -66,7 +67,9 @@ python scripts/generate_vocab_questions.py LEVEL [--lesson ID] [--count N]
 ```
 
 There are no unit-test or lint scripts. Verification is `npm run typecheck` for
-TypeScript and `python scripts/validate_level.py {LEVEL}` for content. Every script is
+TypeScript, `npm run e2e` for the app flows in a real browser (Chromium only,
+`app/e2e/`, config `app/playwright.config.ts`), and
+`python scripts/validate_level.py {LEVEL}` for content. Every script is
 documented in `docs/architecture/content-pipeline.md`.
 
 ## Conventions
@@ -132,11 +135,12 @@ the code they point to — never load the entire `docs/architecture/` folder at 
 | Generate tests | `data-contracts.md` | `content/{LEVEL}/data/rules/`, `scripts/assemble_tests.py` | `fix_test_ids.py {LEVEL}`, `validate_level.py {LEVEL}` |
 | Change a pipeline script | `content-pipeline.md` | `scripts/content_utils.py` + target script | `validate_level.py` for an affected level |
 | Change a JSON schema field | `data-contracts.md` | `scripts/validate_level.py`, `app/src/lib/types.ts` | `validate_level.py {LEVEL}`, `npm run typecheck` |
-| Add page, route, component; change UI copy | `ui-structure.md` | `app/src/App.tsx`, `app/src/pages/`, `app/src/components/` | `npm run typecheck` |
+| Add page, route, component; change UI copy | `ui-structure.md` | `app/src/App.tsx`, `app/src/pages/`, `app/src/components/` | `npm run typecheck`, `npm run e2e` |
 | Colours, dark theme, CSS tokens | `ui-structure.md` | `app/src/index.css`, `app/src/store/themeStore.ts` | `npm run typecheck` |
 | Progress tracking, `localStorage` keys | `state-and-storage.md` | `app/src/store/`, `app/src/lib/loadContent.ts` | `npm run typecheck` |
 | Content loading, caching, fetch errors | `state-and-storage.md` | `app/src/lib/loadContent.ts` | `npm run dev`, browser console |
 | Content does not load in the app | `architecture.md` | `app/vite.config.ts`, `scripts/run_app.py` | `npm run dev` |
+| Write or debug an e2e test | `ui-structure.md` | `app/e2e/`, `app/playwright.config.ts` | `npm run e2e` |
 | Add a new level | `overview.md`, `content-pipeline.md` | `scripts/extract_pdf.py`, `scripts/sync_level.py` | `validate_level.py {LEVEL}` |
 | File a bug or feature ticket | `ticket-workflow.md` | — | re-read the created ticket |
 | Take a ticket, finish and close it | `ticket-workflow.md` | paths named in the ticket | checks named in the ticket |

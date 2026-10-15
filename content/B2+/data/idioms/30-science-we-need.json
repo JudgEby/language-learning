@@ -5,72 +5,100 @@
     {
       "idiom": "cutting edge",
       "translation": "передовой",
-      "example": "The lab uses cutting-edge equipment."
+      "example": "The lab uses cutting-edge equipment.",
+      "keyword": "эдж",
+      "mnemonic": "Лаборатория точит эдж-лезвие: она передовая, — эдж режет cutting edge."
     },
     {
       "idiom": "ahead of one's time",
       "translation": "опередивший своё время",
-      "example": "The inventor was years ahead of her time."
+      "example": "The inventor was years ahead of her time.",
+      "keyword": "эхед",
+      "mnemonic": "Изобретательница умчала в эхед-будущее: она опередившая своё время, — эхед гудит ahead of one's time."
     },
     {
       "idiom": "the next big thing",
       "translation": "следующая большая вещь",
-      "example": "Recyclable batteries could be the next big thing."
+      "example": "Recyclable batteries could be the next big thing.",
+      "keyword": "некст-биг",
+      "mnemonic": "Батареи как некст-биг сенсация: это следующая большая вещь, — некст-биг гремит the next big thing."
     },
     {
       "idiom": "a game changer",
       "translation": "то, что меняет правила игры",
-      "example": "Solar paint was a real game changer."
+      "example": "Solar paint was a real game changer.",
+      "keyword": "гейм",
+      "mnemonic": "Краска как гейм-джокер: это то, что меняет правила игры, — гейм переворачивает a game changer."
     },
     {
       "idiom": "break new ground",
       "translation": "прокладывать новые пути",
-      "example": "The team broke new ground in water purification."
+      "example": "The team broke new ground in water purification.",
+      "keyword": "граунд",
+      "mnemonic": "Команда вскопала граунд-целину: она стала прокладывать новые пути, — граунд гудит break new ground."
     },
     {
       "idiom": "it's not rocket science",
       "translation": "это не высшая математика",
-      "example": "Sorting waste is easy — it's not rocket science!"
+      "example": "Sorting waste is easy — it's not rocket science!",
+      "keyword": "рокет",
+      "mnemonic": "Сортировка как рокет-сборка наоборот: это не высшая математика, — рокет смеётся it's not rocket science."
     },
     {
       "idiom": "light years ahead",
       "translation": "на световые годы впереди",
-      "example": "Their tech is light years ahead of ours."
+      "example": "Their tech is light years ahead of ours.",
+      "keyword": "лайт",
+      "mnemonic": "Техника ушла на лайт-скорость: она на световые годы впереди, — лайт мчится light years ahead."
     },
     {
       "idiom": "ahead of the curve",
       "translation": "впереди всех",
-      "example": "The startup stayed ahead of the curve."
+      "example": "The startup stayed ahead of the curve.",
+      "keyword": "кёрв",
+      "mnemonic": "Стартап оседлал кёрв-волну: он впереди всех, — кёрв несёт ahead of the curve."
     },
     {
       "idiom": "behind the times",
       "translation": "отсталый",
-      "example": "Paper maps feel behind the times now."
+      "example": "Paper maps feel behind the times now.",
+      "keyword": "бихайнд",
+      "mnemonic": "Карты шуршат как бихайнд-архив: они отсталый формат, — бихайнд пылится behind the times."
     },
     {
       "idiom": "a eureka moment",
       "translation": "момент озарения",
-      "example": "She had a eureka moment in the shower."
+      "example": "She had a eureka moment in the shower.",
+      "keyword": "эврика",
+      "mnemonic": "В душе крикнула «эврика!»: случился момент озарения, — эврика звенит a eureka moment."
     },
     {
       "idiom": "the sky's the limit",
       "translation": "нет предела",
-      "example": "With this grant, the sky's the limit."
+      "example": "With this grant, the sky's the limit.",
+      "keyword": "скай",
+      "mnemonic": "Грант открыл скай-небо: теперь нет предела, — скай манит the sky's the limit."
     },
     {
       "idiom": "out of this world",
       "translation": "неземной, потрясающий",
-      "example": "The results were out of this world."
+      "example": "The results were out of this world.",
+      "keyword": "ворлд",
+      "mnemonic": "Результаты как ворлд-рекорд с Марса: они неземные и потрясающие, — ворлд сияет out of this world."
     },
     {
       "idiom": "a leap into the future",
       "translation": "прыжок в будущее",
-      "example": "Hand-held scanners were a leap into the future."
+      "example": "Hand-held scanners were a leap into the future.",
+      "keyword": "лип",
+      "mnemonic": "Сканеры сделали лип-прыжок: это прыжок в будущее, — лип летит a leap into the future."
     },
     {
       "idiom": "space age",
       "translation": "космическая эра",
-      "example": "We live in a space age of daily discoveries."
+      "example": "We live in a space age of daily discoveries.",
+      "keyword": "спейс",
+      "mnemonic": "Открытия гремят как спейс-парад: у нас космическая эра, — спейс гудит space age."
     }
   ]
 }

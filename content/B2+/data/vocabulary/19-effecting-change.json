@@ -5,122 +5,170 @@
     {
       "term": "climate change",
       "translation": "изменение климата",
-      "example": "Climate change is one of the biggest challenges facing humanity."
+      "example": "Climate change is one of the biggest challenges facing humanity.",
+      "keyword": "клизма",
+      "mnemonic": "Изменение климата лечат клизмой человечеству — вот тебе climate change."
     },
     {
       "term": "deforestation",
       "translation": "вырубка лесов",
-      "example": "Deforestation in the Amazon rainforest has reached alarming levels."
+      "example": "Deforestation in the Amazon rainforest has reached alarming levels.",
+      "keyword": "дефиле",
+      "mnemonic": "Вырубка лесов в Амазонии как дефиле пней — вот тебе deforestation."
     },
     {
       "term": "fossil fuels",
       "translation": "ископаемое топливо",
-      "example": "Burning fossil fuels like coal and gas contributes to global warming."
+      "example": "Burning fossil fuels like coal and gas contributes to global warming.",
+      "keyword": "фасоль",
+      "mnemonic": "Ископаемое топливо из фасоли, угля и газа — вот тебе fossil fuels."
     },
     {
       "term": "renewable energy",
       "translation": "возобновляемая энергия",
-      "example": "Solar and wind power are the most common forms of renewable energy."
+      "example": "Solar and wind power are the most common forms of renewable energy.",
+      "keyword": "ремень",
+      "mnemonic": "Возобновляемая энергия затянута ремнём солнца — вот тебе renewable energy."
     },
     {
       "term": "landfill",
       "translation": "свалка",
-      "example": "Recyclable material should not end up in landfill sites."
+      "example": "Recyclable material should not end up in landfill sites.",
+      "keyword": "лента",
+      "mnemonic": "Свалка перемотана лентой вторсырья — вот тебе landfill."
     },
     {
       "term": "diversity",
       "translation": "разнообразие",
-      "example": "Workplaces should aim for diversity within every department."
+      "example": "Workplaces should aim for diversity within every department.",
+      "keyword": "дивизия",
+      "mnemonic": "Разнообразие в дивизии отделов — вот тебе diversity."
     },
     {
       "term": "welfare",
       "translation": "благосостояние",
-      "example": "A new charity was set up to look after the welfare of homeless people."
+      "example": "A new charity was set up to look after the welfare of homeless people.",
+      "keyword": "вельвет",
+      "mnemonic": "Благосостояние бездомных в вельвете от фонда — вот тебе welfare."
     },
     {
       "term": "hardship",
       "translation": "трудности, лишения",
-      "example": "Many families are suffering financial hardship due to the rising cost of living."
+      "example": "Many families are suffering financial hardship due to the rising cost of living.",
+      "keyword": "харчо",
+      "mnemonic": "Трудности и лишения заедают харчо — вот тебе hardship."
     },
     {
       "term": "shelter",
       "translation": "приют",
-      "example": "Local charities fund shelters for people who have no home."
+      "example": "Local charities fund shelters for people who have no home.",
+      "keyword": "шелуха",
+      "mnemonic": "Приют с шелухой для бездомных — вот тебе shelter."
     },
     {
       "term": "sleep rough",
       "translation": "спать на улице",
-      "example": "The number of people sleeping rough on the streets has increased."
+      "example": "The number of people sleeping rough on the streets has increased.",
+      "keyword": "ров",
+      "mnemonic": "Спать на улице в рву под дождём — вот тебе sleep rough."
     },
     {
       "term": "neglected",
       "translation": "забытый, заброшенный",
-      "example": "Minority groups should not be neglected in government policies."
+      "example": "Minority groups should not be neglected in government policies.",
+      "keyword": "негде",
+      "mnemonic": "Забытым группам негде жить в политике — вот тебе neglected."
     },
     {
       "term": "equal opportunities",
       "translation": "равные возможности",
-      "example": "The company ensures equal opportunities for everyone who applies."
+      "example": "The company ensures equal opportunities for everyone who applies.",
+      "keyword": "экватор",
+      "mnemonic": "Равные возможности на экваторе для всех — вот тебе equal opportunities."
     },
     {
       "term": "homeless",
       "translation": "бездомный (homelessness — бездомность)",
-      "example": "There are 250 homeless people sleeping rough in the city."
+      "example": "There are 250 homeless people sleeping rough in the city.",
+      "keyword": "хомяк",
+      "mnemonic": "Бездомный хомяк спит на улице в городе — вот тебе homeless."
     },
     {
       "term": "non-profit organisation",
       "translation": "некоммерческая организация",
-      "example": "A non-profit organisation that seeks to protect coastlines."
+      "example": "A non-profit organisation that seeks to protect coastlines.",
+      "keyword": "ноль профит",
+      "mnemonic": "Некоммерческая организация с ноль профитом у берегов — вот тебе non-profit organisation."
     },
     {
       "term": "contaminated",
       "translation": "загрязнённый (синоним: polluted)",
-      "example": "The harmful effects of contaminated water."
+      "example": "The harmful effects of contaminated water.",
+      "keyword": "там нет",
+      "mnemonic": "Загрязнённая вода — там нет чистоты, вот тебе contaminated."
     },
     {
       "term": "employed",
       "translation": "трудоустроенный (противоположность: jobless)",
-      "example": "Players imagine they have become employed or jobless."
+      "example": "Players imagine they have become employed or jobless.",
+      "keyword": "плойка",
+      "mnemonic": "Трудоустроенный с плойкой в офисе — вот тебе employed."
     },
     {
       "term": "campaign",
       "translation": "кампания",
-      "example": "A campaign to raise awareness of climate change."
+      "example": "A campaign to raise awareness of climate change.",
+      "keyword": "компот",
+      "mnemonic": "Кампания про климат с компотом плакатов — вот тебе campaign."
     },
     {
       "term": "emit",
       "translation": "выделять, испускать",
-      "example": "Lorries which absorb or emit harmful greenhouse gases."
+      "example": "Lorries which absorb or emit harmful greenhouse gases.",
+      "keyword": "эмитент",
+      "mnemonic": "Грузовики выделяют газы, как эмитент облигаций, — вот тебе emit."
     },
     {
       "term": "greenhouse gases",
       "translation": "парниковые газы",
-      "example": "We need to reduce greenhouse gases and toxins."
+      "example": "We need to reduce greenhouse gases and toxins.",
+      "keyword": "грин",
+      "mnemonic": "Парниковые газы от грина фур — вот тебе greenhouse gases."
     },
     {
       "term": "toxins",
       "translation": "токсины",
-      "example": "Harmful greenhouse gases and toxins pollute the air."
+      "example": "Harmful greenhouse gases and toxins pollute the air.",
+      "keyword": "такси",
+      "mnemonic": "Токсины в воздухе из такси — вот тебе toxins."
     },
     {
       "term": "fundraiser",
       "translation": "сбор средств, благотворительная акция (синоним: appeal)",
-      "example": "The annual fundraiser is famous for its outrageous fashion."
+      "example": "The annual fundraiser is famous for its outrageous fashion.",
+      "keyword": "фантик",
+      "mnemonic": "Сбор средств и благотворительная акция с фантиком моды — вот тебе fundraiser."
     },
     {
       "term": "advocate",
       "translation": "выступать за, поддерживать (синоним: support)",
-      "example": "Outfits advocating social change."
+      "example": "Outfits advocating social change.",
+      "keyword": "адвокат",
+      "mnemonic": "Выступать за перемены, как адвокат моды, — вот тебе advocate."
     },
     {
       "term": "disadvantaged",
       "translation": "обездоленный (противоположность: advantaged)",
-      "example": "Inequality experienced by the disadvantaged."
+      "example": "Inequality experienced by the disadvantaged.",
+      "keyword": "десант",
+      "mnemonic": "Неравенство обездоленного десанта — вот тебе disadvantaged."
     },
     {
       "term": "raise awareness",
       "translation": "повышать осведомлённость",
-      "example": "We need to raise awareness of this problem."
+      "example": "We need to raise awareness of this problem.",
+      "keyword": "раз",
+      "mnemonic": "Повышать осведомлённость раз за разом — вот тебе raise awareness."
     }
   ]
 }

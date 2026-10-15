@@ -5,12 +5,16 @@
     {
       "idiom": "sleep like a log",
       "translation": "спать как убитый",
-      "example": "After the hike, I slept like a log."
+      "example": "After the hike, I slept like a log.",
+      "keyword": "логи",
+      "mnemonic": "После похода спал как убитый — видел логи: slept like a log."
     },
     {
       "idiom": "not sleep a wink",
       "translation": "не сомкнуть глаз",
-      "example": "I didn't sleep a wink before the interview."
+      "example": "I didn't sleep a wink before the interview.",
+      "keyword": "Винкс",
+      "mnemonic": "Не сомкнул глаз перед собеседованием — смотрел Винкс: didn't sleep a wink."
     }
   ]
 }

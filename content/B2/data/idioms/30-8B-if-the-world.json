@@ -5,12 +5,16 @@
     {
       "idiom": "drop in the ocean",
       "translation": "капля в море",
-      "example": "One donation is a drop in the ocean."
+      "example": "One donation is a drop in the ocean.",
+      "keyword": "дроп",
+      "mnemonic": "Одно пожертвование — капля в море: дроп в океан: drop in the ocean."
     },
     {
       "idiom": "the greater good",
       "translation": "общее благо",
-      "example": "Sometimes we sacrifice for the greater good."
+      "example": "Sometimes we sacrifice for the greater good.",
+      "keyword": "грейдер",
+      "mnemonic": "Иногда жертвуем ради общего блага — ровняет грейдер: greater good."
     }
   ]
 }

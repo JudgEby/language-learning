@@ -5,12 +5,16 @@
     {
       "idiom": "break a leg",
       "translation": "ни пуха ни пера",
-      "example": "Break a leg at your audition tonight!"
+      "example": "Break a leg at your audition tonight!",
+      "keyword": "лего",
+      "mnemonic": "Ни пуха на прослушивании — собери лего: break a leg at your audition."
     },
     {
       "idiom": "in the spotlight",
       "translation": "в центре внимания",
-      "example": "She loves being in the spotlight."
+      "example": "She loves being in the spotlight.",
+      "keyword": "спот",
+      "mnemonic": "Обожает быть в центре внимания — ловит спот: loves being in the spotlight."
     }
   ]
 }

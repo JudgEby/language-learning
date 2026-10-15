@@ -5,12 +5,16 @@
     {
       "idiom": "two heads are better than one",
       "translation": "одна голова хорошо, две лучше",
-      "example": "Two heads are better than one on complex tasks."
+      "example": "Two heads are better than one on complex tasks.",
+      "keyword": "хед",
+      "mnemonic": "Две головы лучше на сложных задачах — два хеда: two heads are better than one."
     },
     {
       "idiom": "carry the can",
       "translation": "нести ответственность за провал",
-      "example": "He shouldn't have to carry the can alone."
+      "example": "He shouldn't have to carry the can alone.",
+      "keyword": "Кен",
+      "mnemonic": "Не должен нести ответственность один — не будь Кеном: carry the can alone."
     }
   ]
 }

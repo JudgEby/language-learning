@@ -5,72 +5,100 @@
     {
       "idiom": "Big Brother is watching",
       "translation": "Большой Брат следит",
-      "example": "With cameras everywhere, Big Brother is watching you."
+      "example": "With cameras everywhere, Big Brother is watching you.",
+      "keyword": "браза",
+      "mnemonic": "Камеры как браза-надзиратель: Большой Брат следит, — браза пялится Big Brother is watching."
     },
     {
       "idiom": "a brave new world",
       "translation": "дивный новый мир",
-      "example": "Social media created a brave new world."
+      "example": "Social media created a brave new world.",
+      "keyword": "брейв",
+      "mnemonic": "Соцсети построили брейв-мир: это дивный новый мир, — брейв гудит a brave new world."
     },
     {
       "idiom": "pie in the sky",
       "translation": "несбыточные мечты",
-      "example": "Flying cars for everyone is just pie in the sky."
+      "example": "Flying cars for everyone is just pie in the sky.",
+      "keyword": "пай",
+      "mnemonic": "Машины делят пай в небе: это несбыточные мечты, — пай тает pie in the sky."
     },
     {
       "idiom": "in a perfect world",
       "translation": "в идеальном мире",
-      "example": "In a perfect world, nobody would go hungry."
+      "example": "In a perfect world, nobody would go hungry.",
+      "keyword": "пёрфект",
+      "mnemonic": "Мечтатели строят пёрфект-макет: они живут в идеальном мире, — пёрфект сияет in a perfect world."
     },
     {
       "idiom": "have one's head in the clouds",
       "translation": "витать в облаках",
-      "example": "Dreaming is fine, but don't keep your head in the clouds."
+      "example": "Dreaming is fine, but don't keep your head in the clouds.",
+      "keyword": "клаудс",
+      "mnemonic": "Мечтатель парит на клаудс-перине: он любит витать в облаках, — клаудс плывёт have one's head in the clouds."
     },
     {
       "idiom": "the light at the end of the tunnel",
       "translation": "свет в конце тоннеля",
-      "example": "The peace talks are the light at the end of the tunnel."
+      "example": "The peace talks are the light at the end of the tunnel.",
+      "keyword": "лайт",
+      "mnemonic": "Переговоры зажгли лайт-лампу: это свет в конце тоннеля, — лайт мигает the light at the end of the tunnel."
     },
     {
       "idiom": "the shape of things to come",
       "translation": "контуры будущего",
-      "example": "This novel shows the shape of things to come."
+      "example": "This novel shows the shape of things to come.",
+      "keyword": "шейп",
+      "mnemonic": "Роман лепит шейп-модель: это контуры будущего, — шейп гудит the shape of things to come."
     },
     {
       "idiom": "only time will tell",
       "translation": "только время покажет",
-      "example": "Will the plan work? Only time will tell."
+      "example": "Will the plan work? Only time will tell.",
+      "keyword": "тайм",
+      "mnemonic": "План поставили на тайм-паузу: только время покажет сработает ли, — тайм тикает only time will tell."
     },
     {
       "idiom": "money to burn",
       "translation": "денег куры не клюют",
-      "example": "They had dreams and money to burn."
+      "example": "They had dreams and money to burn.",
+      "keyword": "бёрн",
+      "mnemonic": "Мечтатели жгут бёрн-банкноты: у них денег куры не клюют, — бёрн пылает money to burn."
     },
     {
       "idiom": "doom and gloom",
       "translation": "мрак и безысходность",
-      "example": "The film is full of doom and gloom."
+      "example": "The film is full of doom and gloom.",
+      "keyword": "дум-глум",
+      "mnemonic": "Фильм накрыл дум-глум туманом: там мрак и безысходность, — дум-глум давит doom and gloom."
     },
     {
       "idiom": "a necessary evil",
       "translation": "необходимое зло",
-      "example": "Surveillance cameras are a necessary evil, some say."
+      "example": "Surveillance cameras are a necessary evil, some say.",
+      "keyword": "ивл",
+      "mnemonic": "Камеры как ивл-страж: это необходимое зло, — ивл следит a necessary evil."
     },
     {
       "idiom": "a silver lining",
       "translation": "светлая сторона",
-      "example": "Every crisis has a silver lining."
+      "example": "Every crisis has a silver lining.",
+      "keyword": "сильвер",
+      "mnemonic": "Кризис блеснул сильвер-краем: у него есть светлая сторона, — сильвер сверкает a silver lining."
     },
     {
       "idiom": "wishful thinking",
       "translation": "выдавать желаемое за действительное",
-      "example": "Hoping phones will disappear is wishful thinking."
+      "example": "Hoping phones will disappear is wishful thinking.",
+      "keyword": "вишфул",
+      "mnemonic": "Надежды как вишфул-пузырь: это выдавать желаемое за действительное, — вишфул лопается wishful thinking."
     },
     {
       "idiom": "wait and see",
       "translation": "подождать и посмотреть",
-      "example": "Let's wait and see how the technology develops."
+      "example": "Let's wait and see how the technology develops.",
+      "keyword": "вейт-си",
+      "mnemonic": "Технологии поставили на вейт-си паузу: надо подождать и посмотреть, — вейт-си тикает wait and see."
     }
   ]
 }

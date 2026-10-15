@@ -5,12 +5,16 @@
     {
       "idiom": "back to nature",
       "translation": "вернуться к природе",
-      "example": "They went back to nature and moved to a farm."
+      "example": "They went back to nature and moved to a farm.",
+      "keyword": "дача",
+      "mnemonic": "Вернулись к природе — переехали на дачу: back to nature."
     },
     {
       "idiom": "a breath of fresh air",
       "translation": "глоток свежего воздуха",
-      "example": "The mountain air was a breath of fresh air."
+      "example": "The mountain air was a breath of fresh air.",
+      "keyword": "бриф",
+      "mnemonic": "Горный воздух — глоток свежести после брифа: breath of fresh air."
     }
   ]
 }

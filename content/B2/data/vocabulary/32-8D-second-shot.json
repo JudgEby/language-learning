@@ -5,57 +5,79 @@
     {
       "term": "mission",
       "translation": "миссия",
-      "example": "Our mission is to reduce waste."
+      "example": "Our mission is to reduce waste.",
+      "keyword": "миссионер",
+      "mnemonic": "Наша миссия — меньше мусора: проповедует миссионер: mission is to reduce waste."
     },
     {
       "term": "volunteer",
       "translation": "волонтёр",
-      "example": "She works as a volunteer."
+      "example": "She works as a volunteer.",
+      "keyword": "воля",
+      "mnemonic": "Работает волонтёром — проявила волю: works as a volunteer."
     },
     {
       "term": "initiative",
       "translation": "инициатива",
-      "example": "The local initiative supports refugees."
+      "example": "The local initiative supports refugees.",
+      "keyword": "инициалы",
+      "mnemonic": "Местная инициатива поддерживает беженцев — оставь инициалы: local initiative supports refugees."
     },
     {
       "term": "impact",
       "translation": "влияние, эффект",
-      "example": "The project had a real impact."
+      "example": "The project had a real impact.",
+      "keyword": "компакт",
+      "mnemonic": "Проект имел реальный эффект — компактный, но мощный: had a real impact."
     },
     {
       "term": "empower",
       "translation": "давать силы, расширять возможности",
-      "example": "Education empowers communities."
+      "example": "Education empowers communities.",
+      "keyword": "пауэрбанк",
+      "mnemonic": "Образование даёт силы сообществам — заряжает, как пауэрбанк: empowers communities."
     },
     {
       "term": "get out",
       "translation": "выбраться",
-      "example": "It is hard to get out of homelessness."
+      "example": "It is hard to get out of homelessness.",
+      "keyword": "гетто",
+      "mnemonic": "Трудно выбраться из бездомности — вырвись из гетто: hard to get out of homelessness."
     },
     {
       "term": "get your life back together",
       "translation": "наладить жизнь",
-      "example": "He is getting his life back together now."
+      "example": "He is getting his life back together now.",
+      "keyword": "тусовка",
+      "mnemonic": "Он налаживает жизнь — вернулся в тусовку: getting his life back together."
     },
     {
       "term": "get your confidence back",
       "translation": "вернуть уверенность",
-      "example": "We help them get their confidence back."
+      "example": "We help them get their confidence back.",
+      "keyword": "конфиденциально",
+      "mnemonic": "Помогаем им вернуть уверенность — строго конфиденциально: get their confidence back."
     },
     {
       "term": "get to the other side",
       "translation": "преодолеть, пройти через",
-      "example": "He finally got to the other side."
+      "example": "He finally got to the other side.",
+      "keyword": "сайт",
+      "mnemonic": "Он наконец преодолел — вышел на другой сайт жизни: got to the other side."
     },
     {
       "term": "have a big heart",
       "translation": "доброе сердце",
-      "example": "Julius has got a big heart."
+      "example": "Julius has got a big heart.",
+      "keyword": "биг",
+      "mnemonic": "У Джулиуса большое сердце — биг, как бургер: has got a big heart, доброе сердце."
     },
     {
       "term": "have somewhere to live",
       "translation": "иметь жильё",
-      "example": "Now I have got somewhere to live."
+      "example": "Now I have got somewhere to live.",
+      "keyword": "самовар",
+      "mnemonic": "Теперь есть жильё — грей самовар: have got somewhere to live."
     }
   ]
 }

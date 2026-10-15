@@ -5,12 +5,16 @@
     {
       "idiom": "find your calling",
       "translation": "найти своё призвание",
-      "example": "He finally found his calling."
+      "example": "He finally found his calling.",
+      "keyword": "колл-центр",
+      "mnemonic": "Наконец нашёл призвание — сбежал из колл-центра: found his calling."
     },
     {
       "idiom": "one thing led to another",
       "translation": "одно за другим",
-      "example": "One thing led to another, and now she runs a studio."
+      "example": "One thing led to another, and now she runs a studio.",
+      "keyword": "леденец",
+      "mnemonic": "Одно потянуло другое — теперь у неё студия и леденец: led to another."
     }
   ]
 }

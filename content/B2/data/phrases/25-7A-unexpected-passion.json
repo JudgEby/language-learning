@@ -5,42 +5,58 @@
     {
       "phrase": "take up (a hobby)",
       "translation": "начать заниматься",
-      "example": "I took up photography last year."
+      "example": "I took up photography last year.",
+      "keyword": "апгрейд",
+      "mnemonic": "Занялся фотографией в прошлом году — апгрейд хобби: took up photography."
     },
     {
       "phrase": "by chance",
       "translation": "случайно",
-      "example": "We met by chance at a gallery."
+      "example": "We met by chance at a gallery.",
+      "keyword": "шанс",
+      "mnemonic": "Встретились случайно в галерее — дай шанс: met by chance."
     },
     {
       "phrase": "stumble upon",
       "translation": "наткнуться на",
-      "example": "She stumbled upon an old piano in the attic."
+      "example": "She stumbled upon an old piano in the attic.",
+      "keyword": "Стамбул",
+      "mnemonic": "Наткнулась на старое пианино — как на Стамбул: stumbled upon a piano."
     },
     {
       "phrase": "develop a passion",
       "translation": "развить увлечение",
-      "example": "He developed a passion for classical music overnight."
+      "example": "He developed a passion for classical music overnight.",
+      "keyword": "девелопер",
+      "mnemonic": "За ночь развил увлечение классикой — стал девелопером вкуса: developed a passion."
     },
     {
       "phrase": "change your life forever",
       "translation": "изменить жизнь навсегда",
-      "example": "The accident changed his life forever."
+      "example": "The accident changed his life forever.",
+      "keyword": "фанера",
+      "mnemonic": "Авария изменила его жизнь навсегда — пролетела, как фанера: changed his life forever."
     },
     {
       "phrase": "make time for your children",
       "translation": "находить время для детей",
-      "example": "He tried to make time for his children every evening."
+      "example": "He tried to make time for his children every evening.",
+      "keyword": "чили",
+      "mnemonic": "Старался находить время для детей — готовил чили: make time for children."
     },
     {
       "phrase": "take lessons",
       "translation": "брать уроки",
-      "example": "She started taking lessons and practised daily."
+      "example": "She started taking lessons and practised daily.",
+      "keyword": "лесть",
+      "mnemonic": "Начала брать уроки и заниматься daily — без лести: taking lessons."
     },
     {
       "phrase": "practise in every spare moment",
       "translation": "практиковаться каждую свободную минуту",
-      "example": "He practised the piano in every spare moment."
+      "example": "He practised the piano in every spare moment.",
+      "keyword": "спарринг",
+      "mnemonic": "Занимался на пианино каждую свободную минуту — спарринг с клавишами: every spare moment."
     }
   ]
 }

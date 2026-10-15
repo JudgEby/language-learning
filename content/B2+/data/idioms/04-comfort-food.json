@@ -5,72 +5,100 @@
     {
       "idiom": "a piece of cake",
       "translation": "проще простого",
-      "example": "The recipe looked scary, but the dish was a piece of cake to cook."
+      "example": "The recipe looked scary, but the dish was a piece of cake to cook.",
+      "keyword": "кейк",
+      "mnemonic": "Рецепт как кейк из коробки: оказалось проще простого, — кейк тает a piece of cake."
     },
     {
       "idiom": "food for thought",
       "translation": "пища для размышлений",
-      "example": "The quote about comfort food gave me real food for thought."
+      "example": "The quote about comfort food gave me real food for thought.",
+      "keyword": "фуд",
+      "mnemonic": "Цитата как фуд для мозга: стала пищей для размышлений, — фуд питает food for thought."
     },
     {
       "idiom": "have a lot on one's plate",
       "translation": "иметь много забот",
-      "example": "She had a lot on her plate, so she just ordered takeaway."
+      "example": "She had a lot on her plate, so she just ordered takeaway.",
+      "keyword": "плейт",
+      "mnemonic": "На плейт-тарелке гора дел: она стала иметь много забот, — плейт ломится have a lot on one's plate."
     },
     {
       "idiom": "the icing on the cake",
       "translation": "вишенка на торте",
-      "example": "The brownie was delicious, and the warm atmosphere was the icing on the cake."
+      "example": "The brownie was delicious, and the warm atmosphere was the icing on the cake.",
+      "keyword": "айс",
+      "mnemonic": "Брауни покрыли айс-глазурью: вот тебе вишенка на торте, — айс блестит the icing on the cake."
     },
     {
       "idiom": "go bananas",
       "translation": "сходить с ума (от восторга)",
-      "example": "My kids go bananas for cheesy pasta."
+      "example": "My kids go bananas for cheesy pasta.",
+      "keyword": "банан",
+      "mnemonic": "Дети машут бананом: они стали сходить с ума от восторга, — банан прыгает go bananas."
     },
     {
       "idiom": "cool as a cucumber",
       "translation": "спокойный как удав",
-      "example": "The chef stayed as cool as a cucumber during the dinner rush."
+      "example": "The chef stayed as cool as a cucumber during the dinner rush.",
+      "keyword": "кул",
+      "mnemonic": "Шеф включил кул-режим: он спокойный как удав в час пик, — кул морозит cool as a cucumber."
     },
     {
       "idiom": "a couch potato",
       "translation": "домосед; лежебока",
-      "example": "Too much comfort food turned him into a couch potato."
+      "example": "Too much comfort food turned him into a couch potato.",
+      "keyword": "потато",
+      "mnemonic": "Потато-лежебока врос в диван: стал домоседом и лежебокой, — потато дремлет a couch potato."
     },
     {
       "idiom": "bring home the bacon",
       "translation": "зарабатывать на жизнь",
-      "example": "Both parents bring home the bacon in our family."
+      "example": "Both parents bring home the bacon in our family.",
+      "keyword": "бекон",
+      "mnemonic": "Родители тащат бекон домой: так они стали зарабатывать на жизнь, — бекон шкварчит bring home the bacon."
     },
     {
       "idiom": "have egg on one's face",
       "translation": "опростоволоситься",
-      "example": "He claimed he never eats sweets, then got caught with chocolate — egg on his face!"
+      "example": "He claimed he never eats sweets, then got caught with chocolate — egg on his face!",
+      "keyword": "эгг",
+      "mnemonic": "Сладкоежка разбил эгг о лоб: он смог опростоволоситься с шоколадом, — эгг течёт have egg on one's face."
     },
     {
       "idiom": "in a nutshell",
       "translation": "в двух словах",
-      "example": "Comfort food, in a nutshell, is food that makes us feel happy."
+      "example": "Comfort food, in a nutshell, is food that makes us feel happy.",
+      "keyword": "натс",
+      "mnemonic": "Комфорт-фуд уместился в натс-скорлупку: это в двух словах еда для счастья, — натс щёлкает in a nutshell."
     },
     {
       "idiom": "spill the beans",
       "translation": "проболтаться; выдать секрет",
-      "example": "She spilled the beans about the surprise birthday cake."
+      "example": "She spilled the beans about the surprise birthday cake.",
+      "keyword": "бинс",
+      "mnemonic": "Сестра рассыпала бинс-фасоль: она смогла проболтаться и выдать секрет, — бинс катится spill the beans."
     },
     {
       "idiom": "the big cheese",
       "translation": "важная шишка",
-      "example": "The restaurant critic is a big cheese in the food world."
+      "example": "The restaurant critic is a big cheese in the food world.",
+      "keyword": "чиз",
+      "mnemonic": "Критик как чиз-король: он важная шишка в еде, — чиз пахнет the big cheese."
     },
     {
       "idiom": "a recipe for disaster",
       "translation": "верный путь к провалу",
-      "example": "Skipping lunch and eating cake at midnight is a recipe for disaster."
+      "example": "Skipping lunch and eating cake at midnight is a recipe for disaster.",
+      "keyword": "рецепт",
+      "mnemonic": "Ночной торт по рецепту: это верный путь к провалу, — рецепт чадит a recipe for disaster."
     },
     {
       "idiom": "eat one's words",
       "translation": "взять свои слова обратно",
-      "example": "He said he would hate the spicy soup, but he had to eat his words."
+      "example": "He said he would hate the spicy soup, but he had to eat his words.",
+      "keyword": "вордс",
+      "mnemonic": "Ворчун жуёт вордс-буквы: пришлось взять свои слова обратно про суп, — вордс горчат eat one's words."
     }
   ]
 }

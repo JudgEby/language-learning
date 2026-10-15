@@ -2,13 +2,61 @@
   "lessonId": "join-us",
   "title": "Join us! — идиомы",
   "items": [
-    { "idiom": "join the club", "translation": "добро пожаловать в нашу компанию, у нас так же", "example": "You can't get up at four in the morning? Join the club." },
-    { "idiom": "be a pain in the neck", "translation": "надоедливый человек", "example": "My little brother is a pain in the neck — he never tidies his room." },
-    { "idiom": "work out", "translation": "заниматься спортом, тренироваться", "example": "I work out three times a week at the gym." },
-    { "idiom": "turn out", "translation": "оказаться (результат), в итоге", "example": "It turned out well — everybody came and the food was great." },
-    { "idiom": "burn the candle at both ends", "translation": "работать на износ, без сна", "example": "He works all day and plays football at night — he burns the candle at both ends." },
-    { "idiom": "sit around", "translation": "сидеть без дела, бездельничать", "example": "On Sundays we just sit around and watch TV." },
-    { "idiom": "get together", "translation": "собраться вместе", "example": "Our group gets together every Wednesday evening." },
-    { "idiom": "keep fit", "translation": "держаться в форме", "example": "Walking to work is a cheap way to keep fit." }
+    {
+      "idiom": "join the club",
+      "translation": "добро пожаловать в нашу компанию, у нас так же",
+      "example": "You can't get up at four in the morning? Join the club.",
+      "keyword": "клуб",
+      "mnemonic": "Соня входит в клуб ранних подъёмов: join the club — у нас так же."
+    },
+    {
+      "idiom": "be a pain in the neck",
+      "translation": "надоедливый человек",
+      "example": "My little brother is a pain in the neck — he never tidies his room.",
+      "keyword": "пэйн",
+      "mnemonic": "Младший брат вопит «пэйн!» и не убирает комнату: be a pain in the neck — надоедливый человек."
+    },
+    {
+      "idiom": "work out",
+      "translation": "заниматься спортом, тренироваться",
+      "example": "I work out three times a week at the gym.",
+      "keyword": "аут",
+      "mnemonic": "Качок кричит «аут!» после подхода: work out — тренироваться."
+    },
+    {
+      "idiom": "turn out",
+      "translation": "оказаться (результат), в итоге",
+      "example": "It turned out well — everybody came and the food was great.",
+      "keyword": "торт",
+      "mnemonic": "Торт turned out отлично — все пришли: turn out — оказаться в итоге."
+    },
+    {
+      "idiom": "burn the candle at both ends",
+      "translation": "работать на износ, без сна",
+      "example": "He works all day and plays football at night — he burns the candle at both ends.",
+      "keyword": "бурный",
+      "mnemonic": "Бурный трудяга пашет день и ночь: burn the candle at both ends — работать на износ."
+    },
+    {
+      "idiom": "sit around",
+      "translation": "сидеть без дела, бездельничать",
+      "example": "On Sundays we just sit around and watch TV.",
+      "keyword": "ситро",
+      "mnemonic": "Лентяй пьёт ситро и смотрит телик: sit around — сидеть без дела."
+    },
+    {
+      "idiom": "get together",
+      "translation": "собраться вместе",
+      "example": "Our group gets together every Wednesday evening.",
+      "keyword": "тусовка",
+      "mnemonic": "Тусовка собирается по средам: get together — собраться вместе."
+    },
+    {
+      "idiom": "keep fit",
+      "translation": "держаться в форме",
+      "example": "Walking to work is a cheap way to keep fit.",
+      "keyword": "кипиш",
+      "mnemonic": "Офисный клерк устраивает кипиш пешком на работу: keep fit — держаться в форме."
+    }
   ]
 }

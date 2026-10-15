@@ -5,87 +5,121 @@
     {
       "term": "matching",
       "translation": "подходящий, сочетающийся",
-      "example": "She wore a matching scarf and gloves set."
+      "example": "She wore a matching scarf and gloves set.",
+      "keyword": "матч",
+      "mnemonic": "Она надела подходящие шарф и перчатки — полный матч комплекта, это matching."
     },
     {
       "term": "chic",
       "translation": "шикарный, элегантный",
-      "example": "She always looks chic in her tailored black dress."
+      "example": "She always looks chic in her tailored black dress.",
+      "keyword": "шик",
+      "mnemonic": "Она всегда выглядит шикарно в чёрном платье — чистый шик, это chic."
     },
     {
       "term": "dull",
       "translation": "скучный, невзрачный",
-      "example": "His outfit was a bit dull, just grey trousers and a plain white shirt."
+      "example": "His outfit was a bit dull, just grey trousers and a plain white shirt.",
+      "keyword": "дуло",
+      "mnemonic": "Его наряд скучный и невзрачный — серые брюки и белая рубашка, как дуло, это dull."
     },
     {
       "term": "striped",
       "translation": "полосатый",
-      "example": "He bought a striped shirt with blue and white alternating bands."
+      "example": "He bought a striped shirt with blue and white alternating bands.",
+      "keyword": "страйп",
+      "mnemonic": "Он купил полосатую рубашку в сине-белую полоску — носи страйпы, это striped."
     },
     {
       "term": "scruffy",
       "translation": "неряшливый, неопрятный",
-      "example": "Her scruffy jeans were covered in paint stains."
+      "example": "Her scruffy jeans were covered in paint stains.",
+      "keyword": "скряга",
+      "mnemonic": "Её неряшливые джинсы в пятнах краски — скряга не стирает, это scruffy."
     },
     {
       "term": "waterproof",
       "translation": "водонепроницаемый",
-      "example": "A waterproof jacket is essential for hiking in rainy weather."
+      "example": "A waterproof jacket is essential for hiking in rainy weather.",
+      "keyword": "в пруд",
+      "mnemonic": "Непромокаемая куртка нужна для походов в дождь — падай в пруд, это waterproof."
     },
     {
       "term": "loud",
       "translation": "кричащий, яркий",
-      "example": "His loud Hawaiian shirt was hard to miss at the party."
+      "example": "His loud Hawaiian shirt was hard to miss at the party.",
+      "keyword": "лает",
+      "mnemonic": "Его кричащая гавайская рубашка бросалась в глаза — собака лает на неё, это loud."
     },
     {
       "term": "baggy",
       "translation": "мешковатый, свободный",
-      "example": "She prefers baggy sweaters over tight-fitting tops."
+      "example": "She prefers baggy sweaters over tight-fitting tops.",
+      "keyword": "багаж",
+      "mnemonic": "Она предпочитает мешковатые свитеры — будто надела багаж, это baggy."
     },
     {
       "term": "vintage",
       "translation": "винтажный",
-      "example": "She loves shopping for vintage dresses from the 1960s."
+      "example": "She loves shopping for vintage dresses from the 1960s.",
+      "keyword": "винт",
+      "mnemonic": "Она любит винтажные платья шестидесятых — закрути винт времени, это vintage."
     },
     {
       "term": "second-hand",
       "translation": "подержанный, секонд-хенд",
-      "example": "I bought this coat second-hand at a charity shop."
+      "example": "I bought this coat second-hand at a charity shop.",
+      "keyword": "секунда",
+      "mnemonic": "Я купил это пальто подержанным в благотворительном магазине — за секунду до закрытия, это second-hand."
     },
     {
       "term": "pre-loved",
       "translation": "бывший в употреблении (в хорошем смысле)",
-      "example": "By buying a pre-loved outfit you can save money."
+      "example": "By buying a pre-loved outfit you can save money.",
+      "keyword": "приласкали",
+      "mnemonic": "Покупая одежду pre-loved, сэкономишь — её уже приласкали до тебя, это pre-loved."
     },
     {
       "term": "decent",
       "translation": "приличный, достойный",
-      "example": "Sell the decent clothes that don't fit anymore."
+      "example": "Sell the decent clothes that don't fit anymore.",
+      "keyword": "доцент",
+      "mnemonic": "Продай приличную одежду, что уже мала, — доцент плохого не посоветует, это decent."
     },
     {
       "term": "classy",
       "translation": "элегантный, стильный",
-      "example": "All couples want to look classy on their wedding day."
+      "example": "All couples want to look classy on their wedding day.",
+      "keyword": "класс",
+      "mnemonic": "Все пары хотят выглядеть элегантно в день свадьбы — чистый класс, это classy."
     },
     {
       "term": "fancy",
       "translation": "нарядный, шикарный",
-      "example": "People sell fancy exercise equipment they've barely used."
+      "example": "People sell fancy exercise equipment they've barely used.",
+      "keyword": "фантик",
+      "mnemonic": "Люди продают нарядные тренажёры почти без использования — блестят как фантики, это fancy."
     },
     {
       "term": "costly",
       "translation": "дорогостоящий",
-      "example": "The latest tech can be costly."
+      "example": "The latest tech can be costly.",
+      "keyword": "кости",
+      "mnemonic": "Новейшая техника может быть дорогостоящей — выложишь все кости, это costly."
     },
     {
       "term": "shabby",
       "translation": "потрёпанный, убогий",
-      "example": "It's easy to make shabby items look brand new."
+      "example": "It's easy to make shabby items look brand new.",
+      "keyword": "шапка",
+      "mnemonic": "Потрёпанные вещи легко сделать как новые — надень шапку-невидимку, это shabby."
     },
     {
       "term": "trendy",
       "translation": "модный",
-      "example": "Vintage clothes from the 1970s are quite trendy again."
+      "example": "Vintage clothes from the 1970s are quite trendy again.",
+      "keyword": "тренд",
+      "mnemonic": "Винтаж семидесятых снова модный — лови тренд, это trendy."
     }
   ]
 }

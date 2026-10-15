@@ -2,15 +2,75 @@
   "lessonId": "dream-job",
   "title": "Dream job — новые слова",
   "items": [
-    { "term": "exhausted", "translation": "измученный (крайняя степень усталости)", "example": "I'm going home. I'm absolutely exhausted." },
-    { "term": "fascinating", "translation": "захватывающий, очень интересный", "example": "I find astronomy absolutely fascinating." },
-    { "term": "enormous", "translation": "огромный", "example": "I can't believe how enormous your kitchen is." },
-    { "term": "terrible / awful", "translation": "ужасный", "example": "The weather was awful on holiday." },
-    { "term": "wonderful / amazing", "translation": "замечательный, потрясающий", "example": "This food tastes wonderful. Did you cook it?" },
-    { "term": "freezing", "translation": "ледяной, очень холодный", "example": "It's minus ten degrees outside. It's freezing!" },
-    { "term": "boiling", "translation": "очень жаркий", "example": "Is the heating on? It's boiling in here." },
-    { "term": "furious", "translation": "в ярости", "example": "The boss was furious when he heard the news." },
-    { "term": "tiny", "translation": "крошечный", "example": "I'd invite you round but my apartment is tiny." },
-    { "term": "impossible", "translation": "невозможный, очень сложный", "example": "I find phrasal verbs impossible to remember." }
+    {
+      "term": "exhausted",
+      "translation": "измученный (крайняя степень усталости)",
+      "example": "I'm going home. I'm absolutely exhausted.",
+      "keyword": "экзостед",
+      "mnemonic": "Экзостед-шахтёр выполз: I'm exhausted — измученный, крайняя степень усталости."
+    },
+    {
+      "term": "fascinating",
+      "translation": "захватывающий, очень интересный",
+      "example": "I find astronomy absolutely fascinating.",
+      "keyword": "фасцинейт",
+      "mnemonic": "Фасцинейт-телескоп манит: astronomy is fascinating — захватывающая, очень интересная."
+    },
+    {
+      "term": "enormous",
+      "translation": "огромный",
+      "example": "I can't believe how enormous your kitchen is.",
+      "keyword": "энормус",
+      "mnemonic": "Энормус-кухня-гигант: how enormous — огромная, не верится глазам."
+    },
+    {
+      "term": "terrible / awful",
+      "translation": "ужасный",
+      "example": "The weather was awful on holiday.",
+      "keyword": "террибл",
+      "mnemonic": "Террибл-ураган пронёсся: the weather was awful — ужасная погода в отпуске."
+    },
+    {
+      "term": "wonderful / amazing",
+      "translation": "замечательный, потрясающий",
+      "example": "This food tastes wonderful. Did you cook it?",
+      "keyword": "вандерфул",
+      "mnemonic": "Вандерфул-торт на столе: this food is wonderful — замечательное, потрясающее, ты готовил?"
+    },
+    {
+      "term": "freezing",
+      "translation": "ледяной, очень холодный",
+      "example": "It's minus ten degrees outside. It's freezing!",
+      "keyword": "фризинг",
+      "mnemonic": "Фризинг-мороз минус десять: it's freezing — ледяной, очень холодный воздух."
+    },
+    {
+      "term": "boiling",
+      "translation": "очень жаркий",
+      "example": "Is the heating on? It's boiling in here.",
+      "keyword": "бойлинг",
+      "mnemonic": "Бойлинг-чайник кипит: it's boiling — очень жарко, отопление шпарит."
+    },
+    {
+      "term": "furious",
+      "translation": "в ярости",
+      "example": "The boss was furious when he heard the news.",
+      "keyword": "фьюриес",
+      "mnemonic": "Фьюриес-босс покраснел: he was furious — в ярости от новости."
+    },
+    {
+      "term": "tiny",
+      "translation": "крошечный",
+      "example": "I'd invite you round but my apartment is tiny.",
+      "keyword": "тайни",
+      "mnemonic": "Тайни-квартирка-крошка: my apartment is tiny — крошечная, не пригласить."
+    },
+    {
+      "term": "impossible",
+      "translation": "невозможный, очень сложный",
+      "example": "I find phrasal verbs impossible to remember.",
+      "keyword": "импосибл",
+      "mnemonic": "Импосибл-ребус не решается: phrasal verbs are impossible — невозможные, очень сложные."
+    }
   ]
 }

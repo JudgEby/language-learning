@@ -5,12 +5,16 @@
     {
       "idiom": "practice makes perfect",
       "translation": "практика ведёт к совершенству",
-      "example": "Keep trying — practice makes perfect."
+      "example": "Keep trying — practice makes perfect.",
+      "keyword": "практикант",
+      "mnemonic": "Пробуй ещё — практика ведёт к совершенству, спроси практиканта: practice makes perfect."
     },
     {
       "idiom": "easier said than done",
       "translation": "легко сказать",
-      "example": "Saving money is easier said than done."
+      "example": "Saving money is easier said than done.",
+      "keyword": "данетки",
+      "mnemonic": "Копить деньги — легко сказать: сыграй в данетки: easier said than done."
     }
   ]
 }

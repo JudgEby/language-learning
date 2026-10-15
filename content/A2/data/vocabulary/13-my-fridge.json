@@ -2,23 +2,131 @@
   "lessonId": "my-fridge",
   "title": "My fridge — новые слова",
   "items": [
-    { "term": "cheese", "translation": "сыр", "example": "I love cheese — I buy it every week." },
-    { "term": "milk", "translation": "молоко", "example": "Have you got any milk in the fridge?" },
-    { "term": "a banana", "translation": "банан", "example": "I really like bananas with porridge." },
-    { "term": "a potato", "translation": "картофелина", "example": "We need three potatoes for the salad." },
-    { "term": "an egg", "translation": "яйцо", "example": "Eggs are OK, but I don't eat them every day." },
-    { "term": "garlic", "translation": "чеснок", "example": "I don't like garlic — it's too strong." },
-    { "term": "a tomato", "translation": "помидор", "example": "Have we got any tomato? We've got some tomatoes." },
-    { "term": "a carrot", "translation": "морковь", "example": "Add two carrots to the salad." },
-    { "term": "broccoli", "translation": "брокколи", "example": "He's got some broccoli and a green pepper." },
-    { "term": "an onion", "translation": "лук", "example": "I haven't got any onions for the salad." },
-    { "term": "a cucumber", "translation": "огурец", "example": "I've got a cucumber but no tomatoes." },
-    { "term": "lettuce", "translation": "салат (листовая зелень)", "example": "There's some lettuce to make a salad." },
-    { "term": "oil", "translation": "масло", "example": "Have I got any oil? — Ah yes, here it is." },
-    { "term": "fresh fish", "translation": "свежая рыба", "example": "I've got fresh fish to grill." },
-    { "term": "a takeaway", "translation": "еда на вынос", "example": "He eats takeaway food three times a week." },
-    { "term": "junk food", "translation": "вредная еда, фастфуд", "example": "Too much junk food is bad for your health." },
-    { "term": "a snack", "translation": "перекус, закуска", "example": "My favourite snack is chocolate and fruit." },
-    { "term": "a balanced diet", "translation": "сбалансированное питание", "example": "André tries to have a balanced diet." }
+    {
+      "term": "cheese",
+      "translation": "сыр",
+      "example": "I love cheese — I buy it every week.",
+      "keyword": "чиз",
+      "mnemonic": "Мышонок пищит «чиз» над сыром — вот cheese."
+    },
+    {
+      "term": "milk",
+      "translation": "молоко",
+      "example": "Have you got any milk in the fridge?",
+      "keyword": "милок",
+      "mnemonic": "Котёнок-милок лакает молоко — вот milk."
+    },
+    {
+      "term": "a banana",
+      "translation": "банан",
+      "example": "I really like bananas with porridge.",
+      "keyword": "баня",
+      "mnemonic": "Обезьяна парит банан в бане — вот a banana."
+    },
+    {
+      "term": "a potato",
+      "translation": "картофелина",
+      "example": "We need three potatoes for the salad.",
+      "keyword": "пот",
+      "mnemonic": "Фермер вытирает пот и копает картофелину — вот a potato."
+    },
+    {
+      "term": "an egg",
+      "translation": "яйцо",
+      "example": "Eggs are OK, but I don't eat them every day.",
+      "keyword": "эгг",
+      "mnemonic": "Курица кудахчет «эгг» — снесла яйцо, an egg."
+    },
+    {
+      "term": "garlic",
+      "translation": "чеснок",
+      "example": "I don't like garlic — it's too strong.",
+      "keyword": "гарлик",
+      "mnemonic": "Вампир нюхает гарлик и морщится — там garlic, чеснок."
+    },
+    {
+      "term": "a tomato",
+      "translation": "помидор",
+      "example": "Have we got any tomato? We've got some tomatoes.",
+      "keyword": "томат",
+      "mnemonic": "Фермер хвастает: томат — это помидор, a tomato."
+    },
+    {
+      "term": "a carrot",
+      "translation": "морковь",
+      "example": "Add two carrots to the salad.",
+      "keyword": "карат",
+      "mnemonic": "Заяц меняет карат на морковь — вот a carrot."
+    },
+    {
+      "term": "broccoli",
+      "translation": "брокколи",
+      "example": "He's got some broccoli and a green pepper.",
+      "keyword": "брокер",
+      "mnemonic": "Брокер жуёт брокколи у монитора — вот broccoli."
+    },
+    {
+      "term": "an onion",
+      "translation": "лук",
+      "example": "I haven't got any onions for the salad.",
+      "keyword": "онион",
+      "mnemonic": "Повар плачет над онионом — режет лук, an onion."
+    },
+    {
+      "term": "a cucumber",
+      "translation": "огурец",
+      "example": "I've got a cucumber but no tomatoes.",
+      "keyword": "кум",
+      "mnemonic": "Кум грызёт огурец на грядке — вот a cucumber."
+    },
+    {
+      "term": "lettuce",
+      "translation": "салат (листовая зелень)",
+      "example": "There's some lettuce to make a salad.",
+      "keyword": "латук",
+      "mnemonic": "Кролик тащит латук в салат — вот lettuce."
+    },
+    {
+      "term": "oil",
+      "translation": "масло",
+      "example": "Have I got any oil? — Ah yes, here it is.",
+      "keyword": "ойл",
+      "mnemonic": "Повар кричит «ойл» и льёт масло — вот oil."
+    },
+    {
+      "term": "fresh fish",
+      "translation": "свежая рыба",
+      "example": "I've got fresh fish to grill.",
+      "keyword": "фиш",
+      "mnemonic": "Кот вопит «фиш» над прилавком — там fresh fish, свежая рыба."
+    },
+    {
+      "term": "a takeaway",
+      "translation": "еда на вынос",
+      "example": "He eats takeaway food three times a week.",
+      "keyword": "тейк",
+      "mnemonic": "Курьер кричит «тейк» и мчит с пакетами — это a takeaway, еда на вынос."
+    },
+    {
+      "term": "junk food",
+      "translation": "вредная еда, фастфуд",
+      "example": "Too much junk food is bad for your health.",
+      "keyword": "джанк",
+      "mnemonic": "Енот ныряет в джанк-бак — там junk food, вредная еда."
+    },
+    {
+      "term": "a snack",
+      "translation": "перекус, закуска",
+      "example": "My favourite snack is chocolate and fruit.",
+      "keyword": "снек",
+      "mnemonic": "Хомяк шуршит снеком — у него a snack, перекус."
+    },
+    {
+      "term": "a balanced diet",
+      "translation": "сбалансированное питание",
+      "example": "André tries to have a balanced diet.",
+      "keyword": "диета",
+      "mnemonic": "Диетолог машет диетой — вот a balanced diet, сбалансированное питание."
+    }
   ]
 }

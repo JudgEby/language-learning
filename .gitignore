@@ -7,6 +7,8 @@ toExtract/*/*
 node_modules/
 dist/
 app/public/content/
+app/test-results/
+app/playwright-report/
 *.tsbuildinfo
 .idea/
 .cursor/

@@ -2,17 +2,89 @@
   "lessonId": "in-their-past",
   "title": "In their past — фразы",
   "items": [
-    { "phrase": "be born in", "translation": "родиться в", "example": "Were you born in this country? — Yes, in Moscow." },
-    { "phrase": "at the age of ...", "translation": "в возрасте ...", "example": "At the age of thirty-two she was a millionaire." },
-    { "phrase": "when you were a child", "translation": "когда ты был ребёнком", "example": "What were your favourite things when you were a child?" },
-    { "phrase": "one of my favourite ...", "translation": "один из моих любимых ...", "example": "One of my favourite films was a short documentary." },
-    { "phrase": "your first ...", "translation": "твой первый ...", "example": "Your first teacher was probably a woman." },
-    { "phrase": "be fond of", "translation": "любить, быть привязанным к", "example": "My grandmother was very fond of music." },
-    { "phrase": "get married", "translation": "жениться, выходить замуж", "example": "They got married in June." },
-    { "phrase": "move to", "translation": "переехать в", "example": "They moved to Canada in 2015." },
-    { "phrase": "the day before yesterday", "translation": "позавчера", "example": "I saw him the day before yesterday." },
-    { "phrase": "a week ago", "translation": "неделю назад", "example": "We had dinner with friends a week ago." },
-    { "phrase": "be a quiet child", "translation": "быть тихим ребёнком", "example": "Were you a very quiet child?" },
-    { "phrase": "grow up", "translation": "вырасти", "example": "She grew up in a small town and moved to the city at eighteen." }
+    {
+      "phrase": "be born in",
+      "translation": "родиться в",
+      "example": "Were you born in this country? — Yes, in Moscow.",
+      "keyword": "борщ",
+      "mnemonic": "Борщ родился в Москве: be born in Moscow — родиться в Москве."
+    },
+    {
+      "phrase": "at the age of ...",
+      "translation": "в возрасте ...",
+      "example": "At the age of thirty-two she was a millionaire.",
+      "keyword": "аист",
+      "mnemonic": "Аист в возрасте тридцати двух: at the age of thirty-two — в возрасте."
+    },
+    {
+      "phrase": "when you were a child",
+      "translation": "когда ты был ребёнком",
+      "example": "What were your favourite things when you were a child?",
+      "keyword": "чайник",
+      "mnemonic": "Чайник в детстве: when you were a child — когда ты был ребёнком."
+    },
+    {
+      "phrase": "one of my favourite ...",
+      "translation": "один из моих любимых ...",
+      "example": "One of my favourite films was a short documentary.",
+      "keyword": "фаворит",
+      "mnemonic": "Фаворит кино: one of my favourite films — один из моих любимых фильмов."
+    },
+    {
+      "phrase": "your first ...",
+      "translation": "твой первый ...",
+      "example": "Your first teacher was probably a woman.",
+      "keyword": "ферзь",
+      "mnemonic": "Ферзь первый: your first teacher — твой первый учитель."
+    },
+    {
+      "phrase": "be fond of",
+      "translation": "любить, быть привязанным к",
+      "example": "My grandmother was very fond of music.",
+      "keyword": "фонд",
+      "mnemonic": "Бабушка с фондом музыки: be fond of music — любить музыку."
+    },
+    {
+      "phrase": "get married",
+      "translation": "жениться, выходить замуж",
+      "example": "They got married in June.",
+      "keyword": "мерин",
+      "mnemonic": "Мерин женился в июне: get married in June — жениться в июне."
+    },
+    {
+      "phrase": "move to",
+      "translation": "переехать в",
+      "example": "They moved to Canada in 2015.",
+      "keyword": "муравей",
+      "mnemonic": "Муравей переехал move to Canada — переехать в Канаду."
+    },
+    {
+      "phrase": "the day before yesterday",
+      "translation": "позавчера",
+      "example": "I saw him the day before yesterday.",
+      "keyword": "эстафета",
+      "mnemonic": "Эстафета позавчера: the day before yesterday — позавчера."
+    },
+    {
+      "phrase": "a week ago",
+      "translation": "неделю назад",
+      "example": "We had dinner with friends a week ago.",
+      "keyword": "ага",
+      "mnemonic": "Ага, неделю назад: a week ago — неделю назад."
+    },
+    {
+      "phrase": "be a quiet child",
+      "translation": "быть тихим ребёнком",
+      "example": "Were you a very quiet child?",
+      "keyword": "кот",
+      "mnemonic": "Кот тихий: be a quiet child — быть тихим ребёнком."
+    },
+    {
+      "phrase": "grow up",
+      "translation": "вырасти",
+      "example": "She grew up in a small town and moved to the city at eighteen.",
+      "keyword": "гром",
+      "mnemonic": "Девочка выросла под гром: grow up in a town — вырасти в городке."
+    }
   ]
 }

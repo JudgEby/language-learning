@@ -38,7 +38,13 @@ export function HomePage() {
       {levels.length === 0 ? (
         <p className="status">Нет доступных уровней. Добавьте контент в папку content/.</p>
       ) : (
-        <ul className="card-list">
+        <>
+          <div className="action-list">
+            <Link to="/flashcards" className="action-btn">
+              Карточки
+            </Link>
+          </div>
+          <ul className="card-list">
           {levels.map((lvl) => (
             <li key={lvl.level}>
               <Link to={`/${lvl.level}`} className="card">
@@ -47,7 +53,8 @@ export function HomePage() {
               </Link>
             </li>
           ))}
-        </ul>
+          </ul>
+        </>
       )}
     </div>
   );

@@ -5,77 +5,107 @@
     {
       "idiom": "jump at the chance",
       "translation": "ухватиться за шанс",
-      "example": "When they offered me a trip to Japan, I jumped at the chance."
+      "example": "When they offered me a trip to Japan, I jumped at the chance.",
+      "keyword": "джамп",
+      "mnemonic": "За путёвкой сделал джамп-прыжок: ухватился за шанс, — джамп взлетел jump at the chance."
     },
     {
       "idiom": "give something a miss",
       "translation": "пропустить",
-      "example": "I'm not really into football, so I'll give the match a miss."
+      "example": "I'm not really into football, so I'll give the match a miss.",
+      "keyword": "мисс",
+      "mnemonic": "Матч пропустила мисс-футбол: решила пропустить игру, — мисс зевает give something a miss."
     },
     {
       "idiom": "run a mile at the thought of",
       "translation": "убежать при мысли о",
-      "example": "I'd run a mile at the thought of having to give a public speech."
+      "example": "I'd run a mile at the thought of having to give a public speech.",
+      "keyword": "майл",
+      "mnemonic": "От речи рванул на майл-марафон: готов убежать при мысли о сцене, — майл пылится run a mile at the thought of."
     },
     {
       "idiom": "not catch someone dead",
       "translation": "никогда не застать кого-то",
-      "example": "You wouldn't catch me dead at a karaoke bar."
+      "example": "You wouldn't catch me dead at a karaoke bar.",
+      "keyword": "дед",
+      "mnemonic": "Дед в караоке: его никогда не застать кого-то там, — дед храпит not catch someone dead."
     },
     {
       "idiom": "give my right arm for",
       "translation": "отдать правую руку за",
-      "example": "I'd give my right arm for a chance to see my favourite band live."
+      "example": "I'd give my right arm for a chance to see my favourite band live.",
+      "keyword": "арм",
+      "mnemonic": "Фанат суёт арм-билет: готов отдать правую руку за концерт, — арм тянется give my right arm for."
     },
     {
       "idiom": "no way would I ever",
       "translation": "ни за что",
-      "example": "No way would I ever go bungee jumping — it's too dangerous."
+      "example": "No way would I ever go bungee jumping — it's too dangerous.",
+      "keyword": "вей",
+      "mnemonic": "Банджо-вей закрыт: я ни за что не прыгну, — вей скрипит no way would I ever."
     },
     {
       "idiom": "wouldn't catch me doing",
       "translation": "меня не заставишь",
-      "example": "You wouldn't catch me doing anything that involves heights."
+      "example": "You wouldn't catch me doing anything that involves heights.",
+      "keyword": "кетч",
+      "mnemonic": "На высоте кричу «кетч!»: меня не заставишь лезть, — кетч страхует wouldn't catch me doing."
     },
     {
       "idiom": "can't get enough of",
       "translation": "не могу насытиться чем-то",
-      "example": "I tried mountain biking and now I can't get enough of it."
+      "example": "I tried mountain biking and now I can't get enough of it.",
+      "keyword": "инаф",
+      "mnemonic": "Велосипедист орёт «инаф-мало!»: он не может насытиться чем-то, — инаф крутит can't get enough of."
     },
     {
       "idiom": "get an adrenalin rush",
       "translation": "испытывать прилив адреналина",
-      "example": "I really get an adrenalin rush at the top of a steep hill."
+      "example": "I really get an adrenalin rush at the top of a steep hill.",
+      "keyword": "раш",
+      "mnemonic": "На горке накрыл раш-волной: стал испытывать прилив адреналина, — раш несёт get an adrenalin rush."
     },
     {
       "idiom": "lose oneself in",
       "translation": "полностью погружаться во что-то",
-      "example": "I find I can really lose myself in jazz music."
+      "example": "I find I can really lose myself in jazz music.",
+      "keyword": "луз",
+      "mnemonic": "В джазе нажал луз-контроль: стал полностью погружаться во что-то, — луз растворяет lose oneself in."
     },
     {
       "idiom": "lose track of time",
       "translation": "терять счёт времени",
-      "example": "I sit there for hours and completely lose track of time."
+      "example": "I sit there for hours and completely lose track of time.",
+      "keyword": "трек",
+      "mnemonic": "Плейлист на трек-повторе: я стал терять счёт времени, — трек крутится lose track of time."
     },
     {
       "idiom": "get stuck in",
       "translation": "с энтузиазмом взяться за дело",
-      "example": "There was a big group of us and we all got stuck in."
+      "example": "There was a big group of us and we all got stuck in.",
+      "keyword": "стак",
+      "mnemonic": "Компания налегла на стак-тарелок: все с энтузиазмом взялись за дело, — стак гремит get stuck in."
     },
     {
       "idiom": "have the time of one's life",
       "translation": "потрясающе провести время",
-      "example": "We got stuck in and had the time of our lives!"
+      "example": "We got stuck in and had the time of our lives!",
+      "keyword": "тайм",
+      "mnemonic": "Вечеринка-тайм удалась: мы смогли потрясающе провести время, — тайм сияет have the time of one's life."
     },
     {
       "idiom": "be blown away",
       "translation": "быть потрясённым (в хорошем смысле)",
-      "example": "I was completely blown away by driving a Formula One car."
+      "example": "I was completely blown away by driving a Formula One car.",
+      "keyword": "блоу",
+      "mnemonic": "Болид дал блоу-ветер в лицо: я стал быть потрясённым в хорошем смысле, — блоу свистит be blown away."
     },
     {
       "idiom": "once-in-a-lifetime experience",
       "translation": "уникальный опыт",
-      "example": "Driving a Formula One car really was a once-in-a-lifetime experience."
+      "example": "Driving a Formula One car really was a once-in-a-lifetime experience.",
+      "keyword": "лайфтайм",
+      "mnemonic": "Болид как лайфтайм-шанс: это уникальный опыт раз в жизни, — лайфтайм ревёт once-in-a-lifetime experience."
     }
   ]
 }

@@ -5,57 +5,79 @@
     {
       "term": "reliable",
       "translation": "надёжный",
-      "example": "She is very reliable."
+      "example": "She is very reliable.",
+      "keyword": "реле",
+      "mnemonic": "Реле щёлкнуло — и свет не погас: вот что значит надёжный reliable."
     },
     {
       "term": "optimistic",
       "translation": "оптимистичный",
-      "example": "He's always optimistic about the future."
+      "example": "He's always optimistic about the future.",
+      "keyword": "оптик-мистик",
+      "mnemonic": "Оптик-мистик глядит в будущее сквозь розовые линзы — он всегда optimistic, оптимистичный."
     },
     {
       "term": "ambitious",
       "translation": "амбициозный",
-      "example": "She's very ambitious and works hard."
+      "example": "She's very ambitious and works hard.",
+      "keyword": "то бишь",
+      "mnemonic": "Заявил «то бишь я стану директором» — вот это ambitious, амбициозный напор."
     },
     {
       "term": "outgoing",
       "translation": "открытый, контактный",
-      "example": "He's outgoing and makes friends easily."
+      "example": "He's outgoing and makes friends easily.",
+      "keyword": "аут",
+      "mnemonic": "Мяч ушёл в аут, а он уже знакомится со всем стадионом — такой outgoing, открытый человек."
     },
     {
       "term": "stubborn",
       "translation": "упрямый",
-      "example": "Don't be so stubborn — listen to reason."
+      "example": "Don't be so stubborn — listen to reason.",
+      "keyword": "стоп, баран",
+      "mnemonic": "Кричишь барану «стоп, баран!», а он ни с места — вот он, stubborn, упрямый."
     },
     {
       "term": "rebellious",
       "translation": "бунтарский",
-      "example": "Teenagers can be quite rebellious."
+      "example": "Teenagers can be quite rebellious.",
+      "keyword": "бунт ребят",
+      "mnemonic": "Бунт ребят с транспарантами — чисто rebellious, бунтарский дух."
     },
     {
       "term": "adventurous",
       "translation": "любящий приключения",
-      "example": "She's adventurous and loves travelling."
+      "example": "She's adventurous and loves travelling.",
+      "keyword": "авантюра",
+      "mnemonic": "Ввязалась в авантюру с картой сокровищ — сразу видно, она adventurous, любит приключения."
     },
     {
       "term": "cheerful",
       "translation": "весёлый",
-      "example": "She's always cheerful in the morning."
+      "example": "She's always cheerful in the morning.",
+      "keyword": "чифир",
+      "mnemonic": "Хлебнул чифиру — и весь день весёлый: вот тебе cheerful."
     },
     {
       "term": "curious",
       "translation": "любопытный",
-      "example": "He's curious about the world."
+      "example": "He's curious about the world.",
+      "keyword": "курьёз",
+      "mnemonic": "Услышал про курьёз и суёт нос везде — он curious, любопытный."
     },
     {
       "term": "argumentative",
       "translation": "склонный спорить",
-      "example": "Her brother can be quite argumentative."
+      "example": "Her brother can be quite argumentative.",
+      "keyword": "аргумент",
+      "mnemonic": "На каждый аргумент у него десять контраргументов — он argumentative, склонный спорить."
     },
     {
       "term": "helpful",
       "translation": "готовый помочь",
-      "example": "Our new teacher is really helpful."
+      "example": "Our new teacher is really helpful.",
+      "keyword": "хелп",
+      "mnemonic": "Кричишь «хелп!» — и он уже рядом с лестницей: он helpful, всегда готов помочь."
     }
   ]
 }

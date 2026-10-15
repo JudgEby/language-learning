@@ -2,20 +2,110 @@
   "lessonId": "around-town",
   "title": "Around town — новые слова",
   "items": [
-    { "term": "a post office", "translation": "почта", "example": "You can send a letter at a post office." },
-    { "term": "a supermarket", "translation": "супермаркет", "example": "You can buy food at a supermarket." },
-    { "term": "a pharmacy", "translation": "аптека", "example": "You can buy medicine at a pharmacy." },
-    { "term": "an art gallery", "translation": "картинная галерея", "example": "You can look at paintings at an art gallery." },
-    { "term": "a museum", "translation": "музей", "example": "You can look at old objects at a museum." },
-    { "term": "a library", "translation": "библиотека", "example": "You can borrow a book from a library." },
-    { "term": "a cinema", "translation": "кинотеатр", "example": "You can watch films at a cinema." },
-    { "term": "a theatre", "translation": "театр", "example": "You can see plays at a theatre." },
-    { "term": "a sports centre", "translation": "спортивный центр", "example": "You can play tennis and football at a sports centre." },
-    { "term": "a police station", "translation": "полицейский участок", "example": "You can find a police officer at a police station." },
-    { "term": "a bank", "translation": "банк", "example": "You can change money at a bank in the town centre." },
-    { "term": "a school", "translation": "школа", "example": "There's a school next to my flat." },
-    { "term": "opening times", "translation": "часы работы", "example": "Check the opening times — the post office is only open for one hour." },
-    { "term": "a ticket", "translation": "билет", "example": "Get a ticket and a bag of popcorn." },
-    { "term": "a postcard", "translation": "открытка", "example": "You buy a plastic postcard on the beach." }
+    {
+      "term": "a post office",
+      "translation": "почта",
+      "example": "You can send a letter at a post office.",
+      "keyword": "пост",
+      "mnemonic": "Солдат стоит на посту с письмами — это a post office, почта."
+    },
+    {
+      "term": "a supermarket",
+      "translation": "супермаркет",
+      "example": "You can buy food at a supermarket.",
+      "keyword": "суп",
+      "mnemonic": "Повар варит суп посреди супермаркета — вот a supermarket."
+    },
+    {
+      "term": "a pharmacy",
+      "translation": "аптека",
+      "example": "You can buy medicine at a pharmacy.",
+      "keyword": "фара",
+      "mnemonic": "Машина светит фарой в окно аптеки — это a pharmacy."
+    },
+    {
+      "term": "an art gallery",
+      "translation": "картинная галерея",
+      "example": "You can look at paintings at an art gallery.",
+      "keyword": "галера",
+      "mnemonic": "Пираты везут картины на галере — это an art gallery, картинная галерея."
+    },
+    {
+      "term": "a museum",
+      "translation": "музей",
+      "example": "You can look at old objects at a museum.",
+      "keyword": "муза",
+      "mnemonic": "Муза дремлет в музее — вот a museum."
+    },
+    {
+      "term": "a library",
+      "translation": "библиотека",
+      "example": "You can borrow a book from a library.",
+      "keyword": "либра",
+      "mnemonic": "Футболист жонглирует либрой в библиотеке — вот a library."
+    },
+    {
+      "term": "a cinema",
+      "translation": "кинотеатр",
+      "example": "You can watch films at a cinema.",
+      "keyword": "синема",
+      "mnemonic": "Кассир кричит «синема» — это a cinema, кинотеатр."
+    },
+    {
+      "term": "a theatre",
+      "translation": "театр",
+      "example": "You can see plays at a theatre.",
+      "keyword": "терем",
+      "mnemonic": "Скоморохи играют в тереме — это a theatre, театр."
+    },
+    {
+      "term": "a sports centre",
+      "translation": "спортивный центр",
+      "example": "You can play tennis and football at a sports centre.",
+      "keyword": "спрут",
+      "mnemonic": "Спрут жонглирует мячами в центре — это a sports centre, спортивный центр."
+    },
+    {
+      "term": "a police station",
+      "translation": "полицейский участок",
+      "example": "You can find a police officer at a police station.",
+      "keyword": "полоз",
+      "mnemonic": "Полоз в фуражке дежурит на участке — это a police station, полицейский участок."
+    },
+    {
+      "term": "a bank",
+      "translation": "банк",
+      "example": "You can change money at a bank in the town centre.",
+      "keyword": "бак",
+      "mnemonic": "Пират прячет бак с монетами в банке — вот a bank."
+    },
+    {
+      "term": "a school",
+      "translation": "школа",
+      "example": "There's a school next to my flat.",
+      "keyword": "шкура",
+      "mnemonic": "Волк вешает шкуру на доску в школе — вот a school."
+    },
+    {
+      "term": "opening times",
+      "translation": "часы работы",
+      "example": "Check the opening times — the post office is only open for one hour.",
+      "keyword": "опилки",
+      "mnemonic": "Сторож сыплет опилки у входа — там opening times, часы работы."
+    },
+    {
+      "term": "a ticket",
+      "translation": "билет",
+      "example": "Get a ticket and a bag of popcorn.",
+      "keyword": "тикет",
+      "mnemonic": "Контролёр компостирует тикет — это a ticket, билет."
+    },
+    {
+      "term": "a postcard",
+      "translation": "открытка",
+      "example": "You buy a plastic postcard on the beach.",
+      "keyword": "постер",
+      "mnemonic": "Чайка несёт постер вместо открытки — это a postcard."
+    }
   ]
 }

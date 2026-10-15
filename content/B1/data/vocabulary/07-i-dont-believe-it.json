@@ -2,14 +2,68 @@
   "lessonId": "i-dont-believe-it",
   "title": "I don't believe it! — новые слова",
   "items": [
-    { "term": "say hello", "translation": "поздороваться", "example": "She never says hello when I see her." },
-    { "term": "say sorry", "translation": "извиниться", "example": "You should say sorry for being late." },
-    { "term": "say what you mean", "translation": "говорить то, что имеешь в виду", "example": "Just say what you mean instead of talking around the issue." },
-    { "term": "tell a story", "translation": "рассказывать историю", "example": "My father always told us stories before bed." },
-    { "term": "tell a joke", "translation": "рассказывать шутку", "example": "Most comedians tell jokes, but his face alone makes you laugh." },
-    { "term": "tell a lie", "translation": "лгать", "example": "He told a white lie to avoid hurting her feelings." },
-    { "term": "tell the truth", "translation": "говорить правду", "example": "It's better to tell the truth than to lie." },
-    { "term": "white lie", "translation": "ложь во благо", "example": "Sometimes it's better to tell a white lie than to upset someone." },
-    { "term": "guilty", "translation": "виновный", "example": "The guilty hand: when lying, people use less hand movement." }
+    {
+      "term": "say hello",
+      "translation": "поздороваться",
+      "example": "She never says hello when I see her.",
+      "keyword": "сей, хелло",
+      "mnemonic": "Сей хелло в микрофон: просто say hello — поздоровайся, когда видишь её."
+    },
+    {
+      "term": "say sorry",
+      "translation": "извиниться",
+      "example": "You should say sorry for being late.",
+      "keyword": "сей, сорри",
+      "mnemonic": "Сей сорри сорок раз: say sorry — извинись за опоздание."
+    },
+    {
+      "term": "say what you mean",
+      "translation": "говорить то, что имеешь в виду",
+      "example": "Just say what you mean instead of talking around the issue.",
+      "keyword": "сей, мин",
+      "mnemonic": "Сей в мин-микрофон прямо: say what you mean — говори то, что имеешь в виду."
+    },
+    {
+      "term": "tell a story",
+      "translation": "рассказывать историю",
+      "example": "My father always told us stories before bed.",
+      "keyword": "тел, стори",
+      "mnemonic": "Тел-стори у костра: tell a story — рассказывай историю, как папа перед сном."
+    },
+    {
+      "term": "tell a joke",
+      "translation": "рассказывать шутку",
+      "example": "Most comedians tell jokes, but his face alone makes you laugh.",
+      "keyword": "тел, джоук",
+      "mnemonic": "Тел-джоук взорвал зал: tell a joke — рассказывай шутку, а лицо само смешит."
+    },
+    {
+      "term": "tell a lie",
+      "translation": "лгать",
+      "example": "He told a white lie to avoid hurting her feelings.",
+      "keyword": "тел, лай",
+      "mnemonic": "Тел-лай-детектор пищит: не tell a lie — не лги, даже во благо."
+    },
+    {
+      "term": "tell the truth",
+      "translation": "говорить правду",
+      "example": "It's better to tell the truth than to lie.",
+      "keyword": "тел, трус",
+      "mnemonic": "Тел-труса отбрось в сторону: лучше tell the truth — говорить правду, чем врать."
+    },
+    {
+      "term": "white lie",
+      "translation": "ложь во благо",
+      "example": "Sometimes it's better to tell a white lie than to upset someone.",
+      "keyword": "вайт, лай",
+      "mnemonic": "Вайт-лай в белом халате: это white lie — ложь во благо, чтобы не расстроить."
+    },
+    {
+      "term": "guilty",
+      "translation": "виновный",
+      "example": "The guilty hand: when lying, people use less hand movement.",
+      "keyword": "гилти",
+      "mnemonic": "Гилти-вина написана на руках: the guilty hand — виновная рука замирает, когда врёшь."
+    }
   ]
 }

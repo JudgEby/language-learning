@@ -2,20 +2,110 @@
   "lessonId": "can-i-help-you",
   "title": "Can I help you? — новые слова",
   "items": [
-    { "term": "a sweater", "translation": "свитер", "example": "A shop assistant shows me a sweater in grey." },
-    { "term": "a T-shirt", "translation": "футболка", "example": "You can buy a T-shirt in a clothes shop." },
-    { "term": "jeans", "translation": "джинсы", "example": "These jeans are too small — have you got a bigger size?" },
-    { "term": "a jacket", "translation": "куртка", "example": "It's cold outside, so I'll take a jacket." },
-    { "term": "trainers", "translation": "кеды, кроссовки", "example": "Buy trainers for football at a sports shop." },
-    { "term": "a football shirt", "translation": "футбольная футболка", "example": "A football shirt is a good present for my brother." },
-    { "term": "a swimming costume", "translation": "купальник", "example": "You can buy a swimming costume in a sports shop." },
-    { "term": "walking boots", "translation": "ботинки для ходьбы", "example": "Walking boots are expensive but comfortable." },
-    { "term": "a SIM card", "translation": "SIM-карта", "example": "You can buy a SIM card in an electronics shop." },
-    { "term": "a memory stick", "translation": "флешка", "example": "Put the photos on a memory stick." },
-    { "term": "a charger", "translation": "зарядное устройство", "example": "You can buy a charger for your mobile here." },
-    { "term": "a tablet", "translation": "планшет", "example": "A tablet is more expensive than a mobile phone." },
-    { "term": "a newsagent's", "translation": "газетный киоск", "example": "You can buy newspapers, magazines and sweets at a newsagent's." },
-    { "term": "a shopping centre", "translation": "торговый центр", "example": "There's a big shopping centre in my town." },
-    { "term": "a size", "translation": "размер", "example": "Size forty-two in grey, please." }
+    {
+      "term": "a sweater",
+      "translation": "свитер",
+      "example": "A shop assistant shows me a sweater in grey.",
+      "keyword": "свисток",
+      "mnemonic": "Продавец свистит в свисток и подаёт свитер — вот a sweater."
+    },
+    {
+      "term": "a T-shirt",
+      "translation": "футболка",
+      "example": "You can buy a T-shirt in a clothes shop.",
+      "keyword": "тишот",
+      "mnemonic": "Фанатка машет тишотом — это a T-shirt, футболка."
+    },
+    {
+      "term": "jeans",
+      "translation": "джинсы",
+      "example": "These jeans are too small — have you got a bigger size?",
+      "keyword": "джин",
+      "mnemonic": "Бармен плеснул джин на джинсы — вот jeans."
+    },
+    {
+      "term": "a jacket",
+      "translation": "куртка",
+      "example": "It's cold outside, so I'll take a jacket.",
+      "keyword": "джек",
+      "mnemonic": "Джек прячет куртку в рюкзак — это a jacket."
+    },
+    {
+      "term": "trainers",
+      "translation": "кеды, кроссовки",
+      "example": "Buy trainers for football at a sports shop.",
+      "keyword": "тренер",
+      "mnemonic": "Тренер шнурует кроссовки — вот trainers."
+    },
+    {
+      "term": "a football shirt",
+      "translation": "футбольная футболка",
+      "example": "A football shirt is a good present for my brother.",
+      "keyword": "футляр",
+      "mnemonic": "Болельщик хранит футболку в футляре — это a football shirt, футбольная футболка."
+    },
+    {
+      "term": "a swimming costume",
+      "translation": "купальник",
+      "example": "You can buy a swimming costume in a sports shop.",
+      "keyword": "свим",
+      "mnemonic": "Морж кричит «свим» и ныряет в купальнике — вот a swimming costume."
+    },
+    {
+      "term": "walking boots",
+      "translation": "ботинки для ходьбы",
+      "example": "Walking boots are expensive but comfortable.",
+      "keyword": "бутсы",
+      "mnemonic": "Турист топает в бутсах по грязи — это walking boots, ботинки для ходьбы."
+    },
+    {
+      "term": "a SIM card",
+      "translation": "SIM-карта",
+      "example": "You can buy a SIM card in an electronics shop.",
+      "keyword": "синица",
+      "mnemonic": "Синица клюёт SIM-карту — вот a SIM card."
+    },
+    {
+      "term": "a memory stick",
+      "translation": "флешка",
+      "example": "Put the photos on a memory stick.",
+      "keyword": "мем",
+      "mnemonic": "Хакер лепит мем на флешку — это a memory stick."
+    },
+    {
+      "term": "a charger",
+      "translation": "зарядное устройство",
+      "example": "You can buy a charger for your mobile here.",
+      "keyword": "чарджер",
+      "mnemonic": "Турист машет чарджером у розетки — это a charger, зарядное устройство."
+    },
+    {
+      "term": "a tablet",
+      "translation": "планшет",
+      "example": "A tablet is more expensive than a mobile phone.",
+      "keyword": "таблетка",
+      "mnemonic": "Бабушка кладёт таблетку на планшет — вот a tablet."
+    },
+    {
+      "term": "a newsagent's",
+      "translation": "газетный киоск",
+      "example": "You can buy newspapers, magazines and sweets at a newsagent's.",
+      "keyword": "ньюс",
+      "mnemonic": "Продавец кричит «ньюс» в киоске — это a newsagent's, газетный киоск."
+    },
+    {
+      "term": "a shopping centre",
+      "translation": "торговый центр",
+      "example": "There's a big shopping centre in my town.",
+      "keyword": "шопинг",
+      "mnemonic": "Толпа скандирует «шопинг» в центре — это a shopping centre, торговый центр."
+    },
+    {
+      "term": "a size",
+      "translation": "размер",
+      "example": "Size forty-two in grey, please.",
+      "keyword": "сайз",
+      "mnemonic": "Портной кричит «сайз» и меряет размер — вот a size."
+    }
   ]
 }

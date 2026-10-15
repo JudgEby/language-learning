@@ -2,19 +2,103 @@
   "lessonId": "what-did-you-do",
   "title": "What did you do? — новые слова",
   "items": [
-    { "term": "go shopping", "translation": "ходить за покупками", "example": "I went shopping with my sister on Saturday." },
-    { "term": "go to the gym", "translation": "ходить в спортзал", "example": "I didn't go to the gym on Sunday." },
-    { "term": "go for a walk", "translation": "идти гулять", "example": "We went for a walk after dinner." },
-    { "term": "go swimming", "translation": "плавать", "example": "He went swimming in the sea." },
-    { "term": "do housework", "translation": "делать домашнюю работу", "example": "I did housework and cleaned my room." },
-    { "term": "do my English (study)", "translation": "заниматься английским", "example": "I did my English for an hour yesterday evening." },
-    { "term": "do homework", "translation": "делать домашнее задание", "example": "My children do their homework after dinner." },
-    { "term": "stay at home", "translation": "оставаться дома", "example": "I stayed at home and watched TV all evening." },
-    { "term": "have lunch with a friend", "translation": "обедать с другом", "example": "I often meet a friend for lunch on Thursday." },
-    { "term": "a yoga class", "translation": "занятие по йоге", "example": "I have a yoga class on Thursday morning." },
-    { "term": "read a text / an email", "translation": "прочитать текст / письмо", "example": "I read a text from my sister at the weekend." },
-    { "term": "watch a film", "translation": "посмотреть фильм", "example": "We watched a film and drank tea." },
-    { "term": "nothing special", "translation": "ничего особенного", "example": "What did you do? — Nothing special." },
-    { "term": "a yoga / fitness class", "translation": "занятие йогой / фитнесом", "example": "She goes to a fitness class three times a week." }
+    {
+      "term": "go shopping",
+      "translation": "ходить за покупками",
+      "example": "I went shopping with my sister on Saturday.",
+      "keyword": "шопинг",
+      "mnemonic": "Подруги визжат «шопинг» с пакетами — они go shopping, ходят за покупками."
+    },
+    {
+      "term": "go to the gym",
+      "translation": "ходить в спортзал",
+      "example": "I didn't go to the gym on Sunday.",
+      "keyword": "джим",
+      "mnemonic": "Качок по кличке Джим тянет штангу — он go to the gym, ходит в спортзал."
+    },
+    {
+      "term": "go for a walk",
+      "translation": "идти гулять",
+      "example": "We went for a walk after dinner.",
+      "keyword": "волк",
+      "mnemonic": "Волк семенит по аллее — они go for a walk, идут гулять."
+    },
+    {
+      "term": "go swimming",
+      "translation": "плавать",
+      "example": "He went swimming in the sea.",
+      "keyword": "свим",
+      "mnemonic": "Морж кричит «свим» и плюхается — он go swimming, плавает."
+    },
+    {
+      "term": "do housework",
+      "translation": "делать домашнюю работу",
+      "example": "I did housework and cleaned my room.",
+      "keyword": "хаус",
+      "mnemonic": "Рэпер орёт «хаус» со шваброй — он do housework, делает домашнюю работу."
+    },
+    {
+      "term": "do my English (study)",
+      "translation": "заниматься английским",
+      "example": "I did my English for an hour yesterday evening.",
+      "keyword": "стадион",
+      "mnemonic": "Фанат зубрит глаголы на стадионе — он do my English, занимается английским."
+    },
+    {
+      "term": "do homework",
+      "translation": "делать домашнее задание",
+      "example": "My children do their homework after dinner.",
+      "keyword": "хомяк",
+      "mnemonic": "Хомяк грызёт тетрадку дома — дети do homework, делают домашнее задание."
+    },
+    {
+      "term": "stay at home",
+      "translation": "оставаться дома",
+      "example": "I stayed at home and watched TV all evening.",
+      "keyword": "стой",
+      "mnemonic": "Охранник кричит «стой» у дивана — он stay at home, остаётся дома."
+    },
+    {
+      "term": "have lunch with a friend",
+      "translation": "обедать с другом",
+      "example": "I often meet a friend for lunch on Thursday.",
+      "keyword": "ланч",
+      "mnemonic": "Офис гудит «ланч» над столовой — они have lunch with a friend, обедают с другом."
+    },
+    {
+      "term": "a yoga class",
+      "translation": "занятие по йоге",
+      "example": "I have a yoga class on Thursday morning.",
+      "keyword": "класс",
+      "mnemonic": "Учитель входит в класс с ковриком — это a yoga class, занятие по йоге."
+    },
+    {
+      "term": "read a text / an email",
+      "translation": "прочитать текст / письмо",
+      "example": "I read a text from my sister at the weekend.",
+      "keyword": "имейл",
+      "mnemonic": "Студент тычет в имейл — он read a text, прочитал текст и письмо."
+    },
+    {
+      "term": "watch a film",
+      "translation": "посмотреть фильм",
+      "example": "We watched a film and drank tea.",
+      "keyword": "воч",
+      "mnemonic": "Киноман кричит «воч» с попкорном — он watch a film, смотрит фильм."
+    },
+    {
+      "term": "nothing special",
+      "translation": "ничего особенного",
+      "example": "What did you do? — Nothing special.",
+      "keyword": "спешл",
+      "mnemonic": "Шеф бурчит «спешл» без энтузиазма — это nothing special, ничего особенного."
+    },
+    {
+      "term": "a yoga / fitness class",
+      "translation": "занятие йогой / фитнесом",
+      "example": "She goes to a fitness class three times a week.",
+      "keyword": "класс",
+      "mnemonic": "Тренер врывается в класс — это a fitness class, занятие фитнесом."
+    }
   ]
 }

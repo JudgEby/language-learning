@@ -5,57 +5,79 @@
     {
       "term": "heritage",
       "translation": "наследие",
-      "example": "We must protect our cultural heritage."
+      "example": "We must protect our cultural heritage.",
+      "keyword": "херес",
+      "mnemonic": "Бережём культурное наследие под херес и гитару — protect our cultural heritage."
     },
     {
       "term": "custom",
       "translation": "обычай",
-      "example": "It's a local custom to greet elders first."
+      "example": "It's a local custom to greet elders first.",
+      "keyword": "костюм",
+      "mnemonic": "Местный обычай — встречать старших в парадном костюме: local custom."
     },
     {
       "term": "ritual",
       "translation": "ритуал",
-      "example": "The ceremony follows an ancient ritual."
+      "example": "The ceremony follows an ancient ritual.",
+      "keyword": "ритм",
+      "mnemonic": "Церемония следует древнему ритуалу — бьют в ритм барабанов: ancient ritual."
     },
     {
       "term": "craftsmanship",
       "translation": "мастерство, ремесло",
-      "example": "The pottery shows incredible craftsmanship."
+      "example": "The pottery shows incredible craftsmanship.",
+      "keyword": "крафт",
+      "mnemonic": "В горшках видно невероятное мастерство — крафт, а не штамповка: incredible craftsmanship."
     },
     {
       "term": "preservation",
       "translation": "сохранение",
-      "example": "Preservation of traditions is important."
+      "example": "Preservation of traditions is important.",
+      "keyword": "пресервы",
+      "mnemonic": "Сохранение традиций важно — как пресервы для рыбы: preservation of traditions."
     },
     {
       "term": "beekeeper",
       "translation": "пчеловод",
-      "example": "Nomadic beekeepers travel across China."
+      "example": "Nomadic beekeepers travel across China.",
+      "keyword": "кипер",
+      "mnemonic": "Кочевые пчеловоды колесят по Китаю — стоят в воротах, как киперы: nomadic beekeepers."
     },
     {
       "term": "harvest honey",
       "translation": "собирать мёд",
-      "example": "They travel to harvest honey."
+      "example": "They travel to harvest honey.",
+      "keyword": "ханыги",
+      "mnemonic": "Ездят собирать мёд — ханыги с сачками: travel to harvest honey."
     },
     {
       "term": "just in time",
       "translation": "как раз вовремя",
-      "example": "They arrived just in time for the bloom."
+      "example": "They arrived just in time for the bloom.",
+      "keyword": "темень",
+      "mnemonic": "Приехали как раз вовремя — ещё до темени: arrived just in time for the bloom."
     },
     {
       "term": "time is running out",
       "translation": "время на исходе",
-      "example": "Time is running out for the bees."
+      "example": "Time is running out for the bees.",
+      "keyword": "раунд",
+      "mnemonic": "Время на исходе для пчёл — цветёт последний раунд: time is running out."
     },
     {
       "term": "window of opportunity",
       "translation": "окно возможностей",
-      "example": "The window of opportunity is short."
+      "example": "The window of opportunity is short.",
+      "keyword": "винда",
+      "mnemonic": "Окно возможностей коротко — успей, пока не зависла винда: window of opportunity is short."
     },
     {
       "term": "under threat",
       "translation": "под угрозой",
-      "example": "Their future is under threat."
+      "example": "Their future is under threat.",
+      "keyword": "тред",
+      "mnemonic": "Их будущее под угрозой — обсуждают в треде: future is under threat."
     }
   ]
 }

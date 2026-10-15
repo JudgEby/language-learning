@@ -2,17 +2,89 @@
   "lessonId": "travel-partners",
   "title": "Travel partners — фразы",
   "items": [
-    { "phrase": "like travelling by ...", "translation": "любить путешествовать на ...", "example": "I like travelling by train because it's more comfortable." },
-    { "phrase": "prefer doing something to doing something else", "translation": "предпочитать одно другому", "example": "I prefer relaxing on a beach to going sightseeing." },
-    { "phrase": "go on holiday", "translation": "ездить в отпуск", "example": "I like going on holiday in autumn." },
-    { "phrase": "a weekend / a week / a month", "translation": "выходные / неделю / месяц", "example": "My perfect holiday is a week by the sea." },
-    { "phrase": "be good at", "translation": "быть хорошим в", "example": "She is good at languages and travels a lot." },
-    { "phrase": "be (a) good travel partner", "translation": "быть хорошим попутчиком", "example": "Are you a good travel partner? — Why/Why not?" },
-    { "phrase": "which one do you like more?", "translation": "какой из них тебе нравится больше?", "example": "Which city do you like more, Kraków or Warsaw?" },
-    { "phrase": "be easier / harder to ...", "translation": "быть проще / сложнее ...", "example": "This hotel is easy to find; that one is difficult to find." },
-    { "phrase": "an art gallery", "translation": "картинная галерея", "example": "Art galleries are more expensive than museums." },
-    { "phrase": "as ... as", "translation": "так же ... как", "example": "An e-book is as good as a paper book." },
-    { "phrase": "in the centre", "translation": "в центре", "example": "Hotels in the centre are more expensive." },
-    { "phrase": "the countryside", "translation": "деревня, сельская местность", "example": "We drove across the countryside for three hours." }
+    {
+      "phrase": "like travelling by ...",
+      "translation": "любить путешествовать на ...",
+      "example": "I like travelling by train because it's more comfortable.",
+      "keyword": "тревель",
+      "mnemonic": "Тревель-блогер like travelling by train — любить путешествовать поездом."
+    },
+    {
+      "phrase": "prefer doing something to doing something else",
+      "translation": "предпочитать одно другому",
+      "example": "I prefer relaxing on a beach to going sightseeing.",
+      "keyword": "профессор",
+      "mnemonic": "Профессор prefer relaxing to sightseeing — предпочитать пляж экскурсиям."
+    },
+    {
+      "phrase": "go on holiday",
+      "translation": "ездить в отпуск",
+      "example": "I like going on holiday in autumn.",
+      "keyword": "холодец",
+      "mnemonic": "С холодцом go on holiday — ездить в отпуск."
+    },
+    {
+      "phrase": "a weekend / a week / a month",
+      "translation": "выходные / неделю / месяц",
+      "example": "My perfect holiday is a week by the sea.",
+      "keyword": "викенд",
+      "mnemonic": "Викенд у моря: a week by the sea — неделю у моря."
+    },
+    {
+      "phrase": "be good at",
+      "translation": "быть хорошим в",
+      "example": "She is good at languages and travels a lot.",
+      "keyword": "гудок",
+      "mnemonic": "Гудок хвалит: be good at languages — быть хорошим в языках."
+    },
+    {
+      "phrase": "be (a) good travel partner",
+      "translation": "быть хорошим попутчиком",
+      "example": "Are you a good travel partner? — Why/Why not?",
+      "keyword": "партия",
+      "mnemonic": "Партия путешественников: be a good travel partner — быть хорошим попутчиком."
+    },
+    {
+      "phrase": "which one do you like more?",
+      "translation": "какой из них тебе нравится больше?",
+      "example": "Which city do you like more, Kraków or Warsaw?",
+      "keyword": "лайк",
+      "mnemonic": "Турист жмёт лайк: which one do you like more — какой нравится больше."
+    },
+    {
+      "phrase": "be easier / harder to ...",
+      "translation": "быть проще / сложнее ...",
+      "example": "This hotel is easy to find; that one is difficult to find.",
+      "keyword": "изюм",
+      "mnemonic": "Отель с изюмом be easier to find — быть проще найти."
+    },
+    {
+      "phrase": "an art gallery",
+      "translation": "картинная галерея",
+      "example": "Art galleries are more expensive than museums.",
+      "keyword": "галера",
+      "mnemonic": "Галера с картинами: an art gallery — картинная галерея."
+    },
+    {
+      "phrase": "as ... as",
+      "translation": "так же ... как",
+      "example": "An e-book is as good as a paper book.",
+      "keyword": "азбука",
+      "mnemonic": "Азбука сравнивает as good as — так же хорош как."
+    },
+    {
+      "phrase": "in the centre",
+      "translation": "в центре",
+      "example": "Hotels in the centre are more expensive.",
+      "keyword": "цирк",
+      "mnemonic": "Цирк in the centre — в центре."
+    },
+    {
+      "phrase": "the countryside",
+      "translation": "деревня, сельская местность",
+      "example": "We drove across the countryside for three hours.",
+      "keyword": "контра",
+      "mnemonic": "Контра едет the countryside — деревня."
+    }
   ]
 }

@@ -2,15 +2,15 @@
   "lessonId": "nice-day",
   "title": "Nice day — новые слова",
   "items": [
-    { "term": "mood", "translation": "настроение", "example": "She is in a good mood today because she passed her exam." },
-    { "term": "cheerful", "translation": "жизнерадостный", "example": "My sister is always cheerful in the morning." },
-    { "term": "grumpy", "translation": "ворчливый, раздражительный", "example": "He is grumpy when he doesn't get enough sleep." },
-    { "term": "stressed", "translation": "испытывающий стресс", "example": "I feel very stressed about my job interview." },
-    { "term": "relaxed", "translation": "расслабленный, спокойный", "example": "She looked relaxed after her holiday." },
-    { "term": "energetic", "translation": "энергичный", "example": "Young children are usually very energetic." },
-    { "term": "tired", "translation": "уставший", "example": "I'm so tired, I think I'll go to bed early." },
-    { "term": "excited", "translation": "взволнованный (в хорошем смысле)", "example": "The kids are excited about the trip to the zoo." },
-    { "term": "nervous", "translation": "нервничающий", "example": "I always feel nervous before a test." },
-    { "term": "positive attitude", "translation": "позитивный настрой", "example": "A positive attitude can change everything." }
+    { "term": "mood", "translation": "настроение", "example": "She is in a good mood today because she passed her exam.", "keyword": "мёд", "mnemonic": "Намазала настроение мёдом — теперь mood, настроение отличное, ведь экзамен сдан." },
+    { "term": "cheerful", "translation": "жизнерадостный", "example": "My sister is always cheerful in the morning.", "keyword": "чирик", "mnemonic": "Сестрёнка cheerful — жизнерадостная, чирикает «чирик!» с самого утра как воробей." },
+    { "term": "grumpy", "translation": "ворчливый, раздражительный", "example": "He is grumpy when he doesn't get enough sleep.", "keyword": "грубиян", "mnemonic": "Невыспавшийся грубиян grumpy — ворчливый, потому что мало спал." },
+    { "term": "stressed", "translation": "испытывающий стресс", "example": "I feel very stressed about my job interview.", "keyword": "стресс", "mnemonic": "Весь покрылся стрессом перед собеседованием — I feel stressed, испытываю стресс." },
+    { "term": "relaxed", "translation": "расслабленный, спокойный", "example": "She looked relaxed after her holiday.", "keyword": "релакс", "mnemonic": "После отпуска она вся в релаксе — looked relaxed, расслабленная и спокойная." },
+    { "term": "energetic", "translation": "энергичный", "example": "Young children are usually very energetic.", "keyword": "энерджайзер", "mnemonic": "В ребёнке сидит энерджайзер — он energetic, энергичный." },
+    { "term": "tired", "translation": "уставший", "example": "I'm so tired, I think I'll go to bed early.", "keyword": "таю", "mnemonic": "Я просто таю от усталости — I'm so tired, уставший, и ползу спать." },
+    { "term": "excited", "translation": "взволнованный (в хорошем смысле)", "example": "The kids are excited about the trip to the zoo.", "keyword": "экстаз", "mnemonic": "Дети в экстазе перед поездкой в зоопарк — excited, взволнованы в хорошем смысле." },
+    { "term": "nervous", "translation": "нервничающий", "example": "I always feel nervous before a test.", "keyword": "нервы", "mnemonic": "Нервы натянуты как струны перед тестом — I feel nervous, нервничаю." },
+    { "term": "positive attitude", "translation": "позитивный настрой", "example": "A positive attitude can change everything.", "keyword": "позитив", "mnemonic": "Поймал позитив с утра — и positive attitude, позитивный настрой меняет всё." }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "see live music",
       "translation": "сходить на живую музыку",
-      "example": "In the evening he is going to see some live music."
+      "example": "In the evening he is going to see some live music.",
+      "keyword": "лейбл",
+      "mnemonic": "Фанат с лейблом на футболке — see live music, сходить на живую музыку вечером."
     },
     {
       "idiom": "see a free art exhibition",
       "translation": "посмотреть бесплатную художественную выставку",
-      "example": "I am going to see a free art exhibition tomorrow."
+      "example": "I am going to see a free art exhibition tomorrow.",
+      "keyword": "экскаватор",
+      "mnemonic": "Студент с экскаватором билетов — see a free art exhibition, посмотреть бесплатную выставку завтра."
     },
     {
       "idiom": "take the ferry",
       "translation": "поплыть на пароме",
-      "example": "He is taking the ferry to see the city from the water."
+      "example": "He is taking the ferry to see the city from the water.",
+      "keyword": "фея",
+      "mnemonic": "Фея рулит корабликом — take the ferry, поплыть на пароме, смотреть город с воды."
     },
     {
       "idiom": "visit an old friend",
       "translation": "навестить старого друга",
-      "example": "I am going to visit an old friend tonight."
+      "example": "I am going to visit an old friend tonight.",
+      "keyword": "фрукт",
+      "mnemonic": "С фруктами к другу в гости — visit an old friend, навестить старого друга сегодня."
     },
     {
       "idiom": "meet for a drink",
       "translation": "встретиться выпить (кофе, напиток)",
-      "example": "Sue and I are meeting for a drink on Tuesday evening."
+      "example": "Sue and I are meeting for a drink on Tuesday evening.",
+      "keyword": "дрожжи",
+      "mnemonic": "Подруги с дрожжами для кваса — meet for a drink, встретиться выпить во вторник."
     },
     {
       "idiom": "watch a football match",
       "translation": "посмотреть футбольный матч",
-      "example": "A few people are coming to watch a football match at my house."
+      "example": "A few people are coming to watch a football match at my house.",
+      "keyword": "мяч",
+      "mnemonic": "Толпа с мячом у телека — watch a football match, посмотреть футбольный матч дома."
     },
     {
       "idiom": "go to the cinema on Friday",
       "translation": "пойти в кино в пятницу",
-      "example": "We are going to the cinema on Friday evening."
+      "example": "We are going to the cinema on Friday evening.",
+      "keyword": "фритюр",
+      "mnemonic": "Пятничный фритюр с попкорном — go to the cinema on Friday, пойти в кино в пятницу вечером."
     }
   ]
 }

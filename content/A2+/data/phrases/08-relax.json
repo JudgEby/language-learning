@@ -5,52 +5,72 @@
     {
       "phrase": "Why don't we…?",
       "translation": "Почему бы нам не…?",
-      "example": "Why don't we go to the botanical garden this weekend?"
+      "example": "Why don't we go to the botanical garden this weekend?",
+      "keyword": "вайфай",
+      "mnemonic": "Турист с вайфаем ноет Why don't we…? — Почему бы нам не сходить в ботсад в выходные."
     },
     {
       "phrase": "You should try…",
       "translation": "Тебе стоит попробовать…",
-      "example": "You should try the new Italian restaurant downtown."
+      "example": "You should try the new Italian restaurant downtown.",
+      "keyword": "трюфель",
+      "mnemonic": "Гурман с трюфелем советует You should try… — Тебе стоит попробовать новый итальянский ресторан."
     },
     {
       "phrase": "What about…?",
       "translation": "Как насчёт…?",
-      "example": "What about visiting the art gallery on Sunday?"
+      "example": "What about visiting the art gallery on Sunday?",
+      "keyword": "батон",
+      "mnemonic": "С батоном под мышкой — What about…? — Как насчёт галереи в воскресенье."
     },
     {
       "phrase": "I recommend…",
       "translation": "Я рекомендую…",
-      "example": "I recommend taking a walking tour of the old town."
+      "example": "I recommend taking a walking tour of the old town.",
+      "keyword": "комендант",
+      "mnemonic": "Комендант с указкой — I recommend… — Я рекомендую пешую экскурсию по старому городу."
     },
     {
       "phrase": "Let's…",
       "translation": "Давай…",
-      "example": "Let's check out that new theme park."
+      "example": "Let's check out that new theme park.",
+      "keyword": "лейка",
+      "mnemonic": "С лейкой наизготовку — Let's… — Давай заценим новый парк аттракционов."
     },
     {
       "phrase": "It's worth visiting…",
       "translation": "Стоит посетить…",
-      "example": "It's worth visiting the concert hall — the acoustics are amazing."
+      "example": "It's worth visiting the concert hall — the acoustics are amazing.",
+      "keyword": "торт",
+      "mnemonic": "С тортом у входа — It's worth visiting… — Стоит посетить зал, там акустика чудо."
     },
     {
       "phrase": "If I were you, I'd…",
       "translation": "На твоём месте я бы…",
-      "example": "If I were you, I'd book tickets in advance."
+      "example": "If I were you, I'd book tickets in advance.",
+      "keyword": "юла",
+      "mnemonic": "Юла крутится и советует If I were you, I'd… — На твоём месте я бы бронировал билеты заранее."
     },
     {
       "phrase": "Who spends the most time on the internet?",
       "translation": "Кто проводит больше всего времени в интернете?",
-      "example": "Who spends the most time on the internet? People from Canada."
+      "example": "Who spends the most time on the internet? People from Canada.",
+      "keyword": "спонсор",
+      "mnemonic": "Спонсор с роутером пытает Who spends the most time on the internet? — Кто проводит больше всего времени в интернете, канадцы."
     },
     {
       "phrase": "What is the world's most popular sport?",
       "translation": "Какой самый популярный вид спорта в мире?",
-      "example": "What is the world's most popular sport? Football is king."
+      "example": "What is the world's most popular sport? Football is king.",
+      "keyword": "сорт",
+      "mnemonic": "Комментатор жуёт сорт яблок — What is the world's most popular sport? — Какой самый популярный вид спорта, футбол король."
     },
     {
       "phrase": "How often do you listen to music?",
       "translation": "Как часто ты слушаешь музыку?",
-      "example": "How often do you listen to music? Every day on my way to work."
+      "example": "How often do you listen to music? Every day on my way to work.",
+      "keyword": "лиса",
+      "mnemonic": "Лиса в наушниках пытает How often do you listen to music? — Как часто ты слушаешь музыку, каждый день по дороге."
     }
   ]
 }

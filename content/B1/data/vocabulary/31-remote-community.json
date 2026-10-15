@@ -2,16 +2,82 @@
   "lessonId": "remote-community",
   "title": "Remote community — новые слова",
   "items": [
-    { "term": "remote", "translation": "удалённый, отдалённый", "example": "The village is very remote, far from any city." },
-    { "term": "isolated", "translation": "изолированный", "example": "The island is isolated from the rest of the world." },
-    { "term": "tribe", "translation": "племя", "example": "The tribe has lived on this island for centuries." },
-    { "term": "tradition", "translation": "традиция", "example": "They follow traditions passed down for generations." },
-    { "term": "custom", "translation": "обычай", "example": "One custom is to greet everyone when you arrive." },
-    { "term": "environment", "translation": "окружающая среда", "example": "The environment on the island is beautiful." },
-    { "term": "survive", "translation": "выживать", "example": "They survive by fishing and farming." },
-    { "term": "bind together", "translation": "связывать вместе", "example": "Shared customs bind the community together." },
-    { "term": "community leaders", "translation": "лидеры сообщества", "example": "The community leaders welcomed the visitors." },
-    { "term": "customs", "translation": "обычаи, традиции", "example": "Their customs help keep the community strong." },
-    { "term": "way of life", "translation": "образ жизни", "example": "Their traditional way of life is changing." }
+    {
+      "term": "remote",
+      "translation": "удалённый, отдалённый",
+      "example": "The village is very remote, far from any city.",
+      "keyword": "римоут",
+      "mnemonic": "Римоут-деревня далеко: the village is remote — удалённая и отдалённая от города."
+    },
+    {
+      "term": "isolated",
+      "translation": "изолированный",
+      "example": "The island is isolated from the rest of the world.",
+      "keyword": "айсолейтед",
+      "mnemonic": "Айсолейтед-остров один: island is isolated — изолированный от мира."
+    },
+    {
+      "term": "tribe",
+      "translation": "племя",
+      "example": "The tribe has lived on this island for centuries.",
+      "keyword": "трайб",
+      "mnemonic": "Трайб-племя у костра: the tribe lived — племя живёт века на острове."
+    },
+    {
+      "term": "tradition",
+      "translation": "традиция",
+      "example": "They follow traditions passed down for generations.",
+      "keyword": "традишн",
+      "mnemonic": "Традишн-передача из рук в руки: they follow traditions — традиция поколений."
+    },
+    {
+      "term": "custom",
+      "translation": "обычай",
+      "example": "One custom is to greet everyone when you arrive.",
+      "keyword": "кастом",
+      "mnemonic": "Кастом-привет всем: one custom is to greet — обычай здороваться при входе."
+    },
+    {
+      "term": "environment",
+      "translation": "окружающая среда",
+      "example": "The environment on the island is beautiful.",
+      "keyword": "энвайронмент",
+      "mnemonic": "Энвайронмент-остров цветёт: the environment — окружающая среда прекрасна."
+    },
+    {
+      "term": "survive",
+      "translation": "выживать",
+      "example": "They survive by fishing and farming.",
+      "keyword": "сёрвайв",
+      "mnemonic": "Сёрвайв-рыбалка кормит: they survive — выживают рыбалкой и фермой."
+    },
+    {
+      "term": "bind together",
+      "translation": "связывать вместе",
+      "example": "Shared customs bind the community together.",
+      "keyword": "байнд, тугезе",
+      "mnemonic": "Байнд-тугезе-канат держит: customs bind together — связывают вместе сообщество."
+    },
+    {
+      "term": "community leaders",
+      "translation": "лидеры сообщества",
+      "example": "The community leaders welcomed the visitors.",
+      "keyword": "лидерс",
+      "mnemonic": "Лидерс-встреча у причала: community leaders — лидеры сообщества встретили гостей."
+    },
+    {
+      "term": "customs",
+      "translation": "обычаи, традиции",
+      "example": "Their customs help keep the community strong.",
+      "keyword": "кастомс",
+      "mnemonic": "Кастомс-крепость держится: their customs keep — обычаи и традиции держат общину."
+    },
+    {
+      "term": "way of life",
+      "translation": "образ жизни",
+      "example": "Their traditional way of life is changing.",
+      "keyword": "вей, лайф",
+      "mnemonic": "Вей-лайф-традиция меняется: their way of life — образ жизни меняется."
+    }
   ]
 }

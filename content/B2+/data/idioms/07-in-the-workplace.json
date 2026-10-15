@@ -5,72 +5,100 @@
     {
       "idiom": "climb the career ladder",
       "translation": "подниматься по карьерной лестнице",
-      "example": "She climbed the career ladder from assistant to manager in five years."
+      "example": "She climbed the career ladder from assistant to manager in five years.",
+      "keyword": "ладдер",
+      "mnemonic": "Карьеристка лезет на ладдер-стремянку: она стала подниматься по карьерной лестнице, — ладдер скрипит climb the career ladder."
     },
     {
       "idiom": "learn the ropes",
       "translation": "освоиться; изучить азы",
-      "example": "New employees need a mentor to learn the ropes."
+      "example": "New employees need a mentor to learn the ropes.",
+      "keyword": "роупс",
+      "mnemonic": "Новичок дёргает роупс-канаты: он хочет освоиться и изучить азы, — роупс гудит learn the ropes."
     },
     {
       "idiom": "burn the midnight oil",
       "translation": "работать допоздна",
-      "example": "The team burned the midnight oil to launch the product on time."
+      "example": "The team burned the midnight oil to launch the product on time.",
+      "keyword": "ойл",
+      "mnemonic": "Команда жжёт ойл-лампу: она стала работать допоздна ради запуска, — ойл чадит burn the midnight oil."
     },
     {
       "idiom": "pull one's weight",
       "translation": "вносить свою лепту; работать наравне",
-      "example": "Everyone must pull their weight when cutbacks begin."
+      "example": "Everyone must pull their weight when cutbacks begin.",
+      "keyword": "вейт",
+      "mnemonic": "Каждый тянет вейт-гирю: все стали вносить свою лепту и работать наравне, — вейт звенит pull one's weight."
     },
     {
       "idiom": "go the extra mile",
       "translation": "сделать больше, чем требуется",
-      "example": "Dan Price went the extra mile by cutting his own salary."
+      "example": "Dan Price went the extra mile by cutting his own salary.",
+      "keyword": "экстра",
+      "mnemonic": "Директор выдал экстра-премию: он смог сделать больше, чем требуется, — экстра блестит go the extra mile."
     },
     {
       "idiom": "get down to business",
       "translation": "перейти к делу",
-      "example": "After coffee, let's get down to business."
+      "example": "After coffee, let's get down to business.",
+      "keyword": "бизнес",
+      "mnemonic": "После кофе включили бизнес-режим: пора перейти к делу, — бизнес гудит get down to business."
     },
     {
       "idiom": "back to the drawing board",
       "translation": "начать с нуля",
-      "example": "The pay scheme failed, so it is back to the drawing board."
+      "example": "The pay scheme failed, so it is back to the drawing board.",
+      "keyword": "борд",
+      "mnemonic": "Схема вернулась на борд-доску: придётся начать с нуля, — борд скрипит back to the drawing board."
     },
     {
       "idiom": "call the shots",
       "translation": "командовать; принимать решения",
-      "example": "As CEO, she calls the shots on pay policy."
+      "example": "As CEO, she calls the shots on pay policy.",
+      "keyword": "шотс",
+      "mnemonic": "Директор ставит шотс-прицел: она любит командовать и принимать решения, — шотс щёлкает call the shots."
     },
     {
       "idiom": "get one's foot in the door",
       "translation": "получить первый шанс",
-      "example": "An internship is a good way to get your foot in the door."
+      "example": "An internship is a good way to get your foot in the door.",
+      "keyword": "фут",
+      "mnemonic": "Стажёр сунул фут в щель: он смог получить первый шанс, — фут протиснулся get one's foot in the door."
     },
     {
       "idiom": "a dead-end job",
       "translation": "бесперспективная работа",
-      "example": "He left a dead-end job to join a fair-pay company."
+      "example": "He left a dead-end job to join a fair-pay company.",
+      "keyword": "дед-энд",
+      "mnemonic": "Офис как дед-энд тупик: это бесперспективная работа, — дед-энд упирается a dead-end job."
     },
     {
       "idiom": "all hands on deck",
       "translation": "все на борьбу; аврал",
-      "example": "It was all hands on deck before the product launch."
+      "example": "It was all hands on deck before the product launch.",
+      "keyword": "дек",
+      "mnemonic": "Перед запуском свистали всех на дек-палубу: все на борьбу, аврал, — дек гремит all hands on deck."
     },
     {
       "idiom": "think outside the box",
       "translation": "мыслить нестандартно",
-      "example": "The minimum salary scheme showed thinking outside the box."
+      "example": "The minimum salary scheme showed thinking outside the box.",
+      "keyword": "бокс",
+      "mnemonic": "Схема выпрыгнула из бокс-коробки: надо мыслить нестандартно, — бокс трещит think outside the box."
     },
     {
       "idiom": "rock the boat",
       "translation": "раскачивать лодку; нарушать покой",
-      "example": "The new pay scheme rocked the boat, and two managers resigned."
+      "example": "The new pay scheme rocked the boat, and two managers resigned.",
+      "keyword": "боут",
+      "mnemonic": "Реформа качнула боут-лодку: она стала раскачивать лодку и нарушать покой, — боут качается rock the boat."
     },
     {
       "idiom": "in the same boat",
       "translation": "в одной лодке; в одинаковом положении",
-      "example": "Small firms and giants are in the same boat during a crisis."
+      "example": "Small firms and giants are in the same boat during a crisis.",
+      "keyword": "сейм",
+      "mnemonic": "Фирмы сели в сейм-шлюпку: они в одной лодке, в одинаковом положении, — сейм качает in the same boat."
     }
   ]
 }

@@ -5,37 +5,51 @@
     {
       "idiom": "public transport delays",
       "translation": "задержки транспорта",
-      "example": "Public transport delays annoy me the most."
+      "example": "Public transport delays annoy me the most.",
+      "keyword": "дилер",
+      "mnemonic": "Пассажир-дилер опаздывает — public transport delays, задержки транспорта бесят больше всего."
     },
     {
       "idiom": "litter on the streets",
       "translation": "мусор на улицах",
-      "example": "There is a lot of litter on the streets today."
+      "example": "There is a lot of litter on the streets today.",
+      "keyword": "литр",
+      "mnemonic": "Дворник с литром окурков — litter on the streets, мусор на улицах сегодня кучей."
     },
     {
       "idiom": "bad service in a restaurant",
       "translation": "плохой сервис в ресторане",
-      "example": "Bad service in a restaurant really annoys me."
+      "example": "Bad service in a restaurant really annoys me.",
+      "keyword": "сервант",
+      "mnemonic": "Официант-сервант роняет подносы — bad service in a restaurant, плохой сервис в ресторане бесит."
     },
     {
       "idiom": "get stuck in a traffic jam",
       "translation": "застрять в пробке",
-      "example": "We got stuck in a traffic jam on the way home."
+      "example": "We got stuck in a traffic jam on the way home.",
+      "keyword": "джаз",
+      "mnemonic": "С джазом в магнитоле встали — get stuck in a traffic jam, застрять в пробке по дороге домой."
     },
     {
       "idiom": "receive spam in your inbox",
       "translation": "получать спам",
-      "example": "I receive spam in my inbox almost every day."
+      "example": "I receive spam in my inbox almost every day.",
+      "keyword": "спальник",
+      "mnemonic": "Почтальон в спальнике из рассылок — receive spam in your inbox, получать спам почти каждый день."
     },
     {
       "idiom": "I can't stand people eating in the street",
       "translation": "не выношу людей, едящих на улице",
-      "example": "I can't stand people eating in the street."
+      "example": "I can't stand people eating in the street.",
+      "keyword": "статуя",
+      "mnemonic": "Статуя с шаурмой на тротуаре — I can't stand people eating in the street, не выношу людей, едящих на улице."
     },
     {
       "idiom": "I have been here for an hour",
       "translation": "я здесь уже час",
-      "example": "I bought this camera here, but I have been here for an hour."
+      "example": "I bought this camera here, but I have been here for an hour.",
+      "keyword": "упор",
+      "mnemonic": "Покупатель с упором на кассу — I have been here for an hour, я здесь уже час с камерой."
     }
   ]
 }

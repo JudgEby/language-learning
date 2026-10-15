@@ -5,37 +5,51 @@
     {
       "idiom": "work for a company",
       "translation": "работать в компании",
-      "example": "Would you like to work for a company like this?"
+      "example": "Would you like to work for a company like this?",
+      "keyword": "кум",
+      "mnemonic": "Кум зовёт в фирму — work for a company, работать в компании, хочешь такую."
     },
     {
       "idiom": "motivate staff",
       "translation": "мотивировать сотрудников",
-      "example": "Good managers know how to motivate their staff."
+      "example": "Good managers know how to motivate their staff.",
+      "keyword": "матвей",
+      "mnemonic": "Матвей-менеджер пляшет — motivate staff, мотивировать сотрудников умеет."
     },
     {
       "idiom": "work at a desk",
       "translation": "работать за столом (в офисе)",
-      "example": "Many people work at desks all day long."
+      "example": "Many people work at desks all day long.",
+      "keyword": "доска",
+      "mnemonic": "Клерки за доской-столом — work at a desk, работать за столом целый день."
     },
     {
       "idiom": "check emails",
       "translation": "проверять электронную почту",
-      "example": "I check my emails when I get to work."
+      "example": "I check my emails when I get to work.",
+      "keyword": "эмодзи",
+      "mnemonic": "С эмодзи в ящике — check emails, проверять электронную почту с утра."
     },
     {
       "idiom": "do an online course",
       "translation": "проходить онлайн-курс",
-      "example": "Six of us are doing an online course this month."
+      "example": "Six of us are doing an online course this month.",
+      "keyword": "куркума",
+      "mnemonic": "Шестеро с куркумой за партами — do an online course, проходить онлайн-курс в этом месяце."
     },
     {
       "idiom": "have a break",
       "translation": "сделать перерыв",
-      "example": "I am having a break now, can I call you later?"
+      "example": "I am having a break now, can I call you later?",
+      "keyword": "бригада",
+      "mnemonic": "Бригада на перекуре — have a break, сделать перерыв, перезвоню позже."
     },
     {
       "idiom": "look for a job",
       "translation": "искать работу",
-      "example": "She is looking for a job at the moment."
+      "example": "She is looking for a job at the moment.",
+      "keyword": "жаба",
+      "mnemonic": "С жабой в резюме — look for a job, искать работу прямо сейчас."
     }
   ]
 }

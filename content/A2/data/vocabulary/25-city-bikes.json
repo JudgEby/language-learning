@@ -2,20 +2,110 @@
   "lessonId": "city-bikes",
   "title": "City bikes — новые слова",
   "items": [
-    { "term": "traffic", "translation": "дорожное движение, транспортный поток", "example": "Is there a lot of traffic where you live?" },
-    { "term": "a traffic jam", "translation": "пробка", "example": "In the mornings cycling is often faster because of the traffic jams." },
-    { "term": "by bike / on foot", "translation": "на велосипеде / пешком", "example": "I travel to work by bike and my daughter goes on foot." },
-    { "term": "public transport", "translation": "общественный транспорт", "example": "Public transport is cheap and fast in this city." },
-    { "term": "convenient", "translation": "удобный", "example": "Cycling in the city is fast and convenient." },
-    { "term": "polluting", "translation": "загрязняющий", "example": "Cars are more polluting than bikes." },
-    { "term": "unhealthy", "translation": "вредный для здоровья", "example": "Cycling in the city is healthy and cheap." },
-    { "term": "safe / dangerous", "translation": "безопасный / опасный", "example": "Cyclists say the new road is safe; the taxi driver says it's dangerous." },
-    { "term": "a bike sharing system", "translation": "система велопроката", "example": "The city has one of the most successful bike sharing systems in the world." },
-    { "term": "a cycle station", "translation": "велосипедная станция", "example": "Take a bike from one cycle station and leave it at any other." },
-    { "term": "a credit card / a debit card", "translation": "кредитная карта / дебетовая карта", "example": "You have to pay by credit or debit card for a year's use." },
-    { "term": "a user", "translation": "пользователь", "example": "There are 87,000 users of the bike system." },
-    { "term": "a seatbelt", "translation": "ремень безопасности", "example": "You have to wear a seatbelt in your car." },
-    { "term": "a helmet", "translation": "шлем", "example": "You don't have to wear a helmet on bikes, but it's safer if you do." },
-    { "term": "cycle / to cycle", "translation": "ездить на велосипеде", "example": "Cyclists can take a bike from one station and leave it at another." }
+    {
+      "term": "traffic",
+      "translation": "дорожное движение, транспортный поток",
+      "example": "Is there a lot of traffic where you live?",
+      "keyword": "трафик",
+      "mnemonic": "Трафик гудит в дорожном движении — это traffic."
+    },
+    {
+      "term": "a traffic jam",
+      "translation": "пробка",
+      "example": "In the mornings cycling is often faster because of the traffic jams.",
+      "keyword": "джем",
+      "mnemonic": "Водитель мажет джем в пробке — это a traffic jam."
+    },
+    {
+      "term": "by bike / on foot",
+      "translation": "на велосипеде / пешком",
+      "example": "I travel to work by bike and my daughter goes on foot.",
+      "keyword": "байк",
+      "mnemonic": "Курьер на байке едет на велосипеде — это by bike."
+    },
+    {
+      "term": "public transport",
+      "translation": "общественный транспорт",
+      "example": "Public transport is cheap and fast in this city.",
+      "keyword": "публика",
+      "mnemonic": "Публика толпится в общественном транспорте — это public transport."
+    },
+    {
+      "term": "convenient",
+      "translation": "удобный",
+      "example": "Cycling in the city is fast and convenient.",
+      "keyword": "веник",
+      "mnemonic": "Веник оказался удобным рулём — это convenient."
+    },
+    {
+      "term": "polluting",
+      "translation": "загрязняющий",
+      "example": "Cars are more polluting than bikes.",
+      "keyword": "пыль",
+      "mnemonic": "Пыль из трубы загрязняет улицу — это polluting."
+    },
+    {
+      "term": "unhealthy",
+      "translation": "вредный для здоровья",
+      "example": "Cycling in the city is healthy and cheap.",
+      "keyword": "хелси",
+      "mnemonic": "Блогер кричит «не хелси» — это unhealthy, вредно для здоровья."
+    },
+    {
+      "term": "safe / dangerous",
+      "translation": "безопасный / опасный",
+      "example": "Cyclists say the new road is safe; the taxi driver says it's dangerous.",
+      "keyword": "сейф",
+      "mnemonic": "Велосипедист прячется в сейф — там safe, безопасно."
+    },
+    {
+      "term": "a bike sharing system",
+      "translation": "система велопроката",
+      "example": "The city has one of the most successful bike sharing systems in the world.",
+      "keyword": "шеринг",
+      "mnemonic": "Шеринг велосипедов — это a bike sharing system, система велопроката."
+    },
+    {
+      "term": "a cycle station",
+      "translation": "велосипедная станция",
+      "example": "Take a bike from one cycle station and leave it at any other.",
+      "keyword": "стакан",
+      "mnemonic": "Велосипедист ставит стакан на велостанции — это a cycle station."
+    },
+    {
+      "term": "a credit card / a debit card",
+      "translation": "кредитная карта / дебетовая карта",
+      "example": "You have to pay by credit or debit card for a year's use.",
+      "keyword": "критик",
+      "mnemonic": "Критик машет кредитной картой — это a credit card."
+    },
+    {
+      "term": "a user",
+      "translation": "пользователь",
+      "example": "There are 87,000 users of the bike system.",
+      "keyword": "юзер",
+      "mnemonic": "Юзер жмёт кнопку — он a user, пользователь."
+    },
+    {
+      "term": "a seatbelt",
+      "translation": "ремень безопасности",
+      "example": "You have to wear a seatbelt in your car.",
+      "keyword": "белт",
+      "mnemonic": "Ковбой затягивает белт — это a seatbelt, ремень безопасности."
+    },
+    {
+      "term": "a helmet",
+      "translation": "шлем",
+      "example": "You don't have to wear a helmet on bikes, but it's safer if you do.",
+      "keyword": "халат",
+      "mnemonic": "Велосипедист надел халат вместо шлема — вот a helmet."
+    },
+    {
+      "term": "cycle / to cycle",
+      "translation": "ездить на велосипеде",
+      "example": "Cyclists can take a bike from one station and leave it at another.",
+      "keyword": "цикл",
+      "mnemonic": "Спортсмен крутит цикл и едет на велосипеде — to cycle."
+    }
   ]
 }

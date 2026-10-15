@@ -2,8 +2,26 @@
   "lessonId": "me-and-my-language",
   "title": "Me and my language — идиомы",
   "items": [
-    { "idiom": "pick up a language", "translation": "подхватить язык (выучить неформально)", "example": "I picked up some Spanish when I was travelling in Latin America." },
-    { "idiom": "be all Greek to me", "translation": "быть совершенно непонятным", "example": "All this computer jargon is all Greek to me." },
-    { "idiom": "on the tip of my tongue", "translation": "вертится на языке", "example": "I know the word! It's on the tip of my tongue." }
+    {
+      "idiom": "pick up a language",
+      "translation": "подхватить язык (выучить неформально)",
+      "example": "I picked up some Spanish when I was travelling in Latin America.",
+      "keyword": "пикап",
+      "mnemonic": "Пикап мчит по Латинской Америке: pick up a language — подхватить язык, выучить неформально в дороге."
+    },
+    {
+      "idiom": "be all Greek to me",
+      "translation": "быть совершенно непонятным",
+      "example": "All this computer jargon is all Greek to me.",
+      "keyword": "грек",
+      "mnemonic": "Грек разводит руками над жаргоном: be all Greek to me — быть совершенно непонятным."
+    },
+    {
+      "idiom": "on the tip of my tongue",
+      "translation": "вертится на языке",
+      "example": "I know the word! It's on the tip of my tongue.",
+      "keyword": "тип",
+      "mnemonic": "Тип мнётся и мычит: on the tip of my tongue — вертится на языке, слово вот-вот сорвётся."
+    }
   ]
 }

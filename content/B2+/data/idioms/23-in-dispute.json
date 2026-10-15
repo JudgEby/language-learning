@@ -5,77 +5,107 @@
     {
       "idiom": "meet halfway",
       "translation": "пойти навстречу друг другу",
-      "example": "The landlord and I finally met halfway on the rent."
+      "example": "The landlord and I finally met halfway on the rent.",
+      "keyword": "мит",
+      "mnemonic": "Арендодатель назначил мит-встречу: они смогли пойти навстречу друг другу, — мит мирит meet halfway."
     },
     {
       "idiom": "find common ground",
       "translation": "найти общий язык",
-      "example": "It took an hour to find common ground."
+      "example": "It took an hour to find common ground.",
+      "keyword": "граунд",
+      "mnemonic": "Час копали граунд-доводы: смогли найти общий язык, — граунд гудит find common ground."
     },
     {
       "idiom": "bury the hatchet",
       "translation": "зарыть топор войны",
-      "example": "After the argument, the neighbours buried the hatchet."
+      "example": "After the argument, the neighbours buried the hatchet.",
+      "keyword": "бэри",
+      "mnemonic": "Соседи скомандовали «бэри-копай!»: они решили зарыть топор войны, — бэри гремит bury the hatchet."
     },
     {
       "idiom": "stand one's ground",
       "translation": "стоять на своём",
-      "example": "She stood her ground and refused to pay for the damage."
+      "example": "She stood her ground and refused to pay for the damage.",
+      "keyword": "стэнд",
+      "mnemonic": "Жиличка встала в стэнд-стойку: она стала стоять на своём, — стэнд держит stand one's ground."
     },
     {
       "idiom": "draw the line",
       "translation": "провести границу",
-      "example": "I draw the line at paying for someone else's rubbish."
+      "example": "I draw the line at paying for someone else's rubbish.",
+      "keyword": "лайн",
+      "mnemonic": "Я черчу лайн-черту: надо провести границу по мусору, — лайн режет draw the line."
     },
     {
       "idiom": "lay down the law",
       "translation": "установить правила",
-      "example": "The landlord laid down the law about noisy parties."
+      "example": "The landlord laid down the law about noisy parties.",
+      "keyword": "ло",
+      "mnemonic": "Арендодатель гаркнул «ло!»: он смог установить правила про шум, — ло гремит lay down the law."
     },
     {
       "idiom": "stick to one's guns",
       "translation": "стоять на своём",
-      "example": "He stuck to his guns until they fixed the heating."
+      "example": "He stuck to his guns until they fixed the heating.",
+      "keyword": "ганс",
+      "mnemonic": "Жилец держит ганс-прицел: он стал стоять на своём до ремонта, — ганс целит stick to one's guns."
     },
     {
       "idiom": "give and take",
       "translation": "взаимные уступки",
-      "example": "Every compromise needs some give and take."
+      "example": "Every compromise needs some give and take.",
+      "keyword": "гив-тейк",
+      "mnemonic": "Компромисс качает гив-тейк качели: нужны взаимные уступки, — гив-тейк скрипит give and take."
     },
     {
       "idiom": "a war of words",
       "translation": "словесная перепалка",
-      "example": "The meeting turned into a war of words."
+      "example": "The meeting turned into a war of words.",
+      "keyword": "вордс",
+      "mnemonic": "Собрание взорвалось вордс-баталией: началась словесная перепалка, — вордс гремят a war of words."
     },
     {
       "idiom": "bad blood",
       "translation": "вражда",
-      "example": "There has been bad blood between the two flats for years."
+      "example": "There has been bad blood between the two flats for years.",
+      "keyword": "блад",
+      "mnemonic": "Между квартирами свернулся блад-сгусток: там вражда годами, — блад густеет bad blood."
     },
     {
       "idiom": "clear the air",
       "translation": "разрядить обстановку",
-      "example": "A calm talk helped clear the air."
+      "example": "A calm talk helped clear the air.",
+      "keyword": "эйр",
+      "mnemonic": "Разговор проветрил эйр-духоту: он помог разрядить обстановку, — эйр свежеет clear the air."
     },
     {
       "idiom": "talk sense into",
       "translation": "вразумить",
-      "example": "I tried to talk some sense into him about the deposit."
+      "example": "I tried to talk some sense into him about the deposit.",
+      "keyword": "сенс",
+      "mnemonic": "Я втолковывал сенс-резоны: пытался вразумить про залог, — сенс долбит talk sense into."
     },
     {
       "idiom": "drive a hard bargain",
       "translation": "жёстко торговаться",
-      "example": "She drove a hard bargain and got two months free."
+      "example": "She drove a hard bargain and got two months free.",
+      "keyword": "баргейн",
+      "mnemonic": "Жиличка выбила баргейн-скидку: она стала жёстко торговаться, — баргейн звенит drive a hard bargain."
     },
     {
       "idiom": "the ball is in your court",
       "translation": "мяч на твоей стороне",
-      "example": "I have made my offer — the ball is in your court."
+      "example": "I have made my offer — the ball is in your court.",
+      "keyword": "корт",
+      "mnemonic": "Оферту кинули на корт-поле: теперь мяч на твоей стороне, — корт ждёт the ball is in your court."
     },
     {
       "idiom": "a done deal",
       "translation": "решённый вопрос",
-      "example": "Once we shake hands, it is a done deal."
+      "example": "Once we shake hands, it is a done deal.",
+      "keyword": "дил",
+      "mnemonic": "Рукопожатие скрепило дил-сделку: это решённый вопрос, — дил щёлкает a done deal."
     }
   ]
 }

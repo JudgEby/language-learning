@@ -2,20 +2,110 @@
   "lessonId": "can-i-have-a-coffee",
   "title": "Can I have a coffee? — новые слова",
   "items": [
-    { "term": "a tourist shop", "translation": "туристический магазин", "example": "You can buy a souvenir in a tourist shop." },
-    { "term": "a snack bar", "translation": "закусочная", "example": "Let's have a coffee and a sandwich at the snack bar." },
-    { "term": "a train station", "translation": "вокзал", "example": "The train station is a good place to buy a return ticket." },
-    { "term": "a platform", "translation": "платформа", "example": "The train to Berlin leaves from platform 4." },
-    { "term": "a single ticket", "translation": "билет в одну сторону", "example": "Can I have a single ticket to Sydney, please?" },
-    { "term": "a return ticket", "translation": "обратный билет", "example": "A return ticket to Madrid costs forty euros." },
-    { "term": "a postcard", "translation": "открытка", "example": "Could I have one of those postcards, please?" },
-    { "term": "a souvenir", "translation": "сувенир", "example": "The woman buys a souvenir for her son." },
-    { "term": "a battery", "translation": "батарейка", "example": "Can I have one of those batteries, please?" },
-    { "term": "an apple juice", "translation": "яблочный сок", "example": "Can I have a sandwich and an apple juice, please?" },
-    { "term": "a coffee", "translation": "кофе", "example": "A coffee and a cheese sandwich — that's four euros fifty." },
-    { "term": "a sandwich", "translation": "бутерброд", "example": "How much is the sandwich?" },
-    { "term": "mineral water", "translation": "минеральная вода", "example": "A bottle of mineral water is one euro forty." },
-    { "term": "hot chocolate", "translation": "горячий шоколад", "example": "On a cold day I want a hot chocolate." },
-    { "term": "a menu", "translation": "меню", "example": "Could I see the menu, please?" }
+    {
+      "term": "a tourist shop",
+      "translation": "туристический магазин",
+      "example": "You can buy a souvenir in a tourist shop.",
+      "keyword": "шоп",
+      "mnemonic": "Турист врывается в шоп — это a tourist shop, туристический магазин."
+    },
+    {
+      "term": "a snack bar",
+      "translation": "закусочная",
+      "example": "Let's have a coffee and a sandwich at the snack bar.",
+      "keyword": "снек",
+      "mnemonic": "Голубь клюёт снек у входа — вот a snack bar, закусочная."
+    },
+    {
+      "term": "a train station",
+      "translation": "вокзал",
+      "example": "The train station is a good place to buy a return ticket.",
+      "keyword": "станция",
+      "mnemonic": "Диктор орёт на всю станцию — это a train station, вокзал."
+    },
+    {
+      "term": "a platform",
+      "translation": "платформа",
+      "example": "The train to Berlin leaves from platform 4.",
+      "keyword": "плафон",
+      "mnemonic": "Пассажир висит на плафоне посреди платформы — это a platform."
+    },
+    {
+      "term": "a single ticket",
+      "translation": "билет в одну сторону",
+      "example": "Can I have a single ticket to Sydney, please?",
+      "keyword": "сингл",
+      "mnemonic": "Певец поёт сингл и машет билетом — это a single ticket, билет в одну сторону."
+    },
+    {
+      "term": "a return ticket",
+      "translation": "обратный билет",
+      "example": "A return ticket to Madrid costs forty euros.",
+      "keyword": "ретурн",
+      "mnemonic": "Кассир штампует ретурн на билете — это a return ticket, обратный билет."
+    },
+    {
+      "term": "a postcard",
+      "translation": "открытка",
+      "example": "Could I have one of those postcards, please?",
+      "keyword": "постер",
+      "mnemonic": "Турист сворачивает постер в открытку — это его a postcard."
+    },
+    {
+      "term": "a souvenir",
+      "translation": "сувенир",
+      "example": "The woman buys a souvenir for her son.",
+      "keyword": "суверен",
+      "mnemonic": "Суверен торгуется за сувенир — это a souvenir."
+    },
+    {
+      "term": "a battery",
+      "translation": "батарейка",
+      "example": "Can I have one of those batteries, please?",
+      "keyword": "батут",
+      "mnemonic": "Хомяк прыгает на батуте с батарейкой в лапах — это a battery."
+    },
+    {
+      "term": "an apple juice",
+      "translation": "яблочный сок",
+      "example": "Can I have a sandwich and an apple juice, please?",
+      "keyword": "джус",
+      "mnemonic": "Бульдог лакает джус из миски — это an apple juice, яблочный сок."
+    },
+    {
+      "term": "a coffee",
+      "translation": "кофе",
+      "example": "A coffee and a cheese sandwich — that's four euros fifty.",
+      "keyword": "кофр",
+      "mnemonic": "Бариста прячет в кофр чашку — там a coffee, кофе."
+    },
+    {
+      "term": "a sandwich",
+      "translation": "бутерброд",
+      "example": "How much is the sandwich?",
+      "keyword": "санки",
+      "mnemonic": "Дворник везёт на санках бутерброд — это a sandwich."
+    },
+    {
+      "term": "mineral water",
+      "translation": "минеральная вода",
+      "example": "A bottle of mineral water is one euro forty.",
+      "keyword": "минёр",
+      "mnemonic": "Минёр кипятит котелок — там mineral water, минеральная вода."
+    },
+    {
+      "term": "hot chocolate",
+      "translation": "горячий шоколад",
+      "example": "On a cold day I want a hot chocolate.",
+      "keyword": "чок",
+      "mnemonic": "Кастрюля говорит «чок» и плещется — там hot chocolate, горячий шоколад."
+    },
+    {
+      "term": "a menu",
+      "translation": "меню",
+      "example": "Could I see the menu, please?",
+      "keyword": "менуэт",
+      "mnemonic": "Официант танцует менуэт с меню под мышкой — неси a menu!"
+    }
   ]
 }

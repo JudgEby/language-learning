@@ -2,15 +2,75 @@
   "lessonId": "tomorrows-world",
   "title": "Tomorrow's world — новые слова",
   "items": [
-    { "term": "in the near future", "translation": "в ближайшем будущем", "example": "In the near future, we may be able to communicate in any language." },
-    { "term": "in the long term", "translation": "в долгосрочной перспективе", "example": "In the long term, 3D printers will make copies of body parts." },
-    { "term": "in the short term", "translation": "в краткосрочной перспективе", "example": "In the short term, we expect profits to increase." },
-    { "term": "in a year or two", "translation": "через год-два", "example": "The headset could come onto the market in a year or two." },
-    { "term": "in ten years' time", "translation": "через десять лет", "example": "In ten years' time, I hope to be a doctor." },
-    { "term": "in the next thirty years", "translation": "в ближайшие тридцать лет", "example": "Climate change will affect farming in the next thirty years." },
-    { "term": "vertical farming", "translation": "вертикальное фермерство", "example": "Vertical farming will become common in cities." },
-    { "term": "nano monitors", "translation": "нано-мониторы", "example": "Tiny nano monitors will be placed inside our bodies." },
-    { "term": "virtual reality", "translation": "виртуальная реальность", "example": "Full immersion virtual reality will be with us in ten to twenty years." },
-    { "term": "3D printer", "translation": "3D-принтер", "example": "3D printers will make copies of human organs." }
+    {
+      "term": "in the near future",
+      "translation": "в ближайшем будущем",
+      "example": "In the near future, we may be able to communicate in any language.",
+      "keyword": "нир, фьюче",
+      "mnemonic": "Нир-фьюче-портал гудит: in the near future — в ближайшем будущем заговорим на любом языке."
+    },
+    {
+      "term": "in the long term",
+      "translation": "в долгосрочной перспективе",
+      "example": "In the long term, 3D printers will make copies of body parts.",
+      "keyword": "лонг, терм",
+      "mnemonic": "Лонг-термометр на годы: in the long term — в долгосрочной перспективе принтеры напечатают органы."
+    },
+    {
+      "term": "in the short term",
+      "translation": "в краткосрочной перспективе",
+      "example": "In the short term, we expect profits to increase.",
+      "keyword": "шорт, терм",
+      "mnemonic": "Шорт-термометр на неделю: in the short term — в краткосрочной перспективе ждём прибыли."
+    },
+    {
+      "term": "in a year or two",
+      "translation": "через год-два",
+      "example": "The headset could come onto the market in a year or two.",
+      "keyword": "йир, ту",
+      "mnemonic": "Йир и ту-туфли ждут: гарнитура выйдет in a year or two — через год-два."
+    },
+    {
+      "term": "in ten years' time",
+      "translation": "через десять лет",
+      "example": "In ten years' time, I hope to be a doctor.",
+      "keyword": "тен, тайм",
+      "mnemonic": "Тен-таймер на десять: in ten years' time — через десять лет стану врачом."
+    },
+    {
+      "term": "in the next thirty years",
+      "translation": "в ближайшие тридцать лет",
+      "example": "Climate change will affect farming in the next thirty years.",
+      "keyword": "тёти, йирс",
+      "mnemonic": "Тёти с йирс-календарём спорят: климат ударит in the next thirty years — в ближайшие тридцать лет."
+    },
+    {
+      "term": "vertical farming",
+      "translation": "вертикальное фермерство",
+      "example": "Vertical farming will become common in cities.",
+      "keyword": "вертикаль, фарм",
+      "mnemonic": "Вертикаль-фарм-стеллаж до неба: вот vertical farming — вертикальное фермерство в городе."
+    },
+    {
+      "term": "nano monitors",
+      "translation": "нано-мониторы",
+      "example": "Tiny nano monitors will be placed inside our bodies.",
+      "keyword": "нано, монитор",
+      "mnemonic": "Нано-мониторы-невидимки плывут: tiny nano monitors — нано-мониторы поселятся в теле."
+    },
+    {
+      "term": "virtual reality",
+      "translation": "виртуальная реальность",
+      "example": "Full immersion virtual reality will be with us in ten to twenty years.",
+      "keyword": "виртуал, реалити",
+      "mnemonic": "Виртуал-реалити-очки гудят: full immersion virtual reality — виртуальная реальность через десять лет."
+    },
+    {
+      "term": "3D printer",
+      "translation": "3D-принтер",
+      "example": "3D printers will make copies of human organs.",
+      "keyword": "принтер",
+      "mnemonic": "Принтер жужжит в 3D: вот 3D printer — 3D-принтер печатает копии органов."
+    }
   ]
 }

@@ -5,17 +5,23 @@
     {
       "term": "machine",
       "translation": "машина, механизм",
-      "example": "The machine can perform complex tasks."
+      "example": "The machine can perform complex tasks.",
+      "keyword": "мишень",
+      "mnemonic": "Машина выполняет сложные задачи — бей в мишень, это machine."
     },
     {
       "term": "robot",
       "translation": "робот",
-      "example": "Robots are being used in factories worldwide."
+      "example": "Robots are being used in factories worldwide.",
+      "keyword": "работа",
+      "mnemonic": "Роботы работают на заводах по всему миру — вот это работа, это robot."
     },
     {
       "term": "artificial",
       "translation": "искусственный",
-      "example": "Artificial intelligence is advancing rapidly."
+      "example": "Artificial intelligence is advancing rapidly.",
+      "keyword": "артист",
+      "mnemonic": "Искусственный интеллект развивается быстро — как артист на сцене, это artificial."
     },
     {
       "term": "futuristic",
@@ -25,57 +31,79 @@
     {
       "term": "invention",
       "translation": "изобретение",
-      "example": "The printing press was a revolutionary invention."
+      "example": "The printing press was a revolutionary invention.",
+      "keyword": "вентилятор",
+      "mnemonic": "Печатный станок — революционное изобретение: дует вентилятор перемен, это invention."
     },
     {
       "term": "device",
       "translation": "устройство, прибор",
-      "example": "This device can translate speech in real time."
+      "example": "This device can translate speech in real time.",
+      "keyword": "девица",
+      "mnemonic": "Этот прибор переводит речь в реальном времени — девица-переводчик, это device."
     },
     {
       "term": "innovation",
       "translation": "инновация",
-      "example": "Technological innovation drives economic growth."
+      "example": "Technological innovation drives economic growth.",
+      "keyword": "новая",
+      "mnemonic": "Технические инновации двигают экономику — совсем новая штука, это innovation."
     },
     {
       "term": "technology",
       "translation": "технология",
-      "example": "Technology has transformed the way we live."
+      "example": "Technology has transformed the way we live.",
+      "keyword": "техно",
+      "mnemonic": "Технология изменила нашу жизнь — качает техно, это technology."
     },
     {
       "term": "sci-fi",
       "translation": "научная фантастика",
-      "example": "I love reading sci-fi novels about the future."
+      "example": "I love reading sci-fi novels about the future.",
+      "keyword": "сайт",
+      "mnemonic": "Обожаю читать научную фантастику о будущем — залип на сайте, это sci-fi."
     },
     {
       "term": "scan",
       "translation": "сканировать",
-      "example": "The workers scan the products and send them to packing."
+      "example": "The workers scan the products and send them to packing.",
+      "keyword": "скандал",
+      "mnemonic": "Рабочие сканируют товары и шлют на упаковку — закати скандал, это scan."
     },
     {
       "term": "conveyor",
       "translation": "конвейер",
-      "example": "Once packed, the order goes on a conveyor to Dispatch."
+      "example": "Once packed, the order goes on a conveyor to Dispatch.",
+      "keyword": "конверт",
+      "mnemonic": "Заказ едет на конвейере на отгрузку — положи в конверт, это conveyor."
     },
     {
       "term": "teleport",
       "translation": "телепортировать",
-      "example": "The postmen teleport the parcels direct to customers."
+      "example": "The postmen teleport the parcels direct to customers.",
+      "keyword": "телепат",
+      "mnemonic": "Почтальоны телепортируют посылки клиентам — работа телепата, это teleport."
     },
     {
       "term": "fully automated",
       "translation": "полностью автоматизированный",
-      "example": "The processes are fully automated, but people-powered."
+      "example": "The processes are fully automated, but people-powered.",
+      "keyword": "автомат",
+      "mnemonic": "Процессы полностью автоматизированы — включи автомат, это fully automated."
     },
     {
       "term": "delivery bot",
       "translation": "робот-курьер",
-      "example": "A delivery bot looks like a human and delivers parcels."
+      "example": "A delivery bot looks like a human and delivers parcels.",
+      "keyword": "деливери",
+      "mnemonic": "Робот-курьер как человек развозит посылки — закажи деливери, это delivery bot."
     },
     {
       "term": "shuttle",
       "translation": "шаттл, челнок",
-      "example": "A shuttle makes regular journeys to and from space."
+      "example": "A shuttle makes regular journeys to and from space.",
+      "keyword": "шатёр",
+      "mnemonic": "Шаттл регулярно летает в космос и обратно — ставь шатёр, это shuttle."
     }
   ]
 }

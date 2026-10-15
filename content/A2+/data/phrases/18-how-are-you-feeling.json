@@ -2,13 +2,61 @@
   "lessonId": "how-are-you-feeling",
   "title": "How are you feeling? — фразы",
   "items": [
-    { "phrase": "What's the matter?", "translation": "Что случилось? / В чём дело?", "example": "You look pale. What's the matter?" },
-    { "phrase": "I don't feel well", "translation": "Я плохо себя чувствую", "example": "I don't feel well — I think I need to see a doctor." },
-    { "phrase": "I've got a temperature", "translation": "У меня температура", "example": "I've got a temperature and I'm shivering." },
-    { "phrase": "I feel sick", "translation": "Меня тошнит", "example": "After eating that seafood, I feel sick." },
-    { "phrase": "It hurts here", "translation": "Болит здесь", "example": "The doctor asked where it hurts. 'It hurts here,' I said, pointing to my back." },
-    { "phrase": "How long have you had this?", "translation": "Как долго это у вас?", "example": "A: How long have you had this cough? B: For about five days." },
-    { "phrase": "Take this medicine three times a day", "translation": "Принимайте это лекарство три раза в день", "example": "The doctor said: 'Take this medicine three times a day after meals.'" },
-    { "phrase": "You should rest and drink plenty of water", "translation": "Вам нужно отдыхать и пить много воды", "example": "The doctor advised me to rest and drink plenty of water." }
+    {
+      "phrase": "What's the matter?",
+      "translation": "Что случилось? / В чём дело?",
+      "example": "You look pale. What's the matter?",
+      "keyword": "материя",
+      "mnemonic": "Бледный держит материю — What's the matter? — Что случилось, в чём дело."
+    },
+    {
+      "phrase": "I don't feel well",
+      "translation": "Я плохо себя чувствую",
+      "example": "I don't feel well — I think I need to see a doctor.",
+      "keyword": "валерьянка",
+      "mnemonic": "Больной с валерьянкой стонет I don't feel well — Я плохо себя чувствую, нужен врач."
+    },
+    {
+      "phrase": "I've got a temperature",
+      "translation": "У меня температура",
+      "example": "I've got a temperature and I'm shivering.",
+      "keyword": "теплица",
+      "mnemonic": "Пациент как теплица горит — I've got a temperature, У меня температура и озноб."
+    },
+    {
+      "phrase": "I feel sick",
+      "translation": "Меня тошнит",
+      "example": "After eating that seafood, I feel sick.",
+      "keyword": "сок",
+      "mnemonic": "После морепродуктов с соком — I feel sick, Меня тошнит."
+    },
+    {
+      "phrase": "It hurts here",
+      "translation": "Болит здесь",
+      "example": "The doctor asked where it hurts. 'It hurts here,' I said, pointing to my back.",
+      "keyword": "хрип",
+      "mnemonic": "Пациент с хрипом тычет в спину — It hurts here, Болит здесь."
+    },
+    {
+      "phrase": "How long have you had this?",
+      "translation": "Как долго это у вас?",
+      "example": "A: How long have you had this cough? B: For about five days.",
+      "keyword": "луна",
+      "mnemonic": "Врач с луной-кашлем пытает How long have you had this? — Как долго это у вас, кашель пять дней."
+    },
+    {
+      "phrase": "Take this medicine three times a day",
+      "translation": "Принимайте это лекарство три раза в день",
+      "example": "The doctor said: 'Take this medicine three times a day after meals.'",
+      "keyword": "медок",
+      "mnemonic": "Доктор с медком велит Take this medicine three times a day — Принимайте это лекарство три раза в день после еды."
+    },
+    {
+      "phrase": "You should rest and drink plenty of water",
+      "translation": "Вам нужно отдыхать и пить много воды",
+      "example": "The doctor advised me to rest and drink plenty of water.",
+      "keyword": "арест",
+      "mnemonic": "Доктор посадил под арест с графином — You should rest and drink plenty of water, Вам нужно отдыхать и пить много воды."
+    }
   ]
 }

@@ -2,17 +2,89 @@
   "lessonId": "are-you-qualified",
   "title": "Are you qualified? — новые слова",
   "items": [
-    { "term": "qualification", "translation": "квалификация, диплом", "example": "What qualifications do you have?" },
-    { "term": "degree", "translation": "степень (университетская)", "example": "She has a degree in biology." },
-    { "term": "diploma", "translation": "диплом", "example": "He got a diploma in business management." },
-    { "term": "certificate", "translation": "сертификат", "example": "You need a certificate to teach English." },
-    { "term": "experience", "translation": "опыт", "example": "She has ten years of teaching experience." },
-    { "term": "skills", "translation": "навыки", "example": "He has excellent communication skills." },
-    { "term": "apprenticeship", "translation": "ученичество, стажировка", "example": "He did an apprenticeship as an electrician." },
-    { "term": "training", "translation": "обучение, подготовка", "example": "The company provides on-the-job training." },
-    { "term": "distance learning", "translation": "дистанционное обучение", "example": "Distance learning is becoming more popular." },
-    { "term": "face-to-face learning", "translation": "очное обучение", "example": "I prefer face-to-face learning." },
-    { "term": "PhD", "translation": "докторская степень", "example": "She has a PhD in marine biology." },
-    { "term": "MA / MSc", "translation": "степень магистра", "example": "He has an MA in Geography." }
+    {
+      "term": "qualification",
+      "translation": "квалификация, диплом",
+      "example": "What qualifications do you have?",
+      "keyword": "квалификейшн",
+      "mnemonic": "Квалификейшн-папка с печатями: what qualifications — квалификация и дипломы твои?"
+    },
+    {
+      "term": "degree",
+      "translation": "степень (университетская)",
+      "example": "She has a degree in biology.",
+      "keyword": "дегри",
+      "mnemonic": "Дегри-биолог в мантии: she has a degree — степень университетская по биологии."
+    },
+    {
+      "term": "diploma",
+      "translation": "диплом",
+      "example": "He got a diploma in business management.",
+      "keyword": "диплома",
+      "mnemonic": "Диплома-менеджер в раме: he got diploma — диплом по бизнес-менеджменту."
+    },
+    {
+      "term": "certificate",
+      "translation": "сертификат",
+      "example": "You need a certificate to teach English.",
+      "keyword": "сертификат",
+      "mnemonic": "Сертификат учителя на стене: you need certificate — сертификат, чтобы учить английскому."
+    },
+    {
+      "term": "experience",
+      "translation": "опыт",
+      "example": "She has ten years of teaching experience.",
+      "keyword": "экспириенс",
+      "mnemonic": "Экспириенс десять лет: she has experience — опыт преподавания за плечами."
+    },
+    {
+      "term": "skills",
+      "translation": "навыки",
+      "example": "He has excellent communication skills.",
+      "keyword": "скиллз",
+      "mnemonic": "Скиллз-коммуникация льётся: he has skills — навыки отличной коммуникации."
+    },
+    {
+      "term": "apprenticeship",
+      "translation": "ученичество, стажировка",
+      "example": "He did an apprenticeship as an electrician.",
+      "keyword": "апрентис",
+      "mnemonic": "Апрентис-электрик с проводами: he did apprenticeship — ученичество и стажировка."
+    },
+    {
+      "term": "training",
+      "translation": "обучение, подготовка",
+      "example": "The company provides on-the-job training.",
+      "keyword": "тренинг",
+      "mnemonic": "Тренинг на рабочем месте: company provides training — обучение и подготовку."
+    },
+    {
+      "term": "distance learning",
+      "translation": "дистанционное обучение",
+      "example": "Distance learning is becoming more popular.",
+      "keyword": "дистанс, лёрнинг",
+      "mnemonic": "Дистанс-лёрнинг из дома: distance learning — дистанционное обучение набирает ход."
+    },
+    {
+      "term": "face-to-face learning",
+      "translation": "очное обучение",
+      "example": "I prefer face-to-face learning.",
+      "keyword": "фейс, лёрнинг",
+      "mnemonic": "Фейс-лёрнинг глаза в глаза: I prefer face-to-face learning — очное обучение."
+    },
+    {
+      "term": "PhD",
+      "translation": "докторская степень",
+      "example": "She has a PhD in marine biology.",
+      "keyword": "пи-эйч-ди",
+      "mnemonic": "Пи-эйч-ди-биолог с медузой: she has a PhD — докторская степень по морской биологии."
+    },
+    {
+      "term": "MA / MSc",
+      "translation": "степень магистра",
+      "example": "He has an MA in Geography.",
+      "keyword": "эм-эй",
+      "mnemonic": "Эм-эй-географ с картой: he has an MA — степень магистра по географии."
+    }
   ]
 }

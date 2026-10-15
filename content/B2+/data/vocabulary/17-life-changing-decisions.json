@@ -5,102 +5,142 @@
     {
       "term": "decision",
       "translation": "решение",
-      "example": "Making the right decision can change your entire future."
+      "example": "Making the right decision can change your entire future.",
+      "keyword": "дежурный",
+      "mnemonic": "Правильное решение принял дежурный — вот тебе decision."
     },
     {
       "term": "indecision",
       "translation": "нерешительность",
-      "example": "Her indecision cost her the opportunity of a lifetime."
+      "example": "Her indecision cost her the opportunity of a lifetime.",
+      "keyword": "индеец",
+      "mnemonic": "Нерешительность индейца стоила шанса — вот тебе indecision."
     },
     {
       "term": "make up your mind",
       "translation": "принять решение",
-      "example": "You need to make up your mind about which university to attend."
+      "example": "You need to make up your mind about which university to attend.",
+      "keyword": "мина",
+      "mnemonic": "Принять решение, обезвредив мину вуза, — вот тебе make up your mind."
     },
     {
       "term": "weigh up options",
       "translation": "взвешивать варианты",
-      "example": "I spent days weighing up my options before accepting the job offer."
+      "example": "I spent days weighing up my options before accepting the job offer.",
+      "keyword": "вейп",
+      "mnemonic": "Взвешивать варианты с вейпом в руках — вот тебе weigh up options."
     },
     {
       "term": "dilemma",
       "translation": "дилемма",
-      "example": "She faced a dilemma between pursuing her career and starting a family."
+      "example": "She faced a dilemma between pursuing her career and starting a family.",
+      "keyword": "дилижанс",
+      "mnemonic": "Дилемма в дилижансе между карьерой и семьёй — вот тебе dilemma."
     },
     {
       "term": "choice",
       "translation": "выбор",
-      "example": "We have a difficult choice to make about moving abroad."
+      "example": "We have a difficult choice to make about moving abroad.",
+      "keyword": "чей",
+      "mnemonic": "Трудный выбор — чей чемодан за границу, вот тебе choice."
     },
     {
       "term": "reconsider",
       "translation": "пересмотреть",
-      "example": "After the new information came to light, I had to reconsider my position."
+      "example": "After the new information came to light, I had to reconsider my position.",
+      "keyword": "консервы",
+      "mnemonic": "Пересмотреть позицию, открыв консервы фактов, — вот тебе reconsider."
     },
     {
       "term": "decisive",
       "translation": "решительный",
-      "example": "A good leader needs to be decisive in times of crisis."
+      "example": "A good leader needs to be decisive in times of crisis.",
+      "keyword": "диско",
+      "mnemonic": "Решительный лидер на диско в кризис — вот тебе decisive."
     },
     {
       "term": "change of heart",
       "translation": "перемена мнения",
-      "example": "I hope he hasn't had a change of heart about moving."
+      "example": "I hope he hasn't had a change of heart about moving.",
+      "keyword": "харчо",
+      "mnemonic": "Перемена мнения после харчо о переезде — вот тебе change of heart."
     },
     {
       "term": "pros and cons",
       "translation": "за и против",
-      "example": "I write a list of pros and cons before I reach my decision."
+      "example": "I write a list of pros and cons before I reach my decision.",
+      "keyword": "просо",
+      "mnemonic": "Список за и против на просе перед решением — вот тебе pros and cons."
     },
     {
       "term": "second thoughts",
       "translation": "сомнения (задним числом)",
-      "example": "They've had second thoughts about their decision."
+      "example": "They've had second thoughts about their decision.",
+      "keyword": "секунда",
+      "mnemonic": "Сомнения задним числом за секунду — вот тебе second thoughts."
     },
     {
       "term": "reach a decision",
       "translation": "прийти к решению",
-      "example": "I can eventually come to a decision if I sleep on it."
+      "example": "I can eventually come to a decision if I sleep on it.",
+      "keyword": "речь",
+      "mnemonic": "Прийти к решению после речи и сна — вот тебе reach a decision."
     },
     {
       "term": "on impulse",
       "translation": "под влиянием порыва",
-      "example": "I avoid making decisions on impulse."
+      "example": "I avoid making decisions on impulse.",
+      "keyword": "поле",
+      "mnemonic": "Не решаю под влиянием порыва в поле — вот тебе on impulse."
     },
     {
       "term": "assess outcomes",
       "translation": "оценивать возможные исходы",
-      "example": "I assess all possible outcomes before making a decision."
+      "example": "I assess all possible outcomes before making a decision.",
+      "keyword": "сессия",
+      "mnemonic": "Оценивать возможные исходы перед сессией решений — вот тебе assess outcomes."
     },
     {
       "term": "sleep on it",
       "translation": "переспать с мыслью (отложить решение)",
-      "example": "Think it over, sleep on it — don't decide in a split second."
+      "example": "Think it over, sleep on it — don't decide in a split second.",
+      "keyword": "сливки",
+      "mnemonic": "Отложи решение, поешь сливки и переспи с мыслью — вот тебе sleep on it."
     },
     {
       "term": "think better of",
       "translation": "передумать, одуматься",
-      "example": "I thought better of lending him money."
+      "example": "I thought better of lending him money.",
+      "keyword": "синяк",
+      "mnemonic": "Передумал давать в долг, получив синяк опыта, — вот тебе think better of."
     },
     {
       "term": "torn between",
       "translation": "разрываться между",
-      "example": "I'm torn between staying or leaving."
+      "example": "I'm torn between staying or leaving.",
+      "keyword": "торт",
+      "mnemonic": "Разрываюсь между тортом и отъездом — вот тебе torn between."
     },
     {
       "term": "in a split second",
       "translation": "в долю секунды",
-      "example": "Do you decide what pizza you want in a split second?"
+      "example": "Do you decide what pizza you want in a split second?",
+      "keyword": "сплетня",
+      "mnemonic": "В долю секунды выбрать пиццу после сплетни — вот тебе in a split second."
     },
     {
       "term": "undecided",
       "translation": "нерешивший, колеблющийся",
-      "example": "Are you undecided for ages before big decisions?"
+      "example": "Are you undecided for ages before big decisions?",
+      "keyword": "дядя",
+      "mnemonic": "Нерешивший колеблющийся дядя перед решением — вот тебе undecided."
     },
     {
       "term": "without hesitation",
       "translation": "не колеблясь",
-      "example": "If I'm sure, I'll decide quickly, without hesitation."
+      "example": "If I'm sure, I'll decide quickly, without hesitation.",
+      "keyword": "хозяйка",
+      "mnemonic": "Не колеблясь решает хозяйка быстро — вот тебе without hesitation."
     }
   ]
 }

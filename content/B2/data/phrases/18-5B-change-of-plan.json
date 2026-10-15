@@ -5,42 +5,58 @@
     {
       "phrase": "change career",
       "translation": "сменить карьеру",
-      "example": "She decided to change career at forty."
+      "example": "She decided to change career at forty.",
+      "keyword": "карьер",
+      "mnemonic": "Решила сменить карьеру — свернула в карьер: change career at forty."
     },
     {
       "phrase": "climb the ladder",
       "translation": "двигаться по карьерной лестнице",
-      "example": "He wants to climb the ladder quickly."
+      "example": "He wants to climb the ladder quickly.",
+      "keyword": "леддер",
+      "mnemonic": "Хочет быстро влезть по лестнице — карабкается по леддеру: climb the ladder."
     },
     {
       "phrase": "side hustle",
       "translation": "подработка",
-      "example": "Many people have a side hustle nowadays."
+      "example": "Many people have a side hustle nowadays.",
+      "keyword": "хастл",
+      "mnemonic": "У многих теперь подработка — крутятся в хастле: have a side hustle nowadays."
     },
     {
       "phrase": "set up your own business",
       "translation": "открыть своё дело",
-      "example": "She set up her own business after retraining."
+      "example": "She set up her own business after retraining.",
+      "keyword": "сетап",
+      "mnemonic": "Открыла своё дело после переквалификации — сетап готов: set up her own business."
     },
     {
       "phrase": "start out as",
       "translation": "начинать карьеру как",
-      "example": "He started out as an investment banker."
+      "example": "He started out as an investment banker.",
+      "keyword": "стартёр",
+      "mnemonic": "Начинал инвестбанкиром — крутил стартёр: started out as a banker."
     },
     {
       "phrase": "retrain as",
       "translation": "переучиться на",
-      "example": "He retrained as an accountant in his thirties."
+      "example": "He retrained as an accountant in his thirties.",
+      "keyword": "ретрит",
+      "mnemonic": "Переучился на бухгалтера после ретрита: retrained as an accountant."
     },
     {
       "phrase": "branch out",
       "translation": "осваивать новые направления",
-      "example": "Many workers branch out into new careers."
+      "example": "Many workers branch out into new careers.",
+      "keyword": "бранч",
+      "mnemonic": "Осваивают новые карьеры — за бранчем: branch out into new careers."
     },
     {
       "phrase": "change your mind",
       "translation": "передумать",
-      "example": "She changed her mind halfway through training."
+      "example": "She changed her mind halfway through training.",
+      "keyword": "мина",
+      "mnemonic": "Передумала посреди тренинга — наступила на мину: changed her mind, передумать."
     }
   ]
 }

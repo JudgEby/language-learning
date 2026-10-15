@@ -2,20 +2,110 @@
   "lessonId": "a-place-to-stay",
   "title": "A place to stay — новые слова",
   "items": [
-    { "term": "a living room", "translation": "гостиная", "example": "There's a sofa and a table in the living room." },
-    { "term": "a bedroom", "translation": "спальня", "example": "There are three bedrooms in the apartment." },
-    { "term": "a kitchen", "translation": "кухня", "example": "There's no separate kitchen, but there's a small one." },
-    { "term": "a bathroom", "translation": "ванная", "example": "We've got a bathroom and two bedrooms." },
-    { "term": "a balcony", "translation": "балкон", "example": "It's important for me to have a balcony or a garden." },
-    { "term": "a terrace", "translation": "терраса", "example": "We have lunch on the terrace — but it's very hot at midday." },
-    { "term": "a roof terrace", "translation": "терраса на крыше", "example": "The flat has got a roof terrace." },
-    { "term": "a sofa", "translation": "диван", "example": "A sofa and an armchair are in the living room." },
-    { "term": "an armchair", "translation": "кресло", "example": "Buy an armchair for the living room." },
-    { "term": "a wardrobe", "translation": "шкаф", "example": "There's a big wardrobe in the bedroom." },
-    { "term": "a fridge", "translation": "холодильник", "example": "There's no fridge in the kitchen, but there's a small one." },
-    { "term": "a dishwasher", "translation": "посудомоечная машина", "example": "Is there a dishwasher? — Yes, and there's a washing machine too." },
-    { "term": "free WiFi", "translation": "бесплатный Wi-Fi", "example": "There's free WiFi in the apartment." },
-    { "term": "a garage", "translation": "гараж", "example": "There's a garage behind the house." },
-    { "term": "a garden", "translation": "сад", "example": "I'd like a flat with a small garden." }
+    {
+      "term": "a living room",
+      "translation": "гостиная",
+      "example": "There's a sofa and a table in the living room.",
+      "keyword": "ливень",
+      "mnemonic": "Гости прячутся от ливня в гостиной — это a living room."
+    },
+    {
+      "term": "a bedroom",
+      "translation": "спальня",
+      "example": "There are three bedrooms in the apartment.",
+      "keyword": "бедро",
+      "mnemonic": "Кот спит на бедре хозяина в спальне — это a bedroom."
+    },
+    {
+      "term": "a kitchen",
+      "translation": "кухня",
+      "example": "There's no separate kitchen, but there's a small one.",
+      "keyword": "кит",
+      "mnemonic": "Кит варит суп на кухне — вот a kitchen."
+    },
+    {
+      "term": "a bathroom",
+      "translation": "ванная",
+      "example": "We've got a bathroom and two bedrooms.",
+      "keyword": "бат",
+      "mnemonic": "Бейсболист с батом лезет в ванную — это a bathroom, ванная."
+    },
+    {
+      "term": "a balcony",
+      "translation": "балкон",
+      "example": "It's important for me to have a balcony or a garden.",
+      "keyword": "балка",
+      "mnemonic": "Акробат балансирует на балке у балкона — это a balcony."
+    },
+    {
+      "term": "a terrace",
+      "translation": "терраса",
+      "example": "We have lunch on the terrace — but it's very hot at midday.",
+      "keyword": "террариум",
+      "mnemonic": "Ящерица греется в террариуме на террасе — вот a terrace."
+    },
+    {
+      "term": "a roof terrace",
+      "translation": "терраса на крыше",
+      "example": "The flat has got a roof terrace.",
+      "keyword": "руф",
+      "mnemonic": "Голубь воркует «руф» на крыше — это a roof terrace, терраса на крыше."
+    },
+    {
+      "term": "a sofa",
+      "translation": "диван",
+      "example": "A sofa and an armchair are in the living room.",
+      "keyword": "софа",
+      "mnemonic": "Бабушка плюхается на софу — это a sofa, диван."
+    },
+    {
+      "term": "an armchair",
+      "translation": "кресло",
+      "example": "Buy an armchair for the living room.",
+      "keyword": "армия",
+      "mnemonic": "Армия плюшевых мишек сидит в кресле — это an armchair."
+    },
+    {
+      "term": "a wardrobe",
+      "translation": "шкаф",
+      "example": "There's a big wardrobe in the bedroom.",
+      "keyword": "воробей",
+      "mnemonic": "Воробей вьёт гнездо в шкафу — это a wardrobe."
+    },
+    {
+      "term": "a fridge",
+      "translation": "холодильник",
+      "example": "There's no fridge in the kitchen, but there's a small one.",
+      "keyword": "фриз",
+      "mnemonic": "Морозилка говорит «фриз» — там a fridge, холодильник."
+    },
+    {
+      "term": "a dishwasher",
+      "translation": "посудомоечная машина",
+      "example": "Is there a dishwasher? — Yes, and there's a washing machine too.",
+      "keyword": "душ",
+      "mnemonic": "Тарелки принимают душ в машине — это a dishwasher, посудомоечная машина."
+    },
+    {
+      "term": "free WiFi",
+      "translation": "бесплатный Wi-Fi",
+      "example": "There's free WiFi in the apartment.",
+      "keyword": "вайфай",
+      "mnemonic": "Попугай кричит «вайфай» — в квартире free WiFi, бесплатный Wi-Fi."
+    },
+    {
+      "term": "a garage",
+      "translation": "гараж",
+      "example": "There's a garage behind the house.",
+      "keyword": "гарь",
+      "mnemonic": "Механик выгребает гарь из гаража — вот a garage."
+    },
+    {
+      "term": "a garden",
+      "translation": "сад",
+      "example": "I'd like a flat with a small garden.",
+      "keyword": "гарден",
+      "mnemonic": "Садовник ставит табличку «гарден» — это a garden, сад."
+    }
   ]
 }

@@ -5,72 +5,100 @@
     {
       "idiom": "a shining example",
       "translation": "яркий пример",
-      "example": "Oprah is a shining example of overcoming hardship."
+      "example": "Oprah is a shining example of overcoming hardship.",
+      "keyword": "шайнинг",
+      "mnemonic": "Опра сияет как шайнинг-лампа: она яркий пример преодоления, — шайнинг светит a shining example."
     },
     {
       "idiom": "follow in someone's footsteps",
       "translation": "идти по стопам",
-      "example": "Kieran followed in his teacher's footsteps and chose science."
+      "example": "Kieran followed in his teacher's footsteps and chose science.",
+      "keyword": "фут",
+      "mnemonic": "Ученик встал в фут-следы учителя: он стал идти по стопам в науку, — фут топчет follow in someone's footsteps."
     },
     {
       "idiom": "a tower of strength",
       "translation": "надёжная опора",
-      "example": "Her grandmother was a tower of strength for the whole family."
+      "example": "Her grandmother was a tower of strength for the whole family.",
+      "keyword": "тауэр",
+      "mnemonic": "Бабушка как тауэр-башня: она надёжная опора семьи, — тауэр держит a tower of strength."
     },
     {
       "idiom": "a heart of gold",
       "translation": "золотое сердце",
-      "example": "Camille's father has a heart of gold and gives a lot to his family."
+      "example": "Camille's father has a heart of gold and gives a lot to his family.",
+      "keyword": "голд",
+      "mnemonic": "У отца голд-мотор в груди: у него золотое сердце, — голд стучит a heart of gold."
     },
     {
       "idiom": "rags to riches",
       "translation": "из грязи в князи",
-      "example": "Her rags-to-riches story inspires millions."
+      "example": "Her rags-to-riches story inspires millions.",
+      "keyword": "ричес",
+      "mnemonic": "Героиня сорвала ричес-джекпот: она прошла путь из грязи в князи, — ричес звенит rags to riches."
     },
     {
       "idiom": "against all odds",
       "translation": "вопреки всему",
-      "example": "He succeeded against all odds after a difficult childhood."
+      "example": "He succeeded against all odds after a difficult childhood.",
+      "keyword": "оддс",
+      "mnemonic": "Парень обыграл оддс-ставки: он победил вопреки всему, — оддс лопнули against all odds."
     },
     {
       "idiom": "lead by example",
       "translation": "вести личным примером",
-      "example": "Good parents lead by example."
+      "example": "Good parents lead by example.",
+      "keyword": "лид",
+      "mnemonic": "Родители взяли лид-роль: они стали вести личным примером, — лид ведёт lead by example."
     },
     {
       "idiom": "a self-made man",
       "translation": "человек, сделавший себя сам",
-      "example": "The businessman is a self-made man from a small town."
+      "example": "The businessman is a self-made man from a small town.",
+      "keyword": "селф-мейд",
+      "mnemonic": "Бизнесмен как селф-мейд конструктор: он человек, сделавший себя сам, — селф-мейд гудит a self-made man."
     },
     {
       "idiom": "down to earth",
       "translation": "приземлённый; простой",
-      "example": "Despite her fame, she stayed down to earth."
+      "example": "Despite her fame, she stayed down to earth.",
+      "keyword": "ёрс",
+      "mnemonic": "Звезда держит ёрс-почву: она приземлённая и простая, — ёрс держит down to earth."
     },
     {
       "idiom": "a ray of sunshine",
       "translation": "лучик света",
-      "example": "The young coach is a ray of sunshine for the team."
+      "example": "The young coach is a ray of sunshine for the team.",
+      "keyword": "рэй",
+      "mnemonic": "Тренер как рэй-луч: он лучик света для команды, — рэй греет a ray of sunshine."
     },
     {
       "idiom": "reach for the stars",
       "translation": "тянуться к звёздам",
-      "example": "Teachers who push us to reach for the stars change lives."
+      "example": "Teachers who push us to reach for the stars change lives.",
+      "keyword": "старс",
+      "mnemonic": "Учителя тянут к старс-небу: призывают тянуться к звёздам, — старс манит reach for the stars."
     },
     {
       "idiom": "a born leader",
       "translation": "прирождённый лидер",
-      "example": "Shackleton was a born leader in extreme conditions."
+      "example": "Shackleton was a born leader in extreme conditions.",
+      "keyword": "борн",
+      "mnemonic": "Шеклтон как борн-капитан: он прирождённый лидер в экстриме, — борн ведёт a born leader."
     },
     {
       "idiom": "wear one's heart on one's sleeve",
       "translation": "не скрывать чувств",
-      "example": "She wears her heart on her sleeve and inspires trust."
+      "example": "She wears her heart on her sleeve and inspires trust.",
+      "keyword": "слив",
+      "mnemonic": "Она пришила сердце на слив-рукав: она стала не скрывать чувств, — слив реет wear one's heart on one's sleeve."
     },
     {
       "idiom": "the sky's the limit",
       "translation": "нет предела",
-      "example": "For his parents, the sky was the limit for their son."
+      "example": "For his parents, the sky was the limit for their son.",
+      "keyword": "скай",
+      "mnemonic": "Родители открыли сыну скай-небо: для него нет предела, — скай манит the sky's the limit."
     }
   ]
 }

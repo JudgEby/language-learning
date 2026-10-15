@@ -5,37 +5,51 @@
     {
       "idiom": "book in advance",
       "translation": "бронировать заранее",
-      "example": "Book the boat tour in advance."
+      "example": "Book the boat tour in advance.",
+      "keyword": "буклет",
+      "mnemonic": "Турист машет буклетом: book in advance — бронировать заранее."
     },
     {
       "idiom": "leaves on time",
       "translation": "отправляется вовремя",
-      "example": "The minibus leaves on time at nine."
+      "example": "The minibus leaves on time at nine.",
+      "keyword": "листва",
+      "mnemonic": "Автобус шуршит листвой: leaves on time — отправляется вовремя."
     },
     {
       "idiom": "runs every hour",
       "translation": "ходит каждый час",
-      "example": "The bus tour runs every hour."
+      "example": "The bus tour runs every hour.",
+      "keyword": "ранчо",
+      "mnemonic": "Автобус скачет как на ранчо: runs every hour — ходит каждый час."
     },
     {
       "idiom": "Sorry, I didn't catch that",
       "translation": "Извините, я не расслышал",
-      "example": "Sorry, I didn't catch that. Could you repeat it?"
+      "example": "Sorry, I didn't catch that. Could you repeat it?",
+      "keyword": "кетчуп",
+      "mnemonic": "Турист облился кетчупом: sorry, I didn't catch that — извините, я не расслышал."
     },
     {
       "idiom": "What time do you close?",
       "translation": "Во сколько вы закрываетесь?",
-      "example": "What time do you close on Sundays?"
+      "example": "What time do you close on Sundays?",
+      "keyword": "клумба",
+      "mnemonic": "Сторож с клумбой спрашивает what time do you close — во сколько вы закрываетесь."
     },
     {
       "idiom": "Is it far from here?",
       "translation": "Это далеко отсюда?",
-      "example": "Is the pier far from here?"
+      "example": "Is the pier far from here?",
+      "keyword": "фарш",
+      "mnemonic": "Турист с фаршем в руках ищет пирс: is it far from here — это далеко отсюда."
     },
     {
       "idiom": "a guided tour",
       "translation": "экскурсия с гидом",
-      "example": "We took a guided tour of San Francisco."
+      "example": "We took a guided tour of San Francisco.",
+      "keyword": "гайка",
+      "mnemonic": "Гид чинит автобус гайкой: a guided tour — экскурсия с гидом."
     }
   ]
 }

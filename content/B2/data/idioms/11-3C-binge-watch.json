@@ -5,12 +5,16 @@
     {
       "idiom": "couch potato",
       "translation": "любитель полежать перед ТВ",
-      "example": "I became a total couch potato last winter."
+      "example": "I became a total couch potato last winter.",
+      "keyword": "пюре",
+      "mnemonic": "Стал диванным клубнем — ест пюре: became a total couch potato."
     },
     {
       "idiom": "on the edge of your seat",
       "translation": "в напряжении",
-      "example": "The thriller kept me on the edge of my seat."
+      "example": "The thriller kept me on the edge of my seat.",
+      "keyword": "ёж",
+      "mnemonic": "Триллер держал в напряжении — сидел, как на еже: edge of my seat."
     }
   ]
 }

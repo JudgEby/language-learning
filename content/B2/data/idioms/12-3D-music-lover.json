@@ -5,12 +5,16 @@
     {
       "idiom": "face the music",
       "translation": "принять последствия",
-      "example": "You'll have to face the music eventually."
+      "example": "You'll have to face the music eventually.",
+      "keyword": "фейс",
+      "mnemonic": "Придётся принять последствия — сделай фейс: face the music."
     },
     {
       "idiom": "music to my ears",
       "translation": "музыка для моих ушей",
-      "example": "That news was music to my ears."
+      "example": "That news was music to my ears.",
+      "keyword": "ирокез",
+      "mnemonic": "Новость — музыка для ушей: шевельнул ирокезом: music to my ears."
     }
   ]
 }

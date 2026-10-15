@@ -5,117 +5,163 @@
     {
       "term": "blurred",
       "translation": "размытый, нечёткий",
-      "example": "The photo was too blurred to use."
+      "example": "The photo was too blurred to use.",
+      "keyword": "блудный",
+      "mnemonic": "Размытое нечёткое фото блудного сына — вот тебе blurred."
     },
     {
       "term": "in focus",
       "translation": "в фокусе, чёткий",
-      "example": "Make sure the subject is in focus."
+      "example": "Make sure the subject is in focus.",
+      "keyword": "фикус",
+      "mnemonic": "Чёткий в фокусе фикус в кадре — вот тебе in focus."
     },
     {
       "term": "foreground",
       "translation": "передний план",
-      "example": "The flower is in the foreground."
+      "example": "The flower is in the foreground.",
+      "keyword": "фартук",
+      "mnemonic": "Цветок на переднем плане в фартуке — вот тебе foreground."
     },
     {
       "term": "background",
       "translation": "фон, задний план",
-      "example": "I don't like the clutter in the background."
+      "example": "I don't like the clutter in the background.",
+      "keyword": "бак",
+      "mnemonic": "Хлам на фоне и заднем плане валяется в баке — вот тебе background."
     },
     {
       "term": "composition",
       "translation": "композиция",
-      "example": "The composition of this photo is stunning."
+      "example": "The composition of this photo is stunning.",
+      "keyword": "компот",
+      "mnemonic": "Потрясающая композиция из компота — вот тебе composition."
     },
     {
       "term": "zoom in",
       "translation": "приблизить",
-      "example": "Zoom in to see the details."
+      "example": "Zoom in to see the details.",
+      "keyword": "зуб",
+      "mnemonic": "Приблизить детали зуба — вот тебе zoom in."
     },
     {
       "term": "zoom out",
       "translation": "отдалить",
-      "example": "Zoom out so we can see the whole view."
+      "example": "Zoom out so we can see the whole view.",
+      "keyword": "зуб вон",
+      "mnemonic": "Отдалить вид — зуб вон изо рта, вот тебе zoom out."
     },
     {
       "term": "frame",
       "translation": "кадрировать, обрамлять",
-      "example": "Frame the shot so the subject is centred."
+      "example": "Frame the shot so the subject is centred.",
+      "keyword": "фрамуга",
+      "mnemonic": "Кадрировать и обрамлять кадр во фрамуге окна — вот тебе frame."
     },
     {
       "term": "close-up",
       "translation": "крупный план",
-      "example": "She took a close-up of the cat's face."
+      "example": "She took a close-up of the cat's face.",
+      "keyword": "клоун",
+      "mnemonic": "Крупный план морды кота-клоуна — вот тебе close-up."
     },
     {
       "term": "pose",
       "translation": "позировать",
-      "example": "He asked me to pose by the window."
+      "example": "He asked me to pose by the window.",
+      "keyword": "пузо",
+      "mnemonic": "Позировать у окна, выпятив пузо, — вот тебе pose."
     },
     {
       "term": "shot",
       "translation": "снимок, кадр",
-      "example": "That's a great shot of the sunset."
+      "example": "That's a great shot of the sunset.",
+      "keyword": "шут",
+      "mnemonic": "Отличный снимок заката с шутом в кадре — вот тебе shot."
     },
     {
       "term": "restrict",
       "translation": "ограничивать",
-      "example": "If photos are restricted to one a day, they are limited."
+      "example": "If photos are restricted to one a day, they are limited.",
+      "keyword": "арест",
+      "mnemonic": "Ограничивать фото арестом — одно в день, вот тебе restrict."
     },
     {
       "term": "prohibit",
       "translation": "запрещать",
-      "example": "Popular tourist sites have decided to prohibit selfies."
+      "example": "Popular tourist sites have decided to prohibit selfies.",
+      "keyword": "профи бит",
+      "mnemonic": "Запрещать селфи — профи бит охраной, вот тебе prohibit."
     },
     {
       "term": "eliminate",
       "translation": "устранять",
-      "example": "New technology will eliminate the need to save photos."
+      "example": "New technology will eliminate the need to save photos.",
+      "keyword": "иллюминатор",
+      "mnemonic": "Новая технология устраняет нужду через иллюминатор — вот тебе eliminate."
     },
     {
       "term": "implement",
       "translation": "внедрять, осуществлять",
-      "example": "They need to work together to implement such a rule."
+      "example": "They need to work together to implement such a rule.",
+      "keyword": "имплант",
+      "mnemonic": "Внедрять и осуществлять правило с имплантом вместе — вот тебе implement."
     },
     {
       "term": "impose",
       "translation": "навязывать, вводить (правило)",
-      "example": "Manufacturers might not want to impose such a rule."
+      "example": "Manufacturers might not want to impose such a rule.",
+      "keyword": "импозантный",
+      "mnemonic": "Навязывать и вводить правило, как импозантный директор, — вот тебе impose."
     },
     {
       "term": "regulate",
       "translation": "регулировать",
-      "example": "Individuals should regulate their own behaviour."
+      "example": "Individuals should regulate their own behaviour.",
+      "keyword": "регата",
+      "mnemonic": "Регулировать поведение на регате — вот тебе regulate."
     },
     {
       "term": "deter",
       "translation": "удерживать, отпугивать",
-      "example": "Fences deter tourists from climbing on the monuments."
+      "example": "Fences deter tourists from climbing on the monuments.",
+      "keyword": "дети",
+      "mnemonic": "Забор удерживает и отпугивает туристов, как детей от памятников, — вот тебе deter."
     },
     {
       "term": "abolish",
       "translation": "отменять",
-      "example": "The school decided to abolish the old photography rule."
+      "example": "The school decided to abolish the old photography rule.",
+      "keyword": "болид",
+      "mnemonic": "Старое правило отменили ради болида — вот тебе abolish."
     },
     {
       "term": "impulsive",
       "translation": "импульсивный (синоним: spontaneous)",
-      "example": "Some sites banned photography because of impulsive visitors."
+      "example": "Some sites banned photography because of impulsive visitors.",
+      "keyword": "по полю",
+      "mnemonic": "Импульсивные гости носятся по полю с камерами — вот тебе impulsive."
     },
     {
       "term": "private",
       "translation": "скрытный (синоним: secretive)",
-      "example": "Some people are private and don't like attention."
+      "example": "Some people are private and don't like attention.",
+      "keyword": "приват",
+      "mnemonic": "Скрытные люди любят приват без внимания — вот тебе private."
     },
     {
       "term": "impoverished",
       "translation": "обнищавший (синоним: deprived)",
-      "example": "A photo of an impoverished person sitting in the street."
+      "example": "A photo of an impoverished person sitting in the street.",
+      "keyword": "поверь",
+      "mnemonic": "Обнищавший на улице — поверь, ему тяжело, вот тебе impoverished."
     },
     {
       "term": "inquisitive",
       "translation": "любознательный (синоним: nosy)",
-      "example": "Being inquisitive is a positive trait in a photographer."
+      "example": "Being inquisitive is a positive trait in a photographer.",
+      "keyword": "инквизитор",
+      "mnemonic": "Любознательный инквизитор с камерой — вот тебе inquisitive."
     }
   ]
 }

@@ -5,92 +5,128 @@
     {
       "phrase": "suit the local palate",
       "translation": "соответствовать местному вкусу",
-      "example": "Abroad, pizza is changed to suit the local palate."
+      "example": "Abroad, pizza is changed to suit the local palate.",
+      "keyword": "палитра",
+      "mnemonic": "Художник подобрал палитру, чтобы пицца стала соответствовать местному вкусу, — палитра решает suit the local palate."
     },
     {
       "phrase": "travel abroad",
       "translation": "путешествовать за границу",
-      "example": "When food travels abroad, it changes to fit local tastes."
+      "example": "When food travels abroad, it changes to fit local tastes.",
+      "keyword": "брод",
+      "mnemonic": "Турист пошёл вброд через реку, чтобы путешествовать за границу, — брод ведёт travel abroad."
     },
     {
       "phrase": "go around the world",
       "translation": "объехать мир",
-      "example": "Go around the world and ask people about their favourite food."
+      "example": "Go around the world and ask people about their favourite food.",
+      "keyword": "раунд",
+      "mnemonic": "Боксёр выиграл раунд и на призовые смог объехать мир, — раунд крутит go around the world."
     },
     {
       "phrase": "packed full of coconut",
       "translation": "полный кокоса",
-      "example": "The Costa Rican pizza is packed full of coconut trees' fruit."
+      "example": "The Costa Rican pizza is packed full of coconut trees' fruit.",
+      "keyword": "пак",
+      "mnemonic": "Пицца лопнула от начинки: целый пак кокоса внутри, она полный кокоса, — пак набит packed full of coconut."
     },
     {
       "phrase": "be a best-seller",
       "translation": "быть хитом продаж",
-      "example": "The banana curry pizza is actually a best-seller in Sweden."
+      "example": "The banana curry pizza is actually a best-seller in Sweden.",
+      "keyword": "бест",
+      "mnemonic": "Пицца взяла бест-номинацию и стала быть хитом продаж, — бест тянет be a best-seller."
     },
     {
       "phrase": "spread by migrants",
       "translation": "распространяться мигрантами",
-      "example": "Pizza was spread by migrants in the nineteenth century."
+      "example": "Pizza was spread by migrants in the nineteenth century.",
+      "keyword": "спред",
+      "mnemonic": "Мигранты намазали спред по карте, и пицца стала распространяться мигрантами, — спред мажет spread by migrants."
     },
     {
       "phrase": "to all four corners of the globe",
       "translation": "во все уголки мира",
-      "example": "Businesses carried pizza to all four corners of the globe."
+      "example": "Businesses carried pizza to all four corners of the globe.",
+      "keyword": "глобус",
+      "mnemonic": "Бизнес крутанул глобус, чтобы развезти пиццу во все уголки мира, — глобус крутится в to all four corners of the globe."
     },
     {
       "phrase": "originated in Central America",
       "translation": "происходить из Центральной Америки",
-      "example": "The tomato originated in Central and South America."
+      "example": "The tomato originated in Central and South America.",
+      "keyword": "оригинал",
+      "mnemonic": "Томат предъявил оригинал паспорта, чтобы доказать, что происходит из Центральной Америки, — оригинал подтверждает originated in Central America."
     },
     {
       "phrase": "introduced from faraway lands",
       "translation": "завезённый из дальних стран",
-      "example": "Many staple foods were introduced from faraway lands."
+      "example": "Many staple foods were introduced from faraway lands.",
+      "keyword": "ленд",
+      "mnemonic": "Индюк прилетел из дальних лендов: он завезённый из дальних стран, — ленд помнит introduced from faraway lands."
     },
     {
       "phrase": "deep-fried fish in batter",
       "translation": "рыба во фритюре в кляре",
-      "example": "There is nothing more British than deep-fried fish in batter with chips."
+      "example": "There is nothing more British than deep-fried fish in batter with chips.",
+      "keyword": "баттер",
+      "mnemonic": "Рыба прыгнула с баттер-горки прямо в масло: вот тебе рыба во фритюре в кляре, — баттер шипит deep-fried fish in batter."
     },
     {
       "phrase": "remove trade barriers",
       "translation": "устранять торговые барьеры",
-      "example": "Economic integration is removing trade barriers between countries."
+      "example": "Economic integration is removing trade barriers between countries.",
+      "keyword": "трейд",
+      "mnemonic": "Торговец пригнал трейд-фургон, чтобы устранять торговые барьеры на границе, — трейд рулит remove trade barriers."
     },
     {
       "phrase": "enjoy new and exciting foods",
       "translation": "наслаждаться новыми блюдами",
-      "example": "Globalisation lets us enjoy new and exciting foods from abroad."
+      "example": "Globalisation lets us enjoy new and exciting foods from abroad.",
+      "keyword": "эксайт",
+      "mnemonic": "Турист поймал эксайт и стал наслаждаться новыми блюдами от души, — эксайт искрит enjoy new and exciting foods."
     },
     {
       "phrase": "loss of local culture",
       "translation": "утрата местной культуры",
-      "example": "A loss of local culture is one criticism of food globalisation."
+      "example": "A loss of local culture is one criticism of food globalisation.",
+      "keyword": "лось",
+      "mnemonic": "Лось забрёл в деревню: вот тебе утрата местной культуры в рогах, — лось топчет loss of local culture."
     },
     {
       "phrase": "fall foul of appropriation",
       "translation": "попасться на присвоении",
-      "example": "Restaurant owners can fall foul of cultural appropriation."
+      "example": "Restaurant owners can fall foul of cultural appropriation.",
+      "keyword": "фаул",
+      "mnemonic": "Ресторатор схлопотал фаул от судьи и попался на присвоении рецепта, — фаул свистит fall foul of appropriation."
     },
     {
       "phrase": "claim it elevates the food",
       "translation": "утверждать, что облагораживает блюдо",
-      "example": "They add ingredients, claiming it elevates the food."
+      "example": "They add ingredients, claiming it elevates the food.",
+      "keyword": "элеватор",
+      "mnemonic": "Повар поднял блюдо на элеваторе и стал утверждать, что облагораживает блюдо, — элеватор вознёс claim it elevates the food."
     },
     {
       "phrase": "learn about its origins",
       "translation": "узнавать о происхождении",
-      "example": "Use foreign food as a chance to learn about its origins."
+      "example": "Use foreign food as a chance to learn about its origins.",
+      "keyword": "ориджин",
+      "mnemonic": "Турист копает ориджин томата, чтобы узнавать о происхождении блюда, — ориджин раскрывает learn about its origins."
     },
     {
       "phrase": "be 100 percent authentic",
       "translation": "быть полностью подлинным",
-      "example": "Buy from locals, so the food is 100 percent authentic."
+      "example": "Buy from locals, so the food is 100 percent authentic.",
+      "keyword": "цент",
+      "mnemonic": "Монета в сто центов доказывает, что еда может быть полностью подлинной, — цент звенит be 100 percent authentic."
     },
     {
       "phrase": "profit from the food",
       "translation": "получать прибыль от еды",
-      "example": "Those people are the ones who should profit from the food."
+      "example": "Those people are the ones who should profit from the food.",
+      "keyword": "профит",
+      "mnemonic": "Повар подсчитал профит и стал получать прибыль от еды каждый день, — профит капает profit from the food."
     }
   ]
 }

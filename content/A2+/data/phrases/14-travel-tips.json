@@ -5,52 +5,72 @@
     {
       "phrase": "You should try…",
       "translation": "Тебе стоит попробовать…",
-      "example": "You should try the local street food — it's delicious!"
+      "example": "You should try the local street food — it's delicious!",
+      "keyword": "трико",
+      "mnemonic": "Турист в трико советует You should try… — Тебе стоит попробовать уличную еду, вкусно."
     },
     {
       "phrase": "It's worth visiting…",
       "translation": "Стоит посетить…",
-      "example": "It's worth visiting the old town — the architecture is amazing."
+      "example": "It's worth visiting the old town — the architecture is amazing.",
+      "keyword": "творог",
+      "mnemonic": "С творогом у старого города — It's worth visiting… — Стоит посетить старый город, архитектура чудо."
     },
     {
       "phrase": "Remember to…",
       "translation": "Не забудь…",
-      "example": "Remember to take some cash — not everywhere accepts cards."
+      "example": "Remember to take some cash — not everywhere accepts cards.",
+      "keyword": "мрамор",
+      "mnemonic": "С мраморной наличкой в кармане — Remember to… — Не забудь взять наличные, карты не везде."
     },
     {
       "phrase": "Don't forget to…",
       "translation": "Не забывай…",
-      "example": "Don't forget to validate your ticket before boarding the train."
+      "example": "Don't forget to validate your ticket before boarding the train.",
+      "keyword": "фагот",
+      "mnemonic": "Контролёр с фаготом гудит Don't forget to… — Не забывай компостировать билет до поезда."
     },
     {
       "phrase": "Make sure you…",
       "translation": "Убедись, что ты…",
-      "example": "Make sure you have a copy of your passport saved online."
+      "example": "Make sure you have a copy of your passport saved online.",
+      "keyword": "шуруп",
+      "mnemonic": "С шурупом и копией паспорта — Make sure you… — Убедись, что ты сохранил копию онлайн."
     },
     {
       "phrase": "You'd better…",
       "translation": "Тебе лучше…",
-      "example": "You'd better book a table in advance — the restaurant is very popular."
+      "example": "You'd better book a table in advance — the restaurant is very popular.",
+      "keyword": "батарея",
+      "mnemonic": "Метрдотель с батареей свечей — You'd better… — Тебе лучше бронировать стол заранее, ресторан популярен."
     },
     {
       "phrase": "Try to avoid…",
       "translation": "Постарайся избегать…",
-      "example": "Try to avoid travelling during rush hour."
+      "example": "Try to avoid travelling during rush hour.",
+      "keyword": "авось",
+      "mnemonic": "С авоськой в час пик — Try to avoid… — Постарайся избегать поездок в час пик."
     },
     {
       "phrase": "Do you travel light?",
       "translation": "Ты путешествуешь налегке?",
-      "example": "Do you travel light? What do you usually pack?"
+      "example": "Do you travel light? What do you usually pack?",
+      "keyword": "лайт",
+      "mnemonic": "Турист с лайтовым рюкзаком — Do you travel light? — Ты путешествуешь налегке, что пакуешь."
     },
     {
       "phrase": "I love taking photos",
       "translation": "Я обожаю фотографировать",
-      "example": "I love taking photos. I put them on my Facebook page when I get back."
+      "example": "I love taking photos. I put them on my Facebook page when I get back.",
+      "keyword": "пафос",
+      "mnemonic": "С пафосом щёлкает затвором — I love taking photos, Я обожаю фотографировать для Фейсбука."
     },
     {
       "phrase": "I've just got back from my trip to Poland",
       "translation": "Я только что вернулся из поездки в Польшу",
-      "example": "I've just got back from my trip to Poland. It was wonderful."
+      "example": "I've just got back from my trip to Poland. It was wonderful.",
+      "keyword": "полено",
+      "mnemonic": "С поленом из сувенирной лавки — I've just got back from my trip to Poland, Я только что вернулся из поездки в Польшу, было чудесно."
     }
   ]
 }

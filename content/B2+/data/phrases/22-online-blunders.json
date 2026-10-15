@@ -5,87 +5,121 @@
     {
       "phrase": "in the right",
       "translation": "быть правым",
-      "example": "I was sure I was in the right and everyone else was incorrect."
+      "example": "I was sure I was in the right and everyone else was incorrect.",
+      "keyword": "рай",
+      "mnemonic": "Он попал в рай для спорщиков, ведь умудрился быть правым во всём, — рай подтверждает in the right."
     },
     {
       "phrase": "rub someone up the wrong way",
       "translation": "раздражать кого-то",
-      "example": "I can't stand this presenter — the way she speaks really rubs me up the wrong way."
+      "example": "I can't stand this presenter — the way she speaks really rubs me up the wrong way.",
+      "keyword": "раб",
+      "mnemonic": "Ведущая пилит так, что даже раб микрофона стал раздражать кого-то вокруг, — раб ворчит rub someone up the wrong way."
     },
     {
       "phrase": "get into the wrong hands",
       "translation": "попасть не в те руки",
-      "example": "This knowledge is dangerous and must never get into the wrong hands."
+      "example": "This knowledge is dangerous and must never get into the wrong hands.",
+      "keyword": "хэнды",
+      "mnemonic": "Секретные хэнды-билеты грозят попасть не в те руки мошенников — хэнды прячут get into the wrong hands."
     },
     {
       "phrase": "on the right track",
       "translation": "на верном пути",
-      "example": "Things are going well with the project — we're on the right track so far."
+      "example": "Things are going well with the project — we're on the right track so far.",
+      "keyword": "трак",
+      "mnemonic": "Фура-трак гудит: мы на верном пути с проектом — трак держит on the right track."
     },
     {
       "phrase": "get the wrong end of the stick",
       "translation": "неправильно понять",
-      "example": "Jane got the wrong end of the stick and waited for me at the bus stop instead of the cinema."
+      "example": "Jane got the wrong end of the stick and waited for me at the bus stop instead of the cinema.",
+      "keyword": "стик",
+      "mnemonic": "Джейн схватила стик не с того конца и решила неправильно понять встречу — стик подвёл get the wrong end of the stick."
     },
     {
       "phrase": "go wrong",
       "translation": "пойти не так",
-      "example": "The wedding was planned carefully so that nothing would go wrong."
+      "example": "The wedding was planned carefully so that nothing would go wrong.",
+      "keyword": "гром",
+      "mnemonic": "Гром грянул, и свадьба пошла не так по всем пунктам — гром гремит go wrong."
     },
     {
       "phrase": "put something right",
       "translation": "исправить",
-      "example": "Once we know what mistake we made, we can put it right."
+      "example": "Once we know what mistake we made, we can put it right.",
+      "keyword": "райт",
+      "mnemonic": "Написали «райт» на ошибке и смогли исправить её одним росчерком — райт правит put something right."
     },
     {
       "phrase": "put someone right",
       "translation": "поправить кого-то",
-      "example": "Tom believed he was in charge, but I soon put him right."
+      "example": "Tom believed he was in charge, but I soon put him right.",
+      "keyword": "райсовет",
+      "mnemonic": "Райсовет вызвал Тома и вежливо решил поправить кого-то главного — райсовет поучает put someone right."
     },
     {
       "phrase": "accidentally",
       "translation": "случайно",
-      "example": "I accidentally invited all 3,000 staff to the party."
+      "example": "I accidentally invited all 3,000 staff to the party.",
+      "keyword": "дента",
+      "mnemonic": "Стоматолог-дента нажал не ту кнопку и случайно позвал весь завод — дента ойкает accidentally."
     },
     {
       "phrase": "by mistake",
       "translation": "по ошибке",
-      "example": "I tagged my ex in the photo by mistake."
+      "example": "I tagged my ex in the photo by mistake.",
+      "keyword": "мистика",
+      "mnemonic": "Настоящая мистика: по ошибке отметил бывшего на фото — мистика шепчет by mistake."
     },
     {
       "phrase": "mistakenly",
       "translation": "ошибочно",
-      "example": "I mistakenly sent out a confidential internal email."
+      "example": "I mistakenly sent out a confidential internal email.",
+      "keyword": "мостик",
+      "mnemonic": "Свернул на хлипкий мостик и ошибочно отправил секрет всем — мостик скрипит mistakenly."
     },
     {
       "phrase": "mistake someone for",
       "translation": "принять кого-то за кого-то",
-      "example": "I once mistook my new boss for the cleaner."
+      "example": "I once mistook my new boss for the cleaner.",
+      "keyword": "мистер",
+      "mnemonic": "Мистер в спецовке заставил принять кого-то за кого-то — босса за уборщика, а мистер кланяется mistake someone for."
     },
     {
       "phrase": "assume",
       "translation": "предполагать (синоним: presume)",
-      "example": "I made the assumption the plant was real."
+      "example": "I made the assumption the plant was real.",
+      "keyword": "сумка",
+      "mnemonic": "Я взглянул на сумку-цветок и стал предполагать, что растение живое, — сумка колется assume."
     },
     {
       "phrase": "mislead",
       "translation": "вводить в заблуждение",
-      "example": "The wording on the invitation misled him."
+      "example": "The wording on the invitation misled him.",
+      "keyword": "мислид",
+      "mnemonic": "Приглашение-мислид смогло вводить в заблуждение даже умника — мислид путает mislead."
     },
     {
       "phrase": "slip up",
       "translation": "оплошать, допустить промах",
-      "example": "I slipped up hugely when I was an intern."
+      "example": "I slipped up hugely when I was an intern.",
+      "keyword": "слип",
+      "mnemonic": "Стажёр поскользнулся на слипе тапочек и умудрился оплошать, допустить промах — слип скользит slip up."
     },
     {
       "phrase": "rectify",
       "translation": "исправлять (ситуацию)",
-      "example": "I've tried to rectify the situation."
+      "example": "I've tried to rectify the situation.",
+      "keyword": "ректификат",
+      "mnemonic": "Инженер достал ректификат спирта, чтобы исправлять ситуацию протиркой, — ректификат блестит rectify."
     },
     {
       "phrase": "off by",
       "translation": "ошибаться на (величину)",
-      "example": "My estimate was off by quite a lot."
+      "example": "My estimate was off by quite a lot.",
+      "keyword": "офсайд",
+      "mnemonic": "Судья свистнул офсайд: ты стал ошибаться на пару метров — офсайд фиксирует off by."
     }
   ]
 }

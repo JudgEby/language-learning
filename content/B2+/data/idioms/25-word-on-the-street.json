@@ -5,77 +5,107 @@
     {
       "idiom": "word of mouth",
       "translation": "сарафанное радио",
-      "example": "News of the new slang spread by word of mouth."
+      "example": "News of the new slang spread by word of mouth.",
+      "keyword": "маус",
+      "mnemonic": "Сленг разлетелся по маус-шепоту: работает сарафанное радио, — маус шепчет word of mouth."
     },
     {
       "idiom": "hear through the grapevine",
       "translation": "услышать через слухи",
-      "example": "I heard through the grapevine that they are changing the logo."
+      "example": "I heard through the grapevine that they are changing the logo.",
+      "keyword": "грейп",
+      "mnemonic": "Новость приползла по грейп-лозе: я смог услышать через слухи, — грейп вьётся hear through the grapevine."
     },
     {
       "idiom": "the talk of the town",
       "translation": "притча во языцех",
-      "example": "The emoji debate became the talk of the town."
+      "example": "The emoji debate became the talk of the town.",
+      "keyword": "таун",
+      "mnemonic": "Спор про эмодзи гудит на весь таун: это притча во языцех, — таун шумит the talk of the town."
     },
     {
       "idiom": "on everyone's lips",
       "translation": "у всех на устах",
-      "example": "The new buzzword is on everyone's lips."
+      "example": "The new buzzword is on everyone's lips.",
+      "keyword": "липс",
+      "mnemonic": "Словечко прилипло к липс-губам: оно у всех на устах, — липс шепчет on everyone's lips."
     },
     {
       "idiom": "lost in translation",
       "translation": "потеряно при переводе",
-      "example": "The joke was lost in translation between the two phones."
+      "example": "The joke was lost in translation between the two phones.",
+      "keyword": "транслейшн",
+      "mnemonic": "Шутка сгинула в транслейшн-трубе: она потеряна при переводе, — транслейшн глючит lost in translation."
     },
     {
       "idiom": "read between the lines",
       "translation": "читать между строк",
-      "example": "Read between the lines: she is not really joking."
+      "example": "Read between the lines: she is not really joking.",
+      "keyword": "лайнс",
+      "mnemonic": "Подмигивание прячется в лайнс-строчках: надо читать между строк, — лайнс намекает read between the lines."
     },
     {
       "idiom": "take at face value",
       "translation": "принимать за чистую монету",
-      "example": "Don't take every message at face value."
+      "example": "Don't take every message at face value.",
+      "keyword": "вэлью",
+      "mnemonic": "Сообщениям лепят вэлью-ценник: не надо принимать за чистую монету, — вэлью блестит take at face value."
     },
     {
       "idiom": "actions speak louder than words",
       "translation": "дела говорят громче слов",
-      "example": "He says he cares, but actions speak louder than words."
+      "example": "He says he cares, but actions speak louder than words.",
+      "keyword": "экшнс",
+      "mnemonic": "Поступки орут как экшнс-боевик: дела говорят громче слов, — экшнс гремит actions speak louder than words."
     },
     {
       "idiom": "get the message across",
       "translation": "донести мысль",
-      "example": "Emojis don't always get the message across."
+      "example": "Emojis don't always get the message across.",
+      "keyword": "месседж",
+      "mnemonic": "Эмодзи не тянут на месседж-курьера: они не могут донести мысль, — месседж буксует get the message across."
     },
     {
       "idiom": "straight from the horse's mouth",
       "translation": "из первых рук",
-      "example": "I heard it straight from the horse's mouth."
+      "example": "I heard it straight from the horse's mouth.",
+      "keyword": "хорс",
+      "mnemonic": "Новость ржёт как хорс-источник: она из первых рук, — хорс фыркает straight from the horse's mouth."
     },
     {
       "idiom": "catch on",
       "translation": "прижиться, стать популярным",
-      "example": "The new expression quickly caught on."
+      "example": "The new expression quickly caught on.",
+      "keyword": "кетч",
+      "mnemonic": "Выражение поймали на кетч-крючок: оно смогло прижиться и стать популярным, — кетч цепляет catch on."
     },
     {
       "idiom": "coin a term",
       "translation": "придумать термин",
-      "example": "Journalists coined a term for the trend."
+      "example": "Journalists coined a term for the trend.",
+      "keyword": "тёрм",
+      "mnemonic": "Журналисты отчеканили тёрм-медаль: они смогли придумать термин, — тёрм звенит coin a term."
     },
     {
       "idiom": "a play on words",
       "translation": "игра слов",
-      "example": "The headline is a clever play on words."
+      "example": "The headline is a clever play on words.",
+      "keyword": "плей",
+      "mnemonic": "Заголовок как плей-сцена: это умная игра слов, — плей шутит a play on words."
     },
     {
       "idiom": "have the last word",
       "translation": "оставить последнее слово за собой",
-      "example": "She always has to have the last word."
+      "example": "She always has to have the last word.",
+      "keyword": "ласт",
+      "mnemonic": "Спорщица тянет ласт-канат: она хочет оставить последнее слово за собой, — ласт скрипит have the last word."
     },
     {
       "idiom": "say a lot about",
       "translation": "многое говорить о",
-      "example": "Your emojis say a lot about you."
+      "example": "Your emojis say a lot about you.",
+      "keyword": "сей",
+      "mnemonic": "Эмодзи кричат «сей!»: они могут многое говорить о тебе, — сей болтает say a lot about."
     }
   ]
 }

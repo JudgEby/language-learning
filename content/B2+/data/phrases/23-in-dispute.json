@@ -5,87 +5,121 @@
     {
       "phrase": "This isn't really acceptable",
       "translation": "это совершенно неприемлемо",
-      "example": "This isn't really acceptable, the heating has not worked for weeks."
+      "example": "This isn't really acceptable, the heating has not worked for weeks.",
+      "keyword": "септики",
+      "mnemonic": "Отопление сдохло, септики замёрзли: это совершенно неприемлемо для дома — септики бурлят This isn't really acceptable."
     },
     {
       "phrase": "It isn't fair that",
       "translation": "несправедливо, что",
-      "example": "I don't think it's fair that I should be exhausted by your rehearsals."
+      "example": "I don't think it's fair that I should be exhausted by your rehearsals.",
+      "keyword": "ферма",
+      "mnemonic": "На ферме репетируют ночами: несправедливо, что я не сплю — ферма гудит It isn't fair that."
     },
     {
       "phrase": "It isn't reasonable to expect me to",
       "translation": "нельзя ожидать, что я",
-      "example": "It isn't reasonable to expect me to live without hot water."
+      "example": "It isn't reasonable to expect me to live without hot water.",
+      "keyword": "риэлтор",
+      "mnemonic": "Риэлтор разводит руками: нельзя ожидать, что я выживу без горячей воды — риэлтор вздыхает It isn't reasonable to expect me to."
     },
     {
       "phrase": "What I can do is",
       "translation": "что я могу сделать, так это",
-      "example": "What I can do is reduce the rent for two months."
+      "example": "What I can do is reduce the rent for two months.",
+      "keyword": "канду",
+      "mnemonic": "Хозяин чешет репу: что я могу сделать, так это скинуть аренду — канду обещает What I can do is."
     },
     {
       "phrase": "come to an arrangement about",
       "translation": "договориться о",
-      "example": "Maybe we could come to an arrangement about practice times."
+      "example": "Maybe we could come to an arrangement about practice times.",
+      "keyword": "аранжировка",
+      "mnemonic": "Сделали новую аранжировку репетиций и смогли договориться о времени — аранжировка звучит come to an arrangement about."
     },
     {
       "phrase": "That sounds like a good compromise",
       "translation": "звучит как хороший компромисс",
-      "example": "Two free tickets? That sounds like a good compromise to me."
+      "example": "Two free tickets? That sounds like a good compromise to me.",
+      "keyword": "компромат",
+      "mnemonic": "Два билета вместо скандала: звучит как хороший компромисс, а не компромат — компромат отдыхает в That sounds like a good compromise."
     },
     {
       "phrase": "I'd be happy with that",
       "translation": "меня это устроит",
-      "example": "A rent reduction of fifty percent? I'd be happy with that."
+      "example": "A rent reduction of fifty percent? I'd be happy with that.",
+      "keyword": "хэппи",
+      "mnemonic": "Скидка пятьдесят процентов — я уже хэппи: меня это устроит полностью — хэппи сияет I'd be happy with that."
     },
     {
       "phrase": "I can offer you",
       "translation": "я могу предложить вам",
-      "example": "I can offer you two free tickets to the gig."
+      "example": "I can offer you two free tickets to the gig.",
+      "keyword": "оферта",
+      "mnemonic": "Вручил оферту с билетами: я могу предложить вам два места — оферта машет I can offer you."
     },
     {
       "phrase": "That's acceptable to me",
       "translation": "меня это устраивает",
-      "example": "Alternative accommodation for a month? That's acceptable to me."
+      "example": "Alternative accommodation for a month? That's acceptable to me.",
+      "keyword": "септ",
+      "mnemonic": "Запасной септ-аккорд прозвучал: меня это устраивает насчёт жилья — септ подтверждает That's acceptable to me."
     },
     {
       "phrase": "make the most of",
       "translation": "извлечь максимум из",
-      "example": "They were determined to make the most of their new home."
+      "example": "They were determined to make the most of their new home.",
+      "keyword": "мост",
+      "mnemonic": "Из развалюхи построили мост к уюту: решили извлечь максимум из дома — мост ведёт make the most of."
     },
     {
       "phrase": "set about renovating",
       "translation": "приняться за ремонт",
-      "example": "They moved into a caravan and set about renovating the house."
+      "example": "They moved into a caravan and set about renovating the house.",
+      "keyword": "сетап",
+      "mnemonic": "Поставили сетап из инструментов и принялись за ремонт всерьёз — сетап гремит set about renovating."
     },
     {
       "phrase": "count themselves lucky",
       "translation": "считать себя везунчиками",
-      "example": "They should count themselves lucky to own a house so young."
+      "example": "They should count themselves lucky to own a house so young.",
+      "keyword": "лаки",
+      "mnemonic": "Молодые хозяева тянут лаки-билетик и могут считать себя везунчиками — лаки светится в count themselves lucky."
     },
     {
       "phrase": "feel for someone",
       "translation": "сочувствовать кому-то",
-      "example": "I really feel for them after that auction mistake."
+      "example": "I really feel for them after that auction mistake.",
+      "keyword": "фил",
+      "mnemonic": "Фил обнял пострадавших и стал сочувствовать кому-то после аукциона — фил плачет feel for someone."
     },
     {
       "phrase": "in the wrong location",
       "translation": "не в том месте",
-      "example": "Not only was the home in the wrong location, it was run-down."
+      "example": "Not only was the home in the wrong location, it was run-down.",
+      "keyword": "локатор",
+      "mnemonic": "Локатор пищит: дом не в том месте построили — локатор фиксирует in the wrong location."
     },
     {
       "phrase": "in bad condition",
       "translation": "в плохом состоянии",
-      "example": "The house was in very bad condition, with rotten wood."
+      "example": "The house was in very bad condition, with rotten wood.",
+      "keyword": "кондиция",
+      "mnemonic": "Дом потерял кондицию и оказался в плохом состоянии — кондиция хромает в in bad condition."
     },
     {
       "phrase": "move into a caravan",
       "translation": "переехать в фургон",
-      "example": "They moved into a caravan in the garden for two years."
+      "example": "They moved into a caravan in the garden for two years.",
+      "keyword": "караван",
+      "mnemonic": "Караван из одного фургона решил переехать в фургон в саду — караван трогается в move into a caravan."
     },
     {
       "phrase": "attend the auction",
       "translation": "пойти на аукцион",
-      "example": "He attended the auction on his own and misunderstood the auctioneer."
+      "example": "He attended the auction on his own and misunderstood the auctioneer.",
+      "keyword": "аукционер",
+      "mnemonic": "Рассеянный аукционер сам решил пойти на аукцион и всё перепутал — аукционер стучит attend the auction."
     }
   ]
 }

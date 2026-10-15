@@ -5,37 +5,51 @@
     {
       "idiom": "A single or return?",
       "translation": "В один конец или туда-обратно?",
-      "example": "A single or return to Oxford, please?"
+      "example": "A single or return to Oxford, please?",
+      "keyword": "сингл",
+      "mnemonic": "Кассир машет синглом: a single or return — в один конец или туда-обратно."
     },
     {
       "idiom": "Just looking, thanks",
       "translation": "Я просто смотрю, спасибо",
-      "example": "Can I help you? Just looking, thanks."
+      "example": "Can I help you? Just looking, thanks.",
+      "keyword": "лук",
+      "mnemonic": "Покупатель с луком в руках: just looking, thanks — я просто смотрю, спасибо."
     },
     {
       "idiom": "Here you go",
       "translation": "Вот, пожалуйста (передавая что-то)",
-      "example": "Here you go, one coffee and one sandwich."
+      "example": "Here you go, one coffee and one sandwich.",
+      "keyword": "горка",
+      "mnemonic": "Курьер скатился с горки с подносом: here you go — вот, пожалуйста."
     },
     {
       "idiom": "Keep the change",
       "translation": "Сдачи не надо",
-      "example": "Keep the change, please."
+      "example": "Keep the change, please.",
+      "keyword": "чин",
+      "mnemonic": "Важный чин бросает мелочь: keep the change — сдачи не надо."
     },
     {
       "idiom": "Could I have the bill?",
       "translation": "Можно счёт?",
-      "example": "Could I have the bill, please?"
+      "example": "Could I have the bill, please?",
+      "keyword": "билет",
+      "mnemonic": "Официант несёт билет вместо счёта: could I have the bill — можно счёт."
     },
     {
       "idiom": "on platform two",
       "translation": "на второй платформе",
-      "example": "Our train leaves from platform two."
+      "example": "Our train leaves from platform two.",
+      "keyword": "форма",
+      "mnemonic": "Проводник в форме кричит on platform two — на второй платформе."
     },
     {
       "idiom": "a coffee to go",
       "translation": "кофе с собой",
-      "example": "A coffee to go, please."
+      "example": "A coffee to go, please.",
+      "keyword": "гонка",
+      "mnemonic": "Бариста в гонке выдаёт стаканчик: a coffee to go — кофе с собой."
     }
   ]
 }

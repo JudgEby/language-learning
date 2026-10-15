@@ -5,17 +5,23 @@
     {
       "idiom": "back to the drawing board",
       "translation": "начать сначала",
-      "example": "The project failed — back to the drawing board."
+      "example": "The project failed — back to the drawing board.",
+      "keyword": "борд",
+      "mnemonic": "Проект провалился — назад к борду: back to the drawing board, начать сначала."
     },
     {
       "idiom": "get your foot in the door",
       "translation": "пробить себе дорогу",
-      "example": "An internship helped her get her foot in the door."
+      "example": "An internship helped her get her foot in the door.",
+      "keyword": "фут",
+      "mnemonic": "Стажировка помогла пробиться — вставь фут в дверь: get your foot in the door."
     },
     {
       "idiom": "take the plunge",
       "translation": "решиться на рискованный шаг",
-      "example": "We have all thought about changing careers, but what is it like to actually take the plunge?"
+      "example": "We have all thought about changing careers, but what is it like to actually take the plunge?",
+      "keyword": "планшет",
+      "mnemonic": "Думали о смене карьеры — прыгай с планшетом: take the plunge, рискованный шаг."
     }
   ]
 }

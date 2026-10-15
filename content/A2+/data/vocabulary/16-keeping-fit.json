@@ -2,17 +2,17 @@
   "lessonId": "keeping-fit",
   "title": "Keeping fit — новые слова",
   "items": [
-    { "term": "junk food", "translation": "вредная еда, фастфуд", "example": "I try to avoid junk food and eat more vegetables." },
-    { "term": "vitamins", "translation": "витамины", "example": "Fresh fruit and vegetables are full of vitamins." },
-    { "term": "exercise", "translation": "физическая нагрузка, упражнение", "example": "You should get at least 30 minutes of exercise every day." },
-    { "term": "go jogging", "translation": "бегать трусцой", "example": "I go jogging in the park every morning before work." },
-    { "term": "gym", "translation": "спортзал, тренажёрный зал", "example": "I go to the gym three times a week." },
-    { "term": "diet", "translation": "диета, режим питания", "example": "A balanced diet is important for good health." },
-    { "term": "keep fit", "translation": "поддерживать форму", "example": "Swimming is a great way to keep fit." },
-    { "term": "lose weight", "translation": "похудеть, сбросить вес", "example": "She wants to lose weight before the summer holidays." },
-    { "term": "personal trainer", "translation": "персональный тренер", "example": "My personal trainer helps me plan my workouts." },
-    { "term": "work out", "translation": "тренироваться, заниматься", "example": "I work out at the gym every evening." },
-    { "term": "stretching", "translation": "растяжка", "example": "Don't forget to do some stretching after your run." },
-    { "term": "energetic", "translation": "энергичный, бодрый", "example": "I feel more energetic when I exercise regularly." }
+    { "term": "junk food", "translation": "вредная еда, фастфуд", "example": "I try to avoid junk food and eat more vegetables.", "keyword": "жанр", "mnemonic": "Жанр «вредная еда» — try to avoid junk food, фастфуд." },
+    { "term": "vitamins", "translation": "витамины", "example": "Fresh fruit and vegetables are full of vitamins.", "keyword": "витамины", "mnemonic": "Фрукты полны витаминов — full of vitamins, витаминов." },
+    { "term": "exercise", "translation": "физическая нагрузка, упражнение", "example": "You should get at least 30 minutes of exercise every day.", "keyword": "экзерсис", "mnemonic": "Балетный экзерсис каждый день — 30 minutes of exercise, нагрузка." },
+    { "term": "go jogging", "translation": "бегать трусцой", "example": "I go jogging in the park every morning before work.", "keyword": "джоггинг", "mnemonic": "Утренний джоггинг в парке — I go jogging, бегаю трусцой." },
+    { "term": "gym", "translation": "спортзал, тренажёрный зал", "example": "I go to the gym three times a week.", "keyword": "жим", "mnemonic": "Жим лёжа три раза в неделю — go to the gym, в спортзал." },
+    { "term": "diet", "translation": "диета, режим питания", "example": "A balanced diet is important for good health.", "keyword": "диета", "mnemonic": "Сбалансированная диета — залог здоровья: a balanced diet важна." },
+    { "term": "keep fit", "translation": "поддерживать форму", "example": "Swimming is a great way to keep fit.", "keyword": "фит", "mnemonic": "Фит-браслет пищит от восторга — swimming is a way to keep fit, держать форму." },
+    { "term": "lose weight", "translation": "похудеть, сбросить вес", "example": "She wants to lose weight before the summer holidays.", "keyword": "вата", "mnemonic": "Вата вместо мышц к лету — wants to lose weight, похудеть." },
+    { "term": "personal trainer", "translation": "персональный тренер", "example": "My personal trainer helps me plan my workouts.", "keyword": "тренер", "mnemonic": "Персональный тренер планирует тренировки — my personal trainer помогает." },
+    { "term": "work out", "translation": "тренироваться, заниматься", "example": "I work out at the gym every evening.", "keyword": "воркаут", "mnemonic": "Вечерний воркаут в зале — I work out, тренируюсь." },
+    { "term": "stretching", "translation": "растяжка", "example": "Don't forget to do some stretching after your run.", "keyword": "стретчинг", "mnemonic": "Стретчинг после пробежки не забудь — do some stretching, растяжку." },
+    { "term": "energetic", "translation": "энергичный, бодрый", "example": "I feel more energetic when I exercise regularly.", "keyword": "энергия", "mnemonic": "Энергия прёт от тренировок — feel more energetic, бодрый." }
   ]
 }

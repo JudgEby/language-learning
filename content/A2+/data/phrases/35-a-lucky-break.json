@@ -5,47 +5,65 @@
     {
       "phrase": "If I won the lottery, I would...",
       "translation": "Если бы я выиграл в лотерею, я бы...",
-      "example": "If I won the lottery, I would travel around the world."
+      "example": "If I won the lottery, I would travel around the world.",
+      "keyword": "лата",
+      "mnemonic": "Мечтатель с латой на кармане — If I won the lottery, I would... — Если бы я выиграл в лотерею, объехал бы мир."
     },
     {
       "phrase": "What would you do if...?",
       "translation": "Что бы ты сделал, если бы...?",
-      "example": "What would you do if you became famous overnight?"
+      "example": "What would you do if you became famous overnight?",
+      "keyword": "вуду",
+      "mnemonic": "Шаман с вуду гадает What would you do if...? — Что бы ты сделал, если бы проснулся знаменитым."
     },
     {
       "phrase": "If I were you, I would...",
       "translation": "На твоём месте я бы...",
-      "example": "If I were you, I would take that acting class."
+      "example": "If I were you, I would take that acting class.",
+      "keyword": "вермишель",
+      "mnemonic": "Режиссёр с вермишелью советует If I were you, I would... — На твоём месте я бы пошёл на актёрский курс."
     },
     {
       "phrase": "If I could change one thing, I would...",
       "translation": "Если бы я мог изменить одну вещь, я бы...",
-      "example": "If I could change one thing, I would move to Los Angeles."
+      "example": "If I could change one thing, I would move to Los Angeles.",
+      "keyword": "чеснок",
+      "mnemonic": "Эмигрант с чесноком мечтает If I could change one thing, I would... — Если бы я мог изменить одну вещь, переехал бы в Лос-Анджелес."
     },
     {
       "phrase": "I would love to... if I had the chance",
       "translation": "Я бы очень хотел..., если бы был шанс",
-      "example": "I would love to star in a film if I had the chance."
+      "example": "I would love to star in a film if I had the chance.",
+      "keyword": "чечётка",
+      "mnemonic": "Старлетка бьёт чечётку — I would love to... if I had the chance, Я бы очень хотел сняться в кино, если бы был шанс."
     },
     {
       "phrase": "Would you ever...?",
       "translation": "Ты бы когда-нибудь...?",
-      "example": "Would you ever give up your career for fame?"
+      "example": "Would you ever give up your career for fame?",
+      "keyword": "эхо",
+      "mnemonic": "Эхо в горах славы переспрашивает Would you ever...? — Ты бы когда-нибудь бросил карьеру ради славы."
     },
     {
       "phrase": "If I was famous, I would be happy",
       "translation": "Если бы я был знаменитым, я был бы счастлив",
-      "example": "If I was famous, I would be happy."
+      "example": "If I was famous, I would be happy.",
+      "keyword": "феникс",
+      "mnemonic": "Феникс славы чирикает If I was famous, I would be happy — Если бы я был знаменитым, я был бы счастлив."
     },
     {
       "phrase": "If you had no money, what would you do?",
       "translation": "Что бы ты делал, если бы у тебя не было денег?",
-      "example": "If you had no money, what would you do?"
+      "example": "If you had no money, what would you do?",
+      "keyword": "манекен",
+      "mnemonic": "Бомж-манекен философствует If you had no money, what would you do? — Что бы ты делал, если бы у тебя не было денег."
     },
     {
       "phrase": "If you could have dinner with any two living people, who would you choose?",
       "translation": "С какими двумя ныне живущими людьми ты бы поужинал, если бы мог?",
-      "example": "If you could have dinner with any two living people, who would you choose?"
+      "example": "If you could have dinner with any two living people, who would you choose?",
+      "keyword": "динозавр",
+      "mnemonic": "С динозавром за столом гадают If you could have dinner with any two living people, who would you choose? — С какими двумя ныне живущими ты бы поужинал, если бы мог."
     }
   ]
 }

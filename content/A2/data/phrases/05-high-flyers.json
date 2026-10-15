@@ -2,17 +2,89 @@
   "lessonId": "high-flyers",
   "title": "High flyers — фразы",
   "items": [
-    { "phrase": "want to be a ...", "translation": "хотеть стать ...", "example": "Does she want to be a pilot?" },
-    { "phrase": "get up early", "translation": "вставать рано", "example": "Do you get up early? — Yes, I get up at six." },
-    { "phrase": "at four in the morning", "translation": "в четыре утра", "example": "Gagan gets up at four in the morning." },
-    { "phrase": "have a big breakfast", "translation": "плотно позавтракать", "example": "He has a big breakfast every morning." },
-    { "phrase": "go to work", "translation": "идти на работу", "example": "I go to work by bus every morning." },
-    { "phrase": "have lunch at ...", "translation": "обедать в ...", "example": "They have lunch at about one o'clock." },
-    { "phrase": "get home after work", "translation": "дойти домой после работы", "example": "When do you get home after work?" },
-    { "phrase": "What does your family think?", "translation": "Что думает твоя семья?", "example": "What does your family think about your job?" },
-    { "phrase": "find three things in common", "translation": "найти три общего", "example": "Find three things in common with your partner." },
-    { "phrase": "true or false", "translation": "правда или ложь", "example": "Pilar gets up early. — True." },
-    { "phrase": "go back", "translation": "возвращаться", "example": "They go home for two days, then go back." },
-    { "phrase": "work with ...", "translation": "работать с ...", "example": "Does he work with animals or with people?" }
+    {
+      "phrase": "want to be a ...",
+      "translation": "хотеть стать ...",
+      "example": "Does she want to be a pilot?",
+      "keyword": "вантуз",
+      "mnemonic": "Сантехник с вантузом мечтает want to be a pilot — хотеть стать пилотом."
+    },
+    {
+      "phrase": "get up early",
+      "translation": "вставать рано",
+      "example": "Do you get up early? — Yes, I get up at six.",
+      "keyword": "орлы",
+      "mnemonic": "Орлы встают рано: get up early — вставать рано."
+    },
+    {
+      "phrase": "at four in the morning",
+      "translation": "в четыре утра",
+      "example": "Gagan gets up at four in the morning.",
+      "keyword": "монинг",
+      "mnemonic": "Гаган пьёт монинг-кофе в четыре утра: at four in the morning — в четыре утра."
+    },
+    {
+      "phrase": "have a big breakfast",
+      "translation": "плотно позавтракать",
+      "example": "He has a big breakfast every morning.",
+      "keyword": "Рекс",
+      "mnemonic": "Пёс Рекс съедает big breakfast: have a big breakfast — плотно позавтракать."
+    },
+    {
+      "phrase": "go to work",
+      "translation": "идти на работу",
+      "example": "I go to work by bus every morning.",
+      "keyword": "Воркута",
+      "mnemonic": "Вся Воркута едет go to work — идти на работу."
+    },
+    {
+      "phrase": "have lunch at ...",
+      "translation": "обедать в ...",
+      "example": "They have lunch at about one o'clock.",
+      "keyword": "ланч",
+      "mnemonic": "Офис жуёт ланч: have lunch at one — обедать в час."
+    },
+    {
+      "phrase": "get home after work",
+      "translation": "дойти домой после работы",
+      "example": "When do you get home after work?",
+      "keyword": "хомяк",
+      "mnemonic": "Хомяк спешит get home after work — дойти домой после работы."
+    },
+    {
+      "phrase": "What does your family think?",
+      "translation": "Что думает твоя семья?",
+      "example": "What does your family think about your job?",
+      "keyword": "фамилия",
+      "mnemonic": "Вся фамилия думает: what does your family think — что думает твоя семья."
+    },
+    {
+      "phrase": "find three things in common",
+      "translation": "найти три общего",
+      "example": "Find three things in common with your partner.",
+      "keyword": "комод",
+      "mnemonic": "В комоде ищут find three things in common — найти три общего."
+    },
+    {
+      "phrase": "true or false",
+      "translation": "правда или ложь",
+      "example": "Pilar gets up early. — True.",
+      "keyword": "труба",
+      "mnemonic": "Труба гудит в ответ true or false — правда или ложь."
+    },
+    {
+      "phrase": "go back",
+      "translation": "возвращаться",
+      "example": "They go home for two days, then go back.",
+      "keyword": "бэк",
+      "mnemonic": "Диджей жмёт бэк: go back — возвращаться."
+    },
+    {
+      "phrase": "work with ...",
+      "translation": "работать с ...",
+      "example": "Does he work with animals or with people?",
+      "keyword": "волк",
+      "mnemonic": "Волк работает work with people — работать с людьми."
+    }
   ]
 }

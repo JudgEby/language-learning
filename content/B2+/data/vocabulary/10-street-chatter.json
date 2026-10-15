@@ -5,97 +5,135 @@
     {
       "term": "overhear",
       "translation": "нечаянно подслушать",
-      "example": "We listened to extracts from conversations overheard on the street."
+      "example": "We listened to extracts from conversations overheard on the street.",
+      "keyword": "ухо",
+      "mnemonic": "Нечаянно подслушал ухо на улице — вот тебе overhear."
     },
     {
       "term": "chatter",
       "translation": "болтовня, оживлённый разговор",
-      "example": "The programme finds poetry in city chatter."
+      "example": "The programme finds poetry in city chatter.",
+      "keyword": "трещит",
+      "mnemonic": "Оживлённая болтовня трещит стихами в городе — вот тебе chatter."
     },
     {
       "term": "poet",
       "translation": "поэт",
-      "example": "We talk to poet Imtiaz Dharker about where ideas come from."
+      "example": "We talk to poet Imtiaz Dharker about where ideas come from.",
+      "keyword": "поёт",
+      "mnemonic": "Поэт поёт про идеи на улице — вот тебе poet."
     },
     {
       "term": "inspiration",
       "translation": "вдохновение",
-      "example": "Where might a poet get their inspiration from?"
+      "example": "Where might a poet get their inspiration from?",
+      "keyword": "инспекция",
+      "mnemonic": "Вдохновение пришло с инспекцией к поэту — вот тебе inspiration."
     },
     {
       "term": "pay attention to",
       "translation": "обращать внимание на",
-      "example": "What does she pay attention to in the street?"
+      "example": "What does she pay attention to in the street?",
+      "keyword": "тётка",
+      "mnemonic": "Внимание на улице обращает тётка у ларька — вот тебе pay attention to."
     },
     {
       "term": "mud",
       "translation": "грязь",
-      "example": "There he was, covered in mud and looking at me."
+      "example": "There he was, covered in mud and looking at me.",
+      "keyword": "мудрец",
+      "mnemonic": "Весь в грязи лежит мудрец и смотрит на меня — вот тебе mud."
     },
     {
       "term": "pocket",
       "translation": "карман",
-      "example": "Then he realised it was in his pocket all the time."
+      "example": "Then he realised it was in his pocket all the time.",
+      "keyword": "пока",
+      "mnemonic": "Карман, где пока лежал телефон всё время, — вот тебе pocket."
     },
     {
       "term": "jam",
       "translation": "джем, варенье",
-      "example": "Who gets angry over jam? She does, apparently!"
+      "example": "Who gets angry over jam? She does, apparently!",
+      "keyword": "жим",
+      "mnemonic": "Из-за джема и варенья жмёт штангу и злится она — вот тебе jam."
     },
     {
       "term": "rhyme",
       "translation": "рифма",
-      "example": "The poem uses a lot of rhyming words."
+      "example": "The poem uses a lot of rhyming words.",
+      "keyword": "Рим",
+      "mnemonic": "Рифма про Рим в стихе — вот тебе rhyme."
     },
     {
       "term": "syllable",
       "translation": "слог",
-      "example": "All lines in the poem have the same number of syllables."
+      "example": "All lines in the poem have the same number of syllables.",
+      "keyword": "силища",
+      "mnemonic": "Слог с силищей в каждой строке — вот тебе syllable."
     },
     {
       "term": "repetition",
       "translation": "повторение",
-      "example": "Repetition is one of the typical features of a spoken-word poem."
+      "example": "Repetition is one of the typical features of a spoken-word poem.",
+      "keyword": "репетиция",
+      "mnemonic": "Повторение как репетиция устного стиха — вот тебе repetition."
     },
     {
       "term": "background music",
       "translation": "фоновая музыка",
-      "example": "The poem is performed with background music."
+      "example": "The poem is performed with background music.",
+      "keyword": "бак",
+      "mnemonic": "Фоновая музыка гудит из бака на выступлении — вот тебе background music."
     },
     {
       "term": "overall message",
       "translation": "общий смысл",
-      "example": "What do you think is the overall message of the poem?"
+      "example": "What do you think is the overall message of the poem?",
+      "keyword": "овал",
+      "mnemonic": "Общий смысл стиха в овале на доске — вот тебе overall message."
     },
     {
       "term": "relate to",
       "translation": "соотносить с собой, понимать",
-      "example": "Is this something you can relate to?"
+      "example": "Is this something you can relate to?",
+      "keyword": "реле",
+      "mnemonic": "Соотносишь с собой и понимаешь, щёлкнув реле, — вот тебе relate to."
     },
     {
       "term": "revise",
       "translation": "повторять материал, готовиться",
-      "example": "I spent ages revising for my English exam."
+      "example": "I spent ages revising for my English exam.",
+      "keyword": "ревизия",
+      "mnemonic": "Готовился к экзамену через ревизию тетрадей — вот тебе revise."
     },
     {
       "term": "irregular verb",
       "translation": "неправильный глагол",
-      "example": "I forgot to go over all the irregular verbs."
+      "example": "I forgot to go over all the irregular verbs.",
+      "keyword": "регулярно",
+      "mnemonic": "Неправильный глагол учит регулярно зубрить — вот тебе irregular verb."
     },
     {
       "term": "talent show",
       "translation": "шоу талантов",
-      "example": "I was nervous about being in that talent show."
+      "example": "I was nervous about being in that talent show.",
+      "keyword": "танец",
+      "mnemonic": "Шоу талантов с нервным танцем — вот тебе talent show."
     },
     {
       "term": "promotion",
       "translation": "повышение, продвижение",
-      "example": "You have found out you are getting a promotion at work."
+      "example": "You have found out you are getting a promotion at work.",
+      "keyword": "промах",
+      "mnemonic": "Повышение и продвижение без промаха на работе — вот тебе promotion."
     },
     {
       "term": "burgle",
       "translation": "ограбить со взломом",
-      "example": "My flat was burgled last night."
+      "example": "My flat was burgled last night.",
+      "keyword": "бур",
+      "mnemonic": "Квартиру ограбили со взломом буром ночью — вот тебе burgle."
     }
   ]
 }

@@ -2,13 +2,61 @@
   "lessonId": "green-living",
   "title": "Green living — фразы",
   "items": [
-    { "phrase": "much better than", "translation": "гораздо лучше, чем", "example": "Public transport is much better than driving in the city centre." },
-    { "phrase": "not as expensive as", "translation": "не такой дорогой, как", "example": "Solar energy is not as expensive as it was ten years ago." },
-    { "phrase": "the most important", "translation": "самый важный", "example": "Reducing waste is the most important thing we can do." },
-    { "phrase": "a lot cheaper than", "translation": "намного дешевле, чем", "example": "Recycling is a lot cheaper than producing new materials." },
-    { "phrase": "as big as", "translation": "такой же большой, как", "example": "The new park is as big as three football fields." },
-    { "phrase": "slightly better than", "translation": "немного лучше, чем", "example": "This solution is slightly better than the previous one." },
-    { "phrase": "far more efficient", "translation": "гораздо эффективнее", "example": "Electric cars are far more efficient than petrol cars." },
-    { "phrase": "the least harmful", "translation": "наименее вредный", "example": "Walking is the least harmful form of transport." }
+    {
+      "phrase": "much better than",
+      "translation": "гораздо лучше, чем",
+      "example": "Public transport is much better than driving in the city centre.",
+      "keyword": "бетмен",
+      "mnemonic": "Бетмен на трамвае кричит much better than — гораздо лучше, чем рулить в центре."
+    },
+    {
+      "phrase": "not as expensive as",
+      "translation": "не такой дорогой, как",
+      "example": "Solar energy is not as expensive as it was ten years ago.",
+      "keyword": "эскиз",
+      "mnemonic": "Солнечник с эскизом панели — not as expensive as, не такой дорогой, как десять лет назад."
+    },
+    {
+      "phrase": "the most important",
+      "translation": "самый важный",
+      "example": "Reducing waste is the most important thing we can do.",
+      "keyword": "импорт",
+      "mnemonic": "Таможенник с импортом мусора — the most important, самый важный — сокращать отходы."
+    },
+    {
+      "phrase": "a lot cheaper than",
+      "translation": "намного дешевле, чем",
+      "example": "Recycling is a lot cheaper than producing new materials.",
+      "keyword": "чипсы",
+      "mnemonic": "С чипсами из вторсырья — a lot cheaper than, намного дешевле, чем делать новое."
+    },
+    {
+      "phrase": "as big as",
+      "translation": "такой же большой, как",
+      "example": "The new park is as big as three football fields.",
+      "keyword": "билет",
+      "mnemonic": "С билетом на три стадиона — as big as, такой же большой, как три поля, новый парк."
+    },
+    {
+      "phrase": "slightly better than",
+      "translation": "немного лучше, чем",
+      "example": "This solution is slightly better than the previous one.",
+      "keyword": "слайм",
+      "mnemonic": "Учёный со слаймом хвастает slightly better than — немного лучше, чем прошлый раствор."
+    },
+    {
+      "phrase": "far more efficient",
+      "translation": "гораздо эффективнее",
+      "example": "Electric cars are far more efficient than petrol cars.",
+      "keyword": "эфир",
+      "mnemonic": "Тесла гудит в эфир — far more efficient, гораздо эффективнее бензинок."
+    },
+    {
+      "phrase": "the least harmful",
+      "translation": "наименее вредный",
+      "example": "Walking is the least harmful form of transport.",
+      "keyword": "лист",
+      "mnemonic": "Пешеход с листом подорожника — the least harmful, наименее вредный транспорт — ходьба."
+    }
   ]
 }

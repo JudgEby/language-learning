@@ -2,13 +2,61 @@
   "lessonId": "thats-a-good-idea",
   "title": "That's a good idea — фразы",
   "items": [
-    { "phrase": "That's a good idea", "translation": "Хорошая идея", "example": "That's a good idea. How about we go on a trip somewhere?" },
-    { "phrase": "I agree up to a point", "translation": "Согласен, но не полностью", "example": "I agree up to a point, but we need to think about the budget first." },
-    { "phrase": "I'm not sure about that", "translation": "Я не уверен насчёт этого", "example": "I'm not sure about that. Let's think of other options." },
-    { "phrase": "Let's move on", "translation": "Давай двигаться дальше", "example": "OK, let's move on to the next point." },
-    { "phrase": "The way I see it…", "translation": "Как я это вижу…", "example": "The way I see it, we need to focus on quality." },
-    { "phrase": "That's a good point", "translation": "Хорошее замечание", "example": "That's a good point, but we should consider other locations too." },
-    { "phrase": "How about…?", "translation": "Как насчёт…?", "example": "How about if we call it something simple and modern?" },
-    { "phrase": "Why don't we…?", "translation": "Почему бы нам не…?", "example": "Why don't we start by looking at the finances?" }
+    {
+      "phrase": "That's a good idea",
+      "translation": "Хорошая идея",
+      "example": "That's a good idea. How about we go on a trip somewhere?",
+      "keyword": "айдиа",
+      "mnemonic": "Айдиа-лампа вспыхнула: that's a good idea — хорошая идея, а поедем куда-нибудь?"
+    },
+    {
+      "phrase": "I agree up to a point",
+      "translation": "Согласен, но не полностью",
+      "example": "I agree up to a point, but we need to think about the budget first.",
+      "keyword": "пойнт",
+      "mnemonic": "Пойнт-бюджет ворчит: I agree up to a point — согласен, но не полностью, думаем о бюджете."
+    },
+    {
+      "phrase": "I'm not sure about that",
+      "translation": "Я не уверен насчёт этого",
+      "example": "I'm not sure about that. Let's think of other options.",
+      "keyword": "шуар",
+      "mnemonic": "Шуар-сомнение мнётся: I'm not sure about that — я не уверен насчёт этого, ищем варианты."
+    },
+    {
+      "phrase": "Let's move on",
+      "translation": "Давай двигаться дальше",
+      "example": "OK, let's move on to the next point.",
+      "keyword": "мувон",
+      "mnemonic": "Мувон-вперёд к пункту: let's move on — давай двигаться дальше, к следующему пункту."
+    },
+    {
+      "phrase": "The way I see it…",
+      "translation": "Как я это вижу…",
+      "example": "The way I see it, we need to focus on quality.",
+      "keyword": "вейси",
+      "mnemonic": "Вей-си-качество в фокусе: the way I see it — как я это вижу, нужен фокус на качество."
+    },
+    {
+      "phrase": "That's a good point",
+      "translation": "Хорошее замечание",
+      "example": "That's a good point, but we should consider other locations too.",
+      "keyword": "пойнт",
+      "mnemonic": "Пойнт-замечание метко: that's a good point — хорошее замечание, но глянем и другие места."
+    },
+    {
+      "phrase": "How about…?",
+      "translation": "Как насчёт…?",
+      "example": "How about if we call it something simple and modern?",
+      "keyword": "хауэбаут",
+      "mnemonic": "Хау-эбаут-просто и модно: how about — как насчёт назвать просто и современно?"
+    },
+    {
+      "phrase": "Why don't we…?",
+      "translation": "Почему бы нам не…?",
+      "example": "Why don't we start by looking at the finances?",
+      "keyword": "вайдонт",
+      "mnemonic": "Вай-донт с финансами: why don't we start — почему бы нам не начать с финансов?"
+    }
   ]
 }

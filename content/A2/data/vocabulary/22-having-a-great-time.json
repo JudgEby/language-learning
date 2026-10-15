@@ -2,20 +2,110 @@
   "lessonId": "having-a-great-time",
   "title": "Having a great time — новые слова",
   "items": [
-    { "term": "have a great time", "translation": "отлично проводить время", "example": "I'm having a great time here in Brazil." },
-    { "term": "relax", "translation": "отдыхать, расслабляться", "example": "We're relaxing by the swimming pool." },
-    { "term": "a swimming pool", "translation": "бассейн", "example": "We spend the whole day by the swimming pool." },
-    { "term": "take photos", "translation": "фотографировать", "example": "I take photos with my camera and my mobile." },
-    { "term": "put something online", "translation": "выложить что-то в интернет", "example": "I put my photos online and write comments in English." },
-    { "term": "a favourite subject", "translation": "любимая тема", "example": "My favourite subjects are people and places." },
-    { "term": "an emoticon", "translation": "смайлик, эмотикон", "example": "Women often use '<3', the emoticon for a heart." },
-    { "term": "a message", "translation": "сообщение", "example": "Researchers studied messages from over 75,000 people." },
-    { "term": "research (n/v)", "translation": "исследование / исследовать", "example": "Researchers from Penn University looked at fifteen million Facebook messages." },
-    { "term": "swear words", "translation": "бранные слова", "example": "Men often use swear words in their messages." },
-    { "term": "a girlfriend / a boyfriend", "translation": "девушка / парень", "example": "I'm in Brazil with my girlfriend." },
-    { "term": "have breakfast in bed", "translation": "завтракать в постели", "example": "Katya brought me breakfast in bed this morning." },
-    { "term": "an office", "translation": "офис", "example": "Thinking about you all in the office! See you next week." },
-    { "term": "a holiday", "translation": "отпуск", "example": "What are you thinking about? — My holiday." },
-    { "term": "get bored", "translation": "надоедать, скучать", "example": "We're waiting two hours and we're getting very bored." }
+    {
+      "term": "have a great time",
+      "translation": "отлично проводить время",
+      "example": "I'm having a great time here in Brazil.",
+      "keyword": "грейп",
+      "mnemonic": "Турист с грейпом отлично проводит время — he has a great time."
+    },
+    {
+      "term": "relax",
+      "translation": "отдыхать, расслабляться",
+      "example": "We're relaxing by the swimming pool.",
+      "keyword": "релакс",
+      "mnemonic": "Йог ушёл в полный релакс и отдыхает — he relaxes."
+    },
+    {
+      "term": "a swimming pool",
+      "translation": "бассейн",
+      "example": "We spend the whole day by the swimming pool.",
+      "keyword": "пул",
+      "mnemonic": "Бильярдист прыгнул в пул вместо лузы — а это a swimming pool, бассейн."
+    },
+    {
+      "term": "take photos",
+      "translation": "фотографировать",
+      "example": "I take photos with my camera and my mobile.",
+      "keyword": "фотик",
+      "mnemonic": "Турист машет фотиком и щёлкает — he takes photos, фотографирует."
+    },
+    {
+      "term": "put something online",
+      "translation": "выложить что-то в интернет",
+      "example": "I put my photos online and write comments in English.",
+      "keyword": "онлайн",
+      "mnemonic": "Блогер вышел в онлайн и выложил фото — he puts it online."
+    },
+    {
+      "term": "a favourite subject",
+      "translation": "любимая тема",
+      "example": "My favourite subjects are people and places.",
+      "keyword": "субъект",
+      "mnemonic": "Странный субъект — моя любимая тема, a favourite subject."
+    },
+    {
+      "term": "an emoticon",
+      "translation": "смайлик, эмотикон",
+      "example": "Women often use '<3', the emoticon for a heart.",
+      "keyword": "эмоция",
+      "mnemonic": "Эмоция в виде сердечка — вот an emoticon, смайлик."
+    },
+    {
+      "term": "a message",
+      "translation": "сообщение",
+      "example": "Researchers studied messages from over 75,000 people.",
+      "keyword": "месседж",
+      "mnemonic": "Курьер кричит «месседж» и вручает сообщение — это a message."
+    },
+    {
+      "term": "research (n/v)",
+      "translation": "исследование / исследовать",
+      "example": "Researchers from Penn University looked at fifteen million Facebook messages.",
+      "keyword": "ресёрч",
+      "mnemonic": "Учёный ведёт ресёрч — это research, исследование."
+    },
+    {
+      "term": "swear words",
+      "translation": "бранные слова",
+      "example": "Men often use swear words in their messages.",
+      "keyword": "сварка",
+      "mnemonic": "Сварщик ругается сваркой бранными словами — это swear words."
+    },
+    {
+      "term": "a girlfriend / a boyfriend",
+      "translation": "девушка / парень",
+      "example": "I'm in Brazil with my girlfriend.",
+      "keyword": "гёрлфренд",
+      "mnemonic": "Парень обнимает гёрлфренд на пляже — это a girlfriend, девушка."
+    },
+    {
+      "term": "have breakfast in bed",
+      "translation": "завтракать в постели",
+      "example": "Katya brought me breakfast in bed this morning.",
+      "keyword": "бедлам",
+      "mnemonic": "Бедлам с подносом в постели — он has breakfast in bed, завтракает в постели."
+    },
+    {
+      "term": "an office",
+      "translation": "офис",
+      "example": "Thinking about you all in the office! See you next week.",
+      "keyword": "афиша",
+      "mnemonic": "Афиша висит на стене офиса — вот an office."
+    },
+    {
+      "term": "a holiday",
+      "translation": "отпуск",
+      "example": "What are you thinking about? — My holiday.",
+      "keyword": "холодец",
+      "mnemonic": "Турист ест холодец в отпуске — это a holiday."
+    },
+    {
+      "term": "get bored",
+      "translation": "надоедать, скучать",
+      "example": "We're waiting two hours and we're getting very bored.",
+      "keyword": "борода",
+      "mnemonic": "Пассажир теребит бороду и скучает — he gets bored."
+    }
   ]
 }

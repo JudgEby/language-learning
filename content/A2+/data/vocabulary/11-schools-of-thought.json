@@ -2,17 +2,17 @@
   "lessonId": "schools-of-thought",
   "title": "Schools of thought — новые слова",
   "items": [
-    { "term": "subject", "translation": "учебный предмет", "example": "My favourite subject is history." },
-    { "term": "exam", "translation": "экзамен", "example": "We have a maths exam next Monday." },
-    { "term": "uniform", "translation": "форма (школьная)", "example": "All students must wear a school uniform." },
-    { "term": "primary school", "translation": "начальная школа", "example": "Children start primary school at the age of five." },
-    { "term": "secondary school", "translation": "средняя школа", "example": "In the UK, secondary school is from age 11 to 16." },
-    { "term": "university", "translation": "университет", "example": "She wants to study law at university." },
-    { "term": "graduate", "translation": "выпускник; оканчивать (учебное заведение)", "example": "He graduated from Oxford University last year." },
-    { "term": "qualification", "translation": "квалификация, диплом", "example": "You need a good qualification to get this job." },
-    { "term": "degree", "translation": "степень (университетская)", "example": "She has a degree in economics." },
-    { "term": "attend", "translation": "посещать (занятия)", "example": "All students must attend at least 80% of classes." },
-    { "term": "progress", "translation": "прогресс, успеваемость", "example": "The teacher checks our progress every month." },
-    { "term": "term", "translation": "семестр, учебная четверть", "example": "The autumn term starts in September." }
+    { "term": "subject", "translation": "учебный предмет", "example": "My favourite subject is history.", "keyword": "объект", "mnemonic": "Любимый объект насмешек — история: my favourite subject, учебный предмет." },
+    { "term": "exam", "translation": "экзамен", "example": "We have a maths exam next Monday.", "keyword": "экзамен", "mnemonic": "Экзамен по математике в понедельник — we have a maths exam." },
+    { "term": "uniform", "translation": "форма (школьная)", "example": "All students must wear a school uniform.", "keyword": "униформа", "mnemonic": "Униформа обязательна для всех — must wear a school uniform, школьную форму." },
+    { "term": "primary school", "translation": "начальная школа", "example": "Children start primary school at the age of five.", "keyword": "премьер", "mnemonic": "Даже премьер когда-то пошёл в первый класс — primary school, начальная школа." },
+    { "term": "secondary school", "translation": "средняя школа", "example": "In the UK, secondary school is from age 11 to 16.", "keyword": "секонд", "mnemonic": "Секонд-хенд портфелей у школы — secondary school, средняя школа." },
+    { "term": "university", "translation": "университет", "example": "She wants to study law at university.", "keyword": "универ", "mnemonic": "Универ зовёт на юрфак — she wants to study at university." },
+    { "term": "graduate", "translation": "выпускник; оканчивать (учебное заведение)", "example": "He graduated from Oxford University last year.", "keyword": "градус", "mnemonic": "Поднял градус праздника — he graduated from Oxford, окончил университет." },
+    { "term": "qualification", "translation": "квалификация, диплом", "example": "You need a good qualification to get this job.", "keyword": "квалификация", "mnemonic": "Без квалификации не берут — need a good qualification, диплом." },
+    { "term": "degree", "translation": "степень (университетская)", "example": "She has a degree in economics.", "keyword": "тигр", "mnemonic": "Тигр с дипломом экономиста — she has a degree, степень." },
+    { "term": "attend", "translation": "посещать (занятия)", "example": "All students must attend at least 80% of classes.", "keyword": "тент", "mnemonic": "Все сидят под тентом — must attend 80% of classes, посещать занятия." },
+    { "term": "progress", "translation": "прогресс, успеваемость", "example": "The teacher checks our progress every month.", "keyword": "прогресс", "mnemonic": "Учитель проверяет прогресс каждый месяц — checks our progress, успеваемость." },
+    { "term": "term", "translation": "семестр, учебная четверть", "example": "The autumn term starts in September.", "keyword": "термос", "mnemonic": "Термос с чаем на всю четверть — the autumn term, семестр начинается." }
   ]
 }

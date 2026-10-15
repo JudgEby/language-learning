@@ -5,47 +5,65 @@
     {
       "phrase": "If I study hard, I'll pass",
       "translation": "Если я буду усердно заниматься, я сдам",
-      "example": "If I study hard, I'll pass the exam with good marks."
+      "example": "If I study hard, I'll pass the exam with good marks.",
+      "keyword": "стадион",
+      "mnemonic": "Зубрила на стадионе учебников — If I study hard, I'll pass, Если буду усердно заниматься, сдам на отлично."
     },
     {
       "phrase": "I'll call you when I arrive",
       "translation": "Я позвоню тебе, когда приеду",
-      "example": "I'll call you when I arrive at the airport."
+      "example": "I'll call you when I arrive at the airport.",
+      "keyword": "архив",
+      "mnemonic": "Турист с архивом билетов обещает I'll call you when I arrive — Я позвоню тебе, когда приеду в аэропорт."
     },
     {
       "phrase": "If it rains, I'll stay at home",
       "translation": "Если пойдёт дождь, я останусь дома",
-      "example": "If it rains, I'll stay at home and watch a film."
+      "example": "If it rains, I'll stay at home and watch a film.",
+      "keyword": "резина",
+      "mnemonic": "С резиновыми сапогами у окна — If it rains, I'll stay at home, Если пойдёт дождь, останусь дома с фильмом."
     },
     {
       "phrase": "I won't go until I finish this",
       "translation": "Я не уйду, пока не закончу это",
-      "example": "I won't go until I finish this report."
+      "example": "I won't go until I finish this report.",
+      "keyword": "утиль",
+      "mnemonic": "Клерк с отчётом в утиль — I won't go until I finish this, Я не уйду, пока не закончу отчёт."
     },
     {
       "phrase": "I'll text you as soon as I hear anything",
       "translation": "Я напишу тебе, как только что-то узнаю",
-      "example": "I'll text you as soon as I hear anything about the job."
+      "example": "I'll text you as soon as I hear anything about the job.",
+      "keyword": "сундук",
+      "mnemonic": "Гонец с сундуком вакансий — I'll text you as soon as I hear anything, Я напишу тебе, как только узнаю про работу."
     },
     {
       "phrase": "What will you do if...?",
       "translation": "Что ты будешь делать, если...?",
-      "example": "What will you do if you don't get the job?"
+      "example": "What will you do if you don't get the job?",
+      "keyword": "вилла",
+      "mnemonic": "Безработный у виллы гадает What will you do if...? — Что ты будешь делать, если не получишь работу."
     },
     {
       "phrase": "If you use social media, you'll find people who will help you",
       "translation": "Если пользоваться соцсетями, найдутся люди, которые помогут",
-      "example": "If you use social media, you'll find people who will help you change the world."
+      "example": "If you use social media, you'll find people who will help you change the world.",
+      "keyword": "медаль",
+      "mnemonic": "Волонтёр с медалью вещает If you use social media, you'll find people who will help you — Если пользоваться соцсетями, найдутся люди, которые помогут."
     },
     {
       "phrase": "I tend to use social media when I'm bored",
       "translation": "Я обычно сижу в соцсетях, когда мне скучно",
-      "example": "I tend to use social media sites when I'm bored and there's nothing better to do."
+      "example": "I tend to use social media sites when I'm bored and there's nothing better to do.",
+      "keyword": "борода",
+      "mnemonic": "Бородач листает ленту — I tend to use social media when I'm bored, Я обычно сижу в соцсетях, когда скучно."
     },
     {
       "phrase": "I'm uncomfortable sharing information with people I don't know",
       "translation": "Мне некомфортно делиться информацией с незнакомцами",
-      "example": "Social media makes me feel nervous. I'm uncomfortable sharing information with people I don't know."
+      "example": "Social media makes me feel nervous. I'm uncomfortable sharing information with people I don't know.",
+      "keyword": "конфуз",
+      "mnemonic": "Интроверт в конфузе от сети — I'm uncomfortable sharing information with people I don't know, Мне некомфортно делиться с незнакомцами, нервничаю."
     }
   ]
 }

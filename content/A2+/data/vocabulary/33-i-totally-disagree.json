@@ -2,15 +2,75 @@
   "lessonId": "i-totally-disagree",
   "title": "I totally disagree — новые слова",
   "items": [
-    { "term": "download", "translation": "скачивать, загружать", "example": "I need to download the latest version of the app." },
-    { "term": "upload", "translation": "загружать (на сервер)", "example": "She uploaded the photos to her profile." },
-    { "term": "blog", "translation": "блог", "example": "He writes a blog about travel and technology." },
-    { "term": "website", "translation": "веб-сайт", "example": "The website is down for maintenance." },
-    { "term": "app", "translation": "приложение", "example": "This app helps you learn new words every day." },
-    { "term": "subscription", "translation": "подписка", "example": "I have a monthly subscription to the streaming service." },
-    { "term": "update", "translation": "обновление", "example": "There's a new update for the operating system." },
-    { "term": "password", "translation": "пароль", "example": "Don't share your password with anyone." },
-    { "term": "username", "translation": "имя пользователя", "example": "Enter your username to log in." },
-    { "term": "login / log in", "translation": "вход / входить", "example": "You need to log in to access your account." }
+    {
+      "term": "download",
+      "translation": "скачивать, загружать",
+      "example": "I need to download the latest version of the app.",
+      "keyword": "дно",
+      "mnemonic": "Файл тонет на дно — надо download, скачивать и загружать новую версию."
+    },
+    {
+      "term": "upload",
+      "translation": "загружать (на сервер)",
+      "example": "She uploaded the photos to her profile.",
+      "keyword": "апчхи",
+      "mnemonic": "Сервер чихнул апчхи, когда она upload — загружала фото на сервер."
+    },
+    {
+      "term": "blog",
+      "translation": "блог",
+      "example": "He writes a blog about travel and technology.",
+      "keyword": "блок",
+      "mnemonic": "Писатель стучит блоком — он ведёт blog, блог о путешествиях."
+    },
+    {
+      "term": "website",
+      "translation": "веб-сайт",
+      "example": "The website is down for maintenance.",
+      "keyword": "висит",
+      "mnemonic": "Сайт висит на верёвке — website, веб-сайт лёг на ремонт."
+    },
+    {
+      "term": "app",
+      "translation": "приложение",
+      "example": "This app helps you learn new words every day.",
+      "keyword": "ап",
+      "mnemonic": "Тренер кричит ап — это app, приложение для слов на каждый день."
+    },
+    {
+      "term": "subscription",
+      "translation": "подписка",
+      "example": "I have a monthly subscription to the streaming service.",
+      "keyword": "скрип",
+      "mnemonic": "Сервис скрипит, но требует subscription — подписку каждый месяц."
+    },
+    {
+      "term": "update",
+      "translation": "обновление",
+      "example": "There's a new update for the operating system.",
+      "keyword": "аппетит",
+      "mnemonic": "Система с аппетитом съела update — обновление операционки."
+    },
+    {
+      "term": "password",
+      "translation": "пароль",
+      "example": "Don't share your password with anyone.",
+      "keyword": "паспорт",
+      "mnemonic": "Шпион машет паспортом вместо password — вместо пароля, никому не показывай."
+    },
+    {
+      "term": "username",
+      "translation": "имя пользователя",
+      "example": "Enter your username to log in.",
+      "keyword": "нейм",
+      "mnemonic": "Матрос с неймом на груди — введи username, имя пользователя для входа."
+    },
+    {
+      "term": "login / log in",
+      "translation": "вход / входить",
+      "example": "You need to log in to access your account.",
+      "keyword": "логика",
+      "mnemonic": "Без логики не login — не вход и не входить в аккаунт."
+    }
   ]
 }

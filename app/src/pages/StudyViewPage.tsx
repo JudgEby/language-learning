@@ -110,6 +110,17 @@ export function StudyViewPage() {
         >
           {listLabel}
         </button>
+        {lexicon && (
+          <button
+            type="button"
+            className="btn btn-secondary"
+            onClick={() =>
+              navigate(`/flashcards?lesson=${encodeURIComponent(`${level}|${studyKey(type, id)}`)}`)
+            }
+          >
+            Карточки
+          </button>
+        )}
       </div>
     </div>
   );

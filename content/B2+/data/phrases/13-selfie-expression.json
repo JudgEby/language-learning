@@ -5,87 +5,121 @@
     {
       "phrase": "pay attention to the rules",
       "translation": "обращать внимание на правила",
-      "example": "We all need to pay attention to the rules of photography."
+      "example": "We all need to pay attention to the rules of photography.",
+      "keyword": "теннис",
+      "mnemonic": "Играем в теннис по правилам и обращаем внимание на каждый пункт, — теннис стучит pay attention to the rules."
     },
     {
       "phrase": "take legal photos",
       "translation": "делать законные снимки",
-      "example": "Read the guide to taking legal, social and ethical photos."
+      "example": "Read the guide to taking legal, social and ethical photos.",
+      "keyword": "лига",
+      "mnemonic": "Фотолига разрешает делать только законные снимки, — лига решает take legal photos."
     },
     {
       "phrase": "research the laws",
       "translation": "изучать законы",
-      "example": "You should always research the laws of places you visit."
+      "example": "You should always research the laws of places you visit.",
+      "keyword": "лось",
+      "mnemonic": "Важный лось изучает законы мест, которые посещает, — лось топает research the laws."
     },
     {
       "phrase": "be mindful of where you are",
       "translation": "помнить, где находишься",
-      "example": "Always be mindful of where you are before snapping."
+      "example": "Always be mindful of where you are before snapping.",
+      "keyword": "мина",
+      "mnemonic": "Осторожно, мина! Помни, где находишься, прежде чем щёлкать, — мина тикает be mindful of where you are."
     },
     {
       "phrase": "start snapping away",
       "translation": "начать щёлкать камерой",
-      "example": "Be mindful before you start snapping away."
+      "example": "Be mindful before you start snapping away.",
+      "keyword": "снаряд",
+      "mnemonic": "Как снаряд строчит — так я начал щёлкать камерой без остановки, — снаряд свистит start snapping away."
     },
     {
       "phrase": "check if in doubt",
       "translation": "проверять, если сомневаешься",
-      "example": "The rules should be clear, but check if in doubt."
+      "example": "The rules should be clear, but check if in doubt.",
+      "keyword": "дата",
+      "mnemonic": "Проверь дату: если сомневаешься в правилах — сверься с календарём, — дата подмигивает check if in doubt."
     },
     {
       "phrase": "ask if unsure",
       "translation": "спросить, если не уверен",
-      "example": "Ask if you're unsure about taking selfies there."
+      "example": "Ask if you're unsure about taking selfies there.",
+      "keyword": "ушу",
+      "mnemonic": "Мастер ушу учит: спроси, если не уверен, можно ли делать селфи, — ушу кланяется ask if unsure."
     },
     {
       "phrase": "ask yourself",
       "translation": "спросить себя",
-      "example": "Ask yourself: should I be taking this photo?"
+      "example": "Ask yourself: should I be taking this photo?",
+      "keyword": "ёрш",
+      "mnemonic": "Колючий ёрш спрашивает себя: стоит ли делать это фото? — ёрш топорщится ask yourself."
     },
     {
       "phrase": "stop you upsetting anyone",
       "translation": "уберечь от обиды других",
-      "example": "Checking with a local should stop you upsetting anyone."
+      "example": "Checking with a local should stop you upsetting anyone.",
+      "keyword": "аптека",
+      "mnemonic": "Спросил в аптеке у местных — и это уберегло от обиды других, — аптека шепчет stop you upsetting anyone."
     },
     {
       "phrase": "ask permission",
       "translation": "просить разрешения",
-      "example": "It's best to ask permission before the shot."
+      "example": "It's best to ask permission before the shot.",
+      "keyword": "персик",
+      "mnemonic": "Протянул персик и попросил разрешения на снимок, — персик красуется ask permission."
     },
     {
       "phrase": "act naturally",
       "translation": "вести себя естественно",
-      "example": "People may not act naturally if you ask first."
+      "example": "People may not act naturally if you ask first.",
+      "keyword": "натура",
+      "mnemonic": "Художник пишет с натуры, а люди не ведут себя естественно, если спросить заранее, — натура позирует act naturally."
     },
     {
       "phrase": "show the photo",
       "translation": "показать фото",
-      "example": "Take the photo, then show it to the person."
+      "example": "Take the photo, then show it to the person.",
+      "keyword": "шоу",
+      "mnemonic": "Устроил целое шоу, чтобы показать фото герою снимка, — шоу гремит show the photo."
     },
     {
       "phrase": "ask after the fact",
       "translation": "спросить после",
-      "example": "You can ask permission after the fact."
+      "example": "You can ask permission after the fact.",
+      "keyword": "факт",
+      "mnemonic": "Факт есть факт: разрешение можно спросить после съёмки, — факт констатирует ask after the fact."
     },
     {
       "phrase": "frowned upon",
       "translation": "осуждается",
-      "example": "Taking photos of strangers' children is frowned upon."
+      "example": "Taking photos of strangers' children is frowned upon.",
+      "keyword": "франт",
+      "mnemonic": "Нарядный франт осуждается за фото чужих детей, — франт хмурится frowned upon."
     },
     {
       "phrase": "raise awareness of an issue",
       "translation": "привлекать внимание к проблеме",
-      "example": "He wants to raise awareness of a social issue."
+      "example": "He wants to raise awareness of a social issue.",
+      "keyword": "Эверест",
+      "mnemonic": "Залез на Эверест, чтобы привлечь внимание к проблеме, — Эверест высится raise awareness of an issue."
     },
     {
       "phrase": "represent the situation truly",
       "translation": "правдиво отражать ситуацию",
-      "example": "Take a photo that truly represents the situation."
+      "example": "Take a photo that truly represents the situation.",
+      "keyword": "реприза",
+      "mnemonic": "Комик повторил репризу, чтобы правдиво отразить ситуацию, — реприза смеётся represent the situation truly."
     },
     {
       "phrase": "cause harm to wildlife",
       "translation": "вредить дикой природе",
-      "example": "Never cause harm to wildlife when photographing nature."
+      "example": "Never cause harm to wildlife when photographing nature.",
+      "keyword": "лайка",
+      "mnemonic": "Охотничья лайка никогда не вредит дикой природе ради фото, — лайка тявкает cause harm to wildlife."
     }
   ]
 }

@@ -5,42 +5,58 @@
     {
       "phrase": "turn over a new leaf",
       "translation": "начать с чистого листа",
-      "example": "I'm turning over a new leaf this year."
+      "example": "I'm turning over a new leaf this year.",
+      "keyword": "лифт",
+      "mnemonic": "Начинаю с чистого листа в этом году — еду на лифте вверх: turning over a new leaf."
     },
     {
       "phrase": "stick to (a plan)",
       "translation": "придерживаться плана",
-      "example": "It's hard to stick to a diet."
+      "example": "It's hard to stick to a diet.",
+      "keyword": "стикеры",
+      "mnemonic": "Трудно придерживаться диеты — обклеила холодильник стикерами: stick to a diet."
     },
     {
       "phrase": "fall back into (old habits)",
       "translation": "снова впасть в старые привычки",
-      "example": "Don't fall back into old habits."
+      "example": "Don't fall back into old habits.",
+      "keyword": "фляга",
+      "mnemonic": "Не впадай в старые привычки — хлебни из фляги: fall back into old habits."
     },
     {
       "phrase": "expand one's horizons",
       "translation": "расширять кругозор",
-      "example": "Studying abroad really helped me expand my horizons."
+      "example": "Studying abroad really helped me expand my horizons.",
+      "keyword": "горизонт",
+      "mnemonic": "Учёба за границей расширила кругозор — открыла горизонт: expand my horizons."
     },
     {
       "phrase": "keep mentally active",
       "translation": "поддерживать умственную активность",
-      "example": "He keeps mentally active by learning new languages."
+      "example": "He keeps mentally active by learning new languages.",
+      "keyword": "актив",
+      "mnemonic": "Держит мозг в тонусе языками — актив включён: keeps mentally active."
     },
     {
       "phrase": "work long hours",
       "translation": "работать подолгу",
-      "example": "She used to work long hours in a corporate office."
+      "example": "She used to work long hours in a corporate office.",
+      "keyword": "лангет",
+      "mnemonic": "Работала подолгу в офисе, жуя лангет, — used to work long hours."
     },
     {
       "phrase": "cut down on (sth)",
       "translation": "сокращать (что-то)",
-      "example": "I would like to cut down on my screen time."
+      "example": "I would like to cut down on my screen time.",
+      "keyword": "скат",
+      "mnemonic": "Хочет сократить экранное время — срезал, как скат: cut down on screen time."
     },
     {
       "phrase": "reach a turning point",
       "translation": "достичь переломного момента",
-      "example": "He reached a turning point and decided to transform his lifestyle."
+      "example": "He reached a turning point and decided to transform his lifestyle.",
+      "keyword": "турник",
+      "mnemonic": "Достиг переломного момента — подтянулся на турнике: reached a turning point."
     }
   ]
 }

@@ -5,92 +5,128 @@
     {
       "phrase": "way better than",
       "translation": "намного лучше, чем",
-      "example": "Paying everyone fairly is way better than underpaying staff."
+      "example": "Paying everyone fairly is way better than underpaying staff.",
+      "keyword": "вей",
+      "mnemonic": "Серфер поймал вей — это намного лучше, чем недоплачивать сотрудникам, — вей шумит way better than."
     },
     {
       "phrase": "equally as appealing as",
       "translation": "столь же привлекательно, как",
-      "example": "A month's holiday is equally as appealing as a pay rise."
+      "example": "A month's holiday is equally as appealing as a pay rise.",
+      "keyword": "экватор",
+      "mnemonic": "Отпуск на экваторе столь же привлекателен, как прибавка к зарплате, — экватор жарит equally as appealing as."
     },
     {
       "phrase": "infinitely better than",
       "translation": "бесконечно лучше, чем",
-      "example": "A four-day week is infinitely better than a five-day week."
+      "example": "A four-day week is infinitely better than a five-day week.",
+      "keyword": "инфинити",
+      "mnemonic": "Машина инфинити бесконечно лучше, чем четырёхдневка лучше пятидневки, — инфинити урчит infinitely better than."
     },
     {
       "phrase": "nowhere near as good as",
       "translation": "далеко не так хорошо, как",
-      "example": "The offer is nowhere near as good as I thought."
+      "example": "The offer is nowhere near as good as I thought.",
+      "keyword": "ноу-хау",
+      "mnemonic": "Их ноу-хау далеко не так хорошо, как я думал, — ноу-хау скрипит nowhere near as good as."
     },
     {
       "phrase": "significantly more productive",
       "translation": "значительно продуктивнее",
-      "example": "Flexible hours are significantly more productive for our team."
+      "example": "Flexible hours are significantly more productive for our team.",
+      "keyword": "сигнал",
+      "mnemonic": "Услышали сигнал будильника позже — и стали значительно продуктивнее, — сигнал звенит significantly more productive."
     },
     {
       "phrase": "miles worse than",
       "translation": "намного хуже, чем",
-      "example": "Getting emails at the weekend is miles worse than working late."
+      "example": "Getting emails at the weekend is miles worse than working late.",
+      "keyword": "миля",
+      "mnemonic": "Письма в выходной — это на милю хуже, чем задержаться в пятницу, — миля тянется miles worse than."
     },
     {
       "phrase": "pay a fair salary",
       "translation": "платить честную зарплату",
-      "example": "It's better to pay everyone a fair salary."
+      "example": "It's better to pay everyone a fair salary.",
+      "keyword": "сельдерей",
+      "mnemonic": "Вместо премии выдали сельдерей? Нет — лучше платить честную зарплату деньгами, — сельдерей хрустит pay a fair salary."
     },
     {
       "phrase": "work flexible hours",
       "translation": "работать по гибкому графику",
-      "example": "Allowing staff to work flexible hours boosts morale."
+      "example": "Allowing staff to work flexible hours boosts morale.",
+      "keyword": "флекс",
+      "mnemonic": "Танцуем флекс в офисе, ведь работаем по гибкому графику, — флекс гнётся work flexible hours."
     },
     {
       "phrase": "work from home",
       "translation": "работать из дома",
-      "example": "Working from home is better than working in an office."
+      "example": "Working from home is better than working in an office.",
+      "keyword": "хомяк",
+      "mnemonic": "Домашний хомяк помогает работать из дома — ему тоже лучше без офиса, — хомяк шуршит work from home."
     },
     {
       "phrase": "work late",
       "translation": "задерживаться на работе",
-      "example": "Having to work late on Friday is exhausting."
+      "example": "Having to work late on Friday is exhausting.",
+      "keyword": "лейка",
+      "mnemonic": "Поливаю цветы из лейки допоздна — вот и задержался на работе в пятницу, — лейка льёт work late."
     },
     {
       "phrase": "take all holiday",
       "translation": "использовать весь отпуск",
-      "example": "What should happen if people don't take all their holiday?"
+      "example": "What should happen if people don't take all their holiday?",
+      "keyword": "ток",
+      "mnemonic": "Ток прошёл по проводам — используй весь отпуск, пока не ударило, — ток трещит take all holiday."
     },
     {
       "phrase": "extra week's holiday",
       "translation": "лишняя неделя отпуска",
-      "example": "Would you prefer an extra week's holiday or a bonus?"
+      "example": "Would you prefer an extra week's holiday or a bonus?",
+      "keyword": "экстра",
+      "mnemonic": "Класс экстра выбил себе лишнюю неделю отпуска вместо премии, — экстра хвастает extra week's holiday."
     },
     {
       "phrase": "free healthy lunches",
       "translation": "бесплатные полезные обеды",
-      "example": "Free healthy lunches for all staff motivate people."
+      "example": "Free healthy lunches for all staff motivate people.",
+      "keyword": "ланч",
+      "mnemonic": "Халявный ланч из полезных обедов мотивирует весь офис, — ланч дымится free healthy lunches."
     },
     {
       "phrase": "gym membership",
       "translation": "абонемент в спортзал",
-      "example": "A gym membership encourages staff to work harder."
+      "example": "A gym membership encourages staff to work harder.",
+      "keyword": "Джим",
+      "mnemonic": "Качок Джим купил абонемент в спортзал и заставляет всех работать усерднее, — Джим пыхтит gym membership."
     },
     {
       "phrase": "funds for social events",
       "translation": "деньги на корпоративы",
-      "example": "Funds for social events outside work help teams bond."
+      "example": "Funds for social events outside work help teams bond.",
+      "keyword": "фантик",
+      "mnemonic": "Собираем фантики, чтобы наскрести деньги на корпоративы и сплотить команду, — фантик шуршит funds for social events."
     },
     {
       "phrase": "time to unwind",
       "translation": "время расслабиться",
-      "example": "Time to unwind is as important as extra cash."
+      "example": "Time to unwind is as important as extra cash.",
+      "keyword": "ванна",
+      "mnemonic": "Тёплая ванна — лучшее время расслабиться, важнее любой премии, — ванна булькает time to unwind."
     },
     {
       "phrase": "inspire to work harder",
       "translation": "вдохновлять работать усерднее",
-      "example": "The new bonus wouldn't inspire us to work harder."
+      "example": "The new bonus wouldn't inspire us to work harder.",
+      "keyword": "инспектор",
+      "mnemonic": "Строгий инспектор пытается вдохновлять нас работать усерднее, но премия не вдохновляет, — инспектор хмурится inspire to work harder."
     },
     {
       "phrase": "take a pay cut",
       "translation": "согласиться на снижение зарплаты",
-      "example": "He took a pay cut of one million dollars."
+      "example": "He took a pay cut of one million dollars.",
+      "keyword": "кетчуп",
+      "mnemonic": "Залил горе кетчупом: согласился на снижение зарплаты на миллион, — кетчуп течёт take a pay cut."
     }
   ]
 }

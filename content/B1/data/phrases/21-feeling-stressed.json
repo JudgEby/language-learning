@@ -2,13 +2,61 @@
   "lessonId": "feeling-stressed",
   "title": "Feeling stressed? — фразы",
   "items": [
-    { "phrase": "If I feel stressed, I …", "translation": "Если я чувствую стресс, я …", "example": "If I feel stressed, I go for a long walk." },
-    { "phrase": "When you are angry, …", "translation": "Когда ты злишься, …", "example": "When you are angry, take a deep breath." },
-    { "phrase": "If I'm …ed, I usually …", "translation": "Если я (чувствую) …, я обычно …", "example": "If I'm tired, I like to watch TV and relax." },
-    { "phrase": "… winds me up", "translation": "… меня раздражает / нервирует", "example": "Slow internet really winds me up." },
-    { "phrase": "I find … relaxing", "translation": "Я нахожу … расслабляющим", "example": "I find listening to music very relaxing." },
-    { "phrase": "Calm down!", "translation": "Успокойся!", "example": "Calm down! Everything will be fine." },
-    { "phrase": "Chill out!", "translation": "Расслабься!", "example": "You need to chill out and stop worrying." },
-    { "phrase": "Laughter is the best medicine", "translation": "Смех — лучшее лекарство", "example": "If you feel down, watch a comedy — laughter is the best medicine." }
+    {
+      "phrase": "If I feel stressed, I …",
+      "translation": "Если я чувствую стресс, я …",
+      "example": "If I feel stressed, I go for a long walk.",
+      "keyword": "стрессед",
+      "mnemonic": "Стресс-ед-прогулка: if I feel stressed — если я чувствую стресс, иду гулять длинно."
+    },
+    {
+      "phrase": "When you are angry, …",
+      "translation": "Когда ты злишься, …",
+      "example": "When you are angry, take a deep breath.",
+      "keyword": "энгри",
+      "mnemonic": "Энгри-вдох глубокий: when you are angry — когда ты злишься, дыши глубже."
+    },
+    {
+      "phrase": "If I'm …ed, I usually …",
+      "translation": "Если я (чувствую) …, я обычно …",
+      "example": "If I'm tired, I like to watch TV and relax.",
+      "keyword": "южуалли",
+      "mnemonic": "Южуалли-телик и релакс: if I'm tired I usually watch — если я устал, я обычно смотрю ТВ."
+    },
+    {
+      "phrase": "… winds me up",
+      "translation": "… меня раздражает / нервирует",
+      "example": "Slow internet really winds me up.",
+      "keyword": "вайндс",
+      "mnemonic": "Вайндс-интернет тормозит: slow internet winds me up — меня раздражает и нервирует медленный нет."
+    },
+    {
+      "phrase": "I find … relaxing",
+      "translation": "Я нахожу … расслабляющим",
+      "example": "I find listening to music very relaxing.",
+      "keyword": "релаксинг",
+      "mnemonic": "Релаксинг-музыка льётся: I find music relaxing — я нахожу музыку расслабляющей."
+    },
+    {
+      "phrase": "Calm down!",
+      "translation": "Успокойся!",
+      "example": "Calm down! Everything will be fine.",
+      "keyword": "камдаун",
+      "mnemonic": "Кам-даун-вдох: calm down — успокойся, всё будет хорошо."
+    },
+    {
+      "phrase": "Chill out!",
+      "translation": "Расслабься!",
+      "example": "You need to chill out and stop worrying.",
+      "keyword": "чиллаут",
+      "mnemonic": "Чил-аут хватит нервов: chill out — расслабься и хватит волноваться."
+    },
+    {
+      "phrase": "Laughter is the best medicine",
+      "translation": "Смех — лучшее лекарство",
+      "example": "If you feel down, watch a comedy — laughter is the best medicine.",
+      "keyword": "лафтер, медисин",
+      "mnemonic": "Лафтер-медисин-комедия: laughter is the best medicine — смех лучшее лекарство, смотри комедию."
+    }
   ]
 }

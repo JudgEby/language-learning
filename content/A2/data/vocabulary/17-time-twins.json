@@ -2,19 +2,103 @@
   "lessonId": "time-twins",
   "title": "Time twins — новые слова",
   "items": [
-    { "term": "go to university", "translation": "поступить в университет, учиться в вузе", "example": "When she was fifteen she went to university." },
-    { "term": "a future husband / wife", "translation": "будущий муж / жена", "example": "At university she met her future husband, Obi." },
-    { "term": "start a company", "translation": "основать компанию", "example": "Samiya and Obi started a company together." },
-    { "term": "make money", "translation": "зарабатывать деньги", "example": "Their apps made a lot of money." },
-    { "term": "be good at", "translation": "хорошо владеть", "example": "She was really good at maths and computer games." },
-    { "term": "be shy", "translation": "быть застенчивым", "example": "In her childhood Samiya was very shy." },
-    { "term": "information technology", "translation": "информационные технологии", "example": "She studied information technology for four years." },
-    { "term": "a village", "translation": "деревня", "example": "She was born in a small village near Lagos." },
-    { "term": "a taxi driver", "translation": "водитель такси", "example": "Her father worked as a taxi driver." },
-    { "term": "gradually", "translation": "постепенно", "example": "He gradually stopped playing football at work." },
-    { "term": "in one's fourth year", "translation": "на четвёртом курсе", "example": "In her fourth year at university she met Obi." },
-    { "term": "life story", "translation": "история жизни", "example": "Read the two life stories and put the sentences in order." },
-    { "term": "twins", "translation": "близнецы", "example": "The two women are time twins — they are the same age and they met at fifteen." },
-    { "term": "regret", "translation": "жалеть, сожалеть", "example": "She regrets not going to art college." }
+    {
+      "term": "go to university",
+      "translation": "поступить в университет, учиться в вузе",
+      "example": "When she was fifteen she went to university.",
+      "keyword": "уникум",
+      "mnemonic": "Уникум сдаёт сессию на отлично — он go to university, учится в вузе."
+    },
+    {
+      "term": "a future husband / wife",
+      "translation": "будущий муж / жена",
+      "example": "At university she met her future husband, Obi.",
+      "keyword": "фьючерс",
+      "mnemonic": "Гадалка сулит фьючерс с кольцом — это a future husband, будущий муж."
+    },
+    {
+      "term": "start a company",
+      "translation": "основать компанию",
+      "example": "Samiya and Obi started a company together.",
+      "keyword": "компот",
+      "mnemonic": "Друзья варят компот в офисе — они start a company, основывают компанию."
+    },
+    {
+      "term": "make money",
+      "translation": "зарабатывать деньги",
+      "example": "Their apps made a lot of money.",
+      "keyword": "мани",
+      "mnemonic": "Рэпер трясёт мани веером — они make money, зарабатывают деньги."
+    },
+    {
+      "term": "be good at",
+      "translation": "хорошо владеть",
+      "example": "She was really good at maths and computer games.",
+      "keyword": "гуд",
+      "mnemonic": "Тренер гудит «гуд» над тетрадью — она be good at, хорошо владеет."
+    },
+    {
+      "term": "be shy",
+      "translation": "быть застенчивым",
+      "example": "In her childhood Samiya was very shy.",
+      "keyword": "шайба",
+      "mnemonic": "Хоккеист прячется за шайбу — он be shy, застенчивый."
+    },
+    {
+      "term": "information technology",
+      "translation": "информационные технологии",
+      "example": "She studied information technology for four years.",
+      "keyword": "айти",
+      "mnemonic": "Студентка зубрит айти ночами — это information technology, информационные технологии."
+    },
+    {
+      "term": "a village",
+      "translation": "деревня",
+      "example": "She was born in a small village near Lagos.",
+      "keyword": "вилла",
+      "mnemonic": "Олигарх строит виллу посреди деревни — вот a village."
+    },
+    {
+      "term": "a taxi driver",
+      "translation": "водитель такси",
+      "example": "Her father worked as a taxi driver.",
+      "keyword": "такса",
+      "mnemonic": "Такса крутит баранку такси — он a taxi driver, водитель такси."
+    },
+    {
+      "term": "gradually",
+      "translation": "постепенно",
+      "example": "He gradually stopped playing football at work.",
+      "keyword": "градус",
+      "mnemonic": "Термометр ползёт на градус вверх — изменения gradually, постепенно."
+    },
+    {
+      "term": "in one's fourth year",
+      "translation": "на четвёртом курсе",
+      "example": "In her fourth year at university she met Obi.",
+      "keyword": "форт",
+      "mnemonic": "Курсант штурмует форт на четвёртом курсе — это in one's fourth year."
+    },
+    {
+      "term": "life story",
+      "translation": "история жизни",
+      "example": "Read the two life stories and put the sentences in order.",
+      "keyword": "стори",
+      "mnemonic": "Бабушка пилит стори у камина — это life story, история жизни."
+    },
+    {
+      "term": "twins",
+      "translation": "близнецы",
+      "example": "The two women are time twins — they are the same age and they met at fifteen.",
+      "keyword": "твинс",
+      "mnemonic": "Двойняшки в майках «твинс» хохочут — они twins, близнецы."
+    },
+    {
+      "term": "regret",
+      "translation": "жалеть, сожалеть",
+      "example": "She regrets not going to art college.",
+      "keyword": "регги",
+      "mnemonic": "Растаман поёт регги и жалеет о прошлом — он regret, сожалеет."
+    }
   ]
 }

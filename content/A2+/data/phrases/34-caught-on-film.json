@@ -5,47 +5,65 @@
     {
       "phrase": "She said that...",
       "translation": "Она сказала, что...",
-      "example": "She said that the film was better than the book."
+      "example": "She said that the film was better than the book.",
+      "keyword": "сыщик",
+      "mnemonic": "Сыщик с афишей докладывает She said that... — Она сказала, что фильм лучше книги."
     },
     {
       "phrase": "He told me...",
       "translation": "Он сказал мне...",
-      "example": "He told me he had already seen the movie twice."
+      "example": "He told me he had already seen the movie twice.",
+      "keyword": "толпа",
+      "mnemonic": "Гид в толпе фанатов — He told me... — Он сказал мне, что видел фильм дважды."
     },
     {
       "phrase": "They asked if...",
       "translation": "Они спросили, не...",
-      "example": "They asked if I wanted to go to the cinema."
+      "example": "They asked if I wanted to go to the cinema.",
+      "keyword": "аська",
+      "mnemonic": "Друзья строчат в аську — They asked if... — Они спросили, не хочу ли в кино."
     },
     {
       "phrase": "She explained that...",
       "translation": "Она объяснила, что...",
-      "example": "She explained that the director wanted to create something unique."
+      "example": "She explained that the director wanted to create something unique.",
+      "keyword": "экскурсовод",
+      "mnemonic": "Экскурсовод с мегафоном — She explained that... — Она объяснила, что режиссёр хотел уникального."
     },
     {
       "phrase": "He mentioned that...",
       "translation": "Он упомянул, что...",
-      "example": "He mentioned that the sequel was coming out next year."
+      "example": "He mentioned that the sequel was coming out next year.",
+      "keyword": "ментол",
+      "mnemonic": "Фанат с ментолом в носу — He mentioned that... — Он упомянул, что сиквел выйдет в следующем году."
     },
     {
       "phrase": "I heard that...",
       "translation": "Я слышал, что...",
-      "example": "I heard that the film was nominated for several awards."
+      "example": "I heard that the film was nominated for several awards.",
+      "keyword": "хор",
+      "mnemonic": "Хор сплетников гудит I heard that... — Я слышал, что фильм номинировали на награды."
     },
     {
       "phrase": "She said she had a feeling they weren't in Kansas anymore",
       "translation": "Она сказала, что у неё чувство, что они больше не в Канзасе",
-      "example": "She said she had a feeling they weren't in Kansas anymore."
+      "example": "She said she had a feeling they weren't in Kansas anymore.",
+      "keyword": "канарейка",
+      "mnemonic": "Дороти с канарейкой шепчет She said she had a feeling they weren't in Kansas anymore — Она сказала, что у неё чувство, что они больше не в Канзасе."
     },
     {
       "phrase": "He said he was the king of the world",
       "translation": "Он сказал, что он король мира",
-      "example": "I'm the king of the world! He said he was the king of the world."
+      "example": "I'm the king of the world! He said he was the king of the world.",
+      "keyword": "кинг",
+      "mnemonic": "Самозванец-кинг на носу корабля — He said he was the king of the world, Он сказал, что он король мира."
     },
     {
       "phrase": "What's your favourite type of film?",
       "translation": "Какой твой любимый жанр кино?",
-      "example": "What's your favourite type of film? I love science fiction films."
+      "example": "What's your favourite type of film? I love science fiction films.",
+      "keyword": "фаворит",
+      "mnemonic": "Фаворит фантастики с попкорном — What's your favourite type of film? — Какой твой любимый жанр кино, я люблю фантастику."
     }
   ]
 }

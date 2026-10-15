@@ -5,47 +5,65 @@
     {
       "phrase": "I'm sorry to bother you, but...",
       "translation": "Извините за беспокойство, но...",
-      "example": "I'm sorry to bother you, but the heating isn't working."
+      "example": "I'm sorry to bother you, but the heating isn't working.",
+      "keyword": "бобёр",
+      "mnemonic": "Жилец с бобром под мышкой — I'm sorry to bother you, but... — Извините за беспокойство, отопление не работает."
     },
     {
       "phrase": "Could you please...?",
       "translation": "Не могли бы вы...?",
-      "example": "Could you please send someone to take a look?"
+      "example": "Could you please send someone to take a look?",
+      "keyword": "плиз",
+      "mnemonic": "Гость с плиз-шоколадкой — Could you please...? — Не могли бы вы прислать мастера глянуть."
     },
     {
       "phrase": "There seems to be a problem with...",
       "translation": "Кажется, есть проблема с...",
-      "example": "There seems to be a problem with the booking system."
+      "example": "There seems to be a problem with the booking system.",
+      "keyword": "пробка",
+      "mnemonic": "Админ с пробкой в системе — There seems to be a problem with... — Кажется, есть проблема с бронированием."
     },
     {
       "phrase": "I'm afraid I have a complaint",
       "translation": "Боюсь, у меня есть жалоба",
-      "example": "I'm afraid I have a complaint about the room service."
+      "example": "I'm afraid I have a complaint about the room service.",
+      "keyword": "компост",
+      "mnemonic": "Гость с компостом из номера — I'm afraid I have a complaint, Боюсь, у меня есть жалоба на сервис."
     },
     {
       "phrase": "Would you mind...?",
       "translation": "Вы не возражаете...?",
-      "example": "Would you mind changing my room?"
+      "example": "Would you mind changing my room?",
+      "keyword": "майонез",
+      "mnemonic": "С майонезом на подушке — Would you mind...? — Вы не возражаете поменять номер."
     },
     {
       "phrase": "I'd like to speak to the manager",
       "translation": "Я хотел бы поговорить с менеджером",
-      "example": "I'd like to speak to the manager, please."
+      "example": "I'd like to speak to the manager, please.",
+      "keyword": "мандарин",
+      "mnemonic": "С мандарином в руке требует — I'd like to speak to the manager, Я хотел бы поговорить с менеджером."
     },
     {
       "phrase": "Excuse me, could I speak to the manager?",
       "translation": "Извините, можно поговорить с менеджером?",
-      "example": "Excuse me, could I speak to the manager? There's a problem with the TV in my room."
+      "example": "Excuse me, could I speak to the manager? There's a problem with the TV in my room.",
+      "keyword": "эскимо",
+      "mnemonic": "С эскимо у стойки — Excuse me, could I speak to the manager? — Извините, можно поговорить с менеджером, телик барахлит."
     },
     {
       "phrase": "Could you help me?",
       "translation": "Вы не могли бы мне помочь?",
-      "example": "Could you help me? This soup is cold."
+      "example": "Could you help me? This soup is cold.",
+      "keyword": "хлеб",
+      "mnemonic": "С холодным супом и хлебом — Could you help me? — Вы не могли бы мне помочь, суп холодный."
     },
     {
       "phrase": "We'll look into it right away",
       "translation": "Мы разберёмся с этим прямо сейчас",
-      "example": "There's a problem with the air conditioning. We'll look into it right away."
+      "example": "There's a problem with the air conditioning. We'll look into it right away.",
+      "keyword": "локоть",
+      "mnemonic": "Мастер с локтем в кондиционере — We'll look into it right away, Мы разберёмся с этим прямо сейчас."
     }
   ]
 }

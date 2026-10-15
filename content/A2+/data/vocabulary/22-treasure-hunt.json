@@ -2,15 +2,75 @@
   "lessonId": "treasure-hunt",
   "title": "Treasure hunt — новые слова",
   "items": [
-    { "term": "lend", "translation": "одалживать (дать взаймы)", "example": "Can you lend me twenty pounds until Friday?" },
-    { "term": "borrow", "translation": "занимать (взять взаймы)", "example": "I need to borrow some money from my parents." },
-    { "term": "earn", "translation": "зарабатывать", "example": "She earns a good salary as a software engineer." },
-    { "term": "invest", "translation": "инвестировать, вкладывать", "example": "He decided to invest his savings in the stock market." },
-    { "term": "save", "translation": "копить, экономить", "example": "I'm saving money to buy a new car." },
-    { "term": "waste", "translation": "тратить впустую", "example": "Don't waste your money on useless things." },
-    { "term": "inherit", "translation": "унаследовать", "example": "She inherited a house from her grandmother." },
-    { "term": "owe", "translation": "быть должным", "example": "I still owe my brother fifty dollars." },
-    { "term": "afford", "translation": "позволить себе (финансово)", "example": "I can't afford a new phone right now." },
-    { "term": "pay off", "translation": "расплатиться, погасить долг", "example": "I finally paid off my student loan." }
+    {
+      "term": "lend",
+      "translation": "одалживать (дать взаймы)",
+      "example": "Can you lend me twenty pounds until Friday?",
+      "keyword": "лень",
+      "mnemonic": "Наглая лень клянчит lend — одалживать двадцать фунтов до пятницы."
+    },
+    {
+      "term": "borrow",
+      "translation": "занимать (взять взаймы)",
+      "example": "I need to borrow some money from my parents.",
+      "keyword": "боров",
+      "mnemonic": "Жирный боров пришёл borrow — занимать денег у родителей на жёлуди."
+    },
+    {
+      "term": "earn",
+      "translation": "зарабатывать",
+      "example": "She earns a good salary as a software engineer.",
+      "keyword": "урна",
+      "mnemonic": "Монеты звенят в урну, когда она earn — зарабатывает зарплату инженера."
+    },
+    {
+      "term": "invest",
+      "translation": "инвестировать, вкладывать",
+      "example": "He decided to invest his savings in the stock market.",
+      "keyword": "невестка",
+      "mnemonic": "Хитрая невестка уговорила invest — инвестировать сбережения в акции."
+    },
+    {
+      "term": "save",
+      "translation": "копить, экономить",
+      "example": "I'm saving money to buy a new car.",
+      "keyword": "сейф",
+      "mnemonic": "Бабушка прячет в сейф всё, что save — копит и экономит на новую машину."
+    },
+    {
+      "term": "waste",
+      "translation": "тратить впустую",
+      "example": "Don't waste your money on useless things.",
+      "keyword": "весть",
+      "mnemonic": "Гонец принёс весть и waste — тратит деньги впустую на бесполезную ерунду."
+    },
+    {
+      "term": "inherit",
+      "translation": "унаследовать",
+      "example": "She inherited a house from her grandmother.",
+      "keyword": "херес",
+      "mnemonic": "Тётушка оставила бутылку хереса той, кто inherit — унаследует дом от бабушки."
+    },
+    {
+      "term": "owe",
+      "translation": "быть должным",
+      "example": "I still owe my brother fifty dollars.",
+      "keyword": "овёс",
+      "mnemonic": "Брат требует мешок овса, ведь ты owe — должен ему пятьдесят долларов."
+    },
+    {
+      "term": "afford",
+      "translation": "позволить себе (финансово)",
+      "example": "I can't afford a new phone right now.",
+      "keyword": "форд",
+      "mnemonic": "Без денег не afford — не позволить себе даже старый форд и новый телефон."
+    },
+    {
+      "term": "pay off",
+      "translation": "расплатиться, погасить долг",
+      "example": "I finally paid off my student loan.",
+      "keyword": "пай",
+      "mnemonic": "Пират делит пай с командой, чтобы pay off — расплатиться и погасить долг за кредит."
+    }
   ]
 }

@@ -5,12 +5,16 @@
     {
       "idiom": "a new lease of life",
       "translation": "новая жизнь",
-      "example": "Yoga gave her a new lease of life."
+      "example": "Yoga gave her a new lease of life.",
+      "keyword": "лизинг",
+      "mnemonic": "Йога дала новую жизнь — взяла в лизинг: new lease of life."
     },
     {
       "idiom": "get into shape",
       "translation": "привести себя в форму",
-      "example": "He wants to get into shape before summer."
+      "example": "He wants to get into shape before summer.",
+      "keyword": "шейп",
+      "mnemonic": "Хочет прийти в форму к лету — качает шейп: get into shape."
     }
   ]
 }

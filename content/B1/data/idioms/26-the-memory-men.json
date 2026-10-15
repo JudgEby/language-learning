@@ -5,17 +5,23 @@
     {
       "idiom": "a photographic memory",
       "translation": "фотографическая память",
-      "example": "She has a photographic memory and never needs to take notes in class."
+      "example": "She has a photographic memory and never needs to take notes in class.",
+      "keyword": "мемори",
+      "mnemonic": "Мемори без конспектов: a photographic memory — фотографическая память, ей не нужны записи."
     },
     {
       "idiom": "in one ear and out the other",
       "translation": "в одно ухо влетает, в другое вылетает",
-      "example": "Everything I tell him goes in one ear and out the other."
+      "example": "Everything I tell him goes in one ear and out the other.",
+      "keyword": "эхо",
+      "mnemonic": "Эхо сквозь голову: in one ear and out the other — в одно ухо влетает, в другое вылетает."
     },
     {
       "idiom": "on the tip of my tongue",
       "translation": "вертится на языке",
-      "example": "Her name is on the tip of my tongue — give me a moment."
+      "example": "Her name is on the tip of my tongue — give me a moment.",
+      "keyword": "тип",
+      "mnemonic": "Тип с именем мнётся: on the tip of my tongue — вертится на языке, дай момент."
     }
   ]
 }

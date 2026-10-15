@@ -5,72 +5,100 @@
     {
       "idiom": "make a name for oneself",
       "translation": "сделать себе имя",
-      "example": "The small cafe made a name for itself with bold design."
+      "example": "The small cafe made a name for itself with bold design.",
+      "keyword": "нейм",
+      "mnemonic": "Кафе вывесило нейм-табличку: оно смогло сделать себе имя, — нейм гремит make a name for oneself."
     },
     {
       "idiom": "put on the map",
       "translation": "прославить; поставить на карту",
-      "example": "The 1970s campaign put New York on the map for tourists."
+      "example": "The 1970s campaign put New York on the map for tourists.",
+      "keyword": "мэп",
+      "mnemonic": "Кампания воткнула мэп-флажок: она смогла прославить и поставить на карту город, — мэп колет put on the map."
     },
     {
       "idiom": "word of mouth",
       "translation": "сарафанное радио",
-      "example": "El Raval grew popular by word of mouth, not by adverts."
+      "example": "El Raval grew popular by word of mouth, not by adverts.",
+      "keyword": "ворд",
+      "mnemonic": "Район гудит по ворд-каналам: работает сарафанное радио, — ворд шепчет word of mouth."
     },
     {
       "idiom": "sell like hot cakes",
       "translation": "расходиться как горячие пирожки",
-      "example": "The rebranded sneakers sold like hot cakes."
+      "example": "The rebranded sneakers sold like hot cakes.",
+      "keyword": "кейкс",
+      "mnemonic": "Кроссовки улетают как кейкс с лотка: они стали расходиться как горячие пирожки, — кейкс тает sell like hot cakes."
     },
     {
       "idiom": "corner the market",
       "translation": "захватить рынок",
-      "example": "The firm cornered the market in eco packaging."
+      "example": "The firm cornered the market in eco packaging.",
+      "keyword": "корнер",
+      "mnemonic": "Фирма заняла корнер-угол: она смогла захватить рынок экоупаковки, — корнер держит corner the market."
     },
     {
       "idiom": "a household name",
       "translation": "имя, известное каждому",
-      "example": "After the campaign the logo became a household name."
+      "example": "After the campaign the logo became a household name.",
+      "keyword": "хаус",
+      "mnemonic": "Логотип висит в каждом хаус-доме: это имя, известное каждому, — хаус гудит a household name."
     },
     {
       "idiom": "the hard sell",
       "translation": "агрессивные продажи",
-      "example": "Tourists dislike the hard sell on every corner."
+      "example": "Tourists dislike the hard sell on every corner.",
+      "keyword": "селл",
+      "mnemonic": "Зазывалы давят селл-напором: это агрессивные продажи на углу, — селл жмёт the hard sell."
     },
     {
       "idiom": "the customer is always right",
       "translation": "клиент всегда прав",
-      "example": "The slogan reminds staff that the customer is always right."
+      "example": "The slogan reminds staff that the customer is always right.",
+      "keyword": "кастомер",
+      "mnemonic": "Лозунг учит кастомер-вежливости: клиент всегда прав, — кастомер кивает the customer is always right."
     },
     {
       "idiom": "stand out from the crowd",
       "translation": "выделяться из толпы",
-      "example": "Chile stood out from the crowd with one clear visual symbol."
+      "example": "Chile stood out from the crowd with one clear visual symbol.",
+      "keyword": "крауд",
+      "mnemonic": "Чили выпрыгнуло из крауд-толпы: оно смогло выделяться из толпы, — крауд расступился stand out from the crowd."
     },
     {
       "idiom": "ahead of the curve",
       "translation": "впереди тренда",
-      "example": "The city stayed ahead of the curve with fresh branding."
+      "example": "The city stayed ahead of the curve with fresh branding.",
+      "keyword": "кёрв",
+      "mnemonic": "Город оседлал кёрв-волну: он впереди тренда с брендингом, — кёрв несёт ahead of the curve."
     },
     {
       "idiom": "set the trend",
       "translation": "задавать тренд",
-      "example": "Paris set the trend in place branding with its symbols."
+      "example": "Paris set the trend in place branding with its symbols.",
+      "keyword": "сет",
+      "mnemonic": "Париж подал сет-сигнал: он стал задавать тренд в брендинге, — сет сверкает set the trend."
     },
     {
       "idiom": "create a buzz",
       "translation": "создать ажиотаж",
-      "example": "The launch created a buzz on social media."
+      "example": "The launch created a buzz on social media.",
+      "keyword": "базз",
+      "mnemonic": "Запуск загудел как базз-рой: он смог создать ажиотаж в сетях, — базз жужжит create a buzz."
     },
     {
       "idiom": "think big",
       "translation": "мыслить масштабно",
-      "example": "Place branding works when cities think big."
+      "example": "Place branding works when cities think big.",
+      "keyword": "биг",
+      "mnemonic": "Города качают биг-мускул: они стали мыслить масштабно, — биг растёт think big."
     },
     {
       "idiom": "a breath of fresh air",
       "translation": "глоток свежего воздуха",
-      "example": "The rebrand was a breath of fresh air for the old district."
+      "example": "The rebrand was a breath of fresh air for the old district.",
+      "keyword": "фреш",
+      "mnemonic": "Ребрендинг пахнул фреш-ветром: это глоток свежего воздуха для района, — фреш веет a breath of fresh air."
     }
   ]
 }

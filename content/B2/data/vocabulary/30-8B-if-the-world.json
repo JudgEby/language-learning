@@ -5,17 +5,23 @@
     {
       "term": "poverty",
       "translation": "бедность",
-      "example": "Millions still live in poverty."
+      "example": "Millions still live in poverty.",
+      "keyword": "повербанк",
+      "mnemonic": "Миллионы живут в бедности — заряжаются от повербанка: live in poverty."
     },
     {
       "term": "inequality",
       "translation": "неравенство",
-      "example": "Income inequality is growing."
+      "example": "Income inequality is growing.",
+      "keyword": "эквивалент",
+      "mnemonic": "Неравенство доходов растёт — эквивалента справедливости нет: inequality is growing."
     },
     {
       "term": "humanitarian",
       "translation": "гуманитарный",
-      "example": "They provide humanitarian aid."
+      "example": "They provide humanitarian aid.",
+      "keyword": "гуманитарии",
+      "mnemonic": "Оказывают гуманитарную помощь — работают гуманитарии: provide humanitarian aid."
     },
     {
       "term": "sustainability",
@@ -25,17 +31,23 @@
     {
       "term": "global issue",
       "translation": "глобальная проблема",
-      "example": "Climate change is a global issue."
+      "example": "Climate change is a global issue.",
+      "keyword": "глобус",
+      "mnemonic": "Изменение климата — глобальная проблема: болеет весь глобус: global issue."
     },
     {
       "term": "homelessness",
       "translation": "бездомность",
-      "example": "Homelessness is a big problem in my city."
+      "example": "Homelessness is a big problem in my city.",
+      "keyword": "хоум-офис",
+      "mnemonic": "Бездомность — большая проблема: хоум-офис под мостом: big problem in my city."
     },
     {
       "term": "unemployment",
       "translation": "безработица",
-      "example": "Unemployment rose to record levels."
+      "example": "Unemployment rose to record levels.",
+      "keyword": "анемия",
+      "mnemonic": "Безработица бьёт рекорды — анемия рынка труда: rose to record levels."
     },
     {
       "term": "overcrowding",
@@ -45,17 +57,23 @@
     {
       "term": "literacy",
       "translation": "грамотность",
-      "example": "Reading groups help develop literacy."
+      "example": "Reading groups help develop literacy.",
+      "keyword": "литература",
+      "mnemonic": "Читательские кружки растят грамотность — даёшь литературу: help develop literacy."
     },
     {
       "term": "global warming",
       "translation": "глобальное потепление",
-      "example": "Global warming makes sea levels rise."
+      "example": "Global warming makes sea levels rise.",
+      "keyword": "варенье",
+      "mnemonic": "Глобальное потепление топит льды — варим варенье из Арктики: makes sea levels rise."
     },
     {
       "term": "civil rights",
       "translation": "гражданские права",
-      "example": "They keep fighting for civil rights."
+      "example": "They keep fighting for civil rights.",
+      "keyword": "сивик",
+      "mnemonic": "Продолжают бороться за гражданские права — едут на сивике: fighting for civil rights."
     }
   ]
 }

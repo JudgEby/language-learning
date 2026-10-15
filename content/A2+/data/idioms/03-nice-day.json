@@ -5,37 +5,51 @@
     {
       "idiom": "have a conversation with someone you do not know",
       "translation": "разговаривать с незнакомцем",
-      "example": "Do you enjoy having a conversation with someone you do not know?"
+      "example": "Do you enjoy having a conversation with someone you do not know?",
+      "keyword": "конверт",
+      "mnemonic": "С конвертом к незнакомцу пристаёт — have a conversation with someone you do not know, разговаривать с незнакомцем, нравится."
     },
     {
       "idiom": "have something in common",
       "translation": "иметь что-то общее",
-      "example": "We both love films, so we have a lot in common."
+      "example": "We both love films, so we have a lot in common.",
+      "keyword": "коммуна",
+      "mnemonic": "Киноманы из коммуны фанатов — have something in common, иметь что-то общее, оба любят кино."
     },
     {
       "idiom": "take turns",
       "translation": "говорить по очереди",
-      "example": "Good conversations work best when people take turns."
+      "example": "Good conversations work best when people take turns.",
+      "keyword": "турнир",
+      "mnemonic": "Болтуны с турниром вежливости — take turns, говорить по очереди, так лучше."
     },
     {
       "idiom": "gossip about celebrities",
       "translation": "сплетничать о знаменитостях",
-      "example": "Do you ever gossip about celebrities with your friends?"
+      "example": "Do you ever gossip about celebrities with your friends?",
+      "keyword": "гопник",
+      "mnemonic": "Гопник с журналом звёзд — gossip about celebrities, сплетничать о знаменитостях с друзьями."
     },
     {
       "idiom": "tell jokes",
       "translation": "рассказывать анекдоты, шутить",
-      "example": "He is good at telling jokes at parties."
+      "example": "He is good at telling jokes at parties.",
+      "keyword": "джокер",
+      "mnemonic": "Джокер на вечеринке трещит — tell jokes, рассказывать анекдоты, шутить умеет."
     },
     {
       "idiom": "kill the conversation",
       "translation": "убить разговор (прервать беседу)",
-      "example": "Looking at your phone all the time will kill the conversation."
+      "example": "Looking at your phone all the time will kill the conversation.",
+      "keyword": "килька",
+      "mnemonic": "Залипший с килькой в телефоне — kill the conversation, убить разговор, глядя в экран."
     },
     {
       "idiom": "change the topic",
       "translation": "сменить тему разговора",
-      "example": "When it gets quiet, you can change the topic with a new question."
+      "example": "When it gets quiet, you can change the topic with a new question.",
+      "keyword": "топик",
+      "mnemonic": "С топиком вопросов в тишине — change the topic, сменить тему разговора новым вопросом."
     }
   ]
 }

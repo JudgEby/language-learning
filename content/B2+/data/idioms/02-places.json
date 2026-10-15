@@ -5,72 +5,100 @@
     {
       "idiom": "a concrete jungle",
       "translation": "каменные джунгли",
-      "example": "After a week in the concrete jungle, I dream of blue space by the sea."
+      "example": "After a week in the concrete jungle, I dream of blue space by the sea.",
+      "keyword": "конкрит",
+      "mnemonic": "Небоскрёбы из конкрита: вот тебе каменные джунгли, — конкрит давит a concrete jungle."
     },
     {
       "idiom": "off the beaten track",
       "translation": "вдали от проторённых дорог",
-      "example": "The cafe is off the beaten track, in a quiet residential area."
+      "example": "The cafe is off the beaten track, in a quiet residential area.",
+      "keyword": "трек",
+      "mnemonic": "Кафе свернуло с трека туристов: оно вдали от проторённых дорог, — трек петляет off the beaten track."
     },
     {
       "idiom": "in the middle of nowhere",
       "translation": "очень далеко; у чёрта на куличках",
-      "example": "The new estate was built in the middle of nowhere, with no shops nearby."
+      "example": "The new estate was built in the middle of nowhere, with no shops nearby.",
+      "keyword": "мидл",
+      "mnemonic": "Посёлок-мидл в чистом поле: это очень далеко, у чёрта на куличках, — мидл пылится in the middle of nowhere."
     },
     {
       "idiom": "a stone's throw away",
       "translation": "рукой подать; совсем рядом",
-      "example": "The park is just a stone's throw away from our flat."
+      "example": "The park is just a stone's throw away from our flat.",
+      "keyword": "троу",
+      "mnemonic": "Парк на бросок троу-камня: рукой подать, совсем рядом, — троу летит a stone's throw away."
     },
     {
       "idiom": "paint the town red",
       "translation": "весело провести время в городе; оторваться",
-      "example": "After the exams we went out to paint the town red."
+      "example": "After the exams we went out to paint the town red.",
+      "keyword": "пейнт",
+      "mnemonic": "Выпускники мажут город пейнт-краской: идут весело провести время в городе, оторваться, — пейнт брызжет paint the town red."
     },
     {
       "idiom": "a home away from home",
       "translation": "второй дом",
-      "example": "The library became a home away from home during my studies."
+      "example": "The library became a home away from home during my studies.",
+      "keyword": "хоум",
+      "mnemonic": "Библиотека стала вторым хоум-домом для студента: вот тебе второй дом, — хоум греет a home away from home."
     },
     {
       "idiom": "make yourself at home",
       "translation": "чувствуй себя как дома",
-      "example": "Come in and make yourself at home!"
+      "example": "Come in and make yourself at home!",
+      "keyword": "мейк",
+      "mnemonic": "Хозяин жмёт мейк-уют: чувствуй себя как дома, — мейк стелет make yourself at home."
     },
     {
       "idiom": "the wrong side of the tracks",
       "translation": "неблагополучный район",
-      "example": "Rents are lower on the wrong side of the tracks, but the area is changing fast."
+      "example": "Rents are lower on the wrong side of the tracks, but the area is changing fast.",
+      "keyword": "трекс",
+      "mnemonic": "Рельсы-трекс делят карту: за ними неблагополучный район, — трекс гудит the wrong side of the tracks."
     },
     {
       "idiom": "a ghost town",
       "translation": "вымерший город; пустое место",
-      "example": "On Sundays the business district feels like a ghost town."
+      "example": "On Sundays the business district feels like a ghost town.",
+      "keyword": "гость",
+      "mnemonic": "В воскресенье ни гостя в квартале: вымерший город, пустое место, — гость пропал a ghost town."
     },
     {
       "idiom": "breathe new life into",
       "translation": "вдохнуть новую жизнь",
-      "example": "The fountain breathed new life into the forgotten square."
+      "example": "The fountain breathed new life into the forgotten square.",
+      "keyword": "бриз",
+      "mnemonic": "Фонтан пустил бриз по площади: смог вдохнуть новую жизнь в сквер, — бриз веет breathe new life into."
     },
     {
       "idiom": "a new lease of life",
       "translation": "новая жизнь; второе дыхание",
-      "example": "The refurbished market was given a new lease of life."
+      "example": "The refurbished market was given a new lease of life.",
+      "keyword": "лиз",
+      "mnemonic": "Рынок взял лиз-аренду заново: у него новая жизнь, второе дыхание, — лиз подписан a new lease of life."
     },
     {
       "idiom": "give something a facelift",
       "translation": "обновить; привести в порядок",
-      "example": "The council gave the old station a complete facelift."
+      "example": "The council gave the old station a complete facelift.",
+      "keyword": "фейс",
+      "mnemonic": "Вокзалу натянули фейс-маску: его удалось обновить, привести в порядок, — фейс свежеет give something a facelift."
     },
     {
       "idiom": "up-and-coming",
       "translation": "перспективный; набирающий популярность",
-      "example": "This up-and-coming neighbourhood attracts young families."
+      "example": "This up-and-coming neighbourhood attracts young families.",
+      "keyword": "каминг",
+      "mnemonic": "Район делает каминг-анонс: он перспективный, набирает популярность, — каминг гремит up-and-coming."
     },
     {
       "idiom": "the city that never sleeps",
       "translation": "город, который никогда не спит",
-      "example": "They moved to the coast because they were tired of the city that never sleeps."
+      "example": "They moved to the coast because they were tired of the city that never sleeps.",
+      "keyword": "слипс",
+      "mnemonic": "Мегаполис забыл слипс-отбой: это город, который никогда не спит, — слипс сбежал the city that never sleeps."
     }
   ]
 }

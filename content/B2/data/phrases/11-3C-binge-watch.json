@@ -5,42 +5,58 @@
     {
       "phrase": "get hooked on",
       "translation": "подсесть на",
-      "example": "I got hooked on the series after one episode."
+      "example": "I got hooked on the series after one episode.",
+      "keyword": "хук",
+      "mnemonic": "Подсела на сериал с первой серии — клюнула на хук: got hooked after one episode."
     },
     {
       "phrase": "spoil (sth) for (sb)",
       "translation": "испортить (рассказав сюжет)",
-      "example": "Don't spoil it for me!"
+      "example": "Don't spoil it for me!",
+      "keyword": "спойлер",
+      "mnemonic": "Не порти мне сюжет — держи спойлер при себе: don't spoil it for me!"
     },
     {
       "phrase": "catch up on",
       "translation": "наверстать (просмотр)",
-      "example": "I need to catch up on the latest season."
+      "example": "I need to catch up on the latest season.",
+      "keyword": "кетчуп",
+      "mnemonic": "Надо наверстать сезон — запасись кетчупом: catch up on the latest season."
     },
     {
       "phrase": "stay up all night",
       "translation": "не спать всю ночь",
-      "example": "We stayed up all night to watch the whole season."
+      "example": "We stayed up all night to watch the whole season.",
+      "keyword": "найт-шоу",
+      "mnemonic": "Не спали всю ночь — устроили найт-шоу сезона: stayed up all night."
     },
     {
       "phrase": "cancel social plans",
       "translation": "отменять планы с друзьями",
-      "example": "She cancelled her social plans to finish the series."
+      "example": "She cancelled her social plans to finish the series.",
+      "keyword": "канцелярия",
+      "mnemonic": "Отменила планы с друзьями ради сериала — ушла в канцелярию: cancelled social plans."
     },
     {
       "phrase": "call in sick (at work)",
       "translation": "отпроситься с работы по болезни",
-      "example": "He called in sick at work so he could stay at home and watch TV."
+      "example": "He called in sick at work so he could stay at home and watch TV.",
+      "keyword": "сиквел",
+      "mnemonic": "Отпросился по болезни ради сиквела — call in sick to watch TV."
     },
     {
       "phrase": "be based on (a true story)",
       "translation": "быть основанным на (реальной истории)",
-      "example": "The film is based on the true story of a famous scientist."
+      "example": "The film is based on the true story of a famous scientist.",
+      "keyword": "бейсбол",
+      "mnemonic": "Фильм основан на реальной истории — играл в бейсбол с учёным: based on a true story."
     },
     {
       "phrase": "be set in (a place)",
       "translation": "действие происходит в (каком-то месте)",
-      "example": "It is a detective drama which is set in Sweden."
+      "example": "It is a detective drama which is set in Sweden.",
+      "keyword": "сетка",
+      "mnemonic": "Детектив происходит в Швеции — вся страна в сетке: set in Sweden."
     }
   ]
 }

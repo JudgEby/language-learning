@@ -2,15 +2,15 @@
   "lessonId": "relax",
   "title": "Relax — новые слова",
   "items": [
-    { "term": "concert hall", "translation": "концертный зал", "example": "The symphony orchestra plays at the concert hall." },
-    { "term": "art gallery", "translation": "художественная галерея", "example": "There's a new art gallery opening in the city centre." },
-    { "term": "botanical garden", "translation": "ботанический сад", "example": "The botanical garden has plants from all over the world." },
-    { "term": "theme park", "translation": "парк развлечений", "example": "Kids love going to the theme park during the holidays." },
-    { "term": "skate park", "translation": "скейт-парк", "example": "Teenagers hang out at the skate park after school." },
-    { "term": "swimming pool", "translation": "бассейн", "example": "The local swimming pool is open until 9 p.m." },
-    { "term": "sports centre", "translation": "спортивный центр", "example": "The sports centre has a gym, a pool and tennis courts." },
-    { "term": "cinema", "translation": "кинотеатр", "example": "Let's go to the cinema to see the new film." },
-    { "term": "theatre", "translation": "театр", "example": "We booked tickets for the theatre next Saturday." },
-    { "term": "amusement arcade", "translation": "игровой зал, аркада", "example": "There's an amusement arcade with video games near the beach." }
+    { "term": "concert hall", "translation": "концертный зал", "example": "The symphony orchestra plays at the concert hall.", "keyword": "холл", "mnemonic": "Толпа гудит в холле — concert hall, концертный зал." },
+    { "term": "art gallery", "translation": "художественная галерея", "example": "There's a new art gallery opening in the city centre.", "keyword": "галерея", "mnemonic": "Новая галерея открылась в центре — art gallery, художественная галерея." },
+    { "term": "botanical garden", "translation": "ботанический сад", "example": "The botanical garden has plants from all over the world.", "keyword": "ботаник", "mnemonic": "Ботаник разводит кактусы со всего света — botanical garden, ботанический сад." },
+    { "term": "theme park", "translation": "парк развлечений", "example": "Kids love going to the theme park during the holidays.", "keyword": "тема", "mnemonic": "Тема дня — визжать от восторга: theme park, парк развлечений." },
+    { "term": "skate park", "translation": "скейт-парк", "example": "Teenagers hang out at the skate park after school.", "keyword": "скейт", "mnemonic": "Подростки гремят скейтами — hang out at the skate park, в скейт-парке." },
+    { "term": "swimming pool", "translation": "бассейн", "example": "The local swimming pool is open until 9 p.m.", "keyword": "пул", "mnemonic": "Весь пул плещется до девяти вечера — swimming pool, бассейн." },
+    { "term": "sports centre", "translation": "спортивный центр", "example": "The sports centre has a gym, a pool and tennis courts.", "keyword": "спорт", "mnemonic": "Спорт повсюду: зал, бассейн, корты — sports centre, спортивный центр." },
+    { "term": "cinema", "translation": "кинотеатр", "example": "Let's go to the cinema to see the new film.", "keyword": "синема", "mnemonic": "Вывеска «Синема» зовёт на новый фильм — let's go to the cinema, в кинотеатр." },
+    { "term": "theatre", "translation": "театр", "example": "We booked tickets for the theatre next Saturday.", "keyword": "театр", "mnemonic": "Билеты в театр на субботу уже в кармане — we booked tickets for the theatre." },
+    { "term": "amusement arcade", "translation": "игровой зал, аркада", "example": "There's an amusement arcade with video games near the beach.", "keyword": "аркада", "mnemonic": "Аркада мигает автоматами у пляжа — amusement arcade, игровой зал." }
   ]
 }

@@ -2,15 +2,75 @@
   "lessonId": "make-a-difference",
   "title": "Make a difference — новые слова",
   "items": [
-    { "term": "excited", "translation": "взволнованный (в хорошем смысле)", "example": "The children are excited about the trip." },
-    { "term": "worried", "translation": "обеспокоенный, встревоженный", "example": "I'm worried about the exam results." },
-    { "term": "nervous", "translation": "нервничающий", "example": "He always gets nervous before presentations." },
-    { "term": "proud", "translation": "гордый", "example": "She was proud of her son's achievement." },
-    { "term": "confident", "translation": "уверенный", "example": "I feel confident about passing the test." },
-    { "term": "anxious", "translation": "тревожный, обеспокоенный", "example": "She felt anxious before the interview." },
-    { "term": "relieved", "translation": "испытывающий облегчение", "example": "I was relieved when I heard the news." },
-    { "term": "disappointed", "translation": "разочарованный", "example": "He was disappointed with the result." },
-    { "term": "surprised", "translation": "удивлённый", "example": "She was surprised by the party." },
-    { "term": "grateful", "translation": "благодарный", "example": "I am grateful for your help." }
+    {
+      "term": "excited",
+      "translation": "взволнованный (в хорошем смысле)",
+      "example": "The children are excited about the trip.",
+      "keyword": "экстаз",
+      "mnemonic": "Дети в экстазе — они excited, взволнованные поездкой."
+    },
+    {
+      "term": "worried",
+      "translation": "обеспокоенный, встревоженный",
+      "example": "I'm worried about the exam results.",
+      "keyword": "ворчун",
+      "mnemonic": "Ворчун с супом worried — обеспокоенный и встревоженный экзаменом."
+    },
+    {
+      "term": "nervous",
+      "translation": "нервничающий",
+      "example": "He always gets nervous before presentations.",
+      "keyword": "невеста",
+      "mnemonic": "Невеста дрожит — она nervous, нервничает перед презентацией."
+    },
+    {
+      "term": "proud",
+      "translation": "гордый",
+      "example": "She was proud of her son's achievement.",
+      "keyword": "пруд",
+      "mnemonic": "Мать разлилась как пруд от гордости — она proud, гордая успехом сына."
+    },
+    {
+      "term": "confident",
+      "translation": "уверенный",
+      "example": "I feel confident about passing the test.",
+      "keyword": "конфета",
+      "mnemonic": "С конфетой в кармане он confident — уверенный, что сдаст тест."
+    },
+    {
+      "term": "anxious",
+      "translation": "тревожный, обеспокоенный",
+      "example": "She felt anxious before the interview.",
+      "keyword": "анкета",
+      "mnemonic": "Девушка мнёт анкету — она anxious, тревожная и обеспокоенная перед собеседованием."
+    },
+    {
+      "term": "relieved",
+      "translation": "испытывающий облегчение",
+      "example": "I was relieved when I heard the news.",
+      "keyword": "ливень",
+      "mnemonic": "После ливня отпустило — он relieved, испытывает облегчение от новостей."
+    },
+    {
+      "term": "disappointed",
+      "translation": "разочарованный",
+      "example": "He was disappointed with the result.",
+      "keyword": "понты",
+      "mnemonic": "Его понты лопнули — он disappointed, разочарованный результатом."
+    },
+    {
+      "term": "surprised",
+      "translation": "удивлённый",
+      "example": "She was surprised by the party.",
+      "keyword": "сыр",
+      "mnemonic": "Гости выпрыгивают из сыра — она surprised, удивлённая вечеринкой."
+    },
+    {
+      "term": "grateful",
+      "translation": "благодарный",
+      "example": "I am grateful for your help.",
+      "keyword": "гречка",
+      "mnemonic": "С мешком гречки он grateful — благодарный за помощь."
+    }
   ]
 }

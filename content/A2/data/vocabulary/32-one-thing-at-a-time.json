@@ -2,22 +2,124 @@
   "lessonId": "one-thing-at-a-time",
   "title": "One thing at a time — новые слова",
   "items": [
-    { "term": "multi-task / to multi-task", "translation": "заниматься несколькими делами одновременно", "example": "My friend is a typical multi-tasker." },
-    { "term": "a multi-tasker", "translation": "тот, кто делает несколько дел сразу", "example": "Multi-taskers do less work in an eight-hour day." },
-    { "term": "one thing at a time", "translation": "одно дело за раз", "example": "It's easy: do one thing at a time." },
-    { "term": "a text message", "translation": "текстовое сообщение", "example": "In one hour she answered three text messages." },
-    { "term": "answer / get a text message", "translation": "ответить / получить сообщение", "example": "She answered three text messages in one hour." },
-    { "term": "check your email", "translation": "проверить почту", "example": "He checked his email and ordered his food." },
-    { "term": "order food", "translation": "заказать еду", "example": "We ordered our food and then paid for it." },
-    { "term": "pay for something", "translation": "платить за что-то", "example": "She ordered her food, ate it and paid for it." },
-    { "term": "have a conversation", "translation": "вести разговор", "example": "We had two short phone conversations." },
-    { "term": "turn on / off", "translation": "включить / выключить", "example": "Turn your phone off — let's talk and listen." },
-    { "term": "exchange", "translation": "обмениваться", "example": "We exchanged phone numbers after lunch." },
-    { "term": "remember a name / a number", "translation": "помнить имя / номер", "example": "When you multi-task you forget names and numbers." },
-    { "term": "remember something easily", "translation": "легко запоминать", "example": "You can't remember normal things easily." },
-    { "term": "stress levels", "translation": "уровень стресса", "example": "When you multi-task, your stress levels go up." },
-    { "term": "a bank PIN number", "translation": "банковский ПИН-код", "example": "You can't remember your bank PIN number." },
-    { "term": "carefully", "translation": "внимательно, тщательно", "example": "You don't listen to them carefully." },
-    { "term": "loudly / quietly", "translation": "громко / тихо", "example": "Always have music? No — he listens quietly." }
+    {
+      "term": "multi-task / to multi-task",
+      "translation": "заниматься несколькими делами одновременно",
+      "example": "My friend is a typical multi-tasker.",
+      "keyword": "мультик",
+      "mnemonic": "Мультик смотрит в три экрана — он multi-tasks, делает несколько дел сразу."
+    },
+    {
+      "term": "a multi-tasker",
+      "translation": "тот, кто делает несколько дел сразу",
+      "example": "Multi-taskers do less work in an eight-hour day.",
+      "keyword": "мультиварка",
+      "mnemonic": "Мультиварка варит три блюда — она a multi-tasker."
+    },
+    {
+      "term": "one thing at a time",
+      "translation": "одно дело за раз",
+      "example": "It's easy: do one thing at a time.",
+      "keyword": "сингл",
+      "mnemonic": "Певец поёт сингл — одно дело за раз, one thing at a time."
+    },
+    {
+      "term": "a text message",
+      "translation": "текстовое сообщение",
+      "example": "In one hour she answered three text messages.",
+      "keyword": "текстиль",
+      "mnemonic": "Продавец текстиля шлёт сообщение — это a text message."
+    },
+    {
+      "term": "answer / get a text message",
+      "translation": "ответить / получить сообщение",
+      "example": "She answered three text messages in one hour.",
+      "keyword": "антенна",
+      "mnemonic": "Антенна ловит сообщение — answer a text message, ответить."
+    },
+    {
+      "term": "check your email",
+      "translation": "проверить почту",
+      "example": "He checked his email and ordered his food.",
+      "keyword": "чек",
+      "mnemonic": "Кассир пробивает чек и проверяет почту — check email."
+    },
+    {
+      "term": "order food",
+      "translation": "заказать еду",
+      "example": "We ordered our food and then paid for it.",
+      "keyword": "ордер",
+      "mnemonic": "Официант несёт ордер — это order food, заказать еду."
+    },
+    {
+      "term": "pay for something",
+      "translation": "платить за что-то",
+      "example": "She ordered her food, ate it and paid for it.",
+      "keyword": "пей",
+      "mnemonic": "Турист кричит «пей» и платит — pay for it."
+    },
+    {
+      "term": "have a conversation",
+      "translation": "вести разговор",
+      "example": "We had two short phone conversations.",
+      "keyword": "конверт",
+      "mnemonic": "Друзья рвут конверт и ведут разговор — have a conversation."
+    },
+    {
+      "term": "turn on / off",
+      "translation": "включить / выключить",
+      "example": "Turn your phone off — let's talk and listen.",
+      "keyword": "тёрка",
+      "mnemonic": "Повар трёт тёрку и выключает телефон — turn off."
+    },
+    {
+      "term": "exchange",
+      "translation": "обмениваться",
+      "example": "We exchanged phone numbers after lunch.",
+      "keyword": "чейндж",
+      "mnemonic": "Меняла кричит «чейндж» — это exchange, обмениваться."
+    },
+    {
+      "term": "remember a name / a number",
+      "translation": "помнить имя / номер",
+      "example": "When you multi-task you forget names and numbers.",
+      "keyword": "мем",
+      "mnemonic": "Школьник учит мем вместо имени — remember a name, помнить имя."
+    },
+    {
+      "term": "remember something easily",
+      "translation": "легко запоминать",
+      "example": "You can't remember normal things easily.",
+      "keyword": "изи",
+      "mnemonic": "Студент кричит «изи» и легко запоминает — remember easily."
+    },
+    {
+      "term": "stress levels",
+      "translation": "уровень стресса",
+      "example": "When you multi-task, your stress levels go up.",
+      "keyword": "стрелка",
+      "mnemonic": "Стрелка прыгает от уровня стресса — вот stress levels."
+    },
+    {
+      "term": "a bank PIN number",
+      "translation": "банковский ПИН-код",
+      "example": "You can't remember your bank PIN number.",
+      "keyword": "пингвин",
+      "mnemonic": "Пингвин вводит ПИН-код — это a bank PIN number."
+    },
+    {
+      "term": "carefully",
+      "translation": "внимательно, тщательно",
+      "example": "You don't listen to them carefully.",
+      "keyword": "кефир",
+      "mnemonic": "Слушатель с кефиром слушает внимательно — carefully."
+    },
+    {
+      "term": "loudly / quietly",
+      "translation": "громко / тихо",
+      "example": "Always have music? No — he listens quietly.",
+      "keyword": "ладушки",
+      "mnemonic": "Малыш хлопает в ладушки тихо — quietly."
+    }
   ]
 }

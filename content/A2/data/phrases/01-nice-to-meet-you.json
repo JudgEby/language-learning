@@ -2,15 +2,75 @@
   "lessonId": "nice-to-meet-you",
   "title": "Nice to meet you — фразы",
   "items": [
-    { "phrase": "Nice to meet you", "translation": "Приятно познакомиться", "example": "Hi, Zofia. Nice to meet you." },
-    { "phrase": "Nice to meet you too", "translation": "Взаимно, мне тоже приятно", "example": "Nice to meet you too, I've heard a lot about you." },
-    { "phrase": "How are you?", "translation": "Как дела?", "example": "Hello, Ed. How are you?" },
-    { "phrase": "I'm from ...", "translation": "Я из ...", "example": "I'm from Argentina, but I live in Madrid." },
-    { "phrase": "Excuse me, are you ...?", "translation": "Извините, вы ...?", "example": "Excuse me, are you Jerry Rutter?" },
-    { "phrase": "Sorry, your name Sandy?", "translation": "Простите, вас зовут Сэнди?", "example": "Sorry, your name Sandy? No, it's Sally." },
-    { "phrase": "This is my wife", "translation": "Это моя жена", "example": "Jerry, this is my wife, Sally." },
-    { "phrase": "Good to see you", "translation": "Рад вас видеть", "example": "Good to see you again after the summer." },
-    { "phrase": "What nationality are you?", "translation": "Кто вы по национальности?", "example": "What nationality are you? — I'm Egyptian." },
-    { "phrase": "spell your name", "translation": "произнести имя по буквам", "example": "Can you spell your name, please?" }
+    {
+      "phrase": "Nice to meet you",
+      "translation": "Приятно познакомиться",
+      "example": "Hi, Zofia. Nice to meet you.",
+      "keyword": "митинг",
+      "mnemonic": "На митинге незнакомцы жмут друг другу руки: nice to meet you — приятно познакомиться."
+    },
+    {
+      "phrase": "Nice to meet you too",
+      "translation": "Взаимно, мне тоже приятно",
+      "example": "Nice to meet you too, I've heard a lot about you.",
+      "keyword": "тату",
+      "mnemonic": "У обоих одинаковые тату — nice to meet you too, взаимно приятно."
+    },
+    {
+      "phrase": "How are you?",
+      "translation": "Как дела?",
+      "example": "Hello, Ed. How are you?",
+      "keyword": "хау",
+      "mnemonic": "Пёс вместо «гав» тявкает «хау» — спрашивает how are you, как дела."
+    },
+    {
+      "phrase": "I'm from ...",
+      "translation": "Я из ...",
+      "example": "I'm from Argentina, but I live in Madrid.",
+      "keyword": "гром",
+      "mnemonic": "Гремит гром, а путешественник кричит сквозь него I'm from... — я из..."
+    },
+    {
+      "phrase": "Excuse me, are you ...?",
+      "translation": "Извините, вы ...?",
+      "example": "Excuse me, are you Jerry Rutter?",
+      "keyword": "эскиз",
+      "mnemonic": "Художник показывает эскиз и бормочет excuse me, are you...? — извините, вы..."
+    },
+    {
+      "phrase": "Sorry, your name Sandy?",
+      "translation": "Простите, вас зовут Сэнди?",
+      "example": "Sorry, your name Sandy? No, it's Sally.",
+      "keyword": "санки",
+      "mnemonic": "Девочка Сэнди летит с горки на санках — sorry, your name Sandy?"
+    },
+    {
+      "phrase": "This is my wife",
+      "translation": "Это моя жена",
+      "example": "Jerry, this is my wife, Sally.",
+      "keyword": "вайфай",
+      "mnemonic": "Жена раздаёт вайфай всему дому — this is my wife, это моя жена."
+    },
+    {
+      "phrase": "Good to see you",
+      "translation": "Рад вас видеть",
+      "example": "Good to see you again after the summer.",
+      "keyword": "гудок",
+      "mnemonic": "Поезд радостно гудит гудком: good to see you — рад вас видеть."
+    },
+    {
+      "phrase": "What nationality are you?",
+      "translation": "Кто вы по национальности?",
+      "example": "What nationality are you? — I'm Egyptian.",
+      "keyword": "нашёл шёлк",
+      "mnemonic": "Таможенник нашёл шёлк и допытывается what nationality are you — кто вы по национальности."
+    },
+    {
+      "phrase": "spell your name",
+      "translation": "произнести имя по буквам",
+      "example": "Can you spell your name, please?",
+      "keyword": "спел",
+      "mnemonic": "Певец спел твоё имя по буквам — spell your name."
+    }
   ]
 }

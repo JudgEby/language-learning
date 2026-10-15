@@ -5,12 +5,16 @@
     {
       "idiom": "turn back the clock",
       "translation": "вернуться в прошлое",
-      "example": "I'd love to turn back the clock to my twenties."
+      "example": "I'd love to turn back the clock to my twenties.",
+      "keyword": "клоп",
+      "mnemonic": "Хотел бы вернуться в свои двадцать — давлю клопа времени: turn back the clock."
     },
     {
       "idiom": "in this day and age",
       "translation": "в наше время",
-      "example": "In this day and age, we take technology for granted."
+      "example": "In this day and age, we take technology for granted.",
+      "keyword": "ага",
+      "mnemonic": "В наше время технологии как должное — ага, прогресс: in this day and age."
     }
   ]
 }

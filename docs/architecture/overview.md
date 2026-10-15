@@ -19,6 +19,8 @@ those JSON files as its database.
 - Turn PDF textbooks (Student's Book + Workbook) into structured, machine-checkable JSON.
 - Present a flat, textbook-ordered study path: rule → vocabulary → phrases → idioms.
 - Run daily multiple-choice tests with immediate feedback and rule lookup.
+- Review vocabulary with SM-2 flashcards (Ebbinghaus curve) using keyword-method
+  phonetic associations stored on the lexicon items.
 - Remember progress across sessions with zero infrastructure.
 - Keep every content transformation scriptable, deterministic, and re-runnable.
 
@@ -26,7 +28,7 @@ those JSON files as its database.
 
 - No user accounts, no sync between devices, no server-side persistence.
 - No authoring UI: content changes are made by editing JSON and re-running scripts.
-- No grading, scoring, spaced repetition, or adaptive difficulty.
+- No grading, scoring, or adaptive difficulty.
 - No streaming audio, no media assets beyond SVG logos.
 
 ## Stack

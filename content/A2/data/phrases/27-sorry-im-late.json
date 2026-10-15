@@ -2,18 +2,96 @@
   "lessonId": "sorry-im-late",
   "title": "Sorry, I'm late — фразы",
   "items": [
-    { "phrase": "I'm very sorry I'm late.", "translation": "Очень извиняюсь за опоздание.", "example": "I'm very sorry I'm late. — That's OK." },
-    { "phrase": "Sorry to be late.", "translation": "Извините за опоздание.", "example": "Sorry to be late. I brought you a coffee." },
-    { "phrase": "I'm terribly / really sorry.", "translation": "Я очень-очень извиняюсь.", "example": "I'm terribly sorry. My train hit a cow." },
-    { "phrase": "I'm afraid I didn't hear ...", "translation": "Боюсь, я не услышал ...", "example": "I'm afraid I didn't hear my alarm clock." },
-    { "phrase": "I feel awful about it.", "translation": "Мне ужасно плохо из-за этого.", "example": "I'm so sorry I missed the meeting. I feel awful about it." },
-    { "phrase": "There was a long queue at ...", "translation": "В ... была длинная очередь.", "example": "There was a long queue at the coffee shop." },
-    { "phrase": "The traffic was terrible.", "translation": "Дорожный трафик был ужасным.", "example": "I'm sorry I'm late. The traffic was terrible." },
-    { "phrase": "My car broke down.", "translation": "Моя машина сломалась.", "example": "My car broke down and I had to walk." },
-    { "phrase": "Don't worry about it.", "translation": "Не беспокойся об этом.", "example": "Sorry. — Don't worry about it." },
-    { "phrase": "That's OK. No problem.", "translation": "Ничего страшного. Всё в порядке.", "example": "You missed the train. — That's OK. No problem." },
-    { "phrase": "Don't let it happen again.", "translation": "Чтобы так больше не было.", "example": "Don't let it happen again. — I promise." },
-    { "phrase": "I didn't mean to ...", "translation": "Я не хотел ...", "example": "I didn't mean to be rude, but I was late." },
-    { "phrase": "I woke up late and ...", "translation": "Я проснулся поздно и ...", "example": "I woke up late and missed my train." }
+    {
+      "phrase": "I'm very sorry I'm late.",
+      "translation": "Очень извиняюсь за опоздание.",
+      "example": "I'm very sorry I'm late. — That's OK.",
+      "keyword": "сыр",
+      "mnemonic": "Мышка с сыром извиняется за опоздание — I'm sorry I'm late."
+    },
+    {
+      "phrase": "Sorry to be late.",
+      "translation": "Извините за опоздание.",
+      "example": "Sorry to be late. I brought you a coffee.",
+      "keyword": "лейка",
+      "mnemonic": "Опоздун с лейкой и кофе — Sorry to be late, извините за опоздание."
+    },
+    {
+      "phrase": "I'm terribly / really sorry.",
+      "translation": "Я очень-очень извиняюсь.",
+      "example": "I'm terribly sorry. My train hit a cow.",
+      "keyword": "термос",
+      "mnemonic": "Пассажир с термосом извиняется — I'm terribly sorry."
+    },
+    {
+      "phrase": "I'm afraid I didn't hear ...",
+      "translation": "Боюсь, я не услышал ...",
+      "example": "I'm afraid I didn't hear my alarm clock.",
+      "keyword": "фрейд",
+      "mnemonic": "Пациент Фрейда не услышал будильник — I'm afraid I didn't hear."
+    },
+    {
+      "phrase": "I feel awful about it.",
+      "translation": "Мне ужасно плохо из-за этого.",
+      "example": "I'm so sorry I missed the meeting. I feel awful about it.",
+      "keyword": "фул",
+      "mnemonic": "Официант с фулом переживает — I feel awful about it, ужасно плохо."
+    },
+    {
+      "phrase": "There was a long queue at ...",
+      "translation": "В ... была длинная очередь.",
+      "example": "There was a long queue at the coffee shop.",
+      "keyword": "кью",
+      "mnemonic": "Туристы в кью стоят в очереди — there was a long queue."
+    },
+    {
+      "phrase": "The traffic was terrible.",
+      "translation": "Дорожный трафик был ужасным.",
+      "example": "I'm sorry I'm late. The traffic was terrible.",
+      "keyword": "трафик",
+      "mnemonic": "Трафик встал — the traffic was terrible, ужасный трафик."
+    },
+    {
+      "phrase": "My car broke down.",
+      "translation": "Моя машина сломалась.",
+      "example": "My car broke down and I had to walk.",
+      "keyword": "брейк",
+      "mnemonic": "Водитель жмёт на брейк, а машина сломалась — my car broke down."
+    },
+    {
+      "phrase": "Don't worry about it.",
+      "translation": "Не беспокойся об этом.",
+      "example": "Sorry. — Don't worry about it.",
+      "keyword": "ворона",
+      "mnemonic": "Ворона каркает — Don't worry about it, не беспокойся."
+    },
+    {
+      "phrase": "That's OK. No problem.",
+      "translation": "Ничего страшного. Всё в порядке.",
+      "example": "You missed the train. — That's OK. No problem.",
+      "keyword": "пробка",
+      "mnemonic": "Водитель в пробке машет — That's OK, ничего страшного."
+    },
+    {
+      "phrase": "Don't let it happen again.",
+      "translation": "Чтобы так больше не было.",
+      "example": "Don't let it happen again. — I promise.",
+      "keyword": "хеппи",
+      "mnemonic": "Босс без хеппи рычит — Don't let it happen again, чтобы так больше не было."
+    },
+    {
+      "phrase": "I didn't mean to ...",
+      "translation": "Я не хотел ...",
+      "example": "I didn't mean to be rude, but I was late.",
+      "keyword": "мина",
+      "mnemonic": "Сапёр с миной оправдывается — I didn't mean to, я не хотел."
+    },
+    {
+      "phrase": "I woke up late and ...",
+      "translation": "Я проснулся поздно и ...",
+      "example": "I woke up late and missed my train.",
+      "keyword": "вверх",
+      "mnemonic": "Соня подпрыгнул вверх поздно — I woke up late, проснулся поздно."
+    }
   ]
 }

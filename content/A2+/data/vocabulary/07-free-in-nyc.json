@@ -2,15 +2,15 @@
   "lessonId": "free-in-nyc",
   "title": "Free in NYC — новые слова",
   "items": [
-    { "term": "go sightseeing", "translation": "осматривать достопримечательности", "example": "We went sightseeing around Manhattan yesterday." },
-    { "term": "see a show", "translation": "посмотреть шоу/спектакль", "example": "I want to see a show on Broadway while I'm in New York." },
-    { "term": "visit a museum", "translation": "посетить музей", "example": "Let's visit the Natural History Museum on Saturday." },
-    { "term": "have a picnic", "translation": "устроить пикник", "example": "We are going to have a picnic by the river." },
-    { "term": "go for a bike ride", "translation": "покататься на велосипеде", "example": "We went for a bike ride along the beach." },
-    { "term": "take a walking tour", "translation": "взять пешую экскурсию", "example": "We took a walking tour of the old town." },
-    { "term": "go to a concert", "translation": "пойти на концерт", "example": "I'm going to a concert at Madison Square Garden." },
-    { "term": "visit a gallery", "translation": "посетить галерею", "example": "The gallery has a new exhibition of modern art." },
-    { "term": "take photos", "translation": "фотографировать", "example": "I took lots of photos of the skyline from the top." },
-    { "term": "go out for a meal", "translation": "пойти поесть в ресторан", "example": "Let's go out for a meal tonight — I know a great place." }
+    { "term": "go sightseeing", "translation": "осматривать достопримечательности", "example": "We went sightseeing around Manhattan yesterday.", "keyword": "синий", "mnemonic": "Синий от восторга турист глазеет по сторонам — go sightseeing, осматривает достопримечательности." },
+    { "term": "see a show", "translation": "посмотреть шоу/спектакль", "example": "I want to see a show on Broadway while I'm in New York.", "keyword": "шоу", "mnemonic": "Шоу на Бродвее гремит — I want to see a show, посмотреть шоу." },
+    { "term": "visit a museum", "translation": "посетить музей", "example": "Let's visit the Natural History Museum on Saturday.", "keyword": "музей", "mnemonic": "Музей естествознания ждёт в субботу — let's visit a museum, посетить музей." },
+    { "term": "have a picnic", "translation": "устроить пикник", "example": "We are going to have a picnic by the river.", "keyword": "пикник", "mnemonic": "Пикник у реки с комарами — we have a picnic, устраиваем пикник." },
+    { "term": "go for a bike ride", "translation": "покататься на велосипеде", "example": "We went for a bike ride along the beach.", "keyword": "байк", "mnemonic": "Байк несётся вдоль пляжа — go for a bike ride, покататься на велосипеде." },
+    { "term": "take a walking tour", "translation": "взять пешую экскурсию", "example": "We took a walking tour of the old town.", "keyword": "тур", "mnemonic": "Гид ведёт тур по старому городу — take a walking tour, пешую экскурсию." },
+    { "term": "go to a concert", "translation": "пойти на концерт", "example": "I'm going to a concert at Madison Square Garden.", "keyword": "концерт", "mnemonic": "Концерт на Мэдисон-сквер гремит — I'm going to a concert, иду на концерт." },
+    { "term": "visit a gallery", "translation": "посетить галерею", "example": "The gallery has a new exhibition of modern art.", "keyword": "галерея", "mnemonic": "Галерея открыла выставку — visit a gallery, посетить галерею." },
+    { "term": "take photos", "translation": "фотографировать", "example": "I took lots of photos of the skyline from the top.", "keyword": "фото", "mnemonic": "Фото скайлайна с верхотуры — I took lots of photos, фотографировал." },
+    { "term": "go out for a meal", "translation": "пойти поесть в ресторан", "example": "Let's go out for a meal tonight — I know a great place.", "keyword": "милый", "mnemonic": "Милый официант зовёт за стол — let's go out for a meal, пойти поесть в ресторан." }
   ]
 }

@@ -2,8 +2,26 @@
   "lessonId": "fact-or-fiction",
   "title": "Fact or fiction — идиомы",
   "items": [
-    { "idiom": "separate fact from fiction", "translation": "отделять факты от вымысла", "example": "In historical films, it's hard to separate fact from fiction." },
-    { "idiom": "take something with a pinch of salt", "translation": "относиться с недоверием", "example": "You should take urban myths with a pinch of salt." },
-    { "idiom": "the stuff of legend", "translation": "то, из чего делаются легенды", "example": "His story became the stuff of legend." }
+    {
+      "idiom": "separate fact from fiction",
+      "translation": "отделять факты от вымысла",
+      "example": "In historical films, it's hard to separate fact from fiction.",
+      "keyword": "фикшн",
+      "mnemonic": "Фикшн отодвинут от фактов: separate fact from fiction — отделять факты от вымысла в исторических фильмах."
+    },
+    {
+      "idiom": "take something with a pinch of salt",
+      "translation": "относиться с недоверием",
+      "example": "You should take urban myths with a pinch of salt.",
+      "keyword": "пинчер",
+      "mnemonic": "Пинчер чихнул от соли: take something with a pinch of salt — относиться с недоверием к городским мифам."
+    },
+    {
+      "idiom": "the stuff of legend",
+      "translation": "то, из чего делаются легенды",
+      "example": "His story became the stuff of legend.",
+      "keyword": "леденец",
+      "mnemonic": "Леденец обрастает слухами: the stuff of legend — то, из чего делаются легенды, как его история."
+    }
   ]
 }

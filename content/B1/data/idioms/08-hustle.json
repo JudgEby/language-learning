@@ -2,8 +2,26 @@
   "lessonId": "hustle",
   "title": "Hustle — идиомы",
   "items": [
-    { "idiom": "get away with murder", "translation": "выйти сухим из воды", "example": "The thief thought he could get away with stealing the painting." },
-    { "idiom": "caught red-handed", "translation": "пойман с поличным", "example": "The customs officers almost caught him red-handed." },
-    { "idiom": "pull off a heist", "translation": "совершить ограбление", "example": "They planned to pull off the perfect heist." }
+    {
+      "idiom": "get away with murder",
+      "translation": "выйти сухим из воды",
+      "example": "The thief thought he could get away with stealing the painting.",
+      "keyword": "морда",
+      "mnemonic": "Морда вора уцелела: get away with murder — выйти сухим из воды после кражи картины."
+    },
+    {
+      "idiom": "caught red-handed",
+      "translation": "пойман с поличным",
+      "example": "The customs officers almost caught him red-handed.",
+      "keyword": "ред",
+      "mnemonic": "Редкий вор с красными руками: caught red-handed — пойман с поличным на таможне."
+    },
+    {
+      "idiom": "pull off a heist",
+      "translation": "совершить ограбление",
+      "example": "They planned to pull off the perfect heist.",
+      "keyword": "хвост",
+      "mnemonic": "Хвост аферы торчит: pull off a heist — совершить ограбление, идеальное по плану."
+    }
   ]
 }

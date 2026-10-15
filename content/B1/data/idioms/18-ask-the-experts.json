@@ -5,17 +5,23 @@
     {
       "idiom": "a know-it-all",
       "translation": "всезнайка",
-      "example": "He's such a know-it-all — he always has an answer for everything."
+      "example": "He's such a know-it-all — he always has an answer for everything.",
+      "keyword": "ноу",
+      "mnemonic": "Ноу-всё-всезнайка: a know-it-all — всезнайка, у него ответ на всё."
     },
     {
       "idiom": "put your heads together",
       "translation": "совместно обдумать",
-      "example": "Let's put our heads together and find a solution."
+      "example": "Let's put our heads together and find a solution.",
+      "keyword": "хед",
+      "mnemonic": "Хеды сдвинуты вместе: put your heads together — совместно обдумать и найти решение."
     },
     {
       "idiom": "word of mouth",
       "translation": "сарафанное радио",
-      "example": "The restaurant became popular through word of mouth rather than advertising."
+      "example": "The restaurant became popular through word of mouth rather than advertising.",
+      "keyword": "маут",
+      "mnemonic": "Маут разносит славу: word of mouth — сарафанное радио сделало ресторан популярным."
     }
   ]
 }
