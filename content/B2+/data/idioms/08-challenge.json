@@ -1,0 +1,76 @@
+{
+  "lessonId": "challenge",
+  "title": "2D Challenge — Идиомы: соревнование и победа",
+  "items": [
+    {
+      "idiom": "give it one's best shot",
+      "translation": "выложиться; постараться изо всех сил",
+      "example": "Mist gave it his best shot in the final run."
+    },
+    {
+      "idiom": "a level playing field",
+      "translation": "равные условия",
+      "example": "The handicap system keeps a level playing field for all drivers."
+    },
+    {
+      "idiom": "down to the wire",
+      "translation": "до последнего момента",
+      "example": "The race went down to the wire."
+    },
+    {
+      "idiom": "a photo finish",
+      "translation": "финиш нос к носу",
+      "example": "It was a photo finish after three laps."
+    },
+    {
+      "idiom": "throw in the towel",
+      "translation": "сдаться; признать поражение",
+      "example": "He refused to throw in the towel despite the bad start."
+    },
+    {
+      "idiom": "win hands down",
+      "translation": "победить с лёгкостью",
+      "example": "The favourite won hands down."
+    },
+    {
+      "idiom": "raise the bar",
+      "translation": "поднять планку",
+      "example": "Each season the drivers raise the bar higher."
+    },
+    {
+      "idiom": "the ball is in your court",
+      "translation": "ход за тобой",
+      "example": "You have trained all month — now the ball is in your court."
+    },
+    {
+      "idiom": "by a whisker",
+      "translation": "с минимальным отрывом",
+      "example": "Ryan won by a whisker in the last round."
+    },
+    {
+      "idiom": "snatch victory from the jaws of defeat",
+      "translation": "вырвать победу из пасти поражения",
+      "example": "Mist snatched victory from the jaws of defeat."
+    },
+    {
+      "idiom": "may the best man win",
+      "translation": "пусть победит сильнейший",
+      "example": "Both crews shook hands: may the best man win!"
+    },
+    {
+      "idiom": "no pain, no gain",
+      "translation": "без труда нет победы",
+      "example": "Gym training is hard, but no pain, no gain."
+    },
+    {
+      "idiom": "the thrill of victory",
+      "translation": "восторг победы",
+      "example": "Nothing beats the thrill of victory after months of practice."
+    },
+    {
+      "idiom": "take home the trophy",
+      "translation": "завоевать кубок",
+      "example": "The Birmingham driver took home the trophy."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lessonId": "travel-partners",
+  "title": "Travel partners — идиомы",
+  "items": [
+    {
+      "idiom": "go abroad",
+      "translation": "ездить за границу",
+      "example": "Do you ever go abroad on holiday?"
+    },
+    {
+      "idiom": "enjoy travelling",
+      "translation": "любить путешествовать",
+      "example": "I really enjoy travelling by train."
+    },
+    {
+      "idiom": "stay in a hotel",
+      "translation": "останавливаться в отеле",
+      "example": "We stayed in a hotel in the city centre."
+    },
+    {
+      "idiom": "compare your answers",
+      "translation": "сравнивать ответы",
+      "example": "Compare your answers with your partner."
+    },
+    {
+      "idiom": "guess the photo",
+      "translation": "угадывать фото",
+      "example": "Describe the place and let me guess the photo."
+    },
+    {
+      "idiom": "try local food",
+      "translation": "пробовать местную еду",
+      "example": "In Barcelona we tried the local food."
+    },
+    {
+      "idiom": "move to a hotel",
+      "translation": "переехать в отель",
+      "example": "It was noisy, so I moved to a hotel."
+    }
+  ]
+}

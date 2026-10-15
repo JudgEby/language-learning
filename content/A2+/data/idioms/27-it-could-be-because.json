@@ -1,0 +1,41 @@
+{
+  "lessonId": "it-could-be-because",
+  "title": "It could be because — догадки о животных",
+  "items": [
+    {
+      "idiom": "use rats after an earthquake",
+      "translation": "использовать крыс после землетрясения",
+      "example": "Why do we use rats after an earthquake?"
+    },
+    {
+      "idiom": "the army uses dolphins",
+      "translation": "армия использует дельфинов",
+      "example": "Why does the army use dolphins?"
+    },
+    {
+      "idiom": "use seals for research in the ocean",
+      "translation": "использовать тюленей для исследований в океане",
+      "example": "We use seals for research in the ocean."
+    },
+    {
+      "idiom": "guard the prisoners",
+      "translation": "охранять заключённых",
+      "example": "Maybe they use the dogs to guard the prisoners."
+    },
+    {
+      "idiom": "smell drugs",
+      "translation": "чуять наркотики",
+      "example": "Perhaps they can smell drugs from far away."
+    },
+    {
+      "idiom": "live in very cold temperatures",
+      "translation": "жить при очень низких температурах",
+      "example": "It might be because they can live in very cold temperatures."
+    },
+    {
+      "idiom": "definitely not to attack people",
+      "translation": "точно не для нападения на людей",
+      "example": "It is definitely not to attack people in the street."
+    }
+  ]
+}

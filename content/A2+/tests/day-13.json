@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "into-the-wild"
     ]
+  },
+  {
+    "question": "Complete the sentence: ___, so mornings are quieter.",
+    "options": [
+      "I'll take it.",
+      "lose weight",
+      "I was wondering if you could help me.",
+      "I often have meetings in the afternoon"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I often have meetings in the afternoon' (У меня часто бывают встречи днём). Full sentence: I often have meetings in the afternoon, so mornings are quieter.",
+    "relatedRuleIds": [
+      "risky-business"
+    ],
+    "id": "700a3b743eec"
+  },
+  {
+    "question": "Which word means 'физическая нагрузка, упражнение'?",
+    "options": [
+      "conduct research",
+      "exercise",
+      "faulty",
+      "I was tired so I went to bed."
+    ],
+    "correctIndex": 1,
+    "explanation": "'exercise' means физическая нагрузка, упражнение. Example: You should get at least 30 minutes of exercise every day.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ],
+    "id": "84d63dd88671"
+  },
+  {
+    "question": "Which word means 'безопасный'?",
+    "options": [
+      "Have you ever caught a fish?",
+      "safe",
+      "Let's…",
+      "make up"
+    ],
+    "correctIndex": 1,
+    "explanation": "'safe' means безопасный. Example: This neighbourhood is very safe, even at night.",
+    "relatedRuleIds": [
+      "top-cities"
+    ],
+    "id": "8966a769a71a"
   }
 ]

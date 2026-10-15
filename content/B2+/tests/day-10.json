@@ -343,5 +343,65 @@
     "relatedRuleIds": [
       "street-chatter"
     ]
+  },
+  {
+    "question": "Which word means 'экскурсионный автобус'?",
+    "options": [
+      "capture",
+      "passionate",
+      "greenhouse gases",
+      "tour bus"
+    ],
+    "correctIndex": 3,
+    "explanation": "'tour bus' means экскурсионный автобус. Example: We could hop on a tour bus to get to know the city.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ],
+    "id": "a91c9f1cb9eb"
+  },
+  {
+    "question": "Which word means 'фоновая музыка'?",
+    "options": [
+      "innovation",
+      "change of heart",
+      "background music",
+      "promotion"
+    ],
+    "correctIndex": 2,
+    "explanation": "'background music' means фоновая музыка. Example: The poem is performed with background music.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ],
+    "id": "c5238461c312"
+  },
+  {
+    "question": "Which word means 'экосистема'?",
+    "options": [
+      "decision",
+      "shift",
+      "ecosystem",
+      "relevant experience"
+    ],
+    "correctIndex": 2,
+    "explanation": "'ecosystem' means экосистема. Example: The entire ecosystem depends on the delicate balance between predators and prey.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ],
+    "id": "433b05e94199"
+  },
+  {
+    "question": "Which word means 'иллюстрировать примером'?",
+    "options": [
+      "be prone to",
+      "illustrate",
+      "recharge",
+      "training"
+    ],
+    "correctIndex": 1,
+    "explanation": "'illustrate' means иллюстрировать примером. Example: Let me give a few more examples to illustrate my point.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ],
+    "id": "35df1c95b169"
   }
 ]

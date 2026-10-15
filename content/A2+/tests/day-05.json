@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "hidden-talent"
     ]
+  },
+  {
+    "question": "Which word means 'влюбиться'?",
+    "options": [
+      "I would love to... if I had the chance",
+      "backpack",
+      "fall in love",
+      "There's a river near the village."
+    ],
+    "correctIndex": 2,
+    "explanation": "'fall in love' means влюбиться. Example: They fell in love when they were travelling in Italy.",
+    "relatedRuleIds": [
+      "true-love"
+    ],
+    "id": "eee63f9e3b04"
+  },
+  {
+    "question": "Choose the correct collocation: On the way to the airport we stopped for coffee.",
+    "options": [
+      "good enough",
+      "It all started when…",
+      "On the way to…",
+      "In those days"
+    ],
+    "correctIndex": 2,
+    "explanation": "'On the way to…' (По пути в / к…). Full sentence: On the way to the airport we stopped for coffee.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ],
+    "id": "d016a9ed8ff2"
+  },
+  {
+    "question": "Complete the sentence: Electric cars are ___ than petrol cars.",
+    "options": [
+      "I'd like to know what time it opens.",
+      "expensive",
+      "far more efficient",
+      "Can you tell me how to get to the airport?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'far more efficient' (гораздо эффективнее). Full sentence: Electric cars are far more efficient than petrol cars.",
+    "relatedRuleIds": [
+      "green-living"
+    ],
+    "id": "5b065c6e4b91"
   }
 ]

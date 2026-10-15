@@ -1,0 +1,76 @@
+{
+  "lessonId": "new-friends",
+  "title": "1A New Friends — Идиомы: дружба и отношения",
+  "items": [
+    {
+      "idiom": "a friend in need is a friend indeed",
+      "translation": "друг познаётся в беде",
+      "example": "When I lost my job and had to move, only two people helped me pack — a friend in need is a friend indeed."
+    },
+    {
+      "idiom": "through thick and thin",
+      "translation": "и в горе, и в радости; несмотря ни на что",
+      "example": "We met on a friendship app five years ago and have stuck together through thick and thin."
+    },
+    {
+      "idiom": "birds of a feather flock together",
+      "translation": "рыбак рыбака видит издалека",
+      "example": "Addy looked for people with similar passions — birds of a feather flock together."
+    },
+    {
+      "idiom": "two peas in a pod",
+      "translation": "неразлучные; два сапога пара",
+      "example": "My sister and her best friend are like two peas in a pod."
+    },
+    {
+      "idiom": "joined at the hip",
+      "translation": "неразлучные; всегда вместе",
+      "example": "After that summer trip they became joined at the hip."
+    },
+    {
+      "idiom": "thick as thieves",
+      "translation": "близкие друзья; водой не разольёшь",
+      "example": "Those two colleagues are as thick as thieves after working on the project together."
+    },
+    {
+      "idiom": "a fair-weather friend",
+      "translation": "ненадёжный друг; друг только в хорошие времена",
+      "example": "He stopped replying as soon as I needed help — a real fair-weather friend."
+    },
+    {
+      "idiom": "a shoulder to cry on",
+      "translation": "человек, которому можно поплакаться",
+      "example": "A good friendship app should help you find not just company, but a shoulder to cry on."
+    },
+    {
+      "idiom": "bury the hatchet",
+      "translation": "закопать топор войны; помириться",
+      "example": "They argued about money for months before finally burying the hatchet."
+    },
+    {
+      "idiom": "get along like a house on fire",
+      "translation": "отлично ладить; быстро подружиться",
+      "example": "We met for coffee and got along like a house on fire."
+    },
+    {
+      "idiom": "the more the merrier",
+      "translation": "чем больше, тем лучше",
+      "example": "Bring your flatmates to the picnic — the more the merrier!"
+    },
+    {
+      "idiom": "no man is an island",
+      "translation": "человеку нужны люди; одному не прожить",
+      "example": "Addy's story proves that no man is an island — we all need friends."
+    },
+    {
+      "idiom": "blood is thicker than water",
+      "translation": "кровь гуще воды; семья важнее",
+      "example": "Friends come and go, but blood is thicker than water."
+    },
+    {
+      "idiom": "a friend to all is a friend to none",
+      "translation": "кто всем друг, тот никому не друг",
+      "example": "He tries to please everyone, but a friend to all is a friend to none."
+    }
+  ]
+}

@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "what-should-i-do"
     ]
+  },
+  {
+    "question": "Complete the sentence: One moment, ___ to the reception desk.",
+    "options": [
+      "witness",
+      "bargain",
+      "uniform",
+      "I'll put you through"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'll put you through' (Я соединю вас). Full sentence: One moment, I'll put you through to the reception desk.",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ],
+    "id": "57c5af7d990b"
+  },
+  {
+    "question": "Which word means 'доказать точку зрения'?",
+    "options": [
+      "waste",
+      "tell a lie",
+      "prove a point",
+      "retire"
+    ],
+    "correctIndex": 2,
+    "explanation": "'prove a point' means доказать точку зрения. Example: His experiment proved a point about gravity.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ],
+    "id": "7c977d7b230d"
+  },
+  {
+    "question": "Choose the correct collocation: Have you ever made a video call before?",
+    "options": [
+      "Have you ever...?",
+      "You mustn't…",
+      "afford",
+      "She explained that..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Have you ever...?' (Ты когда-нибудь...?). Full sentence: Have you ever made a video call before?",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ],
+    "id": "3b7977253f10"
   }
 ]

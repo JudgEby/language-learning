@@ -1,0 +1,41 @@
+{
+  "lessonId": "keeping-fit",
+  "title": "Keeping fit — идиомы",
+  "items": [
+    {
+      "idiom": "get rid of your anger",
+      "translation": "избавиться от злости",
+      "example": "If you want to get rid of your anger, try boxing training."
+    },
+    {
+      "idiom": "build your muscles",
+      "translation": "накачать мышцы, укрепить мышцы",
+      "example": "Pilates helps you build your muscles and strength."
+    },
+    {
+      "idiom": "learn dance moves",
+      "translation": "выучить танцевальные движения",
+      "example": "You also learn some great dance moves in class."
+    },
+    {
+      "idiom": "run up the stairs",
+      "translation": "бежать вверх по лестнице",
+      "example": "Start at the bottom of the tower and run up the stairs to the top."
+    },
+    {
+      "idiom": "keep your balance",
+      "translation": "держать равновесие",
+      "example": "You need to be strong to keep your balance on the board."
+    },
+    {
+      "idiom": "forget all your problems",
+      "translation": "забыть обо всех проблемах",
+      "example": "The calm ocean will make you forget all your problems."
+    },
+    {
+      "idiom": "eat lots of fruit",
+      "translation": "есть много фруктов",
+      "example": "What do you do to keep fit? I eat lots of fruit."
+    }
+  ]
+}

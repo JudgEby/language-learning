@@ -1,0 +1,41 @@
+{
+  "lessonId": "the-longest-bike-ride",
+  "title": "The longest bike ride — идиомы",
+  "items": [
+    {
+      "idiom": "go across Asia",
+      "translation": "ехать через Азию",
+      "example": "The tour goes across Asia to Istanbul."
+    },
+    {
+      "idiom": "stay in ancient hotels",
+      "translation": "ночевать в старинных отелях",
+      "example": "At night you stay in ancient roadside hotels."
+    },
+    {
+      "idiom": "eat in local restaurants",
+      "translation": "есть в местных ресторанах",
+      "example": "On other days cyclists eat in local restaurants."
+    },
+    {
+      "idiom": "shop in local markets",
+      "translation": "покупать еду на местных рынках",
+      "example": "They shop in local markets for their food."
+    },
+    {
+      "idiom": "see beautiful places",
+      "translation": "видеть красивые места",
+      "example": "Along the way you see beautiful places."
+    },
+    {
+      "idiom": "have an exciting ride",
+      "translation": "совершить захватывающую поездку",
+      "example": "They had the most exciting ride of their lives."
+    },
+    {
+      "idiom": "arrive a changed person",
+      "translation": "приехать изменившимся человеком",
+      "example": "You arrive in Istanbul a changed person."
+    }
+  ]
+}

@@ -748,5 +748,230 @@
     "relatedRuleIds": [
       "2A-real-or-virtual"
     ]
+  },
+  {
+    "id": "001928912bea",
+    "question": "Choose the correct collocation: Recently I have taken up rock climbing and surfing.",
+    "options": [
+      "keep mentally active",
+      "take up (a hobby)",
+      "harsh",
+      "hit the ground running"
+    ],
+    "correctIndex": 1,
+    "explanation": "'take up (a hobby)' (начать заниматься (хобби)). Full sentence: Recently I have taken up rock climbing and surfing.",
+    "relatedRuleIds": [
+      "1A-my-id"
+    ]
+  },
+  {
+    "id": "92e1cff02ceb",
+    "question": "Which word means 'увлечённый'?",
+    "options": [
+      "turn over a new leaf",
+      "passionate about",
+      "childhood memories",
+      "sunlight"
+    ],
+    "correctIndex": 1,
+    "explanation": "'passionate about' means увлечённый. Example: She's passionate about travel.",
+    "relatedRuleIds": [
+      "1C-much-rather"
+    ]
+  },
+  {
+    "id": "89df1e41b600",
+    "question": "Which word means 'исследователь'?",
+    "options": [
+      "researcher",
+      "have something in common",
+      "put up with",
+      "on the whole"
+    ],
+    "correctIndex": 0,
+    "explanation": "'researcher' means исследователь. Example: I work as a researcher in a lab.",
+    "relatedRuleIds": [
+      "2A-real-or-virtual"
+    ]
+  },
+  {
+    "id": "981aebf0a588",
+    "question": "Choose the correct collocation: You should be careful with these old paintings.",
+    "options": [
+      "catch up on sleep",
+      "be careful with (sth)",
+      "advance",
+      "warm up to (sb)"
+    ],
+    "correctIndex": 1,
+    "explanation": "'be careful with (sth)' (быть осторожным с (чем-то)). Full sentence: You should be careful with these old paintings.",
+    "relatedRuleIds": [
+      "2D-time-traveller"
+    ]
+  },
+  {
+    "id": "af61efda8c45",
+    "question": "Which word means 'продолжать'?",
+    "options": [
+      "carry on",
+      "sell out",
+      "unique",
+      "breakthrough"
+    ],
+    "correctIndex": 0,
+    "explanation": "'carry on' means продолжать. Example: Just carry on and hope they stop.",
+    "relatedRuleIds": [
+      "3B-performers"
+    ]
+  },
+  {
+    "id": "497ed5fd30d6",
+    "question": "Complete the sentence: Although he does not ___, he listens to music at home.",
+    "options": [
+      "go to festivals",
+      "civil rights",
+      "cardio",
+      "nightmare"
+    ],
+    "correctIndex": 0,
+    "explanation": "'go to festivals' (ездить на фестивали). Full sentence: Although he does not go to festivals, he listens to music at home.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "bb60c89147f6",
+    "question": "Which word means 'человек с крепким сном'?",
+    "options": [
+      "biodiversity",
+      "video call",
+      "global issue",
+      "heavy sleeper"
+    ],
+    "correctIndex": 3,
+    "explanation": "'heavy sleeper' means человек с крепким сном. Example: I'm a heavy sleeper and sleep through noise.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "6d32ef553ec7",
+    "question": "Which word means 'как раз вовремя'?",
+    "options": [
+      "just in time",
+      "excel at something",
+      "a thing of the past",
+      "custom"
+    ],
+    "correctIndex": 0,
+    "explanation": "'just in time' means как раз вовремя. Example: They arrived just in time for the bloom.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "bc9a549a3044",
+    "question": "Choose the correct collocation: Put yourself on mute if you are not speaking.",
+    "options": [
+      "keep mentally active",
+      "streaming",
+      "put yourself on mute",
+      "recharge"
+    ],
+    "correctIndex": 2,
+    "explanation": "'put yourself on mute' (выключать свой микрофон). Full sentence: Put yourself on mute if you are not speaking.",
+    "relatedRuleIds": [
+      "5C-on-mute"
+    ]
+  },
+  {
+    "id": "e50b17fc9d7d",
+    "question": "Which word means 'признавать'?",
+    "options": [
+      "impulsive",
+      "privacy",
+      "admit",
+      "mind you"
+    ],
+    "correctIndex": 2,
+    "explanation": "'admit' means признавать. Example: He admitted that it was not true.",
+    "relatedRuleIds": [
+      "6B-quiet"
+    ]
+  },
+  {
+    "id": "bb256ac0bfe6",
+    "question": "Complete the sentence: Use fillers to ___.",
+    "options": [
+      "set up your own business",
+      "impulsive",
+      "give yourself time to think",
+      "take a peek"
+    ],
+    "correctIndex": 2,
+    "explanation": "'give yourself time to think' (дать себе время подумать). Full sentence: Use fillers to give yourself time to think.",
+    "relatedRuleIds": [
+      "6D-lie-to-you"
+    ]
+  },
+  {
+    "id": "b519aa4d2056",
+    "question": "Which word means 'задним числом'?",
+    "options": [
+      "pull out",
+      "hindsight",
+      "preserve endangered languages",
+      "sector"
+    ],
+    "correctIndex": 1,
+    "explanation": "'hindsight' means задним числом. Example: In hindsight, I made the wrong choice.",
+    "relatedRuleIds": [
+      "7B-i-wish"
+    ]
+  },
+  {
+    "id": "371871d43b1c",
+    "question": "Which word means 'в крови, наследственное'?",
+    "options": [
+      "run in the blood",
+      "succeed",
+      "refuse",
+      "visualisation"
+    ],
+    "correctIndex": 0,
+    "explanation": "'run in the blood' means в крови, наследственное. Example: Cooking runs in my blood.",
+    "relatedRuleIds": [
+      "7D-hard-work-or-talent"
+    ]
+  },
+  {
+    "id": "6ad4f2859bda",
+    "question": "Which word means 'бедность'?",
+    "options": [
+      "take your mind off problems",
+      "insomnia",
+      "poverty",
+      "raise awareness"
+    ],
+    "correctIndex": 2,
+    "explanation": "'poverty' means бедность. Example: Millions still live in poverty.",
+    "relatedRuleIds": [
+      "8B-if-the-world"
+    ]
+  },
+  {
+    "id": "30cc8d7e2626",
+    "question": "Which word means 'вернуть уверенность'?",
+    "options": [
+      "get to the other side",
+      "sleep in",
+      "make the effort (to learn)",
+      "get your confidence back"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get your confidence back' means вернуть уверенность. Example: We help them get their confidence back.",
+    "relatedRuleIds": [
+      "8D-second-shot"
+    ]
   }
 ]

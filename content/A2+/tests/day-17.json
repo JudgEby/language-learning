@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "caught-on-film"
     ]
+  },
+  {
+    "question": "Which word means 'покататься на велосипеде'?",
+    "options": [
+      "You shouldn't…",
+      "go for a bike ride",
+      "try on",
+      "much better than"
+    ],
+    "correctIndex": 1,
+    "explanation": "'go for a bike ride' means покататься на велосипеде. Example: We went for a bike ride along the beach.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ],
+    "id": "d915bcceb8c7"
+  },
+  {
+    "question": "Which word means 'белок'?",
+    "options": [
+      "take a risk",
+      "I hardly ever…",
+      "protein",
+      "I never work late"
+    ],
+    "correctIndex": 2,
+    "explanation": "'protein' means белок. Example: Beans, lentils, and tofu are excellent sources of protein.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ],
+    "id": "ae4c969574b4"
+  },
+  {
+    "question": "Which word means 'свидетель'?",
+    "options": [
+      "vegan",
+      "The people are really friendly",
+      "This must be their habitat.",
+      "witness"
+    ],
+    "correctIndex": 3,
+    "explanation": "'witness' means свидетель. Example: A witness saw the car speeding away.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ],
+    "id": "fea8907ee1e1"
   }
 ]

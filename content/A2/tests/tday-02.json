@@ -298,5 +298,125 @@
     "relatedRuleIds": [
       "what-time-does-it-start"
     ]
+  },
+  {
+    "id": "f4202e82904c",
+    "question": "Which word means 'национальность'?",
+    "options": [
+      "on Monday morning",
+      "meet up",
+      "a forest",
+      "nationality"
+    ],
+    "correctIndex": 3,
+    "explanation": "'nationality' means национальность. Example: Write your country and your nationality in your notebook.",
+    "relatedRuleIds": [
+      "nice-to-meet-you"
+    ]
+  },
+  {
+    "id": "edaab9792176",
+    "question": "Which word means 'экскурсия'?",
+    "options": [
+      "a tour",
+      "I feel awful about it.",
+      "antibiotics",
+      "a nurse"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a tour' means экскурсия. Example: What tours can people take in San Francisco?",
+    "relatedRuleIds": [
+      "what-time-does-it-start"
+    ]
+  },
+  {
+    "id": "f474bc34076e",
+    "question": "Which word means 'гостиная'?",
+    "options": [
+      "a postcard",
+      "turn your phone off",
+      "Don't let it happen again.",
+      "a living room"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a living room' means гостиная. Example: There's a sofa and a table in the living room.",
+    "relatedRuleIds": [
+      "a-place-to-stay"
+    ]
+  },
+  {
+    "id": "e89692aa9d8d",
+    "question": "Which word means 'килограмм'?",
+    "options": [
+      "sit by the fire",
+      "an animated film",
+      "kilo",
+      "a traffic light"
+    ],
+    "correctIndex": 2,
+    "explanation": "'kilo' means килограмм. Example: They use 13 kilos of coffee beans a year.",
+    "relatedRuleIds": [
+      "a-lifetime-in-containers"
+    ]
+  },
+  {
+    "id": "359bdf9c4131",
+    "question": "Which word means 'путешествие / поездка'?",
+    "options": [
+      "museum meditation",
+      "Could I leave a message for him?",
+      "the Caribbean",
+      "travelling / a trip"
+    ],
+    "correctIndex": 3,
+    "explanation": "'travelling / a trip' means путешествие / поездка. Example: I like travelling by train and seeing the countryside.",
+    "relatedRuleIds": [
+      "travel-partners"
+    ]
+  },
+  {
+    "id": "eb0b97701cdc",
+    "question": "Which word means 'кредитная карта / дебетовая карта'?",
+    "options": [
+      "Let me check that.",
+      "How often do you ...?",
+      "do you always ... straightaway?",
+      "a credit card / a debit card"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a credit card / a debit card' means кредитная карта / дебетовая карта. Example: You have to pay by credit or debit card for a year's use.",
+    "relatedRuleIds": [
+      "city-bikes"
+    ]
+  },
+  {
+    "id": "228f5904e903",
+    "question": "Choose the correct collocation: Silent disco? — No, it's not for me.",
+    "options": [
+      "as ... as",
+      "a campsite / a camp",
+      "I'd do it again.",
+      "It's not for me."
+    ],
+    "correctIndex": 3,
+    "explanation": "'It's not for me.' (Это не моё.). Full sentence: Silent disco? — No, it's not for me.",
+    "relatedRuleIds": [
+      "lets-do-something-new"
+    ]
+  },
+  {
+    "id": "9bf259c3bf30",
+    "question": "Which word means 'прыжок с банджи'?",
+    "options": [
+      "sunglasses",
+      "a bungee jump",
+      "Just a moment. / Hold on, please.",
+      "especially ... speakers"
+    ],
+    "correctIndex": 1,
+    "explanation": "'a bungee jump' means прыжок с банджи. Example: I haven't done a bungee jump yet.",
+    "relatedRuleIds": [
+      "great-experiences"
+    ]
   }
 ]

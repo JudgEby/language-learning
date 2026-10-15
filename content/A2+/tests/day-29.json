@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "keeping-in-touch"
     ]
+  },
+  {
+    "question": "Which word means 'начальная школа'?",
+    "options": [
+      "primary school",
+      "sunscreen",
+      "It hurts here",
+      "too much traffic"
+    ],
+    "correctIndex": 0,
+    "explanation": "'primary school' means начальная школа. Example: Children start primary school at the age of five.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ],
+    "id": "7ebabd47e548"
+  },
+  {
+    "question": "Which word means 'изучить, рассмотреть'?",
+    "options": [
+      "river",
+      "I never work late",
+      "look into",
+      "back pain"
+    ],
+    "correctIndex": 2,
+    "explanation": "'look into' means изучить, рассмотреть. Example: I'll look into the problem and get back to you.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ],
+    "id": "8f6c59d600f0"
+  },
+  {
+    "question": "Which word means 'веб-сайт'?",
+    "options": [
+      "website",
+      "I'm not sure about that",
+      "fitting room",
+      "Can you speak up, please?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'website' means веб-сайт. Example: The website is down for maintenance.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ],
+    "id": "ae868be61498"
   }
 ]

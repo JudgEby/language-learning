@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "can-you-tell-me-the-way"
     ]
+  },
+  {
+    "id": "2351003ab73a",
+    "question": "Which word means 'туристический магазин'?",
+    "options": [
+      "wear / wear something",
+      "What should I do?",
+      "reach something",
+      "a tourist shop"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a tourist shop' means туристический магазин. Example: You can buy a souvenir in a tourist shop.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "5c9f9424e8b5",
+    "question": "Choose the correct collocation: How often do you see your friends? — Every weekend.",
+    "options": [
+      "one thing at a time",
+      "How often do you ...?",
+      "a swimming costume",
+      "opening times"
+    ],
+    "correctIndex": 1,
+    "explanation": "'How often do you ...?' (Как часто ты ...?). Full sentence: How often do you see your friends? — Every weekend.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "0217dbc9b0c4",
+    "question": "Which word means 'футбольная футболка'?",
+    "options": [
+      "a football shirt",
+      "at the end",
+      "spend time with",
+      "there aren't any ..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'a football shirt' means футбольная футболка. Example: A football shirt is a good present for my brother.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "805bd6a5f2b1",
+    "question": "Choose the correct collocation: After they finished university they got married.",
+    "options": [
+      "get married",
+      "What's up?",
+      "childhood",
+      "hit something"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get married' (пожениться). Full sentence: After they finished university they got married.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "63e796fb9da4",
+    "question": "Which word means 'брюки'?",
+    "options": [
+      "trousers",
+      "public transport",
+      "a glass",
+      "in the centre"
+    ],
+    "correctIndex": 0,
+    "explanation": "'trousers' means брюки. Example: Walkers don't usually wear a suit — they wear trousers and walking jackets.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "a3723b8e41d9",
+    "question": "Complete the sentence: Sorry. — ___",
+    "options": [
+      "a holiday",
+      "convenient",
+      "a taxi driver",
+      "Don't worry about it."
+    ],
+    "correctIndex": 3,
+    "explanation": "'Don't worry about it.' (Не беспокойся об этом.). Full sentence: Sorry. — Don't worry about it.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "485aaa0a8090",
+    "question": "Complete the sentence: We'll turn off our phones — ___.",
+    "options": [
+      "the front gate",
+      "I'll keep you posted",
+      "Could you ring me back?",
+      "hitchhike"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'll keep you posted' (Я буду держать тебя в курсе). Full sentence: We'll turn off our phones — I'll keep you posted.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
   }
 ]

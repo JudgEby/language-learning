@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "top-cities"
     ]
+  },
+  {
+    "question": "Which word means 'выходить на пенсию'?",
+    "options": [
+      "prison",
+      "retire",
+      "climate change",
+      "lab-grown meat"
+    ],
+    "correctIndex": 1,
+    "explanation": "'retire' means выходить на пенсию. Example: My father retired at the age of 65.",
+    "relatedRuleIds": [
+      "risky-business"
+    ],
+    "id": "d24298fa7126"
+  },
+  {
+    "question": "Which word means 'растяжка'?",
+    "options": [
+      "bargain",
+      "stretching",
+      "too much traffic",
+      "The building was damaged"
+    ],
+    "correctIndex": 1,
+    "explanation": "'stretching' means растяжка. Example: Don't forget to do some stretching after your run.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ],
+    "id": "72b44a8ea6f6"
+  },
+  {
+    "question": "Which word means 'оживлённый, живой'?",
+    "options": [
+      "lively",
+      "Do you travel light?",
+      "damaged",
+      "uniform"
+    ],
+    "correctIndex": 0,
+    "explanation": "'lively' means оживлённый, живой. Example: The market is very lively in the morning.",
+    "relatedRuleIds": [
+      "top-cities"
+    ],
+    "id": "27130a1218e6"
   }
 ]

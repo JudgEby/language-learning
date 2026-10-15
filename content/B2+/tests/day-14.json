@@ -313,5 +313,65 @@
     "relatedRuleIds": [
       "creating-a-brand"
     ]
+  },
+  {
+    "question": "Which word means 'шокоголик'?",
+    "options": [
+      "paternity leave",
+      "slip up",
+      "evolution",
+      "chocoholic"
+    ],
+    "correctIndex": 3,
+    "explanation": "'chocoholic' means шокоголик. Example: As a self-confessed chocoholic, I eat chocolate every single day.",
+    "relatedRuleIds": [
+      "comfort-food"
+    ],
+    "id": "d8c2acb45dbe"
+  },
+  {
+    "question": "Complete the sentence: That's ___, but it would be expensive.",
+    "options": [
+      "quite a neat idea",
+      "green spaces",
+      "work from home",
+      "in search of food"
+    ],
+    "correctIndex": 0,
+    "explanation": "'quite a neat idea' (довольно удачная идея). Full sentence: That's quite a neat idea, but it would be expensive.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ],
+    "id": "271eb2898044"
+  },
+  {
+    "question": "Which word means 'возобновляемая энергия'?",
+    "options": [
+      "term",
+      "renewable energy",
+      "climate change",
+      "technology"
+    ],
+    "correctIndex": 1,
+    "explanation": "'renewable energy' means возобновляемая энергия. Example: Solar and wind power are the most common forms of renewable energy.",
+    "relatedRuleIds": [
+      "effecting-change"
+    ],
+    "id": "13d276a34a90"
+  },
+  {
+    "question": "Which word means 'резкий рост, всплеск'?",
+    "options": [
+      "surge",
+      "keep up with world events",
+      "intern",
+      "cost a fortune"
+    ],
+    "correctIndex": 0,
+    "explanation": "'surge' means резкий рост, всплеск. Example: The surge in popularity of a new superfood can attract attention quickly.",
+    "relatedRuleIds": [
+      "food-fads"
+    ],
+    "id": "099bddb71783"
   }
 ]

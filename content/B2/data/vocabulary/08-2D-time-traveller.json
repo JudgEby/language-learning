@@ -26,6 +26,36 @@
       "term": "landmark",
       "translation": "достопримечательность",
       "example": "The castle is a famous landmark."
+    },
+    {
+      "term": "painter",
+      "translation": "художник",
+      "example": "Van Gogh is the finest painter of them all."
+    },
+    {
+      "term": "museum",
+      "translation": "музей",
+      "example": "The group went to a museum in Paris."
+    },
+    {
+      "term": "time travel",
+      "translation": "путешествие во времени",
+      "example": "Is time travel actually possible?"
+    },
+    {
+      "term": "wormhole",
+      "translation": "червоточина",
+      "example": "Wormholes could allow travel through space and time."
+    },
+    {
+      "term": "dark matter",
+      "translation": "тёмная материя",
+      "example": "Scientists know that dark matter exists."
+    },
+    {
+      "term": "astonishing",
+      "translation": "поразительный",
+      "example": "Those final months were an astonishing outpouring."
     }
   ]
 }

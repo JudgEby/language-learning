@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "effecting-change"
     ]
+  },
+  {
+    "question": "Complete the sentence: You really need to do well and ___.",
+    "options": [
+      "You have to admit that",
+      "make the grade",
+      "abolish",
+      "calories"
+    ],
+    "correctIndex": 1,
+    "explanation": "'make the grade' (сдать, пройти (экзамен)). Full sentence: You really need to do well and make the grade.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ],
+    "id": "455fcca264b4"
+  },
+  {
+    "question": "Choose the correct collocation: Ask if you're unsure about taking selfies there.",
+    "options": [
+      "take to someone",
+      "extra week's holiday",
+      "organise a concert",
+      "ask if unsure"
+    ],
+    "correctIndex": 3,
+    "explanation": "'ask if unsure' (спросить, если не уверен). Full sentence: Ask if you're unsure about taking selfies there.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ],
+    "id": "5db70233f309"
+  },
+  {
+    "question": "Which word means 'рутина, распорядок'?",
+    "options": [
+      "futuristic",
+      "revolutionary new product",
+      "pocket",
+      "routine"
+    ],
+    "correctIndex": 3,
+    "explanation": "'routine' means рутина, распорядок. Example: Build your new habit into your existing routine.",
+    "relatedRuleIds": [
+      "habits"
+    ],
+    "id": "438ffd23edbc"
+  },
+  {
+    "question": "Which word means 'впечатление'?",
+    "options": [
+      "be mindful of where you are",
+      "being neutral",
+      "get back to the point",
+      "impression"
+    ],
+    "correctIndex": 3,
+    "explanation": "'impression' means впечатление. Example: The view made a lasting impression on me.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ],
+    "id": "05c774a9042e"
   }
 ]

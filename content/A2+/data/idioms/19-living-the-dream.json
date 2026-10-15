@@ -1,0 +1,41 @@
+{
+  "lessonId": "living-the-dream",
+  "title": "Living the dream — перемены в жизни",
+  "items": [
+    {
+      "idiom": "follow one's dreams",
+      "translation": "следовать за своими мечтами",
+      "example": "Only a few people actually follow their dreams."
+    },
+    {
+      "idiom": "make one's dream come true",
+      "translation": "осуществить свою мечту",
+      "example": "She tells how she made her dream come true."
+    },
+    {
+      "idiom": "look for something new",
+      "translation": "искать что-то новое",
+      "example": "Perhaps it is time to look for something new."
+    },
+    {
+      "idiom": "give up one's job",
+      "translation": "бросить работу",
+      "example": "Many people want to give up their jobs and start a new career."
+    },
+    {
+      "idiom": "start a new career",
+      "translation": "начать новую карьеру",
+      "example": "He decided to give up his job and start a new career."
+    },
+    {
+      "idiom": "travel around the world",
+      "translation": "путешествовать по миру",
+      "example": "They would like to travel around the world one day."
+    },
+    {
+      "idiom": "go back to work as normal",
+      "translation": "вернуться к работе как обычно",
+      "example": "When the holiday finishes, they just go back to work as normal."
+    }
+  ]
+}

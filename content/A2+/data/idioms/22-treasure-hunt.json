@@ -2,7 +2,40 @@
   "lessonId": "treasure-hunt",
   "title": "Treasure hunt — идиомы",
   "items": [
-    { "idiom": "cost a fortune", "translation": "стоить целое состояние", "example": "The renovation cost a fortune but the house looks amazing now." },
-    { "idiom": "broke", "translation": "на мели, без денег", "example": "I can't come to the restaurant — I'm completely broke until payday." }
+    {
+      "idiom": "cost a fortune",
+      "translation": "стоить целое состояние",
+      "example": "The renovation cost a fortune but the house looks amazing now."
+    },
+    {
+      "idiom": "broke",
+      "translation": "на мели, без денег",
+      "example": "I can't come to the restaurant — I'm completely broke until payday."
+    },
+    {
+      "idiom": "hunt for treasure",
+      "translation": "охотиться за сокровищами",
+      "example": "Have you ever thought of hunting for treasure?"
+    },
+    {
+      "idiom": "fill a chest with treasure",
+      "translation": "наполнить сундук сокровищами",
+      "example": "He decided to fill a wooden chest with treasure and hide it."
+    },
+    {
+      "idiom": "contain clues about something",
+      "translation": "содержать подсказки",
+      "example": "The poem contained clues about where the treasure was hidden."
+    },
+    {
+      "idiom": "provide someone with an adventure",
+      "translation": "дарить кому-то приключение",
+      "example": "His idea was to provide people with an adventure outside."
+    },
+    {
+      "idiom": "get rich",
+      "translation": "разбогатеть",
+      "example": "People hunt outside with the chance of getting rich."
+    }
   ]
 }

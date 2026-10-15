@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "the-great-impostor"
     ]
+  },
+  {
+    "question": "Which word means 'зарплата (оклад)'?",
+    "options": [
+      "do housework",
+      "junk food",
+      "How are things?",
+      "salary"
+    ],
+    "correctIndex": 3,
+    "explanation": "'salary' means зарплата (оклад). Example: The salary for this position is quite competitive.",
+    "relatedRuleIds": [
+      "the-company-4u"
+    ],
+    "id": "0344f4e6dca0"
+  },
+  {
+    "question": "Which word means 'осмотр достопримечательностей'?",
+    "options": [
+      "sightseeing",
+      "take a risk",
+      "She said that...",
+      "There's plenty of..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'sightseeing' means осмотр достопримечательностей. Example: We spent the whole day sightseeing around Paris.",
+    "relatedRuleIds": [
+      "you-cant-miss-it"
+    ],
+    "id": "b8658e1ddbc5"
+  },
+  {
+    "question": "Which word means 'охрана природы, сохранение'?",
+    "options": [
+      "gym",
+      "take a risk",
+      "conservation",
+      "The species might become extinct soon."
+    ],
+    "correctIndex": 2,
+    "explanation": "'conservation' means охрана природы, сохранение. Example: Conservation efforts have helped protect tigers.",
+    "relatedRuleIds": [
+      "it-could-be-because"
+    ],
+    "id": "9644eb4bf7d0"
   }
 ]

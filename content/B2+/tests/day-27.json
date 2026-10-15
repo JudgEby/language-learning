@@ -328,5 +328,65 @@
     "relatedRuleIds": [
       "pre-loved"
     ]
+  },
+  {
+    "question": "Which word means 'прибыльность, рентабельность'?",
+    "options": [
+      "chemical changes in brains",
+      "fulfil one's potential",
+      "profitability",
+      "consumer"
+    ],
+    "correctIndex": 2,
+    "explanation": "'profitability' means прибыльность, рентабельность. Example: This year the company's profitability is down.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ],
+    "id": "f926d6d1c325"
+  },
+  {
+    "question": "Complete the sentence: I almost always find a way to ___.",
+    "options": [
+      "move forward",
+      "sense of satisfaction",
+      "resolve the situation",
+      "justice"
+    ],
+    "correctIndex": 2,
+    "explanation": "'resolve the situation' (уладить ситуацию). Full sentence: I almost always find a way to resolve the situation.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ],
+    "id": "f4b08b9a5a77"
+  },
+  {
+    "question": "Choose the correct collocation: The wording on the invitation misled him.",
+    "options": [
+      "mislead",
+      "invest time in a character",
+      "one disadvantage of that",
+      "check if in doubt"
+    ],
+    "correctIndex": 0,
+    "explanation": "'mislead' (вводить в заблуждение). Full sentence: The wording on the invitation misled him.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ],
+    "id": "b0628f7f84cf"
+  },
+  {
+    "question": "Which word means 'современный, передовой'?",
+    "options": [
+      "oily",
+      "state-of-the-art",
+      "delivery bot",
+      "affect the result"
+    ],
+    "correctIndex": 1,
+    "explanation": "'state-of-the-art' means современный, передовой. Example: The health tracker uses state-of-the-art technology to monitor your health.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ],
+    "id": "772f7bf9a292"
   }
 ]

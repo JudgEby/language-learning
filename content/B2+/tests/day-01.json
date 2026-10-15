@@ -358,5 +358,80 @@
     "relatedRuleIds": [
       "new-friends"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: I got on well with her best friend from the start.",
+    "options": [
+      "be reminded of people",
+      "vegan",
+      "mould",
+      "get on well with"
+    ],
+    "correctIndex": 3,
+    "explanation": "'get on well with' (ладить). Full sentence: I got on well with her best friend from the start.",
+    "relatedRuleIds": [
+      "new-friends"
+    ],
+    "id": "9441151a8fe1"
+  },
+  {
+    "question": "Which word means 'соревноваться'?",
+    "options": [
+      "That said",
+      "frame",
+      "utopia",
+      "compete"
+    ],
+    "correctIndex": 3,
+    "explanation": "'compete' means соревноваться. Example: Auctions make us compete, and when we start competing, we want to win.",
+    "relatedRuleIds": [
+      "challenge"
+    ],
+    "id": "4024b77a6094"
+  },
+  {
+    "question": "Choose the correct collocation: In the test the product looked more natural and expensive.",
+    "options": [
+      "talk about past events",
+      "look more natural",
+      "complain to the referee",
+      "make sense"
+    ],
+    "correctIndex": 1,
+    "explanation": "'look more natural' (выглядеть натуральнее). Full sentence: In the test the product looked more natural and expensive.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ],
+    "id": "1d5a4779b37b"
+  },
+  {
+    "question": "Complete the sentence: Two free tickets? ___ to me.",
+    "options": [
+      "in a split second",
+      "creamy texture",
+      "branding",
+      "That sounds like a good compromise"
+    ],
+    "correctIndex": 3,
+    "explanation": "'That sounds like a good compromise' (звучит как хороший компромисс). Full sentence: Two free tickets? That sounds like a good compromise to me.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ],
+    "id": "dc8e4fd96a4e"
+  },
+  {
+    "question": "Which word means 'овердрафт, перерасход'?",
+    "options": [
+      "afford",
+      "overdraft",
+      "So what you mean is (that)",
+      "raise awareness of an issue"
+    ],
+    "correctIndex": 1,
+    "explanation": "'overdraft' means овердрафт, перерасход. Example: Most months I overspend, so I have a small overdraft.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ],
+    "id": "1edc30dc593a"
   }
 ]

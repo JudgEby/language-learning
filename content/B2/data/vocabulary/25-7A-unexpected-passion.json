@@ -26,6 +26,36 @@
       "term": "hobby",
       "translation": "хобби",
       "example": "His hobby became a career."
+    },
+    {
+      "term": "surgeon",
+      "translation": "хирург",
+      "example": "He trained as a successful surgeon."
+    },
+    {
+      "term": "lightning",
+      "translation": "молния",
+      "example": "He was struck by lightning."
+    },
+    {
+      "term": "piano",
+      "translation": "пианино",
+      "example": "He started playing the piano at night."
+    },
+    {
+      "term": "sheet music",
+      "translation": "ноты",
+      "example": "He bought sheet music of famous pieces."
+    },
+    {
+      "term": "melody",
+      "translation": "мелодия",
+      "example": "The melody stayed in his head."
+    },
+    {
+      "term": "composition",
+      "translation": "произведение, композиция",
+      "example": "He played his own composition in New York."
     }
   ]
 }

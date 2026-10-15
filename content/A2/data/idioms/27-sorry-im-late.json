@@ -1,0 +1,41 @@
+{
+  "lessonId": "sorry-im-late",
+  "title": "Sorry, I'm late — идиомы",
+  "items": [
+    {
+      "idiom": "stay in bed",
+      "translation": "оставаться в постели",
+      "example": "I thought today was Sunday, so I stayed in bed."
+    },
+    {
+      "idiom": "I brought you one",
+      "translation": "я принёс тебе один (кофе)",
+      "example": "There was a long queue, but I brought you one."
+    },
+    {
+      "idiom": "drive to my old office by mistake",
+      "translation": "по ошибке поехать в старый офис",
+      "example": "I drove to my old office by mistake."
+    },
+    {
+      "idiom": "have ear plugs in",
+      "translation": "быть в берушах",
+      "example": "I didn't hear the alarm because I had ear plugs in."
+    },
+    {
+      "idiom": "tell a long story",
+      "translation": "рассказывать длинную историю",
+      "example": "Use linkers when you tell a long story."
+    },
+    {
+      "idiom": "use linkers",
+      "translation": "использовать слова-связки",
+      "example": "Remember to use linkers like then and after that."
+    },
+    {
+      "idiom": "wait for the next train",
+      "translation": "ждать следующий поезд",
+      "example": "I missed my train and waited for the next one."
+    }
+  ]
+}

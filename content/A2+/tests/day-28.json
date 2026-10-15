@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "it-could-be-because"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: You have to arrive at school before 8.30.",
+    "options": [
+      "perform an experiment",
+      "You have to…",
+      "have a guess",
+      "go on a date"
+    ],
+    "correctIndex": 1,
+    "explanation": "'You have to…' (Ты должен / нужно…). Full sentence: You have to arrive at school before 8.30.",
+    "relatedRuleIds": [
+      "schools-of-thought"
+    ],
+    "id": "92f0b4e0ee92"
+  },
+  {
+    "question": "Which word means 'бросить, отказаться (от привычки)'?",
+    "options": [
+      "souvenir",
+      "give up",
+      "The building was damaged",
+      "script"
+    ],
+    "correctIndex": 1,
+    "explanation": "'give up' means бросить, отказаться (от привычки). Example: I gave up smoking last year.",
+    "relatedRuleIds": [
+      "pay-me-more"
+    ],
+    "id": "87fc8f4a21a9"
+  },
+  {
+    "question": "Which word means 'обновление'?",
+    "options": [
+      "update",
+      "construction",
+      "grumpy",
+      "email"
+    ],
+    "correctIndex": 0,
+    "explanation": "'update' means обновление. Example: There's a new update for the operating system.",
+    "relatedRuleIds": [
+      "i-totally-disagree"
+    ],
+    "id": "8001bfbc9bc9"
   }
 ]

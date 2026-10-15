@@ -26,6 +26,36 @@
       "term": "global issue",
       "translation": "глобальная проблема",
       "example": "Climate change is a global issue."
+    },
+    {
+      "term": "homelessness",
+      "translation": "бездомность",
+      "example": "Homelessness is a big problem in my city."
+    },
+    {
+      "term": "unemployment",
+      "translation": "безработица",
+      "example": "Unemployment rose to record levels."
+    },
+    {
+      "term": "overcrowding",
+      "translation": "перенаселённость",
+      "example": "Overcrowding is a huge issue here."
+    },
+    {
+      "term": "literacy",
+      "translation": "грамотность",
+      "example": "Reading groups help develop literacy."
+    },
+    {
+      "term": "global warming",
+      "translation": "глобальное потепление",
+      "example": "Global warming makes sea levels rise."
+    },
+    {
+      "term": "civil rights",
+      "translation": "гражданские права",
+      "example": "They keep fighting for civil rights."
     }
   ]
 }

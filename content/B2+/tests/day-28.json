@@ -328,5 +328,65 @@
     "relatedRuleIds": [
       "past-and-present"
     ]
+  },
+  {
+    "question": "Which word means 'конкурентоспособность'?",
+    "options": [
+      "competitiveness",
+      "bitter",
+      "fake an injury",
+      "juicy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'competitiveness' means конкурентоспособность. Example: The company must maintain its competitiveness within the market.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ],
+    "id": "bd7041bdb919"
+  },
+  {
+    "question": "Which word means '«я много об этом думал» (выигрыш времени)'?",
+    "options": [
+      "see where you're coming from",
+      "logo",
+      "do things differently",
+      "I've thought about this quite a lot"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I've thought about this quite a lot' means «я много об этом думал» (выигрыш времени). Example: I've thought about this quite a lot over the years.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ],
+    "id": "eca7467e1311"
+  },
+  {
+    "question": "Which word means 'приглашение'?",
+    "options": [
+      "fruity",
+      "invitation",
+      "weigh up options",
+      "unique feature is"
+    ],
+    "correctIndex": 1,
+    "explanation": "'invitation' means приглашение. Example: The invitation was meant for my immediate team only.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ],
+    "id": "b1bc2f7446ba"
+  },
+  {
+    "question": "Which word means 'устройство'?",
+    "options": [
+      "device",
+      "sum up",
+      "devices won't connect",
+      "status product"
+    ],
+    "correctIndex": 0,
+    "explanation": "'device' means устройство. Example: This hand-held device is great for massaging tired muscles.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ],
+    "id": "3e7d6700c7ce"
   }
 ]

@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "keeping-fit"
     ]
+  },
+  {
+    "question": "Complete the sentence: 'Do you think it'll stop raining soon?' '___.'",
+    "options": [
+      "I hope so",
+      "How about…?",
+      "I often have meetings in the afternoon",
+      "accountant"
+    ],
+    "correctIndex": 0,
+    "explanation": "'I hope so' (Надеюсь). Full sentence: 'Do you think it'll stop raining soon?' 'I hope so.'",
+    "relatedRuleIds": [
+      "nice-day"
+    ],
+    "id": "b90135fb3f1e"
+  },
+  {
+    "question": "Complete the sentence: ___ What do you usually pack?",
+    "options": [
+      "Do you travel light?",
+      "expensive",
+      "go on a date",
+      "Remember to…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Do you travel light?' (Ты путешествуешь налегке?). Full sentence: Do you travel light? What do you usually pack?",
+    "relatedRuleIds": [
+      "travel-tips"
+    ],
+    "id": "fdc68ce35533"
+  },
+  {
+    "question": "Which word means 'лес (большой)'?",
+    "options": [
+      "When did you last go on holiday?",
+      "rob",
+      "How often do you work out?",
+      "forest"
+    ],
+    "correctIndex": 3,
+    "explanation": "'forest' means лес (большой). Example: There's a dense forest behind the village.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ],
+    "id": "03d189e5e106"
   }
 ]

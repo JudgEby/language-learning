@@ -1,0 +1,91 @@
+{
+  "lessonId": "challenge",
+  "title": "2D Challenge — Словосочетания: состязание и дебаты",
+  "items": [
+    {
+      "phrase": "challenge yourself",
+      "translation": "бросить себе вызов",
+      "example": "When was the last time you challenged yourself?"
+    },
+    {
+      "phrase": "prepare in a day",
+      "translation": "подготовиться за день",
+      "example": "What helped Ryan to prepare in a day?"
+    },
+    {
+      "phrase": "determine the winner",
+      "translation": "определить победителя",
+      "example": "The winner will be determined after three rounds."
+    },
+    {
+      "phrase": "feel about the results",
+      "translation": "относиться к результатам",
+      "example": "How did both drivers feel about the race results?"
+    },
+    {
+      "phrase": "reflect on something",
+      "translation": "размышлять о чём-то",
+      "example": "How often do you reflect on what you have done?"
+    },
+    {
+      "phrase": "argue for an opinion",
+      "translation": "отстаивать мнение",
+      "example": "Prepare to argue for opinion A in the debate."
+    },
+    {
+      "phrase": "form an argument",
+      "translation": "выстроить аргумент",
+      "example": "Form an argument and a counterargument."
+    },
+    {
+      "phrase": "debate the opinions",
+      "translation": "обсуждать мнения в споре",
+      "example": "Debate the opinions with your group."
+    },
+    {
+      "phrase": "compete with yourself",
+      "translation": "соревноваться с самим собой",
+      "example": "Think about competing with others and with yourself."
+    },
+    {
+      "phrase": "compete with others",
+      "translation": "соревноваться с другими",
+      "example": "Some people prefer to compete with others."
+    },
+    {
+      "phrase": "end up",
+      "translation": "оказаться в итоге",
+      "example": "If you lose too often, you end up giving up."
+    },
+    {
+      "phrase": "more about than",
+      "translation": "больше о, чем о",
+      "example": "Winning is more about practice than luck."
+    },
+    {
+      "phrase": "problematic because",
+      "translation": "проблематично, потому что",
+      "example": "Constant rivalry is problematic because it causes stress."
+    },
+    {
+      "phrase": "the result is that",
+      "translation": "в результате",
+      "example": "The result is that people train much harder."
+    },
+    {
+      "phrase": "lead to",
+      "translation": "приводить к",
+      "example": "Fair competition leads to better results."
+    },
+    {
+      "phrase": "car ownership",
+      "translation": "владение машиной",
+      "example": "How competitive are people about car ownership?"
+    },
+    {
+      "phrase": "at the gym",
+      "translation": "в спортзале",
+      "example": "People compete a lot at the gym."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lessonId": "great-experiences",
+  "title": "Great experiences — идиомы",
+  "items": [
+    {
+      "idiom": "watch the sunrise",
+      "translation": "смотреть рассвет",
+      "example": "I've watched the sunrise in the desert."
+    },
+    {
+      "idiom": "meet locals everywhere",
+      "translation": "встречать местных повсюду",
+      "example": "Meeting locals everywhere was the best part."
+    },
+    {
+      "idiom": "take 100 photos",
+      "translation": "делать сто фото",
+      "example": "I took 100 photos of the Blue Mosque."
+    },
+    {
+      "idiom": "see the temples",
+      "translation": "увидеть храмы",
+      "example": "We've seen the temples in Kom Ombo."
+    },
+    {
+      "idiom": "buy a lamp",
+      "translation": "купить лампу",
+      "example": "We want to buy a lamp at the market."
+    },
+    {
+      "idiom": "have dinner on a boat",
+      "translation": "ужинать на лодке",
+      "example": "We're going to have dinner on a boat on the river."
+    },
+    {
+      "idiom": "visit a famous mosque",
+      "translation": "посетить известную мечеть",
+      "example": "On Saturday we're going to visit a famous mosque."
+    }
+  ]
+}

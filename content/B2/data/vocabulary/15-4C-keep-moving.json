@@ -26,6 +26,36 @@
       "term": "endorphins",
       "translation": "эндорфины",
       "example": "Exercise releases endorphins."
+    },
+    {
+      "term": "flexibility",
+      "translation": "гибкость",
+      "example": "Yoga improves flexibility."
+    },
+    {
+      "term": "strength",
+      "translation": "сила",
+      "example": "Lifting weights builds strength."
+    },
+    {
+      "term": "aerobic exercise",
+      "translation": "аэробная нагрузка",
+      "example": "Jogging is good aerobic exercise."
+    },
+    {
+      "term": "moderate exercise",
+      "translation": "умеренная нагрузка",
+      "example": "I do moderate exercise every day."
+    },
+    {
+      "term": "vigorous exercise",
+      "translation": "интенсивная нагрузка",
+      "example": "Seventy-five minutes of vigorous exercise is enough."
+    },
+    {
+      "term": "low-impact exercise",
+      "translation": "низкоударная нагрузка",
+      "example": "Yoga is low-impact exercise."
     }
   ]
 }

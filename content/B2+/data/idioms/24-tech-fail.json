@@ -1,0 +1,76 @@
+{
+  "lessonId": "tech-fail",
+  "title": "6D Tech Fail — Идиомы: техника и поломки",
+  "items": [
+    {
+      "idiom": "back to the drawing board",
+      "translation": "начать всё сначала",
+      "example": "The app crashed on stage — back to the drawing board."
+    },
+    {
+      "idiom": "reinvent the wheel",
+      "translation": "изобретать велосипед",
+      "example": "Don't reinvent the wheel; just update the old system."
+    },
+    {
+      "idiom": "throw a spanner in the works",
+      "translation": "вставить палки в колёса",
+      "example": "A dead battery threw a spanner in the works."
+    },
+    {
+      "idiom": "bells and whistles",
+      "translation": "навороты",
+      "example": "I don't need all the bells and whistles, just a phone that works."
+    },
+    {
+      "idiom": "like clockwork",
+      "translation": "как часы",
+      "example": "After the update, everything runs like clockwork."
+    },
+    {
+      "idiom": "a cog in the machine",
+      "translation": "винтик в системе",
+      "example": "He felt like a tiny cog in the machine."
+    },
+    {
+      "idiom": "teething troubles",
+      "translation": "начальные проблемы",
+      "example": "The new software has a few teething troubles."
+    },
+    {
+      "idiom": "pull the plug",
+      "translation": "прекратить, отключить",
+      "example": "They pulled the plug on the faulty system."
+    },
+    {
+      "idiom": "on its last legs",
+      "translation": "на последнем издыхании",
+      "example": "My old laptop is on its last legs."
+    },
+    {
+      "idiom": "work like a charm",
+      "translation": "работать отлично",
+      "example": "The restart worked like a charm."
+    },
+    {
+      "idiom": "crash and burn",
+      "translation": "с треском провалиться",
+      "example": "The live demo crashed and burned."
+    },
+    {
+      "idiom": "plug and play",
+      "translation": "подключил и работай",
+      "example": "The new printer is fully plug and play."
+    },
+    {
+      "idiom": "smooth sailing",
+      "translation": "лёгкий путь без проблем",
+      "example": "After the fix, it was smooth sailing."
+    },
+    {
+      "idiom": "back up and running",
+      "translation": "снова в строю",
+      "example": "An hour later the network was back up and running."
+    }
+  ]
+}

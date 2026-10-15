@@ -1,0 +1,41 @@
+{
+  "lessonId": "see-it-taste-it",
+  "title": "See it! Taste it! — идиомы",
+  "items": [
+    {
+      "idiom": "travel light",
+      "translation": "путешествовать налегке",
+      "example": "We travel light with just one small bag each."
+    },
+    {
+      "idiom": "What's inside your bag?",
+      "translation": "Что у тебя в сумке?",
+      "example": "What's inside your bag? Open it, please."
+    },
+    {
+      "idiom": "Take it with you",
+      "translation": "Возьми это с собой",
+      "example": "Take your passport with you to the airport."
+    },
+    {
+      "idiom": "Leave it at home",
+      "translation": "Оставь это дома",
+      "example": "Leave your big camera at home this time."
+    },
+    {
+      "idiom": "It belongs to me",
+      "translation": "Это принадлежит мне",
+      "example": "This watch? It belongs to me."
+    },
+    {
+      "idiom": "lost and found",
+      "translation": "бюро находок",
+      "example": "Ask at the lost and found for your keys."
+    },
+    {
+      "idiom": "Pack your bag",
+      "translation": "Собери сумку",
+      "example": "Pack your bag the night before the flight."
+    }
+  ]
+}

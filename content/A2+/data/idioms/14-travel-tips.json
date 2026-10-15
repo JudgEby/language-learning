@@ -1,0 +1,41 @@
+{
+  "lessonId": "travel-tips",
+  "title": "Travel tips — идиомы",
+  "items": [
+    {
+      "idiom": "pack for a trip",
+      "translation": "собирать вещи в поездку",
+      "example": "What do you usually pack when you go away for a short trip?"
+    },
+    {
+      "idiom": "go to a warm place",
+      "translation": "поехать в тёплое место",
+      "example": "I usually choose to go to a warm place in winter."
+    },
+    {
+      "idiom": "travel in wild places",
+      "translation": "путешествовать по диким местам",
+      "example": "She enjoys travelling in wild places far from cities."
+    },
+    {
+      "idiom": "avoid carrying too much money",
+      "translation": "избегать носить с собой много денег",
+      "example": "It is best to avoid carrying too much money on a trip."
+    },
+    {
+      "idiom": "write things down",
+      "translation": "записывать вещи",
+      "example": "I need to write things down because I like to remember them."
+    },
+    {
+      "idiom": "fly to Warsaw",
+      "translation": "лететь в Варшаву",
+      "example": "First we flew to Warsaw and stayed there for two days."
+    },
+    {
+      "idiom": "chat with locals",
+      "translation": "болтать с местными жителями",
+      "example": "In the afternoon we spent time chatting with locals in a bar."
+    }
+  ]
+}

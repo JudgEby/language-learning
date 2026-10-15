@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "the-secret-of-success"
     ]
+  },
+  {
+    "id": "6091bc97cc8f",
+    "question": "Which word means 'освещение (в СМИ)'?",
+    "options": [
+      "coverage",
+      "environment",
+      "Sorry, I didn't catch that",
+      "get on with someone"
+    ],
+    "correctIndex": 0,
+    "explanation": "'coverage' means освещение (в СМИ). Example: There was extensive news coverage of the event.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
   }
 ]

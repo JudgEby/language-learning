@@ -1,0 +1,41 @@
+{
+  "lessonId": "nice-day",
+  "title": "Nice day — идиомы",
+  "items": [
+    {
+      "idiom": "have a conversation with someone you do not know",
+      "translation": "разговаривать с незнакомцем",
+      "example": "Do you enjoy having a conversation with someone you do not know?"
+    },
+    {
+      "idiom": "have something in common",
+      "translation": "иметь что-то общее",
+      "example": "We both love films, so we have a lot in common."
+    },
+    {
+      "idiom": "take turns",
+      "translation": "говорить по очереди",
+      "example": "Good conversations work best when people take turns."
+    },
+    {
+      "idiom": "gossip about celebrities",
+      "translation": "сплетничать о знаменитостях",
+      "example": "Do you ever gossip about celebrities with your friends?"
+    },
+    {
+      "idiom": "tell jokes",
+      "translation": "рассказывать анекдоты, шутить",
+      "example": "He is good at telling jokes at parties."
+    },
+    {
+      "idiom": "kill the conversation",
+      "translation": "убить разговор (прервать беседу)",
+      "example": "Looking at your phone all the time will kill the conversation."
+    },
+    {
+      "idiom": "change the topic",
+      "translation": "сменить тему разговора",
+      "example": "When it gets quiet, you can change the topic with a new question."
+    }
+  ]
+}

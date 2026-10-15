@@ -1,0 +1,41 @@
+{
+  "lessonId": "one-thing-at-a-time",
+  "title": "One thing at a time — идиомы",
+  "items": [
+    {
+      "idiom": "do less work in a day",
+      "translation": "делать меньше работы за день",
+      "example": "Multi-taskers do less work in a day than others."
+    },
+    {
+      "idiom": "forget names and numbers",
+      "translation": "забывать имена и номера",
+      "example": "When you multi-task, you forget names and numbers."
+    },
+    {
+      "idiom": "can't remember things easily",
+      "translation": "не могу легко запоминать",
+      "example": "I can't remember normal things easily."
+    },
+    {
+      "idiom": "eat very fast",
+      "translation": "есть очень быстро",
+      "example": "Multi-taskers eat very fast and too much."
+    },
+    {
+      "idiom": "eat too much",
+      "translation": "переедать",
+      "example": "You don't think about food, so you eat too much."
+    },
+    {
+      "idiom": "stress levels go up",
+      "translation": "уровень стресса растёт",
+      "example": "Finally, your stress levels go up."
+    },
+    {
+      "idiom": "just talk and listen",
+      "translation": "просто говорить и слушать",
+      "example": "Turn off your phone and just talk and listen."
+    }
+  ]
+}

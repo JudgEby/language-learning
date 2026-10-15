@@ -31,6 +31,31 @@
       "term": "relieved",
       "translation": "с облегчением",
       "example": "I was relieved when the test was over."
+    },
+    {
+      "term": "passionate about",
+      "translation": "увлечённый",
+      "example": "She's passionate about travel."
+    },
+    {
+      "term": "fond of",
+      "translation": "любящий, неравнодушный",
+      "example": "He's fond of street markets."
+    },
+    {
+      "term": "nervous about",
+      "translation": "нервничающий из-за",
+      "example": "I feel nervous about getting lost."
+    },
+    {
+      "term": "terrified of",
+      "translation": "в ужасе от",
+      "example": "I'm terrified of flying."
+    },
+    {
+      "term": "fed up of",
+      "translation": "сытый по горло",
+      "example": "They were fed up of the city centre."
     }
   ]
 }

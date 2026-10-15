@@ -1,0 +1,96 @@
+{
+  "lessonId": "places",
+  "title": "1B Places — Словосочетания: город и самочувствие",
+  "items": [
+    {
+      "phrase": "green spaces",
+      "translation": "зелёные зоны",
+      "example": "The city needs more green spaces where residents can relax."
+    },
+    {
+      "phrase": "blue space",
+      "translation": "«голубое» пространство (место у воды)",
+      "example": "Being in blue space has effects similar to green spaces."
+    },
+    {
+      "phrase": "close to water",
+      "translation": "рядом с водой",
+      "example": "People feel happier when they spend time close to water."
+    },
+    {
+      "phrase": "well-lit space",
+      "translation": "хорошо освещённое помещение",
+      "example": "The same computer works in a bright, well-lit space or a dark corner."
+    },
+    {
+      "phrase": "urban settings",
+      "translation": "городская среда",
+      "example": "In urban settings, even a fountain can help people relax."
+    },
+    {
+      "phrase": "reduce stress",
+      "translation": "снижать стресс",
+      "example": "Water has a particular ability to reduce stress."
+    },
+    {
+      "phrase": "feel optimistic",
+      "translation": "чувствовать оптимизм",
+      "example": "Being near the sea makes us feel optimistic."
+    },
+    {
+      "phrase": "feel destressed and revived",
+      "translation": "почувствовать облегчение и прилив сил",
+      "example": "A waterway helps people feel destressed and revived."
+    },
+    {
+      "phrase": "move out of cities",
+      "translation": "переезжать из городов",
+      "example": "Some families move out of cities to coastal towns."
+    },
+    {
+      "phrase": "coastal towns",
+      "translation": "прибрежные города",
+      "example": "Coastal towns attract people who are tired of city life."
+    },
+    {
+      "phrase": "affect behaviour",
+      "translation": "влиять на поведение",
+      "example": "Our surroundings affect the way we behave towards each other."
+    },
+    {
+      "phrase": "active edges",
+      "translation": "оживлённые улицы (с кафе и магазинами)",
+      "example": "Streets with cafes and seating provide active edges."
+    },
+    {
+      "phrase": "inactive edges",
+      "translation": "безжизненные улицы (глухие стены)",
+      "example": "Streets with blank walls have inactive edges."
+    },
+    {
+      "phrase": "engage with people",
+      "translation": "взаимодействовать с людьми",
+      "example": "On lively streets we are more likely to engage with people."
+    },
+    {
+      "phrase": "fit in",
+      "translation": "вписываться",
+      "example": "We need to feel that we will fit in to work well."
+    },
+    {
+      "phrase": "sense of ownership",
+      "translation": "чувство принадлежности",
+      "example": "We perform better with a sense of ownership of a place."
+    },
+    {
+      "phrase": "reflect personality and interests",
+      "translation": "отражать характер и интересы",
+      "example": "We work best surrounded by things which reflect our personality and interests."
+    },
+    {
+      "phrase": "express an interest",
+      "translation": "проявить интерес",
+      "example": "Students in the new classroom expressed an interest in science."
+    }
+  ]
+}

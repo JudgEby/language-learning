@@ -26,6 +26,36 @@
       "term": "unconventional",
       "translation": "нетрадиционный",
       "example": "Her career path has been unconventional."
+    },
+    {
+      "term": "unique",
+      "translation": "уникальный",
+      "example": "Her lifestyle is definitely unique."
+    },
+    {
+      "term": "modest",
+      "translation": "скромный",
+      "example": "They lead a modest life."
+    },
+    {
+      "term": "rewarding",
+      "translation": "приносящий удовлетворение",
+      "example": "Life on the road is exhausting but rewarding."
+    },
+    {
+      "term": "exhausting",
+      "translation": "изнурительный",
+      "example": "Running around the world is exhausting."
+    },
+    {
+      "term": "tedious",
+      "translation": "утомительный",
+      "example": "Office work was tedious."
+    },
+    {
+      "term": "harsh",
+      "translation": "суровый",
+      "example": "They faced harsh Siberian winters."
     }
   ]
 }

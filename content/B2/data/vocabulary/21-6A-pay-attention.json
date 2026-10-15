@@ -26,6 +26,36 @@
       "term": "procrastinate",
       "translation": "откладывать на потом",
       "example": "I tend to procrastinate when bored."
+    },
+    {
+      "term": "impractical",
+      "translation": "непрактичный",
+      "example": "Avoiding distractions completely is impractical."
+    },
+    {
+      "term": "unnecessary",
+      "translation": "ненужный",
+      "example": "Switch off unnecessary notifications."
+    },
+    {
+      "term": "disconnect",
+      "translation": "отключать",
+      "example": "Disconnect your devices for an hour."
+    },
+    {
+      "term": "redo",
+      "translation": "переделывать",
+      "example": "I had to redo the whole task."
+    },
+    {
+      "term": "impatient",
+      "translation": "нетерпеливый",
+      "example": "He gets impatient with slow internet."
+    },
+    {
+      "term": "substandard",
+      "translation": "низкого качества",
+      "example": "Tired staff produce substandard work."
     }
   ]
 }

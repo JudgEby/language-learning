@@ -16,6 +16,31 @@
       "phrase": "stand the test of time",
       "translation": "выдержать испытание временем",
       "example": "This building has stood the test of time."
+    },
+    {
+      "phrase": "just in time for (sth)",
+      "translation": "как раз к (чему-то)",
+      "example": "They travelled across China just in time for the bloom."
+    },
+    {
+      "phrase": "time is running out",
+      "translation": "время на исходе",
+      "example": "These bees are not going anywhere and time is running out."
+    },
+    {
+      "phrase": "under threat",
+      "translation": "под угрозой",
+      "example": "Their future is under threat from pesticides."
+    },
+    {
+      "phrase": "a window of opportunity",
+      "translation": "окно возможностей",
+      "example": "His window of opportunity is very short."
+    },
+    {
+      "phrase": "it is time to move on",
+      "translation": "пора двигаться дальше",
+      "example": "The fields will be sprayed soon, so it is time to move on."
     }
   ]
 }

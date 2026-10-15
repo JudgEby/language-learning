@@ -1,0 +1,41 @@
+{
+  "lessonId": "what-time-does-it-start",
+  "title": "What time does it start? — идиомы",
+  "items": [
+    {
+      "idiom": "book in advance",
+      "translation": "бронировать заранее",
+      "example": "Book the boat tour in advance."
+    },
+    {
+      "idiom": "leaves on time",
+      "translation": "отправляется вовремя",
+      "example": "The minibus leaves on time at nine."
+    },
+    {
+      "idiom": "runs every hour",
+      "translation": "ходит каждый час",
+      "example": "The bus tour runs every hour."
+    },
+    {
+      "idiom": "Sorry, I didn't catch that",
+      "translation": "Извините, я не расслышал",
+      "example": "Sorry, I didn't catch that. Could you repeat it?"
+    },
+    {
+      "idiom": "What time do you close?",
+      "translation": "Во сколько вы закрываетесь?",
+      "example": "What time do you close on Sundays?"
+    },
+    {
+      "idiom": "Is it far from here?",
+      "translation": "Это далеко отсюда?",
+      "example": "Is the pier far from here?"
+    },
+    {
+      "idiom": "a guided tour",
+      "translation": "экскурсия с гидом",
+      "example": "We took a guided tour of San Francisco."
+    }
+  ]
+}

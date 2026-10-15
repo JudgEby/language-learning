@@ -1,0 +1,91 @@
+{
+  "lessonId": "science-fiction",
+  "title": "8D Science Fiction — Машины и пересказ",
+  "items": [
+    {
+      "phrase": "travel through space and time",
+      "translation": "путешествовать в пространстве и времени",
+      "example": "The Doctor and her assistants travel through space and time."
+    },
+    {
+      "phrase": "deliver goods across the universe",
+      "translation": "доставлять товары по вселенной",
+      "example": "A company might deliver goods to different parts of the universe."
+    },
+    {
+      "phrase": "have a series of adventures",
+      "translation": "пережить череду приключений",
+      "example": "They visit new places and have a series of adventures there."
+    },
+    {
+      "phrase": "gain access to the building",
+      "translation": "проникнуть в здание",
+      "example": "They decide to gain access to the building with a fake delivery."
+    },
+    {
+      "phrase": "swap tags",
+      "translation": "поменяться бирками",
+      "example": "The Doctor swaps tags with Graham to change his job."
+    },
+    {
+      "phrase": "read information on something",
+      "translation": "считывать данные с чего-то",
+      "example": "The workers read information on products with a special device."
+    },
+    {
+      "phrase": "make regular journeys",
+      "translation": "совершать регулярные рейсы",
+      "example": "A shuttle makes regular journeys to and from the station."
+    },
+    {
+      "phrase": "carry things along",
+      "translation": "везти предметы",
+      "example": "Once packed, the order goes on a belt that carries things along."
+    },
+    {
+      "phrase": "break down into tiny pieces",
+      "translation": "распадаться на мельчайшие частицы",
+      "example": "Parcels break down into tiny pieces and teleport to customers."
+    },
+    {
+      "phrase": "The plot is straightforward",
+      "translation": "сюжет простой",
+      "example": "The plot is fairly straightforward, but the ending surprises you."
+    },
+    {
+      "phrase": "Nothing is as it appears",
+      "translation": "всё не то, чем кажется",
+      "example": "Nothing is as it appears to be in this episode."
+    },
+    {
+      "phrase": "face the difficult task of",
+      "translation": "столкнуться со сложной задачей",
+      "example": "They face the difficult task of saving the factory crew."
+    },
+    {
+      "phrase": "race against time",
+      "translation": "гонка со временем",
+      "example": "It is a race against time because the system is failing."
+    },
+    {
+      "phrase": "tension rises as",
+      "translation": "напряжение растёт, когда",
+      "example": "The tension rises as the robots stop obeying orders."
+    },
+    {
+      "phrase": "twist at the end",
+      "translation": "поворот в конце",
+      "example": "In a twist at the end, the delivery turns out to be a trap."
+    },
+    {
+      "phrase": "look like a human",
+      "translation": "выглядеть как человек",
+      "example": "The courier looks like a human but is actually a machine."
+    },
+    {
+      "phrase": "narrate fictitious events",
+      "translation": "рассказывать выдуманные события",
+      "example": "All these films narrate a sequence of fictitious events."
+    }
+  ]
+}

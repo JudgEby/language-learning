@@ -177,5 +177,20 @@
     "relatedRuleIds": [
       "tomorrows-world"
     ]
+  },
+  {
+    "id": "b2a02a5aa28a",
+    "question": "Choose the correct collocation: In my opinion, you need to be well-prepared for any interview.",
+    "options": [
+      "In my opinion...",
+      "What I like about… is…",
+      "custom",
+      "memorise"
+    ],
+    "correctIndex": 0,
+    "explanation": "'In my opinion...' (По моему мнению...). Full sentence: In my opinion, you need to be well-prepared for any interview.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
   }
 ]

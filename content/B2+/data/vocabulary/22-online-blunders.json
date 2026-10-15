@@ -1,0 +1,101 @@
+{
+  "lessonId": "online-blunders",
+  "title": "6B Online Blunders — Ошибки и жалобы",
+  "items": [
+    {
+      "term": "invitation",
+      "translation": "приглашение",
+      "example": "The invitation was meant for my immediate team only."
+    },
+    {
+      "term": "staff",
+      "translation": "сотрудники, персонал",
+      "example": "All 3,000 staff at the company got the invitation."
+    },
+    {
+      "term": "intern",
+      "translation": "стажёр",
+      "example": "He was an intern at a large multinational company."
+    },
+    {
+      "term": "multinational",
+      "translation": "международная компания",
+      "example": "She works for a large multinational company."
+    },
+    {
+      "term": "confidential",
+      "translation": "конфиденциальный",
+      "example": "He sent out a confidential internal email to the whole team."
+    },
+    {
+      "term": "customer",
+      "translation": "клиент",
+      "example": "The email went out to every single customer by accident."
+    },
+    {
+      "term": "upload",
+      "translation": "загружать",
+      "example": "She managed to upload a photo of her children instead of the sofa."
+    },
+    {
+      "term": "tag",
+      "translation": "отмечать на фото",
+      "example": "He uploaded a photo and tagged his ex in it."
+    },
+    {
+      "term": "advertise",
+      "translation": "рекламировать, выставлять на продажу",
+      "example": "She advertised a sofa for sale in the local newspaper."
+    },
+    {
+      "term": "ceiling",
+      "translation": "потолок",
+      "example": "She presumed the plant would almost reach the ceiling."
+    },
+    {
+      "term": "doll's house",
+      "translation": "кукольный домик",
+      "example": "The plant was measured in centimetres and meant for a doll's house."
+    },
+    {
+      "term": "wig",
+      "translation": "парик",
+      "example": "He turned up in 1960s clothes with a long-haired wig."
+    },
+    {
+      "term": "recipient",
+      "translation": "получатель",
+      "example": "He sent the email without checking the recipient's name."
+    },
+    {
+      "term": "verbal warning",
+      "translation": "устное предупреждение",
+      "example": "He got an official verbal warning but no further action."
+    },
+    {
+      "term": "fire",
+      "translation": "увольнять",
+      "example": "He was worried they might fire him after the mistake."
+    },
+    {
+      "term": "refund",
+      "translation": "возврат денег",
+      "example": "The company offered her a full refund for the cake."
+    },
+    {
+      "term": "fit for purpose",
+      "translation": "пригодный для использования",
+      "example": "The room they were given was not fit for purpose."
+    },
+    {
+      "term": "in haste",
+      "translation": "в спешке",
+      "example": "An alternative cake had to be purchased in haste."
+    },
+    {
+      "term": "over-booked",
+      "translation": "переполненный из-за двойной брони",
+      "example": "The flight was over-booked and there were no seats left."
+    }
+  ]
+}

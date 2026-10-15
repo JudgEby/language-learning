@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "what-can-i-do-for-you"
     ]
+  },
+  {
+    "question": "Which word means 'фотографировать'?",
+    "options": [
+      "develop a theory",
+      "take photos",
+      "make a decision",
+      "Is it compulsory?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'take photos' means фотографировать. Example: I took lots of photos of the skyline from the top.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ],
+    "id": "4b92a544f227"
+  },
+  {
+    "question": "Which word means 'мясо, выращенное в лаборатории'?",
+    "options": [
+      "go jogging",
+      "lab-grown meat",
+      "gym",
+      "Would you mind telling me the way to the library?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'lab-grown meat' means мясо, выращенное в лаборатории. Example: Lab-grown meat could be a sustainable alternative to traditional farming.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ],
+    "id": "35856c5a0619"
+  },
+  {
+    "question": "Complete the sentence: ___ in the fire.",
+    "options": [
+      "I never work late",
+      "go for a bike ride",
+      "keep fit",
+      "The building was damaged"
+    ],
+    "correctIndex": 3,
+    "explanation": "'The building was damaged' (Здание было повреждено). Full sentence: The building was damaged in the fire.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ],
+    "id": "cc2e236dfea5"
   }
 ]

@@ -1,0 +1,41 @@
+{
+  "lessonId": "around-town",
+  "title": "Around town — идиомы",
+  "items": [
+    {
+      "idiom": "in the centre of town",
+      "translation": "в центре города",
+      "example": "The museum is in the centre of town."
+    },
+    {
+      "idiom": "open late",
+      "translation": "открыт допоздна",
+      "example": "The supermarket is open late on Fridays."
+    },
+    {
+      "idiom": "pop into the pharmacy",
+      "translation": "заскочить в аптеку",
+      "example": "Pop into the pharmacy for me, please."
+    },
+    {
+      "idiom": "across the street",
+      "translation": "через дорогу",
+      "example": "The bank is across the street from the school."
+    },
+    {
+      "idiom": "on the corner",
+      "translation": "на углу",
+      "example": "The cafe is on the corner of the street."
+    },
+    {
+      "idiom": "find your way around town",
+      "translation": "ориентироваться в городе",
+      "example": "You will soon find your way around town."
+    },
+    {
+      "idiom": "a short walk from here",
+      "translation": "в двух шагах отсюда",
+      "example": "The library is a short walk from here."
+    }
+  ]
+}

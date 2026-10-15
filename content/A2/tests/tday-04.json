@@ -298,5 +298,125 @@
     "relatedRuleIds": [
       "can-i-help-you"
     ]
+  },
+  {
+    "id": "c8664a807fd5",
+    "question": "Which word means 'ключи'?",
+    "options": [
+      "an expedition",
+      "regret",
+      "keys",
+      "carry a bag"
+    ],
+    "correctIndex": 2,
+    "explanation": "'keys' means ключи. Example: Put your keys in the bag so they're easy to find.",
+    "relatedRuleIds": [
+      "see-it-taste-it"
+    ]
+  },
+  {
+    "id": "458d0336abfa",
+    "question": "Choose the correct collocation: And has he got a job? — Yes, he's the manager.",
+    "options": [
+      "What are those?",
+      "a car chase",
+      "has somebody got ... ?",
+      "have lunch with a friend"
+    ],
+    "correctIndex": 2,
+    "explanation": "'has somebody got ... ?' (У кого-то есть ... ?). Full sentence: And has he got a job? — Yes, he's the manager.",
+    "relatedRuleIds": [
+      "big-happy-families"
+    ]
+  },
+  {
+    "id": "9322f840f3c2",
+    "question": "Choose the correct collocation: The post office is only open for one hour a day.",
+    "options": [
+      "be only open for ...",
+      "shorts",
+      "never wear ...",
+      "eat in / take away"
+    ],
+    "correctIndex": 0,
+    "explanation": "'be only open for ...' (быть открытым только ...). Full sentence: The post office is only open for one hour a day.",
+    "relatedRuleIds": [
+      "around-town"
+    ]
+  },
+  {
+    "id": "69672deafe76",
+    "question": "Choose the correct collocation: Your first teacher was probably a woman.",
+    "options": [
+      "bring up",
+      "your first ...",
+      "What should I do?",
+      "How much is it?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'your first ...' (твой первый ...). Full sentence: Your first teacher was probably a woman.",
+    "relatedRuleIds": [
+      "in-their-past"
+    ]
+  },
+  {
+    "id": "a4bdfe315b2a",
+    "question": "Which word means 'река / озеро'?",
+    "options": [
+      "opposite",
+      "a river / a lake",
+      "be different from",
+      "broccoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "'a river / a lake' means река / озеро. Example: The Silk Route passes a lake in northern China.",
+    "relatedRuleIds": [
+      "the-longest-bike-ride"
+    ]
+  },
+  {
+    "id": "df4bc6fde4fa",
+    "question": "Which word means 'вагон'?",
+    "options": [
+      "What time does it start?",
+      "What did you do?",
+      "a carriage",
+      "the sunrise"
+    ],
+    "correctIndex": 2,
+    "explanation": "'a carriage' means вагон. Example: There are women-only carriages on some trains in Japan.",
+    "relatedRuleIds": [
+      "free-ride"
+    ]
+  },
+  {
+    "id": "3aa9085d38e6",
+    "question": "Which word means 'рецепт'?",
+    "options": [
+      "Put this cream on your ...",
+      "be good at",
+      "carry a bag",
+      "a prescription"
+    ],
+    "correctIndex": 3,
+    "explanation": "'a prescription' means рецепт. Example: The doctor gave me a prescription for tablets.",
+    "relatedRuleIds": [
+      "i-dont-feel-well"
+    ]
+  },
+  {
+    "id": "e8a925e5e64e",
+    "question": "Choose the correct collocation: Just a moment, please. — Customer services.",
+    "options": [
+      "Could I leave a message for him?",
+      "Just a moment. / Hold on, please.",
+      "What's your favourite type of transport?",
+      "travel / go through ..."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Just a moment. / Hold on, please.' (Минуточку. / Подождите, пожалуйста.). Full sentence: Just a moment, please. — Customer services.",
+    "relatedRuleIds": [
+      "hello-ive-got-a-problem"
+    ]
   }
 ]

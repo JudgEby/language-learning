@@ -2,12 +2,45 @@
   "lessonId": "what-really-happened",
   "title": "What really happened — фразы",
   "items": [
-    { "phrase": "keep up-to-date with the news", "translation": "быть в курсе новостей", "example": "I use my phone to keep up-to-date with the news." },
-    { "phrase": "hear the news", "translation": "услышать новость", "example": "I heard the news about the accident on the radio." },
-    { "phrase": "break a story", "translation": "опубликовать сенсационную новость", "example": "The newspaper broke the story about the scandal." },
-    { "phrase": "make the headlines", "translation": "попасть в заголовки", "example": "The celebrity wedding made the headlines." },
-    { "phrase": "get coverage", "translation": "получить освещение в СМИ", "example": "The event got international coverage." },
-    { "phrase": "be on the run", "translation": "быть в бегах", "example": "The fugitive was on the run for three months." },
-    { "phrase": "in custody", "translation": "под стражей", "example": "The suspect is currently in custody." }
+    {
+      "phrase": "keep up-to-date with the news",
+      "translation": "быть в курсе новостей",
+      "example": "I use my phone to keep up-to-date with the news."
+    },
+    {
+      "phrase": "hear the news",
+      "translation": "услышать новость",
+      "example": "I heard the news about the accident on the radio."
+    },
+    {
+      "phrase": "break a story",
+      "translation": "опубликовать сенсационную новость",
+      "example": "The newspaper broke the story about the scandal."
+    },
+    {
+      "phrase": "make the headlines",
+      "translation": "попасть в заголовки",
+      "example": "The celebrity wedding made the headlines."
+    },
+    {
+      "phrase": "get coverage",
+      "translation": "получить освещение в СМИ",
+      "example": "The event got international coverage."
+    },
+    {
+      "phrase": "be on the run",
+      "translation": "быть в бегах",
+      "example": "The fugitive was on the run for three months."
+    },
+    {
+      "phrase": "in custody",
+      "translation": "под стражей",
+      "example": "The suspect is currently in custody."
+    },
+    {
+      "phrase": "Where were you when you heard the news?",
+      "translation": "Где ты был, когда услышал новость?",
+      "example": "What was the news story? Where were you when you heard the news?"
+    }
   ]
 }

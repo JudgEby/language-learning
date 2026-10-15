@@ -1,0 +1,76 @@
+{
+  "lessonId": "algorithm",
+  "title": "6A Algorithm — Идиомы: алгоритмы и данные",
+  "items": [
+    {
+      "idiom": "a vicious circle",
+      "translation": "порочный круг",
+      "example": "Biased data creates a vicious circle of unfair predictions."
+    },
+    {
+      "idiom": "make up one's mind",
+      "translation": "принять решение",
+      "example": "In the end, we must make up our own minds."
+    },
+    {
+      "idiom": "think for oneself",
+      "translation": "думать своей головой",
+      "example": "We need to think for ourselves, not follow recommendations blindly."
+    },
+    {
+      "idiom": "garbage in, garbage out",
+      "translation": "мусор на входе — мусор на выходе",
+      "example": "If you input biased data, remember: garbage in, garbage out."
+    },
+    {
+      "idiom": "a black box",
+      "translation": "чёрный ящик",
+      "example": "For most users, the algorithm remains a black box."
+    },
+    {
+      "idiom": "take with a pinch of salt",
+      "translation": "относиться скептически",
+      "example": "Take personalised recommendations with a pinch of salt."
+    },
+    {
+      "idiom": "connect the dots",
+      "translation": "сопоставить факты",
+      "example": "The program connects the dots between thousands of profiles."
+    },
+    {
+      "idiom": "a double-edged sword",
+      "translation": "палка о двух концах",
+      "example": "Predictive software is a double-edged sword."
+    },
+    {
+      "idiom": "a slippery slope",
+      "translation": "скользкая дорожка",
+      "example": "Letting machines decide everything is a slippery slope."
+    },
+    {
+      "idiom": "the jury is still out",
+      "translation": "вопрос остаётся открытым",
+      "example": "The jury is still out on whether algorithms are fair."
+    },
+    {
+      "idiom": "behind the scenes",
+      "translation": "за кулисами",
+      "example": "Algorithms work behind the scenes every time you shop online."
+    },
+    {
+      "idiom": "a reality check",
+      "translation": "отрезвляющая проверка",
+      "example": "The scandal was a reality check for fans of big data."
+    },
+    {
+      "idiom": "push the envelope",
+      "translation": "раздвигать границы возможного",
+      "example": "Engineers keep pushing the envelope of what machines can do."
+    },
+    {
+      "idiom": "a wake-up call",
+      "translation": "тревожный звонок",
+      "example": "The unfair decisions were a wake-up call for the charity."
+    }
+  ]
+}

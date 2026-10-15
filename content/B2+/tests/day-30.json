@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "science-fiction"
     ]
+  },
+  {
+    "question": "Which word means 'победить'?",
+    "options": [
+      "bump into",
+      "penalty area",
+      "beat",
+      "It seems to me that"
+    ],
+    "correctIndex": 2,
+    "explanation": "'beat' means победить. Example: We need to beat our competitors to win the contract.",
+    "relatedRuleIds": [
+      "challenge"
+    ],
+    "id": "f564e7acd4db"
+  },
+  {
+    "question": "Choose the correct collocation: The customer ends up with a smile on his face.",
+    "options": [
+      "The plot is straightforward",
+      "device",
+      "end up with a smile",
+      "formal qualifications"
+    ],
+    "correctIndex": 2,
+    "explanation": "'end up with a smile' (остаться с улыбкой). Full sentence: The customer ends up with a smile on his face.",
+    "relatedRuleIds": [
+      "presenting-yourself"
+    ],
+    "id": "935dc8f72aaa"
+  },
+  {
+    "question": "Which word means 'арендная плата'?",
+    "options": [
+      "revolutionise",
+      "overcome difficulties",
+      "rent",
+      "detect"
+    ],
+    "correctIndex": 2,
+    "explanation": "'rent' means арендная плата. Example: The rent for this flat is extremely high for the size.",
+    "relatedRuleIds": [
+      "in-dispute"
+    ],
+    "id": "931ead8b7e15"
+  },
+  {
+    "question": "Which word means 'изобретение'?",
+    "options": [
+      "sign up",
+      "funds for social events",
+      "understanding",
+      "invention"
+    ],
+    "correctIndex": 3,
+    "explanation": "'invention' means изобретение. Example: The invention of the smartphone changed the way we communicate.",
+    "relatedRuleIds": [
+      "science-we-need"
+    ],
+    "id": "0925e74b1d33"
   }
 ]

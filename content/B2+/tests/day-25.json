@@ -343,5 +343,65 @@
     "relatedRuleIds": [
       "word-on-the-street"
     ]
+  },
+  {
+    "question": "Which word means 'декретный отпуск (по беременности)'?",
+    "options": [
+      "cook with anger",
+      "maternity leave",
+      "organise a public debate",
+      "changes the game"
+    ],
+    "correctIndex": 1,
+    "explanation": "'maternity leave' means декретный отпуск (по беременности). Example: New mothers can take a month's extra maternity leave on top of the national requirement.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ],
+    "id": "54e446338e7b"
+  },
+  {
+    "question": "Which word means 'целевая аудитория'?",
+    "options": [
+      "target audience",
+      "refund",
+      "look more natural",
+      "become very popular"
+    ],
+    "correctIndex": 0,
+    "explanation": "'target audience' means целевая аудитория. Example: Who is the target audience for this ad?",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ],
+    "id": "e9adef0afc2d"
+  },
+  {
+    "question": "Choose the correct collocation: Jane got the wrong end of the stick and waited for me at the bus stop instead of the cinema.",
+    "options": [
+      "in the wrong location",
+      "climate change",
+      "get the wrong end of the stick",
+      "mindset"
+    ],
+    "correctIndex": 2,
+    "explanation": "'get the wrong end of the stick' (неправильно понять). Full sentence: Jane got the wrong end of the stick and waited for me at the bus stop instead of the cinema.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ],
+    "id": "2a37e0a893af"
+  },
+  {
+    "question": "Which word means 'жадность'?",
+    "options": [
+      "sync",
+      "greed",
+      "opponent",
+      "socialise with"
+    ],
+    "correctIndex": 1,
+    "explanation": "'greed' means жадность. Example: Their greed wasn't the only cause of the crisis.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ],
+    "id": "4e5e6cdc85fc"
   }
 ]

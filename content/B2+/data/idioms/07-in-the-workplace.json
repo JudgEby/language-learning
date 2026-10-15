@@ -1,0 +1,76 @@
+{
+  "lessonId": "in-the-workplace",
+  "title": "2C In the Workplace — Идиомы: работа и бизнес",
+  "items": [
+    {
+      "idiom": "climb the career ladder",
+      "translation": "подниматься по карьерной лестнице",
+      "example": "She climbed the career ladder from assistant to manager in five years."
+    },
+    {
+      "idiom": "learn the ropes",
+      "translation": "освоиться; изучить азы",
+      "example": "New employees need a mentor to learn the ropes."
+    },
+    {
+      "idiom": "burn the midnight oil",
+      "translation": "работать допоздна",
+      "example": "The team burned the midnight oil to launch the product on time."
+    },
+    {
+      "idiom": "pull one's weight",
+      "translation": "вносить свою лепту; работать наравне",
+      "example": "Everyone must pull their weight when cutbacks begin."
+    },
+    {
+      "idiom": "go the extra mile",
+      "translation": "сделать больше, чем требуется",
+      "example": "Dan Price went the extra mile by cutting his own salary."
+    },
+    {
+      "idiom": "get down to business",
+      "translation": "перейти к делу",
+      "example": "After coffee, let's get down to business."
+    },
+    {
+      "idiom": "back to the drawing board",
+      "translation": "начать с нуля",
+      "example": "The pay scheme failed, so it is back to the drawing board."
+    },
+    {
+      "idiom": "call the shots",
+      "translation": "командовать; принимать решения",
+      "example": "As CEO, she calls the shots on pay policy."
+    },
+    {
+      "idiom": "get one's foot in the door",
+      "translation": "получить первый шанс",
+      "example": "An internship is a good way to get your foot in the door."
+    },
+    {
+      "idiom": "a dead-end job",
+      "translation": "бесперспективная работа",
+      "example": "He left a dead-end job to join a fair-pay company."
+    },
+    {
+      "idiom": "all hands on deck",
+      "translation": "все на борьбу; аврал",
+      "example": "It was all hands on deck before the product launch."
+    },
+    {
+      "idiom": "think outside the box",
+      "translation": "мыслить нестандартно",
+      "example": "The minimum salary scheme showed thinking outside the box."
+    },
+    {
+      "idiom": "rock the boat",
+      "translation": "раскачивать лодку; нарушать покой",
+      "example": "The new pay scheme rocked the boat, and two managers resigned."
+    },
+    {
+      "idiom": "in the same boat",
+      "translation": "в одной лодке; в одинаковом положении",
+      "example": "Small firms and giants are in the same boat during a crisis."
+    }
+  ]
+}

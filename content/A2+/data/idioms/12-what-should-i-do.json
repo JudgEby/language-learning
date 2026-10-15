@@ -1,0 +1,41 @@
+{
+  "lessonId": "what-should-i-do",
+  "title": "What should I do? — идиомы",
+  "items": [
+    {
+      "idiom": "re-read articles",
+      "translation": "перечитывать статьи",
+      "example": "I re-read articles we use in class every weekend."
+    },
+    {
+      "idiom": "watch films with subtitles",
+      "translation": "смотреть фильмы с субтитрами",
+      "example": "I watch films with subtitles to learn new words."
+    },
+    {
+      "idiom": "go online to read the news",
+      "translation": "выходить в интернет, чтобы читать новости",
+      "example": "She goes online to read the news in English."
+    },
+    {
+      "idiom": "note down new phrases",
+      "translation": "записывать новые фразы",
+      "example": "I note down new phrases in my notebook."
+    },
+    {
+      "idiom": "use message boards",
+      "translation": "пользоваться форумами, досками сообщений",
+      "example": "You should use message boards to make new friends."
+    },
+    {
+      "idiom": "make mistakes",
+      "translation": "делать ошибки",
+      "example": "It does not matter if you make mistakes when you chat online."
+    },
+    {
+      "idiom": "use graded readers",
+      "translation": "читать адаптированные книги",
+      "example": "Why do you not use graded readers to learn new words?"
+    }
+  ]
+}

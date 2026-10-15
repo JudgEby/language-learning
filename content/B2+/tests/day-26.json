@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "food-fads"
     ]
+  },
+  {
+    "question": "Which word means 'сокращение (расходов, штата)'?",
+    "options": [
+      "under no circumstances",
+      "keep research secret",
+      "scan",
+      "cutback"
+    ],
+    "correctIndex": 3,
+    "explanation": "'cutback' means сокращение (расходов, штата). Example: A cutback in staffing means fewer people to do the work.",
+    "relatedRuleIds": [
+      "in-the-workplace"
+    ],
+    "id": "d5c65310f2e2"
+  },
+  {
+    "question": "Which word means 'ажиотаж'?",
+    "options": [
+      "comfort zone",
+      "input",
+      "hype",
+      "adjust"
+    ],
+    "correctIndex": 2,
+    "explanation": "'hype' means ажиотаж. Example: Despite the hype, the campaign was not as successful as hoped.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ],
+    "id": "958e25a15fd8"
+  },
+  {
+    "question": "Which word means 'отмечать на фото'?",
+    "options": [
+      "tag",
+      "change of heart",
+      "cheaper to produce",
+      "greed"
+    ],
+    "correctIndex": 0,
+    "explanation": "'tag' means отмечать на фото. Example: He uploaded a photo and tagged his ex in it.",
+    "relatedRuleIds": [
+      "online-blunders"
+    ],
+    "id": "77fba4615a47"
+  },
+  {
+    "question": "Complete the sentence: We had to ___ and contribute to society.",
+    "options": [
+      "make sense",
+      "follow rules",
+      "benefit from it",
+      "recharge"
+    ],
+    "correctIndex": 1,
+    "explanation": "'follow rules' (соблюдать правила). Full sentence: We had to follow rules and contribute to society.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ],
+    "id": "5a0d9d0be506"
   }
 ]

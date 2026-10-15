@@ -1,0 +1,41 @@
+{
+  "lessonId": "free-in-nyc",
+  "title": "Free in NYC — идиомы",
+  "items": [
+    {
+      "idiom": "see live music",
+      "translation": "сходить на живую музыку",
+      "example": "In the evening he is going to see some live music."
+    },
+    {
+      "idiom": "see a free art exhibition",
+      "translation": "посмотреть бесплатную художественную выставку",
+      "example": "I am going to see a free art exhibition tomorrow."
+    },
+    {
+      "idiom": "take the ferry",
+      "translation": "поплыть на пароме",
+      "example": "He is taking the ferry to see the city from the water."
+    },
+    {
+      "idiom": "visit an old friend",
+      "translation": "навестить старого друга",
+      "example": "I am going to visit an old friend tonight."
+    },
+    {
+      "idiom": "meet for a drink",
+      "translation": "встретиться выпить (кофе, напиток)",
+      "example": "Sue and I are meeting for a drink on Tuesday evening."
+    },
+    {
+      "idiom": "watch a football match",
+      "translation": "посмотреть футбольный матч",
+      "example": "A few people are coming to watch a football match at my house."
+    },
+    {
+      "idiom": "go to the cinema on Friday",
+      "translation": "пойти в кино в пятницу",
+      "example": "We are going to the cinema on Friday evening."
+    }
+  ]
+}

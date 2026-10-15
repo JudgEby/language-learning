@@ -16,6 +16,31 @@
       "phrase": "seek help",
       "translation": "обратиться за помощью",
       "example": "Don't be afraid to seek help."
+    },
+    {
+      "phrase": "get something off your chest",
+      "translation": "выговориться",
+      "example": "She just needed to get something off her chest."
+    },
+    {
+      "phrase": "take your mind off problems",
+      "translation": "отвлечься от проблем",
+      "example": "Music helps him take his mind off problems."
+    },
+    {
+      "phrase": "get through to someone",
+      "translation": "достучаться до кого-то",
+      "example": "I could not get through to him no matter what I said."
+    },
+    {
+      "phrase": "take it personally",
+      "translation": "принимать на свой счёт",
+      "example": "Do not take my advice personally, please."
+    },
+    {
+      "phrase": "get the message",
+      "translation": "понять намёк",
+      "example": "He did not seem to get the message."
     }
   ]
 }

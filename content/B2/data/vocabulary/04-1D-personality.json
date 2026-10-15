@@ -26,6 +26,36 @@
       "term": "assertive",
       "translation": "уверенный в себе",
       "example": "You need to be more assertive at work."
+    },
+    {
+      "term": "bubbly",
+      "translation": "жизнерадостный",
+      "example": "Camille is really bubbly."
+    },
+    {
+      "term": "committed",
+      "translation": "преданный делу",
+      "example": "He is very committed to his job."
+    },
+    {
+      "term": "enthusiastic",
+      "translation": "восторженный",
+      "example": "She's always enthusiastic about new ideas."
+    },
+    {
+      "term": "happy-go-lucky",
+      "translation": "беззаботный",
+      "example": "I'd love to be more happy-go-lucky."
+    },
+    {
+      "term": "welcoming",
+      "translation": "гостеприимный",
+      "example": "Everyone was very welcoming to new members."
+    },
+    {
+      "term": "grumpy",
+      "translation": "ворчливый",
+      "example": "Try to be less grumpy in the morning."
     }
   ]
 }

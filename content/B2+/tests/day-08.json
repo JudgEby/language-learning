@@ -343,5 +343,80 @@
     "relatedRuleIds": [
       "challenge"
     ]
+  },
+  {
+    "question": "Complete the sentence: In ___, even a fountain can help people relax.",
+    "options": [
+      "appear in a reality TV show",
+      "urban settings",
+      "work from home",
+      "compete with others"
+    ],
+    "correctIndex": 1,
+    "explanation": "'urban settings' (городская среда). Full sentence: In urban settings, even a fountain can help people relax.",
+    "relatedRuleIds": [
+      "places"
+    ],
+    "id": "451d5c8a4384"
+  },
+  {
+    "question": "Which word means 'повторение'?",
+    "options": [
+      "If it was up to me",
+      "upload",
+      "more about than",
+      "repetition"
+    ],
+    "correctIndex": 3,
+    "explanation": "'repetition' means повторение. Example: Repetition is one of the typical features of a spoken-word poem.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ],
+    "id": "67444ba85b4a"
+  },
+  {
+    "question": "Choose the correct collocation: Listen to their concerns and address them with patience.",
+    "options": [
+      "take forever to find",
+      "poacher",
+      "address someone's concerns",
+      "illustrate"
+    ],
+    "correctIndex": 2,
+    "explanation": "'address someone's concerns' (отвечать на опасения). Full sentence: Listen to their concerns and address them with patience.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ],
+    "id": "cd792608a54c"
+  },
+  {
+    "question": "Which word means 'происходить'?",
+    "options": [
+      "juicy",
+      "forecast",
+      "derive",
+      "build-up of chemicals"
+    ],
+    "correctIndex": 2,
+    "explanation": "'derive' means происходить. Example: The English word 'guitar' derives from the Spanish word 'guitarra'.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ],
+    "id": "e510871b62c1"
+  },
+  {
+    "question": "Which word means 'шаттл, челнок'?",
+    "options": [
+      "adjust",
+      "brand",
+      "prepare in a day",
+      "shuttle"
+    ],
+    "correctIndex": 3,
+    "explanation": "'shuttle' means шаттл, челнок. Example: A shuttle makes regular journeys to and from space.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ],
+    "id": "9f7e77a481a1"
   }
 ]

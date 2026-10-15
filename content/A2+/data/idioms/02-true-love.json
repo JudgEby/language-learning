@@ -1,0 +1,41 @@
+{
+  "lessonId": "true-love",
+  "title": "True love — идиомы",
+  "items": [
+    {
+      "idiom": "love at first sight",
+      "translation": "любовь с первого взгляда",
+      "example": "Do you believe in love at first sight?"
+    },
+    {
+      "idiom": "meet new people",
+      "translation": "знакомиться с новыми людьми",
+      "example": "Travelling is a great way to meet new people."
+    },
+    {
+      "idiom": "get on well",
+      "translation": "хорошо ладить",
+      "example": "I met my best friend at school and we got on well immediately."
+    },
+    {
+      "idiom": "have a girlfriend",
+      "translation": "встречаться с девушкой, иметь девушку",
+      "example": "He did not have a girlfriend when they first met."
+    },
+    {
+      "idiom": "give her the ring",
+      "translation": "подарить ей кольцо (сделать предложение)",
+      "example": "He did not say anything, he just gave her the ring."
+    },
+    {
+      "idiom": "start a family",
+      "translation": "создать семью, завести семью",
+      "example": "They got married and started a family a year later."
+    },
+    {
+      "idiom": "live in different countries",
+      "translation": "жить в разных странах",
+      "example": "They lived in different countries, so it was difficult to be together."
+    }
+  ]
+}

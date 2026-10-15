@@ -1,0 +1,41 @@
+{
+  "lessonId": "im-just-looking",
+  "title": "I'm just looking — покупки в магазине",
+  "items": [
+    {
+      "idiom": "Do you sell...?",
+      "translation": "У вас продаётся?",
+      "example": "Hello, do you sell those things that soldiers wear?"
+    },
+    {
+      "idiom": "Are you looking for anything in particular?",
+      "translation": "Вы ищете что-то конкретное?",
+      "example": "Hi there. Are you looking for anything in particular?"
+    },
+    {
+      "idiom": "Who is next, please?",
+      "translation": "Кто следующий?",
+      "example": "Who is next, please? I can help you here."
+    },
+    {
+      "idiom": "Can you enter your PIN?",
+      "translation": "Введите PIN-код",
+      "example": "Are you paying by card? Can you enter your PIN, please?"
+    },
+    {
+      "idiom": "Can you just sign here?",
+      "translation": "Подпишите здесь",
+      "example": "Can you just sign here, please? Thank you."
+    },
+    {
+      "idiom": "It is a kind of...",
+      "translation": "Это разновидность...",
+      "example": "It is a kind of liquid you use for cooking."
+    },
+    {
+      "idiom": "It is a type of...",
+      "translation": "Это тип...",
+      "example": "It is a type of jacket soldiers wear."
+    }
+  ]
+}

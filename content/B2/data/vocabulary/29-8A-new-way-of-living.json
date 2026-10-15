@@ -26,6 +26,36 @@
       "term": "amenities",
       "translation": "удобства",
       "example": "The building has great amenities."
+    },
+    {
+      "term": "rental contract",
+      "translation": "договор аренды",
+      "example": "They signed an expensive rental contract."
+    },
+    {
+      "term": "like-minded people",
+      "translation": "единомышленники",
+      "example": "She lives with like-minded people."
+    },
+    {
+      "term": "work remotely",
+      "translation": "работать удалённо",
+      "example": "Many young workers work remotely now."
+    },
+    {
+      "term": "spacious",
+      "translation": "просторный",
+      "example": "They offer a beautiful spacious villa."
+    },
+    {
+      "term": "stylish",
+      "translation": "стильный",
+      "example": "The flat is small but stylish."
+    },
+    {
+      "term": "privacy",
+      "translation": "приватность",
+      "example": "Shared flats do not offer much privacy."
     }
   ]
 }

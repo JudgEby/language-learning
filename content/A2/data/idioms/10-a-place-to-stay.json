@@ -1,0 +1,41 @@
+{
+  "lessonId": "a-place-to-stay",
+  "title": "A place to stay — идиомы",
+  "items": [
+    {
+      "idiom": "move house",
+      "translation": "переезжать",
+      "example": "They want to move house next year."
+    },
+    {
+      "idiom": "a room with a view",
+      "translation": "комната с видом",
+      "example": "We booked a room with a view of the sea."
+    },
+    {
+      "idiom": "feel at home",
+      "translation": "чувствовать себя как дома",
+      "example": "Make yourself comfortable and feel at home!"
+    },
+    {
+      "idiom": "a quiet neighbourhood",
+      "translation": "тихий район",
+      "example": "The flat is in a quiet neighbourhood."
+    },
+    {
+      "idiom": "close to the centre",
+      "translation": "близко к центру",
+      "example": "The hotel is close to the centre."
+    },
+    {
+      "idiom": "share a flat",
+      "translation": "снимать квартиру вместе",
+      "example": "I share a flat with two students."
+    },
+    {
+      "idiom": "do the housework",
+      "translation": "заниматься домашними делами",
+      "example": "We do the housework together on Saturdays."
+    }
+  ]
+}

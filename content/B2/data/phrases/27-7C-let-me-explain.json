@@ -16,6 +16,31 @@
       "phrase": "carry out",
       "translation": "выполнить",
       "example": "Carry out the steps in order."
+    },
+    {
+      "phrase": "break it down",
+      "translation": "разбить на этапы",
+      "example": "Break the process down into smaller stages."
+    },
+    {
+      "phrase": "go over the basics",
+      "translation": "пройтись по основам",
+      "example": "First, let us go over the basics together."
+    },
+    {
+      "phrase": "leave out important details",
+      "translation": "упускать важные детали",
+      "example": "Do not leave out any important details."
+    },
+    {
+      "phrase": "go into details",
+      "translation": "углубляться в детали",
+      "example": "We will not go into all the details now."
+    },
+    {
+      "phrase": "get the information across",
+      "translation": "донести информацию",
+      "example": "Draw a diagram to get the information across."
     }
   ]
 }

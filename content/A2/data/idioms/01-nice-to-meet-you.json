@@ -1,0 +1,41 @@
+{
+  "lessonId": "nice-to-meet-you",
+  "title": "Nice to meet you — идиомы",
+  "items": [
+    {
+      "idiom": "How are things?",
+      "translation": "Как дела? (неформально)",
+      "example": "Hi, Anna! How are things with you?"
+    },
+    {
+      "idiom": "Pleased to meet you",
+      "translation": "Приятно познакомиться",
+      "example": "Pleased to meet you, Mr Rossi."
+    },
+    {
+      "idiom": "See you soon",
+      "translation": "До скорого",
+      "example": "It was nice to meet you. See you soon!"
+    },
+    {
+      "idiom": "Have a nice day",
+      "translation": "Хорошего дня",
+      "example": "Bye, students! Have a nice day."
+    },
+    {
+      "idiom": "Welcome to London",
+      "translation": "Добро пожаловать в Лондон",
+      "example": "Welcome to London, Omar!"
+    },
+    {
+      "idiom": "Say hello to your wife",
+      "translation": "Передавай привет жене",
+      "example": "Say hello to your wife from me."
+    },
+    {
+      "idiom": "Good to see you again",
+      "translation": "Рад снова тебя видеть",
+      "example": "Hi, Jenny! Good to see you again."
+    }
+  ]
+}

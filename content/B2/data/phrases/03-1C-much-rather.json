@@ -16,6 +16,31 @@
       "phrase": "given the choice",
       "translation": "имея выбор",
       "example": "Given the choice, I'd take the train."
+    },
+    {
+      "phrase": "passionate about (sth)",
+      "translation": "увлечённый (чем-то)",
+      "example": "I am really passionate about trying local food."
+    },
+    {
+      "phrase": "fond of (sth)",
+      "translation": "любящий, неравнодушный к (чему-то)",
+      "example": "I am fond of the street markets in the old town."
+    },
+    {
+      "phrase": "keen on (sth)",
+      "translation": "интересующийся, любящий (что-то)",
+      "example": "She is not keen on museums, so we skipped them."
+    },
+    {
+      "phrase": "nervous about (sth)",
+      "translation": "нервничающий из-за (чего-то)",
+      "example": "I get nervous about taking taxis in a foreign city."
+    },
+    {
+      "phrase": "a big fan of (sth)",
+      "translation": "большой поклонник (чего-то)",
+      "example": "I am not a big fan of shopping generally."
     }
   ]
 }

@@ -16,6 +16,31 @@
       "phrase": "run into problems",
       "translation": "столкнуться с проблемами",
       "example": "We ran into problems with the software."
+    },
+    {
+      "phrase": "put yourself on mute",
+      "translation": "выключать свой микрофон",
+      "example": "Put yourself on mute if you are not speaking."
+    },
+    {
+      "phrase": "keep your camera turned on",
+      "translation": "держать камеру включённой",
+      "example": "Keep your camera turned on during the call."
+    },
+    {
+      "phrase": "switch off notifications",
+      "translation": "отключать уведомления",
+      "example": "Switch off notifications before the meeting."
+    },
+    {
+      "phrase": "check the chat box",
+      "translation": "проверять чат",
+      "example": "The host should check the chat box regularly."
+    },
+    {
+      "phrase": "post a link",
+      "translation": "публиковать ссылку",
+      "example": "David posted the document as a link in the chat."
     }
   ]
 }

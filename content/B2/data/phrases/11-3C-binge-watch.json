@@ -16,6 +16,31 @@
       "phrase": "catch up on",
       "translation": "наверстать (просмотр)",
       "example": "I need to catch up on the latest season."
+    },
+    {
+      "phrase": "stay up all night",
+      "translation": "не спать всю ночь",
+      "example": "We stayed up all night to watch the whole season."
+    },
+    {
+      "phrase": "cancel social plans",
+      "translation": "отменять планы с друзьями",
+      "example": "She cancelled her social plans to finish the series."
+    },
+    {
+      "phrase": "call in sick (at work)",
+      "translation": "отпроситься с работы по болезни",
+      "example": "He called in sick at work so he could stay at home and watch TV."
+    },
+    {
+      "phrase": "be based on (a true story)",
+      "translation": "быть основанным на (реальной истории)",
+      "example": "The film is based on the true story of a famous scientist."
+    },
+    {
+      "phrase": "be set in (a place)",
+      "translation": "действие происходит в (каком-то месте)",
+      "example": "It is a detective drama which is set in Sweden."
     }
   ]
 }

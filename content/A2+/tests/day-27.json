@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "top-cities"
     ]
+  },
+  {
+    "question": "Complete the sentence: I went scuba diving last year. ___.",
+    "options": [
+      "It was one of the best experiences of my life",
+      "Could you recommend somewhere?",
+      "I didn't use to like spicy food.",
+      "I hardly ever…"
+    ],
+    "correctIndex": 0,
+    "explanation": "'It was one of the best experiences of my life' (Это был один из лучших опытов в моей жизни). Full sentence: I went scuba diving last year. It was one of the best experiences of my life.",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ],
+    "id": "b082f364147d"
+  },
+  {
+    "question": "Which word means 'вход'?",
+    "options": [
+      "video call",
+      "Sorry, I didn't catch that",
+      "Do you know if there's a bank near here?",
+      "entrance"
+    ],
+    "correctIndex": 3,
+    "explanation": "'entrance' means вход. Example: The entrance is on the left side of the building.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ],
+    "id": "9d5fdf87534a"
+  },
+  {
+    "question": "Which word means 'нервничающий'?",
+    "options": [
+      "nervous",
+      "I don't think so",
+      "boss",
+      "No, I've never… but I'd love to"
+    ],
+    "correctIndex": 0,
+    "explanation": "'nervous' means нервничающий. Example: He always gets nervous before presentations.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ],
+    "id": "e63c3624368b"
   }
 ]

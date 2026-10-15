@@ -1,0 +1,96 @@
+{
+  "lessonId": "habits",
+  "title": "5D Habits — Привычки и их обсуждение",
+  "items": [
+    {
+      "phrase": "follow a routine",
+      "translation": "придерживаться распорядка",
+      "example": "I follow a similar routine in most areas of my life."
+    },
+    {
+      "phrase": "do things differently",
+      "translation": "делать по-другому",
+      "example": "In some areas I like to change and do things differently."
+    },
+    {
+      "phrase": "in exactly the same order",
+      "translation": "в ровно том же порядке",
+      "example": "I do certain things in exactly the same order every day."
+    },
+    {
+      "phrase": "make plans",
+      "translation": "строить планы",
+      "example": "She is not keen on making plans for the weekend."
+    },
+    {
+      "phrase": "feel secure",
+      "translation": "чувствовать себя уверенно",
+      "example": "My routines make me feel secure when life is busy."
+    },
+    {
+      "phrase": "feel natural and automatic",
+      "translation": "ощущаться естественным",
+      "example": "After a month, the new actions feel natural and automatic."
+    },
+    {
+      "phrase": "prevent you from changing",
+      "translation": "мешать меняться",
+      "example": "Plans that are too fixed may prevent you from changing."
+    },
+    {
+      "phrase": "try new experiences",
+      "translation": "пробовать новое",
+      "example": "She thinks she ought to try new experiences this year."
+    },
+    {
+      "phrase": "feel in control",
+      "translation": "чувствовать контроль",
+      "example": "Strict routines help him feel in control of his life."
+    },
+    {
+      "phrase": "have strict routines",
+      "translation": "иметь строгий распорядок",
+      "example": "To be successful in life, you need to have strict routines."
+    },
+    {
+      "phrase": "tackle the problem head on",
+      "translation": "взяться за проблему вплотную",
+      "example": "I decided to tackle the problem head on and make big changes."
+    },
+    {
+      "phrase": "from time to time",
+      "translation": "время от времени",
+      "example": "I like to go outside my comfort zone from time to time."
+    },
+    {
+      "phrase": "in case something goes wrong",
+      "translation": "на случай если что-то пойдёт не так",
+      "example": "It is important to have a back-up plan in case something goes wrong."
+    },
+    {
+      "phrase": "go outside your comfort zone",
+      "translation": "выйти из зоны комфорта",
+      "example": "New habits allow you to go outside your comfort zone."
+    },
+    {
+      "phrase": "Let's be honest",
+      "translation": "честно говоря",
+      "example": "Let's be honest, strict routines do not suit everyone."
+    },
+    {
+      "phrase": "If you think about it",
+      "translation": "если задуматься",
+      "example": "If you think about it, routines give you a sense of comfort."
+    },
+    {
+      "phrase": "You have to admit that",
+      "translation": "надо признать, что",
+      "example": "You have to admit that habits shape most of our day."
+    },
+    {
+      "phrase": "The big downside of ... is that",
+      "translation": "главный минус в том, что",
+      "example": "The big downside of routines is that they can get you stuck."
+    }
+  ]
+}

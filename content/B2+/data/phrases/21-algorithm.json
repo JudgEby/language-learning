@@ -1,0 +1,96 @@
+{
+  "lessonId": "algorithm",
+  "title": "6A Algorithm — Алгоритмы и решения",
+  "items": [
+    {
+      "phrase": "make mistakes",
+      "translation": "ошибаться",
+      "example": "Algorithms can make mistakes about people too."
+    },
+    {
+      "phrase": "make decisions about our lives",
+      "translation": "принимать решения о нашей жизни",
+      "example": "Algorithms are increasingly used to make decisions about our lives."
+    },
+    {
+      "phrase": "take out a mortgage",
+      "translation": "брать ипотеку",
+      "example": "If we apply to take out a mortgage, an algorithm checks our data."
+    },
+    {
+      "phrase": "borrow money to buy a car",
+      "translation": "занимать деньги на машину",
+      "example": "An algorithm will dictate how much the bank will lend us to buy a car."
+    },
+    {
+      "phrase": "influence the choices",
+      "translation": "влиять на выбор",
+      "example": "Adverts may influence the choices we make about what to watch."
+    },
+    {
+      "phrase": "have so much power over",
+      "translation": "иметь огромную власть над",
+      "example": "Never before have machines had so much power over our lives."
+    },
+    {
+      "phrase": "challenge the decision",
+      "translation": "оспорить решение",
+      "example": "There was no way of challenging the decision made by the machine."
+    },
+    {
+      "phrase": "argue with a machine",
+      "translation": "спорить с машиной",
+      "example": "You cannot argue with a machine when it cuts your income."
+    },
+    {
+      "phrase": "process huge amounts of data",
+      "translation": "обрабатывать огромные объёмы данных",
+      "example": "A computer has greater ability to process huge amounts of data."
+    },
+    {
+      "phrase": "input the data",
+      "translation": "вводить данные",
+      "example": "All you have to do is input the data into the program."
+    },
+    {
+      "phrase": "output the correct decisions",
+      "translation": "выдавать верные решения",
+      "example": "The computer will not always output the correct decisions."
+    },
+    {
+      "phrase": "trust the algorithm",
+      "translation": "доверять алгоритму",
+      "example": "People tend to trust the algorithm more than a human expert."
+    },
+    {
+      "phrase": "only as good as the people",
+      "translation": "хорош лишь настолько, насколько люди",
+      "example": "The algorithm is only as good as the people who designed it."
+    },
+    {
+      "phrase": "impact people's lives",
+      "translation": "влиять на жизнь людей",
+      "example": "Skewed decisions can really impact people's lives in a negative way."
+    },
+    {
+      "phrase": "under no circumstances",
+      "translation": "ни при каких обстоятельствах",
+      "example": "Under no circumstances should a computer make such decisions alone."
+    },
+    {
+      "phrase": "keep in touch with friends",
+      "translation": "поддерживать связь с друзьями",
+      "example": "I use social media as a way of keeping in touch with friends."
+    },
+    {
+      "phrase": "keep up with world events",
+      "translation": "следить за мировыми событиями",
+      "example": "I also use it for keeping up with world events every day."
+    },
+    {
+      "phrase": "tied to my profile",
+      "translation": "привязано к моему профилю",
+      "example": "Everything offered to me was closely tied to my profile."
+    }
+  ]
+}

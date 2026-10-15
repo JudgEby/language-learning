@@ -1,0 +1,41 @@
+{
+  "lessonId": "you-cant-miss-it",
+  "title": "You can't miss it! — идиомы",
+  "items": [
+    {
+      "idiom": "take tourists around",
+      "translation": "водить туристов, показывать город",
+      "example": "He takes tourists around the waterfalls every day."
+    },
+    {
+      "idiom": "cross the border",
+      "translation": "пересекать границу",
+      "example": "Then they cross the border to see the water from the other side."
+    },
+    {
+      "idiom": "do tax-free shopping",
+      "translation": "покупать без налога (дьюти-фри)",
+      "example": "Finally he takes them to do some tax-free shopping."
+    },
+    {
+      "idiom": "go straight on",
+      "translation": "идти прямо",
+      "example": "Go straight on until you hear the music from the square."
+    },
+    {
+      "idiom": "take the first left",
+      "translation": "повернуть на первом повороте налево",
+      "example": "Keep going past the cinema and take the first left."
+    },
+    {
+      "idiom": "keep going until you reach the end of the road",
+      "translation": "идти, пока не дойдёте до конца дороги",
+      "example": "Keep going for fifteen minutes until you reach the end of the road."
+    },
+    {
+      "idiom": "it is on the left",
+      "translation": "это находится слева",
+      "example": "Go past the restaurant and it is on the left."
+    }
+  ]
+}

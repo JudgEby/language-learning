@@ -1,0 +1,41 @@
+{
+  "lessonId": "the-great-impostor",
+  "title": "The great impostor — история самозванца",
+  "items": [
+    {
+      "idiom": "pretend to be a doctor",
+      "translation": "притворяться врачом",
+      "example": "He pretended to be a doctor on a ship during the war."
+    },
+    {
+      "idiom": "pretend to be someone else",
+      "translation": "притворяться другим человеком",
+      "example": "An impostor is someone who pretends to be someone else to trick people."
+    },
+    {
+      "idiom": "pull out a bad tooth",
+      "translation": "вырвать больной зуб",
+      "example": "He cured their illnesses and pulled out bad teeth."
+    },
+    {
+      "idiom": "spend six months in prison",
+      "translation": "провести шесть месяцев в тюрьме",
+      "example": "The police caught him and he spent six months in prison."
+    },
+    {
+      "idiom": "be arrested for a crime",
+      "translation": "быть арестованным за преступление",
+      "example": "Later the police arrested him for a different crime."
+    },
+    {
+      "idiom": "appear in a film",
+      "translation": "сняться в фильме",
+      "example": "He appeared in a 1960 film to make some money."
+    },
+    {
+      "idiom": "make a film of someone's life",
+      "translation": "снять фильм о чьей-то жизни",
+      "example": "Hollywood made a film of Demara's life in 1961."
+    }
+  ]
+}

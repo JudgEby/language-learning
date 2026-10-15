@@ -19,6 +19,10 @@
       "id": "nice-to-meet-you"
     },
     {
+      "type": "idioms",
+      "id": "nice-to-meet-you"
+    },
+    {
       "type": "rule",
       "id": "see-it-taste-it"
     },
@@ -31,6 +35,10 @@
       "id": "see-it-taste-it"
     },
     {
+      "type": "idioms",
+      "id": "see-it-taste-it"
+    },
+    {
       "type": "rule",
       "id": "can-i-have-a-coffee"
     },
@@ -40,6 +48,10 @@
     },
     {
       "type": "phrases",
+      "id": "can-i-have-a-coffee"
+    },
+    {
+      "type": "idioms",
       "id": "can-i-have-a-coffee"
     },
     {
@@ -71,6 +83,10 @@
       "id": "high-flyers"
     },
     {
+      "type": "idioms",
+      "id": "high-flyers"
+    },
+    {
       "type": "rule",
       "id": "what-time-does-it-start"
     },
@@ -83,6 +99,10 @@
       "id": "what-time-does-it-start"
     },
     {
+      "type": "idioms",
+      "id": "what-time-does-it-start"
+    },
+    {
       "type": "rule",
       "id": "big-happy-families"
     },
@@ -92,6 +112,10 @@
     },
     {
       "type": "phrases",
+      "id": "big-happy-families"
+    },
+    {
+      "type": "idioms",
       "id": "big-happy-families"
     },
     {
@@ -104,6 +128,10 @@
     },
     {
       "type": "phrases",
+      "id": "real-friends"
+    },
+    {
+      "type": "idioms",
       "id": "real-friends"
     },
     {
@@ -116,6 +144,10 @@
     },
     {
       "type": "phrases",
+      "id": "are-you-free-tonight"
+    },
+    {
+      "type": "idioms",
       "id": "are-you-free-tonight"
     },
     {
@@ -128,6 +160,10 @@
     },
     {
       "type": "phrases",
+      "id": "a-place-to-stay"
+    },
+    {
+      "type": "idioms",
       "id": "a-place-to-stay"
     },
     {
@@ -140,6 +176,10 @@
     },
     {
       "type": "phrases",
+      "id": "around-town"
+    },
+    {
+      "type": "idioms",
       "id": "around-town"
     },
     {
@@ -152,6 +192,10 @@
     },
     {
       "type": "phrases",
+      "id": "can-i-help-you"
+    },
+    {
+      "type": "idioms",
       "id": "can-i-help-you"
     },
     {
@@ -164,6 +208,10 @@
     },
     {
       "type": "phrases",
+      "id": "my-fridge"
+    },
+    {
+      "type": "idioms",
       "id": "my-fridge"
     },
     {
@@ -176,6 +224,10 @@
     },
     {
       "type": "phrases",
+      "id": "a-lifetime-in-containers"
+    },
+    {
+      "type": "idioms",
       "id": "a-lifetime-in-containers"
     },
     {
@@ -207,6 +259,10 @@
       "id": "in-their-past"
     },
     {
+      "type": "idioms",
+      "id": "in-their-past"
+    },
+    {
       "type": "rule",
       "id": "time-twins"
     },
@@ -219,6 +275,10 @@
       "id": "time-twins"
     },
     {
+      "type": "idioms",
+      "id": "time-twins"
+    },
+    {
       "type": "rule",
       "id": "what-did-you-do"
     },
@@ -228,6 +288,10 @@
     },
     {
       "type": "phrases",
+      "id": "what-did-you-do"
+    },
+    {
+      "type": "idioms",
       "id": "what-did-you-do"
     },
     {
@@ -240,6 +304,10 @@
     },
     {
       "type": "phrases",
+      "id": "travel-partners"
+    },
+    {
+      "type": "idioms",
       "id": "travel-partners"
     },
     {
@@ -252,6 +320,10 @@
     },
     {
       "type": "phrases",
+      "id": "the-longest-bike-ride"
+    },
+    {
+      "type": "idioms",
       "id": "the-longest-bike-ride"
     },
     {
@@ -296,6 +368,10 @@
     },
     {
       "type": "phrases",
+      "id": "what-a-difference"
+    },
+    {
+      "type": "idioms",
       "id": "what-a-difference"
     },
     {
@@ -308,6 +384,10 @@
     },
     {
       "type": "phrases",
+      "id": "what-do-you-recommend"
+    },
+    {
+      "type": "idioms",
       "id": "what-do-you-recommend"
     },
     {
@@ -320,6 +400,10 @@
     },
     {
       "type": "phrases",
+      "id": "city-bikes"
+    },
+    {
+      "type": "idioms",
       "id": "city-bikes"
     },
     {
@@ -332,6 +416,10 @@
     },
     {
       "type": "phrases",
+      "id": "free-ride"
+    },
+    {
+      "type": "idioms",
       "id": "free-ride"
     },
     {
@@ -344,6 +432,10 @@
     },
     {
       "type": "phrases",
+      "id": "sorry-im-late"
+    },
+    {
+      "type": "idioms",
       "id": "sorry-im-late"
     },
     {
@@ -372,6 +464,10 @@
     },
     {
       "type": "phrases",
+      "id": "survive"
+    },
+    {
+      "type": "idioms",
       "id": "survive"
     },
     {
@@ -384,6 +480,10 @@
     },
     {
       "type": "phrases",
+      "id": "lets-do-something-new"
+    },
+    {
+      "type": "idioms",
       "id": "lets-do-something-new"
     },
     {
@@ -396,6 +496,10 @@
     },
     {
       "type": "phrases",
+      "id": "i-dont-feel-well"
+    },
+    {
+      "type": "idioms",
       "id": "i-dont-feel-well"
     },
     {
@@ -408,6 +512,10 @@
     },
     {
       "type": "phrases",
+      "id": "one-thing-at-a-time"
+    },
+    {
+      "type": "idioms",
       "id": "one-thing-at-a-time"
     },
     {
@@ -420,6 +528,10 @@
     },
     {
       "type": "phrases",
+      "id": "help"
+    },
+    {
+      "type": "idioms",
       "id": "help"
     },
     {
@@ -432,6 +544,10 @@
     },
     {
       "type": "phrases",
+      "id": "great-experiences"
+    },
+    {
+      "type": "idioms",
       "id": "great-experiences"
     },
     {
@@ -460,6 +576,10 @@
     },
     {
       "type": "phrases",
+      "id": "hello-ive-got-a-problem"
+    },
+    {
+      "type": "idioms",
       "id": "hello-ive-got-a-problem"
     }
   ],

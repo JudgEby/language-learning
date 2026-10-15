@@ -178,5 +178,65 @@
     "relatedRuleIds": [
       "like-working-outside"
     ]
+  },
+  {
+    "question": "Complete the sentence: I'm fine, thanks. ___",
+    "options": [
+      "Can I give you a hand?",
+      "What about you?",
+      "Would you ever...?",
+      "The best thing about… is…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'What about you?' (А ты?). Full sentence: I'm fine, thanks. What about you?",
+    "relatedRuleIds": [
+      "feeling-good"
+    ],
+    "id": "e9143f33a224"
+  },
+  {
+    "question": "Which word means 'грамматика'?",
+    "options": [
+      "grammar",
+      "competition",
+      "get a promotion",
+      "binoculars"
+    ],
+    "correctIndex": 0,
+    "explanation": "'grammar' means грамматика. Example: Grammar is important, but don't forget to practise speaking too.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ],
+    "id": "6266a778cb57"
+  },
+  {
+    "question": "Choose the correct collocation: Is there a warranty on this laptop?",
+    "options": [
+      "conservation",
+      "You should try…",
+      "Is there a warranty?",
+      "If I were you, I'd…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Is there a warranty?' (Есть гарантия?). Full sentence: Is there a warranty on this laptop?",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ],
+    "id": "83b407b2304a"
+  },
+  {
+    "question": "Choose the correct collocation: I heard that the film was nominated for several awards.",
+    "options": [
+      "get divorced",
+      "boarding pass",
+      "Hello, this is … speaking",
+      "I heard that..."
+    ],
+    "correctIndex": 3,
+    "explanation": "'I heard that...' (Я слышал, что...). Full sentence: I heard that the film was nominated for several awards.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ],
+    "id": "f1ca2ec84010"
   }
 ]

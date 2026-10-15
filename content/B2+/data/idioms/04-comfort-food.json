@@ -1,0 +1,76 @@
+{
+  "lessonId": "comfort-food",
+  "title": "1D Comfort Food — Идиомы: еда и вкусы",
+  "items": [
+    {
+      "idiom": "a piece of cake",
+      "translation": "проще простого",
+      "example": "The recipe looked scary, but the dish was a piece of cake to cook."
+    },
+    {
+      "idiom": "food for thought",
+      "translation": "пища для размышлений",
+      "example": "The quote about comfort food gave me real food for thought."
+    },
+    {
+      "idiom": "have a lot on one's plate",
+      "translation": "иметь много забот",
+      "example": "She had a lot on her plate, so she just ordered takeaway."
+    },
+    {
+      "idiom": "the icing on the cake",
+      "translation": "вишенка на торте",
+      "example": "The brownie was delicious, and the warm atmosphere was the icing on the cake."
+    },
+    {
+      "idiom": "go bananas",
+      "translation": "сходить с ума (от восторга)",
+      "example": "My kids go bananas for cheesy pasta."
+    },
+    {
+      "idiom": "cool as a cucumber",
+      "translation": "спокойный как удав",
+      "example": "The chef stayed as cool as a cucumber during the dinner rush."
+    },
+    {
+      "idiom": "a couch potato",
+      "translation": "домосед; лежебока",
+      "example": "Too much comfort food turned him into a couch potato."
+    },
+    {
+      "idiom": "bring home the bacon",
+      "translation": "зарабатывать на жизнь",
+      "example": "Both parents bring home the bacon in our family."
+    },
+    {
+      "idiom": "have egg on one's face",
+      "translation": "опростоволоситься",
+      "example": "He claimed he never eats sweets, then got caught with chocolate — egg on his face!"
+    },
+    {
+      "idiom": "in a nutshell",
+      "translation": "в двух словах",
+      "example": "Comfort food, in a nutshell, is food that makes us feel happy."
+    },
+    {
+      "idiom": "spill the beans",
+      "translation": "проболтаться; выдать секрет",
+      "example": "She spilled the beans about the surprise birthday cake."
+    },
+    {
+      "idiom": "the big cheese",
+      "translation": "важная шишка",
+      "example": "The restaurant critic is a big cheese in the food world."
+    },
+    {
+      "idiom": "a recipe for disaster",
+      "translation": "верный путь к провалу",
+      "example": "Skipping lunch and eating cake at midnight is a recipe for disaster."
+    },
+    {
+      "idiom": "eat one's words",
+      "translation": "взять свои слова обратно",
+      "example": "He said he would hate the spicy soup, but he had to eat his words."
+    }
+  ]
+}

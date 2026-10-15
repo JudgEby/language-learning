@@ -1,0 +1,41 @@
+{
+  "lessonId": "lets-do-something-new",
+  "title": "Let's do something new — идиомы",
+  "items": [
+    {
+      "idiom": "Shall we try it?",
+      "translation": "Попробуем?",
+      "example": "Silent disco sounds fun. Shall we try it?"
+    },
+    {
+      "idiom": "How about going to the theatre?",
+      "translation": "Как насчёт театра?",
+      "example": "How about going to the theatre on Saturday?"
+    },
+    {
+      "idiom": "That doesn't sound very good",
+      "translation": "Звучит не очень",
+      "example": "Blind date cinema? That doesn't sound very good."
+    },
+    {
+      "idiom": "They give us our money back",
+      "translation": "Нам вернут деньги",
+      "example": "If we don't like the film, they give us our money back."
+    },
+    {
+      "idiom": "Sounds great",
+      "translation": "Звучит отлично",
+      "example": "Theatre in the evening and museum in the afternoon? Sounds great."
+    },
+    {
+      "idiom": "Dinner in the dark?",
+      "translation": "Ужин в темноте?",
+      "example": "Let me see. Dinner in the dark?"
+    },
+    {
+      "idiom": "meditate for an hour",
+      "translation": "медитировать час",
+      "example": "You go with a small group and meditate for an hour."
+    }
+  ]
+}

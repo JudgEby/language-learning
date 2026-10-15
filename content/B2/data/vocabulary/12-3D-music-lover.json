@@ -26,6 +26,36 @@
       "term": "track",
       "translation": "трек",
       "example": "This is my favourite track on the album."
+    },
+    {
+      "term": "classical",
+      "translation": "классическая музыка",
+      "example": "Do you like classical music?"
+    },
+    {
+      "term": "folk",
+      "translation": "фолк",
+      "example": "She listens to folk and jazz."
+    },
+    {
+      "term": "hip hop",
+      "translation": "хип-хоп",
+      "example": "They play hip hop at the gym."
+    },
+    {
+      "term": "jazz",
+      "translation": "джаз",
+      "example": "Some people find jazz hard to understand."
+    },
+    {
+      "term": "opera",
+      "translation": "опера",
+      "example": "I don't like opera so much."
+    },
+    {
+      "term": "rock",
+      "translation": "рок",
+      "example": "He likes music with guitars, like rock."
     }
   ]
 }

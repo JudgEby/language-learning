@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "the-people-watchers"
     ]
+  },
+  {
+    "id": "3de592cf432a",
+    "question": "Choose the correct collocation: I heard the news about the accident on the radio.",
+    "options": [
+      "competitor / rival",
+      "win some money",
+      "hear the news",
+      "put off"
+    ],
+    "correctIndex": 2,
+    "explanation": "'hear the news' (услышать новость). Full sentence: I heard the news about the accident on the radio.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
   }
 ]

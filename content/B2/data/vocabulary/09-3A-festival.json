@@ -26,6 +26,36 @@
       "term": "carbon-neutral",
       "translation": "углеродно-нейтральный",
       "example": "The event aims to be carbon-neutral."
+    },
+    {
+      "term": "act",
+      "translation": "выступление, номер",
+      "example": "I saw as many acts as I could."
+    },
+    {
+      "term": "atmosphere",
+      "translation": "атмосфера",
+      "example": "The atmosphere was amazing."
+    },
+    {
+      "term": "attend",
+      "translation": "посещать",
+      "example": "Millions attend festivals every year."
+    },
+    {
+      "term": "attract",
+      "translation": "привлекать",
+      "example": "The festival attracts travellers from abroad."
+    },
+    {
+      "term": "organiser",
+      "translation": "организатор",
+      "example": "Festival organisers care about the environment."
+    },
+    {
+      "term": "festival-goer",
+      "translation": "посетитель фестиваля",
+      "example": "Each festival-goer left rubbish behind."
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "lessonId": "the-future-of-food",
+  "title": "The future of food — идиомы",
+  "items": [
+    {
+      "idiom": "eat insects",
+      "translation": "есть насекомых",
+      "example": "In the future more people may eat insects."
+    },
+    {
+      "idiom": "make food from seaweed",
+      "translation": "делать еду из морских водорослей",
+      "example": "Scientists can already make food from seaweed and wood."
+    },
+    {
+      "idiom": "create meat in the lab",
+      "translation": "создавать мясо в лаборатории",
+      "example": "Scientists have found ways to create meat in the lab."
+    },
+    {
+      "idiom": "grow food to save money",
+      "translation": "выращивать еду, чтобы сэкономить",
+      "example": "More people might grow food to save money."
+    },
+    {
+      "idiom": "order food on the internet",
+      "translation": "заказывать еду через интернет",
+      "example": "The next generation will order food on the internet."
+    },
+    {
+      "idiom": "cook with love",
+      "translation": "готовить с любовью",
+      "example": "In my country we take time to cook and cook with love."
+    },
+    {
+      "idiom": "taste food from many countries",
+      "translation": "попробовать еду из многих стран",
+      "example": "We got together and tasted food from many countries."
+    }
+  ]
+}

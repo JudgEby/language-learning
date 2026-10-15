@@ -253,5 +253,65 @@
     "relatedRuleIds": [
       "conservational-change"
     ]
+  },
+  {
+    "question": "Which word means 'пристыженный'?",
+    "options": [
+      "rise to the height of fashion",
+      "ashamed",
+      "species",
+      "fall short of expectations"
+    ],
+    "correctIndex": 1,
+    "explanation": "'ashamed' means пристыженный. Example: They should be ashamed of winning by unfair means.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ],
+    "id": "685c772c7e30"
+  },
+  {
+    "question": "Which word means 'требовать от кого-то максимума'?",
+    "options": [
+      "in exactly the same order",
+      "campaign",
+      "take legal photos",
+      "push someone to their limits"
+    ],
+    "correctIndex": 3,
+    "explanation": "'push someone to their limits' means требовать от кого-то максимума. Example: My parents pushed me to my limits.",
+    "relatedRuleIds": [
+      "role-models"
+    ],
+    "id": "455fbe2b0796"
+  },
+  {
+    "question": "Which word means 'застрять в колее'?",
+    "options": [
+      "stuck in a rut",
+      "That's acceptable to me",
+      "physical work",
+      "campaign"
+    ],
+    "correctIndex": 0,
+    "explanation": "'stuck in a rut' means застрять в колее. Example: Too much routine gets you stuck in a rut.",
+    "relatedRuleIds": [
+      "habits"
+    ],
+    "id": "536763591210"
+  },
+  {
+    "question": "Which word means 'водонепроницаемый'?",
+    "options": [
+      "change its image",
+      "pathetic",
+      "paradise",
+      "waterproof"
+    ],
+    "correctIndex": 3,
+    "explanation": "'waterproof' means водонепроницаемый. Example: A waterproof jacket is essential for hiking in rainy weather.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ],
+    "id": "e78e4bf91c29"
   }
 ]

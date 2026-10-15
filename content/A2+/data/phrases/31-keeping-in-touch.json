@@ -2,11 +2,50 @@
   "lessonId": "keeping-in-touch",
   "title": "Keeping in touch — фразы",
   "items": [
-    { "phrase": "I've just...", "translation": "Я только что...", "example": "I've just sent you an email with the details." },
-    { "phrase": "Have you... yet?", "translation": "Ты уже...?", "example": "Have you replied to her message yet?" },
-    { "phrase": "I've already...", "translation": "Я уже...", "example": "I've already texted him about the meeting." },
-    { "phrase": "I haven't... yet", "translation": "Я ещё не...", "example": "I haven't checked my emails yet today." },
-    { "phrase": "Have you ever...?", "translation": "Ты когда-нибудь...?", "example": "Have you ever made a video call before?" },
-    { "phrase": "Keep me posted", "translation": "Держи меня в курсе", "example": "Keep me posted about the project updates." }
+    {
+      "phrase": "I've just...",
+      "translation": "Я только что...",
+      "example": "I've just sent you an email with the details."
+    },
+    {
+      "phrase": "Have you... yet?",
+      "translation": "Ты уже...?",
+      "example": "Have you replied to her message yet?"
+    },
+    {
+      "phrase": "I've already...",
+      "translation": "Я уже...",
+      "example": "I've already texted him about the meeting."
+    },
+    {
+      "phrase": "I haven't... yet",
+      "translation": "Я ещё не...",
+      "example": "I haven't checked my emails yet today."
+    },
+    {
+      "phrase": "Have you ever...?",
+      "translation": "Ты когда-нибудь...?",
+      "example": "Have you ever made a video call before?"
+    },
+    {
+      "phrase": "Keep me posted",
+      "translation": "Держи меня в курсе",
+      "example": "Keep me posted about the project updates."
+    },
+    {
+      "phrase": "Have you already decided where to go?",
+      "translation": "Ты уже решил, куда поехать?",
+      "example": "I need to organise my holiday. Have you already decided where to go?"
+    },
+    {
+      "phrase": "I haven't booked the tickets yet",
+      "translation": "Я ещё не забронировал билеты",
+      "example": "Have you already decided where to go? Yes, but I haven't booked the tickets yet."
+    },
+    {
+      "phrase": "I've just bought a new car",
+      "translation": "Я только что купил новую машину",
+      "example": "I've just bought a new car."
+    }
   ]
 }

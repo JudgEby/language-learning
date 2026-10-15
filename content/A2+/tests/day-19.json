@@ -179,5 +179,50 @@
     "relatedRuleIds": [
       "like-working-outside"
     ]
+  },
+  {
+    "question": "Which word means 'ботанический сад'?",
+    "options": [
+      "It hurts here",
+      "lab-grown meat",
+      "practise",
+      "botanical garden"
+    ],
+    "correctIndex": 3,
+    "explanation": "'botanical garden' means ботанический сад. Example: The botanical garden has plants from all over the world.",
+    "relatedRuleIds": [
+      "relax"
+    ],
+    "id": "d8cbad763d97"
+  },
+  {
+    "question": "Choose the correct collocation: I used to live in a small town, but now I live in the city.",
+    "options": [
+      "How are things?",
+      "What's the matter?",
+      "I used to live in a small town.",
+      "crowded"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I used to live in a small town.' (Раньше я жил в маленьком городе.). Full sentence: I used to live in a small town, but now I live in the city.",
+    "relatedRuleIds": [
+      "living-the-dream"
+    ],
+    "id": "f937a63ead96"
+  },
+  {
+    "question": "Which word means 'сломанный'?",
+    "options": [
+      "energetic",
+      "People who risk their lives at work should get more money",
+      "fall in love",
+      "broken"
+    ],
+    "correctIndex": 3,
+    "explanation": "'broken' means сломанный. Example: The lift is broken, so we have to use the stairs.",
+    "relatedRuleIds": [
+      "theres-a-problem"
+    ],
+    "id": "372eeaeb2ead"
   }
 ]

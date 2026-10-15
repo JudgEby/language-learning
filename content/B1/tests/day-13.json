@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "i-dont-believe-it"
     ]
+  },
+  {
+    "id": "ef0913816e6a",
+    "question": "Which word means 'провести небольшое исследование'?",
+    "options": [
+      "I do have a query",
+      "do some research",
+      "The problem was that...",
+      "a good communicator"
+    ],
+    "correctIndex": 1,
+    "explanation": "'do some research' means провести небольшое исследование. Example: Do some research about the university before the interview.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
   }
 ]

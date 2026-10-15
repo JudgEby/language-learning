@@ -16,6 +16,31 @@
       "phrase": "sleep in",
       "translation": "выспаться (долго)",
       "example": "I love sleeping in on Sundays."
+    },
+    {
+      "phrase": "fall asleep",
+      "translation": "засыпать",
+      "example": "It usually takes me long to fall asleep."
+    },
+    {
+      "phrase": "sleep through (the alarm)",
+      "translation": "проспать сквозь (будильник), не услышать",
+      "example": "I am a heavy sleeper, so I often sleep through the alarm."
+    },
+    {
+      "phrase": "switch off",
+      "translation": "отключаться, расслабляться",
+      "example": "Reading for an hour helps me to switch off."
+    },
+    {
+      "phrase": "catch up on sleep",
+      "translation": "отоспаться, наверстать сон",
+      "example": "I often have a nap to try and catch up on sleep."
+    },
+    {
+      "phrase": "keep (sb) awake",
+      "translation": "не давать (кому-то) спать",
+      "example": "I sleep alone so that I do not keep my partner awake."
     }
   ]
 }

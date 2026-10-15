@@ -1,0 +1,41 @@
+{
+  "lessonId": "help",
+  "title": "Help! — идиомы",
+  "items": [
+    {
+      "idiom": "stop and help",
+      "translation": "остановиться и помочь",
+      "example": "When someone is in trouble, do you stop and help?"
+    },
+    {
+      "idiom": "carry a heavy suitcase",
+      "translation": "нести тяжёлый чемодан",
+      "example": "She is carrying a heavy suitcase down the steps."
+    },
+    {
+      "idiom": "drop his pen",
+      "translation": "ронять ручку",
+      "example": "A person in front of you drops his pen."
+    },
+    {
+      "idiom": "cross the road",
+      "translation": "переходить дорогу",
+      "example": "A blind person is trying to cross the road."
+    },
+    {
+      "idiom": "can't open the window",
+      "translation": "не могу открыть окно",
+      "example": "I can't open the window. Can you help me?"
+    },
+    {
+      "idiom": "can't reach the dictionary",
+      "translation": "не могу дотянуться до словаря",
+      "example": "I can't reach the dictionary on the top shelf."
+    },
+    {
+      "idiom": "It's cold in here",
+      "translation": "Здесь холодно",
+      "example": "It's cold in here. Shall I close the window?"
+    }
+  ]
+}

@@ -26,6 +26,36 @@
       "term": "workplace",
       "translation": "рабочее место",
       "example": "I was nervous about the new workplace."
+    },
+    {
+      "term": "graduate scheme",
+      "translation": "программа для выпускников",
+      "example": "She joined a graduate scheme at a bank."
+    },
+    {
+      "term": "training session",
+      "translation": "учебная сессия, тренинг",
+      "example": "We missed the training session on Monday."
+    },
+    {
+      "term": "meet-and-greet",
+      "translation": "встреча-знакомство",
+      "example": "The company organised a meet-and-greet for newcomers."
+    },
+    {
+      "term": "founder",
+      "translation": "основатель",
+      "example": "The founder welcomed all new employees."
+    },
+    {
+      "term": "insurance",
+      "translation": "страховка",
+      "example": "We called the insurance people after the crash."
+    },
+    {
+      "term": "embarrassed",
+      "translation": "смущённый",
+      "example": "I was so embarrassed on my first day."
     }
   ]
 }

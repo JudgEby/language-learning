@@ -26,6 +26,36 @@
       "term": "connectivity",
       "translation": "подключение",
       "example": "Connectivity issues disrupted the meeting."
+    },
+    {
+      "term": "invite",
+      "translation": "приглашение",
+      "example": "Did you get the invite to the meeting?"
+    },
+    {
+      "term": "webcam",
+      "translation": "веб-камера",
+      "example": "Check that your webcam is at eye level."
+    },
+    {
+      "term": "chat box",
+      "translation": "окно чата",
+      "example": "Post the link in the chat box."
+    },
+    {
+      "term": "frozen",
+      "translation": "зависший",
+      "example": "My screen is frozen again."
+    },
+    {
+      "term": "echo",
+      "translation": "эхо",
+      "example": "There is an echo on the call."
+    },
+    {
+      "term": "volume",
+      "translation": "громкость",
+      "example": "Turn the volume down, please."
     }
   ]
 }

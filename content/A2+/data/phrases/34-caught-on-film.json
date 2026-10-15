@@ -2,11 +2,50 @@
   "lessonId": "caught-on-film",
   "title": "Caught on film — фразы",
   "items": [
-    { "phrase": "She said that...", "translation": "Она сказала, что...", "example": "She said that the film was better than the book." },
-    { "phrase": "He told me...", "translation": "Он сказал мне...", "example": "He told me he had already seen the movie twice." },
-    { "phrase": "They asked if...", "translation": "Они спросили, не...", "example": "They asked if I wanted to go to the cinema." },
-    { "phrase": "She explained that...", "translation": "Она объяснила, что...", "example": "She explained that the director wanted to create something unique." },
-    { "phrase": "He mentioned that...", "translation": "Он упомянул, что...", "example": "He mentioned that the sequel was coming out next year." },
-    { "phrase": "I heard that...", "translation": "Я слышал, что...", "example": "I heard that the film was nominated for several awards." }
+    {
+      "phrase": "She said that...",
+      "translation": "Она сказала, что...",
+      "example": "She said that the film was better than the book."
+    },
+    {
+      "phrase": "He told me...",
+      "translation": "Он сказал мне...",
+      "example": "He told me he had already seen the movie twice."
+    },
+    {
+      "phrase": "They asked if...",
+      "translation": "Они спросили, не...",
+      "example": "They asked if I wanted to go to the cinema."
+    },
+    {
+      "phrase": "She explained that...",
+      "translation": "Она объяснила, что...",
+      "example": "She explained that the director wanted to create something unique."
+    },
+    {
+      "phrase": "He mentioned that...",
+      "translation": "Он упомянул, что...",
+      "example": "He mentioned that the sequel was coming out next year."
+    },
+    {
+      "phrase": "I heard that...",
+      "translation": "Я слышал, что...",
+      "example": "I heard that the film was nominated for several awards."
+    },
+    {
+      "phrase": "She said she had a feeling they weren't in Kansas anymore",
+      "translation": "Она сказала, что у неё чувство, что они больше не в Канзасе",
+      "example": "She said she had a feeling they weren't in Kansas anymore."
+    },
+    {
+      "phrase": "He said he was the king of the world",
+      "translation": "Он сказал, что он король мира",
+      "example": "I'm the king of the world! He said he was the king of the world."
+    },
+    {
+      "phrase": "What's your favourite type of film?",
+      "translation": "Какой твой любимый жанр кино?",
+      "example": "What's your favourite type of film? I love science fiction films."
+    }
   ]
 }

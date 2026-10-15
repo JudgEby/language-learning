@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "the-memory-men"
     ]
+  },
+  {
+    "id": "725817c1e41f",
+    "question": "Which word means 'стратегии обучения'?",
+    "options": [
+      "community centre",
+      "wind up",
+      "learning strategies",
+      "wrong number"
+    ],
+    "correctIndex": 2,
+    "explanation": "'learning strategies' means стратегии обучения. Example: Good learning strategies can help you acquire a language faster.",
+    "relatedRuleIds": [
+      "me-and-my-language"
+    ]
   }
 ]

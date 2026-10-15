@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "relax"
     ]
+  },
+  {
+    "question": "Complete the sentence: ___ and got on well immediately.",
+    "options": [
+      "department",
+      "We met at art school",
+      "poaching",
+      "stressed"
+    ],
+    "correctIndex": 1,
+    "explanation": "'We met at art school' (Мы познакомились в художественной школе). Full sentence: We met at art school and got on well immediately.",
+    "relatedRuleIds": [
+      "true-love"
+    ],
+    "id": "7c944e85cb4d"
+  },
+  {
+    "question": "Which word means 'посадочный талон'?",
+    "options": [
+      "I'm in charge of…",
+      "I set an alarm so that I wouldn't oversleep.",
+      "boarding pass",
+      "director"
+    ],
+    "correctIndex": 2,
+    "explanation": "'boarding pass' means посадочный талон. Example: Please show your boarding pass at the gate.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ],
+    "id": "e0adeeb1a1a5"
+  },
+  {
+    "question": "Complete the sentence: Reducing waste is ___ thing we can do.",
+    "options": [
+      "Have you ever…?",
+      "the most important",
+      "There's a rule that…",
+      "It's not my cup of tea"
+    ],
+    "correctIndex": 1,
+    "explanation": "'the most important' (самый важный). Full sentence: Reducing waste is the most important thing we can do.",
+    "relatedRuleIds": [
+      "green-living"
+    ],
+    "id": "6acc49ab22a1"
   }
 ]

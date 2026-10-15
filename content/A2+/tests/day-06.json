@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "what-should-i-do"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: I remember when we first met at that coffee shop.",
+    "options": [
+      "entrance",
+      "reserve",
+      "I love taking photos",
+      "I remember when…"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I remember when…' (Я помню, как…). Full sentence: I remember when we first met at that coffee shop.",
+    "relatedRuleIds": [
+      "true-love"
+    ],
+    "id": "cccefa20c38f"
+  },
+  {
+    "question": "Which word means 'платформа, перрон'?",
+    "options": [
+      "platform",
+      "travel insurance",
+      "People might not accept…",
+      "In my opinion"
+    ],
+    "correctIndex": 0,
+    "explanation": "'platform' means платформа, перрон. Example: The train to Manchester departs from platform 3.",
+    "relatedRuleIds": [
+      "fantastic-film-trips"
+    ],
+    "id": "4e4fd38e845f"
+  },
+  {
+    "question": "Which word means 'загрязнение'?",
+    "options": [
+      "Does… work for you?",
+      "solar power",
+      "pollution",
+      "listen to"
+    ],
+    "correctIndex": 2,
+    "explanation": "'pollution' means загрязнение. Example: Air pollution is a serious problem in big cities.",
+    "relatedRuleIds": [
+      "green-living"
+    ],
+    "id": "c687036ca1c9"
   }
 ]

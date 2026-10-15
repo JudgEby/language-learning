@@ -16,6 +16,31 @@
       "phrase": "hard to believe",
       "translation": "трудно поверить",
       "example": "His excuse is hard to believe."
+    },
+    {
+      "phrase": "tell stories about yourself",
+      "translation": "рассказывать истории о себе",
+      "example": "Contestants tell stories about themselves on the show."
+    },
+    {
+      "phrase": "guess whether it is true",
+      "translation": "угадывать, правда ли это",
+      "example": "We had to guess whether his story was true."
+    },
+    {
+      "phrase": "give yourself time to think",
+      "translation": "дать себе время подумать",
+      "example": "Use fillers to give yourself time to think."
+    },
+    {
+      "phrase": "meet someone famous",
+      "translation": "встретить знаменитость",
+      "example": "Have you ever met someone famous?"
+    },
+    {
+      "phrase": "give news by email",
+      "translation": "делиться новостями по email",
+      "example": "She wrote an email giving news about her trip."
     }
   ]
 }

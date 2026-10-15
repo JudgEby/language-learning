@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "making-plans"
     ]
+  },
+  {
+    "id": "abba4a09dfdf",
+    "question": "Choose the correct collocation: I'd have to say that teamwork is the most important skill.",
+    "options": [
+      "nonsense",
+      "I'd have to say...",
+      "achievement",
+      "multitask"
+    ],
+    "correctIndex": 1,
+    "explanation": "'I'd have to say...' (Должен сказать...). Full sentence: I'd have to say that teamwork is the most important skill.",
+    "relatedRuleIds": [
+      "tell-me-about-yourself"
+    ]
   }
 ]
