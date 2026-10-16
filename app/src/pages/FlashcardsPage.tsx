@@ -176,6 +176,18 @@ export function FlashcardsPage() {
   const session: Flashcard[] = useMemo(() => [...queue.due, ...queue.fresh], [queue]);
   const current = session[0] ?? null;
 
+  const deckTotals = useMemo(() => {
+    let vocabulary = 0;
+    let phrases = 0;
+    let idioms = 0;
+    for (const card of deck) {
+      if (card.type === 'vocabulary') vocabulary += 1;
+      else if (card.type === 'phrases') phrases += 1;
+      else if (card.type === 'idioms') idioms += 1;
+    }
+    return { total: deck.length, vocabulary, phrases, idioms };
+  }, [deck]);
+
   useEffect(() => {
     setRevealed(false);
     cancelSpeech();
@@ -297,6 +309,12 @@ export function FlashcardsPage() {
               </div>
             </details>
           ))}
+          {!deckLoading && !deckError && deck.length > 0 && (
+            <p className="flash-total">
+              Всего: {cards(deckTotals.total)} (слов: {deckTotals.vocabulary} · фраз:{' '}
+              {deckTotals.phrases} · идиом: {deckTotals.idioms})
+            </p>
+          )}
         </section>
       )}
 
