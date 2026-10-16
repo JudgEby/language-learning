@@ -28,7 +28,9 @@ whether `dayId` is present in the params.
 |---|---|---|
 | `/` | `HomePage` | level list, plus the global «Карточки» entry |
 | `/flashcards` | `FlashcardsPage` | SM-2 review session, settings, scope picker |
-| `/:level` | `LevelPage` | choose study, tests, or level-scoped cards |
+| `/:level` | `LevelPage` | choose study, tests, level-scoped cards, or game |
+| `/:level/game` | `GameLobbyPage` | continue a saved run, restart, run stats |
+| `/:level/game/play` | `GamePage` | association word game for the level (or one lesson) |
 | `/:level/rules` | `RulesListPage` | flat numbered study list |
 | `/:level/rules/:studyKeyParam` | `StudyViewPage` | one rule or lexicon |
 | `/:level/tests` | `TestsListPage` | all days, all questions |
@@ -65,6 +67,7 @@ Empty state: «Нет доступных уровней…».
 and `div.action-list` of conditional `action-btn` links: «Изучать правила» →
 `/{level}/rules` when `studyOrder.length`, «Проходить тесты» → `/{level}/tests` when
 `testDays.length`, «Карточки» → `/flashcards?level={level}` when `studyOrder.length`,
+«Играть» → `/{level}/game` when `studyOrder.length`,
 otherwise «Для этого уровня пока нет материалов.»
 
 ### `RulesListPage.tsx`
@@ -90,7 +93,9 @@ Footer: primary button `markStudyComplete` (disabled and relabelled «Отмеч
 пройденное» once done) plus a secondary back button navigating to `listPath`, which is
 `/{level}/tests/{dayId}/study` in the day context and `/{level}/rules` otherwise.
 On lexicon entries (any `type` except `rule`) a second secondary button «Карточки»
-navigates to `/flashcards?lesson={level}|{studyKey}` — a fixed single-lesson deck.
+navigates to `/flashcards?lesson={level}|{studyKey}` — a fixed single-lesson deck —
+and a third secondary button «Игра» navigates to the same lesson as a fixed game deck
+(`/{level}/game?lesson={level}|{studyKey}`).
 
 ### `FlashcardsPage.tsx`
 
@@ -116,6 +121,68 @@ visit selects all levels via `ensureInitialized`; afterwards stored settings win
 A plain visit (no params) clears a stuck lesson filter. The back link follows
 the entry: lesson deck → the lesson study page («К списку»), level preset →
 the level page («К уровню»), plain visit → `/` («Ко всем уровням»).
+
+### `GameLobbyPage.tsx`
+
+Route `/:level/game`. Entry hub for the game: «Продолжить» navigates to
+`/:level/game/play` (disabled with no saved run), «Начать с начала» starts
+fresh at once when empty or behind a `ConfirmModal` («Вы действительно хотите
+начать с самого начала? Весь предыдущий прогресс будет удалён.») that wipes
+the run snapshot plus the level's `completedGame`. Under «Продолжить» a saved
+run shows «Пройдено X% · Потрачено жизней: N». Supports `?lesson=` fixed decks
+like flashcards; the back link returns to the lesson study page or the level
+page.
+
+### `GamePage.tsx`
+
+Route `/:level/game/play` (static suffix, so it never clashes with `/:level`). The word game
+plays the level's own lexicon (`vocabulary`/`phrases`/`idioms`) through rounds built by
+the pure engine `app/src/lib/associationGame.ts`, which mirrors the reference game's
+loop (verified against its package scripts): new words are learned in blocks of 4 —
+intro cards (term + translation + keyword/mnemonic + example + `SpeakButton`), then
+each word is quizzed (the word is shown, the learner picks its translation), then the
+block is played as matching pairs, then each word is spelled from shuffled letters
+(free assembly with «Стереть букву», then «Проверить» on the whole word —
+a failed check costs 1 heart and clears the slots for retry). A fail checkpoint
+covers two deal blocks (8 cards): «Продолжить с блока» jumps to the current
+8-card checkpoint with full hearts while progress and counters are kept. The first
+round of every checkpoint span carries a «★ Чекпоинт · прогресс сохранён» badge
+(`.game-checkpoint`) so the save point is visible. Arriving at a checkpoint span
+with at least one heart left also heals hearts back to full automatically. Decks
+come from `takeGameCards` in strict textbook order (the whole level, or the whole
+lesson for `?lesson=` decks — uncapped); `?lesson={level}|{studyKey}` pins
+a fixed single-lesson deck with a back link to the lesson study page, otherwise
+the back link returns to the level page. There are no persistent lives (the reference refills hearts on a timer and sells
+continues for coins — both rejected as monetization, not gameplay): each session
+starts with 3 hearts (`MAX_HEARTS`, an approximation — exact constants live in the
+reference server config), every wrong answer in choice/match/spelling costs 1 heart
+with the existing red mistake flash, and 0 hearts shows «Жизни закончились!». Hearts
+render as pixel-art inline SVG (`PixelHeart` in the same file: 11×8 map with
+outline/red/shade/highlight, grey palette once lost). The
+fail screen offers «Продолжить с блока» (jump to the 8-card checkpoint above)
+and «С начала» (full `resetSession`). The page
+saves a run snapshot to `gameSessionStore` on every change (round 0 with no
+answers is not saved — nothing to resume), loads it on entry, and clears it on
+finish; the play back-link leads to the lobby. Answering still marks the card via
+`markGameComplete` / `markGameCompleteBulk` (progress means *answered*), and
+«Продолжить» stays disabled until the round is answered (choice confirmed /
+all pairs solved / word assembled), so rounds cannot be skipped. Progress
+header shows the checkpoint counter («Чекпоинт X из N»), «Идеально» (checkpoints
+finished without losing a heart — never persisted as a score),
+and the stored word count. The finish screen offers «Играть ещё раз», «К уровню»,
+and a `ConfirmModal`-guarded game-progress reset. Entry points: «Играть» on
+`LevelPage`, «Игра» beside «Карточки» on lexicon study pages. Styling reuses
+`.test-main`, `.options`, `.option-btn` (`selected`/`correct`/`incorrect`), plus small
+`.game-*` classes (progress, round kind, match grid, spelling slots/letters) in
+`index.css`.
+
+Answer feedback is a `ScreenFeedback` overlay (`signal: FeedbackSignal | null`,
+cleared by timeout): a correct answer flashes a green rotating edge glow, a wrong
+answer a heavier red one, and any heart loss adds a short `.app-shell--shake`.
+The overlay is `position: fixed`, `pointer-events: none`, `aria-hidden`. It plays
+regardless of `prefers-reduced-motion` — the owner requires the glow to stay
+visible under any OS settings (ticket #14). Colours reuse
+`--color-success`/`--color-error`, so no new tokens were added.
 
 ### `TestsListPage.tsx`
 Loads the manifest, then `Promise.all` over **every** day file — all days are fetched up
@@ -161,6 +228,7 @@ rendered through `ReactMarkdown` + `remark-gfm` again.
 | `Logo.tsx` | `Logo`, `LogoProps` | two "L" glyphs, neon gradient `#ff1493 → #8338ec → #fb5607 → #ffbe0b` |
 | `FlashcardView.tsx` | `FlashcardView` | card front/answer, example, mnemonic block, four grade buttons, `SpeakButton` on the English side |
 | `SpeakButton.tsx` | `SpeakButton` | icon-only pronunciation button via `lib/speech.ts`; reads voice/rate from `flashcardsStore`, disabled where unsupported |
+| `ScreenFeedback.tsx` | `ScreenFeedback`, `FeedbackSignal`, `FeedbackKind` | full-screen answer glow, mounted by `GamePage` but portalled to `document.body` (so the `.app-shell` shake transform cannot re-base the fixed frame); `null` signal renders nothing |
 | `SpeechSettings.tsx` | `SpeechSettings` | voice (`voiceURI`, auto = best English) and rate selects for the flashcards settings; lists English voices first, shows the auto-picked voice, warns with install steps for the detected OS (`getSpeechPlatform`) when no English voice exists, plus an always-visible collapsed install guide for the current platform |
 
 `BackLink({to, label})` renders `.back-link` with a `← ` prefix. `PageHeader({title, backTo,
@@ -254,11 +322,23 @@ starts the Vite dev server itself (`webServer`, port 5173, `reuseExistingServer`
 outside CI), so no manual `dev` is needed. Screenshots are kept only on failure.
 
 - `e2e/smoke.spec.ts` — every route renders: home, level, rules list + one
-  study page, tests list, `/flashcards` with its three sections.
+  study page, tests list, `/flashcards` with its three sections, `/:level/game`
+  first round.
 - `e2e/flashcards.spec.ts` — the review loop on a clean `localStorage`: the
   answer block is covered (`visibility: hidden`, space reserved) until
   «Показать ответ», grading advances the head card, and `?level=` presets the
   scope.
+- `e2e/game.spec.ts` — the game loop on a clean `localStorage`: intro advance,
+  level back link to the lobby, lesson entry into the lobby, lobby resume at
+  the saved round with stats, restart modal wipe, reload position restore, and a full single-lesson
+  session (intro → translation choice → matching via `data-side`/`data-cardid`
+  buttons → spelling via `data-answer`/`data-letter` buttons) ending on
+  «Сессия завершена!» with `completedGame` persisted, plus a fail-path test
+  (3 deliberate mistakes → «Жизни закончились!» → resume from block with full
+  hearts and kept progress).
+- `e2e/feedback-flash.spec.ts` — ticket #14 guard: a wrong game answer attaches
+  the red `.screen-feedback` glow with `.app-shell--shake` and burns one heart,
+  even with `reducedMotion: 'reduce'` emulated.
 
 Conventions: drive tests through public pages as a user would; reset
 `localStorage` in `beforeEach` (flashcards settings persist); select by visible
@@ -269,6 +349,9 @@ layout-asserting internals (`.flash-back--covered`, `.flash-answer`,
 ## Conventions for UI changes
 
 - Reuse `.btn` / `.btn-secondary` / `.btn-danger` / `.btn-sm` rather than inventing variants.
+- Disabled buttons must look disabled: `.btn:disabled` and `.action-btn:disabled`
+  both render `opacity: 0.6` with a default cursor (a functionally disabled button
+  that looks live reads as a bug).
 - Any new colour must be a `--color-*` token defined for both `:root` and `[data-theme='dark']`.
 - Use `CheckMark` rather than a bare checkbox, so read-only and interactive states stay consistent.
 - Route params must stay `encodeURIComponent`-wrapped — `studyKey` contains a colon.

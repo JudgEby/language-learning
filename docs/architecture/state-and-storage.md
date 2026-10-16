@@ -10,6 +10,9 @@ cached, and the trade-offs baked into the current implementation.
 Flashcards add a third persisted store plus two pure library modules
 (`lib/srs.ts`, `lib/flashcards.ts`) — see the Flashcards section below.
 
+The game adds a fourth persisted store (`store/gameSessionStore.ts`) for run
+snapshots — see the Game runs section below.
+
 ## Stores
 
 Both stores use the curried form `create<T>()(persist(...))` from `zustand` +
@@ -22,13 +25,14 @@ Both stores use the curried form `create<T>()(persist(...))` from `zustand` +
 State:
 
 ```ts
-{ levels: Record<string, { completedStudy: string[]; completedTests: string[] }> }
+{ levels: Record<string, { completedStudy: string[]; completedTests: string[]; completedGame: string[] }> }
 ```
 
 | Entry | Format | Written by |
 |---|---|---|
 | `completedStudy` | `` `${type}:${id}` `` (`studyKey`) | `RulesListPage`, `StudyViewPage`, `StudyListToolbar` |
 | `completedTests` | `TestQuestion.id` (12 hex chars) | `TestViewPage` on answer confirmation |
+| `completedGame` | game card id (`` {level}|{type}:{lessonId}#{itemIndex} ``) | `GamePage` on answered rounds |
 
 Actions — all take `level` as the first argument:
 
@@ -40,10 +44,15 @@ Actions — all take `level` as the first argument:
 | `clearStudyComplete(level, keys[])` | remove many |
 | `markTestComplete(level, testId)` | append if absent |
 | `resetTests(level)` | clear `completedTests` for the level |
+| `markGameComplete(level, cardId)` | append if absent |
+| `markGameCompleteBulk(level, cardIds[])` | append many |
+| `resetGame(level)` | clear `completedGame` for the level |
 
-Selectors-as-actions: `isStudyComplete(level, key)`, `isTestComplete(level, testId)`.
+Selectors-as-actions: `isStudyComplete(level, key)`, `isTestComplete(level, testId)`,
+`isGameComplete(level, cardId)`.
 
-Hook selectors: `useCompletedStudy(level)`, `useCompletedTests(level)`.
+Hook selectors: `useCompletedStudy(level)`, `useCompletedTests(level)`,
+`useCompletedGame(level)`.
 
 **Implementation details that matter:**
 
@@ -64,7 +73,7 @@ saved progress. The progress store therefore carries:
 
 ```ts
 const LEVEL_RENAMES: ReadonlyArray<readonly [from: string, to: string]> = [['A2plus', 'A2+']];
-const PROGRESS_VERSION = 1;
+const PROGRESS_VERSION = 2;
 
 function migrateProgress(persisted: unknown, version: number): unknown { /* … */ }
 ```
@@ -77,6 +86,8 @@ Rules:
   a partially-filled entry must not drop either side.
 - **To rename a level:** append the pair to `LEVEL_RENAMES`, bump `PROGRESS_VERSION`, add a
   `version < N` branch. Never edit or remove a shipped pair.
+- `version < 2` backfills a missing `completedGame: []` on every level entry, so browsers
+  that saved progress before the game existed keep working.
 - The migration only moves data; it does not rename content. `sync_level.py {LEVEL}` rewrites
   `manifest.level` separately, and `validate_level.py` asserts `level`, `title` and folder name
   all agree.
@@ -227,6 +238,24 @@ trade-off as derived test ids.
   level renames differently (card ids embed the level id, a rename starts that
   level's cards fresh) and must never be read as study/test progress.
 
+## Game runs — `gameSessionStore`
+
+**Persisted key:** `language-learning-game` (version 0).
+
+```ts
+{ runs: Record<string, GameRunSnapshot> }
+// snapshot: { scope, level, lesson, roundIndex, hearts, heartsLost,
+//             spanStartLost, perfectCount, answered, totalRounds, updatedAt }
+```
+
+- Scope key is `lesson ?? level` (`lesson` is `{level}|{studyKey}`, so lesson
+  decks never collide with whole-level runs).
+- `GamePage` saves on every run change and clears on finish; round 0 with no
+  answers is never saved. Resume clamps the position to the rebuilt session.
+- Deliberately separate from `progressStore`: snapshots are ephemeral runs,
+  completions are permanent; the lobby wipe clears both (`clearRun` +
+  `resetGame`).
+
 ## Things that will bite you
 
 1. **`persist` migration is rename-only.** It carries progress across a level-id rename and
@@ -237,7 +266,8 @@ trade-off as derived test ids.
    an infinite render loop.
 4. **The inline theme script in `app/index.html` runs before React.** Diverging from
    `themeStore` means a flash on every load.
-5. **`TestViewPage` marks progress on confirm, not on success.** Do not read
-   `completedTests` as a score.
+5. **`TestViewPage` and `GamePage` mark progress on answer, not on success.** Do not read
+   `completedTests` or `completedGame` as a score. The game "first try" counter is
+   ephemeral session feedback and is never persisted.
 6. **`app/public/content/` is disposable.** Regenerate it with `npm run dev`, `npm run build`
    or `python scripts/run_app.py`; never edit or read it as the source of truth.
