@@ -64,6 +64,13 @@ Two mechanisms perform the same copy, both rooted at `app/vite.config.ts`:
   `unlink` / `unlinkDir`, sending a `full-reload` WebSocket message after each event.
 - `content-sync-build` plugin (`apply: 'build'`) — the same full copy in `buildStart`, so a
   production bundle always ships current content.
+- `VitePWA` plugin (`generateSW`, `registerType: 'prompt'`) — emits `dist/sw.js` plus a
+  precache manifest (app shell, icons, web manifest) and a runtime `CacheFirst` cache
+  (`content-cache`) for `/content/**/*.json`, with `navigateFallback: index.html` so SPA
+  routes open offline. Content JSON is deliberately excluded from precache (lazy caching
+  keeps the first install small); it is immutable per build, so a new deploy's worker
+  cannot serve a stale contract. Disabled in dev (`devOptions.enabled: false`), so
+  `npm run dev` and `npm run e2e` run without a worker.
 - `scripts/run_app.py` — a third, independent copy step (`shutil.rmtree` + `copytree`) used
   when the app is launched through Python.
 

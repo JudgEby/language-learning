@@ -3,6 +3,7 @@ import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
+import { VitePWA } from 'vite-plugin-pwa'
 
 const APP_DIR = dirname(fileURLToPath(import.meta.url))
 const CONTENT_SRC = resolve(APP_DIR, '..', 'content')
@@ -61,5 +62,46 @@ function contentSyncBuild(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [react(), contentSync(), contentSyncBuild()],
+  plugins: [
+    react(),
+    contentSync(),
+    contentSyncBuild(),
+    VitePWA({
+      // The web manifest is a hand-written file in public/; the plugin only
+      // generates the service worker and precaches the build output.
+      manifest: false,
+      injectRegister: false,
+      registerType: 'prompt',
+      includeAssets: [
+        'favicon.svg',
+        'logo-ll.svg',
+        'manifest.webmanifest',
+        'icons/*.png',
+      ],
+      workbox: {
+        // App shell only — content/*.json is large and cached lazily at runtime.
+        globPatterns: ['**/*.{js,css,html,svg,png,webmanifest}'],
+        // SPA routes (/:level/rules/...) must resolve offline.
+        navigateFallback: 'index.html',
+        runtimeCaching: [
+          {
+            // Content is immutable per production build, so CacheFirst is safe:
+            // a new deploy ships a new service worker with a fresh cache.
+            urlPattern: ({ url }) => url.pathname.startsWith('/content/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'content-cache',
+              expiration: {
+                maxEntries: 1000,
+                maxAgeSeconds: 60 * 60 * 24 * 90,
+              },
+            },
+          },
+        ],
+      },
+      devOptions: {
+        enabled: false,
+      },
+    }),
+  ],
 })

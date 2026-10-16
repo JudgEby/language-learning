@@ -271,3 +271,8 @@ trade-off as derived test ids.
    ephemeral session feedback and is never persisted.
 6. **`app/public/content/` is disposable.** Regenerate it with `npm run dev`, `npm run build`
    or `python scripts/run_app.py`; never edit or read it as the source of truth.
+7. **In production there is a second, persistent cache in front of `fetch`.** The
+   service worker (build only — dev and e2e run without one) precaches the app
+   shell and keeps a `CacheFirst` `content-cache` for `/content/**`. The in-memory
+   `jsonCache` still dedupes within a session; across deploys a new worker takes
+   over, so the content cache cannot serve a stale contract after an update.
