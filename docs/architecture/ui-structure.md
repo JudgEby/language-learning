@@ -104,7 +104,9 @@ first, then the two configuration sections:
 
 - Scope («Что повторяем»): level checkboxes, category toggles
   (`vocabulary`/`phrases`/`idioms`), per-level collapsible lesson checklists with
-  titles via `resolveStudyTitle`. Hidden in single-lesson mode (`?lesson=`), which
+  titles via `resolveStudyTitle`, and a scope footer with the total deck size
+  (`Всего: N карточек (слов: X · фраз: Y · идиом: Z)`, hidden while loading,
+  on error, or when the deck is empty). Hidden in single-lesson mode (`?lesson=`), which
   instead shows a fixed-deck note with a «Показать выбор уровней и уроков» reset.
 - Settings («Настройки»): direction (`en-ru`/`ru-en`/`mixed`), `newPerDay`,
   example toggle, speech voice/rate (`SpeechSettings`), progress reset behind `ConfirmModal`.

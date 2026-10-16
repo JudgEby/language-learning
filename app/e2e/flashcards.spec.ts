@@ -48,6 +48,11 @@ test.describe('flashcards', () => {
     await expect.poll(async () => front.textContent()).not.toBe(before);
   });
 
+  test('scope footer shows the total deck size with per-type breakdown', async ({ page }) => {
+    await expect(page.getByText(/Всего: \d+ карточ/)).toBeVisible();
+    await expect(page.getByText(/слов: \d+ · фраз: \d+ · идиом: \d+/)).toBeVisible();
+  });
+
   test('level entry preset selects only that level', async ({ page }) => {
     await page.evaluate(() => localStorage.clear());
     await page.goto('/flashcards?level=B1');
