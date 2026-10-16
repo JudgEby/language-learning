@@ -5,6 +5,10 @@ import { registerSW } from 'virtual:pwa-register';
  * Update prompt for the PWA service worker (`registerType: 'prompt'`).
  * The worker waits until the learner confirms, so a new build never reloads
  * the page in the middle of a test or a game session.
+ *
+ * In dev (`npm run dev`, Playwright) the service worker is disabled and
+ * `virtual:pwa-register` resolves to a no-op stub (see `pwaRegisterStub`
+ * in `vite.config.ts`), so this component renders nothing.
  */
 export function PwaUpdatePrompt() {
   const [update, setUpdate] = useState<(() => Promise<void>) | null>(null);
