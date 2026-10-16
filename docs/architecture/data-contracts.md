@@ -224,12 +224,15 @@ containing **only** page markers means the source PDF had no text layer and
 
 | Key | Serialised shape |
 |---|---|
-| `language-learning-progress` | `{ state: { levels: { [level]: { completedStudy: string[], completedTests: string[] } } }, version: 1 }` |
+| `language-learning-progress` | `{ state: { levels: { [level]: { completedStudy: string[], completedTests: string[], completedGame: string[] } } }, version: 2 }` |
+| `language-learning-game` | `{ state: { runs: { [scope]: GameRunSnapshot } }, version: 0 }` |
 | `language-learning-theme` | `{ state: { theme: "light" \| "dark" }, version: 0 }` |
 | `language-learning-flashcards` | `{ state: { initialized: boolean, settings: FlashcardsSettings, progress: Record<cardId, CardProgress> }, version: 0 }` |
 
 - `completedStudy` entries are `studyKey` strings (`` rule:lesson-slug ``).
 - `completedTests` entries are `TestQuestion.id` values.
+- `completedGame` entries are game card ids (`` {level}|{type}:{lessonId}#{itemIndex} ``,
+  same format as flashcard ids but stored separately) — answered, like tests.
 - Both use the default `zustand/persist` envelope — no `partialize`.
 - The progress store has a `migrate` (`LEVEL_RENAMES` in `app/src/store/progressStore.ts`) that
   exists **only** to move a saved level entry when the level id is renamed; `version: 0` predates

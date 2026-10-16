@@ -16,6 +16,7 @@ test.describe('smoke', () => {
     await expect(page.getByRole('link', { name: 'Изучать правила' })).toBeVisible();
     await expect(page.getByRole('link', { name: 'Проходить тесты' })).toBeVisible();
     await expect(page.getByRole('link', { name: 'Карточки' })).toBeVisible();
+    await expect(page.getByRole('link', { name: 'Играть' })).toBeVisible();
   });
 
   test('rules list opens a study page', async ({ page }) => {
@@ -37,5 +38,21 @@ test.describe('smoke', () => {
     await expect(page.getByRole('heading', { name: 'Карточки' })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Что повторяем' })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Настройки' })).toBeVisible();
+  });
+
+  test('game lobby renders continue and restart', async ({ page }) => {
+    await page.goto('/A2/game');
+    await expect(page.getByRole('heading', { name: 'Игра' })).toBeVisible();
+    const cont = page.getByRole('button', { name: 'Продолжить', exact: true });
+    await expect(cont).toBeDisabled();
+    // A disabled lobby button must look inactive, not like a live one.
+    await expect(cont).toHaveCSS('opacity', '0.6');
+    await expect(page.getByRole('button', { name: 'Начать с начала' })).toBeVisible();
+  });
+
+  test('game page renders the first round', async ({ page }) => {
+    await page.goto('/A2/game/play');
+    await expect(page.getByRole('heading', { name: 'Игра' })).toBeVisible();
+    await expect(page.getByText(/Чекпоинт 1 из/)).toBeVisible();
   });
 });

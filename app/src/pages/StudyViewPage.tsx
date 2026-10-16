@@ -135,6 +135,17 @@ export function StudyViewPage() {
             Карточки
           </button>
         )}
+        {lexicon && (
+          <button
+            type="button"
+            className="btn btn-secondary"
+            onClick={() =>
+              navigate(`/${level}/game?lesson=${encodeURIComponent(`${level}|${studyKey(type, id)}`)}`)
+            }
+          >
+            Игра
+          </button>
+        )}
       </div>
     </div>
   );

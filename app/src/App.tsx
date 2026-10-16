@@ -3,6 +3,8 @@ import { ThemeProvider } from './components/ThemeProvider';
 import { ThemeToggle } from './components/ThemeToggle';
 import { HomePage } from './pages/HomePage';
 import { FlashcardsPage } from './pages/FlashcardsPage';
+import { GameLobbyPage } from './pages/GameLobbyPage';
+import { GamePage } from './pages/GamePage';
 import { LevelPage } from './pages/LevelPage';
 import { RulesListPage } from './pages/RulesListPage';
 import { StudyViewPage } from './pages/StudyViewPage';
@@ -20,6 +22,8 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/flashcards" element={<FlashcardsPage />} />
           <Route path="/:level" element={<LevelPage />} />
+          <Route path="/:level/game" element={<GameLobbyPage />} />
+          <Route path="/:level/game/play" element={<GamePage />} />
           <Route path="/:level/rules" element={<RulesListPage />} />
           <Route path="/:level/rules/:studyKeyParam" element={<StudyViewPage />} />
           <Route path="/:level/tests" element={<TestsListPage />} />
