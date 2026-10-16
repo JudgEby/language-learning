@@ -5,17 +5,58 @@
     {
       "phrase": "come across as",
       "translation": "производить впечатление",
-      "example": "He comes across as confident."
+      "example": "He comes across as confident.",
+      "keyword": "краска",
+      "mnemonic": "Производит впечатление уверенного — намазал краской: comes across as confident."
     },
     {
       "phrase": "warm up to (sb)",
       "translation": "раскрыться, начать симпатизировать",
-      "example": "It took me a while to warm up to her."
+      "example": "It took me a while to warm up to her.",
+      "keyword": "ворс",
+      "mnemonic": "Долго привыкал к ней — грелся ворсом: warm up to her, раскрыться."
     },
     {
       "phrase": "bring out the best in (sb)",
       "translation": "раскрывать лучшее в человеке",
-      "example": "A good teacher brings out the best in students."
+      "example": "A good teacher brings out the best in students.",
+      "keyword": "бестселлер",
+      "mnemonic": "Хороший учитель раскрывает лучшее — пишет бестселлер из учеников: brings out the best."
+    },
+    {
+      "phrase": "make the best of (life)",
+      "translation": "извлекать лучшее из (жизни)",
+      "example": "I try to make the best that I can out of life.",
+      "keyword": "мейкап",
+      "mnemonic": "Стараюсь извлекать лучшее из жизни — мейкап на душе: make the best out of life."
+    },
+    {
+      "phrase": "never give up",
+      "translation": "никогда не сдаваться",
+      "example": "He never gives up, even in difficult situations.",
+      "keyword": "гифка",
+      "mnemonic": "Никогда не сдаётся — шлёт гифки: never gives up."
+    },
+    {
+      "phrase": "hang out with (friends)",
+      "translation": "проводить время с (друзьями)",
+      "example": "I feel relaxed when I am hanging out with friends.",
+      "keyword": "ангар",
+      "mnemonic": "Расслабляюсь с друзьями в ангаре — hanging out with friends."
+    },
+    {
+      "phrase": "get on well with (sb)",
+      "translation": "хорошо ладить с (кем-то)",
+      "example": "She is a people person and gets on well with everyone.",
+      "keyword": "Уэльс",
+      "mnemonic": "Ладит со всеми — она из Уэльса: gets on well with everyone."
+    },
+    {
+      "phrase": "stay positive",
+      "translation": "оставаться позитивным",
+      "example": "I always try to stay positive when things go wrong.",
+      "keyword": "стойка",
+      "mnemonic": "Стараюсь оставаться позитивным — стою в стойке: stay positive."
     }
   ]
 }

@@ -2,13 +2,61 @@
   "lessonId": "remote-community",
   "title": "Remote community — фразы",
   "items": [
-    { "phrase": "What I like about… is…", "translation": "Что мне нравится в…, так это…", "example": "What I like about this community is the strong sense of togetherness." },
-    { "phrase": "It would be interesting to…", "translation": "Было бы интересно…", "example": "It would be interesting to visit a remote island." },
-    { "phrase": "There is a strong sense of…", "translation": "Есть сильное чувство…", "example": "There is a strong sense of community on the island." },
-    { "phrase": "People there…", "translation": "Люди там…", "example": "People there live in harmony with nature." },
-    { "phrase": "What makes it special is…", "translation": "Что делает его особенным, так это…", "example": "What makes it special is the way everyone helps each other." },
-    { "phrase": "It's a place where…", "translation": "Это место, где…", "example": "It's a place where traditions are still very important." },
-    { "phrase": "I'd love to experience…", "translation": "Я бы очень хотел испытать…", "example": "I'd love to experience their way of life." },
-    { "phrase": "The people are known for…", "translation": "Люди известны тем, что…", "example": "The people are known for their hospitality." }
+    {
+      "phrase": "What I like about… is…",
+      "translation": "Что мне нравится в…, так это…",
+      "example": "What I like about this community is the strong sense of togetherness.",
+      "keyword": "лайк",
+      "mnemonic": "Жмёшь лайк общине: What I like about… is… — что мне нравится в общине, так это сплочённость."
+    },
+    {
+      "phrase": "It would be interesting to…",
+      "translation": "Было бы интересно…",
+      "example": "It would be interesting to visit a remote island.",
+      "keyword": "интерес",
+      "mnemonic": "Интерес тянет на остров: It would be interesting to… — было бы интересно посетить далёкий остров."
+    },
+    {
+      "phrase": "There is a strong sense of…",
+      "translation": "Есть сильное чувство…",
+      "example": "There is a strong sense of community on the island.",
+      "keyword": "строг",
+      "mnemonic": "Строг, но сплочён: There is a strong sense of… — есть сильное чувство общности на острове."
+    },
+    {
+      "phrase": "People there…",
+      "translation": "Люди там…",
+      "example": "People there live in harmony with nature.",
+      "keyword": "дебри",
+      "mnemonic": "Дебри зовут: People there… — люди там живут в ладу с природой."
+    },
+    {
+      "phrase": "What makes it special is…",
+      "translation": "Что делает его особенным, так это…",
+      "example": "What makes it special is the way everyone helps each other.",
+      "keyword": "спец",
+      "mnemonic": "Спец по взаимопомощи: What makes it special is… — что делает его особенным, так это помощь друг другу."
+    },
+    {
+      "phrase": "It's a place where…",
+      "translation": "Это место, где…",
+      "example": "It's a place where traditions are still very important.",
+      "keyword": "веер",
+      "mnemonic": "Веер традиций в одном месте: It's a place where… — это место, где традиции всё ещё важны."
+    },
+    {
+      "phrase": "I'd love to experience…",
+      "translation": "Я бы очень хотел испытать…",
+      "example": "I'd love to experience their way of life.",
+      "keyword": "экспириенс",
+      "mnemonic": "Экспириенс чужой жизни: I'd love to experience… — я бы очень хотел испытать их образ жизни."
+    },
+    {
+      "phrase": "The people are known for…",
+      "translation": "Люди известны тем, что…",
+      "example": "The people are known for their hospitality.",
+      "keyword": "ноу",
+      "mnemonic": "Ноу-хау гостеприимства: The people are known for… — люди известны тем, что гостеприимны."
+    }
   ]
 }

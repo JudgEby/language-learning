@@ -268,5 +268,65 @@
     "relatedRuleIds": [
       "carrot-or-stick"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: Ask about experience to encourage your partner to elaborate.",
+    "options": [
+      "encourage to elaborate",
+      "market research",
+      "stick to",
+      "architecture"
+    ],
+    "correctIndex": 0,
+    "explanation": "'encourage to elaborate' (побуждать рассказать подробнее). Full sentence: Ask about experience to encourage your partner to elaborate.",
+    "relatedRuleIds": [
+      "things-we-love"
+    ],
+    "id": "14cd6e92cb0b"
+  },
+  {
+    "question": "Complete the sentence: We don't want to ___ too much.",
+    "options": [
+      "check there first",
+      "gain a sense of comfort",
+      "on a practical level",
+      "reduce prices"
+    ],
+    "correctIndex": 3,
+    "explanation": "'reduce prices' (снижать цены). Full sentence: We don't want to reduce prices too much.",
+    "relatedRuleIds": [
+      "carrot-or-stick"
+    ],
+    "id": "1a5fdeedcf36"
+  },
+  {
+    "question": "Which word means 'сохранение природы'?",
+    "options": [
+      "conservation",
+      "visionary",
+      "be used everywhere",
+      "frowned upon"
+    ],
+    "correctIndex": 0,
+    "explanation": "'conservation' means сохранение природы. Example: Conservation of natural habitats is essential for protecting wildlife.",
+    "relatedRuleIds": [
+      "conservational-change"
+    ],
+    "id": "e22a9dc62d61"
+  },
+  {
+    "question": "Complete the sentence: Abroad, pizza is changed to ___.",
+    "options": [
+      "suit the local palate",
+      "fire",
+      "sense of comfort",
+      "dilemma"
+    ],
+    "correctIndex": 0,
+    "explanation": "'suit the local palate' (соответствовать местному вкусу). Full sentence: Abroad, pizza is changed to suit the local palate.",
+    "relatedRuleIds": [
+      "food-fads"
+    ],
+    "id": "ec0e9a326047"
   }
 ]

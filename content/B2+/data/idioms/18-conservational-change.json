@@ -1,0 +1,104 @@
+{
+  "lessonId": "conservational-change",
+  "title": "5B Conservational Change — Идиомы: природа и экология",
+  "items": [
+    {
+      "idiom": "the tip of the iceberg",
+      "translation": "верхушка айсберга",
+      "example": "Extinct species are just the tip of the iceberg of habitat loss.",
+      "keyword": "тип",
+      "mnemonic": "Вымирание как тип-сигнал: это верхушка айсберга потерь, — тип мигает the tip of the iceberg."
+    },
+    {
+      "idiom": "a drop in the ocean",
+      "translation": "капля в море",
+      "example": "One reserve is a drop in the ocean without global action.",
+      "keyword": "дроп",
+      "mnemonic": "Заповедник как дроп в ведре: это капля в море без действий, — дроп капает a drop in the ocean."
+    },
+    {
+      "idiom": "a canary in a coal mine",
+      "translation": "тревожный сигнал; индикатор беды",
+      "example": "Dying bees are a canary in a coal mine for the whole ecosystem.",
+      "keyword": "канарейка",
+      "mnemonic": "Пчёлы как канарейка в шахте: это тревожный сигнал и индикатор беды, — канарейка хрипит a canary in a coal mine."
+    },
+    {
+      "idiom": "the elephant in the room",
+      "translation": "замалчиваемая проблема",
+      "example": "Poaching is the elephant in the room at the tourism forum.",
+      "keyword": "элефант",
+      "mnemonic": "Браконьерство как элефант в зале: это замалчиваемая проблема форума, — элефант топчет the elephant in the room."
+    },
+    {
+      "idiom": "the lion's share",
+      "translation": "львиная доля",
+      "example": "Predators take the lion's share of the blame, though humans cause more harm.",
+      "keyword": "шер",
+      "mnemonic": "Хищники отхватили шер-кусок: это львиная доля вины, — шер делится the lion's share."
+    },
+    {
+      "idiom": "a fish out of water",
+      "translation": "не в своей тарелке",
+      "example": "Grazing animals straying onto farms are fish out of water.",
+      "keyword": "фиш",
+      "mnemonic": "Антилопы как фиш на суше: они не в своей тарелке на фермах, — фиш задыхается a fish out of water."
+    },
+    {
+      "idiom": "swim against the tide",
+      "translation": "плыть против течения",
+      "example": "Conservationists swim against the tide of quick profit.",
+      "keyword": "тайд",
+      "mnemonic": "Защитники гребут против тайд-волны: они стали плыть против течения наживы, — тайд бьёт swim against the tide."
+    },
+    {
+      "idiom": "weather the storm",
+      "translation": "пережить трудные времена",
+      "example": "Some species cannot weather the storm of climate change.",
+      "keyword": "сторм",
+      "mnemonic": "Виды не выдержали сторм-шквал: не смогли пережить трудные времена, — сторм ревёт weather the storm."
+    },
+    {
+      "idiom": "make waves",
+      "translation": "наделать шуму; вызвать резонанс",
+      "example": "The report on plastic waste made waves worldwide.",
+      "keyword": "вейвс",
+      "mnemonic": "Доклад поднял вейвс-цунами: он смог наделать шуму и вызвать резонанс, — вейвс шумит make waves."
+    },
+    {
+      "idiom": "let sleeping dogs lie",
+      "translation": "не буди лихо",
+      "example": "Some habitats recover if we let sleeping dogs lie.",
+      "keyword": "догс",
+      "mnemonic": "Стая догс дремлет в траве: лучше не буди лихо, — догс сопит let sleeping dogs lie."
+    },
+    {
+      "idiom": "kill two birds with one stone",
+      "translation": "убить двух зайцев",
+      "example": "Eco-tourism kills two birds with one stone: jobs and protection.",
+      "keyword": "стоун",
+      "mnemonic": "Экотуризм метнул стоун-метко: он смог убить двух зайцев работой и защитой, — стоун летит kill two birds with one stone."
+    },
+    {
+      "idiom": "go green",
+      "translation": "перейти на экологичность",
+      "example": "More firms go green every year.",
+      "keyword": "грин",
+      "mnemonic": "Фирмы красят офис в грин: они стали перейти на экологичность, — грин зеленеет go green."
+    },
+    {
+      "idiom": "a carbon footprint",
+      "translation": "углеродный след",
+      "example": "Flying less shrinks your carbon footprint.",
+      "keyword": "карбон",
+      "mnemonic": "Перелёты оставляют карбон-отпечаток: это углеродный след, — карбон дымит a carbon footprint."
+    },
+    {
+      "idiom": "leave no stone unturned",
+      "translation": "сделать всё возможное",
+      "example": "Scientists leave no stone unturned to save the species.",
+      "keyword": "тёрнд",
+      "mnemonic": "Учёные крутят каждый тёрнд-камень: они смогли сделать всё возможное, — тёрнд скрипит leave no stone unturned."
+    }
+  ]
+}

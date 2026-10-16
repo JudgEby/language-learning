@@ -2,20 +2,110 @@
   "lessonId": "help",
   "title": "Help! — новые слова",
   "items": [
-    { "term": "offer to help", "translation": "предложить помощь", "example": "In New York people often didn't offer help because it was dangerous." },
-    { "term": "a helpful person", "translation": "отзывчивый человек", "example": "People in Spanish-speaking cities seemed happy to give their time." },
-    { "term": "give help with a smile", "translation": "помочь с улыбкой", "example": "People in these cities gave help with a smile." },
-    { "term": "walk on by", "translation": "пройти мимо, не помочь", "example": "When someone is in trouble, do they stop and help or just walk on by?" },
-    { "term": "pick something up", "translation": "поднять, подобрать", "example": "A person with a broken leg drops some papers and can't pick them up." },
-    { "term": "push / carry / lift", "translation": "толкать / нести / поднимать", "example": "She's carrying a heavy suitcase and she can't lift it." },
-    { "term": "carry a bag", "translation": "нести сумку", "example": "Can I carry your bag? — Yes, please, it's heavy." },
-    { "term": "reach something", "translation": "дотянуться до чего-то", "example": "I can't reach the dictionary on the top shelf." },
-    { "term": "a blind person", "translation": "слепой человек", "example": "A blind person is trying to cross the road, but the traffic is busy." },
-    { "term": "in a hurry", "translation": "в спешке", "example": "People in New York were often too busy or were in a hurry." },
-    { "term": "lie on the ground", "translation": "лежать на земле", "example": "A man is lying on the ground and he isn't moving." },
-    { "term": "get angry with somebody", "translation": "рассердиться на кого-то", "example": "People didn't offer help because people got angry with them." },
-    { "term": "be stuck", "translation": "застрять, не открываться", "example": "Let me try ... Ooh, it's stuck." },
-    { "term": "offer / accept help", "translation": "предложить / принять помощь", "example": "Do you need help? — Thanks, but no." },
-    { "term": "do you need help with ...?", "translation": "Вам нужна помощь с ...?", "example": "Do you need help with your luggage?" }
+    {
+      "term": "offer to help",
+      "translation": "предложить помощь",
+      "example": "In New York people often didn't offer help because it was dangerous.",
+      "keyword": "оферта",
+      "mnemonic": "Добряк машет офертой — offer to help, предложить помощь."
+    },
+    {
+      "term": "a helpful person",
+      "translation": "отзывчивый человек",
+      "example": "People in Spanish-speaking cities seemed happy to give their time.",
+      "keyword": "хелпер",
+      "mnemonic": "Хелпер улыбается — он a helpful person, отзывчивый человек."
+    },
+    {
+      "term": "give help with a smile",
+      "translation": "помочь с улыбкой",
+      "example": "People in these cities gave help with a smile.",
+      "keyword": "смайл",
+      "mnemonic": "Прохожий дарит смайл и помогает с улыбкой — give help with a smile."
+    },
+    {
+      "term": "walk on by",
+      "translation": "пройти мимо, не помочь",
+      "example": "When someone is in trouble, do they stop and help or just walk on by?",
+      "keyword": "волк",
+      "mnemonic": "Волк проходит мимо — walk on by, не помочь."
+    },
+    {
+      "term": "pick something up",
+      "translation": "поднять, подобрать",
+      "example": "A person with a broken leg drops some papers and can't pick them up.",
+      "keyword": "пик",
+      "mnemonic": "Альпинист на пике поднимает бумаги — pick them up."
+    },
+    {
+      "term": "push / carry / lift",
+      "translation": "толкать / нести / поднимать",
+      "example": "She's carrying a heavy suitcase and she can't lift it.",
+      "keyword": "пушка",
+      "mnemonic": "Грузчик толкает пушку — to push, толкать."
+    },
+    {
+      "term": "carry a bag",
+      "translation": "нести сумку",
+      "example": "Can I carry your bag? — Yes, please, it's heavy.",
+      "keyword": "карри",
+      "mnemonic": "Носильщик несёт карри в сумке — carry a bag, нести сумку."
+    },
+    {
+      "term": "reach something",
+      "translation": "дотянуться до чего-то",
+      "example": "I can't reach the dictionary on the top shelf.",
+      "keyword": "речка",
+      "mnemonic": "Коротышка тянется через речку — reach something, дотянуться."
+    },
+    {
+      "term": "a blind person",
+      "translation": "слепой человек",
+      "example": "A blind person is trying to cross the road, but the traffic is busy.",
+      "keyword": "блин",
+      "mnemonic": "Слепой держит блин вместо трости — это a blind person."
+    },
+    {
+      "term": "in a hurry",
+      "translation": "в спешке",
+      "example": "People in New York were often too busy or were in a hurry.",
+      "keyword": "хурма",
+      "mnemonic": "Прохожий с хурмой бежит в спешке — in a hurry."
+    },
+    {
+      "term": "lie on the ground",
+      "translation": "лежать на земле",
+      "example": "A man is lying on the ground and he isn't moving.",
+      "keyword": "грунт",
+      "mnemonic": "Прохожий лёг на грунт — lie on the ground, лежать на земле."
+    },
+    {
+      "term": "get angry with somebody",
+      "translation": "рассердиться на кого-то",
+      "example": "People didn't offer help because people got angry with them.",
+      "keyword": "энгри бёрдз",
+      "mnemonic": "Птица энгри бёрдз сердится — get angry, рассердиться."
+    },
+    {
+      "term": "be stuck",
+      "translation": "застрять, не открываться",
+      "example": "Let me try ... Ooh, it's stuck.",
+      "keyword": "стакан",
+      "mnemonic": "Дверь застряла как стакан в подстаканнике — be stuck."
+    },
+    {
+      "term": "offer / accept help",
+      "translation": "предложить / принять помощь",
+      "example": "Do you need help? — Thanks, but no.",
+      "keyword": "акцепт",
+      "mnemonic": "Добряк ставит акцепт на помощь — accept help, принять помощь."
+    },
+    {
+      "term": "do you need help with ...?",
+      "translation": "Вам нужна помощь с ...?",
+      "example": "Do you need help with your luggage?",
+      "keyword": "нить",
+      "mnemonic": "Носильщик с нитью спрашивает нужна ли помощь — do you need help."
+    }
   ]
 }

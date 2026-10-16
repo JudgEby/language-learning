@@ -388,5 +388,80 @@
     "relatedRuleIds": [
       "getting-away-with-it"
     ]
+  },
+  {
+    "question": "Complete the sentence: Water has a particular ability to ___.",
+    "options": [
+      "pension scheme",
+      "Basically",
+      "verbal warning",
+      "reduce stress"
+    ],
+    "correctIndex": 3,
+    "explanation": "'reduce stress' (снижать стресс). Full sentence: Water has a particular ability to reduce stress.",
+    "relatedRuleIds": [
+      "places"
+    ],
+    "id": "35a3c5a09b44"
+  },
+  {
+    "question": "Which word means 'занимательный'?",
+    "options": [
+      "entertaining",
+      "gooey",
+      "from time to time",
+      "drive"
+    ],
+    "correctIndex": 0,
+    "explanation": "'entertaining' means занимательный. Example: It's always entertaining to explore a minor character's back story.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ],
+    "id": "849dbd3d29d4"
+  },
+  {
+    "question": "Choose the correct collocation: Trust your instincts when you make a life-changing decision.",
+    "options": [
+      "in ruins",
+      "bungee jump",
+      "trust your instincts",
+      "inner-city"
+    ],
+    "correctIndex": 2,
+    "explanation": "'trust your instincts' (доверять интуиции). Full sentence: Trust your instincts when you make a life-changing decision.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ],
+    "id": "c7861436c783"
+  },
+  {
+    "question": "Complete the sentence: Our ___ to the office wi-fi today.",
+    "options": [
+      "frustrating",
+      "sense of comfort",
+      "Although utopias are idyllic",
+      "devices won't connect"
+    ],
+    "correctIndex": 3,
+    "explanation": "'devices won't connect' (устройства не подключаются). Full sentence: Our devices won't connect to the office wi-fi today.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ],
+    "id": "8193cdaa8a1a"
+  },
+  {
+    "question": "Which word means 'робот'?",
+    "options": [
+      "break the rules",
+      "slums",
+      "teleport",
+      "robot"
+    ],
+    "correctIndex": 3,
+    "explanation": "'robot' means робот. Example: Robots are being used in factories worldwide.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ],
+    "id": "0ef0cb3af18d"
   }
 ]

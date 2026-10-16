@@ -5,17 +5,23 @@
     {
       "idiom": "keep yourself to yourself",
       "translation": "держаться особняком",
-      "example": "Our neighbour keeps himself to himself — we rarely see him."
+      "example": "Our neighbour keeps himself to himself — we rarely see him.",
+      "keyword": "кипяток",
+      "mnemonic": "Кипяток под крышкой-сосед: keep yourself to yourself — держаться особняком, его редко видно."
     },
     {
       "idiom": "get on like a house on fire",
       "translation": "очень хорошо ладить",
-      "example": "We met our new neighbours and got on like a house on fire."
+      "example": "We met our new neighbours and got on like a house on fire.",
+      "keyword": "фаер",
+      "mnemonic": "Фаер с новыми соседями: get on like a house on fire — очень хорошо ладить с первого вечера."
     },
     {
       "idiom": "good fences make good neighbours",
       "translation": "соседство требует уважения границ",
-      "example": "We help each other, but good fences make good neighbours."
+      "example": "We help each other, but good fences make good neighbours.",
+      "keyword": "фенс",
+      "mnemonic": "Фенс уважает границы: good fences make good neighbours — соседство требует уважения границ, хоть и помогаем друг другу."
     }
   ]
 }

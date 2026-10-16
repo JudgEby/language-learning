@@ -1,0 +1,139 @@
+{
+  "lessonId": "online-blunders",
+  "title": "6B Online Blunders — Ошибки и жалобы",
+  "items": [
+    {
+      "term": "invitation",
+      "translation": "приглашение",
+      "example": "The invitation was meant for my immediate team only.",
+      "keyword": "инвентарь",
+      "mnemonic": "Приглашение прислали вместе с инвентарём — получив инвентарь, сразу понял, что это invitation."
+    },
+    {
+      "term": "staff",
+      "translation": "сотрудники, персонал",
+      "example": "All 3,000 staff at the company got the invitation.",
+      "keyword": "ставь",
+      "mnemonic": "Три тысячи сотрудников — всех ставь в строй: вот тебе staff, персонал."
+    },
+    {
+      "term": "intern",
+      "translation": "стажёр",
+      "example": "He was an intern at a large multinational company.",
+      "keyword": "интернат",
+      "mnemonic": "Стажёр вчера ещё жил в интернате, а сегодня он intern в огромной компании."
+    },
+    {
+      "term": "multinational",
+      "translation": "международная компания",
+      "example": "She works for a large multinational company.",
+      "keyword": "мультик наш",
+      "mnemonic": "Международная компания крутит мультик наш на всех языках — это multinational."
+    },
+    {
+      "term": "confidential",
+      "translation": "конфиденциальный",
+      "example": "He sent out a confidential internal email to the whole team.",
+      "keyword": "конфитюр",
+      "mnemonic": "Он разослал конфиденциальное письмо всей команде — спрячь его под конфитюр, это confidential."
+    },
+    {
+      "term": "customer",
+      "translation": "клиент",
+      "example": "The email went out to every single customer by accident.",
+      "keyword": "костюм",
+      "mnemonic": "Письмо случайно ушло каждому клиенту в костюме — вот тебе customer."
+    },
+    {
+      "term": "upload",
+      "translation": "загружать",
+      "example": "She managed to upload a photo of her children instead of the sofa.",
+      "keyword": "аплодируй",
+      "mnemonic": "Чтобы загружать фото детей вместо дивана, ей аплодируй стоя — вот тебе upload."
+    },
+    {
+      "term": "tag",
+      "translation": "отмечать на фото",
+      "example": "He uploaded a photo and tagged his ex in it.",
+      "keyword": "так",
+      "mnemonic": "Отмечать на фото бывшую — ткни пальцем и скажи «так!» — это tag."
+    },
+    {
+      "term": "advertise",
+      "translation": "рекламировать, выставлять на продажу",
+      "example": "She advertised a sofa for sale in the local newspaper.",
+      "keyword": "ад везде",
+      "mnemonic": "Рекламировать диван в газете — теперь ад везде с объявлениями, это advertise."
+    },
+    {
+      "term": "ceiling",
+      "translation": "потолок",
+      "example": "She presumed the plant would almost reach the ceiling.",
+      "keyword": "силикон",
+      "mnemonic": "Цветок почти дорос до потолка из силикона — вот тебе ceiling."
+    },
+    {
+      "term": "doll's house",
+      "translation": "кукольный домик",
+      "example": "The plant was measured in centimetres and meant for a doll's house.",
+      "keyword": "доля хаты",
+      "mnemonic": "Кукольный домик — это доля хаты в сантиметрах, вот тебе doll's house."
+    },
+    {
+      "term": "wig",
+      "translation": "парик",
+      "example": "He turned up in 1960s clothes with a long-haired wig.",
+      "keyword": "миг",
+      "mnemonic": "Он явился в парике за один миг, в одежде шестидесятых — вот тебе wig."
+    },
+    {
+      "term": "recipient",
+      "translation": "получатель",
+      "example": "He sent the email without checking the recipient's name.",
+      "keyword": "рецепт",
+      "mnemonic": "Получатель письма проверяет рецепт вместо имени — вот тебе recipient."
+    },
+    {
+      "term": "verbal warning",
+      "translation": "устное предупреждение",
+      "example": "He got an official verbal warning but no further action.",
+      "keyword": "верба ворчит",
+      "mnemonic": "Устное предупреждение — верба ворчит на него официально, это verbal warning."
+    },
+    {
+      "term": "fire",
+      "translation": "увольнять",
+      "example": "He was worried they might fire him after the mistake.",
+      "keyword": "фаер",
+      "mnemonic": "После ошибки он боится, что его уволят под фаер и шум — вот тебе fire."
+    },
+    {
+      "term": "refund",
+      "translation": "возврат денег",
+      "example": "The company offered her a full refund for the cake.",
+      "keyword": "рефери",
+      "mnemonic": "Полный возврат денег за торт свистнул рефери — вот тебе refund."
+    },
+    {
+      "term": "fit for purpose",
+      "translation": "пригодный для использования",
+      "example": "The room they were given was not fit for purpose.",
+      "keyword": "фит персик",
+      "mnemonic": "Комната непригодна для использования — тут только фит и персик, это fit for purpose."
+    },
+    {
+      "term": "in haste",
+      "translation": "в спешке",
+      "example": "An alternative cake had to be purchased in haste.",
+      "keyword": "хвост",
+      "mnemonic": "Запасной торт купили в спешке, прищемив хвост, — вот тебе in haste."
+    },
+    {
+      "term": "over-booked",
+      "translation": "переполненный из-за двойной брони",
+      "example": "The flight was over-booked and there were no seats left.",
+      "keyword": "овер букет",
+      "mnemonic": "Рейс переполнен из-за двойной брони — каждому вместо места вручают овер-букет, это over-booked."
+    }
+  ]
+}

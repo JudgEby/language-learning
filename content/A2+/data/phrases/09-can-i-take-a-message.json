@@ -2,12 +2,75 @@
   "lessonId": "can-i-take-a-message",
   "title": "Can I take a message? — фразы",
   "items": [
-    { "phrase": "Hello, this is … speaking", "translation": "Здравствуйте, это … говорит", "example": "Hello, this is Maria Gonzalez speaking." },
-    { "phrase": "I'm calling about…", "translation": "Я звоню по поводу…", "example": "I'm calling about the job advertisement I saw online." },
-    { "phrase": "Can I take a message?", "translation": "Могу я передать сообщение?", "example": "She's not available right now. Can I take a message?" },
-    { "phrase": "Could you ask … to call me back?", "translation": "Не могли бы вы попросить … перезвонить мне?", "example": "Could you ask Mr Brown to call me back when he arrives?" },
-    { "phrase": "I'll put you through", "translation": "Я соединю вас", "example": "One moment, I'll put you through to the reception desk." },
-    { "phrase": "Hold the line, please", "translation": "Оставайтесь на линии, пожалуйста", "example": "Hold the line, please, I'll see if he is free." },
-    { "phrase": "I'm afraid the line is busy", "translation": "Боюсь, линия занята", "example": "I'm afraid the line is busy. Would you like to hold?" }
+    {
+      "phrase": "Hello, this is … speaking",
+      "translation": "Здравствуйте, это … говорит",
+      "example": "Hello, this is Maria Gonzalez speaking.",
+      "keyword": "спикер",
+      "mnemonic": "Спикер в трубке представляется Hello, this is … speaking — Здравствуйте, это говорит Мария."
+    },
+    {
+      "phrase": "I'm calling about…",
+      "translation": "Я звоню по поводу…",
+      "example": "I'm calling about the job advertisement I saw online.",
+      "keyword": "колокол",
+      "mnemonic": "С колоколом в руке — I'm calling about… — Я звоню по поводу вакансии из сети."
+    },
+    {
+      "phrase": "Can I take a message?",
+      "translation": "Могу я передать сообщение?",
+      "example": "She's not available right now. Can I take a message?",
+      "keyword": "мешок",
+      "mnemonic": "Секретарь с мешком записок — Can I take a message? — Могу я передать сообщение, её нет."
+    },
+    {
+      "phrase": "Could you ask … to call me back?",
+      "translation": "Не могли бы вы попросить … перезвонить мне?",
+      "example": "Could you ask Mr Brown to call me back when he arrives?",
+      "keyword": "баян",
+      "mnemonic": "С баяном в руках просит Could you ask … to call me back? — Не могли бы вы попросить Брауна перезвонить."
+    },
+    {
+      "phrase": "I'll put you through",
+      "translation": "Я соединю вас",
+      "example": "One moment, I'll put you through to the reception desk.",
+      "keyword": "прут",
+      "mnemonic": "Оператор с прутом соединяет — I'll put you through, Я соединю вас с ресепшеном."
+    },
+    {
+      "phrase": "Hold the line, please",
+      "translation": "Оставайтесь на линии, пожалуйста",
+      "example": "Hold the line, please, I'll see if he is free.",
+      "keyword": "холодец",
+      "mnemonic": "С холодцом у телефона — Hold the line, please, Оставайтесь на линии, проверю, свободен ли он."
+    },
+    {
+      "phrase": "I'm afraid the line is busy",
+      "translation": "Боюсь, линия занята",
+      "example": "I'm afraid the line is busy. Would you like to hold?",
+      "keyword": "бусы",
+      "mnemonic": "Барышня с бусами вздыхает I'm afraid the line is busy — Боюсь, линия занята, подождёте."
+    },
+    {
+      "phrase": "Sorry, I didn't catch that",
+      "translation": "Извини, я не расслышал",
+      "example": "Sorry, I didn't catch that. Did you say King?",
+      "keyword": "кетчуп",
+      "mnemonic": "С кетчупом на ухе — Sorry, I didn't catch that, Извини, я не расслышал, вы сказали Кинг."
+    },
+    {
+      "phrase": "Can you speak up, please?",
+      "translation": "Говорите погромче, пожалуйста",
+      "example": "Sorry, Mary, can you speak up, please? I can't hear a thing.",
+      "keyword": "спичка",
+      "mnemonic": "Мэри с мегафоном-спичкой — Can you speak up, please? — Говорите погромче, ничего не слышу."
+    },
+    {
+      "phrase": "Can you repeat that, please?",
+      "translation": "Повторите, пожалуйста",
+      "example": "It's 01823 27666. Can you repeat that, please?",
+      "keyword": "репа",
+      "mnemonic": "Дед с репой в руках — Can you repeat that, please? — Повторите, пожалуйста, цифры."
+    }
   ]
 }

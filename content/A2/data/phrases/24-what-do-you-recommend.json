@@ -2,18 +2,96 @@
   "lessonId": "what-do-you-recommend",
   "title": "What do you recommend? — фразы",
   "items": [
-    { "phrase": "Can you recommend a good ...?", "translation": "Можешь посоветовать хороший ...?", "example": "Can you recommend a good film?" },
-    { "phrase": "Let me think.", "translation": "Дай подумать.", "example": "Let me think. What kind of films do you like?" },
-    { "phrase": "What kind of ... do you like?", "translation": "Какие ... тебе нравятся?", "example": "What kind of films do you like?" },
-    { "phrase": "What do you know about ...?", "translation": "Что ты знаешь о ...?", "example": "What do you know about Gravity?" },
-    { "phrase": "What's it about?", "translation": "О чём он?", "example": "What's it about? — About two guys on a train." },
-    { "phrase": "How about ...?", "translation": "Как насчёт ...?", "example": "How about sci-fi films?" },
-    { "phrase": "You'd like it because ...", "translation": "Тебе понравится, потому что ...", "example": "You'd like it because it's very exciting." },
-    { "phrase": "Why don't you try ...?", "translation": "Почему бы тебе не попробовать ...?", "example": "Why don't you try this musical?" },
-    { "phrase": "It's a bit / too ... for me", "translation": "Это немного / слишком ... для меня", "example": "Horror films are too scary for me." },
-    { "phrase": "I don't think so.", "translation": "Не думаю.", "example": "Can you recommend an action film? — No, I don't think so." },
-    { "phrase": "I like it a lot.", "translation": "Мне очень нравится.", "example": "I like it a lot — I watch it twice a year." },
-    { "phrase": "there's a lot of ... in it", "translation": "в нём много ...", "example": "There's a lot of singing and dancing in it." },
-    { "phrase": "I saw it last week.", "translation": "Я смотрел его на прошлой неделе.", "example": "Last week I saw a great documentary about space." }
+    {
+      "phrase": "Can you recommend a good ...?",
+      "translation": "Можешь посоветовать хороший ...?",
+      "example": "Can you recommend a good film?",
+      "keyword": "рекорд",
+      "mnemonic": "Критик ставит рекорд — Can you recommend a good film, посоветуй хороший."
+    },
+    {
+      "phrase": "Let me think.",
+      "translation": "Дай подумать.",
+      "example": "Let me think. What kind of films do you like?",
+      "keyword": "синяк",
+      "mnemonic": "Студент с синяком просит — Let me think, дай подумать."
+    },
+    {
+      "phrase": "What kind of ... do you like?",
+      "translation": "Какие ... тебе нравятся?",
+      "example": "What kind of films do you like?",
+      "keyword": "кайф",
+      "mnemonic": "Киноман ловит кайф — What kind do you like, какие нравятся."
+    },
+    {
+      "phrase": "What do you know about ...?",
+      "translation": "Что ты знаешь о ...?",
+      "example": "What do you know about Gravity?",
+      "keyword": "ноу-хау",
+      "mnemonic": "Умник с ноу-хау спрашивает — What do you know, что ты знаешь."
+    },
+    {
+      "phrase": "What's it about?",
+      "translation": "О чём он?",
+      "example": "What's it about? — About two guys on a train.",
+      "keyword": "батут",
+      "mnemonic": "Зритель на батуте спрашивает — What's it about, о чём он."
+    },
+    {
+      "phrase": "How about ...?",
+      "translation": "Как насчёт ...?",
+      "example": "How about sci-fi films?",
+      "keyword": "хаус",
+      "mnemonic": "Диджей в хаусе предлагает — How about sci-fi, как насчёт фантастики."
+    },
+    {
+      "phrase": "You'd like it because ...",
+      "translation": "Тебе понравится, потому что ...",
+      "example": "You'd like it because it's very exciting.",
+      "keyword": "лайк",
+      "mnemonic": "Фанат жмёт лайк — You'd like it, тебе понравится."
+    },
+    {
+      "phrase": "Why don't you try ...?",
+      "translation": "Почему бы тебе не попробовать ...?",
+      "example": "Why don't you try this musical?",
+      "keyword": "трайк",
+      "mnemonic": "Каскадёр на трайке уговаривает — Why don't you try, почему бы не попробовать."
+    },
+    {
+      "phrase": "It's a bit / too ... for me",
+      "translation": "Это немного / слишком ... для меня",
+      "example": "Horror films are too scary for me.",
+      "keyword": "бит",
+      "mnemonic": "Бита в руках нытика — It's a bit too scary for me, слишком для меня."
+    },
+    {
+      "phrase": "I don't think so.",
+      "translation": "Не думаю.",
+      "example": "Can you recommend an action film? — No, I don't think so.",
+      "keyword": "танк",
+      "mnemonic": "Скептик в танке бурчит — I don't think so, не думаю."
+    },
+    {
+      "phrase": "I like it a lot.",
+      "translation": "Мне очень нравится.",
+      "example": "I like it a lot — I watch it twice a year.",
+      "keyword": "лот",
+      "mnemonic": "Фанат выиграл лот и радуется — I like it a lot, очень нравится."
+    },
+    {
+      "phrase": "there's a lot of ... in it",
+      "translation": "в нём много ...",
+      "example": "There's a lot of singing and dancing in it.",
+      "keyword": "лото",
+      "mnemonic": "Бабушка с лото видит много танцев — there's a lot in it, в нём много."
+    },
+    {
+      "phrase": "I saw it last week.",
+      "translation": "Я смотрел его на прошлой неделе.",
+      "example": "Last week I saw a great documentary about space.",
+      "keyword": "сова",
+      "mnemonic": "Сова в кино видела фильм — I saw it last week, смотрел на неделе."
+    }
   ]
 }

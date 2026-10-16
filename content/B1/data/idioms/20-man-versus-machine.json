@@ -5,17 +5,23 @@
     {
       "idiom": "back to the drawing board",
       "translation": "начать сначала",
-      "example": "The experiment failed, so it is back to the drawing board."
+      "example": "The experiment failed, so it is back to the drawing board.",
+      "keyword": "борд",
+      "mnemonic": "Борд снова чист: back to the drawing board — начать сначала, эксперимент провалился."
     },
     {
       "idiom": "blow a fuse",
       "translation": "выйти из строя",
-      "example": "The machine blew a fuse and stopped working completely."
+      "example": "The machine blew a fuse and stopped working completely.",
+      "keyword": "фьюз",
+      "mnemonic": "Фьюз вылетел из машины: blow a fuse — выйти из строя и встать полностью."
     },
     {
       "idiom": "put to the test",
       "translation": "подвергнуть испытанию",
-      "example": "The new software was put to the test with a thousand users simultaneously."
+      "example": "The new software was put to the test with a thousand users simultaneously.",
+      "keyword": "тест",
+      "mnemonic": "Тест тысячей пользователей: put to the test — подвергнуть испытанию новый софт."
     }
   ]
 }

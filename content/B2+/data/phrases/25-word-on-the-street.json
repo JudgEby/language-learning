@@ -1,0 +1,125 @@
+{
+  "lessonId": "word-on-the-street",
+  "title": "7A The Word on the Street — Слова и тренды",
+  "items": [
+    {
+      "phrase": "come into use",
+      "translation": "входить в употребление",
+      "example": "As each decade comes along, new words come into use.",
+      "keyword": "юз",
+      "mnemonic": "Новое словцо вошло в юз: стало входить в употребление у всех — юз тащит come into use."
+    },
+    {
+      "phrase": "thick and fast",
+      "translation": "один за другим",
+      "example": "In that decade, computer words were coming thick and fast.",
+      "keyword": "тик-так",
+      "mnemonic": "Слова сыпались тик-так, один за другим без паузы, — тик-так стучит thick and fast."
+    },
+    {
+      "phrase": "spell out how slow",
+      "translation": "показать, насколько медленно",
+      "example": "The term snail mail spelled out how slow traditional mail seemed.",
+      "keyword": "спелл",
+      "mnemonic": "Улитка по буквам спелл выводит, чтобы показать, насколько медленно ползёт почта, — спелл тянет spell out how slow."
+    },
+    {
+      "phrase": "sums up the decade",
+      "translation": "подытоживает десятилетие",
+      "example": "The word website neatly sums up that decade.",
+      "keyword": "сумма",
+      "mnemonic": "Сайт подбил сумму слов и лихо подытоживает десятилетие — сумма сводит sums up the decade."
+    },
+    {
+      "phrase": "take off",
+      "translation": "взлетать, набирать популярность",
+      "example": "In that decade, social media really took off.",
+      "keyword": "тик",
+      "mnemonic": "Часы тик — и соцсети пошли взлетать, набирать популярность — тик запускает take off."
+    },
+    {
+      "phrase": "come to define",
+      "translation": "стать определением",
+      "example": "The word tweet came to define a new way of communicating.",
+      "keyword": "дефиле",
+      "mnemonic": "Слово «твит» вышло на дефиле и стало определением эпохи — дефиле несёт come to define."
+    },
+    {
+      "phrase": "rise to the height of fashion",
+      "translation": "подняться на пик моды",
+      "example": "Trends rise to the height of fashion and then fade.",
+      "keyword": "хайп",
+      "mnemonic": "Хайп поднял тренд и помог подняться на пик моды — хайп взлетает в rise to the height of fashion."
+    },
+    {
+      "phrase": "become unfashionable",
+      "translation": "выйти из моды",
+      "example": "After a period of being popular, words become unfashionable.",
+      "keyword": "фэшн",
+      "mnemonic": "Журнал «Фэшн» постановил: словечку пора выйти из моды — фэшн правит become unfashionable."
+    },
+    {
+      "phrase": "after a while",
+      "translation": "спустя время",
+      "example": "After a while, old words start to look attractive again.",
+      "keyword": "вайл",
+      "mnemonic": "Кот Вайл зевнул: спустя время старые слова снова милы — вайл мурчит after a while."
+    },
+    {
+      "phrase": "on an almost yearly basis",
+      "translation": "почти ежегодно",
+      "example": "Researchers tracked the use of words on an almost yearly basis.",
+      "keyword": "базис",
+      "mnemonic": "Учёные сверяют слова по базису почти ежегодно без пропусков — базис держит on an almost yearly basis."
+    },
+    {
+      "phrase": "in much the same way",
+      "translation": "примерно так же",
+      "example": "Words come back in much the same way as clothes.",
+      "keyword": "мачо",
+      "mnemonic": "Мачо вернулся в тех же джинсах: примерно так же возвращаются слова — мачо позирует в in much the same way."
+    },
+    {
+      "phrase": "come back into fashion",
+      "translation": "вернуться в моду",
+      "example": "Old styles come back into fashion after some years.",
+      "keyword": "бэк",
+      "mnemonic": "Старый пиджак дал бэк-вокал и смог вернуться в моду — бэк подпевает come back into fashion."
+    },
+    {
+      "phrase": "be familiar with the idea",
+      "translation": "быть знакомым с идеей",
+      "example": "We are all familiar with the idea of fashion cycles.",
+      "keyword": "фамилия",
+      "mnemonic": "С идеей циклов мы уже на «ты»: быть знакомым с идеей как с фамилией соседа — фамилия помнит be familiar with the idea."
+    },
+    {
+      "phrase": "track the use of words",
+      "translation": "отслеживать употребление слов",
+      "example": "The team used a database to track the use of words.",
+      "keyword": "трекер",
+      "mnemonic": "Трекер на ошейнике слов помогает отслеживать употребление слов — трекер пищит track the use of words."
+    },
+    {
+      "phrase": "look more unusual",
+      "translation": "выглядеть необычнее",
+      "example": "Rare words start to look more unusual and attractive.",
+      "keyword": "лук",
+      "mnemonic": "Редкое слово нацепило лук и стало выглядеть необычнее всех — лук блестит look more unusual."
+    },
+    {
+      "phrase": "choose them again",
+      "translation": "выбирать их снова",
+      "example": "So people start to choose them again for their posts.",
+      "keyword": "чуз",
+      "mnemonic": "Блогер ткнул «чуз» и стал выбирать их снова для постов — чуз кликает choose them again."
+    },
+    {
+      "phrase": "dress-down Friday",
+      "translation": "пятница без дресс-кода",
+      "example": "The phrase dress-down Friday captured a relaxed attitude to work.",
+      "keyword": "дресс",
+      "mnemonic": "В пятницу дресс-код сдался: наступила пятница без дресс-кода — дресс валяется в dress-down Friday."
+    }
+  ]
+}

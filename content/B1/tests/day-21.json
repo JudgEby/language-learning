@@ -178,5 +178,20 @@
     "relatedRuleIds": [
       "feeling-stressed"
     ]
+  },
+  {
+    "id": "5b297e6fb1a0",
+    "question": "Which word means 'заголовок (новостей)'?",
+    "options": [
+      "headline",
+      "It was quite a challenge.",
+      "shake hands firmly",
+      "win some money"
+    ],
+    "correctIndex": 0,
+    "explanation": "'headline' means заголовок (новостей). Example: The headline said 'Massive earthquake hits Italy'.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
   }
 ]

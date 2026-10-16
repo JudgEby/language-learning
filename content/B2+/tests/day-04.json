@@ -373,5 +373,80 @@
     "relatedRuleIds": [
       "comfort-food"
     ]
+  },
+  {
+    "question": "Which word means 'профиль, анкета'?",
+    "options": [
+      "coastal towns",
+      "restrict",
+      "opinion",
+      "profile"
+    ],
+    "correctIndex": 3,
+    "explanation": "'profile' means профиль, анкета. Example: The app suggested some great people to chat to based on my profile.",
+    "relatedRuleIds": [
+      "new-friends"
+    ],
+    "id": "c2cadf5074c7"
+  },
+  {
+    "question": "Choose the correct collocation: Letting the bad guy get away with it felt too dark.",
+    "options": [
+      "pension scheme",
+      "humblebrag",
+      "let the bad guy get away with it",
+      "remove trade barriers"
+    ],
+    "correctIndex": 2,
+    "explanation": "'let the bad guy get away with it' (позволить злодею уйти безнаказанно). Full sentence: Letting the bad guy get away with it felt too dark.",
+    "relatedRuleIds": [
+      "fanfiction"
+    ],
+    "id": "82d154b8afac"
+  },
+  {
+    "question": "Which word means 'связи с общественностью (PR)'?",
+    "options": [
+      "childhood",
+      "PR",
+      "sing in public",
+      "advocate"
+    ],
+    "correctIndex": 1,
+    "explanation": "'PR' means связи с общественностью (PR). Example: They hired a PR agency to improve their reputation.",
+    "relatedRuleIds": [
+      "branding-behaviour"
+    ],
+    "id": "9f678ac5f55f"
+  },
+  {
+    "question": "Which word means 'инновация'?",
+    "options": [
+      "innovation",
+      "tenant",
+      "vintage",
+      "way better than"
+    ],
+    "correctIndex": 0,
+    "explanation": "'innovation' means инновация. Example: This innovation changed the industry forever.",
+    "relatedRuleIds": [
+      "tech-fail"
+    ],
+    "id": "31bd88ac8c2a"
+  },
+  {
+    "question": "Choose the correct collocation: We'll never agree, but I guess we're all different.",
+    "options": [
+      "We're all different",
+      "come to terms with something",
+      "flashback",
+      "see the logic in that"
+    ],
+    "correctIndex": 0,
+    "explanation": "'We're all different' (мы все разные). Full sentence: We'll never agree, but I guess we're all different.",
+    "relatedRuleIds": [
+      "spend-or-save"
+    ],
+    "id": "181b14c5e654"
   }
 ]

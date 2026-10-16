@@ -1,0 +1,55 @@
+{
+  "lessonId": "you-cant-miss-it",
+  "title": "You can't miss it! — идиомы",
+  "items": [
+    {
+      "idiom": "take tourists around",
+      "translation": "водить туристов, показывать город",
+      "example": "He takes tourists around the waterfalls every day.",
+      "keyword": "турка",
+      "mnemonic": "Гид с туркой кофе ведёт — take tourists around, водить туристов к водопадам каждый день."
+    },
+    {
+      "idiom": "cross the border",
+      "translation": "пересекать границу",
+      "example": "Then they cross the border to see the water from the other side.",
+      "keyword": "бордюр",
+      "mnemonic": "Пограничник красит бордюр — cross the border, пересекать границу ради воды с той стороны."
+    },
+    {
+      "idiom": "do tax-free shopping",
+      "translation": "покупать без налога (дьюти-фри)",
+      "example": "Finally he takes them to do some tax-free shopping.",
+      "keyword": "текст",
+      "mnemonic": "Шопоголик с текстом скидок — do tax-free shopping, покупать без налога в дьюти-фри."
+    },
+    {
+      "idiom": "go straight on",
+      "translation": "идти прямо",
+      "example": "Go straight on until you hear the music from the square.",
+      "keyword": "строй",
+      "mnemonic": "Отряд идёт строем прямо — go straight on, идти прямо, пока музыка с площади."
+    },
+    {
+      "idiom": "take the first left",
+      "translation": "повернуть на первом повороте налево",
+      "example": "Keep going past the cinema and take the first left.",
+      "keyword": "лев",
+      "mnemonic": "Лев у кинотеатра машет лапой — take the first left, повернуть на первом повороте налево."
+    },
+    {
+      "idiom": "keep going until you reach the end of the road",
+      "translation": "идти, пока не дойдёте до конца дороги",
+      "example": "Keep going for fifteen minutes until you reach the end of the road.",
+      "keyword": "рот",
+      "mnemonic": "Путник с открытым ртом топает — keep going until you reach the end of the road, идти, пока не дойдёте до конца дороги пятнадцать минут."
+    },
+    {
+      "idiom": "it is on the left",
+      "translation": "это находится слева",
+      "example": "Go past the restaurant and it is on the left.",
+      "keyword": "левша",
+      "mnemonic": "Ресторан под охраной левши — it is on the left, это находится слева мимо ресторана."
+    }
+  ]
+}

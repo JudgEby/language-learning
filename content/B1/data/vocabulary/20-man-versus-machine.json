@@ -2,15 +2,75 @@
   "lessonId": "man-versus-machine",
   "title": "Man versus Machine — новые слова",
   "items": [
-    { "term": "race", "translation": "гонка, соревнование", "example": "Who do you think will win the race?" },
-    { "term": "speed", "translation": "скорость", "example": "He checked his speed on the dashboard." },
-    { "term": "freerunner", "translation": "фрираннер, паркурщик", "example": "The freerunners jumped over walls and railings." },
-    { "term": "direct route", "translation": "прямой путь", "example": "The runners took a more direct route across the city." },
-    { "term": "leap across", "translation": "перепрыгивать через", "example": "They leapt across the gap between the buildings." },
-    { "term": "beat (someone in a race)", "translation": "обогнать, победить", "example": "Do you think you can beat me in a race?" },
-    { "term": "invention", "translation": "изобретение", "example": "Parkour is a French invention." },
-    { "term": "machine", "translation": "машина, механизм", "example": "Robo-Chef is a machine that cooks for you." },
-    { "term": "programme (a machine)", "translation": "программировать", "example": "You can programme the robot to make any dish." },
-    { "term": "adventure", "translation": "приключение", "example": "Starting a new business is a huge adventure." }
+    {
+      "term": "race",
+      "translation": "гонка, соревнование",
+      "example": "Who do you think will win the race?",
+      "keyword": "рейс",
+      "mnemonic": "Рейс-машины гудят: who will win the race — гонку и соревнование, кто победит?"
+    },
+    {
+      "term": "speed",
+      "translation": "скорость",
+      "example": "He checked his speed on the dashboard.",
+      "keyword": "спид",
+      "mnemonic": "Спид-ометр зашкалил: he checked speed — скорость на приборной панели."
+    },
+    {
+      "term": "freerunner",
+      "translation": "фрираннер, паркурщик",
+      "example": "The freerunners jumped over walls and railings.",
+      "keyword": "фриранер",
+      "mnemonic": "Фриранер летит над стеной: вот freerunner — фрираннер, паркурщик, прыгнувший через перила."
+    },
+    {
+      "term": "direct route",
+      "translation": "прямой путь",
+      "example": "The runners took a more direct route across the city.",
+      "keyword": "директ, рут",
+      "mnemonic": "Директ-рут на карте светится: runners took direct route — прямой путь через город."
+    },
+    {
+      "term": "leap across",
+      "translation": "перепрыгивать через",
+      "example": "They leapt across the gap between the buildings.",
+      "keyword": "лип, экросс",
+      "mnemonic": "Лип-экрос через пропасть: they leapt across — перепрыгнули через щель между домами."
+    },
+    {
+      "term": "beat (someone in a race)",
+      "translation": "обогнать, победить",
+      "example": "Do you think you can beat me in a race?",
+      "keyword": "бит",
+      "mnemonic": "Бит-барабан победы: can you beat me — обгони и победи меня в гонке?"
+    },
+    {
+      "term": "invention",
+      "translation": "изобретение",
+      "example": "Parkour is a French invention.",
+      "keyword": "инвеншн",
+      "mnemonic": "Инвеншн-паркур из Франции: parkour is an invention — изобретение французов."
+    },
+    {
+      "term": "machine",
+      "translation": "машина, механизм",
+      "example": "Robo-Chef is a machine that cooks for you.",
+      "keyword": "машин",
+      "mnemonic": "Машин-повар гудит: Robo-Chef is a machine — машина и механизм, готовит за тебя."
+    },
+    {
+      "term": "programme (a machine)",
+      "translation": "программировать",
+      "example": "You can programme the robot to make any dish.",
+      "keyword": "программа",
+      "mnemonic": "Программа для робота мигает: you can programme — запрограммировать робота на любое блюдо."
+    },
+    {
+      "term": "adventure",
+      "translation": "приключение",
+      "example": "Starting a new business is a huge adventure.",
+      "keyword": "адвенчура",
+      "mnemonic": "Адвенчура-бизнес зовёт: starting business is an adventure — приключение, огромное и рисковое."
+    }
   ]
 }

@@ -5,12 +5,16 @@
     {
       "idiom": "get your wires crossed",
       "translation": "не понять друг друга",
-      "example": "I think we got our wires crossed."
+      "example": "I think we got our wires crossed.",
+      "keyword": "кросс",
+      "mnemonic": "Кажется, мы не поняли друг друга — провода сошлись в кросс: wires crossed."
     },
     {
       "idiom": "on the same page",
       "translation": "на одной волне",
-      "example": "Let's make sure we're on the same page."
+      "example": "Let's make sure we're on the same page.",
+      "keyword": "пейджер",
+      "mnemonic": "Убедимся, что мы на одной волне, — сверь пейджер: on the same page."
     }
   ]
 }

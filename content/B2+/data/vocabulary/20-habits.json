@@ -5,82 +5,114 @@
     {
       "term": "habit",
       "translation": "привычка",
-      "example": "Up to forty percent of our actions are done out of habit."
+      "example": "Up to forty percent of our actions are done out of habit.",
+      "keyword": "хаб",
+      "mnemonic": "Сорок процентов действий по привычке в хабе — вот тебе habit."
     },
     {
       "term": "routine",
       "translation": "рутина, распорядок",
-      "example": "Build your new habit into your existing routine."
+      "example": "Build your new habit into your existing routine.",
+      "keyword": "Рута",
+      "mnemonic": "Новая привычка в распорядке Руты — вот тебе routine."
     },
     {
       "term": "determination",
       "translation": "решимость, настойчивость",
-      "example": "It takes determination to see a new habit through."
+      "example": "It takes determination to see a new habit through.",
+      "keyword": "термин",
+      "mnemonic": "Решимость и настойчивость увидеть термин привычки — вот тебе determination."
     },
     {
       "term": "consistency",
       "translation": "постоянство, последовательность",
-      "example": "Consistency is the key to building new habits."
+      "example": "Consistency is the key to building new habits.",
+      "keyword": "консьерж",
+      "mnemonic": "Постоянство и последовательность привычек у консьержа — вот тебе consistency."
     },
     {
       "term": "commitment",
       "translation": "обязательство, приверженность",
-      "example": "Make a time commitment you can stick to."
+      "example": "Make a time commitment you can stick to.",
+      "keyword": "комитет",
+      "mnemonic": "Обязательство и приверженность комитету времени — вот тебе commitment."
     },
     {
       "term": "build a habit",
       "translation": "выработать привычку",
-      "example": "It takes about thirty days to build a new habit."
+      "example": "It takes about thirty days to build a new habit.",
+      "keyword": "бил",
+      "mnemonic": "Выработать привычку за тридцать дней — бил и строил, вот тебе build a habit."
     },
     {
       "term": "stick to",
       "translation": "придерживаться, не отступать",
-      "example": "It's hard to stick to a new routine."
+      "example": "It's hard to stick to a new routine.",
+      "keyword": "стык",
+      "mnemonic": "Придерживаться рутины на стыке дней — вот тебе stick to."
     },
     {
       "term": "get back on track",
       "translation": "вернуться в колею",
-      "example": "If you miss a day, get back on track the next day."
+      "example": "If you miss a day, get back on track the next day.",
+      "keyword": "трактор",
+      "mnemonic": "Вернуться в колею на тракторе на следующий день — вот тебе get back on track."
     },
     {
       "term": "reward",
       "translation": "награда, вознаграждение",
-      "example": "Reward yourself after reaching your target."
+      "example": "Reward yourself after reaching your target.",
+      "keyword": "реву",
+      "mnemonic": "Награди себя после цели — реву от счастья, вот тебе reward."
     },
     {
       "term": "mindset",
       "translation": "образ мыслей, настрой",
-      "example": "Don't get into an all-or-nothing mindset."
+      "example": "Don't get into an all-or-nothing mindset.",
+      "keyword": "мина",
+      "mnemonic": "Настрой без мины «всё или ничего» — вот тебе mindset."
     },
     {
       "term": "creature of habit",
       "translation": "раб привычки",
-      "example": "I'm not really a creature of habit."
+      "example": "I'm not really a creature of habit.",
+      "keyword": "кричит",
+      "mnemonic": "Раб привычки кричит по утрам — вот тебе creature of habit."
     },
     {
       "term": "plan ahead",
       "translation": "планировать заранее",
-      "example": "I don't really plan ahead too much."
+      "example": "I don't really plan ahead too much.",
+      "keyword": "ахать",
+      "mnemonic": "Планировать заранее без ахать — вот тебе plan ahead."
     },
     {
       "term": "back-up plan",
       "translation": "запасной план",
-      "example": "Without routines you might not have a back-up plan."
+      "example": "Without routines you might not have a back-up plan.",
+      "keyword": "бак",
+      "mnemonic": "Запасной план в баке без рутины — вот тебе back-up plan."
     },
     {
       "term": "stuck in a rut",
       "translation": "застрять в колее",
-      "example": "Too much routine gets you stuck in a rut."
+      "example": "Too much routine gets you stuck in a rut.",
+      "keyword": "стакан",
+      "mnemonic": "Застрять в колее со стаканом рутины — вот тебе stuck in a rut."
     },
     {
       "term": "sense of comfort",
       "translation": "чувство комфорта",
-      "example": "Routines give you a sense of comfort."
+      "example": "Routines give you a sense of comfort.",
+      "keyword": "компот",
+      "mnemonic": "Чувство комфорта от компота рутины — вот тебе sense of comfort."
     },
     {
       "term": "comfort zone",
       "translation": "зона комфорта",
-      "example": "It allows you to go outside your comfort zone."
+      "example": "It allows you to go outside your comfort zone.",
+      "keyword": "комар",
+      "mnemonic": "Зона комфорта с комаром снаружи — вот тебе comfort zone."
     }
   ]
 }

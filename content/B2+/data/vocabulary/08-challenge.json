@@ -5,82 +5,114 @@
     {
       "term": "compete",
       "translation": "соревноваться",
-      "example": "Auctions make us compete, and when we start competing, we want to win."
+      "example": "Auctions make us compete, and when we start competing, we want to win.",
+      "keyword": "компот",
+      "mnemonic": "Соревноваться за компот на аукционе — вот тебе compete."
     },
     {
       "term": "challenge",
       "translation": "вызов, сложная задача",
-      "example": "Learning a new language is a challenge that takes time and patience."
+      "example": "Learning a new language is a challenge that takes time and patience.",
+      "keyword": "челнок",
+      "mnemonic": "Вызов и сложная задача для челнока с языком — вот тебе challenge."
     },
     {
       "term": "rivalry",
       "translation": "соперничество",
-      "example": "There has always been a friendly rivalry between the two teams."
+      "example": "There has always been a friendly rivalry between the two teams.",
+      "keyword": "рева ли",
+      "mnemonic": "Дружеское соперничество, где рева ли это спорт — вот тебе rivalry."
     },
     {
       "term": "opponent",
       "translation": "противник, соперник",
-      "example": "She defeated her opponent in the final round of the competition."
+      "example": "She defeated her opponent in the final round of the competition.",
+      "keyword": "а пончик",
+      "mnemonic": "Противник и соперник съел а пончик перед финалом — вот тебе opponent."
     },
     {
       "term": "beat",
       "translation": "победить",
-      "example": "We need to beat our competitors to win the contract."
+      "example": "We need to beat our competitors to win the contract.",
+      "keyword": "бита",
+      "mnemonic": "Победить конкурентов битой по контракту — вот тебе beat."
     },
     {
       "term": "defeat",
       "translation": "поражение / наносить поражение",
-      "example": "He refused to accept defeat and tried again."
+      "example": "He refused to accept defeat and tried again.",
+      "keyword": "дефиле",
+      "mnemonic": "Поражение он принял на дефиле и попробовал снова — вот тебе defeat."
     },
     {
       "term": "come out on top",
       "translation": "выйти победителем",
-      "example": "You bid more just so you can come out on top."
+      "example": "You bid more just so you can come out on top.",
+      "keyword": "топ",
+      "mnemonic": "Выйти победителем и залезть в топ ставок — вот тебе come out on top."
     },
     {
       "term": "take on",
       "translation": "взяться за, соревноваться с",
-      "example": "I'm ready to take on any challenge that comes my way."
+      "example": "I'm ready to take on any challenge that comes my way.",
+      "keyword": "тайком",
+      "mnemonic": "Готов взяться за вызов тайком перед стартом — вот тебе take on."
     },
     {
       "term": "know inside and out",
       "translation": "знать вдоль и поперёк",
-      "example": "The riders know the unmarked course inside and out."
+      "example": "The riders know the unmarked course inside and out.",
+      "keyword": "индейцы",
+      "mnemonic": "Знать трассу вдоль и поперёк, как индейцы прерии — вот тебе know inside and out."
     },
     {
       "term": "take in",
       "translation": "усвоить, воспринять (информацию)",
-      "example": "You've got a lot to take in in one day."
+      "example": "You've got a lot to take in in one day.",
+      "keyword": "ток",
+      "mnemonic": "Много усвоить за день, аж ток по проводам — вот тебе take in."
     },
     {
       "term": "head-to-head",
       "translation": "очный, лицом к лицу",
-      "example": "Mist goes head-to-head with Ryan Thomas in a driving challenge."
+      "example": "Mist goes head-to-head with Ryan Thomas in a driving challenge.",
+      "keyword": "хет-трик",
+      "mnemonic": "Очная дуэль лицом к лицу за хет-трик — вот тебе head-to-head."
     },
     {
       "term": "best of three",
       "translation": "до двух побед (лучший из трёх)",
-      "example": "Head-to-head racing: best of three wins."
+      "example": "Head-to-head racing: best of three wins.",
+      "keyword": "стресс",
+      "mnemonic": "Лучший из трёх в стрессе гонки побеждает — вот тебе best of three."
     },
     {
       "term": "nerves kick in",
       "translation": "начинают сдавать нервы",
-      "example": "The nerves are kicking in now before the final run."
+      "example": "The nerves are kicking in now before the final run.",
+      "keyword": "нрав",
+      "mnemonic": "Нервы сдают перед финалом, таков нрав гонки — вот тебе nerves kick in."
     },
     {
       "term": "neck and neck",
       "translation": "ноздря в ноздрю, вровень",
-      "example": "They were neck and neck after two laps."
+      "example": "They were neck and neck after two laps.",
+      "keyword": "нектар",
+      "mnemonic": "Вровень и ноздря в ноздрю после нектара на пит-стопе — вот тебе neck and neck."
     },
     {
       "term": "come down to",
       "translation": "сводиться к",
-      "example": "In the end it all came down to that one last run."
+      "example": "In the end it all came down to that one last run.",
+      "keyword": "дань",
+      "mnemonic": "Всё свелось к дани за последний заезд — вот тебе come down to."
     },
     {
       "term": "take it well",
       "translation": "достойно принять (поражение/победу)",
-      "example": "He took the defeat really well and congratulated the winner."
+      "example": "He took the defeat really well and congratulated the winner.",
+      "keyword": "вел",
+      "mnemonic": "Достойно принял поражение и вел победителя обниматься — вот тебе take it well."
     }
   ]
 }

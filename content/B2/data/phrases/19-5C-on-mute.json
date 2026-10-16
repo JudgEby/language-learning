@@ -5,17 +5,58 @@
     {
       "phrase": "drop out",
       "translation": "пропадать (связь)",
-      "example": "My audio keeps dropping out."
+      "example": "My audio keeps dropping out.",
+      "keyword": "дроп",
+      "mnemonic": "Звук постоянно пропадает — сплошной дроп: audio keeps dropping out."
     },
     {
       "phrase": "log in",
       "translation": "войти в систему",
-      "example": "Everyone needs to log in five minutes early."
+      "example": "Everyone needs to log in five minutes early.",
+      "keyword": "логи",
+      "mnemonic": "Войдите за пять минут — проверьте логи: log in five minutes early."
     },
     {
       "phrase": "run into problems",
       "translation": "столкнуться с проблемами",
-      "example": "We ran into problems with the software."
+      "example": "We ran into problems with the software.",
+      "keyword": "интуит",
+      "mnemonic": "Напоролись на проблемы с софтом — интуит не предупредил: ran into problems."
+    },
+    {
+      "phrase": "put yourself on mute",
+      "translation": "выключать свой микрофон",
+      "example": "Put yourself on mute if you are not speaking.",
+      "keyword": "мутная",
+      "mnemonic": "Выключи микрофон, пока молчишь, — вода мутная: put yourself on mute."
+    },
+    {
+      "phrase": "keep your camera turned on",
+      "translation": "держать камеру включённой",
+      "example": "Keep your camera turned on during the call.",
+      "keyword": "камео",
+      "mnemonic": "Держи камеру включённой — будет камео: keep your camera turned on."
+    },
+    {
+      "phrase": "switch off notifications",
+      "translation": "отключать уведомления",
+      "example": "Switch off notifications before the meeting.",
+      "keyword": "нотис",
+      "mnemonic": "Отключи уведомления до встречи — кинь нотис: switch off notifications."
+    },
+    {
+      "phrase": "check the chat box",
+      "translation": "проверять чат",
+      "example": "The host should check the chat box regularly.",
+      "keyword": "бокс",
+      "mnemonic": "Ведущий проверяет чат — заглядывает в бокс: check the chat box."
+    },
+    {
+      "phrase": "post a link",
+      "translation": "публиковать ссылку",
+      "example": "David posted the document as a link in the chat.",
+      "keyword": "пост",
+      "mnemonic": "Дэвид кинул документ ссылкой — выложил пост: posted as a link, публиковать ссылку."
     }
   ]
 }

@@ -5,142 +5,198 @@
     {
       "term": "treat",
       "translation": "лакомство, угощение",
-      "example": "Chocolate has always been seen as a treat, especially for children."
+      "example": "Chocolate has always been seen as a treat, especially for children.",
+      "keyword": "три",
+      "mnemonic": "Лакомство из трёх конфет для детей — вот тебе treat."
     },
     {
       "term": "comfort food",
       "translation": "еда для утешения",
-      "example": "Chocolate is the comfort food of choice for so many people."
+      "example": "Chocolate is the comfort food of choice for so many people.",
+      "keyword": "комфорт тут",
+      "mnemonic": "Еда для утешения, когда комфорт тут, в шоколадке — вот тебе comfort food."
     },
     {
       "term": "chocoholic",
       "translation": "шокоголик",
-      "example": "As a self-confessed chocoholic, I eat chocolate every single day."
+      "example": "As a self-confessed chocoholic, I eat chocolate every single day.",
+      "keyword": "чок голый",
+      "mnemonic": "Признанный шокоголик бегает голый за чоком каждый день — вот тебе chocoholic."
     },
     {
       "term": "craving",
       "translation": "сильное желание, тяга",
-      "example": "I had a sudden craving for something sweet and rich."
+      "example": "I had a sudden craving for something sweet and rich.",
+      "keyword": "корова",
+      "mnemonic": "Внезапная тяга к сладкому напала даже на корову в хлеву — вот тебе craving."
     },
     {
       "term": "indulge",
       "translation": "баловать себя, позволять себе",
-      "example": "At weekends I like to indulge in a big piece of chocolate cake."
+      "example": "At weekends I like to indulge in a big piece of chocolate cake.",
+      "keyword": "индюк",
+      "mnemonic": "На выходных он балует себя тортом и индюком — вот тебе indulge."
     },
     {
       "term": "appeal",
       "translation": "привлекательность",
-      "example": "Sweet foods are naturally appealing to most people."
+      "example": "Sweet foods are naturally appealing to most people.",
+      "keyword": "апельсин",
+      "mnemonic": "Привлекательность апельсина понятна всем сладкоежкам — вот тебе appeal."
     },
     {
       "term": "stimulate",
       "translation": "стимулировать",
-      "example": "Chocolate contains chemicals that stimulate the brain and give us energy."
+      "example": "Chocolate contains chemicals that stimulate the brain and give us energy.",
+      "keyword": "стих мула",
+      "mnemonic": "Шоколад стимулирует мозг, как бодрый стих мула про энергию — вот тебе stimulate."
     },
     {
       "term": "creamy texture",
       "translation": "кремовая текстура",
-      "example": "The chocolate has a delicious creamy texture that melts on the tongue."
+      "example": "The chocolate has a delicious creamy texture that melts on the tongue.",
+      "keyword": "Крым",
+      "mnemonic": "Кремовая текстура тает, как мороженое из Крыма — вот тебе creamy texture."
     },
     {
       "term": "bitter",
       "translation": "горький",
-      "example": "Dark chocolate is quite bitter because it has less sugar."
+      "example": "Dark chocolate is quite bitter because it has less sugar.",
+      "keyword": "бита",
+      "mnemonic": "Горький шоколад без сахара хочется бить битой — вот тебе bitter."
     },
     {
       "term": "melt on the tongue",
       "translation": "таять во рту",
-      "example": "High-quality chocolate should melt on the tongue slowly."
+      "example": "High-quality chocolate should melt on the tongue slowly.",
+      "keyword": "мелочь тонко",
+      "mnemonic": "Таять во рту должна мелочь, тонко нарезанная, — вот тебе melt on the tongue."
     },
     {
       "term": "salty",
       "translation": "солёный",
-      "example": "I love crisps, especially when they're really salty."
+      "example": "I love crisps, especially when they're really salty.",
+      "keyword": "сальто",
+      "mnemonic": "Солёные чипсы крутят сальто в пачке — вот тебе salty."
     },
     {
       "term": "spicy",
       "translation": "острый, пряный",
-      "example": "This sauce has a strong taste that gives a pleasant burning feeling — it's spicy."
+      "example": "This sauce has a strong taste that gives a pleasant burning feeling — it's spicy.",
+      "keyword": "спицы",
+      "mnemonic": "Острый и пряный соус жжёт, будто уколоться спицей — вот тебе spicy."
     },
     {
       "term": "rich",
       "translation": "насыщенный, жирный (о еде)",
-      "example": "Chocolate cake is rich — it contains a lot of butter and cream."
+      "example": "Chocolate cake is rich — it contains a lot of butter and cream.",
+      "keyword": "рычит",
+      "mnemonic": "Насыщенный жирный торт такой мощный, что лев рычит — вот тебе rich."
     },
     {
       "term": "filling",
       "translation": "сытный",
-      "example": "A stew with potatoes is very filling — it makes you feel full."
+      "example": "A stew with potatoes is very filling — it makes you feel full.",
+      "keyword": "филин",
+      "mnemonic": "Сытным рагу наелся даже филин и лопнул — вот тебе filling."
     },
     {
       "term": "oily",
       "translation": "маслянистый, жирный",
-      "example": "Fried food is often covered in oil — it's quite oily."
+      "example": "Fried food is often covered in oil — it's quite oily.",
+      "keyword": "ой ли",
+      "mnemonic": "Маслянистая жареная еда — «ой ли это полезно?» — вот тебе oily."
     },
     {
       "term": "sweet",
       "translation": "сладкий",
-      "example": "Sweet, melted marshmallow on top of chocolate and crackers."
+      "example": "Sweet, melted marshmallow on top of chocolate and crackers.",
+      "keyword": "свет",
+      "mnemonic": "Сладкий маршмэллоу светится на шоколаде — вот тебе sweet."
     },
     {
       "term": "melted",
       "translation": "расплавленный, растопленный",
-      "example": "Sweet, melted marshmallow on top of the crackers."
+      "example": "Sweet, melted marshmallow on top of the crackers.",
+      "keyword": "мельтешит",
+      "mnemonic": "Расплавленный маршмэллоу мельтешит на крекере — вот тебе melted."
     },
     {
       "term": "crunchy",
       "translation": "хрустящий",
-      "example": "The crackers are sweet and crunchy."
+      "example": "The crackers are sweet and crunchy.",
+      "keyword": "кран чинит",
+      "mnemonic": "Сладкие хрустящие крекеры, пока мастер кран чинит — вот тебе crunchy."
     },
     {
       "term": "gooey",
       "translation": "тягучий, липкий",
-      "example": "The marshmallows are gooey and very messy to eat."
+      "example": "The marshmallows are gooey and very messy to eat.",
+      "keyword": "гусь",
+      "mnemonic": "Тягучий липкий маршмэллоу липнет, как гусь к рукам — вот тебе gooey."
     },
     {
       "term": "sugary",
       "translation": "сахаристый, приторный",
-      "example": "The topping on the dessert is extremely sugary."
+      "example": "The topping on the dessert is extremely sugary.",
+      "keyword": "сухари",
+      "mnemonic": "Приторная сахаристая глазурь слаще сухарей в сахаре — вот тебе sugary."
     },
     {
       "term": "cheesy",
       "translation": "сырный",
-      "example": "My comfort food is cheesy pasta."
+      "example": "My comfort food is cheesy pasta.",
+      "keyword": "чешет",
+      "mnemonic": "Сырная паста так вкусна, что кот чешет за ухом — вот тебе cheesy."
     },
     {
       "term": "fruity",
       "translation": "фруктовый",
-      "example": "This tea has a light fruity flavour."
+      "example": "This tea has a light fruity flavour.",
+      "keyword": "прутик",
+      "mnemonic": "Лёгкий фруктовый чай с прутиком вместо ложки — вот тебе fruity."
     },
     {
       "term": "juicy",
       "translation": "сочный",
-      "example": "The burger was juicy and full of flavour."
+      "example": "The burger was juicy and full of flavour.",
+      "keyword": "жуёт",
+      "mnemonic": "Сочный бургер жуёт великан с наслаждением — вот тебе juicy."
     },
     {
       "term": "minty",
       "translation": "мятный",
-      "example": "Minty chewing gum freshens your breath."
+      "example": "Minty chewing gum freshens your breath.",
+      "keyword": "менты",
+      "mnemonic": "Мятная жвачка освежает даже ментов на посту — вот тебе minty."
     },
     {
       "term": "nutty",
       "translation": "ореховый",
-      "example": "The cake has a pleasant nutty taste."
+      "example": "The cake has a pleasant nutty taste.",
+      "keyword": "ноты",
+      "mnemonic": "Приятный ореховый вкус поёт ноты фундука — вот тебе nutty."
     },
     {
       "term": "peppery",
       "translation": "перечный, с остринкой",
-      "example": "The salad has a peppery kick."
+      "example": "The salad has a peppery kick.",
+      "keyword": "пепел",
+      "mnemonic": "Салат с перечной остринкой, будто пепел на языке — вот тебе peppery."
     },
     {
       "term": "doughy",
       "translation": "тестообразный, непропечённый",
-      "example": "The pizza base was thick and doughy."
+      "example": "The pizza base was thick and doughy.",
+      "keyword": "дрыхнет",
+      "mnemonic": "Толстая непропечённая основа, на которой дрыхнет кот, — тестообразная, doughy."
     },
     {
       "term": "lemony",
       "translation": "лимонный",
-      "example": "The dessert had a fresh lemony flavour."
+      "example": "The dessert had a fresh lemony flavour.",
+      "keyword": "лемур",
+      "mnemonic": "Свежий лимонный десерт украл лемур — вот тебе lemony."
     }
   ]
 }

@@ -5,12 +5,16 @@
     {
       "idiom": "preaching to the choir",
       "translation": "агитировать среди своих",
-      "example": "Telling them is preaching to the choir."
+      "example": "Telling them is preaching to the choir.",
+      "keyword": "сквер",
+      "mnemonic": "Им рассказывать — агитировать среди своих: проповедуй в сквере: preaching to the choir."
     },
     {
       "idiom": "the elephant in the room",
       "translation": "очевидная, но неозвученная проблема",
-      "example": "Privacy is the elephant in the room."
+      "example": "Privacy is the elephant in the room.",
+      "keyword": "рум-тур",
+      "mnemonic": "Приватность — слон в комнате: устрой рум-тур: elephant in the room."
     }
   ]
 }

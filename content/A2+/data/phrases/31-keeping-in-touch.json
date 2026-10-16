@@ -2,11 +2,68 @@
   "lessonId": "keeping-in-touch",
   "title": "Keeping in touch — фразы",
   "items": [
-    { "phrase": "I've just...", "translation": "Я только что...", "example": "I've just sent you an email with the details." },
-    { "phrase": "Have you... yet?", "translation": "Ты уже...?", "example": "Have you replied to her message yet?" },
-    { "phrase": "I've already...", "translation": "Я уже...", "example": "I've already texted him about the meeting." },
-    { "phrase": "I haven't... yet", "translation": "Я ещё не...", "example": "I haven't checked my emails yet today." },
-    { "phrase": "Have you ever...?", "translation": "Ты когда-нибудь...?", "example": "Have you ever made a video call before?" },
-    { "phrase": "Keep me posted", "translation": "Держи меня в курсе", "example": "Keep me posted about the project updates." }
+    {
+      "phrase": "I've just...",
+      "translation": "Я только что...",
+      "example": "I've just sent you an email with the details.",
+      "keyword": "жест",
+      "mnemonic": "Секретарь показывает жест «только что» — I've just... — Я только что отправил письмо с деталями."
+    },
+    {
+      "phrase": "Have you... yet?",
+      "translation": "Ты уже...?",
+      "example": "Have you replied to her message yet?",
+      "keyword": "йети",
+      "mnemonic": "Йети с телефоном пытает Have you... yet? — Ты уже ответил на её сообщение."
+    },
+    {
+      "phrase": "I've already...",
+      "translation": "Я уже...",
+      "example": "I've already texted him about the meeting.",
+      "keyword": "редис",
+      "mnemonic": "Гонец с редисом докладывает I've already... — Я уже написал ему про встречу."
+    },
+    {
+      "phrase": "I haven't... yet",
+      "translation": "Я ещё не...",
+      "example": "I haven't checked my emails yet today.",
+      "keyword": "хоббит",
+      "mnemonic": "Хоббит без почты ворчит I haven't... yet — Я ещё не проверял почту сегодня."
+    },
+    {
+      "phrase": "Have you ever...?",
+      "translation": "Ты когда-нибудь...?",
+      "example": "Have you ever made a video call before?",
+      "keyword": "эхо",
+      "mnemonic": "Эхо по видеосвязи переспрашивает Have you ever...? — Ты когда-нибудь звонил по видео раньше."
+    },
+    {
+      "phrase": "Keep me posted",
+      "translation": "Держи меня в курсе",
+      "example": "Keep me posted about the project updates.",
+      "keyword": "пост",
+      "mnemonic": "Админ с постом апдейтов — Keep me posted, Держи меня в курсе проекта."
+    },
+    {
+      "phrase": "Have you already decided where to go?",
+      "translation": "Ты уже решил, куда поехать?",
+      "example": "I need to organise my holiday. Have you already decided where to go?",
+      "keyword": "десант",
+      "mnemonic": "Отпускник-десантник пытает Have you already decided where to go? — Ты уже решил, куда поехать, надо организовать отпуск."
+    },
+    {
+      "phrase": "I haven't booked the tickets yet",
+      "translation": "Я ещё не забронировал билеты",
+      "example": "Have you already decided where to go? Yes, but I haven't booked the tickets yet.",
+      "keyword": "буклет",
+      "mnemonic": "Турист с буклетом без билетов — I haven't booked the tickets yet, Я ещё не забронировал билеты."
+    },
+    {
+      "phrase": "I've just bought a new car",
+      "translation": "Я только что купил новую машину",
+      "example": "I've just bought a new car.",
+      "keyword": "бот",
+      "mnemonic": "Бот-автодилер хвастает I've just bought a new car — Я только что купил новую машину."
+    }
   ]
 }

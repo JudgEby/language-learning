@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "theres-a-problem"
     ]
+  },
+  {
+    "question": "Which word means 'журналист'?",
+    "options": [
+      "journalist",
+      "I deal with…",
+      "The best thing about... is...",
+      "good enough"
+    ],
+    "correctIndex": 0,
+    "explanation": "'journalist' means журналист. Example: She works as a journalist for a local newspaper.",
+    "relatedRuleIds": [
+      "risky-business"
+    ],
+    "id": "c3e4e0c71207"
+  },
+  {
+    "question": "Which word means 'вредная еда, фастфуд'?",
+    "options": [
+      "You shouldn't…",
+      "If I won the lottery, I would...",
+      "You could always…",
+      "junk food"
+    ],
+    "correctIndex": 3,
+    "explanation": "'junk food' means вредная еда, фастфуд. Example: I try to avoid junk food and eat more vegetables.",
+    "relatedRuleIds": [
+      "keeping-fit"
+    ],
+    "id": "59cb227a38df"
+  },
+  {
+    "question": "Choose the correct collocation: What I like about this city is the friendly atmosphere.",
+    "options": [
+      "vegan",
+      "make an effort",
+      "What I like about... is...",
+      "It might be…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'What I like about... is...' (Что мне нравится в... — это...). Full sentence: What I like about this city is the friendly atmosphere.",
+    "relatedRuleIds": [
+      "top-cities"
+    ],
+    "id": "9380770f2d8a"
   }
 ]

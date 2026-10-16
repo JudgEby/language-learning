@@ -1,0 +1,132 @@
+{
+  "lessonId": "pre-loved",
+  "title": "7C Pre-loved — Преувеличение в речи",
+  "items": [
+    {
+      "phrase": "take forever to find",
+      "translation": "искать целую вечность",
+      "example": "You take forever to find something you want in this shop.",
+      "keyword": "форева",
+      "mnemonic": "Продавец тянет «форева», и ты будешь искать целую вечность нужный размер, — форева длится take forever to find."
+    },
+    {
+      "phrase": "my feet are killing me",
+      "translation": "ноги отваливаются",
+      "example": "My feet are killing me after all that walking around the market.",
+      "keyword": "килька",
+      "mnemonic": "Ноги гудят, будто в туфлях бьётся килька: ноги отваливаются после рынка, — килька дёргается в my feet are killing me."
+    },
+    {
+      "phrase": "I'm starving",
+      "translation": "умираю с голоду",
+      "example": "I'm starving, let's grab something to eat right now.",
+      "keyword": "ставни",
+      "mnemonic": "Живот урчит и хлопает ставнями: я умираю с голоду, — ставни гремят I'm starving."
+    },
+    {
+      "phrase": "eat a horse",
+      "translation": "съесть быка (очень голоден)",
+      "example": "I could eat a horse after that long shopping trip.",
+      "keyword": "хор",
+      "mnemonic": "Голодный хор мычит басом: готов съесть быка после шопинга, — хор поёт eat a horse."
+    },
+    {
+      "phrase": "die of embarrassment",
+      "translation": "умереть со стыда",
+      "example": "I'd die of embarrassment if I wore that to the party.",
+      "keyword": "эмбарго",
+      "mnemonic": "На этот наряд наложили эмбарго позора: можно умереть со стыда, — эмбарго давит die of embarrassment."
+    },
+    {
+      "phrase": "wouldn't be seen dead in",
+      "translation": "не надену даже под страхом смерти",
+      "example": "I wouldn't be seen dead in a pop band T-shirt.",
+      "keyword": "дед",
+      "mnemonic": "Даже дед открестился: он не надену даже под страхом смерти эту майку, — дед ворчит wouldn't be seen dead in."
+    },
+    {
+      "phrase": "cost a fortune",
+      "translation": "стоить целое состояние",
+      "example": "I bet that leather jacket cost a fortune when it was new.",
+      "keyword": "фортуна",
+      "mnemonic": "Куртка крутанула колесо фортуны: она стоит целое состояние, — фортуна звенит cost a fortune."
+    },
+    {
+      "phrase": "ten sizes too small",
+      "translation": "размеров на десять меньше",
+      "example": "These jeans are about ten sizes too small for me.",
+      "keyword": "сайз",
+      "mnemonic": "Джинсы кричат «сайз не тот»: они размеров на десять меньше, — сайз жмёт ten sizes too small."
+    },
+    {
+      "phrase": "told you a million times",
+      "translation": "говорил миллион раз",
+      "example": "I've told you a million times, I don't like denim jackets.",
+      "keyword": "миля",
+      "mnemonic": "Он прошагал целую милю нотаций: говорил миллион раз про деним, — миля тянется told you a million times."
+    },
+    {
+      "phrase": "nothing better than shopping",
+      "translation": "нет ничего лучше шопинга",
+      "example": "There's nothing better than shopping at a vintage store.",
+      "keyword": "беттер",
+      "mnemonic": "Продавец суёт беттер-купон: нет ничего лучше шопинга в винтажке, — беттер манит nothing better than shopping."
+    },
+    {
+      "phrase": "like finding a needle in a haystack",
+      "translation": "как искать иголку в стоге сена",
+      "example": "Finding my size here is like finding a needle in a haystack.",
+      "keyword": "нидл",
+      "mnemonic": "Портной уронил нидл в сено: это как искать иголку в стоге сена, — нидл потерялся в like finding a needle in a haystack."
+    },
+    {
+      "phrase": "green with envy",
+      "translation": "позеленеть от зависти",
+      "example": "You'll be literally green with envy when you see my new bag.",
+      "keyword": "грин",
+      "mnemonic": "Сумка цвета грин заставила позеленеть от зависти всех подруг, — грин сияет green with envy."
+    },
+    {
+      "phrase": "look lived in",
+      "translation": "выглядеть поношенным",
+      "example": "I want a jacket that looks lived in, not brand new.",
+      "keyword": "ливень",
+      "mnemonic": "Куртка пережила ливень и стала выглядеть поношенным шиком, — ливень мочил look lived in."
+    },
+    {
+      "phrase": "bump into the previous owner",
+      "translation": "наткнуться на прежнего владельца",
+      "example": "I might bump into the previous owner wearing my jacket.",
+      "keyword": "бампер",
+      "mnemonic": "В толпе толкнул чей-то бампер-пиджак: боялся наткнуться на прежнего владельца, — бампер стукнул bump into the previous owner."
+    },
+    {
+      "phrase": "save money",
+      "translation": "экономить",
+      "example": "By buying a pre-loved outfit you can save money.",
+      "keyword": "сейв",
+      "mnemonic": "Покупатель жмёт сейв на кошельке, чтобы экономить на винтаже, — сейв хранит save money."
+    },
+    {
+      "phrase": "give it a second chance",
+      "translation": "дать второй шанс",
+      "example": "Buy pre-loved and give the outfit a second chance.",
+      "keyword": "секонд",
+      "mnemonic": "Вещь из секонда просит дать второй шанс на жизнь, — секонд шепчет give it a second chance."
+    },
+    {
+      "phrase": "pay full price",
+      "translation": "платить полную цену",
+      "example": "There is no need to pay full price for gym equipment.",
+      "keyword": "прайс",
+      "mnemonic": "На ценнике жирный прайс: придётся платить полную цену за тренажёр, — прайс кусает pay full price."
+    },
+    {
+      "phrase": "in great condition",
+      "translation": "в отличном состоянии",
+      "example": "Look for used items in excellent condition on sale locally.",
+      "keyword": "кондиционер",
+      "mnemonic": "Секонд пахнет кондиционером: вещь в отличном состоянии как новая, — кондиционер морозит in great condition."
+    }
+  ]
+}

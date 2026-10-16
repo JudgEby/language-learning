@@ -2,17 +2,89 @@
   "lessonId": "low-tech-solutions",
   "title": "Low-tech solutions — новые слова",
   "items": [
-    { "term": "gadget", "translation": "гаджет, устройство", "example": "I love buying new gadgets for my kitchen." },
-    { "term": "invention", "translation": "изобретение", "example": "The wheel is one of the most important inventions in history." },
-    { "term": "technology", "translation": "технология", "example": "Technology has changed the way we communicate." },
-    { "term": "low-tech", "translation": "низкотехнологичный, простой", "example": "They came up with a low-tech solution to the problem." },
-    { "term": "electricity", "translation": "электричество", "example": "Many villages still have no access to electricity." },
-    { "term": "solar power", "translation": "солнечная энергия", "example": "Solar power is a clean and renewable source of energy." },
-    { "term": "washing machine", "translation": "стиральная машина", "example": "The washing machine has saved people hours of hard work." },
-    { "term": "vaccination", "translation": "вакцинация", "example": "Vaccinations have saved millions of lives around the world." },
-    { "term": "antibiotics", "translation": "антибиотики", "example": "Antibiotics are used to fight bacterial infections." },
-    { "term": "nuclear power", "translation": "атомная энергия", "example": "Some countries rely heavily on nuclear power for electricity." },
-    { "term": "commercial aeroplane", "translation": "пассажирский самолёт", "example": "The first commercial aeroplanes changed travel forever." },
-    { "term": "communications satellite", "translation": "спутник связи", "example": "Communications satellites make global television possible." }
+    {
+      "term": "gadget",
+      "translation": "гаджет, устройство",
+      "example": "I love buying new gadgets for my kitchen.",
+      "keyword": "гаджет",
+      "mnemonic": "Гаджет-кухня пищит: I love gadgets — обожаю гаджеты и устройства для кухни."
+    },
+    {
+      "term": "invention",
+      "translation": "изобретение",
+      "example": "The wheel is one of the most important inventions in history.",
+      "keyword": "инвеншн",
+      "mnemonic": "Инвеншн-колесо катится: the wheel is an invention — изобретение, важнейшее в истории."
+    },
+    {
+      "term": "technology",
+      "translation": "технология",
+      "example": "Technology has changed the way we communicate.",
+      "keyword": "текнолоджи",
+      "mnemonic": "Текнолоджи-антенна гудит: technology changed — технология изменила общение."
+    },
+    {
+      "term": "low-tech",
+      "translation": "низкотехнологичный, простой",
+      "example": "They came up with a low-tech solution to the problem.",
+      "keyword": "лоу-тек",
+      "mnemonic": "Лоу-тек изолента держит: they came up with low-tech — низкотехнологичное, простое решение."
+    },
+    {
+      "term": "electricity",
+      "translation": "электричество",
+      "example": "Many villages still have no access to electricity.",
+      "keyword": "электрисити",
+      "mnemonic": "Электрисити-искра трещит: villages have no electricity — электричества нет в деревне."
+    },
+    {
+      "term": "solar power",
+      "translation": "солнечная энергия",
+      "example": "Solar power is a clean and renewable source of energy.",
+      "keyword": "солар, пауэр",
+      "mnemonic": "Солар-пауэр-батарея на крыше: solar power — солнечная энергия, чистая и вечная."
+    },
+    {
+      "term": "washing machine",
+      "translation": "стиральная машина",
+      "example": "The washing machine has saved people hours of hard work.",
+      "keyword": "вошинг, машин",
+      "mnemonic": "Вошинг-машина-спаситель гудит: the washing machine — стиральная машина сэкономила часы труда."
+    },
+    {
+      "term": "vaccination",
+      "translation": "вакцинация",
+      "example": "Vaccinations have saved millions of lives around the world.",
+      "keyword": "вакцинация",
+      "mnemonic": "Вакцинация-шприц щёлкает: vaccinations saved — вакцинация спасла миллионы жизней."
+    },
+    {
+      "term": "antibiotics",
+      "translation": "антибиотики",
+      "example": "Antibiotics are used to fight bacterial infections.",
+      "keyword": "антибиотик",
+      "mnemonic": "Антибиотик-капсула борется: antibiotics fight — антибиотики бьют бактериальные инфекции."
+    },
+    {
+      "term": "nuclear power",
+      "translation": "атомная энергия",
+      "example": "Some countries rely heavily on nuclear power for electricity.",
+      "keyword": "нуклеар, пауэр",
+      "mnemonic": "Нуклеар-пауэр-реактор гудит: countries rely on nuclear power — атомную энергию для света."
+    },
+    {
+      "term": "commercial aeroplane",
+      "translation": "пассажирский самолёт",
+      "example": "The first commercial aeroplanes changed travel forever.",
+      "keyword": "коммершл, аэроплан",
+      "mnemonic": "Коммершл-аэроплан взлетает: the first commercial aeroplanes — пассажирские самолёты изменили travel."
+    },
+    {
+      "term": "communications satellite",
+      "translation": "спутник связи",
+      "example": "Communications satellites make global television possible.",
+      "keyword": "сателлайт",
+      "mnemonic": "Сателлайт-тарелка в небе: communications satellites — спутники связи дают глобальное ТВ."
+    }
   ]
 }

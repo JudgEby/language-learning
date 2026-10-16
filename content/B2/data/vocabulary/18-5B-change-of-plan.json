@@ -5,12 +5,16 @@
     {
       "term": "career path",
       "translation": "карьерный путь",
-      "example": "His career path took an unexpected turn."
+      "example": "His career path took an unexpected turn.",
+      "keyword": "карьер",
+      "mnemonic": "Его карьерный путь свернул — угодил в карьер: career path took an unexpected turn."
     },
     {
       "term": "freelance",
       "translation": "фриланс",
-      "example": "She went freelance after ten years in-house."
+      "example": "She went freelance after ten years in-house.",
+      "keyword": "фрилансер",
+      "mnemonic": "Ушла во фриланс — теперь она фрилансер с котом на коленях: went freelance."
     },
     {
       "term": "redundancy",
@@ -20,12 +24,58 @@
     {
       "term": "sector",
       "translation": "сектор",
-      "example": "The tech sector is growing fast."
+      "example": "The tech sector is growing fast.",
+      "keyword": "секта",
+      "mnemonic": "Техносектор растёт быстро — почти секта: tech sector is growing fast."
     },
     {
       "term": "aspiration",
       "translation": "стремление, амбиция",
-      "example": "Young people's aspirations are changing."
+      "example": "Young people's aspirations are changing.",
+      "keyword": "аспирин",
+      "mnemonic": "Стремления молодёжи меняются — от аспирина к стартапам: aspirations are changing."
+    },
+    {
+      "term": "reinvent",
+      "translation": "переизобрести себя",
+      "example": "She reinvented herself at forty.",
+      "keyword": "реинкарнация",
+      "mnemonic": "Переизобрела себя в сорок — реинкарнация в тех же джинсах: reinvented herself."
+    },
+    {
+      "term": "retrain",
+      "translation": "переквалифицироваться",
+      "example": "He retrained as an accountant.",
+      "keyword": "ретрит",
+      "mnemonic": "Переквалифицировался в бухгалтеры после ретрита: retrained as an accountant."
+    },
+    {
+      "term": "set up",
+      "translation": "основать, открыть",
+      "example": "She set up her own business.",
+      "keyword": "сетап",
+      "mnemonic": "Открыла свой бизнес — сетап из ноутбука и кота: set up her own business."
+    },
+    {
+      "term": "start out",
+      "translation": "начинать карьеру",
+      "example": "He started out as an investment banker.",
+      "keyword": "стартёр",
+      "mnemonic": "Начинал карьеру инвестбанкиром — крутил стартёр: started out as a banker."
+    },
+    {
+      "term": "advance",
+      "translation": "продвигать, развивать",
+      "example": "Courses help you advance your career.",
+      "keyword": "аванс",
+      "mnemonic": "Курсы помогают двигать карьеру — бери авансом: help you advance your career."
+    },
+    {
+      "term": "portfolio career",
+      "translation": "портфельная карьера",
+      "example": "A portfolio career suits creative people.",
+      "keyword": "портфолио",
+      "mnemonic": "Портфельная карьера подходит творческим — портфолио вместо трудовой: portfolio career."
     }
   ]
 }

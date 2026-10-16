@@ -2,17 +2,89 @@
   "lessonId": "can-i-help-you",
   "title": "Can I help you? — фразы",
   "items": [
-    { "phrase": "Can I help you?", "translation": "Вам помочь?", "example": "Can I help you? — Yes, I'd like a sweater, please." },
-    { "phrase": "Can I help you find anything?", "translation": "Помочь вам что-нибудь найти?", "example": "Can I help you find anything? — I'm looking for trainers." },
-    { "phrase": "I'm looking for ...", "translation": "Я ищу ...", "example": "I'm looking for a T-shirt, size M." },
-    { "phrase": "I'd like ... , please", "translation": "Мне нужен ... , пожалуйста", "example": "I'd like a jacket, please." },
-    { "phrase": "Have you got it in ...?", "translation": "У вас есть это в ... ?", "example": "Have you got it in a bigger size / in blue?" },
-    { "phrase": "How much is it?", "translation": "Сколько это стоит?", "example": "How much is it? — It's fifteen euros." },
-    { "phrase": "It's too ...", "translation": "Слишком ...", "example": "It's too small / too expensive for me." },
-    { "phrase": "That's fine. I'll take it.", "translation": "Хорошо. Я беру.", "example": "That's fine. I'll take it." },
-    { "phrase": "I'll have this one", "translation": "Я возьму этот", "example": "I'll have this one, please." },
-    { "phrase": "I'll think about it, thanks", "translation": "Я подумаю, спасибо", "example": "It's fifty euros. — I'll think about it, thanks." },
-    { "phrase": "How can I help you?", "translation": "Как я могу вам помочь?", "example": "The shop assistant asks: How can I help you?" },
-    { "phrase": "buy it online", "translation": "купить онлайн", "example": "It's cheaper to buy these trainers online." }
+    {
+      "phrase": "Can I help you?",
+      "translation": "Вам помочь?",
+      "example": "Can I help you? — Yes, I'd like a sweater, please.",
+      "keyword": "хлеб",
+      "mnemonic": "Продавец с хлебом: can I help you — вам помочь."
+    },
+    {
+      "phrase": "Can I help you find anything?",
+      "translation": "Помочь вам что-нибудь найти?",
+      "example": "Can I help you find anything? — I'm looking for trainers.",
+      "keyword": "фантик",
+      "mnemonic": "Продавец машет фантиком: can I help you find anything — помочь что-нибудь найти."
+    },
+    {
+      "phrase": "I'm looking for ...",
+      "translation": "Я ищу ...",
+      "example": "I'm looking for a T-shirt, size M.",
+      "keyword": "лук",
+      "mnemonic": "Покупатель с луком: I'm looking for a T-shirt — я ищу футболку."
+    },
+    {
+      "phrase": "I'd like ... , please",
+      "translation": "Мне нужен ... , пожалуйста",
+      "example": "I'd like a jacket, please.",
+      "keyword": "лайк",
+      "mnemonic": "Покупатель жмёт лайк на куртке: I'd like a jacket — мне нужна куртка."
+    },
+    {
+      "phrase": "Have you got it in ...?",
+      "translation": "У вас есть это в ... ?",
+      "example": "Have you got it in a bigger size / in blue?",
+      "keyword": "гот",
+      "mnemonic": "Гот спрашивает have you got it in blue — у вас есть это в синем."
+    },
+    {
+      "phrase": "How much is it?",
+      "translation": "Сколько это стоит?",
+      "example": "How much is it? — It's fifteen euros.",
+      "keyword": "мачо",
+      "mnemonic": "Мачо смотрит на ценник: how much is it — сколько это стоит."
+    },
+    {
+      "phrase": "It's too ...",
+      "translation": "Слишком ...",
+      "example": "It's too small / too expensive for me.",
+      "keyword": "туфли",
+      "mnemonic": "Туфли жмут: it's too small — слишком маленькие."
+    },
+    {
+      "phrase": "That's fine. I'll take it.",
+      "translation": "Хорошо. Я беру.",
+      "example": "That's fine. I'll take it.",
+      "keyword": "фанат",
+      "mnemonic": "Фанат хватает: that's fine, I'll take it — хорошо, я беру."
+    },
+    {
+      "phrase": "I'll have this one",
+      "translation": "Я возьму этот",
+      "example": "I'll have this one, please.",
+      "keyword": "хэв",
+      "mnemonic": "Покупатель кричит «хэв!»: I'll have this one — я возьму этот."
+    },
+    {
+      "phrase": "I'll think about it, thanks",
+      "translation": "Я подумаю, спасибо",
+      "example": "It's fifty euros. — I'll think about it, thanks.",
+      "keyword": "синтезатор",
+      "mnemonic": "Покупатель чешет синтезатор: I'll think about it — я подумаю."
+    },
+    {
+      "phrase": "How can I help you?",
+      "translation": "Как я могу вам помочь?",
+      "example": "The shop assistant asks: How can I help you?",
+      "keyword": "конь",
+      "mnemonic": "Конь-продавец спрашивает how can I help you — как я могу вам помочь."
+    },
+    {
+      "phrase": "buy it online",
+      "translation": "купить онлайн",
+      "example": "It's cheaper to buy these trainers online.",
+      "keyword": "олень",
+      "mnemonic": "Олень кликает buy it online — купить онлайн."
+    }
   ]
 }

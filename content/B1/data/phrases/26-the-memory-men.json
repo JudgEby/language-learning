@@ -2,13 +2,61 @@
   "lessonId": "the-memory-men",
   "title": "The memory men — фразы",
   "items": [
-    { "phrase": "I can…", "translation": "Я умею…", "example": "I can speak three languages." },
-    { "phrase": "I could… when I was…", "translation": "Я умел… когда мне было…", "example": "I could ride a bike when I was four." },
-    { "phrase": "I've never been able to…", "translation": "Я никогда не умел…", "example": "I've never been able to play a musical instrument." },
-    { "phrase": "I managed to…", "translation": "Мне удалось…", "example": "I managed to finish the puzzle in ten minutes." },
-    { "phrase": "I'm good at…", "translation": "Я хорошо умею…", "example": "I'm good at remembering faces." },
-    { "phrase": "I'm hopeless at…", "translation": "Я безнадёжен в…", "example": "I'm hopeless at directions." },
-    { "phrase": "He has a talent for…", "translation": "У него талант к…", "example": "He has a talent for drawing." },
-    { "phrase": "I wasn't able to…", "translation": "Я не смог…", "example": "I wasn't able to get tickets for the concert." }
+    {
+      "phrase": "I can…",
+      "translation": "Я умею…",
+      "example": "I can speak three languages.",
+      "keyword": "кэн",
+      "mnemonic": "Кэн-три языка: I can speak — я умею говорить на трёх языках."
+    },
+    {
+      "phrase": "I could… when I was…",
+      "translation": "Я умел… когда мне было…",
+      "example": "I could ride a bike when I was four.",
+      "keyword": "куд",
+      "mnemonic": "Куд-велик в четыре: I could ride when I was four — я умел кататься, когда мне было четыре."
+    },
+    {
+      "phrase": "I've never been able to…",
+      "translation": "Я никогда не умел…",
+      "example": "I've never been able to play a musical instrument.",
+      "keyword": "эйбл",
+      "mnemonic": "Эйбл-инструмент молчит: I've never been able — я никогда не умел играть на инструменте."
+    },
+    {
+      "phrase": "I managed to…",
+      "translation": "Мне удалось…",
+      "example": "I managed to finish the puzzle in ten minutes.",
+      "keyword": "мэнеджд",
+      "mnemonic": "Мэнеджд-пазл за десять минут: I managed to finish — мне удалось собрать пазл."
+    },
+    {
+      "phrase": "I'm good at…",
+      "translation": "Я хорошо умею…",
+      "example": "I'm good at remembering faces.",
+      "keyword": "гудэт",
+      "mnemonic": "Гуд-эт-лица помню: I'm good at remembering — я хорошо умею запоминать лица."
+    },
+    {
+      "phrase": "I'm hopeless at…",
+      "translation": "Я безнадёжен в…",
+      "example": "I'm hopeless at directions.",
+      "keyword": "хоуплесс",
+      "mnemonic": "Хоуплесс-стороны света: I'm hopeless at directions — я безнадёжен в ориентировании."
+    },
+    {
+      "phrase": "He has a talent for…",
+      "translation": "У него талант к…",
+      "example": "He has a talent for drawing.",
+      "keyword": "талент",
+      "mnemonic": "Талент-рисунок в альбоме: he has a talent for drawing — у него талант к рисованию."
+    },
+    {
+      "phrase": "I wasn't able to…",
+      "translation": "Я не смог…",
+      "example": "I wasn't able to get tickets for the concert.",
+      "keyword": "эйбл",
+      "mnemonic": "Эйбл-билеты кончились: I wasn't able to get — я не смог достать билеты на концерт."
+    }
   ]
 }

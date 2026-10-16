@@ -178,5 +178,65 @@
     "relatedRuleIds": [
       "true-love"
     ]
+  },
+  {
+    "question": "Which word means 'жарить шашлыки/барбекю'?",
+    "options": [
+      "Could you please...?",
+      "What's your favourite type of film?",
+      "have a barbecue",
+      "sunscreen"
+    ],
+    "correctIndex": 2,
+    "explanation": "'have a barbecue' means жарить шашлыки/барбекю. Example: We had a barbecue in the garden last Sunday.",
+    "relatedRuleIds": [
+      "feeling-good"
+    ],
+    "id": "b0e9601c81ef"
+  },
+  {
+    "question": "Which word means 'улучшать(ся)'?",
+    "options": [
+      "If you had no money, what would you do?",
+      "lab-grown meat",
+      "improve",
+      "find a solution"
+    ],
+    "correctIndex": 2,
+    "explanation": "'improve' means улучшать(ся). Example: I want to improve my listening skills.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ],
+    "id": "7d999aa0e3ef"
+  },
+  {
+    "question": "Which word means 'выгодная покупка, сделка'?",
+    "options": [
+      "username",
+      "carry on",
+      "bargain",
+      "lend a hand"
+    ],
+    "correctIndex": 2,
+    "explanation": "'bargain' means выгодная покупка, сделка. Example: This coat was half price — a real bargain!",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ],
+    "id": "7cf7a7689b58"
+  },
+  {
+    "question": "Which word means 'актёрский состав'?",
+    "options": [
+      "theme park",
+      "Why don't you…?",
+      "cast",
+      "I report to…"
+    ],
+    "correctIndex": 2,
+    "explanation": "'cast' means актёрский состав. Example: The film has an all-star cast.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ],
+    "id": "beceed7904f3"
   }
 ]

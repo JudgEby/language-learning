@@ -5,27 +5,79 @@
     {
       "term": "stage fright",
       "translation": "страх сцены",
-      "example": "Even professionals get stage fright."
+      "example": "Even professionals get stage fright.",
+      "keyword": "стажёр",
+      "mnemonic": "Даже профи цепенеют, как стажёры в первый день, — stage fright, страх сцены."
     },
     {
       "term": "rehearsal",
       "translation": "репетиция",
-      "example": "We have a final rehearsal tomorrow."
+      "example": "We have a final rehearsal tomorrow.",
+      "keyword": "репер",
+      "mnemonic": "Завтра финальная репетиция — даже репер волнуется: final rehearsal."
     },
     {
       "term": "audition",
       "translation": "прослушивание",
-      "example": "She passed the audition easily."
+      "example": "She passed the audition easily.",
+      "keyword": "одишн",
+      "mnemonic": "Она прошла одишн легко — she passed the audition, прослушивание."
     },
     {
       "term": "improvise",
       "translation": "импровизировать",
-      "example": "Good actors can improvise when needed."
+      "example": "Good actors can improvise when needed.",
+      "keyword": "провизия",
+      "mnemonic": "Хороший актёр импровизирует даже без провизии слов — can improvise when needed."
     },
     {
       "term": "encore",
       "translation": "на бис",
-      "example": "The crowd demanded an encore."
+      "example": "The crowd demanded an encore.",
+      "keyword": "анкор",
+      "mnemonic": "Толпа требует encore — держись за этот крик, как за анкор: demanded an encore, на бис."
+    },
+    {
+      "term": "carry on",
+      "translation": "продолжать",
+      "example": "Just carry on and hope they stop.",
+      "keyword": "карри",
+      "mnemonic": "Жуй карри и продолжай шоу — just carry on, продолжай."
+    },
+    {
+      "term": "come up with",
+      "translation": "придумывать",
+      "example": "She came up with loads of jokes.",
+      "keyword": "компот",
+      "mnemonic": "Она напридумывала шуток, хлебнув компота, — came up with loads of jokes, придумывать."
+    },
+    {
+      "term": "live up to",
+      "translation": "соответствовать ожиданиям",
+      "example": "The show didn't live up to my expectations.",
+      "keyword": "ливень",
+      "mnemonic": "Шоу полило всех ливнем скуки и не выдержало ожиданий — didn't live up to expectations."
+    },
+    {
+      "term": "put up with",
+      "translation": "мириться",
+      "example": "Sorry you had to put up with a heckler.",
+      "keyword": "паб",
+      "mnemonic": "Мирился с хеклером весь вечер в пабе — put up with a heckler, мириться."
+    },
+    {
+      "term": "end up",
+      "translation": "оказаться в итоге",
+      "example": "I ended up running off stage.",
+      "keyword": "индейка",
+      "mnemonic": "В итоге удрал со сцены, как индейка от повара, — ended up running off stage, оказался в итоге."
+    },
+    {
+      "term": "fall back on",
+      "translation": "полагаться на запасной вариант",
+      "example": "You have experience to fall back on.",
+      "keyword": "бак",
+      "mnemonic": "Опыт — твой запасной бак: you have experience to fall back on, запасной вариант."
     }
   ]
 }

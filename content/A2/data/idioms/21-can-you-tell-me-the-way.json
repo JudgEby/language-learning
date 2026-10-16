@@ -2,12 +2,54 @@
   "lessonId": "can-you-tell-me-the-way",
   "title": "Can you tell me the way? — идиомы",
   "items": [
-    { "idiom": "get there", "translation": "добраться туда", "example": "How do I get there from here? — Take the number 5 bus." },
-    { "idiom": "take a wrong turning", "translation": "свернуть не туда", "example": "I think we took a wrong turning — the station is back there." },
-    { "idiom": "around the corner", "translation": "за углом, рядом", "example": "The museum is just around the corner from the station." },
-    { "idiom": "right in the heart of", "translation": "в самом центре", "example": "The market is right in the heart of the old town." },
-    { "idiom": "a stone's throw away", "translation": "близко, в двух шагах", "example": "The beach is a stone's throw away from the hotel." },
-    { "idiom": "on your doorstep", "translation": "у порога, под боком", "example": "There are three restaurants on your doorstep." },
-    { "idiom": "you'll come across it", "translation": "ты это встретишь", "example": "Go past the bank and you'll come across it on the left." }
+    {
+      "idiom": "get there",
+      "translation": "добраться туда",
+      "example": "How do I get there from here? — Take the number 5 bus.",
+      "keyword": "зебра",
+      "mnemonic": "Зебра знает get there — добраться туда."
+    },
+    {
+      "idiom": "take a wrong turning",
+      "translation": "свернуть не туда",
+      "example": "I think we took a wrong turning — the station is back there.",
+      "keyword": "торт",
+      "mnemonic": "Торт свернул take a wrong turning — свернуть не туда."
+    },
+    {
+      "idiom": "around the corner",
+      "translation": "за углом, рядом",
+      "example": "The museum is just around the corner from the station.",
+      "keyword": "корова",
+      "mnemonic": "Корова around the corner — за углом."
+    },
+    {
+      "idiom": "right in the heart of",
+      "translation": "в самом центре",
+      "example": "The market is right in the heart of the old town.",
+      "keyword": "харчо",
+      "mnemonic": "Рынок с харчо right in the heart — в самом центре."
+    },
+    {
+      "idiom": "a stone's throw away",
+      "translation": "близко, в двух шагах",
+      "example": "The beach is a stone's throw away from the hotel.",
+      "keyword": "стон",
+      "mnemonic": "Пляж без стона: a stone's throw away — близко, в двух шагах."
+    },
+    {
+      "idiom": "on your doorstep",
+      "translation": "у порога, под боком",
+      "example": "There are three restaurants on your doorstep.",
+      "keyword": "двор",
+      "mnemonic": "Рестораны во дворе on your doorstep — у порога."
+    },
+    {
+      "idiom": "you'll come across it",
+      "translation": "ты это встретишь",
+      "example": "Go past the bank and you'll come across it on the left.",
+      "keyword": "кросс",
+      "mnemonic": "Кросс через банк: you'll come across it — ты это встретишь."
+    }
   ]
 }

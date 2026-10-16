@@ -2,15 +2,75 @@
   "lessonId": "can-you-tell-me",
   "title": "Can you tell me — новые слова",
   "items": [
-    { "term": "library", "translation": "библиотека", "example": "I borrowed this book from the library." },
-    { "term": "cafeteria", "translation": "кафетерий, столовая", "example": "We had lunch at the school cafeteria." },
-    { "term": "reception", "translation": "ресепшен, стойка регистрации", "example": "Please check in at the reception." },
-    { "term": "sports centre", "translation": "спортивный центр", "example": "There's a sports centre with a swimming pool." },
-    { "term": "car park", "translation": "парковка", "example": "The car park is behind the building." },
-    { "term": "waiting room", "translation": "зал ожидания", "example": "Please have a seat in the waiting room." },
-    { "term": "lift / elevator", "translation": "лифт", "example": "Take the lift to the fifth floor." },
-    { "term": "toilet / restroom", "translation": "туалет", "example": "Excuse me, where is the restroom?" },
-    { "term": "entrance", "translation": "вход", "example": "The entrance is on the left side of the building." },
-    { "term": "exit", "translation": "выход", "example": "In case of fire, use the emergency exit." }
+    {
+      "term": "library",
+      "translation": "библиотека",
+      "example": "I borrowed this book from the library.",
+      "keyword": "лайка",
+      "mnemonic": "Громкая лайка гавкает в library — в библиотеке, охраняя книги от тишины."
+    },
+    {
+      "term": "cafeteria",
+      "translation": "кафетерий, столовая",
+      "example": "We had lunch at the school cafeteria.",
+      "keyword": "кафель",
+      "mnemonic": "Школьная cafeteria, кафетерий и столовая, вся выложена кафелем с пятнами супа."
+    },
+    {
+      "term": "reception",
+      "translation": "ресепшен, стойка регистрации",
+      "example": "Please check in at the reception.",
+      "keyword": "цепь",
+      "mnemonic": "На reception, на ресепшене и стойке регистрации, висит цепь с колокольчиком для гостей."
+    },
+    {
+      "term": "sports centre",
+      "translation": "спортивный центр",
+      "example": "There's a sports centre with a swimming pool.",
+      "keyword": "спроси",
+      "mnemonic": "Новичок спроси у охранника, где sports centre — спортивный центр с бассейном."
+    },
+    {
+      "term": "car park",
+      "translation": "парковка",
+      "example": "The car park is behind the building.",
+      "keyword": "карп",
+      "mnemonic": "Гигантский карп припарковался как car park — как парковка за зданием, заняв два места."
+    },
+    {
+      "term": "waiting room",
+      "translation": "зал ожидания",
+      "example": "Please have a seat in the waiting room.",
+      "keyword": "вейтер",
+      "mnemonic": "Сонный вейтер дремлет в waiting room — в зале ожидания, развалившись на трёх стульях."
+    },
+    {
+      "term": "lift / elevator",
+      "translation": "лифт",
+      "example": "Take the lift to the fifth floor.",
+      "keyword": "аллигатор",
+      "mnemonic": "Аллигатор застрял в lift / elevator — в лифте, и едет на пятый этаж стоя."
+    },
+    {
+      "term": "toilet / restroom",
+      "translation": "туалет",
+      "example": "Excuse me, where is the restroom?",
+      "keyword": "ресторан",
+      "mnemonic": "Турист перепутал ресторан с toilet / restroom — с туалетом, и спрашивает дорогу у официанта."
+    },
+    {
+      "term": "entrance",
+      "translation": "вход",
+      "example": "The entrance is on the left side of the building.",
+      "keyword": "транс",
+      "mnemonic": "Охранник впал в транс у entrance — у входа слева от здания, и указывает лапой."
+    },
+    {
+      "term": "exit",
+      "translation": "выход",
+      "example": "In case of fire, use the emergency exit.",
+      "keyword": "экзамен",
+      "mnemonic": "При пожаре бросай экзамен и беги к exit — к выходу, как велел пожарный."
+    }
   ]
 }

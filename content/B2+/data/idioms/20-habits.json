@@ -1,0 +1,104 @@
+{
+  "lessonId": "habits",
+  "title": "5D Habits — Идиомы: привычки и рутина",
+  "items": [
+    {
+      "idiom": "kick the habit",
+      "translation": "избавиться от привычки",
+      "example": "He finally kicked the habit of checking his phone at night.",
+      "keyword": "хэбит",
+      "mnemonic": "Ночью выкинул хэбит-телефон: он смог избавиться от привычки, — хэбит трещит kick the habit."
+    },
+    {
+      "idiom": "second nature",
+      "translation": "вторая натура",
+      "example": "After a month, getting up early became second nature.",
+      "keyword": "секонд",
+      "mnemonic": "Ранний подъём как секонд-рефлекс: он стал вторая натура, — секонд тикает second nature."
+    },
+    {
+      "idiom": "force of habit",
+      "translation": "сила привычки",
+      "example": "I locked the door out of force of habit.",
+      "keyword": "форс",
+      "mnemonic": "Дверь закрыл форс-автомат: сработала сила привычки, — форс щёлкает force of habit."
+    },
+    {
+      "idiom": "old habits die hard",
+      "translation": "старые привычки отмирают с трудом",
+      "example": "She still bites her nails — old habits die hard.",
+      "keyword": "хард",
+      "mnemonic": "Ногти грызёт хард-упрямец: старые привычки отмирают с трудом, — хард держится old habits die hard."
+    },
+    {
+      "idiom": "set in one's ways",
+      "translation": "закостенелый в своих привычках",
+      "example": "My grandfather is set in his ways and hates any change.",
+      "keyword": "сет",
+      "mnemonic": "Дед засел в сет-рутину: он закостенелый в своих привычках, — сет скрипит set in one's ways."
+    },
+    {
+      "idiom": "break the mould",
+      "translation": "сломать шаблон",
+      "example": "Travelling alone helped me break the mould.",
+      "keyword": "молд",
+      "mnemonic": "Поездка разбила молд-форму: она помогла сломать шаблон, — молд трещит break the mould."
+    },
+    {
+      "idiom": "shake things up",
+      "translation": "встряхнуть привычный порядок",
+      "example": "I decided to shake things up and cycle to work.",
+      "keyword": "шейк",
+      "mnemonic": "Велосипед устроил шейк-режим: он смог встряхнуть привычный порядок, — шейк трясёт shake things up."
+    },
+    {
+      "idiom": "get into the swing of things",
+      "translation": "войти в ритм",
+      "example": "It took me a week to get into the swing of things at the new job.",
+      "keyword": "свинг",
+      "mnemonic": "Неделя ушла на свинг-раскачку: я смог войти в ритм, — свинг качает get into the swing of things."
+    },
+    {
+      "idiom": "fall back into old habits",
+      "translation": "скатиться к старым привычкам",
+      "example": "After the holidays I fell back into old habits.",
+      "keyword": "фолбэк",
+      "mnemonic": "После отпуска случился фолбэк-откат: я смог скатиться к старым привычкам, — фолбэк тянет fall back into old habits."
+    },
+    {
+      "idiom": "turn over a new leaf",
+      "translation": "начать новую жизнь",
+      "example": "In January he turned over a new leaf and joined a gym.",
+      "keyword": "лиф",
+      "mnemonic": "В январе раскрыл лиф-календарь: он решил начать новую жизнь, — лиф шелестит turn over a new leaf."
+    },
+    {
+      "idiom": "a change of pace",
+      "translation": "смена темпа",
+      "example": "A weekend in the countryside was a welcome change of pace.",
+      "keyword": "пейс",
+      "mnemonic": "Выходные дали пейс-передышку: случилась смена темпа, — пейс тикает a change of pace."
+    },
+    {
+      "idiom": "day in, day out",
+      "translation": "изо дня в день",
+      "example": "She cooks the same meals day in, day out.",
+      "keyword": "дэй",
+      "mnemonic": "Кастрюли гремят дэй за дэем: она готовит изо дня в день, — дэй тянется day in, day out."
+    },
+    {
+      "idiom": "same old, same old",
+      "translation": "всё то же самое",
+      "example": "Every week at the office is the same old, same old.",
+      "keyword": "сейм",
+      "mnemonic": "В офисе крутят сейм-пластинку: там всё то же самое, — сейм заел same old, same old."
+    },
+    {
+      "idiom": "break the cycle",
+      "translation": "разорвать порочный круг",
+      "example": "Regular exercise helped her break the cycle of late nights.",
+      "keyword": "сайкл",
+      "mnemonic": "Спорт разрезал сайкл-ночи: он помог разорвать порочный круг, — сайкл рвётся break the cycle."
+    }
+  ]
+}

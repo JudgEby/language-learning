@@ -1,0 +1,132 @@
+{
+  "lessonId": "friend-or-foe",
+  "title": "2B Friend or Foe? — Словосочетания: сотрудничество конкурентов",
+  "items": [
+    {
+      "phrase": "save costs",
+      "translation": "экономить затраты",
+      "example": "Cooperation saves costs for both companies.",
+      "keyword": "кости",
+      "mnemonic": "Скелет считает кости и учит экономить затраты обеих компаний, — кости гремят save costs."
+    },
+    {
+      "phrase": "get a project off the ground",
+      "translation": "запустить проект",
+      "example": "Getting a new project off the ground is hugely expensive.",
+      "keyword": "грант",
+      "mnemonic": "Получили грант — и тут же запустили проект с земли в космос, — грант взлетает get a project off the ground."
+    },
+    {
+      "phrase": "grow their markets",
+      "translation": "расширять свои рынки",
+      "example": "Cooperation allows firms to grow their markets.",
+      "keyword": "маркет",
+      "mnemonic": "Открыли новый маркет, чтобы расширять свои рынки всё шире, — маркет шумит grow their markets."
+    },
+    {
+      "phrase": "share skills and knowledge",
+      "translation": "делиться навыками и знаниями",
+      "example": "Firms innovate by sharing skills and knowledge.",
+      "keyword": "шар",
+      "mnemonic": "Перекидываем шар друг другу и делимся навыками и знаниями в игре, — шар летит share skills and knowledge."
+    },
+    {
+      "phrase": "long-term benefit",
+      "translation": "долгосрочная выгода",
+      "example": "They use the knowledge for their long-term benefit.",
+      "keyword": "бенефис",
+      "mnemonic": "Устроили бенефис ради долгосрочной выгоды — все билеты проданы, — бенефис кланяется long-term benefit."
+    },
+    {
+      "phrase": "make a concerted effort",
+      "translation": "приложить согласованные усилия",
+      "example": "They must make a concerted effort to share knowledge.",
+      "keyword": "концерт",
+      "mnemonic": "Сыграли концерт слаженно, приложив согласованные усилия всего оркестра, — концерт гремит make a concerted effort."
+    },
+    {
+      "phrase": "get access to consumers",
+      "translation": "получить доступ к покупателям",
+      "example": "Cooperation helps get access to new consumers.",
+      "keyword": "эксцесс",
+      "mnemonic": "Устроили эксцесс у входа, чтобы получить доступ к покупателям первыми, — эксцесс шумит get access to consumers."
+    },
+    {
+      "phrase": "set clear goals",
+      "translation": "ставить чёткие цели",
+      "example": "Businesses need to set very clear goals for the partnership.",
+      "keyword": "клерк",
+      "mnemonic": "Педантичный клерк ставит чёткие цели партнёрству галочка за галочкой, — клерк штампует set clear goals."
+    },
+    {
+      "phrase": "know what to share",
+      "translation": "знать, чем можно делиться",
+      "example": "Staff must know what to share with a partner.",
+      "keyword": "шарада",
+      "mnemonic": "Разгадали шараду и теперь знают, чем можно делиться с партнёром, — шарада шепчет know what to share."
+    },
+    {
+      "phrase": "have active plans",
+      "translation": "иметь конкретные планы",
+      "example": "They need active plans to learn from their partner.",
+      "keyword": "актив",
+      "mnemonic": "Партийный актив имеет конкретные планы учиться у партнёра, — актив голосует have active plans."
+    },
+    {
+      "phrase": "observe and learn",
+      "translation": "наблюдать и учиться",
+      "example": "They need plans to observe and learn from their partner.",
+      "keyword": "обзор",
+      "mnemonic": "Смотрим обзор конкурента: наблюдать и учиться у него — святое дело, — обзор показывает observe and learn."
+    },
+    {
+      "phrase": "stay competitive",
+      "translation": "оставаться конкурентоспособным",
+      "example": "We want firms to stay competitive and cooperate.",
+      "keyword": "стая",
+      "mnemonic": "Волчья стая держится вместе, чтобы оставаться конкурентоспособной, — стая воет stay competitive."
+    },
+    {
+      "phrase": "move the industry forward",
+      "translation": "двигать отрасль вперёд",
+      "example": "Together the partners move the industry forward.",
+      "keyword": "форвард",
+      "mnemonic": "Шустрый форвард тащит всю отрасль вперёд к голу, — форвард мчит move the industry forward."
+    },
+    {
+      "phrase": "share resources",
+      "translation": "делиться ресурсами",
+      "example": "Businesses share resources to create new things.",
+      "keyword": "шарик",
+      "mnemonic": "Надули шарик и стали делиться ресурсами, чтобы создать что-то новое, — шарик лопается share resources."
+    },
+    {
+      "phrase": "solve world issues",
+      "translation": "решать мировые проблемы",
+      "example": "Together the firms might solve world issues.",
+      "keyword": "соль",
+      "mnemonic": "Пересолили суп с солью — и сели решать мировые проблемы пересоленного мира, — соль щиплет solve world issues."
+    },
+    {
+      "phrase": "keep research secret",
+      "translation": "держать исследования в секрете",
+      "example": "Research tends to be kept secret until results are published.",
+      "keyword": "сержант",
+      "mnemonic": "Строгий сержант велит держать исследования в секрете до публикации, — сержант рявкает keep research secret."
+    },
+    {
+      "phrase": "meet targets",
+      "translation": "выполнять цели",
+      "example": "Firms must work together to meet carbon targets.",
+      "keyword": "таргет",
+      "mnemonic": "Повесили таргет на стену и выполняем цели по выбросам дружно, — таргет мигает meet targets."
+    },
+    {
+      "phrase": "for the sake of problem-solving",
+      "translation": "ради решения проблем",
+      "example": "They worked together for the sake of problem-solving.",
+      "keyword": "сакэ",
+      "mnemonic": "Разлили сакэ и сели работать вместе ради решения проблем, — сакэ булькает for the sake of problem-solving."
+    }
+  ]
+}

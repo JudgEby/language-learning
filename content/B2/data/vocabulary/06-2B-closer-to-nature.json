@@ -5,27 +5,79 @@
     {
       "term": "biodiversity",
       "translation": "биоразнообразие",
-      "example": "The rainforest has incredible biodiversity."
+      "example": "The rainforest has incredible biodiversity.",
+      "keyword": "био-дайверы",
+      "mnemonic": "Био-дайверы считают рыбок в заповеднике — вот оно, biodiversity, биоразнообразие."
     },
     {
       "term": "ecosystem",
       "translation": "экосистема",
-      "example": "Pollution damages the entire ecosystem."
+      "example": "Pollution damages the entire ecosystem.",
+      "keyword": "система",
+      "mnemonic": "Загрязнение сломало всю систему пруда — damaged the entire ecosystem, экосистему."
     },
     {
       "term": "endangered",
       "translation": "находящийся под угрозой",
-      "example": "Several species are endangered."
+      "example": "Several species are endangered.",
+      "keyword": "индеец",
+      "mnemonic": "Индеец-следопыт считает последних тигров — they are endangered, находятся под угрозой."
     },
     {
       "term": "sustainable",
       "translation": "устойчивый, экологичный",
-      "example": "We need sustainable farming methods."
+      "example": "We need sustainable farming methods.",
+      "keyword": "стейк",
+      "mnemonic": "Съешь стейк с устойчивой фермы — она sustainable, экологичная."
     },
     {
       "term": "wilderness",
       "translation": "дикая природа",
-      "example": "They camped deep in the wilderness."
+      "example": "They camped deep in the wilderness.",
+      "keyword": "вестерн",
+      "mnemonic": "Дикая природа, как в вестерне: койоты, кактусы — they camped in the wilderness."
+    },
+    {
+      "term": "coastline",
+      "translation": "береговая линия",
+      "example": "The coastline stretches for miles.",
+      "keyword": "костыль",
+      "mnemonic": "Хромает с костылём вдоль береговой линии на мили — the coastline stretches for miles."
+    },
+    {
+      "term": "deserted",
+      "translation": "безлюдный",
+      "example": "We sat on a deserted beach.",
+      "keyword": "дезертир",
+      "mnemonic": "На пляже ни души, один дезертир прячется от всех, — deserted beach, безлюдный пляж."
+    },
+    {
+      "term": "river bank",
+      "translation": "берег реки",
+      "example": "We sat on the river bank watching boats.",
+      "keyword": "банк",
+      "mnemonic": "Сидит на берегу реки и считает лодки, как кассир в банке, — river bank."
+    },
+    {
+      "term": "scenery",
+      "translation": "пейзаж",
+      "example": "The mountains have amazing scenery.",
+      "keyword": "сценарий",
+      "mnemonic": "Горы вокруг — как сценарий к фильму: amazing scenery, пейзаж."
+    },
+    {
+      "term": "sunlight",
+      "translation": "солнечный свет",
+      "example": "Watch the morning sunlight through the trees.",
+      "keyword": "санки",
+      "mnemonic": "Утренний солнечный свет пробивается сквозь деревья, а дети уже тащат санки — morning sunlight."
+    },
+    {
+      "term": "woodland",
+      "translation": "лесистая местность",
+      "example": "They walked through woodland near home.",
+      "keyword": "дрова",
+      "mnemonic": "Шли через лесистую местность и набрали дров на зиму — walked through woodland."
     }
   ]
 }

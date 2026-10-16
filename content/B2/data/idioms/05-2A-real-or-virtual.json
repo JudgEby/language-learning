@@ -5,12 +5,16 @@
     {
       "idiom": "the tip of the iceberg",
       "translation": "верхушка айсберга",
-      "example": "These problems are just the tip of the iceberg."
+      "example": "These problems are just the tip of the iceberg.",
+      "keyword": "типичный",
+      "mnemonic": "Проблемы — лишь верхушка айсберга: типичный вторник: tip of the iceberg."
     },
     {
       "idiom": "a game changer",
       "translation": "переломный момент",
-      "example": "5G could be a real game changer."
+      "example": "5G could be a real game changer.",
+      "keyword": "геймпад",
+      "mnemonic": "5G может стать переломным моментом — держи геймпад: real game changer."
     }
   ]
 }

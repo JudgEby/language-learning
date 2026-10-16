@@ -1,0 +1,132 @@
+{
+  "lessonId": "presenting-yourself",
+  "title": "4C Presenting Yourself — Фразы: собеседование и навыки",
+  "items": [
+    {
+      "phrase": "humblebrag",
+      "translation": "хвастаться скромно",
+      "example": "Do you know anyone who humblebrags at interviews?",
+      "keyword": "брехня",
+      "mnemonic": "Его скромная брехня — хвастаться скромно на собеседовании, — брехня сквозит humblebrag."
+    },
+    {
+      "phrase": "plain bragging",
+      "translation": "открытое хвастовство",
+      "example": "Is he humblebragging or just plain bragging?",
+      "keyword": "блин",
+      "mnemonic": "Перевернул блин и выдал открытое хвастовство вместо скромности, — блин шкворчит plain bragging."
+    },
+    {
+      "phrase": "being neutral",
+      "translation": "держаться нейтрально",
+      "example": "She is just being neutral about her skills.",
+      "keyword": "боинг",
+      "mnemonic": "Огромный боинг держится нейтрально в небе о своих навыках, — боинг гудит being neutral."
+    },
+    {
+      "phrase": "get on well with colleagues",
+      "translation": "ладить с коллегами",
+      "example": "I always get on well with my colleagues.",
+      "keyword": "колледж",
+      "mnemonic": "Мы сдружились ещё в колледже, поэтому я лажу с коллегами всегда, — колледж помнит get on well with colleagues."
+    },
+    {
+      "phrase": "find it difficult to work with someone",
+      "translation": "трудно с кем-то работать",
+      "example": "I've never found it difficult to work with someone.",
+      "keyword": "дефицит",
+      "mnemonic": "В магазине дефицит, и мне трудно с кем-то работать в таких условиях, — дефицит давит find it difficult to work with someone."
+    },
+    {
+      "phrase": "good at creative tasks",
+      "translation": "хорош в творческих задачах",
+      "example": "I'm very good at creative tasks.",
+      "keyword": "таск",
+      "mnemonic": "Закрыл таск и доказал, что хорош в творческих задачах, — таск выполнен good at creative tasks."
+    },
+    {
+      "phrase": "main strengths",
+      "translation": "главные сильные стороны",
+      "example": "That's one of my main strengths.",
+      "keyword": "штанга",
+      "mnemonic": "Поднял штангу — вот мои главные сильные стороны, — штанга гремит main strengths."
+    },
+    {
+      "phrase": "work hard to meet deadlines",
+      "translation": "усердно работать, чтобы уложиться в сроки",
+      "example": "I always work hard to meet deadlines.",
+      "keyword": "дедлайн",
+      "mnemonic": "Горящий дедлайн заставляет усердно работать, чтобы уложиться в сроки, — дедлайн подгоняет work hard to meet deadlines."
+    },
+    {
+      "phrase": "hate missing deadlines",
+      "translation": "ненавидеть срывать сроки",
+      "example": "I hate missing deadlines!",
+      "keyword": "хейтер",
+      "mnemonic": "Злобный хейтер ненавидит срывать сроки и строчит гневные комменты, — хейтер шипит hate missing deadlines."
+    },
+    {
+      "phrase": "real people person",
+      "translation": "настоящий душа компании",
+      "example": "I'm a real people person and love clients.",
+      "keyword": "пепел",
+      "mnemonic": "Восстал из пепла и стал настоящим душой компании, любящим клиентов, — пепел кружит real people person."
+    },
+    {
+      "phrase": "interact with customers",
+      "translation": "общаться с клиентами",
+      "example": "I love interacting with customers, even rude ones.",
+      "keyword": "интерактив",
+      "mnemonic": "Устроил интерактив и обожаю общаться с клиентами, даже грубыми, — интерактив шумит interact with customers."
+    },
+    {
+      "phrase": "resolve the situation",
+      "translation": "уладить ситуацию",
+      "example": "I almost always find a way to resolve the situation.",
+      "keyword": "розлив",
+      "mnemonic": "Открыл розлив лимонада и всегда нахожу способ уладить ситуацию, — розлив булькает resolve the situation."
+    },
+    {
+      "phrase": "end up with a smile",
+      "translation": "остаться с улыбкой",
+      "example": "The customer ends up with a smile on his face.",
+      "keyword": "смайлик",
+      "mnemonic": "Клиент ушёл со смайликом и остался с улыбкой на лице, — смайлик сияет end up with a smile."
+    },
+    {
+      "phrase": "formal qualifications",
+      "translation": "официальные дипломы",
+      "example": "I don't have formal qualifications, but I have experience.",
+      "keyword": "форма",
+      "mnemonic": "Надел форму вместо официальных дипломов — опыт важнее бумаг, — форма сидит formal qualifications."
+    },
+    {
+      "phrase": "relevant experience",
+      "translation": "релевантный опыт",
+      "example": "I have a lot of relevant experience from past jobs.",
+      "keyword": "экспонат",
+      "mnemonic": "Музейный экспонат накопил релевантный опыт прошлых работ, — экспонат пылится relevant experience."
+    },
+    {
+      "phrase": "hard worker",
+      "translation": "трудолюбивый человек",
+      "example": "I'm an extremely hard worker.",
+      "keyword": "харчо",
+      "mnemonic": "Наварил харчо для всей бригады — вот я какой трудолюбивый человек, — харчо кипит hard worker."
+    },
+    {
+      "phrase": "make sure it gets done",
+      "translation": "доводить дело до конца",
+      "example": "Give me a job and I'll make sure it gets done.",
+      "keyword": "Шура",
+      "mnemonic": "Дайте работу Шуре — он доводит дело до конца всегда, — Шура кивает make sure it gets done."
+    },
+    {
+      "phrase": "good team player",
+      "translation": "хороший командный игрок",
+      "example": "The hotel wants a good team player.",
+      "keyword": "тим",
+      "mnemonic": "Наш тим принял хорошего командного игрока для отеля, — тим ликует good team player."
+    }
+  ]
+}

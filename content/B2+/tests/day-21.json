@@ -328,5 +328,65 @@
     "relatedRuleIds": [
       "algorithm"
     ]
+  },
+  {
+    "question": "Which word means 'альянс, союз'?",
+    "options": [
+      "alliance",
+      "equal opportunities",
+      "helicopter tour",
+      "mentor programme"
+    ],
+    "correctIndex": 0,
+    "explanation": "'alliance' means альянс, союз. Example: We should form an alliance with our rivals to strengthen our position.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ],
+    "id": "140b3b396e9e"
+  },
+  {
+    "question": "Which word means 'любознательный (синоним: nosy)'?",
+    "options": [
+      "match",
+      "We'll never agree",
+      "inquisitive",
+      "human nature"
+    ],
+    "correctIndex": 2,
+    "explanation": "'inquisitive' means любознательный (синоним: nosy). Example: Being inquisitive is a positive trait in a photographer.",
+    "relatedRuleIds": [
+      "selfie-expression"
+    ],
+    "id": "14ce71d1e21a"
+  },
+  {
+    "question": "Choose the correct collocation: Under no circumstances should a computer make such decisions alone.",
+    "options": [
+      "spell out how slow",
+      "decline",
+      "find it difficult to work with someone",
+      "under no circumstances"
+    ],
+    "correctIndex": 3,
+    "explanation": "'under no circumstances' (ни при каких обстоятельствах). Full sentence: Under no circumstances should a computer make such decisions alone.",
+    "relatedRuleIds": [
+      "algorithm"
+    ],
+    "id": "d41f9e3cd648"
+  },
+  {
+    "question": "Which word means 'пережить заново'?",
+    "options": [
+      "advertise",
+      "grab a snack",
+      "relive",
+      "come between"
+    ],
+    "correctIndex": 2,
+    "explanation": "'relive' means пережить заново. Example: Looking at old photos can help you relive experiences.",
+    "relatedRuleIds": [
+      "past-and-present"
+    ],
+    "id": "772cbe71950d"
   }
 ]

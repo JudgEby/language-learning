@@ -5,17 +5,58 @@
     {
       "phrase": "walk (sb) through (sth)",
       "translation": "пошагово объяснить",
-      "example": "I'll walk you through the process."
+      "example": "I'll walk you through the process.",
+      "keyword": "вокзал",
+      "mnemonic": "Проведу тебя по процессу — встретимся на вокзале: walk you through, пошагово объяснить."
     },
     {
       "phrase": "figure out",
       "translation": "разобраться",
-      "example": "It took me ages to figure out."
+      "example": "It took me ages to figure out.",
+      "keyword": "фига",
+      "mnemonic": "Века не хватило разобраться — показал фигу: took ages to figure out."
     },
     {
       "phrase": "carry out",
       "translation": "выполнить",
-      "example": "Carry out the steps in order."
+      "example": "Carry out the steps in order.",
+      "keyword": "карри",
+      "mnemonic": "Выполни шаги по порядку — жуй карри: carry out the steps, выполнить."
+    },
+    {
+      "phrase": "break it down",
+      "translation": "разбить на этапы",
+      "example": "Break the process down into smaller stages.",
+      "keyword": "брейк",
+      "mnemonic": "Разбей процесс на этапы — объяви брейк: break the process down."
+    },
+    {
+      "phrase": "go over the basics",
+      "translation": "пройтись по основам",
+      "example": "First, let us go over the basics together.",
+      "keyword": "бейсик",
+      "mnemonic": "Сначала пройдёмся по основам — запустим бейсик: go over the basics."
+    },
+    {
+      "phrase": "leave out important details",
+      "translation": "упускать важные детали",
+      "example": "Do not leave out any important details.",
+      "keyword": "лев",
+      "mnemonic": "Не упускай важные детали — рычи, как лев: leave out details."
+    },
+    {
+      "phrase": "go into details",
+      "translation": "углубляться в детали",
+      "example": "We will not go into all the details now.",
+      "keyword": "интуит",
+      "mnemonic": "Не будем углубляться в детали — интуит против: go into details."
+    },
+    {
+      "phrase": "get the information across",
+      "translation": "донести информацию",
+      "example": "Draw a diagram to get the information across.",
+      "keyword": "кросс",
+      "mnemonic": "Нарисуй схему, чтобы донести информацию, — беги кросс: get information across."
     }
   ]
 }

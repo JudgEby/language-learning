@@ -2,13 +2,61 @@
   "lessonId": "keeping-fit",
   "title": "Keeping fit — фразы",
   "items": [
-    { "phrase": "How long have you…?", "translation": "Как долго ты…?", "example": "How long have you been a member of this gym?" },
-    { "phrase": "I've been… for…", "translation": "Я (занимаюсь / нахожусь) … в течение…", "example": "I've been a vegetarian for almost ten years." },
-    { "phrase": "I've been… since…", "translation": "Я (занимаюсь / нахожусь) … с…", "example": "I've been going to this gym since last summer." },
-    { "phrase": "I've never felt better", "translation": "Я никогда не чувствовал себя лучше", "example": "Since I started running, I've never felt better." },
-    { "phrase": "I'm trying to get into shape", "translation": "Я пытаюсь привести себя в форму", "example": "I'm trying to get into shape before my holiday." },
-    { "phrase": "I need to cut down on…", "translation": "Мне нужно сократить потребление…", "example": "I need to cut down on sugar and processed food." },
-    { "phrase": "I've taken up…", "translation": "Я начал(а) заниматься…", "example": "I've taken up yoga to improve my flexibility." },
-    { "phrase": "How often do you work out?", "translation": "Как часто ты тренируешься?", "example": "A: How often do you work out? B: I go to the gym four times a week." }
+    {
+      "phrase": "How long have you…?",
+      "translation": "Как долго ты…?",
+      "example": "How long have you been a member of this gym?",
+      "keyword": "лангет",
+      "mnemonic": "Качок с лангетом пытает How long have you…? — Как долго ты член зала."
+    },
+    {
+      "phrase": "I've been… for…",
+      "translation": "Я (занимаюсь / нахожусь) … в течение…",
+      "example": "I've been a vegetarian for almost ten years.",
+      "keyword": "фотка",
+      "mnemonic": "Вегетарианец с фоткой морковки — I've been… for… — Я уже десять лет в течение."
+    },
+    {
+      "phrase": "I've been… since…",
+      "translation": "Я (занимаюсь / нахожусь) … с…",
+      "example": "I've been going to this gym since last summer.",
+      "keyword": "сын",
+      "mnemonic": "Сын с абонементом хвастает I've been… since… — Я хожу в зал с прошлого лета."
+    },
+    {
+      "phrase": "I've never felt better",
+      "translation": "Я никогда не чувствовал себя лучше",
+      "example": "Since I started running, I've never felt better.",
+      "keyword": "бутер",
+      "mnemonic": "Бегун с бутером кричит I've never felt better — Я никогда не чувствовал себя лучше с бега."
+    },
+    {
+      "phrase": "I'm trying to get into shape",
+      "translation": "Я пытаюсь привести себя в форму",
+      "example": "I'm trying to get into shape before my holiday.",
+      "keyword": "шапка",
+      "mnemonic": "Толстяк в шапке пыхтит I'm trying to get into shape — Я пытаюсь привести себя в форму к отпуску."
+    },
+    {
+      "phrase": "I need to cut down on…",
+      "translation": "Мне нужно сократить потребление…",
+      "example": "I need to cut down on sugar and processed food.",
+      "keyword": "каток",
+      "mnemonic": "Диетолог на катке режет сахар — I need to cut down on… — Мне нужно сократить потребление сахара."
+    },
+    {
+      "phrase": "I've taken up…",
+      "translation": "Я начал(а) заниматься…",
+      "example": "I've taken up yoga to improve my flexibility.",
+      "keyword": "танец",
+      "mnemonic": "Гуру в танце тянется — I've taken up… — Я начал заниматься йогой для гибкости."
+    },
+    {
+      "phrase": "How often do you work out?",
+      "translation": "Как часто ты тренируешься?",
+      "example": "A: How often do you work out? B: I go to the gym four times a week.",
+      "keyword": "аут",
+      "mnemonic": "Тренер выгнал в аут лентяя — How often do you work out? — Как часто ты тренируешься, четыре раза в зал."
+    }
   ]
 }

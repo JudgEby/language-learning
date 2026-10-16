@@ -2,8 +2,26 @@
   "lessonId": "the-blind-painter",
   "title": "The blind painter — идиомы",
   "items": [
-    { "idiom": "see the world through someone's eyes", "translation": "видеть мир чьими-то глазами", "example": "Sargy Mann's paintings help us see the world through his eyes." },
-    { "idiom": "a labour of love", "translation": "дело по велению души", "example": "Painting was a labour of love for Sargy Mann." },
-    { "idiom": "against all odds", "translation": "вопреки всему", "example": "Against all odds, he continued to paint after going blind." }
+    {
+      "idiom": "see the world through someone's eyes",
+      "translation": "видеть мир чьими-то глазами",
+      "example": "Sargy Mann's paintings help us see the world through his eyes.",
+      "keyword": "ай",
+      "mnemonic": "Ай да чужие глаза: see the world through someone's eyes — видеть мир чьими-то глазами в картинах Сарги."
+    },
+    {
+      "idiom": "a labour of love",
+      "translation": "дело по велению души",
+      "example": "Painting was a labour of love for Sargy Mann.",
+      "keyword": "лейбл",
+      "mnemonic": "Лейбл любви на картине: a labour of love — дело по велению души для Сарги Манна."
+    },
+    {
+      "idiom": "against all odds",
+      "translation": "вопреки всему",
+      "example": "Against all odds, he continued to paint after going blind.",
+      "keyword": "одесса",
+      "mnemonic": "Вопреки всему доплыть до Одессы: against all odds — вопреки всему он продолжал писать вслепую."
+    }
   ]
 }

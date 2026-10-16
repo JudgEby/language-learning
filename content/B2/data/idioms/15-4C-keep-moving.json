@@ -5,12 +5,16 @@
     {
       "idiom": "no pain, no gain",
       "translation": "без труда не выловишь",
-      "example": "It's tough, but no pain, no gain."
+      "example": "It's tough, but no pain, no gain.",
+      "keyword": "пена",
+      "mnemonic": "Тяжело, но без труда не выловишь — пошла пена: no pain, no gain."
     },
     {
       "idiom": "in good shape",
       "translation": "в хорошей форме",
-      "example": "She's in really good shape."
+      "example": "She's in really good shape.",
+      "keyword": "шейп",
+      "mnemonic": "Она в отличной форме — держит шейп: in really good shape, в хорошей форме."
     }
   ]
 }

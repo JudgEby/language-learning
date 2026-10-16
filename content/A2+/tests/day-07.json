@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "travel-tips"
     ]
+  },
+  {
+    "question": "Complete the sentence: 'Work is so busy these days.' '___!'",
+    "options": [
+      "You're telling me",
+      "The funniest thing was…",
+      "If I won the lottery, I would...",
+      "mood"
+    ],
+    "correctIndex": 0,
+    "explanation": "'You're telling me' (Точно / Уж мне расскажи). Full sentence: 'Work is so busy these days.' 'You're telling me!'",
+    "relatedRuleIds": [
+      "nice-day"
+    ],
+    "id": "860a2c0cbbbc"
+  },
+  {
+    "question": "Complete the sentence: ___. I put them on my Facebook page when I get back.",
+    "options": [
+      "What's your favourite type of film?",
+      "The air is so fresh here.",
+      "I love taking photos",
+      "Do you think your salary is good?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I love taking photos' (Я обожаю фотографировать). Full sentence: I love taking photos. I put them on my Facebook page when I get back.",
+    "relatedRuleIds": [
+      "travel-tips"
+    ],
+    "id": "f026959b6be0"
+  },
+  {
+    "question": "Choose the correct collocation: It's a great place for hiking with marked trails.",
+    "options": [
+      "environment",
+      "It's a great place for hiking.",
+      "You should…",
+      "How long have you had this?"
+    ],
+    "correctIndex": 1,
+    "explanation": "'It's a great place for hiking.' (Это отличное место для походов.). Full sentence: It's a great place for hiking with marked trails.",
+    "relatedRuleIds": [
+      "into-the-wild"
+    ],
+    "id": "4c10532258fe"
   }
 ]

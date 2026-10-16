@@ -1,9 +1,14 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ThemeProvider } from './components/ThemeProvider';
-import { ThemeToggle } from './components/ThemeToggle';
+import { PwaUpdatePrompt } from './components/PwaUpdatePrompt';
+import { SettingsButton } from './components/SettingsButton';
 import { HomePage } from './pages/HomePage';
+import { FlashcardsPage } from './pages/FlashcardsPage';
+import { GameLobbyPage } from './pages/GameLobbyPage';
+import { GamePage } from './pages/GamePage';
 import { LevelPage } from './pages/LevelPage';
 import { RulesListPage } from './pages/RulesListPage';
+import { SettingsPage } from './pages/SettingsPage';
 import { StudyViewPage } from './pages/StudyViewPage';
 import { TestDayStudyListPage } from './pages/TestDayStudyListPage';
 import { TestsListPage } from './pages/TestsListPage';
@@ -13,11 +18,16 @@ export default function App() {
   return (
     <ThemeProvider>
     <BrowserRouter>
-      <ThemeToggle />
+      <SettingsButton />
+      <PwaUpdatePrompt />
       <main className="app-shell">
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/flashcards" element={<FlashcardsPage />} />
+          <Route path="/settings" element={<SettingsPage />} />
           <Route path="/:level" element={<LevelPage />} />
+          <Route path="/:level/game" element={<GameLobbyPage />} />
+          <Route path="/:level/game/play" element={<GamePage />} />
           <Route path="/:level/rules" element={<RulesListPage />} />
           <Route path="/:level/rules/:studyKeyParam" element={<StudyViewPage />} />
           <Route path="/:level/tests" element={<TestsListPage />} />

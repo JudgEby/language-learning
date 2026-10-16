@@ -1,0 +1,125 @@
+{
+  "lessonId": "life-changing-decisions",
+  "title": "5A Life-changing Decisions — Принятие решений",
+  "items": [
+    {
+      "phrase": "drop out of university",
+      "translation": "бросить университет",
+      "example": "He decided to drop out of university after eight months there.",
+      "keyword": "дроп",
+      "mnemonic": "Он выронил дроп из игры прямо в деканате и так бросил университет — дроп укатился вместе с drop out of university."
+    },
+    {
+      "phrase": "my mind was made up",
+      "translation": "решение было принято",
+      "example": "My mind was made up, so the next day I went to the admin office.",
+      "keyword": "мина",
+      "mnemonic": "Сапёр нашёл мину и понял: решение было принято — не трогать, а мина навсегда запомнила my mind was made up."
+    },
+    {
+      "phrase": "cover something up",
+      "translation": "скрывать, маскировать",
+      "example": "They tried to cover up their disappointment and support my decision.",
+      "keyword": "ковёр",
+      "mnemonic": "Они замели разочарование под ковёр, чтобы скрывать его от всех, — ковёр прячет cover something up."
+    },
+    {
+      "phrase": "pop round",
+      "translation": "заглянуть, заскочить",
+      "example": "At that very moment, a neighbour popped round to ask about uni.",
+      "keyword": "поп",
+      "mnemonic": "Толстый поп с хлопком заскочил в гости и успел заглянуть во все комнаты — поп и есть pop round."
+    },
+    {
+      "phrase": "stick to one's guns",
+      "translation": "стоять на своём",
+      "example": "Everyone thought I was mad, but I stuck to my guns.",
+      "keyword": "ганг",
+      "mnemonic": "Весь ганг встал стеной, чтобы стоять на своём до конца, — ганг держит stick to one's guns."
+    },
+    {
+      "phrase": "think something over",
+      "translation": "обдумать",
+      "example": "Think it over, but do not overthink it before you decide.",
+      "keyword": "танк",
+      "mnemonic": "Танк медленно разворачивается, пока ты пытаешься обдумать решение, — танк грохочет think something over."
+    },
+    {
+      "phrase": "trust your instincts",
+      "translation": "доверять интуиции",
+      "example": "Trust your instincts when you make a life-changing decision.",
+      "keyword": "трест",
+      "mnemonic": "Старый трест развалился, потому что перестал доверять интуиции директора, — трест шепчет trust your instincts."
+    },
+    {
+      "phrase": "a weight lifted off your shoulders",
+      "translation": "камень с плеч",
+      "example": "If you feel a weight lifted off your shoulders, it is the right decision.",
+      "keyword": "весы",
+      "mnemonic": "С плеч сняли тяжёлые весы — и вот он, камень с плеч свалился, а весы качнулись как a weight lifted off your shoulders."
+    },
+    {
+      "phrase": "hold onto something",
+      "translation": "цепляться за что-то",
+      "example": "Let those doubts come, and then do not hold onto them.",
+      "keyword": "холод",
+      "mnemonic": "В холод цепляешься за горячую кружку обеими руками — холод учит hold onto something."
+    },
+    {
+      "phrase": "appeal to someone's logic",
+      "translation": "взывать к логике",
+      "example": "Appeal to their logic and their emotions when you explain.",
+      "keyword": "апельсин",
+      "mnemonic": "Он стучит апельсином по столу и взывает к логике спорщиков — апельсин требует appeal to someone's logic."
+    },
+    {
+      "phrase": "get on board with something",
+      "translation": "поддержать (решение)",
+      "example": "Do not expect people to get on board with your decision immediately.",
+      "keyword": "борт",
+      "mnemonic": "Вся команда поднялась на борт, чтобы поддержать решение капитана, — борт гудит get on board with something."
+    },
+    {
+      "phrase": "come to terms with something",
+      "translation": "смириться, принять",
+      "example": "Give them time to process it and come to terms with it.",
+      "keyword": "термос",
+      "mnemonic": "Он обнял термос с чаем и наконец смирился, принял новость — термос греет come to terms with something."
+    },
+    {
+      "phrase": "address someone's concerns",
+      "translation": "отвечать на опасения",
+      "example": "Listen to their concerns and address them with patience.",
+      "keyword": "адрес",
+      "mnemonic": "Каждое опасение отправили по верному адресу и спокойно отвечать на опасения стало проще — адрес хранит address someone's concerns."
+    },
+    {
+      "phrase": "give something a try",
+      "translation": "попробовать что-то",
+      "example": "I saw a job advert for a farm hand, so I decided to give it a try.",
+      "keyword": "три",
+      "mnemonic": "Досчитал до три и решился попробовать что-то новое — три запускает give something a try."
+    },
+    {
+      "phrase": "have doubts about something",
+      "translation": "сомневаться в чём-то",
+      "example": "If you have doubts about a decision, let the thoughts pass.",
+      "keyword": "даёшь",
+      "mnemonic": "Кричишь «даёшь!» и всё равно продолжаешь сомневаться в чём-то — даёшь сомневается вместе с have doubts about something."
+    },
+    {
+      "phrase": "don't overthink it",
+      "translation": "не зацикливайся",
+      "example": "Think it over, sleep on it, but do not overthink it.",
+      "keyword": "овертайм",
+      "mnemonic": "Мозг ушёл в овертайм и гудит, а ты ему: не зацикливайся! — овертайм выключает don't overthink it."
+    },
+    {
+      "phrase": "plan your next step",
+      "translation": "спланировать следующий шаг",
+      "example": "Then plan your next step and look for support elsewhere.",
+      "keyword": "планёр",
+      "mnemonic": "Планёр кружит над картой, чтобы спланировать следующий шаг полёта, — планёр чертит plan your next step."
+    }
+  ]
+}

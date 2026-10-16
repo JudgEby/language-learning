@@ -5,17 +5,58 @@
     {
       "phrase": "keep up with",
       "translation": "успевать за, не отставать",
-      "example": "It's hard to keep up with new technology."
+      "example": "It's hard to keep up with new technology.",
+      "keyword": "кипяток",
+      "mnemonic": "Трудно успевать за технологиями — пей кипяток: hard to keep up with technology."
     },
     {
       "phrase": "phase out",
       "translation": "постепенно отменять",
-      "example": "They're phasing out old systems."
+      "example": "They're phasing out old systems.",
+      "keyword": "фейк",
+      "mnemonic": "Старые системы постепенно отменяют — признали фейком: phasing out old systems."
     },
     {
       "phrase": "on the horizon",
       "translation": "на горизонте, впереди",
-      "example": "Major changes are on the horizon."
+      "example": "Major changes are on the horizon.",
+      "keyword": "горизонт",
+      "mnemonic": "Большие перемены на горизонте — виден горизонт: on the horizon, впереди."
+    },
+    {
+      "phrase": "spend money on (sth)",
+      "translation": "тратить деньги на (что-то)",
+      "example": "Tech companies are spending a lot of money on VR.",
+      "keyword": "манифест",
+      "mnemonic": "Компании тратят деньги на VR — пишут манифест: spending money on VR."
+    },
+    {
+      "phrase": "reduce stress",
+      "translation": "снижать стресс",
+      "example": "Using VR can help reduce stress after work.",
+      "keyword": "рессора",
+      "mnemonic": "VR помогает снижать стресс — качает, как рессора: help reduce stress."
+    },
+    {
+      "phrase": "predict health issues",
+      "translation": "предсказывать проблемы со здоровьем",
+      "example": "Doctors will use VR to predict health issues.",
+      "keyword": "предикт",
+      "mnemonic": "Врачи будут предсказывать болезни по VR — готов предикт: predict health issues."
+    },
+    {
+      "phrase": "give up (sth)",
+      "translation": "отказываться от (чего-то)",
+      "example": "He decided to give up meat for health reasons.",
+      "keyword": "гиббон",
+      "mnemonic": "Решил отказаться от мяса — ест, как гиббон: decided to give up meat."
+    },
+    {
+      "phrase": "socialise in virtual spaces",
+      "translation": "общаться в виртуальных пространствах",
+      "example": "Former office workers will meet and socialise in virtual spaces.",
+      "keyword": "сошка",
+      "mnemonic": "Будут общаться в виртуальных пространствах — держатся за сошку: socialise in virtual spaces."
     }
   ]
 }

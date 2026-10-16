@@ -1,0 +1,55 @@
+{
+  "lessonId": "travel-tips",
+  "title": "Travel tips — идиомы",
+  "items": [
+    {
+      "idiom": "pack for a trip",
+      "translation": "собирать вещи в поездку",
+      "example": "What do you usually pack when you go away for a short trip?",
+      "keyword": "пак",
+      "mnemonic": "Турист с паком чемоданов — pack for a trip, собирать вещи в поездку короткую."
+    },
+    {
+      "idiom": "go to a warm place",
+      "translation": "поехать в тёплое место",
+      "example": "I usually choose to go to a warm place in winter.",
+      "keyword": "варенец",
+      "mnemonic": "Мёрзляк с варенцом в руках — go to a warm place, поехать в тёплое место зимой."
+    },
+    {
+      "idiom": "travel in wild places",
+      "translation": "путешествовать по диким местам",
+      "example": "She enjoys travelling in wild places far from cities.",
+      "keyword": "вальс",
+      "mnemonic": "Отшельница вальсирует в глуши — travel in wild places, путешествовать по диким местам вдали от городов."
+    },
+    {
+      "idiom": "avoid carrying too much money",
+      "translation": "избегать носить с собой много денег",
+      "example": "It is best to avoid carrying too much money on a trip.",
+      "keyword": "монета",
+      "mnemonic": "Без монет в карманах спокойнее — avoid carrying too much money, избегать носить с собой много денег в поездке."
+    },
+    {
+      "idiom": "write things down",
+      "translation": "записывать вещи",
+      "example": "I need to write things down because I like to remember them.",
+      "keyword": "ритм",
+      "mnemonic": "Писатель стучит в ритме заметок — write things down, записывать вещи, чтобы помнить."
+    },
+    {
+      "idiom": "fly to Warsaw",
+      "translation": "лететь в Варшаву",
+      "example": "First we flew to Warsaw and stayed there for two days.",
+      "keyword": "вареник",
+      "mnemonic": "С вареником в аэропорту — fly to Warsaw, лететь в Варшаву на два дня."
+    },
+    {
+      "idiom": "chat with locals",
+      "translation": "болтать с местными жителями",
+      "example": "In the afternoon we spent time chatting with locals in a bar.",
+      "keyword": "лукошко",
+      "mnemonic": "Туристы с лукошком пива в баре — chat with locals, болтать с местными жителями днём."
+    }
+  ]
+}

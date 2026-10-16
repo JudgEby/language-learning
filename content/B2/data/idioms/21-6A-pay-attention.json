@@ -5,12 +5,16 @@
     {
       "idiom": "lose track of time",
       "translation": "потерять счёт времени",
-      "example": "I lost track of time scrolling."
+      "example": "I lost track of time scrolling.",
+      "keyword": "треск",
+      "mnemonic": "Потерял счёт времени за скроллом — треск ленты: lost track of time."
     },
     {
       "idiom": "burn the candle at both ends",
       "translation": "перегружать себя",
-      "example": "Burning the candle at both ends leads to burnout."
+      "example": "Burning the candle at both ends leads to burnout.",
+      "keyword": "кендо",
+      "mnemonic": "Гонка на износ ведёт к выгоранию — горит кендо с двух концов: burning the candle at both ends."
     }
   ]
 }

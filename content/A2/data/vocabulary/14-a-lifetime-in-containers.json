@@ -2,21 +2,117 @@
   "lessonId": "a-lifetime-in-containers",
   "title": "A lifetime in containers — новые слова",
   "items": [
-    { "term": "a bowl", "translation": "миска", "example": "Put the cornflakes in a bowl." },
-    { "term": "a jar", "translation": "банка", "example": "There's a jar of coffee on the table." },
-    { "term": "a bottle", "translation": "бутылка", "example": "A bottle of mineral water is in the fridge." },
-    { "term": "a bag", "translation": "пакет", "example": "He buys a bag of rice and two tins of beans." },
-    { "term": "a cup", "translation": "чашка", "example": "People in the UK drink about eight cups of tea a day." },
-    { "term": "a tin / a can", "translation": "банка (консервы)", "example": "Soft drinks have about seven spoonfuls of sugar in a can." },
-    { "term": "a carton", "translation": "пакет, коробка", "example": "A carton of milk is enough for two people." },
-    { "term": "a packet", "translation": "упаковка", "example": "Buy a packet of biscuits for the coffee break." },
-    { "term": "a glass", "translation": "стакан", "example": "Could I have a glass of water, please?" },
-    { "term": "a mug", "translation": "кружка", "example": "She drinks her morning tea from a big mug." },
-    { "term": "on average", "translation": "в среднем", "example": "On average, Brazilians eat about 99 kilos of beans in their lives." },
-    { "term": "a vegetarian", "translation": "вегетарианец", "example": "If you're a vegetarian, do you like beans?" },
-    { "term": "meat-eater", "translation": "любитель мяса", "example": "Meat-eaters in Europe eat sheep, chickens and cows in their lifetime." },
-    { "term": "kilo", "translation": "килограмм", "example": "They use 13 kilos of coffee beans a year." },
-    { "term": "litre", "translation": "литр", "example": "An average person drinks about a thousand litres of water in their lifetime." },
-    { "term": "soft drinks", "translation": "безалкогольные напитки", "example": "Soft drinks have a lot of sugar in them." }
+    {
+      "term": "a bowl",
+      "translation": "миска",
+      "example": "Put the cornflakes in a bowl.",
+      "keyword": "боул",
+      "mnemonic": "Кот лакает из боула — там миска, a bowl."
+    },
+    {
+      "term": "a jar",
+      "translation": "банка",
+      "example": "There's a jar of coffee on the table.",
+      "keyword": "жар",
+      "mnemonic": "Варенье кипит на жару в банке — вот a jar."
+    },
+    {
+      "term": "a bottle",
+      "translation": "бутылка",
+      "example": "A bottle of mineral water is in the fridge.",
+      "keyword": "ботл",
+      "mnemonic": "Матрос обнимает ботл — там бутылка, a bottle."
+    },
+    {
+      "term": "a bag",
+      "translation": "пакет",
+      "example": "He buys a bag of rice and two tins of beans.",
+      "keyword": "бэг",
+      "mnemonic": "Турист трясёт бэгом — там пакет, a bag."
+    },
+    {
+      "term": "a cup",
+      "translation": "чашка",
+      "example": "People in the UK drink about eight cups of tea a day.",
+      "keyword": "кап",
+      "mnemonic": "Боксёр ловит капой чай — там чашка, a cup."
+    },
+    {
+      "term": "a tin / a can",
+      "translation": "банка (консервы)",
+      "example": "Soft drinks have about seven spoonfuls of sugar in a can.",
+      "keyword": "кан",
+      "mnemonic": "Туземец бьёт в кан — там банка, a tin, консервы."
+    },
+    {
+      "term": "a carton",
+      "translation": "пакет, коробка",
+      "example": "A carton of milk is enough for two people.",
+      "keyword": "картон",
+      "mnemonic": "Грузчик тащит картон с пакетами — вот a carton, пакет."
+    },
+    {
+      "term": "a packet",
+      "translation": "упаковка",
+      "example": "Buy a packet of biscuits for the coffee break.",
+      "keyword": "пакет",
+      "mnemonic": "Бабушка шуршит пакетом — там упаковка, a packet."
+    },
+    {
+      "term": "a glass",
+      "translation": "стакан",
+      "example": "Could I have a glass of water, please?",
+      "keyword": "глас",
+      "mnemonic": "Глашатай поднимает глас со стаканом — просит a glass, стакан."
+    },
+    {
+      "term": "a mug",
+      "translation": "кружка",
+      "example": "She drinks her morning tea from a big mug.",
+      "keyword": "маг",
+      "mnemonic": "Маг варит зелье в кружке — вот a mug."
+    },
+    {
+      "term": "on average",
+      "translation": "в среднем",
+      "example": "On average, Brazilians eat about 99 kilos of beans in their lives.",
+      "keyword": "аверс",
+      "mnemonic": "Нумизмат крутит аверс монеты — в среднем, on average, выходит орёл."
+    },
+    {
+      "term": "a vegetarian",
+      "translation": "вегетарианец",
+      "example": "If you're a vegetarian, do you like beans?",
+      "keyword": "веган",
+      "mnemonic": "Веган обнимает кабачок — он a vegetarian, вегетарианец."
+    },
+    {
+      "term": "meat-eater",
+      "translation": "любитель мяса",
+      "example": "Meat-eaters in Europe eat sheep, chickens and cows in their lifetime.",
+      "keyword": "мит",
+      "mnemonic": "Питбуль по кличке Мит грызёт мясо — он meat-eater, любитель мяса."
+    },
+    {
+      "term": "kilo",
+      "translation": "килограмм",
+      "example": "They use 13 kilos of coffee beans a year.",
+      "keyword": "киль",
+      "mnemonic": "Матрос скоблит киль и взвешивает улов — там kilo, килограмм."
+    },
+    {
+      "term": "litre",
+      "translation": "литр",
+      "example": "An average person drinks about a thousand litres of water in their lifetime.",
+      "keyword": "лить",
+      "mnemonic": "Дождь льёт в канистру — там litre, литр."
+    },
+    {
+      "term": "soft drinks",
+      "translation": "безалкогольные напитки",
+      "example": "Soft drinks have a lot of sugar in them.",
+      "keyword": "софт",
+      "mnemonic": "Геймер ставит софт на стол вместо газировки — это soft drinks, безалкогольные напитки."
+    }
   ]
 }

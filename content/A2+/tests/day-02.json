@@ -180,5 +180,65 @@
       "the-company-4u",
       "hidden-talent"
     ]
+  },
+  {
+    "question": "Complete the sentence: I haven't seen you for ages! ___",
+    "options": [
+      "market",
+      "species",
+      "pay back",
+      "What have you been up to?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'What have you been up to?' (Чем занимался всё это время?). Full sentence: I haven't seen you for ages! What have you been up to?",
+    "relatedRuleIds": [
+      "feeling-good"
+    ],
+    "id": "ddcd8ce75a7a"
+  },
+  {
+    "question": "Which word means 'искать (в словаре / Интернете)'?",
+    "options": [
+      "construction",
+      "look up",
+      "see a show",
+      "You don't have to…"
+    ],
+    "correctIndex": 1,
+    "explanation": "'look up' means искать (в словаре / Интернете). Example: If you don't know the word, look it up in a dictionary.",
+    "relatedRuleIds": [
+      "what-should-i-do"
+    ],
+    "id": "f7fe2912a593"
+  },
+  {
+    "question": "Which word means 'примерять'?",
+    "options": [
+      "try on",
+      "delay",
+      "sustainable",
+      "fitting room"
+    ],
+    "correctIndex": 0,
+    "explanation": "'try on' means примерять. Example: Can I try on these jeans?",
+    "relatedRuleIds": [
+      "im-just-looking"
+    ],
+    "id": "86379418d7be"
+  },
+  {
+    "question": "Choose the correct collocation: She said that the film was better than the book.",
+    "options": [
+      "She said that...",
+      "save up",
+      "arrest",
+      "website"
+    ],
+    "correctIndex": 0,
+    "explanation": "'She said that...' (Она сказала, что...). Full sentence: She said that the film was better than the book.",
+    "relatedRuleIds": [
+      "caught-on-film"
+    ],
+    "id": "a0327ed96811"
   }
 ]

@@ -5,107 +5,149 @@
     {
       "term": "job perks",
       "translation": "бонусы к зарплате",
-      "example": "When you join our company, you'll receive a number of job perks."
+      "example": "When you join our company, you'll receive a number of job perks.",
+      "keyword": "персик",
+      "mnemonic": "Бонусы к зарплате в виде персика каждому новичку — вот тебе job perks."
     },
     {
       "term": "employee benefits",
       "translation": "льготы для сотрудников",
-      "example": "The usual employee benefits include a regular salary and paid holiday."
+      "example": "The usual employee benefits include a regular salary and paid holiday.",
+      "keyword": "бенефис",
+      "mnemonic": "Льготы для сотрудников с бенефисом и отпуском — вот тебе employee benefits."
     },
     {
       "term": "equal pay",
       "translation": "равная оплата",
-      "example": "We offer equal pay for all staff so everyone doing the same job is paid the same."
+      "example": "We offer equal pay for all staff so everyone doing the same job is paid the same.",
+      "keyword": "икает",
+      "mnemonic": "Равная оплата, а бухгалтер икает от честности — вот тебе equal pay."
     },
     {
       "term": "paid holiday",
       "translation": "оплачиваемый отпуск",
-      "example": "All employees are entitled to twenty-five days of paid holiday per year."
+      "example": "All employees are entitled to twenty-five days of paid holiday per year.",
+      "keyword": "пей да",
+      "mnemonic": "Оплачиваемый отпуск: пей да гуляй двадцать пять дней — вот тебе paid holiday."
     },
     {
       "term": "health insurance",
       "translation": "медицинская страховка",
-      "example": "The company offers excellent health insurance that covers all medical needs."
+      "example": "The company offers excellent health insurance that covers all medical needs.",
+      "keyword": "Хельга",
+      "mnemonic": "Отличную медицинскую страховку оформила Хельга на все нужды — вот тебе health insurance."
     },
     {
       "term": "pension scheme",
       "translation": "пенсионная программа",
-      "example": "Our pension scheme will help provide a good standard of living when you retire."
+      "example": "Our pension scheme will help provide a good standard of living when you retire.",
+      "keyword": "пенёк",
+      "mnemonic": "Пенсионная программа, где пенёк копит на старость — вот тебе pension scheme."
     },
     {
       "term": "maternity leave",
       "translation": "декретный отпуск (по беременности)",
-      "example": "New mothers can take a month's extra maternity leave on top of the national requirement."
+      "example": "New mothers can take a month's extra maternity leave on top of the national requirement.",
+      "keyword": "матрёшка",
+      "mnemonic": "Декретный отпуск с матрёшкой под мышкой — вот тебе maternity leave."
     },
     {
       "term": "paternity leave",
       "translation": "отпуск по уходу за ребёнком (для отца)",
-      "example": "Fathers are also offered paternity leave to spend time with their babies."
+      "example": "Fathers are also offered paternity leave to spend time with their babies.",
+      "keyword": "патруль",
+      "mnemonic": "Отпуск по уходу за ребёнком для отца с патрулем у коляски — вот тебе paternity leave."
     },
     {
       "term": "childcare",
       "translation": "уход за детьми (детский сад при компании)",
-      "example": "We have on-site childcare so parents can leave their children close by."
+      "example": "We have on-site childcare so parents can leave their children close by.",
+      "keyword": "чайник",
+      "mnemonic": "Уход за детьми, где чайник свистит рядом с яслями — вот тебе childcare."
     },
     {
       "term": "financial incentives",
       "translation": "финансовые стимулы",
-      "example": "There are further financial incentives as we know extra money can be motivating."
+      "example": "There are further financial incentives as we know extra money can be motivating.",
+      "keyword": "инспектор",
+      "mnemonic": "Финансовые стимулы раздаёт инспектор с деньгами — вот тебе financial incentives."
     },
     {
       "term": "bonus scheme",
       "translation": "система премирования",
-      "example": "Our end-of-year bonus scheme gives staff a percentage of their annual salary."
+      "example": "Our end-of-year bonus scheme gives staff a percentage of their annual salary.",
+      "keyword": "банан",
+      "mnemonic": "Система премирования, где золотой банан каждому — вот тебе bonus scheme."
     },
     {
       "term": "tuition assistance",
       "translation": "оплата обучения",
-      "example": "We offer tuition assistance to anyone taking a course related to their work."
+      "example": "We offer tuition assistance to anyone taking a course related to their work.",
+      "keyword": "тушь",
+      "mnemonic": "Оплату обучения получила художница за тушь — вот тебе tuition assistance."
     },
     {
       "term": "mentor programme",
       "translation": "программа наставничества",
-      "example": "There is a mentor programme for new members of staff."
+      "example": "There is a mentor programme for new members of staff.",
+      "keyword": "мент",
+      "mnemonic": "Программа наставничества, где мент учит новичков — вот тебе mentor programme."
     },
     {
       "term": "bankruptcy",
       "translation": "банкротство",
-      "example": "Poor decisions can eventually result in bankruptcy."
+      "example": "Poor decisions can eventually result in bankruptcy.",
+      "keyword": "банк рванул",
+      "mnemonic": "Банкротство, когда банк рванул с деньгами — вот тебе bankruptcy."
     },
     {
       "term": "competitiveness",
       "translation": "конкурентоспособность",
-      "example": "The company must maintain its competitiveness within the market."
+      "example": "The company must maintain its competitiveness within the market.",
+      "keyword": "копыта",
+      "mnemonic": "Конкурентоспособность держится на копытах фирмы — вот тебе competitiveness."
     },
     {
       "term": "cutback",
       "translation": "сокращение (расходов, штата)",
-      "example": "A cutback in staffing means fewer people to do the work."
+      "example": "A cutback in staffing means fewer people to do the work.",
+      "keyword": "кот бак",
+      "mnemonic": "Сокращение штата, когда кот спит в баке вместо людей — вот тебе cutback."
     },
     {
       "term": "efficiency",
       "translation": "эффективность",
-      "example": "New methods increased efficiency across all departments."
+      "example": "New methods increased efficiency across all departments.",
+      "keyword": "фишка",
+      "mnemonic": "Эффективность выросла благодаря новой фишке — вот тебе efficiency."
     },
     {
       "term": "initiative",
       "translation": "инициатива",
-      "example": "The initiative immediately received a lot of attention."
+      "example": "The initiative immediately received a lot of attention.",
+      "keyword": "ништяк",
+      "mnemonic": "Инициатива получила ништяк внимания сразу — вот тебе initiative."
     },
     {
       "term": "productivity",
       "translation": "производительность",
-      "example": "Long hours have a negative effect on staff productivity."
+      "example": "Long hours have a negative effect on staff productivity.",
+      "keyword": "прорвало",
+      "mnemonic": "Производительность упала, трубу прорвало от переработок — вот тебе productivity."
     },
     {
       "term": "profitability",
       "translation": "прибыльность, рентабельность",
-      "example": "This year the company's profitability is down."
+      "example": "This year the company's profitability is down.",
+      "keyword": "профи тролль",
+      "mnemonic": "Прибыльность и рентабельность упали, виноват профи-тролль в отчёте — вот тебе profitability."
     },
     {
       "term": "turnover",
       "translation": "оборот (компании)",
-      "example": "Last year the company had a turnover of over £20 million."
+      "example": "Last year the company had a turnover of over £20 million.",
+      "keyword": "тур овер",
+      "mnemonic": "Оборот в двадцать миллионов после тура овер гор — вот тебе turnover."
     }
   ]
 }

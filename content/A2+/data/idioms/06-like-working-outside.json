@@ -2,7 +2,54 @@
   "lessonId": "like-working-outside",
   "title": "Like working outside — идиомы",
   "items": [
-    { "idiom": "not my cup of tea", "translation": "не моё, не по душе", "example": "Working in a noisy open-plan office is not my cup of tea." },
-    { "idiom": "a nine-to-five job", "translation": "работа с девяти до пяти, офисная работа", "example": "I could never do a nine-to-five job — I need flexibility." }
+    {
+      "idiom": "not my cup of tea",
+      "translation": "не моё, не по душе",
+      "example": "Working in a noisy open-plan office is not my cup of tea.",
+      "keyword": "кепка",
+      "mnemonic": "Клерк в кепке от open-space — not my cup of tea, не моё, шумный офис не по душе."
+    },
+    {
+      "idiom": "a nine-to-five job",
+      "translation": "работа с девяти до пяти, офисная работа",
+      "example": "I could never do a nine-to-five job — I need flexibility.",
+      "keyword": "файлик",
+      "mnemonic": "Файлик с графиком 9-5 — a nine-to-five job, работа с девяти до пяти, мне нужна гибкость."
+    },
+    {
+      "idiom": "travel a lot",
+      "translation": "много путешествовать",
+      "example": "I travel a lot and I absolutely love travelling.",
+      "keyword": "трамвай",
+      "mnemonic": "С трамваем под мышкой кочует — travel a lot, много путешествовать, обожает дорогу."
+    },
+    {
+      "idiom": "absolutely love travelling",
+      "translation": "обожать путешествовать",
+      "example": "I travel a lot and I absolutely love travelling in South America.",
+      "keyword": "лава",
+      "mnemonic": "Вулкан лавы восторга — absolutely love travelling, обожать путешествовать по Америке."
+    },
+    {
+      "idiom": "prefer working alone",
+      "translation": "предпочитать работать одному",
+      "example": "I do not like working in a team, I prefer working alone.",
+      "keyword": "алоэ",
+      "mnemonic": "Интроверт с алоэ в горшке — prefer working alone, предпочитать работать одному, не в команде."
+    },
+    {
+      "idiom": "be keen on new things",
+      "translation": "интересоваться новым, увлекаться новым",
+      "example": "I am keen on discovering new things at work.",
+      "keyword": "кино",
+      "mnemonic": "С кино новинок на работе — be keen on new things, интересоваться новым, открывать новое."
+    },
+    {
+      "idiom": "show people around the city",
+      "translation": "показывать людям город",
+      "example": "I absolutely love showing people around my city.",
+      "keyword": "шоу",
+      "mnemonic": "Гид-шоумен с флагом — show people around the city, показывать людям город, обожает."
+    }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "lessonId": "caught-on-film",
+  "title": "Caught on film — магия кино",
+  "items": [
+    {
+      "idiom": "use myths",
+      "translation": "использовать мифы",
+      "example": "Most blockbusters use myths that travel across cultures.",
+      "keyword": "миксер",
+      "mnemonic": "Продюсеры с миксером легенд — use myths, использовать мифы, что кочуют по культурам."
+    },
+    {
+      "idiom": "travel across cultures",
+      "translation": "путешествовать через культуры",
+      "example": "Myths are useful because they travel across cultures.",
+      "keyword": "каскадёр",
+      "mnemonic": "Мифы с каскадёром переводчиком — travel across cultures, путешествовать через культуры, полезны поэтому."
+    },
+    {
+      "idiom": "take place in a natural paradise",
+      "translation": "происходить в райском уголке",
+      "example": "Avatar takes place in a natural paradise with blue people.",
+      "keyword": "парашют",
+      "mnemonic": "Аватар с парашютом к синим — take place in a natural paradise, происходить в райском уголке."
+    },
+    {
+      "idiom": "defeat the opponent",
+      "translation": "победить противника",
+      "example": "In the third act, the character finally defeats the opponent.",
+      "keyword": "пончик",
+      "mnemonic": "Герой с пончиком против злодея — defeat the opponent, победить противника в третьем акте."
+    },
+    {
+      "idiom": "light up the world",
+      "translation": "покорить мир",
+      "example": "Find a studio and see your movie light up the world.",
+      "keyword": "люстра",
+      "mnemonic": "Студия зажигает люстру премьер — light up the world, покорить мир своим кино."
+    },
+    {
+      "idiom": "be more memorable than the film itself",
+      "translation": "запоминаться больше, чем сам фильм",
+      "example": "Some phrases in films are more memorable than the film itself.",
+      "keyword": "мемориал",
+      "mnemonic": "Фразочки с мемориала цитат — be more memorable than the film itself, запоминаться больше, чем сам фильм."
+    },
+    {
+      "idiom": "out there is the true world",
+      "translation": "там настоящий мир",
+      "example": "Out there is the true world and in here is the dream.",
+      "keyword": "трубач",
+      "mnemonic": "Трубач за дверью сна — out there is the true world, там настоящий мир, а тут сон."
+    }
+  ]
+}

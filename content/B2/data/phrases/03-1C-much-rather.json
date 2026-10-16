@@ -5,17 +5,58 @@
     {
       "phrase": "to be honest",
       "translation": "если честно",
-      "example": "To be honest, I'd rather stay in."
+      "example": "To be honest, I'd rather stay in.",
+      "keyword": "аист",
+      "mnemonic": "Если честно — лучше дома: прилетел аист: to be honest, I'd rather stay in."
     },
     {
       "phrase": "if I had the choice",
       "translation": "если бы у меня был выбор",
-      "example": "If I had the choice, I'd live by the sea."
+      "example": "If I had the choice, I'd live by the sea.",
+      "keyword": "чай",
+      "mnemonic": "Был бы выбор — жил бы у моря с чаем: had the choice, live by the sea."
     },
     {
       "phrase": "given the choice",
       "translation": "имея выбор",
-      "example": "Given the choice, I'd take the train."
+      "example": "Given the choice, I'd take the train.",
+      "keyword": "диван",
+      "mnemonic": "Имея выбор — взял бы поезд и диван: given the choice, take the train."
+    },
+    {
+      "phrase": "passionate about (sth)",
+      "translation": "увлечённый (чем-то)",
+      "example": "I am really passionate about trying local food.",
+      "keyword": "пассия",
+      "mnemonic": "Увлечена местной едой — новая пассия: passionate about local food."
+    },
+    {
+      "phrase": "fond of (sth)",
+      "translation": "любящий, неравнодушный к (чему-то)",
+      "example": "I am fond of the street markets in the old town.",
+      "keyword": "фонд",
+      "mnemonic": "Любит уличные рынки — открыл фонд: fond of street markets."
+    },
+    {
+      "phrase": "keen on (sth)",
+      "translation": "интересующийся, любящий (что-то)",
+      "example": "She is not keen on museums, so we skipped them.",
+      "keyword": "кино",
+      "mnemonic": "Не любит музеи — ей бы в кино: not keen on museums."
+    },
+    {
+      "phrase": "nervous about (sth)",
+      "translation": "нервничающий из-за (чего-то)",
+      "example": "I get nervous about taking taxis in a foreign city.",
+      "keyword": "не рвись",
+      "mnemonic": "Нервничает из-за такси — шепчет «не рвись»: nervous about taxis."
+    },
+    {
+      "phrase": "a big fan of (sth)",
+      "translation": "большой поклонник (чего-то)",
+      "example": "I am not a big fan of shopping generally.",
+      "keyword": "фен",
+      "mnemonic": "Не большой поклонник шопинга — суши феном: not a big fan of shopping."
     }
   ]
 }

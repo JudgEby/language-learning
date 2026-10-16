@@ -2,24 +2,138 @@
   "lessonId": "i-dont-feel-well",
   "title": "I don't feel well — новые слова",
   "items": [
-    { "term": "not feel well", "translation": "плохо себя чувствовать", "example": "I don't feel well today — I think I've got flu." },
-    { "term": "a headache", "translation": "головная боль", "example": "I've got a terrible headache." },
-    { "term": "stomachache", "translation": "боль в животе", "example": "I have stomachache — I ate some fish last night." },
-    { "term": "a sore throat", "translation": "боль в горле", "example": "I've got a sore throat and I can't swallow." },
-    { "term": "a cough", "translation": "кашель", "example": "Have you got anything for a cough?" },
-    { "term": "a runny nose", "translation": "насморк, текущий нос", "example": "I've got a runny nose and a temperature." },
-    { "term": "a temperature", "translation": "температура, жар", "example": "She's got a high temperature — over 39 degrees." },
-    { "term": "a cold", "translation": "простуда", "example": "A cold starts slowly. Flu starts suddenly." },
-    { "term": "flu", "translation": "грипп", "example": "After flu you often feel tired for three weeks." },
-    { "term": "toothache", "translation": "зубная боль", "example": "I've got terrible toothache — I need a dentist." },
-    { "term": "earache", "translation": "боль в ухе", "example": "I woke up this morning with earache." },
-    { "term": "a pain in your back", "translation": "боль в спине", "example": "My back hurts after eight hours at the desk." },
-    { "term": "a cut", "translation": "порез", "example": "You broke a glass and cut your thumb badly." },
-    { "term": "a sprained wrist / ankle", "translation": "растяжение запястья / лодыжки", "example": "I have a sprained wrist from playing tennis." },
-    { "term": "antibiotics", "translation": "антибиотики", "example": "You shouldn't take antibiotics for a cold." },
-    { "term": "a prescription", "translation": "рецепт", "example": "The doctor gave me a prescription for tablets." },
-    { "term": "a pharmacy", "translation": "аптека", "example": "In a pharmacy you can buy tablets and cream without a prescription." },
-    { "term": "a doctor / a dentist", "translation": "врач / стоматолог", "example": "You should go to the doctor if you have a high temperature." },
-    { "term": "plasters", "translation": "пластыри", "example": "Could I have some plasters for my finger?" }
+    {
+      "term": "not feel well",
+      "translation": "плохо себя чувствовать",
+      "example": "I don't feel well today — I think I've got flu.",
+      "keyword": "фил",
+      "mnemonic": "Фил держится за живот — he does not feel well, плохо себя чувствует."
+    },
+    {
+      "term": "a headache",
+      "translation": "головная боль",
+      "example": "I've got a terrible headache.",
+      "keyword": "хек",
+      "mnemonic": "Хек держится за голову — это a headache, головная боль."
+    },
+    {
+      "term": "stomachache",
+      "translation": "боль в животе",
+      "example": "I have stomachache — I ate some fish last night.",
+      "keyword": "стол",
+      "mnemonic": "Пациент лёг на стол с болью в животе — stomachache."
+    },
+    {
+      "term": "a sore throat",
+      "translation": "боль в горле",
+      "example": "I've got a sore throat and I can't swallow.",
+      "keyword": "сорока",
+      "mnemonic": "Сорока держится за горло — это a sore throat, боль в горле."
+    },
+    {
+      "term": "a cough",
+      "translation": "кашель",
+      "example": "Have you got anything for a cough?",
+      "keyword": "кофе",
+      "mnemonic": "Пациент давится кофе и кашляет — это a cough."
+    },
+    {
+      "term": "a runny nose",
+      "translation": "насморк, текущий нос",
+      "example": "I've got a runny nose and a temperature.",
+      "keyword": "ранение",
+      "mnemonic": "Ранение носа шмыгает — это a runny nose, насморк."
+    },
+    {
+      "term": "a temperature",
+      "translation": "температура, жар",
+      "example": "She's got a high temperature — over 39 degrees.",
+      "keyword": "темп",
+      "mnemonic": "Бегун держит темп с температурой — это a temperature."
+    },
+    {
+      "term": "a cold",
+      "translation": "простуда",
+      "example": "A cold starts slowly. Flu starts suddenly.",
+      "keyword": "кот",
+      "mnemonic": "Кот чихает — у него a cold, простуда."
+    },
+    {
+      "term": "flu",
+      "translation": "грипп",
+      "example": "After flu you often feel tired for three weeks.",
+      "keyword": "флюс",
+      "mnemonic": "Пациент с флюсом болеет гриппом — вот flu."
+    },
+    {
+      "term": "toothache",
+      "translation": "зубная боль",
+      "example": "I've got terrible toothache — I need a dentist.",
+      "keyword": "туса",
+      "mnemonic": "Туса держится за зуб — это toothache, зубная боль."
+    },
+    {
+      "term": "earache",
+      "translation": "боль в ухе",
+      "example": "I woke up this morning with earache.",
+      "keyword": "ирокез",
+      "mnemonic": "Панк с ирокезом держится за ухо — это earache."
+    },
+    {
+      "term": "a pain in your back",
+      "translation": "боль в спине",
+      "example": "My back hurts after eight hours at the desk.",
+      "keyword": "пень",
+      "mnemonic": "Клерк согнулся как пень с болью в спине — a pain in the back."
+    },
+    {
+      "term": "a cut",
+      "translation": "порез",
+      "example": "You broke a glass and cut your thumb badly.",
+      "keyword": "кат",
+      "mnemonic": "Каскадёр-кат показывает порез — это a cut."
+    },
+    {
+      "term": "a sprained wrist / ankle",
+      "translation": "растяжение запястья / лодыжки",
+      "example": "I have a sprained wrist from playing tennis.",
+      "keyword": "спрей",
+      "mnemonic": "Теннисист пшикает спреем на растяжение — a sprained wrist."
+    },
+    {
+      "term": "antibiotics",
+      "translation": "антибиотики",
+      "example": "You shouldn't take antibiotics for a cold.",
+      "keyword": "бита",
+      "mnemonic": "Пациент машет битой вместо антибиотиков — вот antibiotics."
+    },
+    {
+      "term": "a prescription",
+      "translation": "рецепт",
+      "example": "The doctor gave me a prescription for tablets.",
+      "keyword": "скрипка",
+      "mnemonic": "Врач пишет рецепт на скрипке — это a prescription."
+    },
+    {
+      "term": "a pharmacy",
+      "translation": "аптека",
+      "example": "In a pharmacy you can buy tablets and cream without a prescription.",
+      "keyword": "ферма",
+      "mnemonic": "Ферма торгует таблетками как аптека — это a pharmacy."
+    },
+    {
+      "term": "a doctor / a dentist",
+      "translation": "врач / стоматолог",
+      "example": "You should go to the doctor if you have a high temperature.",
+      "keyword": "доктор",
+      "mnemonic": "Доктор в халате — это a doctor, врач."
+    },
+    {
+      "term": "plasters",
+      "translation": "пластыри",
+      "example": "Could I have some plasters for my finger?",
+      "keyword": "плащ",
+      "mnemonic": "Раненый замотался в плащ вместо пластырей — вот plasters."
+    }
   ]
 }

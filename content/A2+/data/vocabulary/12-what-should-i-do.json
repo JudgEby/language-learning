@@ -2,16 +2,16 @@
   "lessonId": "what-should-i-do",
   "title": "What should I do? — новые слова",
   "items": [
-    { "term": "memorise", "translation": "запоминать, заучивать", "example": "I need to memorise these irregular verbs by Friday." },
-    { "term": "look up", "translation": "искать (в словаре / Интернете)", "example": "If you don't know the word, look it up in a dictionary." },
-    { "term": "practise", "translation": "практиковать(ся)", "example": "You should practise your pronunciation every day." },
-    { "term": "vocabulary", "translation": "словарный запас, лексика", "example": "Reading helps you expand your vocabulary." },
-    { "term": "pronunciation", "translation": "произношение", "example": "Your pronunciation is good, but you need to work on the 'th' sound." },
-    { "term": "accent", "translation": "акцент", "example": "She speaks English with a slight French accent." },
-    { "term": "grammar", "translation": "грамматика", "example": "Grammar is important, but don't forget to practise speaking too." },
-    { "term": "translate", "translation": "переводить", "example": "Try not to translate everything from your native language." },
-    { "term": "fluent", "translation": "беглый (о речи)", "example": "He's fluent in three languages." },
-    { "term": "improve", "translation": "улучшать(ся)", "example": "I want to improve my listening skills." },
-    { "term": "confident", "translation": "уверенный", "example": "The more you practise, the more confident you become." }
+    { "term": "memorise", "translation": "запоминать, заучивать", "example": "I need to memorise these irregular verbs by Friday.", "keyword": "мем", "mnemonic": "Мем про глаголы выучил наизусть — need to memorise к пятнице." },
+    { "term": "look up", "translation": "искать (в словаре / Интернете)", "example": "If you don't know the word, look it up in a dictionary.", "keyword": "лук", "mnemonic": "Стреляю луком по словарю — look it up, ищу слово." },
+    { "term": "practise", "translation": "практиковать(ся)", "example": "You should practise your pronunciation every day.", "keyword": "практика", "mnemonic": "Практика каждый день — practise pronunciation, практикуй произношение." },
+    { "term": "vocabulary", "translation": "словарный запас, лексика", "example": "Reading helps you expand your vocabulary.", "keyword": "вокал", "mnemonic": "Вокал расширяет словарь — reading helps expand your vocabulary, лексику." },
+    { "term": "pronunciation", "translation": "произношение", "example": "Your pronunciation is good, but you need to work on the 'th' sound.", "keyword": "нонсенс", "mnemonic": "Нонсенс со звуком th — pronunciation хромает, надо поработать." },
+    { "term": "accent", "translation": "акцент", "example": "She speaks English with a slight French accent.", "keyword": "акцент", "mnemonic": "Французский акцент слышен за версту — speaks with a French accent." },
+    { "term": "grammar", "translation": "грамматика", "example": "Grammar is important, but don't forget to practise speaking too.", "keyword": "грамматика", "mnemonic": "Грамматика важна — grammar, но про разговор не забывай." },
+    { "term": "translate", "translation": "переводить", "example": "Try not to translate everything from your native language.", "keyword": "транслит", "mnemonic": "Гонит всё через транслит — try not to translate, не переводи всё подряд." },
+    { "term": "fluent", "translation": "беглый (о речи)", "example": "He's fluent in three languages.", "keyword": "флейта", "mnemonic": "Льётся как флейта на трёх языках — he's fluent, речь беговая." },
+    { "term": "improve", "translation": "улучшать(ся)", "example": "I want to improve my listening skills.", "keyword": "пруд", "mnemonic": "Прыгнул в пруд навыков — want to improve listening, улучшить аудирование." },
+    { "term": "confident", "translation": "уверенный", "example": "The more you practise, the more confident you become.", "keyword": "конфета", "mnemonic": "С каждой практикой слаще конфеты — more confident, увереннее." }
   ]
 }

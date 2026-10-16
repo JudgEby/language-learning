@@ -2,14 +2,68 @@
   "lessonId": "you-cant-miss-it",
   "title": "You can't miss it! — фразы",
   "items": [
-    { "phrase": "Excuse me, how do I get to…?", "translation": "Извините, как мне пройти к…?", "example": "Excuse me, how do I get to the British Museum?" },
-    { "phrase": "Could you tell me the way to…?", "translation": "Не могли бы вы подсказать дорогу к…?", "example": "Could you tell me the way to the nearest bank?" },
-    { "phrase": "It's on the corner of…", "translation": "Это на углу…", "example": "The café is on the corner of Oxford Street and Baker Street." },
-    { "phrase": "You can't miss it!", "translation": "Не пройдёшь / не проедёшь мимо!", "example": "The hotel is a big red building opposite the station. You can't miss it!" },
-    { "phrase": "It's about five minutes' walk from here", "translation": "Это примерно в пяти минутах ходьбы отсюда", "example": "The gallery is about five minutes' walk from here." },
-    { "phrase": "Go past the… until you see…", "translation": "Пройди мимо… пока не увидишь…", "example": "Go past the supermarket until you see a blue sign." },
-    { "phrase": "It's just around the corner", "translation": "Это сразу за углом", "example": "Don't worry, the hotel is just around the corner." },
-    { "phrase": "I'm afraid I'm lost", "translation": "Боюсь, я заблудился", "example": "Excuse me, I'm afraid I'm lost. Can you help me?" },
-    { "phrase": "Is it far from here?", "translation": "Это далеко отсюда?", "example": "Is the museum far from here or can we walk?" }
+    {
+      "phrase": "Excuse me, how do I get to…?",
+      "translation": "Извините, как мне пройти к…?",
+      "example": "Excuse me, how do I get to the British Museum?",
+      "keyword": "экскурсия",
+      "mnemonic": "Турист с экскурсией бормочет Excuse me, how do I get to…? — Извините, как мне пройти к Британскому музею."
+    },
+    {
+      "phrase": "Could you tell me the way to…?",
+      "translation": "Не могли бы вы подсказать дорогу к…?",
+      "example": "Could you tell me the way to the nearest bank?",
+      "keyword": "веха",
+      "mnemonic": "С вехой в руках — Could you tell me the way to…? — Не могли бы вы подсказать дорогу к ближайшему банку."
+    },
+    {
+      "phrase": "It's on the corner of…",
+      "translation": "Это на углу…",
+      "example": "The café is on the corner of Oxford Street and Baker Street.",
+      "keyword": "корнет",
+      "mnemonic": "Мороженщик с корнетом объясняет It's on the corner of… — Это на углу Оксфорд и Бейкер."
+    },
+    {
+      "phrase": "You can't miss it!",
+      "translation": "Не пройдёшь / не проедёшь мимо!",
+      "example": "The hotel is a big red building opposite the station. You can't miss it!",
+      "keyword": "мисс",
+      "mnemonic": "Мисс в красном у вокзала — You can't miss it! — Не пройдёшь мимо отеля."
+    },
+    {
+      "phrase": "It's about five minutes' walk from here",
+      "translation": "Это примерно в пяти минутах ходьбы отсюда",
+      "example": "The gallery is about five minutes' walk from here.",
+      "keyword": "министр",
+      "mnemonic": "Министр с галереей под мышкой — It's about five minutes' walk from here, Это примерно в пяти минутах ходьбы."
+    },
+    {
+      "phrase": "Go past the… until you see…",
+      "translation": "Пройди мимо… пока не увидишь…",
+      "example": "Go past the supermarket until you see a blue sign.",
+      "keyword": "паста",
+      "mnemonic": "С пастой мимо супермаркета — Go past the… until you see… — Пройди мимо, пока не увидишь синий знак."
+    },
+    {
+      "phrase": "It's just around the corner",
+      "translation": "Это сразу за углом",
+      "example": "Don't worry, the hotel is just around the corner.",
+      "keyword": "раунд",
+      "mnemonic": "Боксёр после раунда успокаивает It's just around the corner — Это сразу за углом, отель рядом."
+    },
+    {
+      "phrase": "I'm afraid I'm lost",
+      "translation": "Боюсь, я заблудился",
+      "example": "Excuse me, I'm afraid I'm lost. Can you help me?",
+      "keyword": "лось",
+      "mnemonic": "Лось с картой блеет I'm afraid I'm lost — Боюсь, я заблудился, помогите."
+    },
+    {
+      "phrase": "Is it far from here?",
+      "translation": "Это далеко отсюда?",
+      "example": "Is the museum far from here or can we walk?",
+      "keyword": "флаг",
+      "mnemonic": "Турист с флагом пытает Is it far from here? — Это далеко отсюда, пешком дойдём."
+    }
   ]
 }

@@ -5,27 +5,79 @@
     {
       "term": "co-living",
       "translation": "совместное проживание",
-      "example": "Co-living is popular among young professionals."
+      "example": "Co-living is popular among young professionals.",
+      "keyword": "коливинг",
+      "mnemonic": "Совместное проживание популярно у молодых — коливинг с видом на двор: popular among professionals."
     },
     {
       "term": "communal",
       "translation": "общий",
-      "example": "There's a communal kitchen and lounge."
+      "example": "There's a communal kitchen and lounge.",
+      "keyword": "коммуналка",
+      "mnemonic": "Общая кухня и гостиная — почти коммуналка: communal kitchen, общий."
     },
     {
       "term": "affordable housing",
       "translation": "доступное жильё",
-      "example": "Cities need more affordable housing."
+      "example": "Cities need more affordable housing.",
+      "keyword": "хаус",
+      "mnemonic": "Городам нужно доступное жильё — хаус для всех: need more affordable housing."
     },
     {
       "term": "tenant",
       "translation": "арендатор",
-      "example": "Tenants share cleaning duties."
+      "example": "Tenants share cleaning duties.",
+      "keyword": "тент",
+      "mnemonic": "Арендаторы делят уборку — живут, как в тенте: tenants share cleaning duties."
     },
     {
       "term": "amenities",
       "translation": "удобства",
-      "example": "The building has great amenities."
+      "example": "The building has great amenities.",
+      "keyword": "именины",
+      "mnemonic": "В доме отличные удобства — гуляем именины: great amenities."
+    },
+    {
+      "term": "rental contract",
+      "translation": "договор аренды",
+      "example": "They signed an expensive rental contract.",
+      "keyword": "рента",
+      "mnemonic": "Подписали дорогой договор аренды — платят ренту: signed an expensive rental contract."
+    },
+    {
+      "term": "like-minded people",
+      "translation": "единомышленники",
+      "example": "She lives with like-minded people.",
+      "keyword": "лайк",
+      "mnemonic": "Живёт с единомышленниками — ставят друг другу лайки: like-minded people."
+    },
+    {
+      "term": "work remotely",
+      "translation": "работать удалённо",
+      "example": "Many young workers work remotely now.",
+      "keyword": "ремонт",
+      "mnemonic": "Молодые работают удалённо — чинят мир ремонтом по зуму: work remotely now."
+    },
+    {
+      "term": "spacious",
+      "translation": "просторный",
+      "example": "They offer a beautiful spacious villa.",
+      "keyword": "спейс",
+      "mnemonic": "Предлагают красивую просторную виллу — спейс для души: spacious villa."
+    },
+    {
+      "term": "stylish",
+      "translation": "стильный",
+      "example": "The flat is small but stylish.",
+      "keyword": "стиляга",
+      "mnemonic": "Квартира маленькая, но стильная — жил стиляга: small but stylish."
+    },
+    {
+      "term": "privacy",
+      "translation": "приватность",
+      "example": "Shared flats do not offer much privacy.",
+      "keyword": "приват",
+      "mnemonic": "В общих квартирах мало приватности — запирай приват на замок: not much privacy."
     }
   ]
 }

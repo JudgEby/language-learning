@@ -1,0 +1,55 @@
+{
+  "lessonId": "i-dont-feel-well",
+  "title": "I don't feel well — идиомы",
+  "items": [
+    {
+      "idiom": "drink lots of water",
+      "translation": "пить много воды",
+      "example": "You should drink lots of water every day.",
+      "keyword": "вотер",
+      "mnemonic": "Пациент с вотером пьёт много воды — drink lots of water."
+    },
+    {
+      "idiom": "go back to work too soon",
+      "translation": "слишком рано возвращаться на работу",
+      "example": "You shouldn't go back to work too soon.",
+      "keyword": "бекон",
+      "mnemonic": "Клерк с беконом вернулся слишком рано — go back to work too soon."
+    },
+    {
+      "idiom": "stay in bed today",
+      "translation": "оставаться в постели сегодня",
+      "example": "I've got a cold, so I must stay in bed today.",
+      "keyword": "бедлам",
+      "mnemonic": "Простуженный устроил бедлам и остался в постели — stay in bed today."
+    },
+    {
+      "idiom": "have terrible backache",
+      "translation": "сильно болит спина",
+      "example": "I've got terrible backache from the computer.",
+      "keyword": "баклажан",
+      "mnemonic": "Клерк с баклажаном держится за спину — have terrible backache."
+    },
+    {
+      "idiom": "can't stop eating chocolate",
+      "translation": "не могу перестать есть шоколад",
+      "example": "I can't stop eating chocolate after meals.",
+      "keyword": "чокнутый",
+      "mnemonic": "Чокнутый не может перестать есть шоколад — can't stop eating chocolate."
+    },
+    {
+      "idiom": "feel stressed and unhappy",
+      "translation": "чувствовать стресс и несчастье",
+      "example": "I often feel stressed and unhappy at work.",
+      "keyword": "стрелка",
+      "mnemonic": "Клерк смотрит на стрелку и чувствует стресс — feel stressed."
+    },
+    {
+      "idiom": "I hope that helps",
+      "translation": "надеюсь, это поможет",
+      "example": "Here are three tips. I hope that helps.",
+      "keyword": "хоп",
+      "mnemonic": "Врач подпрыгнул «хоп» — I hope that helps, надеюсь поможет."
+    }
+  ]
+}

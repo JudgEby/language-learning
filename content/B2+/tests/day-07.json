@@ -343,5 +343,80 @@
     "relatedRuleIds": [
       "in-the-workplace"
     ]
+  },
+  {
+    "question": "Complete the sentence: A waterway helps people ___.",
+    "options": [
+      "reach an audience of millions",
+      "second thoughts",
+      "determination",
+      "feel destressed and revived"
+    ],
+    "correctIndex": 3,
+    "explanation": "'feel destressed and revived' (почувствовать облегчение и прилив сил). Full sentence: A waterway helps people feel destressed and revived.",
+    "relatedRuleIds": [
+      "places"
+    ],
+    "id": "33b28b59680e"
+  },
+  {
+    "question": "Which word means 'рифма'?",
+    "options": [
+      "virtual PA",
+      "rhyme",
+      "reward",
+      "adversary"
+    ],
+    "correctIndex": 1,
+    "explanation": "'rhyme' means рифма. Example: The poem uses a lot of rhyming words.",
+    "relatedRuleIds": [
+      "street-chatter"
+    ],
+    "id": "bc8173fba5b3"
+  },
+  {
+    "question": "Which word means 'переспать с мыслью (отложить решение)'?",
+    "options": [
+      "sleep on it",
+      "utopia",
+      "reduce prices",
+      "ask if unsure"
+    ],
+    "correctIndex": 0,
+    "explanation": "'sleep on it' means переспать с мыслью (отложить решение). Example: Think it over, sleep on it — don't decide in a split second.",
+    "relatedRuleIds": [
+      "life-changing-decisions"
+    ],
+    "id": "23729ededf0c"
+  },
+  {
+    "question": "Complete the sentence: So people start to ___ for their posts.",
+    "options": [
+      "energy-efficient",
+      "matching",
+      "choose them again",
+      "output the correct decisions"
+    ],
+    "correctIndex": 2,
+    "explanation": "'choose them again' (выбирать их снова). Full sentence: So people start to choose them again for their posts.",
+    "relatedRuleIds": [
+      "word-on-the-street"
+    ],
+    "id": "31056955d55b"
+  },
+  {
+    "question": "Choose the correct collocation: The workers read information on products with a special device.",
+    "options": [
+      "personal freedom",
+      "come down to",
+      "costly",
+      "read information on something"
+    ],
+    "correctIndex": 3,
+    "explanation": "'read information on something' (считывать данные с чего-то). Full sentence: The workers read information on products with a special device.",
+    "relatedRuleIds": [
+      "science-fiction"
+    ],
+    "id": "d9ea086d2074"
   }
 ]

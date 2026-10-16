@@ -5,27 +5,77 @@
     {
       "term": "nomadic",
       "translation": "кочевой",
-      "example": "They lead a nomadic lifestyle."
+      "example": "They lead a nomadic lifestyle.",
+      "keyword": "гном",
+      "mnemonic": "Кочевой гном таскает домик на спине — they lead a nomadic lifestyle."
     },
     {
       "term": "luxurious",
       "translation": "роскошный",
-      "example": "They live in a luxurious apartment."
+      "example": "They live in a luxurious apartment.",
+      "keyword": "люкс",
+      "mnemonic": "Заселились в люкс с джакузи — luxurious apartment, роскошная квартира."
     },
     {
       "term": "minimalist",
       "translation": "минималистичный",
-      "example": "He follows a minimalist lifestyle."
+      "example": "He follows a minimalist lifestyle.",
+      "keyword": "минимум",
+      "mnemonic": "Живёт на минимум вещей — he follows a minimalist lifestyle, минималистичный."
     },
     {
       "term": "self-sufficient",
       "translation": "самодостаточный",
-      "example": "They grow their own food and are self-sufficient."
+      "example": "They grow their own food and are self-sufficient.",
+      "keyword": "селфи",
+      "mnemonic": "Выращивают еду сами и делают селфи с каждой тыквой — they are self-sufficient, самодостаточные."
     },
     {
       "term": "unconventional",
       "translation": "нетрадиционный",
-      "example": "Her career path has been unconventional."
+      "example": "Her career path has been unconventional.",
+      "keyword": "конвенции",
+      "mnemonic": "Её карьера нарушает все конвенции — unconventional path, нетрадиционный путь."
+    },
+    {
+      "term": "unique",
+      "translation": "уникальный",
+      "example": "Her lifestyle is definitely unique.",
+      "keyword": "уникум",
+      "mnemonic": "Она такой уникум — her lifestyle is definitely unique, уникальный."
+    },
+    {
+      "term": "modest",
+      "translation": "скромный",
+      "example": "They lead a modest life.",
+      "keyword": "мопед",
+      "mnemonic": "Живёт скромно и тарахтит на мопеде — they lead a modest life."
+    },
+    {
+      "term": "rewarding",
+      "translation": "приносящий удовлетворение",
+      "example": "Life on the road is exhausting but rewarding."
+    },
+    {
+      "term": "exhausting",
+      "translation": "изнурительный",
+      "example": "Running around the world is exhausting.",
+      "keyword": "экзотика",
+      "mnemonic": "Бегать вокруг света — та ещё экзотика, и изнурительная: exhausting."
+    },
+    {
+      "term": "tedious",
+      "translation": "утомительный",
+      "example": "Office work was tedious.",
+      "keyword": "титры",
+      "mnemonic": "Офисные будни тянутся, как титры после фильма, — tedious, утомительно."
+    },
+    {
+      "term": "harsh",
+      "translation": "суровый",
+      "example": "They faced harsh Siberian winters.",
+      "keyword": "харчо",
+      "mnemonic": "Суровые сибирские зимы лечат только харчо с огня — harsh winters, суровые зимы."
     }
   ]
 }

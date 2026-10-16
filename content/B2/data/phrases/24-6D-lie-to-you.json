@@ -5,17 +5,58 @@
     {
       "phrase": "tell the truth",
       "translation": "говорить правду",
-      "example": "Just tell the truth."
+      "example": "Just tell the truth.",
+      "keyword": "трус",
+      "mnemonic": "Просто скажи правду — трус врёт: just tell the truth, говорить правду."
     },
     {
       "phrase": "make up (a story)",
       "translation": "придумать (историю)",
-      "example": "Did you make that up?"
+      "example": "Did you make that up?",
+      "keyword": "макияж",
+      "mnemonic": "Ты это придумал? — макияж для фактов: did you make that up?"
     },
     {
       "phrase": "hard to believe",
       "translation": "трудно поверить",
-      "example": "His excuse is hard to believe."
+      "example": "His excuse is hard to believe.",
+      "keyword": "Билайн",
+      "mnemonic": "Его отмазке трудно поверить — звони в Билайн: hard to believe."
+    },
+    {
+      "phrase": "tell stories about yourself",
+      "translation": "рассказывать истории о себе",
+      "example": "Contestants tell stories about themselves on the show.",
+      "keyword": "сторис",
+      "mnemonic": "Участники рассказывают истории о себе — пилят сторис: tell stories about themselves."
+    },
+    {
+      "phrase": "guess whether it is true",
+      "translation": "угадывать, правда ли это",
+      "example": "We had to guess whether his story was true.",
+      "keyword": "гесс",
+      "mnemonic": "Гадали, правда ли его история, — в джинсах гесс: guess whether true."
+    },
+    {
+      "phrase": "give yourself time to think",
+      "translation": "дать себе время подумать",
+      "example": "Use fillers to give yourself time to think.",
+      "keyword": "тинктура",
+      "mnemonic": "Используй филлеры, чтобы подумать, — выпей тинктуру: give yourself time to think."
+    },
+    {
+      "phrase": "meet someone famous",
+      "translation": "встретить знаменитость",
+      "example": "Have you ever met someone famous?",
+      "keyword": "фамилия",
+      "mnemonic": "Встречал знаменитость? — не помню фамилию: met someone famous?"
+    },
+    {
+      "phrase": "give news by email",
+      "translation": "делиться новостями по email",
+      "example": "She wrote an email giving news about her trip.",
+      "keyword": "Емеля",
+      "mnemonic": "Написала письмо с новостями — Емеля развозит: giving news by email."
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "lessonId": "in-their-past",
+  "title": "In their past — идиомы",
+  "items": [
+    {
+      "idiom": "a long time ago",
+      "translation": "давно",
+      "example": "They met a long time ago, in 2010.",
+      "keyword": "луна",
+      "mnemonic": "Луна светила a long time ago — давно."
+    },
+    {
+      "idiom": "back in the day",
+      "translation": "в своё время, раньше",
+      "example": "Back in the day, there was no internet.",
+      "keyword": "бэк",
+      "mnemonic": "Диджей жмёт бэк: back in the day — в своё время."
+    },
+    {
+      "idiom": "in those days",
+      "translation": "в те дни",
+      "example": "Life was slow in those days.",
+      "keyword": "дождь",
+      "mnemonic": "В дождь in those days — в те дни."
+    },
+    {
+      "idiom": "used to live in a village",
+      "translation": "раньше жил в деревне",
+      "example": "She used to live in a small village.",
+      "keyword": "юзер",
+      "mnemonic": "Юзер used to live in a village — раньше жил в деревне."
+    },
+    {
+      "idiom": "look back on childhood",
+      "translation": "вспоминать детство",
+      "example": "He looks back on his childhood with love.",
+      "keyword": "бук",
+      "mnemonic": "Заглядывает в бук детства: look back on childhood — вспоминать детство."
+    },
+    {
+      "idiom": "born and raised in Madrid",
+      "translation": "родился и вырос в Мадриде",
+      "example": "She was born and raised in Madrid.",
+      "keyword": "борщ",
+      "mnemonic": "Борщ born and raised in Madrid — родился и вырос в Мадриде."
+    },
+    {
+      "idiom": "good old times",
+      "translation": "старые добрые времена",
+      "example": "We talked about good old times all evening.",
+      "keyword": "олень",
+      "mnemonic": "Олень ностальгирует good old times — старые добрые времена."
+    }
+  ]
+}

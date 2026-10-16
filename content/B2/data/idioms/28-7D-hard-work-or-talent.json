@@ -5,12 +5,16 @@
     {
       "idiom": "born with a silver spoon",
       "translation": "родиться в богатой семье",
-      "example": "Not everyone is born with a silver spoon."
+      "example": "Not everyone is born with a silver spoon.",
+      "keyword": "супница",
+      "mnemonic": "Не все рождаются с серебряной ложкой — супница пуста: born with a silver spoon."
     },
     {
       "idiom": "blood, sweat and tears",
       "translation": "кровь, пот и слёзы",
-      "example": "The project cost blood, sweat and tears."
+      "example": "The project cost blood, sweat and tears.",
+      "keyword": "свитер",
+      "mnemonic": "Проект стоил крови и пота — выжал свитер: blood, sweat and tears."
     }
   ]
 }

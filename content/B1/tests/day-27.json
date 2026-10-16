@@ -177,5 +177,20 @@
     "relatedRuleIds": [
       "are-you-qualified"
     ]
+  },
+  {
+    "id": "b38fabeb826b",
+    "question": "Choose the correct collocation: The event got international coverage.",
+    "options": [
+      "wonder",
+      "get coverage",
+      "memorise",
+      "win some money"
+    ],
+    "correctIndex": 1,
+    "explanation": "'get coverage' (получить освещение в СМИ). Full sentence: The event got international coverage.",
+    "relatedRuleIds": [
+      "what-really-happened"
+    ]
   }
 ]

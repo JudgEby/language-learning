@@ -2,13 +2,61 @@
   "lessonId": "tomorrows-world",
   "title": "Tomorrow's world — фразы",
   "items": [
-    { "phrase": "I think… will…", "translation": "Я думаю, … будет…", "example": "I think we will have video conference calls with holograms." },
-    { "phrase": "It might…", "translation": "Возможно,…", "example": "It might take another ten years to develop." },
-    { "phrase": "There will be…", "translation": "Будет… / Появятся…", "example": "There will be more vertical farms in cities." },
-    { "phrase": "It is likely to…", "translation": "Скорее всего, это…", "example": "This technology is likely to save millions of lives." },
-    { "phrase": "I'm not sure, but…", "translation": "Я не уверен, но…", "example": "I'm not sure, but I think robots will do most jobs." },
-    { "phrase": "Probably won't…", "translation": "Вряд ли будет…", "example": "Another big development probably won't be ready in the short term." },
-    { "phrase": "It could be that…", "translation": "Может быть так, что…", "example": "It could be that we'll all speak through translating machines." },
-    { "phrase": "I predict that…", "translation": "Я предсказываю, что…", "example": "I predict that climate change will affect traditional farming." }
+    {
+      "phrase": "I think… will…",
+      "translation": "Я думаю, … будет…",
+      "example": "I think we will have video conference calls with holograms.",
+      "keyword": "синк, вилл",
+      "mnemonic": "Синк-вилл-голограмма: I think… will — я думаю, будут видеозвонки с голограммами."
+    },
+    {
+      "phrase": "It might…",
+      "translation": "Возможно,…",
+      "example": "It might take another ten years to develop.",
+      "keyword": "майт",
+      "mnemonic": "Майт-десятка лет: it might take — возможно, разработка займёт ещё десять лет."
+    },
+    {
+      "phrase": "There will be…",
+      "translation": "Будет… / Появятся…",
+      "example": "There will be more vertical farms in cities.",
+      "keyword": "вилл, би",
+      "mnemonic": "Вилл-би-фермы в городе: there will be — будут и появятся вертикальные фермы."
+    },
+    {
+      "phrase": "It is likely to…",
+      "translation": "Скорее всего, это…",
+      "example": "This technology is likely to save millions of lives.",
+      "keyword": "лайкли",
+      "mnemonic": "Лайкли-спасение миллионов: it is likely to — скорее всего, технология спасёт миллионы жизней."
+    },
+    {
+      "phrase": "I'm not sure, but…",
+      "translation": "Я не уверен, но…",
+      "example": "I'm not sure, but I think robots will do most jobs.",
+      "keyword": "шуар",
+      "mnemonic": "Шуар-роботы сомневаются: I'm not sure, but — я не уверен, но роботы заберут работу."
+    },
+    {
+      "phrase": "Probably won't…",
+      "translation": "Вряд ли будет…",
+      "example": "Another big development probably won't be ready in the short term.",
+      "keyword": "пробабли",
+      "mnemonic": "Пробабли-тормоз прогресса: probably won't be ready — вряд ли будет готово в срок."
+    },
+    {
+      "phrase": "It could be that…",
+      "translation": "Может быть так, что…",
+      "example": "It could be that we'll all speak through translating machines.",
+      "keyword": "кудби",
+      "mnemonic": "Кудби-переводчик гудит: it could be that — может быть так, что заговорим через машины."
+    },
+    {
+      "phrase": "I predict that…",
+      "translation": "Я предсказываю, что…",
+      "example": "I predict that climate change will affect traditional farming.",
+      "keyword": "предикт",
+      "mnemonic": "Предикт-климат на карте: I predict that — я предсказываю, что климат ударит по фермам."
+    }
   ]
 }

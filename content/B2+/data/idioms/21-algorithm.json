@@ -1,0 +1,104 @@
+{
+  "lessonId": "algorithm",
+  "title": "6A Algorithm — Идиомы: алгоритмы и данные",
+  "items": [
+    {
+      "idiom": "a vicious circle",
+      "translation": "порочный круг",
+      "example": "Biased data creates a vicious circle of unfair predictions.",
+      "keyword": "сёркл",
+      "mnemonic": "Данные гоняют по сёркл-кругу: это порочный круг, — сёркл крутится a vicious circle."
+    },
+    {
+      "idiom": "make up one's mind",
+      "translation": "принять решение",
+      "example": "In the end, we must make up our own minds.",
+      "keyword": "майнд",
+      "mnemonic": "В конце включил майнд-мозг: надо принять решение самому, — майнд решает make up one's mind."
+    },
+    {
+      "idiom": "think for oneself",
+      "translation": "думать своей головой",
+      "example": "We need to think for ourselves, not follow recommendations blindly.",
+      "keyword": "синк",
+      "mnemonic": "Рекомендации тонут в синк-раковине: надо думать своей головой, — синк булькает think for oneself."
+    },
+    {
+      "idiom": "garbage in, garbage out",
+      "translation": "мусор на входе — мусор на выходе",
+      "example": "If you input biased data, remember: garbage in, garbage out.",
+      "keyword": "гарбидж",
+      "mnemonic": "В модель сыплют гарбидж-отходы: вот тебе мусор на входе — мусор на выходе, — гарбидж воняет garbage in, garbage out."
+    },
+    {
+      "idiom": "a black box",
+      "translation": "чёрный ящик",
+      "example": "For most users, the algorithm remains a black box.",
+      "keyword": "блэк-бокс",
+      "mnemonic": "Алгоритм как блэк-бокс сейф: это чёрный ящик, — блэк-бокс гудит a black box."
+    },
+    {
+      "idiom": "take with a pinch of salt",
+      "translation": "относиться скептически",
+      "example": "Take personalised recommendations with a pinch of salt.",
+      "keyword": "солт",
+      "mnemonic": "Рекомендации посыпали солт-щепоткой: надо относиться скептически, — солт щиплет take with a pinch of salt."
+    },
+    {
+      "idiom": "connect the dots",
+      "translation": "сопоставить факты",
+      "example": "The program connects the dots between thousands of profiles.",
+      "keyword": "дотс",
+      "mnemonic": "Программа соединила дотс-точки: она смогла сопоставить факты, — дотс светятся connect the dots."
+    },
+    {
+      "idiom": "a double-edged sword",
+      "translation": "палка о двух концах",
+      "example": "Predictive software is a double-edged sword.",
+      "keyword": "сорд",
+      "mnemonic": "Софт как сорд-клинок: это палка о двух концах, — сорд блестит a double-edged sword."
+    },
+    {
+      "idiom": "a slippery slope",
+      "translation": "скользкая дорожка",
+      "example": "Letting machines decide everything is a slippery slope.",
+      "keyword": "слоуп",
+      "mnemonic": "Машины катят по слоуп-склону: это скользкая дорожка, — слоуп скользит a slippery slope."
+    },
+    {
+      "idiom": "the jury is still out",
+      "translation": "вопрос остаётся открытым",
+      "example": "The jury is still out on whether algorithms are fair.",
+      "keyword": "джури",
+      "mnemonic": "Присяжные-джури молчат: вопрос остаётся открытым, — джури думает the jury is still out."
+    },
+    {
+      "idiom": "behind the scenes",
+      "translation": "за кулисами",
+      "example": "Algorithms work behind the scenes every time you shop online.",
+      "keyword": "синс",
+      "mnemonic": "Алгоритмы шуршат за синс-ширмой: они работают за кулисами, — синс шепчет behind the scenes."
+    },
+    {
+      "idiom": "a reality check",
+      "translation": "отрезвляющая проверка",
+      "example": "The scandal was a reality check for fans of big data.",
+      "keyword": "реалити",
+      "mnemonic": "Скандал как реалити-шоу: это отрезвляющая проверка фанатов, — реалити режет a reality check."
+    },
+    {
+      "idiom": "push the envelope",
+      "translation": "раздвигать границы возможного",
+      "example": "Engineers keep pushing the envelope of what machines can do.",
+      "keyword": "энвелоп",
+      "mnemonic": "Инженеры рвут энвелоп-конверт: они стали раздвигать границы возможного, — энвелоп трещит push the envelope."
+    },
+    {
+      "idiom": "a wake-up call",
+      "translation": "тревожный звонок",
+      "example": "The unfair decisions were a wake-up call for the charity.",
+      "keyword": "вейкап",
+      "mnemonic": "Решения прозвенели вейкап-будильником: это тревожный звонок, — вейкап звенит a wake-up call."
+    }
+  ]
+}

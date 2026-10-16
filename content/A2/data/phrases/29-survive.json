@@ -2,18 +2,96 @@
   "lessonId": "survive",
   "title": "Survive — фразы",
   "items": [
-    { "phrase": "get wet", "translation": "намокнуть", "example": "I forgot my umbrella and got wet." },
-    { "phrase": "get cold", "translation": "замёрзнуть", "example": "Without a jacket you'll get cold in the mountains." },
-    { "phrase": "get hot / get warm", "translation": "стать жарко / согреться", "example": "I get hot in summer and I need to get warm in winter." },
-    { "phrase": "get tired", "translation": "устать", "example": "I stayed up too late and got really tired." },
-    { "phrase": "get hungry / thirsty", "translation": "проголодаться / захотеть пить", "example": "I didn't eat breakfast so I'm getting hungry." },
-    { "phrase": "get lost", "translation": "заблудиться", "example": "I was out in Istanbul. I didn't have a satnav or a map so I got lost." },
-    { "phrase": "get sunburnt", "translation": "обгореть", "example": "I stayed out in the sun and got sunburnt." },
-    { "phrase": "get stung", "translation": "быть укушенным", "example": "She put her hand on a bee and got stung." },
-    { "phrase": "sit by the fire", "translation": "сесть у камина", "example": "Can I sit by the fire? I need to get warm." },
-    { "phrase": "there's no signal", "translation": "нет сигнала", "example": "A mobile often won't work because there's no signal." },
-    { "phrase": "what do you do in this situation?", "translation": "что ты делаешь в такой ситуации?", "example": "What do you do if you're in a car?" },
-    { "phrase": "Are you ready for ... ?", "translation": "Ты готов к ... ?", "example": "Are you ready for nature's little surprises?" },
-    { "phrase": "take a credit card", "translation": "взять с собой кредитную карту", "example": "Take a credit card, a phone and some water." }
+    {
+      "phrase": "get wet",
+      "translation": "намокнуть",
+      "example": "I forgot my umbrella and got wet.",
+      "keyword": "ветчина",
+      "mnemonic": "Турист с ветчиной намок — get wet."
+    },
+    {
+      "phrase": "get cold",
+      "translation": "замёрзнуть",
+      "example": "Without a jacket you'll get cold in the mountains.",
+      "keyword": "кольт",
+      "mnemonic": "Ковбой с кольтом замёрз — get cold."
+    },
+    {
+      "phrase": "get hot / get warm",
+      "translation": "стать жарко / согреться",
+      "example": "I get hot in summer and I need to get warm in winter.",
+      "keyword": "хот-дог",
+      "mnemonic": "Атлет с хот-догом греется — get hot, get warm."
+    },
+    {
+      "phrase": "get tired",
+      "translation": "устать",
+      "example": "I stayed up too late and got really tired.",
+      "keyword": "тариф",
+      "mnemonic": "Клерк считает тариф и устал — get tired."
+    },
+    {
+      "phrase": "get hungry / thirsty",
+      "translation": "проголодаться / захотеть пить",
+      "example": "I didn't eat breakfast so I'm getting hungry.",
+      "keyword": "хан",
+      "mnemonic": "Хан требует еды — get hungry, проголодаться."
+    },
+    {
+      "phrase": "get lost",
+      "translation": "заблудиться",
+      "example": "I was out in Istanbul. I didn't have a satnav or a map so I got lost.",
+      "keyword": "лось",
+      "mnemonic": "Лось заблудился — get lost."
+    },
+    {
+      "phrase": "get sunburnt",
+      "translation": "обгореть",
+      "example": "I stayed out in the sun and got sunburnt.",
+      "keyword": "санбернар",
+      "mnemonic": "Санбернар обгорел — get sunburnt."
+    },
+    {
+      "phrase": "get stung",
+      "translation": "быть укушенным",
+      "example": "She put her hand on a bee and got stung.",
+      "keyword": "танго",
+      "mnemonic": "Пчела танцует танго и кусает — get stung."
+    },
+    {
+      "phrase": "sit by the fire",
+      "translation": "сесть у камина",
+      "example": "Can I sit by the fire? I need to get warm.",
+      "keyword": "фаер",
+      "mnemonic": "Артист с фаером сел у камина — sit by the fire."
+    },
+    {
+      "phrase": "there's no signal",
+      "translation": "нет сигнала",
+      "example": "A mobile often won't work because there's no signal.",
+      "keyword": "сига",
+      "mnemonic": "Турист машет сигой — there's no signal, нет сигнала."
+    },
+    {
+      "phrase": "what do you do in this situation?",
+      "translation": "что ты делаешь в такой ситуации?",
+      "example": "What do you do if you're in a car?",
+      "keyword": "сито",
+      "mnemonic": "Повар с ситом спрашивает — what do you do in this situation."
+    },
+    {
+      "phrase": "Are you ready for ... ?",
+      "translation": "Ты готов к ... ?",
+      "example": "Are you ready for nature's little surprises?",
+      "keyword": "редиска",
+      "mnemonic": "Скаут с редиской готов — Are you ready, ты готов."
+    },
+    {
+      "phrase": "take a credit card",
+      "translation": "взять с собой кредитную карту",
+      "example": "Take a credit card, a phone and some water.",
+      "keyword": "критик",
+      "mnemonic": "Критик машет кредиткой — take a credit card, взять карту."
+    }
   ]
 }

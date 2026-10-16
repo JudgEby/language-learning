@@ -1,0 +1,55 @@
+{
+  "lessonId": "im-just-looking",
+  "title": "I'm just looking — покупки в магазине",
+  "items": [
+    {
+      "idiom": "Do you sell...?",
+      "translation": "У вас продаётся?",
+      "example": "Hello, do you sell those things that soldiers wear?",
+      "keyword": "сельдь",
+      "mnemonic": "Покупатель с сельдью в камуфляже — Do you sell...? — У вас продаётся то, что носят солдаты."
+    },
+    {
+      "idiom": "Are you looking for anything in particular?",
+      "translation": "Вы ищете что-то конкретное?",
+      "example": "Hi there. Are you looking for anything in particular?",
+      "keyword": "портупея",
+      "mnemonic": "Продавец с портупеей через плечо — Are you looking for anything in particular? — Вы ищете что-то конкретное."
+    },
+    {
+      "idiom": "Who is next, please?",
+      "translation": "Кто следующий?",
+      "example": "Who is next, please? I can help you here.",
+      "keyword": "нектар",
+      "mnemonic": "Кассир с нектаром на кассе — Who is next, please? — Кто следующий, помогу здесь."
+    },
+    {
+      "idiom": "Can you enter your PIN?",
+      "translation": "Введите PIN-код",
+      "example": "Are you paying by card? Can you enter your PIN, please?",
+      "keyword": "пень",
+      "mnemonic": "Терминал с пнём вместо кнопок — Can you enter your PIN? — Введите PIN-код, картой платите."
+    },
+    {
+      "idiom": "Can you just sign here?",
+      "translation": "Подпишите здесь",
+      "example": "Can you just sign here, please? Thank you.",
+      "keyword": "сигнал",
+      "mnemonic": "Кассир с сигналом ручки — Can you just sign here? — Подпишите здесь, спасибо."
+    },
+    {
+      "idiom": "It is a kind of...",
+      "translation": "Это разновидность...",
+      "example": "It is a kind of liquid you use for cooking.",
+      "keyword": "киндер",
+      "mnemonic": "Повар с киндером масла — It is a kind of... — Это разновидность жидкости для готовки."
+    },
+    {
+      "idiom": "It is a type of...",
+      "translation": "Это тип...",
+      "example": "It is a type of jacket soldiers wear.",
+      "keyword": "тайфун",
+      "mnemonic": "Военторг с тайфуном курток — It is a type of... — Это тип куртки, что носят солдаты."
+    }
+  ]
+}

@@ -5,17 +5,23 @@
     {
       "idiom": "on cloud nine",
       "translation": "на седьмом небе",
-      "example": "When she passed the exam, she was on cloud nine for days."
+      "example": "When she passed the exam, she was on cloud nine for days.",
+      "keyword": "клауд",
+      "mnemonic": "Клауд после экзамена: on cloud nine — на седьмом небе несколько дней."
     },
     {
       "idiom": "down in the dumps",
       "translation": "в подавленном состоянии",
-      "example": "He has been down in the dumps since he lost his job."
+      "example": "He has been down in the dumps since he lost his job.",
+      "keyword": "дамп",
+      "mnemonic": "Дамп после увольнения: down in the dumps — в подавленном состоянии, работу потерял."
     },
     {
       "idiom": "take something to heart",
       "translation": "принимать близко к сердцу",
-      "example": "Don't take the criticism to heart — they were just trying to help."
+      "example": "Don't take the criticism to heart — they were just trying to help.",
+      "keyword": "харт",
+      "mnemonic": "Харт раним от критики: take something to heart — принимать близко к сердцу, они лишь хотели помочь."
     }
   ]
 }

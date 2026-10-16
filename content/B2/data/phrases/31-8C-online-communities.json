@@ -5,17 +5,58 @@
     {
       "phrase": "join a community",
       "translation": "присоединиться к сообществу",
-      "example": "I joined an online community for writers."
+      "example": "I joined an online community for writers.",
+      "keyword": "джойстик",
+      "mnemonic": "Вступил в сообщество писателей — держи джойстик: joined an online community."
     },
     {
       "phrase": "post a comment",
       "translation": "оставить комментарий",
-      "example": "He posted a comment supporting the idea."
+      "example": "He posted a comment supporting the idea.",
+      "keyword": "комментатор",
+      "mnemonic": "Оставил комментарий в поддержку — работает комментатором: posted a comment."
     },
     {
       "phrase": "build connections",
       "translation": "строить связи",
-      "example": "Platforms help build connections."
+      "example": "Platforms help build connections.",
+      "keyword": "коннект",
+      "mnemonic": "Платформы помогают строить связи — ловят коннект: help build connections."
+    },
+    {
+      "phrase": "connect with like-minded people",
+      "translation": "общаться с единомышленниками",
+      "example": "She goes online to connect with like-minded people.",
+      "keyword": "лайк",
+      "mnemonic": "Выходит в сеть к единомышленникам — собирает лайки: connect with like-minded people."
+    },
+    {
+      "phrase": "broaden your understanding",
+      "translation": "расширять понимание",
+      "example": "Travel broadens your understanding of other cultures.",
+      "keyword": "Бродвей",
+      "mnemonic": "Путешествия расширяют понимание культур — ведут на Бродвей: broadens understanding."
+    },
+    {
+      "phrase": "have a good social life",
+      "translation": "иметь насыщенную социальную жизнь",
+      "example": "He still manages to have a good social life online.",
+      "keyword": "социалка",
+      "mnemonic": "Умудряется вести насыщенную социальную жизнь — сидит на социалке: good social life."
+    },
+    {
+      "phrase": "by far the best",
+      "translation": "безусловно лучший",
+      "example": "Working together is by far the best way to build trust.",
+      "keyword": "фара",
+      "mnemonic": "Работать вместе — безусловно лучший способ: свети фарой: by far the best."
+    },
+    {
+      "phrase": "on the whole",
+      "translation": "в целом",
+      "example": "On the whole, neighbours were happy to help.",
+      "keyword": "холст",
+      "mnemonic": "В целом соседи были рады помочь — рисуй холст: on the whole, в целом."
     }
   ]
 }

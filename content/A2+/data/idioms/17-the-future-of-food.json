@@ -1,0 +1,55 @@
+{
+  "lessonId": "the-future-of-food",
+  "title": "The future of food — идиомы",
+  "items": [
+    {
+      "idiom": "eat insects",
+      "translation": "есть насекомых",
+      "example": "In the future more people may eat insects.",
+      "keyword": "инспектор",
+      "mnemonic": "Инспектор жуёт кузнечика — eat insects, есть насекомых в будущем."
+    },
+    {
+      "idiom": "make food from seaweed",
+      "translation": "делать еду из морских водорослей",
+      "example": "Scientists can already make food from seaweed and wood.",
+      "keyword": "свитер",
+      "mnemonic": "Учёный в свитере из водорослей — make food from seaweed, делать еду из морских водорослей и дерева."
+    },
+    {
+      "idiom": "create meat in the lab",
+      "translation": "создавать мясо в лаборатории",
+      "example": "Scientists have found ways to create meat in the lab.",
+      "keyword": "лаборант",
+      "mnemonic": "Лаборант с котлетой в колбе — create meat in the lab, создавать мясо в лаборатории, способы найдены."
+    },
+    {
+      "idiom": "grow food to save money",
+      "translation": "выращивать еду, чтобы сэкономить",
+      "example": "More people might grow food to save money.",
+      "keyword": "гроздь",
+      "mnemonic": "Дачник с гроздью экономии — grow food to save money, выращивать еду, чтобы сэкономить."
+    },
+    {
+      "idiom": "order food on the internet",
+      "translation": "заказывать еду через интернет",
+      "example": "The next generation will order food on the internet.",
+      "keyword": "интернат",
+      "mnemonic": "Поколение из интерната тычет в экран — order food on the internet, заказывать еду через интернет."
+    },
+    {
+      "idiom": "cook with love",
+      "translation": "готовить с любовью",
+      "example": "In my country we take time to cook and cook with love.",
+      "keyword": "лавка",
+      "mnemonic": "Бабушка с лавкой специй — cook with love, готовить с любовью, не спеша."
+    },
+    {
+      "idiom": "taste food from many countries",
+      "translation": "попробовать еду из многих стран",
+      "example": "We got together and tasted food from many countries.",
+      "keyword": "тестировщик",
+      "mnemonic": "Тестировщик с флагами кухонь — taste food from many countries, попробовать еду из многих стран вместе."
+    }
+  ]
+}

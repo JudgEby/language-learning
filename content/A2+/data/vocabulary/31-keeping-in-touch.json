@@ -2,15 +2,75 @@
   "lessonId": "keeping-in-touch",
   "title": "Keeping in touch — новые слова",
   "items": [
-    { "term": "text", "translation": "текстовое сообщение, смс", "example": "I'll send you a text when I arrive." },
-    { "term": "email", "translation": "электронное письмо", "example": "Could you forward that email to me?" },
-    { "term": "instant message", "translation": "мгновенное сообщение", "example": "We chat through instant messages every day." },
-    { "term": "social media", "translation": "социальные сети", "example": "She spends too much time on social media." },
-    { "term": "video call", "translation": "видеозвонок", "example": "Let's have a video call this weekend." },
-    { "term": "voicemail", "translation": "голосовая почта", "example": "He left a voicemail while I was in a meeting." },
-    { "term": "attachment", "translation": "вложение", "example": "I can't open the attachment you sent." },
-    { "term": "reply", "translation": "ответить", "example": "Please reply to my message as soon as possible." },
-    { "term": "forward", "translation": "переслать", "example": "Can you forward me the information?" },
-    { "term": "keep in touch", "translation": "поддерживать связь", "example": "Let's keep in touch after the course ends." }
+    {
+      "term": "text",
+      "translation": "текстовое сообщение, смс",
+      "example": "I'll send you a text when I arrive.",
+      "keyword": "тесто",
+      "mnemonic": "Гонец лепит из теста text — текстовое сообщение и смс о приезде."
+    },
+    {
+      "term": "email",
+      "translation": "электронное письмо",
+      "example": "Could you forward that email to me?",
+      "keyword": "емеля",
+      "mnemonic": "Емеля на печи ждёт email — электронное письмо для пересылки."
+    },
+    {
+      "term": "instant message",
+      "translation": "мгновенное сообщение",
+      "example": "We chat through instant messages every day.",
+      "keyword": "станция",
+      "mnemonic": "На станции все строчат instant message — мгновенные сообщения каждый день."
+    },
+    {
+      "term": "social media",
+      "translation": "социальные сети",
+      "example": "She spends too much time on social media.",
+      "keyword": "медь",
+      "mnemonic": "Блогерша собирает медь ради social media — ради социальных сетей, сидя в телефоне."
+    },
+    {
+      "term": "video call",
+      "translation": "видеозвонок",
+      "example": "Let's have a video call this weekend.",
+      "keyword": "ведро",
+      "mnemonic": "Бабушка кричит в ведро — у неё video call, видеозвонок на выходных."
+    },
+    {
+      "term": "voicemail",
+      "translation": "голосовая почта",
+      "example": "He left a voicemail while I was in a meeting.",
+      "keyword": "вой",
+      "mnemonic": "В трубке слышен вой — это voicemail, голосовая почта с совещания."
+    },
+    {
+      "term": "attachment",
+      "translation": "вложение",
+      "example": "I can't open the attachment you sent.",
+      "keyword": "тачанка",
+      "mnemonic": "Файл не влезает в тачанку — не открыть attachment, вложение от друга."
+    },
+    {
+      "term": "reply",
+      "translation": "ответить",
+      "example": "Please reply to my message as soon as possible.",
+      "keyword": "реплика",
+      "mnemonic": "Артист бросил реплику — он reply, ответил на сообщение срочно."
+    },
+    {
+      "term": "forward",
+      "translation": "переслать",
+      "example": "Can you forward me the information?",
+      "keyword": "фартук",
+      "mnemonic": "Официант в фартуке просит forward — переслать ему информацию."
+    },
+    {
+      "term": "keep in touch",
+      "translation": "поддерживать связь",
+      "example": "Let's keep in touch after the course ends.",
+      "keyword": "туча",
+      "mnemonic": "Друзья машут из-за тучи — keep in touch, поддерживают связь после курса."
+    }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "lessonId": "algorithm",
+  "title": "6A Algorithm — Алгоритмы и решения",
+  "items": [
+    {
+      "phrase": "make mistakes",
+      "translation": "ошибаться",
+      "example": "Algorithms can make mistakes about people too.",
+      "keyword": "мостик",
+      "mnemonic": "Алгоритм споткнулся на мостике и стал ошибаться в людях — мостик шатается под make mistakes."
+    },
+    {
+      "phrase": "make decisions about our lives",
+      "translation": "принимать решения о нашей жизни",
+      "example": "Algorithms are increasingly used to make decisions about our lives.",
+      "keyword": "десант",
+      "mnemonic": "Десант высадился, чтобы принимать решения о нашей жизни за нас, — десант командует make decisions about our lives."
+    },
+    {
+      "phrase": "take out a mortgage",
+      "translation": "брать ипотеку",
+      "example": "If we apply to take out a mortgage, an algorithm checks our data.",
+      "keyword": "морж",
+      "mnemonic": "Морж пришёл в банк брать ипотеку на льдину — морж кряхтит take out a mortgage."
+    },
+    {
+      "phrase": "borrow money to buy a car",
+      "translation": "занимать деньги на машину",
+      "example": "An algorithm will dictate how much the bank will lend us to buy a car.",
+      "keyword": "боров",
+      "mnemonic": "Боров копил, чтобы занимать деньги на машину не пришлось, — боров хрюкает borrow money to buy a car."
+    },
+    {
+      "phrase": "influence the choices",
+      "translation": "влиять на выбор",
+      "example": "Adverts may influence the choices we make about what to watch.",
+      "keyword": "флюс",
+      "mnemonic": "Флюс раздул щёку и стал влиять на выбор фильма на вечер — флюс ноет influence the choices."
+    },
+    {
+      "phrase": "have so much power over",
+      "translation": "иметь огромную власть над",
+      "example": "Never before have machines had so much power over our lives.",
+      "keyword": "повар",
+      "mnemonic": "Повар захватил кухню и стал иметь огромную власть над меню — повар правит have so much power over."
+    },
+    {
+      "phrase": "challenge the decision",
+      "translation": "оспорить решение",
+      "example": "There was no way of challenging the decision made by the machine.",
+      "keyword": "челюсть",
+      "mnemonic": "Челюсть отвисла, когда попытались оспорить решение машины, — челюсть скрипит challenge the decision."
+    },
+    {
+      "phrase": "argue with a machine",
+      "translation": "спорить с машиной",
+      "example": "You cannot argue with a machine when it cuts your income.",
+      "keyword": "аргумент",
+      "mnemonic": "Последний аргумент утонул в гудении сервера: спорить с машиной бесполезно — аргумент проиграл argue with a machine."
+    },
+    {
+      "phrase": "process huge amounts of data",
+      "translation": "обрабатывать огромные объёмы данных",
+      "example": "A computer has greater ability to process huge amounts of data.",
+      "keyword": "процессия",
+      "mnemonic": "Процессия байтов тянется, чтобы обрабатывать огромные объёмы данных, — процессия шествует process huge amounts of data."
+    },
+    {
+      "phrase": "input the data",
+      "translation": "вводить данные",
+      "example": "All you have to do is input the data into the program.",
+      "keyword": "путёвка",
+      "mnemonic": "Данные оформили как путёвку и стали вводить данные в программу — путёвка проводит input the data."
+    },
+    {
+      "phrase": "output the correct decisions",
+      "translation": "выдавать верные решения",
+      "example": "The computer will not always output the correct decisions.",
+      "keyword": "отпуск",
+      "mnemonic": "Компьютер ушёл в отпуск и перестал выдавать верные решения — отпуск винит output the correct decisions."
+    },
+    {
+      "phrase": "trust the algorithm",
+      "translation": "доверять алгоритму",
+      "example": "People tend to trust the algorithm more than a human expert.",
+      "keyword": "трость",
+      "mnemonic": "Старик опирается на трость и продолжает доверять алгоритму больше врача — трость стучит trust the algorithm."
+    },
+    {
+      "phrase": "only as good as the people",
+      "translation": "хорош лишь настолько, насколько люди",
+      "example": "The algorithm is only as good as the people who designed it.",
+      "keyword": "гудок",
+      "mnemonic": "Алгоритм гудит как гудок: он хорош лишь настолько, насколько люди его учили — гудок гудит only as good as the people."
+    },
+    {
+      "phrase": "impact people's lives",
+      "translation": "влиять на жизнь людей",
+      "example": "Skewed decisions can really impact people's lives in a negative way.",
+      "keyword": "компакт",
+      "mnemonic": "Кривое решение записали на компакт, и оно стало влиять на жизнь людей — компакт крутит impact people's lives."
+    },
+    {
+      "phrase": "under no circumstances",
+      "translation": "ни при каких обстоятельствах",
+      "example": "Under no circumstances should a computer make such decisions alone.",
+      "keyword": "цирк",
+      "mnemonic": "В цирке объявили: ни при каких обстоятельствах слон не решает за директора — цирк трубит under no circumstances."
+    },
+    {
+      "phrase": "keep in touch with friends",
+      "translation": "поддерживать связь с друзьями",
+      "example": "I use social media as a way of keeping in touch with friends.",
+      "keyword": "тачка",
+      "mnemonic": "Друзья прикатили на тачке, чтобы поддерживать связь с друзьями вживую, — тачка тарахтит keep in touch with friends."
+    },
+    {
+      "phrase": "keep up with world events",
+      "translation": "следить за мировыми событиями",
+      "example": "I also use it for keeping up with world events every day.",
+      "keyword": "ивент",
+      "mnemonic": "Каждый ивент в ленте помогает следить за мировыми событиями — ивент мелькает в keep up with world events."
+    },
+    {
+      "phrase": "tied to my profile",
+      "translation": "привязано к моему профилю",
+      "example": "Everything offered to me was closely tied to my profile.",
+      "keyword": "тайник",
+      "mnemonic": "Все рекомендации достали из тайника: всё привязано к моему профилю — тайник хранит tied to my profile."
+    }
+  ]
+}

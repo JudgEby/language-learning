@@ -1,0 +1,55 @@
+{
+  "lessonId": "great-experiences",
+  "title": "Great experiences — идиомы",
+  "items": [
+    {
+      "idiom": "watch the sunrise",
+      "translation": "смотреть рассвет",
+      "example": "I've watched the sunrise in the desert.",
+      "keyword": "сарай",
+      "mnemonic": "Турист на сарае смотрит рассвет — watch the sunrise."
+    },
+    {
+      "idiom": "meet locals everywhere",
+      "translation": "встречать местных повсюду",
+      "example": "Meeting locals everywhere was the best part.",
+      "keyword": "митинг",
+      "mnemonic": "Путешественник на митинге встречает местных — meet locals."
+    },
+    {
+      "idiom": "take 100 photos",
+      "translation": "делать сто фото",
+      "example": "I took 100 photos of the Blue Mosque.",
+      "keyword": "фотик",
+      "mnemonic": "Турист с фотиком делает сто фото — take 100 photos."
+    },
+    {
+      "idiom": "see the temples",
+      "translation": "увидеть храмы",
+      "example": "We've seen the temples in Kom Ombo.",
+      "keyword": "темп",
+      "mnemonic": "Гид держит темп у храмов — see the temples."
+    },
+    {
+      "idiom": "buy a lamp",
+      "translation": "купить лампу",
+      "example": "We want to buy a lamp at the market.",
+      "keyword": "ляп",
+      "mnemonic": "Турист ляпнул и купил лампу — buy a lamp."
+    },
+    {
+      "idiom": "have dinner on a boat",
+      "translation": "ужинать на лодке",
+      "example": "We're going to have dinner on a boat on the river.",
+      "keyword": "дыня",
+      "mnemonic": "Туристы с дыней ужинают на лодке — have dinner on a boat."
+    },
+    {
+      "idiom": "visit a famous mosque",
+      "translation": "посетить известную мечеть",
+      "example": "On Saturday we're going to visit a famous mosque.",
+      "keyword": "визит",
+      "mnemonic": "Турист с визитом идёт в мечеть — visit a famous mosque."
+    }
+  ]
+}

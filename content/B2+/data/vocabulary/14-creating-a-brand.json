@@ -5,82 +5,114 @@
     {
       "term": "brand",
       "translation": "бренд, торговая марка",
-      "example": "This is one of the most recognisable brands."
+      "example": "This is one of the most recognisable brands.",
+      "keyword": "брань",
+      "mnemonic": "Узнаваемый бренд ругают бранью конкуренты — вот тебе brand."
     },
     {
       "term": "branding",
       "translation": "брендинг",
-      "example": "Branding is essential for customer loyalty."
+      "example": "Branding is essential for customer loyalty.",
+      "keyword": "брань динг",
+      "mnemonic": "Брендинг с бранью и дингом колокола держит клиентов — вот тебе branding."
     },
     {
       "term": "promote",
       "translation": "продвигать, рекламировать",
-      "example": "They are promoting their new product online."
+      "example": "They are promoting their new product online.",
+      "keyword": "промокод",
+      "mnemonic": "Продвигать и рекламировать товар промокодом — вот тебе promote."
     },
     {
       "term": "marketing strategy",
       "translation": "маркетинговая стратегия",
-      "example": "The marketing strategy needs to be updated."
+      "example": "The marketing strategy needs to be updated.",
+      "keyword": "маркет старь",
+      "mnemonic": "Маркетинговую стратегию на маркете старь обнови — вот тебе marketing strategy."
     },
     {
       "term": "campaign",
       "translation": "кампания",
-      "example": "The advertising campaign was a huge success."
+      "example": "The advertising campaign was a huge success.",
+      "keyword": "компания",
+      "mnemonic": "Рекламная кампания прошла как весёлая компания — вот тебе campaign."
     },
     {
       "term": "target audience",
       "translation": "целевая аудитория",
-      "example": "Who is the target audience for this ad?"
+      "example": "Who is the target audience for this ad?",
+      "keyword": "торг",
+      "mnemonic": "Целевая аудитория торгуется у щита — вот тебе target audience."
     },
     {
       "term": "advertise",
       "translation": "рекламировать",
-      "example": "Companies advertise on social media."
+      "example": "Companies advertise on social media.",
+      "keyword": "ад вертись",
+      "mnemonic": "Рекламировать в соцсетях — ад, вертись как хочешь, вот тебе advertise."
     },
     {
       "term": "logo",
       "translation": "логотип",
-      "example": "The logo is simple but memorable."
+      "example": "The logo is simple but memorable.",
+      "keyword": "локо",
+      "mnemonic": "Простой запоминающийся логотип тащит локомотив — вот тебе logo."
     },
     {
       "term": "slogan",
       "translation": "слоган",
-      "example": "They created a catchy slogan for the brand."
+      "example": "They created a catchy slogan for the brand.",
+      "keyword": "слон ган",
+      "mnemonic": "Цепляющий слоган кричит слон с гантелей — вот тебе slogan."
     },
     {
       "term": "launch",
       "translation": "запуск, выпуск",
-      "example": "The product launch is scheduled for next month."
+      "example": "The product launch is scheduled for next month.",
+      "keyword": "ланч",
+      "mnemonic": "Запуск и выпуск продукта за ланчем назначили — вот тебе launch."
     },
     {
       "term": "merchandise",
       "translation": "сувенирная продукция, мерч",
-      "example": "You can see the logo on T-shirts and other merchandise."
+      "example": "You can see the logo on T-shirts and other merchandise.",
+      "keyword": "мерч дайс",
+      "mnemonic": "Сувенирная продукция и мерч — мерч дай с футболкой, вот тебе merchandise."
     },
     {
       "term": "billboard",
       "translation": "рекламный щит",
-      "example": "The ad is on billboards on the walls of buildings."
+      "example": "The ad is on billboards on the walls of buildings.",
+      "keyword": "бил борт",
+      "mnemonic": "Рекламный щит, где бил в борт здания, — вот тебе billboard."
     },
     {
       "term": "flyer",
       "translation": "флаер, листовка",
-      "example": "We produced thousands of flyers and handed them out."
+      "example": "We produced thousands of flyers and handed them out.",
+      "keyword": "флора",
+      "mnemonic": "Тысячи листовок разбросали во флоре парка — вот тебе flyer."
     },
     {
       "term": "go viral",
       "translation": "стать вирусным",
-      "example": "The video went viral, reaching an audience of millions."
+      "example": "The video went viral, reaching an audience of millions.",
+      "keyword": "вирус",
+      "mnemonic": "Видео стало вирусным, как вирус у миллионов, — вот тебе go viral."
     },
     {
       "term": "hype",
       "translation": "ажиотаж",
-      "example": "Despite the hype, the campaign was not as successful as hoped."
+      "example": "Despite the hype, the campaign was not as successful as hoped.",
+      "keyword": "хайп",
+      "mnemonic": "Ажиотаж и хайп не спасли кампанию — вот тебе hype."
     },
     {
       "term": "push",
       "translation": "активная кампания (продвижение)",
-      "example": "In 2006 there was a big push to promote the city."
+      "example": "In 2006 there was a big push to promote the city.",
+      "keyword": "пушка",
+      "mnemonic": "Активная кампания продвижения с пушкой в городе — вот тебе push."
     }
   ]
 }

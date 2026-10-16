@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "can-you-tell-me"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: Have you ever tried bungee jumping?",
+    "options": [
+      "Shall we…?",
+      "qualification",
+      "boss",
+      "Have you ever…?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Have you ever…?' (Ты когда-нибудь…?). Full sentence: Have you ever tried bungee jumping?",
+    "relatedRuleIds": [
+      "hidden-talent"
+    ],
+    "id": "e223e7cd96ca"
+  },
+  {
+    "question": "Choose the correct collocation: I was wondering if you could help me find this address.",
+    "options": [
+      "hang up",
+      "happiness",
+      "I was wondering if you could help me.",
+      "rucksack"
+    ],
+    "correctIndex": 2,
+    "explanation": "'I was wondering if you could help me.' (Я подумал, не могли бы вы мне помочь.). Full sentence: I was wondering if you could help me find this address.",
+    "relatedRuleIds": [
+      "can-you-tell-me"
+    ],
+    "id": "53c6504e72a0"
+  },
+  {
+    "question": "Complete the sentence: ___ at the airport.",
+    "options": [
+      "fit",
+      "I heard that...",
+      "Have you already decided where to go?",
+      "I'll call you when I arrive"
+    ],
+    "correctIndex": 3,
+    "explanation": "'I'll call you when I arrive' (Я позвоню тебе, когда приеду). Full sentence: I'll call you when I arrive at the airport.",
+    "relatedRuleIds": [
+      "make-a-difference"
+    ],
+    "id": "5bdb303e1a4c"
   }
 ]

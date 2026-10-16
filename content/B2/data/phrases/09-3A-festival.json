@@ -5,17 +5,58 @@
     {
       "phrase": "sell out",
       "translation": "распродаться",
-      "example": "Tickets sold out in minutes."
+      "example": "Tickets sold out in minutes.",
+      "keyword": "салат",
+      "mnemonic": "Билеты распродались за минуты — разобрали, как салат: sold out in minutes."
     },
     {
       "phrase": "warm up",
       "translation": "разогревать (публику)",
-      "example": "A local band warmed up the crowd."
+      "example": "A local band warmed up the crowd.",
+      "keyword": "ворс",
+      "mnemonic": "Местная группа разогрела толпу — грели ворсом: warmed up the crowd."
     },
     {
       "phrase": "pull out",
       "translation": "отказаться от участия",
-      "example": "The singer pulled out at the last minute."
+      "example": "The singer pulled out at the last minute.",
+      "keyword": "пуловер",
+      "mnemonic": "Певец отказался в последний момент — снял пуловер: pulled out at the last minute."
+    },
+    {
+      "phrase": "attend a festival",
+      "translation": "посещать фестиваль",
+      "example": "Thousands of people attend this festival every summer.",
+      "keyword": "тент",
+      "mnemonic": "Тысячи посещают фестиваль каждое лето — ставят тенты: attend every summer."
+    },
+    {
+      "phrase": "attract crowds",
+      "translation": "привлекать толпы",
+      "example": "The line-up attracts huge crowds every year.",
+      "keyword": "трактор",
+      "mnemonic": "Состав затаскивает толпы, как трактор, — attracts huge crowds, привлекать толпы."
+    },
+    {
+      "phrase": "have an impact on (the environment)",
+      "translation": "оказывать влияние на (окружающую среду)",
+      "example": "Big events can have a hugely negative impact on the environment.",
+      "keyword": "пакт",
+      "mnemonic": "События влияют на природу — заключили пакт: hugely negative impact on the environment."
+    },
+    {
+      "phrase": "leave no trace",
+      "translation": "не оставлять следов",
+      "example": "The festival operates with the aim of leaving no trace.",
+      "keyword": "трейлер",
+      "mnemonic": "Фестиваль не оставляет следов — только трейлер: aim of leaving no trace."
+    },
+    {
+      "phrase": "catch a glimpse of (sb)",
+      "translation": "мельком увидеть (кого-то)",
+      "example": "We slept in a tent to catch a glimpse of our favourite act.",
+      "keyword": "глиссер",
+      "mnemonic": "Мельком увидеть кумира — промчался глиссер: catch a glimpse, мельком увидеть."
     }
   ]
 }

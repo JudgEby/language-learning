@@ -2,18 +2,96 @@
   "lessonId": "great-experiences",
   "title": "Great experiences — фразы",
   "items": [
-    { "phrase": "Have you ever ...?", "translation": "Ты когда-нибудь ...?", "example": "Have you ever been to the Sahara Desert?" },
-    { "phrase": "Yes, I have. / No, I haven't.", "translation": "Да, был. / Нет, не был.", "example": "Have you ever slept in a tent? — No, I haven't." },
-    { "phrase": "I've never ...", "translation": "Я никогда не ...", "example": "I've never eaten sushi." },
-    { "phrase": "I'd like to, but ...", "translation": "Хотел бы, но ...", "example": "No, I haven't, but I'd like to." },
-    { "phrase": "have you seen ... yet?", "translation": "Ты уже видел ...?", "example": "Have you seen the film yet? — No, not yet." },
-    { "phrase": "It was an amazing experience.", "translation": "Это было потрясающее впечатление.", "example": "It was an amazing experience — I'd do it again." },
-    { "phrase": "be different from what I expected", "translation": "отличаться от того, что я ожидал", "example": "The city is very different from what I expected." },
-    { "phrase": "get up at six", "translation": "вставать в шесть", "example": "We get up at six and take two boats." },
-    { "phrase": "have two days in ...", "translation": "иметь два дня в ...", "example": "We've got two days in Cairo." },
-    { "phrase": "go on a long journey", "translation": "отправиться в долгое путешествие", "example": "The train journey is long, but the views are amazing." },
-    { "phrase": "I did it on holiday", "translation": "Я сделал(а) это в отпуске", "example": "I climbed a volcano on holiday in Italy." },
-    { "phrase": "How was it?", "translation": "Как тебе?", "example": "You did a bungee jump? — How was it?" },
-    { "phrase": "I'd do it again.", "translation": "Я бы повторил.", "example": "It was terrifying, but I'd do it again." }
+    {
+      "phrase": "Have you ever ...?",
+      "translation": "Ты когда-нибудь ...?",
+      "example": "Have you ever been to the Sahara Desert?",
+      "keyword": "эфир",
+      "mnemonic": "Блогер в эфире спрашивает — Have you ever been, ты когда-нибудь был."
+    },
+    {
+      "phrase": "Yes, I have. / No, I haven't.",
+      "translation": "Да, был. / Нет, не был.",
+      "example": "Have you ever slept in a tent? — No, I haven't.",
+      "keyword": "хвост",
+      "mnemonic": "Путешественник машет хвостом — Yes, I have, да, был."
+    },
+    {
+      "phrase": "I've never ...",
+      "translation": "Я никогда не ...",
+      "example": "I've never eaten sushi.",
+      "keyword": "невеста",
+      "mnemonic": "Невеста отказывается — I've never eaten, я никогда не ела."
+    },
+    {
+      "phrase": "I'd like to, but ...",
+      "translation": "Хотел бы, но ...",
+      "example": "No, I haven't, but I'd like to.",
+      "keyword": "лайк",
+      "mnemonic": "Мечтатель жмёт лайк — I'd like to, хотел бы."
+    },
+    {
+      "phrase": "have you seen ... yet?",
+      "translation": "Ты уже видел ...?",
+      "example": "Have you seen the film yet? — No, not yet.",
+      "keyword": "йети",
+      "mnemonic": "Йети выглядывает — have you seen yet, ты уже видел."
+    },
+    {
+      "phrase": "It was an amazing experience.",
+      "translation": "Это было потрясающее впечатление.",
+      "example": "It was an amazing experience — I'd do it again.",
+      "keyword": "майка",
+      "mnemonic": "Турист в майке в восторге — it was amazing experience, потрясающее впечатление."
+    },
+    {
+      "phrase": "be different from what I expected",
+      "translation": "отличаться от того, что я ожидал",
+      "example": "The city is very different from what I expected.",
+      "keyword": "диван",
+      "mnemonic": "Диван отличается от кровати — be different, отличаться."
+    },
+    {
+      "phrase": "get up at six",
+      "translation": "вставать в шесть",
+      "example": "We get up at six and take two boats.",
+      "keyword": "сиквел",
+      "mnemonic": "Туристы встают ради сиквела в шесть — get up at six."
+    },
+    {
+      "phrase": "have two days in ...",
+      "translation": "иметь два дня в ...",
+      "example": "We've got two days in Cairo.",
+      "keyword": "дед",
+      "mnemonic": "Дед с двумя днями в Каире — have two days in Cairo."
+    },
+    {
+      "phrase": "go on a long journey",
+      "translation": "отправиться в долгое путешествие",
+      "example": "The train journey is long, but the views are amazing.",
+      "keyword": "журнал",
+      "mnemonic": "Пассажир с журналом едет в долгое путешествие — go on a journey."
+    },
+    {
+      "phrase": "I did it on holiday",
+      "translation": "Я сделал(а) это в отпуске",
+      "example": "I climbed a volcano on holiday in Italy.",
+      "keyword": "холодец",
+      "mnemonic": "Турист с холодцом хвастает — I did it on holiday, сделал в отпуске."
+    },
+    {
+      "phrase": "How was it?",
+      "translation": "Как тебе?",
+      "example": "You did a bungee jump? — How was it?",
+      "keyword": "хаус",
+      "mnemonic": "Друзья в хаусе спрашивают — How was it, как тебе."
+    },
+    {
+      "phrase": "I'd do it again.",
+      "translation": "Я бы повторил.",
+      "example": "It was terrifying, but I'd do it again.",
+      "keyword": "гейм",
+      "mnemonic": "Геймер жмёт рестарт — I'd do it again, я бы повторил."
+    }
   ]
 }

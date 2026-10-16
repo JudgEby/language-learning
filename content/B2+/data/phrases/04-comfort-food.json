@@ -1,0 +1,132 @@
+{
+  "lessonId": "comfort-food",
+  "title": "1D Comfort Food — Фразы: обсуждение и рассказ о еде",
+  "items": [
+    {
+      "phrase": "go off track",
+      "translation": "отклоняться от темы",
+      "example": "We've gone off track a bit in our discussion.",
+      "keyword": "трек",
+      "mnemonic": "Наш разговор соскочил на другой трек и стал отклоняться от темы, — трек шипит go off track."
+    },
+    {
+      "phrase": "get back to the point",
+      "translation": "вернуться к сути",
+      "example": "Getting back to your point, I love Italian food.",
+      "keyword": "понт",
+      "mnemonic": "Хватит кидать понты, пора вернуться к сути про итальянскую еду, — понт сдаётся get back to the point."
+    },
+    {
+      "phrase": "go back to the point about",
+      "translation": "вернуться к вопросу о",
+      "example": "Going back to the point about sugar, I eat less now.",
+      "keyword": "бак",
+      "mnemonic": "Бак с сахаром пуст — вернёмся к вопросу о сахаре, я его больше не ем, — бак гремит go back to the point about."
+    },
+    {
+      "phrase": "where were we",
+      "translation": "на чём мы остановились",
+      "example": "So, where were we? Oh yes, we were talking about desserts.",
+      "keyword": "веер",
+      "mnemonic": "Обмахиваюсь веером и спрашиваю: на чём мы остановились — на десертах? — веер шелестит where were we."
+    },
+    {
+      "phrase": "back to",
+      "translation": "вернёмся к",
+      "example": "Anyway, back to comfort food!",
+      "keyword": "бок",
+      "mnemonic": "Толкаю всех боком: вернёмся к уютной еде! — бок пихает back to."
+    },
+    {
+      "phrase": "gain a sense of comfort",
+      "translation": "обретать чувство уюта",
+      "example": "We eat this food to gain a sense of comfort.",
+      "keyword": "гайка",
+      "mnemonic": "Закрутил гайку в кресле-качалке и обрёл чувство уюта, — гайка скрипит gain a sense of comfort."
+    },
+    {
+      "phrase": "associate with feeling relaxed",
+      "translation": "ассоциироваться с расслаблением",
+      "example": "Comfort food is food we associate with feeling relaxed and happy.",
+      "keyword": "суши",
+      "mnemonic": "Тарелка суши у меня ассоциируется с расслаблением и счастьем, — суши мурчат associate with feeling relaxed."
+    },
+    {
+      "phrase": "remind of positive experiences",
+      "translation": "напоминать о хороших моментах",
+      "example": "Comfort food reminds us of positive experiences with people.",
+      "keyword": "ремонт",
+      "mnemonic": "Затеяли ремонт, и запах краски напомнил о хороших моментах с друзьями, — ремонт стучит remind of positive experiences."
+    },
+    {
+      "phrase": "high fat and sugar content",
+      "translation": "высокое содержание жира и сахара",
+      "example": "The high fat and sugar content changes our brains.",
+      "keyword": "фата",
+      "mnemonic": "Невеста в фате узнала про высокое содержание жира и сахара в торте и ахнула, — фата шуршит high fat and sugar content."
+    },
+    {
+      "phrase": "chemical changes in brains",
+      "translation": "химические изменения в мозге",
+      "example": "Fat and sugar lead to chemical changes in our brains.",
+      "keyword": "чайник",
+      "mnemonic": "Свистящий чайник устроил химические изменения в мозге — я вздрогнул и проснулся, — чайник свистит chemical changes in brains."
+    },
+    {
+      "phrase": "connect with people",
+      "translation": "объединяться с людьми",
+      "example": "For me, food is about connecting with people.",
+      "keyword": "конь",
+      "mnemonic": "Верный конь собрал вокруг себя людей объединяться за одним столом, — конь ржёт connect with people."
+    },
+    {
+      "phrase": "experience new things",
+      "translation": "пробовать новое",
+      "example": "I like food because I can experience new things.",
+      "keyword": "эксперт",
+      "mnemonic": "Важный эксперт любит пробовать новое и дегустирует всё подряд, — эксперт жуёт experience new things."
+    },
+    {
+      "phrase": "physical and mental well-being",
+      "translation": "физическое и душевное благополучие",
+      "example": "Good food matters for physical and mental well-being.",
+      "keyword": "мент",
+      "mnemonic": "Строгий мент следит за моим физическим и душевным благополучием и отбирает чипсы, — мент свистит physical and mental well-being."
+    },
+    {
+      "phrase": "meet expectations",
+      "translation": "оправдать ожидания",
+      "example": "The new dish met my expectations.",
+      "keyword": "митинг",
+      "mnemonic": "Устроили митинг, потому что новое блюдо оправдало ожидания всех собравшихся, — митинг шумит meet expectations."
+    },
+    {
+      "phrase": "exceed expectations",
+      "translation": "превзойти ожидания",
+      "example": "The dessert exceeded my expectations.",
+      "keyword": "сидр",
+      "mnemonic": "Глоток сидра — и десерт превзошёл все ожидания, — сидр булькает exceed expectations."
+    },
+    {
+      "phrase": "fall short of expectations",
+      "translation": "не оправдать ожиданий",
+      "example": "The snack fell short of my expectations.",
+      "keyword": "шорты",
+      "mnemonic": "Закуска оказалась мала, как шорты не по размеру, и не оправдала ожиданий, — шорты трещат fall short of expectations."
+    },
+    {
+      "phrase": "have an impact on you",
+      "translation": "произвести на тебя впечатление",
+      "example": "Write about a meal that had an impact on you.",
+      "keyword": "импорт",
+      "mnemonic": "Заморский импорт из специй произвёл на меня впечатление на всю жизнь, — импорт пахнет have an impact on you."
+    },
+    {
+      "phrase": "try new foods",
+      "translation": "пробовать новые блюда",
+      "example": "How adventurous are you when it comes to trying new foods?",
+      "keyword": "трап",
+      "mnemonic": "Поднялся по трапу в самолёт, чтобы пробовать новые блюда всех стран, — трап скрипит try new foods."
+    }
+  ]
+}

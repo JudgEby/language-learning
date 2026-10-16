@@ -5,17 +5,58 @@
     {
       "phrase": "live off the grid",
       "translation": "жить автономно",
-      "example": "They live off the grid in the mountains."
+      "example": "They live off the grid in the mountains.",
+      "keyword": "грядки",
+      "mnemonic": "Живут автономно в горах — копают грядки: live off the grid, жить автономно."
     },
     {
       "phrase": "make a living",
       "translation": "зарабатывать на жизнь",
-      "example": "How does she make a living?"
+      "example": "How does she make a living?",
+      "keyword": "ливер",
+      "mnemonic": "Как она зарабатывает на жизнь? — продаёт ливер: make a living?"
     },
     {
       "phrase": "lead a double life",
       "translation": "вести двойную жизнь",
-      "example": "The spy seemed to lead a double life."
+      "example": "The spy seemed to lead a double life.",
+      "keyword": "дабстеп",
+      "mnemonic": "Шпион вёл двойную жизнь — днём дабстеп, ночью шифровки: lead a double life."
+    },
+    {
+      "phrase": "keep moving",
+      "translation": "продолжать двигаться, не останавливаться",
+      "example": "She is the kind of person who just has to keep moving.",
+      "keyword": "мувик",
+      "mnemonic": "Она из тех, кто не останавливается, — снимает мувик на ходу: has to keep moving."
+    },
+    {
+      "phrase": "see the world",
+      "translation": "посмотреть мир",
+      "example": "It must be so inspiring to see the world like that.",
+      "keyword": "орёл",
+      "mnemonic": "Посмотреть мир с высоты орла — see the world, посмотри мир."
+    },
+    {
+      "phrase": "do the same thing every day",
+      "translation": "делать одно и то же каждый день",
+      "example": "He does exactly the same thing every day, so he is bored.",
+      "keyword": "сингл",
+      "mnemonic": "Делает одно и то же каждый день — ставит тот же сингл: same thing every day."
+    },
+    {
+      "phrase": "spend money on oneself",
+      "translation": "тратить деньги на себя",
+      "example": "She does not spend a lot of money on herself.",
+      "keyword": "маникюр",
+      "mnemonic": "Не тратит много денег на себя — только маникюр: spend money on herself."
+    },
+    {
+      "phrase": "consider doing (sth)",
+      "translation": "рассматривать возможность (сделать что-то)",
+      "example": "There is no way I would ever consider doing that.",
+      "keyword": "кассир",
+      "mnemonic": "Даже не рассматриваю такое — кассир отказал: consider doing that."
     }
   ]
 }

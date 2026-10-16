@@ -5,12 +5,16 @@
     {
       "idiom": "wear your heart on your sleeve",
       "translation": "не скрывать чувств",
-      "example": "She wears her heart on her sleeve."
+      "example": "She wears her heart on her sleeve.",
+      "keyword": "слива",
+      "mnemonic": "Она не скрывает чувств — сердце нараспашку, как слива: wears her heart on her sleeve."
     },
     {
       "idiom": "a people person",
       "translation": "коммуникабельный человек",
-      "example": "Sales is perfect for a people person like him."
+      "example": "Sales is perfect for a people person like him.",
+      "keyword": "пипл",
+      "mnemonic": "Продажи — для таких, как он, пипл-персон: perfect for a people person."
     }
   ]
 }

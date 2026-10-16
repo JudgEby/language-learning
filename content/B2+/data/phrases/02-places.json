@@ -1,0 +1,132 @@
+{
+  "lessonId": "places",
+  "title": "1B Places — Словосочетания: город и самочувствие",
+  "items": [
+    {
+      "phrase": "green spaces",
+      "translation": "зелёные зоны",
+      "example": "The city needs more green spaces where residents can relax.",
+      "keyword": "гриб",
+      "mnemonic": "Гигантский гриб вымахал посреди зелёной зоны, и все отдыхают в его тени, — гриб держит green spaces."
+    },
+    {
+      "phrase": "blue space",
+      "translation": "«голубое» пространство (место у воды)",
+      "example": "Being in blue space has effects similar to green spaces.",
+      "keyword": "блюдо",
+      "mnemonic": "Синее блюдо-озеро разлилось перед нами — настоящее «голубое» пространство у воды, а блюдо плещет blue space."
+    },
+    {
+      "phrase": "close to water",
+      "translation": "рядом с водой",
+      "example": "People feel happier when they spend time close to water.",
+      "keyword": "ватер",
+      "mnemonic": "Ватерполисты плещутся рядом с водой и счастливо хохочут, — ватер зовёт close to water."
+    },
+    {
+      "phrase": "well-lit space",
+      "translation": "хорошо освещённое помещение",
+      "example": "The same computer works in a bright, well-lit space or a dark corner.",
+      "keyword": "литр",
+      "mnemonic": "Литр света будто влили в хорошо освещённое помещение, — литр сияет well-lit space."
+    },
+    {
+      "phrase": "urban settings",
+      "translation": "городская среда",
+      "example": "In urban settings, even a fountain can help people relax.",
+      "keyword": "урна",
+      "mnemonic": "Каждая урна в городской среде сверкает чистотой, а фонтан журчит рядом, — урна стоит на urban settings."
+    },
+    {
+      "phrase": "reduce stress",
+      "translation": "снижать стресс",
+      "example": "Water has a particular ability to reduce stress.",
+      "keyword": "редис",
+      "mnemonic": "Хрустящий редис на берегу снижает стресс лучше таблеток, — редис шепчет reduce stress."
+    },
+    {
+      "phrase": "feel optimistic",
+      "translation": "чувствовать оптимизм",
+      "example": "Being near the sea makes us feel optimistic.",
+      "keyword": "филин",
+      "mnemonic": "Мудрый филин у моря чувствует оптимизм и ухает от радости, — филин внушает feel optimistic."
+    },
+    {
+      "phrase": "feel destressed and revived",
+      "translation": "почувствовать облегчение и прилив сил",
+      "example": "A waterway helps people feel destressed and revived.",
+      "keyword": "рёва",
+      "mnemonic": "Бывшая рёва у канала вдруг почувствовала облегчение и прилив сил и засмеялась, — рёва сменилась на feel destressed and revived."
+    },
+    {
+      "phrase": "move out of cities",
+      "translation": "переезжать из городов",
+      "example": "Some families move out of cities to coastal towns.",
+      "keyword": "муха",
+      "mnemonic": "Надоедливая муха выгнала семью переезжать из городов к морю, — муха жужжит move out of cities."
+    },
+    {
+      "phrase": "coastal towns",
+      "translation": "прибрежные города",
+      "example": "Coastal towns attract people who are tired of city life.",
+      "keyword": "костёр",
+      "mnemonic": "На берегу прибрежного города пылает костёр и манит уставших горожан, — костёр светит coastal towns."
+    },
+    {
+      "phrase": "affect behaviour",
+      "translation": "влиять на поведение",
+      "example": "Our surroundings affect the way we behave towards each other.",
+      "keyword": "эффект",
+      "mnemonic": "Шум улицы даёт странный эффект и влияет на поведение прохожих, — эффект показывает affect behaviour."
+    },
+    {
+      "phrase": "active edges",
+      "translation": "оживлённые улицы (с кафе и магазинами)",
+      "example": "Streets with cafes and seating provide active edges.",
+      "keyword": "актив",
+      "mnemonic": "Школьный актив оккупировал кафе на оживлённой улице, — актив гудит active edges."
+    },
+    {
+      "phrase": "inactive edges",
+      "translation": "безжизненные улицы (глухие стены)",
+      "example": "Streets with blank walls have inactive edges.",
+      "keyword": "иначе",
+      "mnemonic": "Глухие стены? Иначе как безжизненными эти улицы не назвать, — иначе вздыхает inactive edges."
+    },
+    {
+      "phrase": "engage with people",
+      "translation": "взаимодействовать с людьми",
+      "example": "On lively streets we are more likely to engage with people.",
+      "keyword": "ангар",
+      "mnemonic": "Огромный ангар открыли для соседей, и все начали взаимодействовать друг с другом, — ангар собирает engage with people."
+    },
+    {
+      "phrase": "fit in",
+      "translation": "вписываться",
+      "example": "We need to feel that we will fit in to work well.",
+      "keyword": "фитнес",
+      "mnemonic": "Новичок вписался в команду после первого же фитнеса, — фитнес втискивает fit in."
+    },
+    {
+      "phrase": "sense of ownership",
+      "translation": "чувство принадлежности",
+      "example": "We perform better with a sense of ownership of a place.",
+      "keyword": "овёс",
+      "mnemonic": "Конь жует овёс в своей конюшне с чувством полной принадлежности, — овёс хрустит sense of ownership."
+    },
+    {
+      "phrase": "reflect personality and interests",
+      "translation": "отражать характер и интересы",
+      "example": "We work best surrounded by things which reflect our personality and interests.",
+      "keyword": "рефлекс",
+      "mnemonic": "Врач стукнул молоточком — рефлекс дёрнулся и отразил характер и интересы пациента, — рефлекс показывает reflect personality and interests."
+    },
+    {
+      "phrase": "express an interest",
+      "translation": "проявить интерес",
+      "example": "Students in the new classroom expressed an interest in science.",
+      "keyword": "экспресс",
+      "mnemonic": "Экспресс-опрос в классе: все проявили интерес к науке, — экспресс мчит express an interest."
+    }
+  ]
+}

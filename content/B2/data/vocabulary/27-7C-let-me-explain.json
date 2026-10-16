@@ -10,22 +10,72 @@
     {
       "term": "procedure",
       "translation": "процедура",
-      "example": "Follow the procedure carefully."
+      "example": "Follow the procedure carefully.",
+      "keyword": "просиди",
+      "mnemonic": "Следуй процедуре внимательно — просиди над ней час: follow the procedure carefully."
     },
     {
       "term": "step-by-step",
       "translation": "пошаговый",
-      "example": "She gave step-by-step instructions."
+      "example": "She gave step-by-step instructions.",
+      "keyword": "степь",
+      "mnemonic": "Дала пошаговые инструкции — идём по степи: step-by-step instructions."
     },
     {
       "term": "technique",
       "translation": "техника",
-      "example": "It takes practice to master the technique."
+      "example": "It takes practice to master the technique.",
+      "keyword": "технарь",
+      "mnemonic": "Чтобы овладеть техникой, нужна практика — спроси технаря: master the technique."
     },
     {
       "term": "demonstrate",
       "translation": "показать, продемонстрировать",
-      "example": "Let me demonstrate how it works."
+      "example": "Let me demonstrate how it works.",
+      "keyword": "демон",
+      "mnemonic": "Дай покажу, как работает, — вызвали демона инструкции: demonstrate how it works."
+    },
+    {
+      "term": "break down",
+      "translation": "разбивать на части",
+      "example": "Break it down into smaller stages.",
+      "keyword": "брейк",
+      "mnemonic": "Разбей на мелкие этапы — объяви брейк: break it down into smaller stages."
+    },
+    {
+      "term": "go over",
+      "translation": "повторять, разбирать",
+      "example": "Let us go over a few basics.",
+      "keyword": "оверсайз",
+      "mnemonic": "Давай разберём основы — надень оверсайз: go over a few basics, повторять."
+    },
+    {
+      "term": "slow down",
+      "translation": "замедляться",
+      "example": "Slow down for the important parts.",
+      "keyword": "слоупок",
+      "mnemonic": "Замедлись на важном — включи слоупока: slow down for important parts."
+    },
+    {
+      "term": "leave out",
+      "translation": "пропускать",
+      "example": "Do not leave out any details.",
+      "keyword": "лев",
+      "mnemonic": "Не пропускай детали — рычи, как лев: do not leave out any details."
+    },
+    {
+      "term": "go into",
+      "translation": "углубляться",
+      "example": "I will not go into details now.",
+      "keyword": "интуит",
+      "mnemonic": "Не буду углубляться в детали — интуит подсказывает молчать: will not go into details."
+    },
+    {
+      "term": "get across",
+      "translation": "донести мысль",
+      "example": "Find ways to get information across.",
+      "keyword": "кросс",
+      "mnemonic": "Найди способ донести мысль — беги кросс: get information across."
     }
   ]
 }

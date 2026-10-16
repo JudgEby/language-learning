@@ -1,0 +1,55 @@
+{
+  "lessonId": "travel-partners",
+  "title": "Travel partners — идиомы",
+  "items": [
+    {
+      "idiom": "go abroad",
+      "translation": "ездить за границу",
+      "example": "Do you ever go abroad on holiday?",
+      "keyword": "абордаж",
+      "mnemonic": "Турист идёт на абордаж: go abroad — ездить за границу."
+    },
+    {
+      "idiom": "enjoy travelling",
+      "translation": "любить путешествовать",
+      "example": "I really enjoy travelling by train.",
+      "keyword": "инжир",
+      "mnemonic": "С инжиром enjoy travelling — любить путешествовать."
+    },
+    {
+      "idiom": "stay in a hotel",
+      "translation": "останавливаться в отеле",
+      "example": "We stayed in a hotel in the city centre.",
+      "keyword": "хостел",
+      "mnemonic": "Турист в хостеле stay in a hotel — останавливаться в отеле."
+    },
+    {
+      "idiom": "compare your answers",
+      "translation": "сравнивать ответы",
+      "example": "Compare your answers with your partner.",
+      "keyword": "компот",
+      "mnemonic": "Партнёры с компотом compare your answers — сравнивать ответы."
+    },
+    {
+      "idiom": "guess the photo",
+      "translation": "угадывать фото",
+      "example": "Describe the place and let me guess the photo.",
+      "keyword": "гость",
+      "mnemonic": "Гость угадывает guess the photo — угадывать фото."
+    },
+    {
+      "idiom": "try local food",
+      "translation": "пробовать местную еду",
+      "example": "In Barcelona we tried the local food.",
+      "keyword": "трап",
+      "mnemonic": "Турист на трапе try local food — пробовать местную еду."
+    },
+    {
+      "idiom": "move to a hotel",
+      "translation": "переехать в отель",
+      "example": "It was noisy, so I moved to a hotel.",
+      "keyword": "муравей",
+      "mnemonic": "Муравей переехал move to a hotel — переехать в отель."
+    }
+  ]
+}

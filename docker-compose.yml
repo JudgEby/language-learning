@@ -1,0 +1,19 @@
+# Production stack for the Language Learning SPA: a single static site
+# behind nginx. Content is baked into the image at build time.
+#
+# First start on the server:
+#   git clone <repo> /opt/lang-app && cd /opt/lang-app
+#   docker compose up -d --build
+# Redeploy (done by CI on every push to main):
+#   docker compose up -d --build && docker image prune -f
+# The app is then available on http://<server-ip>/ (port 80).
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    image: language-learning:latest
+    ports:
+      - "80:80"
+    restart: unless-stopped

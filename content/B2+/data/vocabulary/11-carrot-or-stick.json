@@ -5,62 +5,86 @@
     {
       "term": "persuasion",
       "translation": "убеждение",
-      "example": "She used persuasion to get them to agree."
+      "example": "She used persuasion to get them to agree.",
+      "keyword": "персик",
+      "mnemonic": "Убеждение через персик в подарок — вот тебе persuasion."
     },
     {
       "term": "motivation",
       "translation": "мотивация",
-      "example": "Money is not the only form of motivation."
+      "example": "Money is not the only form of motivation.",
+      "keyword": "мотор",
+      "mnemonic": "Мотивация гудит, как мотор денег — вот тебе motivation."
     },
     {
       "term": "manipulation",
       "translation": "манипуляция",
-      "example": "He got what he wanted through manipulation."
+      "example": "He got what he wanted through manipulation.",
+      "keyword": "манная",
+      "mnemonic": "Манипуляцией с манной кашей добился своего — вот тебе manipulation."
     },
     {
       "term": "pressure",
       "translation": "давление",
-      "example": "They put pressure on us to accept the deal."
+      "example": "They put pressure on us to accept the deal.",
+      "keyword": "пришёл",
+      "mnemonic": "Давление, когда он пришёл требовать сделку — вот тебе pressure."
     },
     {
       "term": "coaxing",
       "translation": "уговаривание",
-      "example": "After some coaxing, she agreed to come."
+      "example": "After some coaxing, she agreed to come.",
+      "keyword": "кошка",
+      "mnemonic": "После уговаривания кошка мурчит и соглашается — вот тебе coaxing."
     },
     {
       "term": "drive",
       "translation": "движущая сила, стремление",
-      "example": "She has the drive to succeed."
+      "example": "She has the drive to succeed.",
+      "keyword": "дрова",
+      "mnemonic": "Движущая сила и стремление колоть дрова к успеху — вот тебе drive."
     },
     {
       "term": "persuade",
       "translation": "убеждать",
-      "example": "Can you persuade him to join us?"
+      "example": "Can you persuade him to join us?",
+      "keyword": "перс удав",
+      "mnemonic": "Убеждать присоединиться, как перс с удавом, — вот тебе persuade."
     },
     {
       "term": "motivate",
       "translation": "мотивировать",
-      "example": "A good leader knows how to motivate people."
+      "example": "A good leader knows how to motivate people.",
+      "keyword": "мотыга",
+      "mnemonic": "Хороший лидер умеет мотивировать даже мотыгой в поле — вот тебе motivate."
     },
     {
       "term": "incentive",
       "translation": "стимул",
-      "example": "The bonus is a great incentive to work harder."
+      "example": "The bonus is a great incentive to work harder.",
+      "keyword": "инспектор",
+      "mnemonic": "Отличный стимул в виде бонуса от инспектора — вот тебе incentive."
     },
     {
       "term": "reason with",
       "translation": "убеждать доводами, взывать к разуму",
-      "example": "I try to reason with them and get them to see the benefits."
+      "example": "I try to reason with them and get them to see the benefits.",
+      "keyword": "режет",
+      "mnemonic": "Убеждать доводами, пока он режет правду в глаза, — вот тебе reason with."
     },
     {
       "term": "win someone over",
       "translation": "перетянуть на свою сторону, расположить",
-      "example": "If I can win them over, they're more likely to work hard."
+      "example": "If I can win them over, they're more likely to work hard.",
+      "keyword": "вина",
+      "mnemonic": "Перетянуть на свою сторону за бокал вина — вот тебе win someone over."
     },
     {
       "term": "entice",
       "translation": "соблазнять, заманивать",
-      "example": "The promise of a free gift will always entice me to buy something."
+      "example": "The promise of a free gift will always entice me to buy something.",
+      "keyword": "тайцы",
+      "mnemonic": "Соблазняет и заманивает подарком, как тайцы туристов, — вот тебе entice."
     }
   ]
 }

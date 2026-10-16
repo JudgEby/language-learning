@@ -2,15 +2,75 @@
   "lessonId": "it-could-be-because",
   "title": "It could be because — новые слова",
   "items": [
-    { "term": "habitat", "translation": "среда обитания", "example": "The forest is the natural habitat of many birds." },
-    { "term": "species", "translation": "вид (биологический)", "example": "There are over 400 species of birds in this area." },
-    { "term": "endangered", "translation": "находящийся под угрозой исчезновения", "example": "Pandas are an endangered species." },
-    { "term": "extinct", "translation": "вымерший", "example": "Dinosaurs became extinct millions of years ago." },
-    { "term": "wildlife", "translation": "дикая природа, животный мир", "example": "The national park is full of wildlife." },
-    { "term": "reserve", "translation": "заповедник", "example": "This area is a nature reserve, so hunting is forbidden." },
-    { "term": "poaching", "translation": "браконьерство", "example": "Poaching is a serious threat to many animals." },
-    { "term": "conservation", "translation": "охрана природы, сохранение", "example": "Conservation efforts have helped protect tigers." },
-    { "term": "ecosystem", "translation": "экосистема", "example": "Coral reefs are a very fragile ecosystem." },
-    { "term": "predator", "translation": "хищник", "example": "Lions are apex predators in their habitat." }
+    {
+      "term": "habitat",
+      "translation": "среда обитания",
+      "example": "The forest is the natural habitat of many birds.",
+      "keyword": "хата",
+      "mnemonic": "Попугай в хате хвастает habitat — средой обитания в лесу для птиц."
+    },
+    {
+      "term": "species",
+      "translation": "вид (биологический)",
+      "example": "There are over 400 species of birds in this area.",
+      "keyword": "специи",
+      "mnemonic": "Орнитолог сыплет специи на species — на вид птиц, их тут четыреста."
+    },
+    {
+      "term": "endangered",
+      "translation": "находящийся под угрозой исчезновения",
+      "example": "Pandas are an endangered species.",
+      "keyword": "индейка",
+      "mnemonic": "Панда-индейка просит endangered — не оставаться под угрозой исчезновения."
+    },
+    {
+      "term": "extinct",
+      "translation": "вымерший",
+      "example": "Dinosaurs became extinct millions of years ago.",
+      "keyword": "инстинкт",
+      "mnemonic": "Динозавр с инстинктом вымер — стал extinct миллионы лет назад."
+    },
+    {
+      "term": "wildlife",
+      "translation": "дикая природа, животный мир",
+      "example": "The national park is full of wildlife.",
+      "keyword": "вой",
+      "mnemonic": "В парке стоит вой — это wildlife, дикая природа и животный мир."
+    },
+    {
+      "term": "reserve",
+      "translation": "заповедник",
+      "example": "This area is a nature reserve, so hunting is forbidden.",
+      "keyword": "резерв",
+      "mnemonic": "Охотнику показывают резерв — это reserve, заповедник, охотиться запрещено."
+    },
+    {
+      "term": "poaching",
+      "translation": "браконьерство",
+      "example": "Poaching is a serious threat to many animals.",
+      "keyword": "почки",
+      "mnemonic": "Браконьер с больными почками занят poaching — браконьерством, угрозой для зверей."
+    },
+    {
+      "term": "conservation",
+      "translation": "охрана природы, сохранение",
+      "example": "Conservation efforts have helped protect tigers.",
+      "keyword": "консерва",
+      "mnemonic": "Тигр прячется в консерве — его спасает conservation, охрана природы и сохранение."
+    },
+    {
+      "term": "ecosystem",
+      "translation": "экосистема",
+      "example": "Coral reefs are a very fragile ecosystem.",
+      "keyword": "икота",
+      "mnemonic": "Коралл икает — у него ecosystem, хрупкая экосистема рифа."
+    },
+    {
+      "term": "predator",
+      "translation": "хищник",
+      "example": "Lions are apex predators in their habitat.",
+      "keyword": "предатель",
+      "mnemonic": "Лев-предатель рычит — он predator, хищник в своей среде."
+    }
   ]
 }

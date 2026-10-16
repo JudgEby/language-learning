@@ -34,6 +34,16 @@ export function LevelPage() {
             Проходить тесты
           </Link>
         )}
+        {manifest.studyOrder.length > 0 && (
+          <Link to={`/flashcards?level=${encodeURIComponent(level)}`} className="action-btn">
+            Карточки
+          </Link>
+        )}
+        {manifest.studyOrder.length > 0 && (
+          <Link to={`/${level}/game`} className="action-btn">
+            Играть
+          </Link>
+        )}
         {manifest.studyOrder.length === 0 && manifest.testDays.length === 0 && (
           <p className="status">Для этого уровня пока нет материалов.</p>
         )}

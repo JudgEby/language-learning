@@ -5,17 +5,23 @@
     {
       "idiom": "go viral",
       "translation": "стать вирусным",
-      "example": "The video went viral and got millions of views within hours."
+      "example": "The video went viral and got millions of views within hours.",
+      "keyword": "вирал",
+      "mnemonic": "Вирал-ролик взлетел: go viral — стать вирусным и набрать миллионы за часы."
     },
     {
       "idiom": "trending topic",
       "translation": "популярная тема",
-      "example": "The new song is the top trending topic on social media right now."
+      "example": "The new song is the top trending topic on social media right now.",
+      "keyword": "тренд",
+      "mnemonic": "Тренд трещит в соцсетях: trending topic — популярная тема, новая песня в топе."
     },
     {
       "idiom": "hit the jackpot",
       "translation": "сорвать куш",
-      "example": "With that viral video, the creator really hit the jackpot."
+      "example": "With that viral video, the creator really hit the jackpot.",
+      "keyword": "джекпот",
+      "mnemonic": "Джекпот с вирусным видео: hit the jackpot — сорвать куш создателю ролика."
     }
   ]
 }

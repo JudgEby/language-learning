@@ -1,0 +1,55 @@
+{
+  "lessonId": "what-a-difference",
+  "title": "What a difference! — идиомы",
+  "items": [
+    {
+      "idiom": "go to the National Gallery",
+      "translation": "сходить в Национальную галерею",
+      "example": "Last month I went to the National Gallery.",
+      "keyword": "галёрка",
+      "mnemonic": "Турист с галёрки идёт в галерею — go to the National Gallery."
+    },
+    {
+      "idiom": "look at paintings by Monet",
+      "translation": "смотреть картины Моне",
+      "example": "We looked at some paintings by Monet.",
+      "keyword": "монета",
+      "mnemonic": "Турист с монетой смотрит Моне — look at paintings by Monet."
+    },
+    {
+      "idiom": "guess which photo",
+      "translation": "угадывать, какое фото",
+      "example": "Ask questions and guess which photo I chose.",
+      "keyword": "гусь",
+      "mnemonic": "Гусь угадывает фото — guess which photo."
+    },
+    {
+      "idiom": "wear glasses today",
+      "translation": "быть сегодня в очках",
+      "example": "Is Mia wearing glasses today?",
+      "keyword": "глаз",
+      "mnemonic": "Миа с глазом в очках сегодня — wear glasses today."
+    },
+    {
+      "idiom": "use an electronic dictionary",
+      "translation": "пользоваться электронным словарём",
+      "example": "Do you use an electronic dictionary in class?",
+      "keyword": "диктор",
+      "mnemonic": "Диктор тычет в словарь — use an electronic dictionary."
+    },
+    {
+      "idiom": "chew gum at the moment",
+      "translation": "жевать жвачку сейчас",
+      "example": "He is chewing gum at the moment.",
+      "keyword": "чупа-чупс",
+      "mnemonic": "Школьник с чупа-чупсом жуёт жвачку — chew gum."
+    },
+    {
+      "idiom": "speak English in class",
+      "translation": "говорить по-английски на уроке",
+      "example": "We always speak English in class.",
+      "keyword": "иглу",
+      "mnemonic": "Ученик в иглу говорит по-английски — speak English in class."
+    }
+  ]
+}

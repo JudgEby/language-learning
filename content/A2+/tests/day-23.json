@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "you-cant-miss-it"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: Could you ask Mr Brown to call me back when he arrives?",
+    "options": [
+      "make an effort",
+      "go for a bike ride",
+      "Could you ask … to call me back?",
+      "fashion"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Could you ask … to call me back?' (Не могли бы вы попросить … перезвонить мне?). Full sentence: Could you ask Mr Brown to call me back when he arrives?",
+    "relatedRuleIds": [
+      "can-i-take-a-message"
+    ],
+    "id": "1df7e926a3c2"
+  },
+  {
+    "question": "Choose the correct collocation: I was late because I missed the bus this morning.",
+    "options": [
+      "I look forward to hearing from you",
+      "keep in touch",
+      "give a hand",
+      "I was late because I missed the bus."
+    ],
+    "correctIndex": 3,
+    "explanation": "'I was late because I missed the bus.' (Я опоздал, потому что пропустил автобус.). Full sentence: I was late because I missed the bus this morning.",
+    "relatedRuleIds": [
+      "the-great-impostor"
+    ],
+    "id": "5003aa84dffd"
+  },
+  {
+    "question": "Choose the correct collocation: Have you replied to her message yet?",
+    "options": [
+      "Have you ever caught a fish?",
+      "It sounds fascinating!",
+      "The funniest thing was…",
+      "Have you... yet?"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Have you... yet?' (Ты уже...?). Full sentence: Have you replied to her message yet?",
+    "relatedRuleIds": [
+      "keeping-in-touch"
+    ],
+    "id": "bb94f6d646a0"
   }
 ]

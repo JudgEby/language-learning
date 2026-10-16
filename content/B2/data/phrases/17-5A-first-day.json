@@ -5,17 +5,58 @@
     {
       "phrase": "break the ice",
       "translation": "растопить лёд",
-      "example": "Coffee breaks help break the ice."
+      "example": "Coffee breaks help break the ice.",
+      "keyword": "айсберг",
+      "mnemonic": "Кофе-брейки топят лёд — айсберг тает: help break the ice, растопить лёд."
     },
     {
       "phrase": "find your feet",
       "translation": "освоиться",
-      "example": "It took me a month to find my feet."
+      "example": "It took me a month to find my feet.",
+      "keyword": "фитнес",
+      "mnemonic": "Месяц осваивалась — ходила на фитнес: took a month to find my feet, освоиться."
     },
     {
       "phrase": "hit the ground running",
       "translation": "сразу включиться в работу",
-      "example": "She hit the ground running on day one."
+      "example": "She hit the ground running on day one.",
+      "keyword": "граунд",
+      "mnemonic": "С первого дня включилась — сразу в граунд: hit the ground running."
+    },
+    {
+      "phrase": "work the room",
+      "translation": "активно знакомиться со всеми на встрече",
+      "example": "At the reception she had to work the room.",
+      "keyword": "рум-тур",
+      "mnemonic": "На приёме надо со всеми познакомиться — устрой рум-тур: work the room."
+    },
+    {
+      "phrase": "make small talk",
+      "translation": "вести непринуждённую беседу",
+      "example": "We made small talk while waiting for the boss.",
+      "keyword": "смола",
+      "mnemonic": "Болтали в ожидании босса — липли, как смола: made small talk."
+    },
+    {
+      "phrase": "take a peek",
+      "translation": "заглянуть украдкой",
+      "example": "She took a peek into the director's office.",
+      "keyword": "пик",
+      "mnemonic": "Заглянула в кабинет директора — на пике любопытства: took a peek."
+    },
+    {
+      "phrase": "have time to kill",
+      "translation": "иметь свободное время в ожидании",
+      "example": "I had some time to kill before the training.",
+      "keyword": "киллер",
+      "mnemonic": "Было время перед тренингом — нанял киллера скуки: had time to kill."
+    },
+    {
+      "phrase": "check in with reception",
+      "translation": "отметиться на стойке регистрации",
+      "example": "Newcomers must check in with reception first.",
+      "keyword": "чек",
+      "mnemonic": "Новички отмечаются на стойке — получают чек: check in with reception."
     }
   ]
 }

@@ -5,17 +5,58 @@
     {
       "phrase": "make a difference",
       "translation": "изменить ситуацию к лучшему",
-      "example": "Small actions can make a difference."
+      "example": "Small actions can make a difference.",
+      "keyword": "дифферент",
+      "mnemonic": "Маленькие действия меняют ситуацию — дают дифферент: make a difference."
     },
     {
       "phrase": "raise awareness",
       "translation": "повысить осведомлённость",
-      "example": "Campaigns raise awareness."
+      "example": "Campaigns raise awareness.",
+      "keyword": "рейс",
+      "mnemonic": "Кампании повышают осведомлённость — отправляют в рейс: raise awareness."
     },
     {
       "phrase": "tackle (a problem)",
       "translation": "браться за проблему",
-      "example": "We need to tackle homelessness."
+      "example": "We need to tackle homelessness.",
+      "keyword": "тэкл",
+      "mnemonic": "Надо браться за бездомность — иди в тэкл: tackle homelessness."
+    },
+    {
+      "phrase": "live on less than $2 a day",
+      "translation": "жить менее чем на $2 в день",
+      "example": "Millions still live on less than $2 a day.",
+      "keyword": "баксы",
+      "mnemonic": "Миллионы живут менее чем на два доллара — считают баксы: live on less than $2."
+    },
+    {
+      "phrase": "have no access to electricity",
+      "translation": "не иметь доступа к электричеству",
+      "example": "Many villages have no access to electricity.",
+      "keyword": "эксцесс",
+      "mnemonic": "Деревни без электричества — сплошной эксцесс: no access to electricity."
+    },
+    {
+      "phrase": "preserve endangered languages",
+      "translation": "сохранять вымирающие языки",
+      "example": "Activists work to preserve endangered languages.",
+      "keyword": "пресервы",
+      "mnemonic": "Активисты сохраняют вымирающие языки — как пресервы: preserve endangered languages."
+    },
+    {
+      "phrase": "keep a language alive",
+      "translation": "сохранять язык живым",
+      "example": "Volunteers keep the local language alive.",
+      "keyword": "оливье",
+      "mnemonic": "Волонтёры сохраняют язык живым — режут оливье: keep the language alive."
+    },
+    {
+      "phrase": "make an effort",
+      "translation": "прилагать усилия",
+      "example": "Unless we make an effort, these languages will die.",
+      "keyword": "форт",
+      "mnemonic": "Без усилий языки умрут — берите форт: make an effort, прилагать усилия."
     }
   ]
 }

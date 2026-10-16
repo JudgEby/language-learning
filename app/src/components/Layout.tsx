@@ -84,3 +84,30 @@ export function CheckMark({ done, onChange }: CheckMarkProps) {
     </label>
   );
 }
+
+interface ToggleProps {
+  checked: boolean;
+  onChange: (checked: boolean) => void;
+  label: string;
+}
+
+/**
+ * Switch-style toggle built on a native checkbox, so keyboard, screen readers
+ * and `getByRole('checkbox')` in e2e tests keep working.
+ */
+export function Toggle({ checked, onChange, label }: ToggleProps) {
+  return (
+    <label className={`toggle${checked ? ' toggle--on' : ''}`}>
+      <input
+        type="checkbox"
+        className="toggle__input"
+        checked={checked}
+        onChange={(e) => onChange(e.target.checked)}
+      />
+      <span className="toggle__track" aria-hidden="true">
+        <span className="toggle__thumb" />
+      </span>
+      <span className="toggle__label">{label}</span>
+    </label>
+  );
+}

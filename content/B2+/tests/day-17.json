@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "life-changing-decisions"
     ]
+  },
+  {
+    "question": "Which word means 'портить, омрачать'?",
+    "options": [
+      "Admittedly ... but",
+      "destruction of habitat",
+      "spoil",
+      "tag"
+    ],
+    "correctIndex": 2,
+    "explanation": "'spoil' means портить, омрачать. Example: Cheating spoiled the game for me.",
+    "relatedRuleIds": [
+      "getting-away-with-it"
+    ],
+    "id": "c48933271f8d"
+  },
+  {
+    "question": "Choose the correct collocation: Write a biography of someone who inspires you.",
+    "options": [
+      "bump into the previous owner",
+      "carry it with us",
+      "write a biography",
+      "slip up"
+    ],
+    "correctIndex": 2,
+    "explanation": "'write a biography' (написать биографию). Full sentence: Write a biography of someone who inspires you.",
+    "relatedRuleIds": [
+      "role-models"
+    ],
+    "id": "06df80ba7292"
+  },
+  {
+    "question": "Complete the sentence: Strict routines help him ___ of his life.",
+    "options": [
+      "feel in control",
+      "ecosystem",
+      "inspiration",
+      "toxins"
+    ],
+    "correctIndex": 0,
+    "explanation": "'feel in control' (чувствовать контроль). Full sentence: Strict routines help him feel in control of his life.",
+    "relatedRuleIds": [
+      "habits"
+    ],
+    "id": "36e641f60517"
+  },
+  {
+    "question": "Which word means 'мешковатый, свободный'?",
+    "options": [
+      "binge on",
+      "baggy",
+      "profitability",
+      "reflect personality and interests"
+    ],
+    "correctIndex": 1,
+    "explanation": "'baggy' means мешковатый, свободный. Example: She prefers baggy sweaters over tight-fitting tops.",
+    "relatedRuleIds": [
+      "pre-loved"
+    ],
+    "id": "538c3002b54f"
   }
 ]

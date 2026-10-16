@@ -5,32 +5,44 @@
     {
       "term": "origin",
       "translation": "происхождение",
-      "example": "The origin of the word 'sandwich' comes from the Earl of Sandwich."
+      "example": "The origin of the word 'sandwich' comes from the Earl of Sandwich.",
+      "keyword": "орёл джин",
+      "mnemonic": "Происхождение слова «сэндвич» — орёл и джин у графа, вот тебе origin."
     },
     {
       "term": "definition",
       "translation": "определение",
-      "example": "Look up the definition of the word in a dictionary."
+      "example": "Look up the definition of the word in a dictionary.",
+      "keyword": "девица финиш",
+      "mnemonic": "Определение слова ищи в словаре — девица уже на финише, это definition."
     },
     {
       "term": "meaning",
       "translation": "значение",
-      "example": "The meaning of this idiom is not obvious from the individual words."
+      "example": "The meaning of this idiom is not obvious from the individual words.",
+      "keyword": "мина",
+      "mnemonic": "Значение идиомы неочевидно — в словах заложена мина, вот тебе meaning."
     },
     {
       "term": "derive",
       "translation": "происходить",
-      "example": "The English word 'guitar' derives from the Spanish word 'guitarra'."
+      "example": "The English word 'guitar' derives from the Spanish word 'guitarra'.",
+      "keyword": "дерево",
+      "mnemonic": "Слово «гитара» происходит от испанского — растёт как дерево, это derive."
     },
     {
       "term": "originate",
       "translation": "возникнуть, происходить",
-      "example": "The phrase originated in the 19th century as a naval expression."
+      "example": "The phrase originated in the 19th century as a naval expression.",
+      "keyword": "орёт джин",
+      "mnemonic": "Фраза возникла в XIX веке — орёт джин с морского корабля, это originate."
     },
     {
       "term": "term",
       "translation": "термин",
-      "example": "The term 'artificial intelligence' was first used in the 1950s."
+      "example": "The term 'artificial intelligence' was first used in the 1950s.",
+      "keyword": "термос",
+      "mnemonic": "Термин «искусственный интеллект» впервые использовали в пятидесятых — налей из термоса, это term."
     },
     {
       "term": "phrase",
@@ -45,42 +57,58 @@
     {
       "term": "sum up",
       "translation": "подводить итог",
-      "example": "To sum up, we find the new proposals completely unacceptable."
+      "example": "To sum up, we find the new proposals completely unacceptable.",
+      "keyword": "сам ап",
+      "mnemonic": "Подводить итог — скажи сам «ап!» и закрой обсуждение, это sum up."
     },
     {
       "term": "spell out",
       "translation": "разъяснять, излагать по буквам",
-      "example": "Can you spell out exactly what you mean?"
+      "example": "Can you spell out exactly what you mean?",
+      "keyword": "спел",
+      "mnemonic": "Разъясни по буквам, что имеешь в виду, — спел песню по нотам, это spell out."
     },
     {
       "term": "illustrate",
       "translation": "иллюстрировать примером",
-      "example": "Let me give a few more examples to illustrate my point."
+      "example": "Let me give a few more examples to illustrate my point.",
+      "keyword": "люстра",
+      "mnemonic": "Дай ещё примеров, чтобы проиллюстрировать мысль, — включи люстру поярче, это illustrate."
     },
     {
       "term": "signify",
       "translation": "означать",
-      "example": "Wearing a white belt signifies that you are a beginner."
+      "example": "Wearing a white belt signifies that you are a beginner.",
+      "keyword": "сигнал",
+      "mnemonic": "Белый пояс означает новичка — подай сигнал белым поясом, это signify."
     },
     {
       "term": "define",
       "translation": "давать определение",
-      "example": "It's hard to define the word freedom."
+      "example": "It's hard to define the word freedom.",
+      "keyword": "диван",
+      "mnemonic": "Давать определение слову «свобода» трудно даже лёжа на диване — вот тебе define."
     },
     {
       "term": "specify",
       "translation": "уточнять, конкретизировать",
-      "example": "Can you specify what kind of animal you saw?"
+      "example": "Can you specify what kind of animal you saw?",
+      "keyword": "специи",
+      "mnemonic": "Уточни, какого зверя видел, — добавь специи в рассказ, это specify."
     },
     {
       "term": "convey",
       "translation": "передавать (точное значение)",
-      "example": "Choose words to convey the exact meaning you want."
+      "example": "Choose words to convey the exact meaning you want.",
+      "keyword": "конвейер",
+      "mnemonic": "Выбирай слова, чтобы передавать точное значение, — клади смысл на конвейер, это convey."
     },
     {
       "term": "capture",
       "translation": "передавать, улавливать (атмосферу)",
-      "example": "Her description really captures the atmosphere of the forest."
+      "example": "Her description really captures the atmosphere of the forest.",
+      "keyword": "капкан",
+      "mnemonic": "Её описание улавливает атмосферу леса, как капкан, — вот тебе capture."
     }
   ]
 }

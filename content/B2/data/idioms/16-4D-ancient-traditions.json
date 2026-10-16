@@ -5,12 +5,16 @@
     {
       "idiom": "old habits die hard",
       "translation": "старое не отпускает",
-      "example": "Old habits die hard."
+      "example": "Old habits die hard.",
+      "keyword": "орешек",
+      "mnemonic": "Старые привычки не отпускают — крепкий орешек: old habits die hard."
     },
     {
       "idiom": "the good old days",
       "translation": "старые добрые времена",
-      "example": "People often romanticise the good old days."
+      "example": "People often romanticise the good old days.",
+      "keyword": "олды",
+      "mnemonic": "Люди романтизируют старые добрые времена — ностальгируют олды: good old days."
     }
   ]
 }

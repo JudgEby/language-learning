@@ -2,17 +2,89 @@
   "lessonId": "real-friends",
   "title": "Real friends? — фразы",
   "items": [
-    { "phrase": "How often do you ...?", "translation": "Как часто ты ...?", "example": "How often do you see your friends? — Every weekend." },
-    { "phrase": "three or four times a year", "translation": "три-четыре раза в год", "example": "We meet three or four times a year." },
-    { "phrase": "once a week", "translation": "раз в неделю", "example": "We play football once a week." },
-    { "phrase": "every other day", "translation": "через день", "example": "Mark is on his computer every other day for hours." },
-    { "phrase": "hardly ever", "translation": "почти никогда", "example": "I hardly ever eat sugar — I'm trying to lose weight." },
-    { "phrase": "help you with problems", "translation": "помогать тебе с проблемами", "example": "A real friend often helps you with problems." },
-    { "phrase": "understand each other", "translation": "понимать друг друга", "example": "Real friends always understand each other." },
-    { "phrase": "agree with each other", "translation": "соглашаться друг с другом", "example": "Real friends don't always agree with each other." },
-    { "phrase": "the same age", "translation": "одного возраста", "example": "We're real friends and we're the same age." },
-    { "phrase": "laugh at my jokes", "translation": "смеяться над моими шутками", "example": "He's funny — people laugh at his jokes." },
-    { "phrase": "get on with", "translation": "хорошо ладить с", "example": "I get on with her, but we don't see each other often." },
-    { "phrase": "talk about personal things", "translation": "говорить о личном", "example": "Jane talks about personal things with her best friend." }
+    {
+      "phrase": "How often do you ...?",
+      "translation": "Как часто ты ...?",
+      "example": "How often do you see your friends? — Every weekend.",
+      "keyword": "афиша",
+      "mnemonic": "Афиша спрашивает how often do you see friends — как часто ты видишь друзей."
+    },
+    {
+      "phrase": "three or four times a year",
+      "translation": "три-четыре раза в год",
+      "example": "We meet three or four times a year.",
+      "keyword": "таймер",
+      "mnemonic": "Таймер пищит three times a year — три раза в год."
+    },
+    {
+      "phrase": "once a week",
+      "translation": "раз в неделю",
+      "example": "We play football once a week.",
+      "keyword": "ванна",
+      "mnemonic": "Футболист прыгает в ванну once a week — раз в неделю."
+    },
+    {
+      "phrase": "every other day",
+      "translation": "через день",
+      "example": "Mark is on his computer every other day for hours.",
+      "keyword": "озеро",
+      "mnemonic": "Марк сидит у озера every other day — через день."
+    },
+    {
+      "phrase": "hardly ever",
+      "translation": "почти никогда",
+      "example": "I hardly ever eat sugar — I'm trying to lose weight.",
+      "keyword": "харчо",
+      "mnemonic": "Харчо почти никогда не едят: hardly ever — почти никогда."
+    },
+    {
+      "phrase": "help you with problems",
+      "translation": "помогать тебе с проблемами",
+      "example": "A real friend often helps you with problems.",
+      "keyword": "пробка",
+      "mnemonic": "Друг вытаскивает из пробки проблем: help you with problems — помогать с проблемами."
+    },
+    {
+      "phrase": "understand each other",
+      "translation": "понимать друг друга",
+      "example": "Real friends always understand each other.",
+      "keyword": "антенна",
+      "mnemonic": "Друзья ловят сигнал антенной: understand each other — понимать друг друга."
+    },
+    {
+      "phrase": "agree with each other",
+      "translation": "соглашаться друг с другом",
+      "example": "Real friends don't always agree with each other.",
+      "keyword": "агроном",
+      "mnemonic": "Агрономы кивают: agree with each other — соглашаться друг с другом."
+    },
+    {
+      "phrase": "the same age",
+      "translation": "одного возраста",
+      "example": "We're real friends and we're the same age.",
+      "keyword": "семя",
+      "mnemonic": "Одногодки сажают семя: the same age — одного возраста."
+    },
+    {
+      "phrase": "laugh at my jokes",
+      "translation": "смеяться над моими шутками",
+      "example": "He's funny — people laugh at his jokes.",
+      "keyword": "лавка",
+      "mnemonic": "Шутник выступает на лавке: laugh at my jokes — смеяться над моими шутками."
+    },
+    {
+      "phrase": "get on with",
+      "translation": "хорошо ладить с",
+      "example": "I get on with her, but we don't see each other often.",
+      "keyword": "гетры",
+      "mnemonic": "Подруги в гетрах get on with — хорошо ладят."
+    },
+    {
+      "phrase": "talk about personal things",
+      "translation": "говорить о личном",
+      "example": "Jane talks about personal things with her best friend.",
+      "keyword": "персик",
+      "mnemonic": "Подруги грызут персик и talk about personal things — говорят о личном."
+    }
   ]
 }

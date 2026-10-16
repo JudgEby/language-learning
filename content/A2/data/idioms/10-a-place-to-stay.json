@@ -1,0 +1,55 @@
+{
+  "lessonId": "a-place-to-stay",
+  "title": "A place to stay — идиомы",
+  "items": [
+    {
+      "idiom": "move house",
+      "translation": "переезжать",
+      "example": "They want to move house next year.",
+      "keyword": "муравей",
+      "mnemonic": "Муравей тащит move house — переезжать."
+    },
+    {
+      "idiom": "a room with a view",
+      "translation": "комната с видом",
+      "example": "We booked a room with a view of the sea.",
+      "keyword": "вьюга",
+      "mnemonic": "Номер с вьюгой за окном: a room with a view — комната с видом."
+    },
+    {
+      "idiom": "feel at home",
+      "translation": "чувствовать себя как дома",
+      "example": "Make yourself comfortable and feel at home!",
+      "keyword": "хомяк",
+      "mnemonic": "Хомяк устроился feel at home — чувствовать себя как дома."
+    },
+    {
+      "idiom": "a quiet neighbourhood",
+      "translation": "тихий район",
+      "example": "The flat is in a quiet neighbourhood.",
+      "keyword": "квартал",
+      "mnemonic": "Тихий квартал: a quiet neighbourhood — тихий район."
+    },
+    {
+      "idiom": "close to the centre",
+      "translation": "близко к центру",
+      "example": "The hotel is close to the centre.",
+      "keyword": "ключ",
+      "mnemonic": "Отель под ключ close to the centre — близко к центру."
+    },
+    {
+      "idiom": "share a flat",
+      "translation": "снимать квартиру вместе",
+      "example": "I share a flat with two students.",
+      "keyword": "шаурма",
+      "mnemonic": "Студенты делят шаурму: share a flat — снимать квартиру вместе."
+    },
+    {
+      "idiom": "do the housework",
+      "translation": "заниматься домашними делами",
+      "example": "We do the housework together on Saturdays.",
+      "keyword": "хаски",
+      "mnemonic": "Хаски помогает do the housework — заниматься домашними делами."
+    }
+  ]
+}

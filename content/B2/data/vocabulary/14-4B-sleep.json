@@ -5,27 +5,79 @@
     {
       "term": "insomnia",
       "translation": "бессонница",
-      "example": "She suffers from insomnia."
+      "example": "She suffers from insomnia.",
+      "keyword": "сонник",
+      "mnemonic": "Мучается бессонницей и читает сонник до утра — suffers from insomnia."
     },
     {
       "term": "nap",
       "translation": "дремота, короткий сон",
-      "example": "A short nap can help you focus."
+      "example": "A short nap can help you focus.",
+      "keyword": "нэп",
+      "mnemonic": "Короткий сон, как нэп, — быстро свернули: a short nap helps you focus, дремота."
     },
     {
       "term": "circadian rhythm",
       "translation": "циркадный ритм",
-      "example": "Shift work disrupts your circadian rhythm."
+      "example": "Shift work disrupts your circadian rhythm.",
+      "keyword": "цирк",
+      "mnemonic": "Сменная работа сбивает циркадный ритм — в голове уже цирк: disrupts your circadian rhythm."
     },
     {
       "term": "sleep deprivation",
       "translation": "недосыпание",
-      "example": "Sleep deprivation affects concentration."
+      "example": "Sleep deprivation affects concentration.",
+      "keyword": "депрессия",
+      "mnemonic": "Недосыпание вгоняет в депрессию — sleep deprivation affects concentration."
     },
     {
       "term": "drowsy",
       "translation": "сонный",
-      "example": "I feel drowsy after lunch."
+      "example": "I feel drowsy after lunch.",
+      "keyword": "дрозд",
+      "mnemonic": "После обеда сонный, как дрозд в дупле, — feel drowsy after lunch."
+    },
+    {
+      "term": "nightmare",
+      "translation": "кошмар",
+      "example": "I woke up after having a nightmare.",
+      "keyword": "мэр",
+      "mnemonic": "Проснулся после кошмара, где за ним гнался мэр, — woke up after having a nightmare."
+    },
+    {
+      "term": "snore",
+      "translation": "храпеть",
+      "example": "My husband says I snore loudly.",
+      "keyword": "шнур",
+      "mnemonic": "Муж говорит, она храпит так, что шнуры трясутся, — snore loudly, храпеть."
+    },
+    {
+      "term": "oversleep",
+      "translation": "проспать",
+      "example": "I oversleep and miss the alarm.",
+      "keyword": "овертайм",
+      "mnemonic": "Проспал и пропустил будильник после ночного овертайма — oversleep, проспать."
+    },
+    {
+      "term": "heavy sleeper",
+      "translation": "человек с крепким сном",
+      "example": "I'm a heavy sleeper and sleep through noise.",
+      "keyword": "хеви-метал",
+      "mnemonic": "Спит сквозь шум, как фанат хеви-метала в первом ряду, — heavy sleeper, крепкий сон."
+    },
+    {
+      "term": "deep sleep",
+      "translation": "глубокий сон",
+      "example": "I must have been in a deep sleep.",
+      "keyword": "дип",
+      "mnemonic": "Провалился в глубокий сон, как чип в дип, — must have been in a deep sleep."
+    },
+    {
+      "term": "exhausted",
+      "translation": "измотанный",
+      "example": "I feel exhausted after a bad night.",
+      "keyword": "экзамен",
+      "mnemonic": "После плохой ночи чувствует себя измотанным, как после экзамена, — feel exhausted."
     }
   ]
 }

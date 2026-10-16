@@ -5,17 +5,23 @@
     {
       "idiom": "when it rains, it pours",
       "translation": "беда не приходит одна",
-      "example": "First I lost my keys, then my car broke down — when it rains, it pours."
+      "example": "First I lost my keys, then my car broke down — when it rains, it pours.",
+      "keyword": "рейн",
+      "mnemonic": "Рейн бед льёт: when it rains, it pours — беда не приходит одна, то ключи, то машина."
     },
     {
       "idiom": "the last straw",
       "translation": "последняя капля",
-      "example": "When my phone died too, that was the last straw."
+      "example": "When my phone died too, that was the last straw.",
+      "keyword": "стружка",
+      "mnemonic": "Стружка добила телефон: the last straw — последняя капля, когда и телефон сел."
     },
     {
       "idiom": "a blessing in disguise",
       "translation": "не было бы счастья, да несчастье помогло",
-      "example": "Losing that job was a blessing in disguise — I found a much better one."
+      "example": "Losing that job was a blessing in disguise — I found a much better one.",
+      "keyword": "блессинг",
+      "mnemonic": "Блессинг увольнения: a blessing in disguise — не было бы счастья, да несчастье помогло найти работу лучше."
     }
   ]
 }

@@ -2,17 +2,17 @@
   "lessonId": "the-future-of-food",
   "title": "The future of food — новые слова",
   "items": [
-    { "term": "vegetables", "translation": "овощи", "example": "You should eat a variety of vegetables every day." },
-    { "term": "insects", "translation": "насекомые (как еда)", "example": "In some countries, people eat fried insects as a snack." },
-    { "term": "lab-grown meat", "translation": "мясо, выращенное в лаборатории", "example": "Lab-grown meat could be a sustainable alternative to traditional farming." },
-    { "term": "organic", "translation": "органический", "example": "I prefer to buy organic fruit and vegetables." },
-    { "term": "processed food", "translation": "обработанная пища, полуфабрикаты", "example": "Processed food often contains too much salt and sugar." },
-    { "term": "genetically modified", "translation": "генетически модифицированный", "example": "Genetically modified crops can resist pests and diseases." },
-    { "term": "sustainable", "translation": "устойчивый, экологичный", "example": "Fishing must be sustainable to protect ocean life." },
-    { "term": "nutrition", "translation": "питание, пищевая ценность", "example": "Good nutrition is essential for a healthy lifestyle." },
-    { "term": "protein", "translation": "белок", "example": "Beans, lentils, and tofu are excellent sources of protein." },
-    { "term": "dairy", "translation": "молочные продукты", "example": "Some people avoid dairy because they are lactose intolerant." },
-    { "term": "vegan", "translation": "веган(ский)", "example": "A vegan diet excludes all animal products." },
-    { "term": "artificial", "translation": "искусственный", "example": "This drink contains artificial colours and flavours." }
+    { "term": "vegetables", "translation": "овощи", "example": "You should eat a variety of vegetables every day.", "keyword": "вигвам", "mnemonic": "Индейцы в вигваме хрустят овощами — eat a variety of vegetables, овощей." },
+    { "term": "insects", "translation": "насекомые (как еда)", "example": "In some countries, people eat fried insects as a snack.", "keyword": "инспектор", "mnemonic": "Инспектор жарит закуску — people eat fried insects, насекомых." },
+    { "term": "lab-grown meat", "translation": "мясо, выращенное в лаборатории", "example": "Lab-grown meat could be a sustainable alternative to traditional farming.", "keyword": "лаба", "mnemonic": "Лаба выращивает котлеты — lab-grown meat, мясо из лаборатории." },
+    { "term": "organic", "translation": "органический", "example": "I prefer to buy organic fruit and vegetables.", "keyword": "органик", "mnemonic": "Органик с грядки — prefer to buy organic, органическое." },
+    { "term": "processed food", "translation": "обработанная пища, полуфабрикаты", "example": "Processed food often contains too much salt and sugar.", "keyword": "процесс", "mnemonic": "Процесс напичкан солью и сахаром — processed food, полуфабрикаты." },
+    { "term": "genetically modified", "translation": "генетически модифицированный", "example": "Genetically modified crops can resist pests and diseases.", "keyword": "модем", "mnemonic": "Модем скрестил пшеницу с кактусом — genetically modified crops устойчивы." },
+    { "term": "sustainable", "translation": "устойчивый, экологичный", "example": "Fishing must be sustainable to protect ocean life.", "keyword": "суета", "mnemonic": "Суета вокруг океана — fishing must be sustainable, экологичным." },
+    { "term": "nutrition", "translation": "питание, пищевая ценность", "example": "Good nutrition is essential for a healthy lifestyle.", "keyword": "нутрия", "mnemonic": "Нутрия знает толк в питании — good nutrition, питание важно." },
+    { "term": "protein", "translation": "белок", "example": "Beans, lentils, and tofu are excellent sources of protein.", "keyword": "протеин", "mnemonic": "Фасоль полна протеина — excellent sources of protein, белка." },
+    { "term": "dairy", "translation": "молочные продукты", "example": "Some people avoid dairy because they are lactose intolerant.", "keyword": "доярка", "mnemonic": "Доярка избегает молочного — avoid dairy, молочные продукты." },
+    { "term": "vegan", "translation": "веган(ский)", "example": "A vegan diet excludes all animal products.", "keyword": "веган", "mnemonic": "Веган вычеркнул всё животное — a vegan diet, веганский." },
+    { "term": "artificial", "translation": "искусственный", "example": "This drink contains artificial colours and flavours.", "keyword": "артист", "mnemonic": "Артист пьёт краску — this drink contains artificial colours, искусственные." }
   ]
 }

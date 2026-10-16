@@ -1,0 +1,132 @@
+{
+  "lessonId": "things-we-love",
+  "title": "1C Things We Love — Фразы: гипотетические предпочтения",
+  "items": [
+    {
+      "phrase": "Given the choice",
+      "translation": "если бы был выбор",
+      "example": "Given the choice, I'd choose the bungee jump any day.",
+      "keyword": "чес",
+      "mnemonic": "Кот довольно чешется: если бы был выбор, он выбрал бы банджи, — чес мурлычет Given the choice."
+    },
+    {
+      "phrase": "I'd go for",
+      "translation": "я бы выбрал(а)",
+      "example": "I'd go for being in a reality TV show every time.",
+      "keyword": "гонг",
+      "mnemonic": "Ударил гонг, и я бы выбрал реалити-шоу без раздумий, — гонг гремит I'd go for."
+    },
+    {
+      "phrase": "I'd sooner",
+      "translation": "я бы лучше",
+      "example": "I'd sooner act on stage than sing in public.",
+      "keyword": "соня",
+      "mnemonic": "Ленивая соня заявляет: я бы лучше спала, чем пела, — соня зевает I'd sooner."
+    },
+    {
+      "phrase": "If it was up to me",
+      "translation": "если бы зависело от меня",
+      "example": "If it was up to me, I'd read a book all day.",
+      "keyword": "апчхи",
+      "mnemonic": "Громкое апчхи — и все поняли: если бы зависело от меня, читали бы весь день, — апчхи чихает If it was up to me."
+    },
+    {
+      "phrase": "Nothing would make me",
+      "translation": "ничто не заставит меня",
+      "example": "Nothing would make me get up on a stage and sing!",
+      "keyword": "макет",
+      "mnemonic": "Мне подсунули макет сцены, но ничто не заставит меня на неё выйти, — макет пугает Nothing would make me."
+    },
+    {
+      "phrase": "I'd rather",
+      "translation": "я бы предпочёл(ла)",
+      "example": "I'd rather appear in a reality show than sing on stage.",
+      "keyword": "раз",
+      "mnemonic": "Раз — и решено: я бы предпочёл реалити-шоу, а не сцену, — раз отрезает I'd rather."
+    },
+    {
+      "phrase": "Would you rather",
+      "translation": "что бы ты предпочёл",
+      "example": "Would you rather do a deep-sea dive or a bungee jump?",
+      "keyword": "разуть",
+      "mnemonic": "Приказываю: разуть ботинки и ответить, что бы ты предпочёл — банджи или дайв, — разуть допрашивает Would you rather."
+    },
+    {
+      "phrase": "do a bungee jump",
+      "translation": "прыгнуть с банджи",
+      "example": "Would you rather do a bungee jump or dive deep?",
+      "keyword": "джем",
+      "mnemonic": "Банка джема летит вниз с моста вместо меня — так я прыгнул с банджи, а джем хлюпает do a bungee jump."
+    },
+    {
+      "phrase": "do a deep-sea dive",
+      "translation": "погрузиться в глубину",
+      "example": "Would you rather do a deep-sea dive with friends?",
+      "keyword": "диво",
+      "mnemonic": "Морское диво всплыло, когда мы погрузились в глубину с друзьями, — диво ныряет do a deep-sea dive."
+    },
+    {
+      "phrase": "appear in a reality TV show",
+      "translation": "сняться в реалити-шоу",
+      "example": "Would you rather appear in a reality TV show or act on stage?",
+      "keyword": "аперитив",
+      "mnemonic": "Нам подали аперитив, а потом предложили сняться в реалити-шоу, — аперитив чокается appear in a reality TV show."
+    },
+    {
+      "phrase": "act on stage",
+      "translation": "играть на сцене",
+      "example": "I'd sooner act on stage than sing in public.",
+      "keyword": "стажёр",
+      "mnemonic": "Нервный стажёр вышел играть на сцене и забыл все реплики, — стажёр дрожит act on stage."
+    },
+    {
+      "phrase": "sing in public",
+      "translation": "петь на публике",
+      "example": "I hate to sing in public at karaoke nights.",
+      "keyword": "сын",
+      "mnemonic": "Мой сын вышел петь на публике в караоке и сорвал овации, — сын поёт sing in public."
+    },
+    {
+      "phrase": "binge watch a TV show",
+      "translation": "смотреть сериал запоем",
+      "example": "Would you rather binge watch a TV show all day or read?",
+      "keyword": "бинт",
+      "mnemonic": "Обмотался бинтом как мумия и смотрю сериал запоем весь день, — бинт шуршит binge watch a TV show."
+    },
+    {
+      "phrase": "read a book all day",
+      "translation": "читать книгу весь день",
+      "example": "If it was up to me, I'd read a book all day.",
+      "keyword": "редька",
+      "mnemonic": "Грызу редьку и читаю книгу весь день без остановки, — редька хрустит read a book all day."
+    },
+    {
+      "phrase": "ask for reasons",
+      "translation": "спрашивать о причинах",
+      "example": "Ask for reasons to encourage your partner to elaborate.",
+      "keyword": "резина",
+      "mnemonic": "Тяну резину вопросами и спрашиваю о причинах его молчания, — резина тянет ask for reasons."
+    },
+    {
+      "phrase": "encourage to elaborate",
+      "translation": "побуждать рассказать подробнее",
+      "example": "Ask about experience to encourage your partner to elaborate.",
+      "keyword": "кураж",
+      "mnemonic": "Вхожу в кураж и побуждаю всех рассказать подробнее о своих подвигах, — кураж подзуживает encourage to elaborate."
+    },
+    {
+      "phrase": "fly a plane",
+      "translation": "вести самолёт",
+      "example": "Would you rather fly a plane or parachute out of it?",
+      "keyword": "флейта",
+      "mnemonic": "Пилот играет на флейте, пока автопилот ведёт самолёт, — флейта свистит fly a plane."
+    },
+    {
+      "phrase": "parachute out of a plane",
+      "translation": "прыгнуть с парашютом",
+      "example": "Would you rather fly a plane or parachute out of a plane?",
+      "keyword": "аут",
+      "mnemonic": "Судья крикнул «аут!», и я вывалился прыгнуть с парашютом прямо из самолёта, — аут выталкивает parachute out of a plane."
+    }
+  ]
+}

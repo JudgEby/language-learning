@@ -1,0 +1,125 @@
+{
+  "lessonId": "street-chatter",
+  "title": "3B Street Chatter — Фразы с no matter: эмоции и улицы",
+  "items": [
+    {
+      "phrase": "listen in on conversations",
+      "translation": "подслушивать разговоры",
+      "example": "Some people listen in on conversations in public places.",
+      "keyword": "лиса",
+      "mnemonic": "Хитрая лиса любит подслушивать разговоры в парке, — лиса шепчет listen in on conversations."
+    },
+    {
+      "phrase": "cook with anger",
+      "translation": "готовить во гневе",
+      "example": "She says you should never cook with anger.",
+      "keyword": "кукла",
+      "mnemonic": "Злая кукла готовит во гневе и швыряет кастрюли, — кукла гремит cook with anger."
+    },
+    {
+      "phrase": "flap around",
+      "translation": "трепыхаться, суетиться",
+      "example": "My stomach felt like ducks flapping around.",
+      "keyword": "хлоп",
+      "mnemonic": "Утки хлопают крыльями — хлоп! — и трепыхаются у меня в животе от волнения, — хлоп хлопает flap around."
+    },
+    {
+      "phrase": "spread the word",
+      "translation": "распространять новость",
+      "example": "I believed it and spread the word to friends.",
+      "keyword": "спред",
+      "mnemonic": "Намазал спред на тост и побежал распространять новость друзьям, — спред мажется spread the word."
+    },
+    {
+      "phrase": "get a good night's sleep",
+      "translation": "хорошо выспаться",
+      "example": "The noise stops you getting a good night's sleep.",
+      "keyword": "сливки",
+      "mnemonic": "Выпил тёплые сливки и хорошо выспался всю ночь, — сливки баюкают get a good night's sleep."
+    },
+    {
+      "phrase": "couldn't sleep at all",
+      "translation": "совсем не мог уснуть",
+      "example": "I was nervous and couldn't sleep at all.",
+      "keyword": "атолл",
+      "mnemonic": "На далёком атолле шумел прибой — я совсем не мог уснуть, — атолл шумит couldn't sleep at all."
+    },
+    {
+      "phrase": "check there first",
+      "translation": "сначала проверить там",
+      "example": "The keys were in his pocket, so why didn't he check there first?",
+      "keyword": "чек",
+      "mnemonic": "Покажи чек из кармана: надо было сначала проверить там, — чек шуршит check there first."
+    },
+    {
+      "phrase": "sleep outside",
+      "translation": "спать на улице",
+      "example": "Maybe one of you can sleep outside tonight.",
+      "keyword": "аутсайдер",
+      "mnemonic": "Главный аутсайдер компании будет спать на улице сегодня ночью, — аутсайдер дрожит sleep outside."
+    },
+    {
+      "phrase": "with wide eyes",
+      "translation": "с широко раскрытыми глазами",
+      "example": "He looked at me with wide eyes.",
+      "keyword": "вайфай",
+      "mnemonic": "Поймал вайфай и уставился с широко раскрытыми глазами на счёт, — вайфай мигает with wide eyes."
+    },
+    {
+      "phrase": "no matter what",
+      "translation": "что бы ни",
+      "example": "No matter what I say, it's never right.",
+      "keyword": "матрас",
+      "mnemonic": "Что бы я ни сказал, всё не так — хоть на матрас падай от досады, — матрас скрипит no matter what."
+    },
+    {
+      "phrase": "no matter who",
+      "translation": "кто бы ни",
+      "example": "No matter who I meet, there's always tension.",
+      "keyword": "ухо",
+      "mnemonic": "Кто бы ни встретился, напряжение звенит в ухе, — ухо слышит no matter who."
+    },
+    {
+      "phrase": "no matter how",
+      "translation": "как бы ни",
+      "example": "No matter how I feel, you always try your best.",
+      "keyword": "ха-ха",
+      "mnemonic": "Как бы я ни чувствовал себя, ты стараешься и смеёшься «ха-ха», — ха-ха звенит no matter how."
+    },
+    {
+      "phrase": "no matter what time",
+      "translation": "во сколько бы ни",
+      "example": "No matter what time it is, call me.",
+      "keyword": "таймер",
+      "mnemonic": "Во сколько бы ни было — таймер заведён, звони мне, — таймер тикает no matter what time."
+    },
+    {
+      "phrase": "no matter how hard",
+      "translation": "как бы усердно ни",
+      "example": "No matter how hard I try, I never win.",
+      "keyword": "хард",
+      "mnemonic": "Как бы усердно я ни старался, играю только на харде и всё равно проигрываю, — хард гудит no matter how hard."
+    },
+    {
+      "phrase": "give advice",
+      "translation": "давать советы",
+      "example": "The inner voice doesn't give me any advice.",
+      "keyword": "адвокат",
+      "mnemonic": "Внутренний голос молчит, а адвокат даёт советы за деньги, — адвокат вещает give advice."
+    },
+    {
+      "phrase": "give peace",
+      "translation": "давать покой",
+      "example": "The voice doesn't give me any peace at night.",
+      "keyword": "письмо",
+      "mnemonic": "Ночное письмо не даёт мне покоя и шуршит до утра, — письмо шуршит give peace."
+    },
+    {
+      "phrase": "unsure of yourself",
+      "translation": "неуверенный в себе",
+      "example": "The voice makes him unsure of himself.",
+      "keyword": "шуруп",
+      "mnemonic": "Голос в голове закрутил шуруп — и он стал неуверенным в себе, — шуруп скрипит unsure of yourself."
+    }
+  ]
+}

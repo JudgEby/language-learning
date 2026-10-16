@@ -5,87 +5,121 @@
     {
       "term": "marketing",
       "translation": "маркетинг",
-      "example": "They invested heavily in digital marketing."
+      "example": "They invested heavily in digital marketing.",
+      "keyword": "март",
+      "mnemonic": "В цифровой маркетинг вложились в марте — вот тебе marketing."
     },
     {
       "term": "consumer",
       "translation": "потребитель",
-      "example": "Consumers expect high-quality products."
+      "example": "Consumers expect high-quality products.",
+      "keyword": "консерва",
+      "mnemonic": "Потребитель ждёт качества, открыв консерву, — вот тебе consumer."
     },
     {
       "term": "impulse buyer",
       "translation": "импульсивный покупатель",
-      "example": "Impulse buyers often regret their purchases."
+      "example": "Impulse buyers often regret their purchases.",
+      "keyword": "по полю",
+      "mnemonic": "Импульсивный покупатель бегает по полю за покупками — вот тебе impulse buyer."
     },
     {
       "term": "product launch",
       "translation": "запуск продукта",
-      "example": "The product launch attracted a lot of media attention."
+      "example": "The product launch attracted a lot of media attention.",
+      "keyword": "ланч",
+      "mnemonic": "Запуск продукта за ланчем с прессой — вот тебе product launch."
     },
     {
       "term": "rebrand",
       "translation": "ребрендинг",
-      "example": "The company decided to rebrand itself."
+      "example": "The company decided to rebrand itself.",
+      "keyword": "ребус",
+      "mnemonic": "Ребрендинг как ребус для фирмы — вот тебе rebrand."
     },
     {
       "term": "sales",
       "translation": "продажи",
-      "example": "Sales have increased by twenty percent."
+      "example": "Sales have increased by twenty percent.",
+      "keyword": "сало",
+      "mnemonic": "Продажи выросли на сале на двадцать процентов — вот тебе sales."
     },
     {
       "term": "profit",
       "translation": "прибыль",
-      "example": "The business made a healthy profit this year."
+      "example": "The business made a healthy profit this year.",
+      "keyword": "пруф",
+      "mnemonic": "Здоровую прибыль докажет пруф в отчёте — вот тебе profit."
     },
     {
       "term": "brand image",
       "translation": "имидж бренда",
-      "example": "A scandal can damage a company's brand image."
+      "example": "A scandal can damage a company's brand image.",
+      "keyword": "брань",
+      "mnemonic": "Имидж бренда портит брань скандала — вот тебе brand image."
     },
     {
       "term": "PR",
       "translation": "связи с общественностью (PR)",
-      "example": "They hired a PR agency to improve their reputation."
+      "example": "They hired a PR agency to improve their reputation.",
+      "keyword": "пар",
+      "mnemonic": "Связи с общественностью кипят, как пар над чайником, — вот тебе PR."
     },
     {
       "term": "no-frills",
       "translation": "без излишеств, простой",
-      "example": "We've put the cleanser in a no-frills packaging."
+      "example": "We've put the cleanser in a no-frills packaging.",
+      "keyword": "фри",
+      "mnemonic": "Без излишеств и просто — фри упаковка, вот тебе no-frills."
     },
     {
       "term": "makeover",
       "translation": "обновление (внешности)",
-      "example": "The product has been given a makeover."
+      "example": "The product has been given a makeover.",
+      "keyword": "макияж",
+      "mnemonic": "Обновление с макияжем для товара — вот тебе makeover."
     },
     {
       "term": "luxurious",
       "translation": "роскошный",
-      "example": "The cleanser looked more luxurious in the new bottle."
+      "example": "The cleanser looked more luxurious in the new bottle.",
+      "keyword": "лак",
+      "mnemonic": "Роскошный флакон покрыт лаком — вот тебе luxurious."
     },
     {
       "term": "status product",
       "translation": "статусный товар",
-      "example": "They tried to make it a status product."
+      "example": "They tried to make it a status product.",
+      "keyword": "стадо",
+      "mnemonic": "Статусный товар для стада фанатов — вот тебе status product."
     },
     {
       "term": "credibility",
       "translation": "доверие, авторитет",
-      "example": "It gives the brand an aura of credibility."
+      "example": "It gives the brand an aura of credibility.",
+      "keyword": "кредит",
+      "mnemonic": "Доверие и авторитет дают кредит бренду — вот тебе credibility."
     },
     {
       "term": "market research",
       "translation": "исследование рынка",
-      "example": "They thought this was simply market research."
+      "example": "They thought this was simply market research.",
+      "keyword": "марки",
+      "mnemonic": "Исследование рынка за марки для коллекции — вот тебе market research."
     },
     {
       "term": "self-esteem",
       "translation": "самооценка",
-      "example": "Luxury ads can drop your self-esteem."
+      "example": "Luxury ads can drop your self-esteem.",
+      "keyword": "эстет",
+      "mnemonic": "Самооценка падает у эстета от рекламы — вот тебе self-esteem."
     },
     {
       "term": "aspirational",
       "translation": "желанный, к которому стремятся",
-      "example": "An aspirational product with gorgeous people in the ads."
+      "example": "An aspirational product with gorgeous people in the ads.",
+      "keyword": "спираль",
+      "mnemonic": "Желанный товар крутится спиралью в рекламе — вот тебе aspirational."
     }
   ]
 }

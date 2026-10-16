@@ -1,0 +1,104 @@
+{
+  "lessonId": "friend-or-foe",
+  "title": "2B Friend or Foe? — Идиомы: конкуренция и сотрудничество",
+  "items": [
+    {
+      "idiom": "cut-throat competition",
+      "translation": "ожесточённая конкуренция",
+      "example": "Phone makers operate in a cut-throat industry where every secret matters.",
+      "keyword": "троут",
+      "mnemonic": "Конкуренты вцепились как троут-рыба: идёт ожесточённая конкуренция, — троут кусает cut-throat competition."
+    },
+    {
+      "idiom": "get off the ground",
+      "translation": "запустить; поставить на ноги (о проекте)",
+      "example": "Getting a new project off the ground is hugely expensive.",
+      "keyword": "граунд",
+      "mnemonic": "Проект оторвал граунд-шасси: его смогли запустить и поставить на ноги, — граунд дрожит get off the ground."
+    },
+    {
+      "idiom": "share the load",
+      "translation": "разделить нагрузку",
+      "example": "By sharing the load, both firms finished their research faster.",
+      "keyword": "лоуд",
+      "mnemonic": "Фирмы скинули лоуд-багаж пополам: смогли разделить нагрузку, — лоуд делится share the load."
+    },
+    {
+      "idiom": "ahead of the pack",
+      "translation": "впереди всех",
+      "example": "The desire to stay ahead of the pack pushes firms to do better.",
+      "keyword": "пак",
+      "mnemonic": "Стая с пак-лидером несётся: она впереди всех, — пак ведёт ahead of the pack."
+    },
+    {
+      "idiom": "a no-brainer",
+      "translation": "очевидное решение",
+      "example": "For Norton, practising coopetition is a complete no-brainer.",
+      "keyword": "брейн",
+      "mnemonic": "Кооперация щёлкнула брейн-орехом: это очевидное решение, — брейн гудит a no-brainer."
+    },
+    {
+      "idiom": "reap the rewards",
+      "translation": "пожинать плоды",
+      "example": "Consumers reap the rewards of innovation when firms cooperate.",
+      "keyword": "рип",
+      "mnemonic": "Потребители жнут рип-урожай: они стали пожинать плоды инноваций, — рип шуршит reap the rewards."
+    },
+    {
+      "idiom": "on the same page",
+      "translation": "в курсе договорённостей; заодно",
+      "example": "Partners must make sure everyone is on the same page about secrets.",
+      "keyword": "пейдж",
+      "mnemonic": "Партнёры открыли один пейдж-договор: они в курсе договорённостей, заодно, — пейдж шелестит on the same page."
+    },
+    {
+      "idiom": "bitter rivals",
+      "translation": "заклятые соперники",
+      "example": "In the future we could see bitter rivals working together on climate goals.",
+      "keyword": "биттер",
+      "mnemonic": "Конкуренты глотнули биттер: они заклятые соперники, но сотрудничают, — биттер горчит bitter rivals."
+    },
+    {
+      "idiom": "join forces",
+      "translation": "объединить усилия",
+      "example": "Toyota and General Motors joined forces to understand the US market.",
+      "keyword": "форс",
+      "mnemonic": "Автогиганты врубили форс-мотор: смогли объединить усилия ради рынка, — форс ревёт join forces."
+    },
+    {
+      "idiom": "dog-eat-dog",
+      "translation": "волчьи законы; жёсткая борьба",
+      "example": "Without cooperation the market becomes dog-eat-dog.",
+      "keyword": "дог",
+      "mnemonic": "Без кооперации рынок как дог-свора: там волчьи законы и жёсткая борьба, — дог рычит dog-eat-dog."
+    },
+    {
+      "idiom": "stay ahead of the game",
+      "translation": "оставаться впереди",
+      "example": "Firms share knowledge to stay ahead of the game.",
+      "keyword": "гейм",
+      "mnemonic": "Фирмы прокачали гейм-навык: смогли оставаться впереди, — гейм звенит stay ahead of the game."
+    },
+    {
+      "idiom": "give someone a run for their money",
+      "translation": "составить серьёзную конкуренцию",
+      "example": "The small startup gave the market leader a run for its money.",
+      "keyword": "ран",
+      "mnemonic": "Стартап задал ран-темп: он смог составить серьёзную конкуренцию лидеру, — ран мчится give someone a run for their money."
+    },
+    {
+      "idiom": "the gloves are off",
+      "translation": "борьба всерьёз; перчатки сняты",
+      "example": "When the merger talks failed, the gloves came off.",
+      "keyword": "гловс",
+      "mnemonic": "Переговорщики скинули гловс-перчатки: началась борьба всерьёз, — гловс летит the gloves are off."
+    },
+    {
+      "idiom": "a win-win situation",
+      "translation": "выгодно всем",
+      "example": "Coopetition is a win-win situation for firms and consumers.",
+      "keyword": "вин-вин",
+      "mnemonic": "Кооперация как вин-вин лотерея: это выгодно всем, — вин-вин звенит a win-win situation."
+    }
+  ]
+}

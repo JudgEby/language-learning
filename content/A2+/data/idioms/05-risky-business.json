@@ -1,0 +1,55 @@
+{
+  "lessonId": "risky-business",
+  "title": "Risky business — идиомы",
+  "items": [
+    {
+      "idiom": "deal with customers",
+      "translation": "работать с клиентами, обслуживать клиентов",
+      "example": "I deal with customers once in a while at work.",
+      "keyword": "костюм",
+      "mnemonic": "Менеджер в костюме лебезит — deal with customers, работать с клиентами иногда на работе."
+    },
+    {
+      "idiom": "get a good salary",
+      "translation": "получать хорошую зарплату",
+      "example": "IT consultants get a good salary in this company.",
+      "keyword": "сало",
+      "mnemonic": "Айтишник с салом в конверте — get a good salary, получать хорошую зарплату в фирме."
+    },
+    {
+      "idiom": "work under pressure",
+      "translation": "работать под давлением, в стрессе",
+      "example": "Some people work better under a lot of pressure.",
+      "keyword": "пресс",
+      "mnemonic": "Клерк под прессом бодрее — work under pressure, работать под давлением, в стрессе."
+    },
+    {
+      "idiom": "get long holidays",
+      "translation": "получать длинный отпуск",
+      "example": "It is important that employees get long holidays every year.",
+      "keyword": "холст",
+      "mnemonic": "Сотрудники с холстом моря — get long holidays, получать длинный отпуск каждый год."
+    },
+    {
+      "idiom": "get into trouble",
+      "translation": "попасть в беду",
+      "example": "Climbers get into trouble when the weather changes fast.",
+      "keyword": "трясина",
+      "mnemonic": "Альпинист в трясине погоды — get into trouble, попасть в беду, когда погода меняется."
+    },
+    {
+      "idiom": "work in a team",
+      "translation": "работать в команде",
+      "example": "It is more enjoyable to work in a team than alone.",
+      "keyword": "тимьян",
+      "mnemonic": "Весельчаки с тимьяном в супе — work in a team, работать в команде веселее, чем одному."
+    },
+    {
+      "idiom": "get a surprise",
+      "translation": "получить сюрприз",
+      "example": "Occasionally the rescue team gets a nice surprise from people.",
+      "keyword": "сироп",
+      "mnemonic": "Спасатели с сиропом от людей — get a surprise, получить сюрприз иногда от людей."
+    }
+  ]
+}

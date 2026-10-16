@@ -5,17 +5,58 @@
     {
       "phrase": "look back on",
       "translation": "оглядываться на",
-      "example": "I look back on those days fondly."
+      "example": "I look back on those days fondly.",
+      "keyword": "бак",
+      "mnemonic": "С нежностью оглядываюсь на те дни — смотрю из бака времени: look back fondly."
     },
     {
       "phrase": "live with regret",
       "translation": "жить с сожалением",
-      "example": "Nobody wants to live with regret."
+      "example": "Nobody wants to live with regret.",
+      "keyword": "регги",
+      "mnemonic": "Никто не хочет жить с сожалением — слушай регги: live with regret."
     },
     {
       "phrase": "seize the moment",
       "translation": "ловить момент",
-      "example": "Seize the moment — don't wait."
+      "example": "Seize the moment — don't wait.",
+      "keyword": "сизый",
+      "mnemonic": "Лови момент — не жди, хватай сизого голубя: seize the moment."
+    },
+    {
+      "phrase": "make a career out of it",
+      "translation": "сделать из этого карьеру",
+      "example": "Her tutor said she could make a career out of acting.",
+      "keyword": "карьер",
+      "mnemonic": "Наставник сказал: сделаешь карьеру из актёрства — копай карьер: make a career out of acting."
+    },
+    {
+      "phrase": "carry on playing",
+      "translation": "продолжать играть",
+      "example": "He carried on playing for a few more years.",
+      "keyword": "карри",
+      "mnemonic": "Продолжал играть ещё годы — ел карри: carried on playing."
+    },
+    {
+      "phrase": "stay in touch",
+      "translation": "поддерживать связь",
+      "example": "They promised to stay in touch after college.",
+      "keyword": "тачдаун",
+      "mnemonic": "Обещали поддерживать связь — забили тачдаун: stay in touch."
+    },
+    {
+      "phrase": "hang out with friends",
+      "translation": "проводить время с друзьями",
+      "example": "As a teen he just wanted to hang out with friends.",
+      "keyword": "ангар",
+      "mnemonic": "Подростком хотел только тусоваться с друзьями в ангаре: hang out with friends."
+    },
+    {
+      "phrase": "get a regular job",
+      "translation": "устроиться на обычную работу",
+      "example": "He quit the band and got a regular job.",
+      "keyword": "регулярный",
+      "mnemonic": "Бросил группу и устроился на обычную работу — стал регулярным: got a regular job."
     }
   ]
 }

@@ -5,27 +5,79 @@
     {
       "term": "guidance",
       "translation": "руководство, наставление",
-      "example": "I need some guidance on this."
+      "example": "I need some guidance on this.",
+      "keyword": "гайд",
+      "mnemonic": "Нужен гайд по этому вопросу — guidance: need some guidance, наставление."
     },
     {
       "term": "dilemma",
       "translation": "дилемма",
-      "example": "I'm facing a real dilemma."
+      "example": "I'm facing a real dilemma.",
+      "keyword": "дилер",
+      "mnemonic": "Стоит перед настоящей дилеммой — дилер ждёт ответа: facing a real dilemma."
     },
     {
       "term": "perspective",
       "translation": "точка зрения",
-      "example": "Thanks for offering a fresh perspective."
+      "example": "Thanks for offering a fresh perspective.",
+      "keyword": "перспектива",
+      "mnemonic": "Спасибо за свежий взгляд — открыл перспективу: fresh perspective, точка зрения."
     },
     {
       "term": "tactful",
       "translation": "тактичный",
-      "example": "She gave tactful feedback."
+      "example": "She gave tactful feedback.",
+      "keyword": "тактика",
+      "mnemonic": "Дала тактичный фидбэк — сменила тактику: tactful feedback."
     },
     {
       "term": "mentor",
       "translation": "наставник",
-      "example": "My mentor gave me invaluable advice."
+      "example": "My mentor gave me invaluable advice.",
+      "keyword": "мент",
+      "mnemonic": "Наставник дал бесценный совет — мент плохого не посоветует: mentor gave advice."
+    },
+    {
+      "term": "get through to",
+      "translation": "достучаться, донести мысль",
+      "example": "Nobody could get through to him.",
+      "keyword": "труба",
+      "mnemonic": "Никто не мог до него достучаться — как в трубу кричали: get through to him."
+    },
+    {
+      "term": "take it personally",
+      "translation": "принимать на свой счёт",
+      "example": "Please do not take it personally.",
+      "keyword": "персона",
+      "mnemonic": "Не принимай на свой счёт — ты не персона нон грата: do not take it personally."
+    },
+    {
+      "term": "take your mind off",
+      "translation": "отвлечься",
+      "example": "Music helps take your mind off problems.",
+      "keyword": "мина",
+      "mnemonic": "Музыка помогает отвлечься от проблем — обезвредила мину: take your mind off problems."
+    },
+    {
+      "term": "get something off your chest",
+      "translation": "выговориться",
+      "example": "She just needed to get it off her chest.",
+      "keyword": "честь",
+      "mnemonic": "Ей нужно было выговориться — защищала честь мундира: get it off her chest."
+    },
+    {
+      "term": "get it wrong",
+      "translation": "ошибиться",
+      "example": "We do not want to get it wrong.",
+      "keyword": "руны",
+      "mnemonic": "Не хотим ошибиться — руны легли криво: do not want to get it wrong."
+    },
+    {
+      "term": "get the message",
+      "translation": "понять намёк",
+      "example": "He did not get the message.",
+      "keyword": "месседж",
+      "mnemonic": "Он не понял намёка — месседж не дошёл: did not get the message."
     }
   ]
 }

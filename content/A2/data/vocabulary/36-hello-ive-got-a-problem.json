@@ -2,23 +2,131 @@
   "lessonId": "hello-ive-got-a-problem",
   "title": "Hello, I've got a problem — новые слова",
   "items": [
-    { "term": "call / ring somebody", "translation": "звонить кому-то", "example": "I called Mark, but he wasn't at home." },
-    { "term": "answer the phone", "translation": "брать трубку", "example": "You answer the phone. It's a call for Patricia." },
-    { "term": "take a message", "translation": "записать сообщение", "example": "Could I take a message for her?" },
-    { "term": "leave a message", "translation": "оставить сообщение", "example": "I'll leave a message for Mark." },
-    { "term": "ring somebody back", "translation": "перезвонить кому-то", "example": "Could you ring me back later?" },
-    { "term": "call somebody back", "translation": "перезвонить кому-то", "example": "Fine. Hang up and I'll call you back straightaway." },
-    { "term": "hang up", "translation": "положить трубку", "example": "Hang up and I'll ring you back." },
-    { "term": "an answerphone", "translation": "автоответчик", "example": "He isn't at home, so you leave a message on his answerphone." },
-    { "term": "customer services", "translation": "служба поддержки клиентов", "example": "Could I speak to customer services, please?" },
-    { "term": "hold on / hold the line", "translation": "не класть трубку, подождать", "example": "Just a hold on, please. — Hold the line." },
-    { "term": "the number there", "translation": "номер там", "example": "Could you give me the number there?" },
-    { "term": "be out", "translation": "быть вне (дома/офиса)", "example": "He went out about ten minutes ago." },
-    { "term": "be in", "translation": "быть дома", "example": "Is Kevin in? — No, he's out." },
-    { "term": "go out", "translation": "выйти", "example": "He went out about ten minutes ago." },
-    { "term": "I've got a problem", "translation": "У меня проблема", "example": "Hello, this is Alan Simpson. I've got a problem." },
-    { "term": "I've lost my ...", "translation": "Я потерял свой ...", "example": "I've lost my keys and my mobile." },
-    { "term": "lock yourself out", "translation": "запереться снаружи", "example": "I've locked myself out of my house." },
-    { "term": "get lost", "translation": "заблудиться", "example": "Have you ever got lost in a city?" }
+    {
+      "term": "call / ring somebody",
+      "translation": "звонить кому-то",
+      "example": "I called Mark, but he wasn't at home.",
+      "keyword": "рингтон",
+      "mnemonic": "Рингтон орёт — звонить кому-то, call somebody."
+    },
+    {
+      "term": "answer the phone",
+      "translation": "брать трубку",
+      "example": "You answer the phone. It's a call for Patricia.",
+      "keyword": "фон",
+      "mnemonic": "Секретарь на фоне берёт трубку — answer the phone."
+    },
+    {
+      "term": "take a message",
+      "translation": "записать сообщение",
+      "example": "Could I take a message for her?",
+      "keyword": "тейп",
+      "mnemonic": "Секретарь клеит тейп и записывает сообщение — take a message."
+    },
+    {
+      "term": "leave a message",
+      "translation": "оставить сообщение",
+      "example": "I'll leave a message for Mark.",
+      "keyword": "ливень",
+      "mnemonic": "Голос в ливень оставляет сообщение — leave a message."
+    },
+    {
+      "term": "ring somebody back",
+      "translation": "перезвонить кому-то",
+      "example": "Could you ring me back later?",
+      "keyword": "бумеранг",
+      "mnemonic": "Звонок вернулся как бумеранг — ring back, перезвонить."
+    },
+    {
+      "term": "call somebody back",
+      "translation": "перезвонить кому-то",
+      "example": "Fine. Hang up and I'll call you back straightaway.",
+      "keyword": "колбаса",
+      "mnemonic": "Абонент с колбасой перезванивает — call back."
+    },
+    {
+      "term": "hang up",
+      "translation": "положить трубку",
+      "example": "Hang up and I'll ring you back.",
+      "keyword": "ангар",
+      "mnemonic": "Механик в ангаре кладёт трубку — hang up."
+    },
+    {
+      "term": "an answerphone",
+      "translation": "автоответчик",
+      "example": "He isn't at home, so you leave a message on his answerphone.",
+      "keyword": "сарафан",
+      "mnemonic": "Бабушка в сарафане слушает автоответчик — это an answerphone."
+    },
+    {
+      "term": "customer services",
+      "translation": "служба поддержки клиентов",
+      "example": "Could I speak to customer services, please?",
+      "keyword": "костюмер",
+      "mnemonic": "Костюмер в костюме зовёт поддержку — customer services."
+    },
+    {
+      "term": "hold on / hold the line",
+      "translation": "не класть трубку, подождать",
+      "example": "Just a hold on, please. — Hold the line.",
+      "keyword": "холд",
+      "mnemonic": "Оператор кричит «холд» — подождите, hold on."
+    },
+    {
+      "term": "the number there",
+      "translation": "номер там",
+      "example": "Could you give me the number there?",
+      "keyword": "зебра",
+      "mnemonic": "Зебра диктует номер — the number there."
+    },
+    {
+      "term": "be out",
+      "translation": "быть вне (дома/офиса)",
+      "example": "He went out about ten minutes ago.",
+      "keyword": "аут",
+      "mnemonic": "Судья кричит «аут» — его нет дома, be out."
+    },
+    {
+      "term": "be in",
+      "translation": "быть дома",
+      "example": "Is Kevin in? — No, he's out.",
+      "keyword": "инн",
+      "mnemonic": "Гость в инне — он дома, be in."
+    },
+    {
+      "term": "go out",
+      "translation": "выйти",
+      "example": "He went out about ten minutes ago.",
+      "keyword": "гаут",
+      "mnemonic": "Турист в гаут вышел на улицу — go out."
+    },
+    {
+      "term": "I've got a problem",
+      "translation": "У меня проблема",
+      "example": "Hello, this is Alan Simpson. I've got a problem.",
+      "keyword": "пробка",
+      "mnemonic": "Водитель в пробке жалуется — I've got a problem, у меня проблема."
+    },
+    {
+      "term": "I've lost my ...",
+      "translation": "Я потерял свой ...",
+      "example": "I've lost my keys and my mobile.",
+      "keyword": "лось",
+      "mnemonic": "Лось потерял ключи — I've lost my keys, я потерял."
+    },
+    {
+      "term": "lock yourself out",
+      "translation": "запереться снаружи",
+      "example": "I've locked myself out of my house.",
+      "keyword": "локон",
+      "mnemonic": "Турист прищемил локон и заперся снаружи — lock yourself out."
+    },
+    {
+      "term": "get lost",
+      "translation": "заблудиться",
+      "example": "Have you ever got lost in a city?",
+      "keyword": "лост",
+      "mnemonic": "Турист с картой «лост» заблудился — get lost."
+    }
   ]
 }

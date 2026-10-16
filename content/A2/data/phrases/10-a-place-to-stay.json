@@ -2,16 +2,82 @@
   "lessonId": "a-place-to-stay",
   "title": "A place to stay — фразы",
   "items": [
-    { "phrase": "a place to stay", "translation": "место для проживания", "example": "What's important for you in choosing a place to stay?" },
-    { "phrase": "there's no ...", "translation": "нет ...", "example": "There's no balcony and there's no lift." },
-    { "phrase": "Is there a ... ?", "translation": "Есть ... ?", "example": "Is there free WiFi in the apartment?" },
-    { "phrase": "Are there any ... ?", "translation": "Есть ли какие-нибудь ... ?", "example": "Are there any buses late at night?" },
-    { "phrase": "lots of ...", "translation": "много ...", "example": "There are lots of great restaurants in the city." },
-    { "phrase": "ten minutes' walk away", "translation": "в десяти минутах ходьбы", "example": "There's a park by the sea only ten minutes' walk away." },
-    { "phrase": "a place outside", "translation": "место на улице", "example": "For me, it's important to have a place outside." },
-    { "phrase": "sit in the sun", "translation": "сидеть на солнце", "example": "I like sitting in the sun on the balcony." },
-    { "phrase": "How many rooms are there?", "translation": "Сколько комнат?", "example": "How many rooms are there in your flat?" },
-    { "phrase": "be different from / be similar to", "translation": "отличаться от / быть похожим на", "example": "How are your homes different? How are they similar?" },
-    { "phrase": "by bus / by train", "translation": "на автобусе / на поезде", "example": "Can I go to Valletta by bus?" }
+    {
+      "phrase": "a place to stay",
+      "translation": "место для проживания",
+      "example": "What's important for you in choosing a place to stay?",
+      "keyword": "пляж",
+      "mnemonic": "Турист ищет пляж: a place to stay — место для проживания."
+    },
+    {
+      "phrase": "there's no ...",
+      "translation": "нет ...",
+      "example": "There's no balcony and there's no lift.",
+      "keyword": "ноутбук",
+      "mnemonic": "В номере ноутбук без балкона: there's no balcony — нет балкона."
+    },
+    {
+      "phrase": "Is there a ... ?",
+      "translation": "Есть ... ?",
+      "example": "Is there free WiFi in the apartment?",
+      "keyword": "зебра",
+      "mnemonic": "Зебра спрашивает is there free WiFi — есть бесплатный вайфай."
+    },
+    {
+      "phrase": "Are there any ... ?",
+      "translation": "Есть ли какие-нибудь ... ?",
+      "example": "Are there any buses late at night?",
+      "keyword": "аниме",
+      "mnemonic": "В автобусе крутят аниме: are there any buses — есть ли автобусы."
+    },
+    {
+      "phrase": "lots of ...",
+      "translation": "много ...",
+      "example": "There are lots of great restaurants in the city.",
+      "keyword": "лото",
+      "mnemonic": "В городе лото ресторанов: lots of restaurants — много ресторанов."
+    },
+    {
+      "phrase": "ten minutes' walk away",
+      "translation": "в десяти минутах ходьбы",
+      "example": "There's a park by the sea only ten minutes' walk away.",
+      "keyword": "вокзал",
+      "mnemonic": "Парк в десяти минутах от вокзала: ten minutes' walk away — в десяти минутах ходьбы."
+    },
+    {
+      "phrase": "a place outside",
+      "translation": "место на улице",
+      "example": "For me, it's important to have a place outside.",
+      "keyword": "аут",
+      "mnemonic": "Турист кричит «аут!» и просится a place outside — место на улице."
+    },
+    {
+      "phrase": "sit in the sun",
+      "translation": "сидеть на солнце",
+      "example": "I like sitting in the sun on the balcony.",
+      "keyword": "санки",
+      "mnemonic": "На санках сидят sit in the sun — сидеть на солнце."
+    },
+    {
+      "phrase": "How many rooms are there?",
+      "translation": "Сколько комнат?",
+      "example": "How many rooms are there in your flat?",
+      "keyword": "рюмка",
+      "mnemonic": "В квартире звенят рюмки: how many rooms — сколько комнат."
+    },
+    {
+      "phrase": "be different from / be similar to",
+      "translation": "отличаться от / быть похожим на",
+      "example": "How are your homes different? How are they similar?",
+      "keyword": "диван",
+      "mnemonic": "Дома как разные диваны: be different from — отличаться от."
+    },
+    {
+      "phrase": "by bus / by train",
+      "translation": "на автобусе / на поезде",
+      "example": "Can I go to Valletta by bus?",
+      "keyword": "бас",
+      "mnemonic": "Бас гудит by bus — на автобусе."
+    }
   ]
 }

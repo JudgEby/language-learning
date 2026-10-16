@@ -373,5 +373,65 @@
     "relatedRuleIds": [
       "tech-fail"
     ]
+  },
+  {
+    "question": "Choose the correct collocation: Firms must work together to meet carbon targets.",
+    "options": [
+      "disguise",
+      "make the grade",
+      "meet targets",
+      "like-minded"
+    ],
+    "correctIndex": 2,
+    "explanation": "'meet targets' (выполнять цели). Full sentence: Firms must work together to meet carbon targets.",
+    "relatedRuleIds": [
+      "friend-or-foe"
+    ],
+    "id": "683a591c8320"
+  },
+  {
+    "question": "Choose the correct collocation: Less-known areas can be marketed to tourists.",
+    "options": [
+      "productivity",
+      "innocence",
+      "market to tourists",
+      "defeat"
+    ],
+    "correctIndex": 2,
+    "explanation": "'market to tourists' (продвигать для туристов). Full sentence: Less-known areas can be marketed to tourists.",
+    "relatedRuleIds": [
+      "creating-a-brand"
+    ],
+    "id": "79d6ee51355b"
+  },
+  {
+    "question": "Which word means 'диктовать, предписывать'?",
+    "options": [
+      "dictate",
+      "dance competition",
+      "eager",
+      "challenge yourself"
+    ],
+    "correctIndex": 0,
+    "explanation": "'dictate' means диктовать, предписывать. Example: An algorithm will dictate how much the bank will lend us.",
+    "relatedRuleIds": [
+      "algorithm"
+    ],
+    "id": "9540346a1284"
+  },
+  {
+    "question": "Which word means 'комендантский час'?",
+    "options": [
+      "minty",
+      "curfew",
+      "single",
+      "transform"
+    ],
+    "correctIndex": 1,
+    "explanation": "'curfew' means комендантский час. Example: Everyone must be home before curfew.",
+    "relatedRuleIds": [
+      "dystopias-utopias"
+    ],
+    "id": "2612071f91c0"
   }
 ]

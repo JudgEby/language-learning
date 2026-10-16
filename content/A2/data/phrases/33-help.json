@@ -2,18 +2,96 @@
   "lessonId": "help",
   "title": "Help! — фразы",
   "items": [
-    { "phrase": "Can you help me?", "translation": "Можешь мне помочь?", "example": "Can you help me? — Yes, of course." },
-    { "phrase": "Let me help you.", "translation": "Позвольте помочь.", "example": "Here, let me help. What a mess!" },
-    { "phrase": "Let me try ...", "translation": "Дай попробовать ...", "example": "Let me try ... Ooh, it's stuck." },
-    { "phrase": "Shall I ...?", "translation": "Разрешите ...?", "example": "Shall I close the window? — Yes, please." },
-    { "phrase": "I'll get it for you.", "translation": "Я достану это для вас.", "example": "I'll get it for you. — Thanks a lot!" },
-    { "phrase": "I'll make you a sandwich.", "translation": "Я сделаю вам бутерброд.", "example": "You look tired. I'll make you a sandwich." },
-    { "phrase": "Can I carry your bag?", "translation": "Могу понести вашу сумку?", "example": "Can I carry your bag? — Thanks a lot." },
-    { "phrase": "Do you need help?", "translation": "Вам нужна помощь?", "example": "You look tired. Do you need help?" },
-    { "phrase": "I'm in trouble.", "translation": "У меня проблема.", "example": "Excuse me, I'm in trouble — can you help?" },
-    { "phrase": "What a mess!", "translation": "Какая каша! / Что за беспорядок!", "example": "Here, let me help. What a mess!" },
-    { "phrase": "Thanks a lot.", "translation": "Большое спасибо.", "example": "Thanks a lot for your help." },
-    { "phrase": "No problem. / Any time.", "translation": "Без проблем. / Всегда пожалуйста.", "example": "Thanks. — No problem. / Any time." },
-    { "phrase": "That's very kind of you.", "translation": "Это очень любезно с вашей стороны.", "example": "That's very kind of you — thank you!" }
+    {
+      "phrase": "Can you help me?",
+      "translation": "Можешь мне помочь?",
+      "example": "Can you help me? — Yes, of course.",
+      "keyword": "хелп",
+      "mnemonic": "Прохожий кричит «хелп» — Can you help me, можешь помочь."
+    },
+    {
+      "phrase": "Let me help you.",
+      "translation": "Позвольте помочь.",
+      "example": "Here, let me help. What a mess!",
+      "keyword": "хелпер",
+      "mnemonic": "Хелпер тянет руку — Let me help you, позвольте помочь."
+    },
+    {
+      "phrase": "Let me try ...",
+      "translation": "Дай попробовать ...",
+      "example": "Let me try ... Ooh, it's stuck.",
+      "keyword": "трайк",
+      "mnemonic": "Механик на трайке просит — Let me try, дай попробовать."
+    },
+    {
+      "phrase": "Shall I ...?",
+      "translation": "Разрешите ...?",
+      "example": "Shall I close the window? — Yes, please.",
+      "keyword": "шёл",
+      "mnemonic": "Прохожий шёл и спрашивает — Shall I close, разрешите закрыть."
+    },
+    {
+      "phrase": "I'll get it for you.",
+      "translation": "Я достану это для вас.",
+      "example": "I'll get it for you. — Thanks a lot!",
+      "keyword": "гетто",
+      "mnemonic": "Добряк из гетто достаёт сумку — I'll get it for you, я достану."
+    },
+    {
+      "phrase": "I'll make you a sandwich.",
+      "translation": "Я сделаю вам бутерброд.",
+      "example": "You look tired. I'll make you a sandwich.",
+      "keyword": "сэндвич",
+      "mnemonic": "Повар с сэндвичем угощает — I'll make you a sandwich, сделаю бутерброд."
+    },
+    {
+      "phrase": "Can I carry your bag?",
+      "translation": "Могу понести вашу сумку?",
+      "example": "Can I carry your bag? — Thanks a lot.",
+      "keyword": "карри",
+      "mnemonic": "Носильщик с карри предлагает — Can I carry your bag, понести сумку."
+    },
+    {
+      "phrase": "Do you need help?",
+      "translation": "Вам нужна помощь?",
+      "example": "You look tired. Do you need help?",
+      "keyword": "нить",
+      "mnemonic": "Добряк с нитью спрашивает — Do you need help, нужна помощь."
+    },
+    {
+      "phrase": "I'm in trouble.",
+      "translation": "У меня проблема.",
+      "example": "Excuse me, I'm in trouble — can you help?",
+      "keyword": "труба",
+      "mnemonic": "Турист в трубе застрял — I'm in trouble, у меня проблема."
+    },
+    {
+      "phrase": "What a mess!",
+      "translation": "Какая каша! / Что за беспорядок!",
+      "example": "Here, let me help. What a mess!",
+      "keyword": "месиво",
+      "mnemonic": "Добряк видит месиво — What a mess, что за беспорядок."
+    },
+    {
+      "phrase": "Thanks a lot.",
+      "translation": "Большое спасибо.",
+      "example": "Thanks a lot for your help.",
+      "keyword": "санки",
+      "mnemonic": "Спасённый машет с санок — Thanks a lot, большое спасибо."
+    },
+    {
+      "phrase": "No problem. / Any time.",
+      "translation": "Без проблем. / Всегда пожалуйста.",
+      "example": "Thanks. — No problem. / Any time.",
+      "keyword": "пробка",
+      "mnemonic": "Добряк в пробке улыбается — No problem, без проблем."
+    },
+    {
+      "phrase": "That's very kind of you.",
+      "translation": "Это очень любезно с вашей стороны.",
+      "example": "That's very kind of you — thank you!",
+      "keyword": "кайф",
+      "mnemonic": "Спасённый ловит кайф — That's very kind of you, очень любезно."
+    }
   ]
 }

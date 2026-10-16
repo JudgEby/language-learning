@@ -5,92 +5,128 @@
     {
       "phrase": "take to someone",
       "translation": "проникнуться симпатией",
-      "example": "Claire and I didn't take to each other at first."
+      "example": "Claire and I didn't take to each other at first.",
+      "keyword": "тик",
+      "mnemonic": "Часы громко тикают, пока он пытается проникнуться симпатией — тик будто отсчитывает секунды до take to someone."
     },
     {
       "phrase": "get on well with",
       "translation": "ладить",
-      "example": "I got on well with her best friend from the start."
+      "example": "I got on well with her best friend from the start.",
+      "keyword": "вел",
+      "mnemonic": "Он вел велосипед рядом с ней и они сразу начали ладить — вел их прямо к get on well with."
     },
     {
       "phrase": "come between",
       "translation": "встать между",
-      "example": "I suppose I came between them and their friendship."
+      "example": "I suppose I came between them and their friendship.",
+      "keyword": "битва",
+      "mnemonic": "Битва началась, когда он встал между друзьями, — битва и есть come between."
     },
     {
       "phrase": "warm to someone",
       "translation": "проникнуться теплотой",
-      "example": "Over time, we warmed to each other and became really close."
+      "example": "Over time, we warmed to each other and became really close.",
+      "keyword": "варёный",
+      "mnemonic": "Варёный рак краснеет от тепла, а мы прониклись теплотой друг к другу — варёный подскажет warm to someone."
     },
     {
       "phrase": "hang around with",
       "translation": "тусоваться с",
-      "example": "I hung around with her all the time at school."
+      "example": "I hung around with her all the time at school.",
+      "keyword": "хана",
+      "mnemonic": "Урокам хана, когда мы тусуемся вместе после школы, — хана кричит hang around with."
     },
     {
       "phrase": "fall out",
       "translation": "поссориться",
-      "example": "We only ever fell out once over something really silly."
+      "example": "We only ever fell out once over something really silly.",
+      "keyword": "фол",
+      "mnemonic": "Судья свистит фол, и друзья ссорятся из-за ерунды, — фол и есть fall out."
     },
     {
       "phrase": "make up",
       "translation": "помириться",
-      "example": "We made up after just a day of not talking to each other."
+      "example": "We made up after just a day of not talking to each other.",
+      "keyword": "мак",
+      "mnemonic": "Посыпали маком пирог примирения и тут же помирились — мак склеил make up."
     },
     {
       "phrase": "drift apart",
       "translation": "отдалиться",
-      "example": "Unfortunately, life took us in different directions and we drifted apart."
+      "example": "Unfortunately, life took us in different directions and we drifted apart.",
+      "keyword": "дрифт",
+      "mnemonic": "Машина уходит в дрифт, и друзья отдаляются друг от друга, — дрифт разводит drift apart."
     },
     {
       "phrase": "stop by",
       "translation": "зайти",
-      "example": "She stops by my flat if she's passing."
+      "example": "She stops by my flat if she's passing.",
+      "keyword": "стоп",
+      "mnemonic": "Кричу себе «стоп» у её подъезда и захожу в гости — стоп останавливает меня на stop by."
     },
     {
       "phrase": "bump into",
       "translation": "натолкнуться",
-      "example": "We bump into each other in the supermarket sometimes."
+      "example": "We bump into each other in the supermarket sometimes.",
+      "keyword": "бампер",
+      "mnemonic": "Тележки стукнулись бамперами, и мы натолкнулись друг на друга, — бампер гудит bump into."
     },
     {
       "phrase": "bond over",
       "translation": "найти общий язык благодаря чему-то",
-      "example": "Carl and I bonded over our love for music."
+      "example": "Carl and I bonded over our love for music.",
+      "keyword": "Бонд",
+      "mnemonic": "Джеймс Бонд включил музыку, и мы нашли общий язык благодаря ей, — Бонд скрепил bond over."
     },
     {
       "phrase": "click with",
       "translation": "найти контакт с кем-то",
-      "example": "My neighbour Joao and I clicked as soon as we met."
+      "example": "My neighbour Joao and I clicked as soon as we met.",
+      "keyword": "клик",
+      "mnemonic": "Мышка щёлкнула «клик», и мы сразу нашли контакт, — клик и есть click with."
     },
     {
       "phrase": "confide in",
       "translation": "доверять, делиться сокровенным",
-      "example": "The person I confide in the most is my sister."
+      "example": "The person I confide in the most is my sister.",
+      "keyword": "конфета",
+      "mnemonic": "Делюсь сокровенным с сестрой за конфетой — каждой тайне по конфете, а конфета шепчет confide in."
     },
     {
       "phrase": "have a mutual friend",
       "translation": "иметь общего друга",
-      "example": "Sarka and I have a mutual friend from university."
+      "example": "Sarka and I have a mutual friend from university.",
+      "keyword": "мюзикл",
+      "mnemonic": "Мы оба фанатеем от одного мюзикла, ведь у нас общий друг нас туда водил, — мюзикл напоминает have a mutual friend."
     },
     {
       "phrase": "hit it off with",
       "translation": "сразу найти общий язык",
-      "example": "One person I hit it off with immediately is my new colleague."
+      "example": "One person I hit it off with immediately is my new colleague.",
+      "keyword": "хит",
+      "mnemonic": "Наш дуэт стал хитом с первой репетиции — мы сразу нашли общий язык, а хит гремит hit it off with."
     },
     {
       "phrase": "be on the same wavelength",
       "translation": "быть на одной волне",
-      "example": "My sister and I are just not on the same wavelength."
+      "example": "My sister and I are just not on the same wavelength.",
+      "keyword": "вей",
+      "mnemonic": "Серфер кричит «вей!», ловя волну, — мы с сестрой на одной волне, а вей держит be on the same wavelength."
     },
     {
       "phrase": "party with",
       "translation": "тусоваться, веселиться с кем-то",
-      "example": "They love to party with their old school friends."
+      "example": "They love to party with their old school friends.",
+      "keyword": "пати",
+      "mnemonic": "Шумное пати гремит, мы веселимся со школьными друзьями, — пати и есть party with."
     },
     {
       "phrase": "socialise with",
       "translation": "общаться, проводить время с кем-то",
-      "example": "I wanted people my own age to socialise with."
+      "example": "I wanted people my own age to socialise with.",
+      "keyword": "соус",
+      "mnemonic": "Передаём друг другу соус за столом и весело общаемся весь вечер, — соус связывает socialise with."
     }
   ]
 }

@@ -2,21 +2,117 @@
   "lessonId": "see-it-taste-it",
   "title": "See it! Taste it! — новые слова",
   "items": [
-    { "term": "a camera", "translation": "фотоаппарат", "example": "Leave your camera at home — it's too heavy for the flight." },
-    { "term": "a mobile phone", "translation": "мобильный телефон", "example": "Put your mobile in your pocket, not in your bag." },
-    { "term": "keys", "translation": "ключи", "example": "Put your keys in the bag so they're easy to find." },
-    { "term": "a diary", "translation": "дневник", "example": "A diary with all your contact information is always in my bag." },
-    { "term": "a passport", "translation": "паспорт", "example": "These are important, so keep your passport in a pocket." },
-    { "term": "a credit card", "translation": "кредитная карта", "example": "Is your credit card in your purse or your wallet?" },
-    { "term": "an MP3 player", "translation": "MP3-плеер", "example": "An MP3 player is good for music and audiobooks on a plane." },
-    { "term": "earphones", "translation": "наушники", "example": "Earphones are good for watching DVDs on your laptop." },
-    { "term": "a newspaper", "translation": "газета", "example": "Leave newspapers at home — they're free on the plane." },
-    { "term": "a toothbrush", "translation": "зубная щётка", "example": "Take a toothbrush and a small tube of toothpaste." },
-    { "term": "a sweater", "translation": "свитер", "example": "Wear a sweater on the plane — it's good if it's cold." },
-    { "term": "a purse", "translation": "кошелёк", "example": "Coins are a problem at security, so put them in a purse." },
-    { "term": "a laptop", "translation": "ноутбук", "example": "A laptop with an adaptor is my most important thing." },
-    { "term": "a watch", "translation": "часы", "example": "Look — my name's on it. It's my watch." },
-    { "term": "shampoo", "translation": "шампунь", "example": "Most hotels have shampoo, or you can buy it in town." },
-    { "term": "a souvenir", "translation": "сувенир", "example": "A souvenir is a nice thing to bring home from a holiday." }
+    {
+      "term": "a camera",
+      "translation": "фотоаппарат",
+      "example": "Leave your camera at home — it's too heavy for the flight.",
+      "keyword": "камера",
+      "mnemonic": "Туристка трясёт камерой и хохочет: это же a camera — фотоаппарат!"
+    },
+    {
+      "term": "a mobile phone",
+      "translation": "мобильный телефон",
+      "example": "Put your mobile in your pocket, not in your bag.",
+      "keyword": "мобила",
+      "mnemonic": "Пацан размахивает мобилой — у него в руках a mobile phone, мобильный телефон."
+    },
+    {
+      "term": "keys",
+      "translation": "ключи",
+      "example": "Put your keys in the bag so they're easy to find.",
+      "keyword": "кейс",
+      "mnemonic": "Сыщик трясёт кейсом, а внутри звенят keys — ключи."
+    },
+    {
+      "term": "a diary",
+      "translation": "дневник",
+      "example": "A diary with all your contact information is always in my bag.",
+      "keyword": "Дарья",
+      "mnemonic": "Дарья прячет под подушку дневник — это её a diary."
+    },
+    {
+      "term": "a passport",
+      "translation": "паспорт",
+      "example": "These are important, so keep your passport in a pocket.",
+      "keyword": "паспарту",
+      "mnemonic": "Художник вставил в паспарту вместо картины a passport — паспорт."
+    },
+    {
+      "term": "a credit card",
+      "translation": "кредитная карта",
+      "example": "Is your credit card in your purse or your wallet?",
+      "keyword": "критик",
+      "mnemonic": "Критик расплачивается кредиткой — это a credit card, кредитная карта."
+    },
+    {
+      "term": "an MP3 player",
+      "translation": "MP3-плеер",
+      "example": "An MP3 player is good for music and audiobooks on a plane.",
+      "keyword": "плешь",
+      "mnemonic": "Лысый дед чешет плешь и слушает an MP3 player — MP3-плеер."
+    },
+    {
+      "term": "earphones",
+      "translation": "наушники",
+      "example": "Earphones are good for watching DVDs on your laptop.",
+      "keyword": "айфон",
+      "mnemonic": "Подросток втыкает айфон в уши — это его earphones, наушники."
+    },
+    {
+      "term": "a newspaper",
+      "translation": "газета",
+      "example": "Leave newspapers at home — they're free on the plane.",
+      "keyword": "ньюс",
+      "mnemonic": "Диктор читает ньюс с листа — это a newspaper, газета."
+    },
+    {
+      "term": "a toothbrush",
+      "translation": "зубная щётка",
+      "example": "Take a toothbrush and a small tube of toothpaste.",
+      "keyword": "тушь",
+      "mnemonic": "Клоун красит тушью зубы вместо чистки — ему нужна a toothbrush, зубная щётка."
+    },
+    {
+      "term": "a sweater",
+      "translation": "свитер",
+      "example": "Wear a sweater on the plane — it's good if it's cold.",
+      "keyword": "свисток",
+      "mnemonic": "Тренер свистит в свисток и натягивает a sweater — свитер."
+    },
+    {
+      "term": "a purse",
+      "translation": "кошелёк",
+      "example": "Coins are a problem at security, so put them in a purse.",
+      "keyword": "пурга",
+      "mnemonic": "В пургу бабушка прячет за пазуху кошелёк — это её a purse."
+    },
+    {
+      "term": "a laptop",
+      "translation": "ноутбук",
+      "example": "A laptop with an adaptor is my most important thing.",
+      "keyword": "лапоть",
+      "mnemonic": "Дед ставит лапоть рядом с ноутбуком — это его a laptop."
+    },
+    {
+      "term": "a watch",
+      "translation": "часы",
+      "example": "Look — my name's on it. It's my watch.",
+      "keyword": "вошь",
+      "mnemonic": "Вошь ползёт по циферблату — часы встали, а это был a watch."
+    },
+    {
+      "term": "shampoo",
+      "translation": "шампунь",
+      "example": "Most hotels have shampoo, or you can buy it in town.",
+      "keyword": "шампур",
+      "mnemonic": "Повар насаживает на шампур бутылку — там shampoo, шампунь."
+    },
+    {
+      "term": "a souvenir",
+      "translation": "сувенир",
+      "example": "A souvenir is a nice thing to bring home from a holiday.",
+      "keyword": "суверен",
+      "mnemonic": "Суверен везёт из поездки сувенир — это и есть a souvenir."
+    }
   ]
 }

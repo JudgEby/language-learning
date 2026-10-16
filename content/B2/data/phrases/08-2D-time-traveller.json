@@ -5,17 +5,58 @@
     {
       "phrase": "step back in time",
       "translation": "вернуться в прошлое",
-      "example": "Visiting the museum felt like stepping back in time."
+      "example": "Visiting the museum felt like stepping back in time.",
+      "keyword": "степлер",
+      "mnemonic": "Музей — как шаг в прошлое: пристегни степлер: stepping back in time, вернуться в прошлое."
     },
     {
       "phrase": "ahead of its time",
       "translation": "опережающий своё время",
-      "example": "The design was ahead of its time."
+      "example": "The design was ahead of its time.",
+      "keyword": "ахали",
+      "mnemonic": "Дизайн опережал время — все ахали: ahead of its time."
     },
     {
       "phrase": "a thing of the past",
       "translation": "пережиток прошлого",
-      "example": "Handwritten letters are becoming a thing of the past."
+      "example": "Handwritten letters are becoming a thing of the past.",
+      "keyword": "паста",
+      "mnemonic": "Письма от руки — пережиток прошлого, как паста в тюбике: thing of the past."
+    },
+    {
+      "phrase": "go back in time",
+      "translation": "отправиться назад во времени",
+      "example": "They go back in time and meet van Gogh in a cafe.",
+      "keyword": "баклажан",
+      "mnemonic": "Отправляются назад во времени — везут баклажан Ван Гогу: go back in time."
+    },
+    {
+      "phrase": "the wonders of (sth)",
+      "translation": "чудеса (чего-то)",
+      "example": "He talks about the wonders of the universe.",
+      "keyword": "вундеркинд",
+      "mnemonic": "Рассказывает о чудесах вселенной — вундеркинд: wonders of the universe."
+    },
+    {
+      "phrase": "be careful with (sth)",
+      "translation": "быть осторожным с (чем-то)",
+      "example": "You should be careful with these old paintings.",
+      "keyword": "кефир",
+      "mnemonic": "Осторожнее со старыми картинами — не пролей кефир: careful with paintings."
+    },
+    {
+      "phrase": "with that in mind",
+      "translation": "учитывая это",
+      "example": "With that in mind, I would visit ancient Rome first.",
+      "keyword": "мина",
+      "mnemonic": "Учитывая это — поехал бы в Древний Рим, обезвредив мину: with that in mind."
+    },
+    {
+      "phrase": "last but not least",
+      "translation": "последнее, но не менее важное",
+      "example": "And last but not least, I would meet my favourite writer.",
+      "keyword": "лист",
+      "mnemonic": "И последнее, не менее важное, — встречу писателя: запиши в лист: last but not least."
     }
   ]
 }

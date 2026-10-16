@@ -2,6 +2,54 @@
   "lessonId": "how-are-you-feeling",
   "title": "How are you feeling? — идиомы",
   "items": [
-    { "idiom": "under the weather", "translation": "нездоровится, приболеть", "example": "I'm feeling a bit under the weather today, so I'll work from home." }
+    {
+      "idiom": "under the weather",
+      "translation": "нездоровится, приболеть",
+      "example": "I'm feeling a bit under the weather today, so I'll work from home.",
+      "keyword": "ветер",
+      "mnemonic": "Сопливый под ветром чихает — under the weather, нездоровится, поработаю из дома."
+    },
+    {
+      "idiom": "go to the doctor",
+      "translation": "идти к врачу",
+      "example": "Men are less likely to go to the doctor than women.",
+      "keyword": "док",
+      "mnemonic": "Мужик боится дока в халате — go to the doctor, идти к врачу, мужики реже ходят."
+    },
+    {
+      "idiom": "hate waiting",
+      "translation": "ненавидеть ожидание",
+      "example": "I hate waiting, so I do not go to the doctor.",
+      "keyword": "ватин",
+      "mnemonic": "Нервный с ватином в очереди — hate waiting, ненавидеть ожидание, к врачу не пойду."
+    },
+    {
+      "idiom": "catch a cold",
+      "translation": "простудиться",
+      "example": "You have caught a cold, so get some rest.",
+      "keyword": "колодец",
+      "mnemonic": "Простуженный свалился в колодец соплей — catch a cold, простудиться, отлежись."
+    },
+    {
+      "idiom": "break your arm",
+      "translation": "сломать руку",
+      "example": "You have broken your arm, so go to the hospital for an X-ray.",
+      "keyword": "арбуз",
+      "mnemonic": "С арбузом вместо гипса — break your arm, сломать руку, дуй на рентген."
+    },
+    {
+      "idiom": "take some medicine",
+      "translation": "принять лекарство",
+      "example": "Take some medicine and drink lots of hot drinks.",
+      "keyword": "медсестра",
+      "mnemonic": "Медсестра с микстурой и чаем — take some medicine, принять лекарство и горячее питьё."
+    },
+    {
+      "idiom": "get some rest and drink lots of hot drinks",
+      "translation": "отдохнуть и пить много горячих напитков",
+      "example": "Get some rest and drink lots of hot drinks this weekend.",
+      "keyword": "рессора",
+      "mnemonic": "Больной на рессорах дивана — get some rest and drink lots of hot drinks, отдохнуть и пить много горячих напитков в выходные."
+    }
   ]
 }

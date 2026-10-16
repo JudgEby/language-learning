@@ -2,8 +2,26 @@
   "lessonId": "i-dont-believe-it",
   "title": "I don't believe it! — идиомы",
   "items": [
-    { "idiom": "a white lie", "translation": "ложь во благо", "example": "Sometimes it's better to tell a white lie than to upset someone." },
-    { "idiom": "cry wolf", "translation": "поднимать ложную тревогу", "example": "If you cry wolf too often, nobody will believe you." },
-    { "idiom": "the truth will out", "translation": "правда выйдет наружу", "example": "Don't worry, the truth will out eventually." }
+    {
+      "idiom": "a white lie",
+      "translation": "ложь во благо",
+      "example": "Sometimes it's better to tell a white lie than to upset someone.",
+      "keyword": "вайт",
+      "mnemonic": "Вайт-ложь во благо: a white lie — ложь во благо, чтобы не расстроить."
+    },
+    {
+      "idiom": "cry wolf",
+      "translation": "поднимать ложную тревогу",
+      "example": "If you cry wolf too often, nobody will believe you.",
+      "keyword": "волк",
+      "mnemonic": "Волк кричит впустую: cry wolf — поднимать ложную тревогу, и никто не верит."
+    },
+    {
+      "idiom": "the truth will out",
+      "translation": "правда выйдет наружу",
+      "example": "Don't worry, the truth will out eventually.",
+      "keyword": "аут",
+      "mnemonic": "Правда вылетает в аут наружу: the truth will out — правда выйдет наружу, не волнуйся."
+    }
   ]
 }

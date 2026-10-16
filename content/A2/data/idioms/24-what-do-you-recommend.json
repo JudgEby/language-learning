@@ -1,0 +1,55 @@
+{
+  "lessonId": "what-do-you-recommend",
+  "title": "What do you recommend? — идиомы",
+  "items": [
+    {
+      "idiom": "Who's in it?",
+      "translation": "Кто там играет?",
+      "example": "Who's in it? Do you know the actors?",
+      "keyword": "хулиган",
+      "mnemonic": "Хулиган в титрах играет — Who's in it, кто там играет."
+    },
+    {
+      "idiom": "It's very exciting",
+      "translation": "Это очень захватывающе",
+      "example": "I like Denzel Washington in it. It's very exciting.",
+      "keyword": "экзамен",
+      "mnemonic": "Зритель как на экзамене — It's very exciting, очень захватывающе."
+    },
+    {
+      "idiom": "laugh a lot when I watch it",
+      "translation": "смеюсь, когда смотрю",
+      "example": "I laugh a lot when I watch comedies.",
+      "keyword": "лавка",
+      "mnemonic": "Зритель на лавке смеётся — laugh a lot when I watch."
+    },
+    {
+      "idiom": "cry when I watch it",
+      "translation": "плачу, когда смотрю",
+      "example": "I often cry when I watch dramas.",
+      "keyword": "кран",
+      "mnemonic": "Зритель у крана плачет — cry when I watch."
+    },
+    {
+      "idiom": "Do you like the same films?",
+      "translation": "Вам нравятся одни и те же фильмы?",
+      "example": "Do you like the same films? Why or why not?",
+      "keyword": "сёмга",
+      "mnemonic": "Друзья с сёмгой любят одни фильмы — Do you like the same films."
+    },
+    {
+      "idiom": "sound more natural",
+      "translation": "звучать естественнее",
+      "example": "Word linking helps you sound more natural.",
+      "keyword": "саунд",
+      "mnemonic": "Диктор врубил саунд — sound more natural, звучать естественнее."
+    },
+    {
+      "idiom": "Is anyone famous in it?",
+      "translation": "Там есть кто-то известный?",
+      "example": "Is anyone famous in it? I love good acting.",
+      "keyword": "фамилия",
+      "mnemonic": "Фанат ищет фамилию в титрах — Is anyone famous in it, есть известный."
+    }
+  ]
+}

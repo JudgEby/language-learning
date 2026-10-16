@@ -748,5 +748,215 @@
     "relatedRuleIds": [
       "7A-unexpected-passion"
     ]
+  },
+  {
+    "id": "8fd4bb1a71c4",
+    "question": "Choose the correct collocation: She never makes the effort to learn new words by heart.",
+    "options": [
+      "circadian rhythm",
+      "make the effort (to learn)",
+      "hang out with (friends)",
+      "carry on playing"
+    ],
+    "correctIndex": 1,
+    "explanation": "'make the effort (to learn)' (прилагать усилие (чтобы выучить)). Full sentence: She never makes the effort to learn new words by heart.",
+    "relatedRuleIds": [
+      "1B-memory"
+    ]
+  },
+  {
+    "id": "355703c79d1b",
+    "question": "Choose the correct collocation: She is a people person and gets on well with everyone.",
+    "options": [
+      "get on well with (sb)",
+      "astonishing",
+      "catch up on sleep",
+      "autonomous"
+    ],
+    "correctIndex": 0,
+    "explanation": "'get on well with (sb)' (хорошо ладить с (кем-то)). Full sentence: She is a people person and gets on well with everyone.",
+    "relatedRuleIds": [
+      "1D-personality"
+    ]
+  },
+  {
+    "id": "e070d9ab9aaf",
+    "question": "Which word means 'лесистая местность'?",
+    "options": [
+      "sheet music",
+      "share accomplishments",
+      "woodland",
+      "piano"
+    ],
+    "correctIndex": 2,
+    "explanation": "'woodland' means лесистая местность. Example: They walked through woodland near home.",
+    "relatedRuleIds": [
+      "2B-closer-to-nature"
+    ]
+  },
+  {
+    "id": "39729785a5fd",
+    "question": "Choose the correct collocation: We slept in a tent to catch a glimpse of our favourite act.",
+    "options": [
+      "excel at something",
+      "look back on",
+      "walk (sb) through (sth)",
+      "catch a glimpse of (sb)"
+    ],
+    "correctIndex": 3,
+    "explanation": "'catch a glimpse of (sb)' (мельком увидеть (кого-то)). Full sentence: We slept in a tent to catch a glimpse of our favourite act.",
+    "relatedRuleIds": [
+      "3A-festival"
+    ]
+  },
+  {
+    "id": "92c08f1afb1b",
+    "question": "Which word means 'фолк'?",
+    "options": [
+      "fed up of",
+      "lyrics",
+      "eco-friendly",
+      "folk"
+    ],
+    "correctIndex": 3,
+    "explanation": "'folk' means фолк. Example: She listens to folk and jazz.",
+    "relatedRuleIds": [
+      "3D-music-lover"
+    ]
+  },
+  {
+    "id": "3ed9f56f2a38",
+    "question": "Which word means 'сонный'?",
+    "options": [
+      "leave out",
+      "drowsy",
+      "a window of opportunity",
+      "natural ability"
+    ],
+    "correctIndex": 1,
+    "explanation": "'drowsy' means сонный. Example: I feel drowsy after lunch.",
+    "relatedRuleIds": [
+      "4B-sleep"
+    ]
+  },
+  {
+    "id": "d75dd3d1af64",
+    "question": "Complete the sentence: These bees are not going anywhere and ___.",
+    "options": [
+      "dedication",
+      "perfect recall",
+      "work long hours",
+      "time is running out"
+    ],
+    "correctIndex": 3,
+    "explanation": "'time is running out' (время на исходе). Full sentence: These bees are not going anywhere and time is running out.",
+    "relatedRuleIds": [
+      "4D-ancient-traditions"
+    ]
+  },
+  {
+    "id": "88408becf02d",
+    "question": "Choose the correct collocation: He started out as an investment banker.",
+    "options": [
+      "check in with reception",
+      "with that in mind",
+      "century",
+      "start out as"
+    ],
+    "correctIndex": 3,
+    "explanation": "'start out as' (начинать карьеру как). Full sentence: He started out as an investment banker.",
+    "relatedRuleIds": [
+      "5B-change-of-plan"
+    ]
+  },
+  {
+    "id": "da3b23b5530a",
+    "question": "Choose the correct collocation: Take breaks every twenty minutes.",
+    "options": [
+      "meet someone famous",
+      "take breaks",
+      "innovation",
+      "low-impact exercise"
+    ],
+    "correctIndex": 1,
+    "explanation": "'take breaks' (делать перерывы). Full sentence: Take breaks every twenty minutes.",
+    "relatedRuleIds": [
+      "6A-pay-attention"
+    ]
+  },
+  {
+    "id": "557b4ea8359b",
+    "question": "Which word means 'наставник'?",
+    "options": [
+      "mentor",
+      "guess whether it is true",
+      "share accomplishments",
+      "sunlight"
+    ],
+    "correctIndex": 0,
+    "explanation": "'mentor' means наставник. Example: My mentor gave me invaluable advice.",
+    "relatedRuleIds": [
+      "6C-my-advice"
+    ]
+  },
+  {
+    "id": "40224d084818",
+    "question": "Choose the correct collocation: She started taking lessons and practised daily.",
+    "options": [
+      "with that in mind",
+      "warm up",
+      "era",
+      "take lessons"
+    ],
+    "correctIndex": 3,
+    "explanation": "'take lessons' (брать уроки). Full sentence: She started taking lessons and practised daily.",
+    "relatedRuleIds": [
+      "7A-unexpected-passion"
+    ]
+  },
+  {
+    "id": "49c032587c9e",
+    "question": "Choose the correct collocation: Do not leave out any important details.",
+    "options": [
+      "leave out important details",
+      "take breaks",
+      "cancel social plans",
+      "artificial intelligence"
+    ],
+    "correctIndex": 0,
+    "explanation": "'leave out important details' (упускать важные детали). Full sentence: Do not leave out any important details.",
+    "relatedRuleIds": [
+      "7C-let-me-explain"
+    ]
+  },
+  {
+    "id": "52d9b20dde54",
+    "question": "Which word means 'стильный'?",
+    "options": [
+      "fall back on",
+      "spacious",
+      "venue",
+      "stylish"
+    ],
+    "correctIndex": 3,
+    "explanation": "'stylish' means стильный. Example: The flat is small but stylish.",
+    "relatedRuleIds": [
+      "8A-new-way-of-living"
+    ]
+  },
+  {
+    "id": "bf4dee5f1f49",
+    "question": "Choose the correct collocation: Travel broadens your understanding of other cultures.",
+    "options": [
+      "anyway",
+      "side hustle",
+      "keep a language alive",
+      "broaden your understanding"
+    ],
+    "correctIndex": 3,
+    "explanation": "'broaden your understanding' (расширять понимание). Full sentence: Travel broadens your understanding of other cultures.",
+    "relatedRuleIds": [
+      "8C-online-communities"
+    ]
   }
 ]

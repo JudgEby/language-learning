@@ -1,0 +1,104 @@
+{
+  "lessonId": "new-friends",
+  "title": "1A New Friends — Идиомы: дружба и отношения",
+  "items": [
+    {
+      "idiom": "a friend in need is a friend indeed",
+      "translation": "друг познаётся в беде",
+      "example": "When I lost my job and had to move, only two people helped me pack — a friend in need is a friend indeed.",
+      "keyword": "нид",
+      "mnemonic": "В беде друг суёт нид-нитку помощи: друг познаётся в беде, — нид держит a friend in need is a friend indeed."
+    },
+    {
+      "idiom": "through thick and thin",
+      "translation": "и в горе, и в радости; несмотря ни на что",
+      "example": "We met on a friendship app five years ago and have stuck together through thick and thin.",
+      "keyword": "тик",
+      "mnemonic": "Часы тик-так идут с тобой: они и в горе, и в радости рядом, — тик стучит through thick and thin."
+    },
+    {
+      "idiom": "birds of a feather flock together",
+      "translation": "рыбак рыбака видит издалека",
+      "example": "Addy looked for people with similar passions — birds of a feather flock together.",
+      "keyword": "флок",
+      "mnemonic": "Птицы сбились во флок-стаю: рыбак рыбака видит издалека, — флок летит birds of a feather flock together."
+    },
+    {
+      "idiom": "two peas in a pod",
+      "translation": "неразлучные; два сапога пара",
+      "example": "My sister and her best friend are like two peas in a pod.",
+      "keyword": "пис",
+      "mnemonic": "Сестрички пишут один пис на двоих: они неразлучные, два сапога пара, — пис скрепляет two peas in a pod."
+    },
+    {
+      "idiom": "joined at the hip",
+      "translation": "неразлучные; всегда вместе",
+      "example": "After that summer trip they became joined at the hip.",
+      "keyword": "хип-хоп",
+      "mnemonic": "Парочка танцует хип-хоп в связке: они неразлучные, всегда вместе, — хип-хоп гремит joined at the hip."
+    },
+    {
+      "idiom": "thick as thieves",
+      "translation": "близкие друзья; водой не разольёшь",
+      "example": "Those two colleagues are as thick as thieves after working on the project together.",
+      "keyword": "тивс",
+      "mnemonic": "Коллеги шепчут «тивс-тивс»: они близкие друзья, водой не разольёшь, — тивс шипит thick as thieves."
+    },
+    {
+      "idiom": "a fair-weather friend",
+      "translation": "ненадёжный друг; друг только в хорошие времена",
+      "example": "He stopped replying as soon as I needed help — a real fair-weather friend.",
+      "keyword": "везер",
+      "mnemonic": "Приятель-везер исчезает в дождь: он ненадёжный друг, только в хорошие времена, — везер капризничает a fair-weather friend."
+    },
+    {
+      "idiom": "a shoulder to cry on",
+      "translation": "человек, которому можно поплакаться",
+      "example": "A good friendship app should help you find not just company, but a shoulder to cry on.",
+      "keyword": "край",
+      "mnemonic": "Плачешь на краю дивана другу: вот человек, которому можно поплакаться, — край мокнет a shoulder to cry on."
+    },
+    {
+      "idiom": "bury the hatchet",
+      "translation": "закопать топор войны; помириться",
+      "example": "They argued about money for months before finally burying the hatchet.",
+      "keyword": "хачет",
+      "mnemonic": "Спорщики закопали хачет-топорик: они решили закопать топор войны и помириться, — хачет звякнул bury the hatchet."
+    },
+    {
+      "idiom": "get along like a house on fire",
+      "translation": "отлично ладить; быстро подружиться",
+      "example": "We met for coffee and got along like a house on fire.",
+      "keyword": "фаер",
+      "mnemonic": "Встреча полыхнула как фаер-шоу: гости стали отлично ладить и быстро подружиться, — фаер пылает get along like a house on fire."
+    },
+    {
+      "idiom": "the more the merrier",
+      "translation": "чем больше, тем лучше",
+      "example": "Bring your flatmates to the picnic — the more the merrier!",
+      "keyword": "мери",
+      "mnemonic": "Ведущая Мери кричит: чем больше, тем лучше, тащите соседей, — Мери машет the more the merrier."
+    },
+    {
+      "idiom": "no man is an island",
+      "translation": "человеку нужны люди; одному не прожить",
+      "example": "Addy's story proves that no man is an island — we all need friends.",
+      "keyword": "айленд",
+      "mnemonic": "Робинзон на айленде понял: человеку нужны люди, одному не прожить, — айленд шумит no man is an island."
+    },
+    {
+      "idiom": "blood is thicker than water",
+      "translation": "кровь гуще воды; семья важнее",
+      "example": "Friends come and go, but blood is thicker than water.",
+      "keyword": "блад",
+      "mnemonic": "Анализ показал блад-родство: кровь гуще воды, семья важнее, — блад густеет blood is thicker than water."
+    },
+    {
+      "idiom": "a friend to all is a friend to none",
+      "translation": "кто всем друг, тот никому не друг",
+      "example": "He tries to please everyone, but a friend to all is a friend to none.",
+      "keyword": "френд",
+      "mnemonic": "Френд-лента трещит: кто всем друг, тот никому не друг, — френд мигает a friend to all is a friend to none."
+    }
+  ]
+}

@@ -2,15 +2,75 @@
   "lessonId": "thats-a-good-idea",
   "title": "That's a good idea — новые слова",
   "items": [
-    { "term": "run a company", "translation": "управлять компанией", "example": "Do you know anyone who runs their own company?" },
-    { "term": "be in charge of", "translation": "быть ответственным за", "example": "My boss is in charge of the whole marketing department." },
-    { "term": "go for an interview", "translation": "ходить на собеседование", "example": "When did you last go for a job interview?" },
-    { "term": "compete for a job", "translation": "конкурировать за работу", "example": "More than a hundred people had to compete for a single job." },
-    { "term": "earn a salary", "translation": "получать зарплату", "example": "Which jobs earn a high salary?" },
-    { "term": "get fired", "translation": "быть уволенным", "example": "If you arrive late every day, you might get fired." },
-    { "term": "out of work", "translation": "без работы", "example": "How long have you been out of work?" },
-    { "term": "fail (a business)", "translation": "провалиться, обанкротиться", "example": "Many businesses fail in their first year." },
-    { "term": "make a decision", "translation": "принять решение", "example": "We need to make a decision about the name." },
-    { "term": "come up with an idea", "translation": "придумать идею", "example": "Try to come up with as many ideas as possible." }
+    {
+      "term": "run a company",
+      "translation": "управлять компанией",
+      "example": "Do you know anyone who runs their own company?",
+      "keyword": "ран, компани",
+      "mnemonic": "Ран-компани-марафон: who runs a company — управляет компанией, знаешь такого?"
+    },
+    {
+      "term": "be in charge of",
+      "translation": "быть ответственным за",
+      "example": "My boss is in charge of the whole marketing department.",
+      "keyword": "чардж",
+      "mnemonic": "Чардж-начальник с печатью: he's in charge of — ответственный за весь маркетинг."
+    },
+    {
+      "term": "go for an interview",
+      "translation": "ходить на собеседование",
+      "example": "When did you last go for a job interview?",
+      "keyword": "интервью",
+      "mnemonic": "Интервью-дверь скрипит: go for an interview — иди ходить на собеседование."
+    },
+    {
+      "term": "compete for a job",
+      "translation": "конкурировать за работу",
+      "example": "More than a hundred people had to compete for a single job.",
+      "keyword": "компит",
+      "mnemonic": "Компит-арена гудит: hundred people compete for a job — конкурируют за одну работу."
+    },
+    {
+      "term": "earn a salary",
+      "translation": "получать зарплату",
+      "example": "Which jobs earn a high salary?",
+      "keyword": "ёрн, сэлари",
+      "mnemonic": "Ёрн-сэлари в конверте: which jobs earn a salary — получают зарплату высокую?"
+    },
+    {
+      "term": "get fired",
+      "translation": "быть уволенным",
+      "example": "If you arrive late every day, you might get fired.",
+      "keyword": "файерд",
+      "mnemonic": "Файерд-факел вспыхнул: you might get fired — будешь уволенным за опоздания."
+    },
+    {
+      "term": "out of work",
+      "translation": "без работы",
+      "example": "How long have you been out of work?",
+      "keyword": "аут, ворк",
+      "mnemonic": "Аут-ворк-скамейка пуста: how long out of work — без работы сидишь?"
+    },
+    {
+      "term": "fail (a business)",
+      "translation": "провалиться, обанкротиться",
+      "example": "Many businesses fail in their first year.",
+      "keyword": "фейл",
+      "mnemonic": "Фейл-банкрот плачет: many businesses fail — проваливаются и банкротятся в первый год."
+    },
+    {
+      "term": "make a decision",
+      "translation": "принять решение",
+      "example": "We need to make a decision about the name.",
+      "keyword": "мейк, десижн",
+      "mnemonic": "Мейк-десижн-молот стучит: we need to make a decision — принять решение о названии."
+    },
+    {
+      "term": "come up with an idea",
+      "translation": "придумать идею",
+      "example": "Try to come up with as many ideas as possible.",
+      "keyword": "кам, айдиа",
+      "mnemonic": "Кам-ап с айдиа-лампой: come up with an idea — придумай идею, да побольше."
+    }
   ]
 }

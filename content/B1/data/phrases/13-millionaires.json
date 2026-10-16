@@ -2,13 +2,61 @@
   "lessonId": "millionaires",
   "title": "Millionaires — фразы",
   "items": [
-    { "phrase": "I have to…", "translation": "Я вынужден / мне нужно…", "example": "I have to finish this report by tomorrow morning." },
-    { "phrase": "You must…", "translation": "Ты должен… (обязанность)", "example": "You must have a clear idea of what you want to do." },
-    { "phrase": "You should…", "translation": "Тебе стоит… (совет)", "example": "You should enjoy your work, not just do it for money." },
-    { "phrase": "You don't have to…", "translation": "Тебе необязательно…", "example": "You don't have to be born rich to be a millionaire." },
-    { "phrase": "You mustn't…", "translation": "Нельзя / запрещено", "example": "You mustn't break the law." },
-    { "phrase": "You shouldn't…", "translation": "Не стоит… (плохая идея)", "example": "You shouldn't worry about what other people think of you." },
-    { "phrase": "It's necessary to…", "translation": "Необходимо…", "example": "It's necessary to work hard if you want to succeed." },
-    { "phrase": "I think it's a good idea to…", "translation": "Я думаю, это хорошая идея —…", "example": "I think it's a good idea to invest your money wisely." }
+    {
+      "phrase": "I have to…",
+      "translation": "Я вынужден / мне нужно…",
+      "example": "I have to finish this report by tomorrow morning.",
+      "keyword": "хэвту",
+      "mnemonic": "Хэвту-отчёт к утру: I have to finish — я вынужден и мне нужно сдать отчёт."
+    },
+    {
+      "phrase": "You must…",
+      "translation": "Ты должен… (обязанность)",
+      "example": "You must have a clear idea of what you want to do.",
+      "keyword": "маст",
+      "mnemonic": "Маст-идея чёткая: you must have — ты должен иметь чёткую цель."
+    },
+    {
+      "phrase": "You should…",
+      "translation": "Тебе стоит… (совет)",
+      "example": "You should enjoy your work, not just do it for money.",
+      "keyword": "шуд",
+      "mnemonic": "Шуд-работай в кайф: you should enjoy — тебе стоит наслаждаться работой, а не только деньгами."
+    },
+    {
+      "phrase": "You don't have to…",
+      "translation": "Тебе необязательно…",
+      "example": "You don't have to be born rich to be a millionaire.",
+      "keyword": "хэвту",
+      "mnemonic": "Хэвту-богачом не рождаются: you don't have to be born rich — тебе необязательно родиться богатым."
+    },
+    {
+      "phrase": "You mustn't…",
+      "translation": "Нельзя / запрещено",
+      "example": "You mustn't break the law.",
+      "keyword": "маснт",
+      "mnemonic": "Маснт-закон запрещает: you mustn't break — нельзя и запрещено нарушать закон."
+    },
+    {
+      "phrase": "You shouldn't…",
+      "translation": "Не стоит… (плохая идея)",
+      "example": "You shouldn't worry about what other people think of you.",
+      "keyword": "шуднт",
+      "mnemonic": "Шуднт-волнение лишнее: you shouldn't worry — не стоит переживать о чужом мнении."
+    },
+    {
+      "phrase": "It's necessary to…",
+      "translation": "Необходимо…",
+      "example": "It's necessary to work hard if you want to succeed.",
+      "keyword": "нессесари",
+      "mnemonic": "Нессесари-пахота: it's necessary to work hard — необходимо пахать, чтобы преуспеть."
+    },
+    {
+      "phrase": "I think it's a good idea to…",
+      "translation": "Я думаю, это хорошая идея —…",
+      "example": "I think it's a good idea to invest your money wisely.",
+      "keyword": "айдиа",
+      "mnemonic": "Айдиа-инвест мудро: I think it's a good idea — я думаю, это хорошая идея вложить деньги с умом."
+    }
   ]
 }

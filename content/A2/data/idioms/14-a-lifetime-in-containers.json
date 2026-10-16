@@ -1,0 +1,55 @@
+{
+  "lessonId": "a-lifetime-in-containers",
+  "title": "A lifetime in containers — идиомы",
+  "items": [
+    {
+      "idiom": "once in a lifetime",
+      "translation": "раз в жизни",
+      "example": "This trip is a once-in-a-lifetime chance.",
+      "keyword": "ванна",
+      "mnemonic": "Шанс плещется в ванне: once in a lifetime — раз в жизни."
+    },
+    {
+      "idiom": "drink up",
+      "translation": "допить",
+      "example": "Drink up! The bus is waiting.",
+      "keyword": "драник",
+      "mnemonic": "Драник запивают: drink up — допить."
+    },
+    {
+      "idiom": "cut down on sugar",
+      "translation": "сократить сахар",
+      "example": "He wants to cut down on sugar.",
+      "keyword": "кот",
+      "mnemonic": "Кот режет cut down on sugar — сократить сахар."
+    },
+    {
+      "idiom": "a drop of milk",
+      "translation": "капля молока",
+      "example": "Just a drop of milk in my tea, please.",
+      "keyword": "дробь",
+      "mnemonic": "Дробь молока: a drop of milk — капля молока."
+    },
+    {
+      "idiom": "run out of coffee",
+      "translation": "остаться без кофе (запасы кончились)",
+      "example": "We ran out of coffee yesterday.",
+      "keyword": "ранчо",
+      "mnemonic": "Кофе сбежало на ранчо: run out of coffee — остаться без кофе."
+    },
+    {
+      "idiom": "too much of a good thing",
+      "translation": "слишком много хорошего",
+      "example": "Chocolate is nice, but too much of a good thing is bad.",
+      "keyword": "мачо",
+      "mnemonic": "Мачо объелся: too much of a good thing — слишком много хорошего."
+    },
+    {
+      "idiom": "refill your bottle",
+      "translation": "наполни бутылку заново",
+      "example": "Refill your bottle at the station.",
+      "keyword": "филин",
+      "mnemonic": "Филин наполняет refill your bottle — наполни бутылку заново."
+    }
+  ]
+}

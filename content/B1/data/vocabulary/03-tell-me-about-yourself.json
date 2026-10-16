@@ -2,15 +2,75 @@
   "lessonId": "tell-me-about-yourself",
   "title": "Tell me about yourself — новые слова",
   "items": [
-    { "term": "dress smartly", "translation": "одеваться официально/опрятно", "example": "You don't have to dress smartly but you should look clean." },
-    { "term": "speak clearly", "translation": "говорить чётко", "example": "Speak clearly and try to offer full answers." },
-    { "term": "shake hands firmly", "translation": "пожимать руку твёрдо", "example": "Shake hands firmly and make eye contact." },
-    { "term": "arrive on time", "translation": "приходить вовремя", "example": "Arrive on time. Fifteen minutes early is OK." },
-    { "term": "be prepared", "translation": "быть подготовленным", "example": "Be prepared. Do some research about the company." },
-    { "term": "do some research", "translation": "провести небольшое исследование", "example": "Do some research about the university before the interview." },
-    { "term": "show enthusiasm", "translation": "проявлять энтузиазм", "example": "Show enthusiasm by smiling and asking questions." },
-    { "term": "avoid eye contact", "translation": "избегать зрительного контакта", "example": "Don't avoid eye contact. Look at them during the interview." },
-    { "term": "eye contact", "translation": "зрительный контакт", "example": "First impressions are important, so make eye contact." },
-    { "term": "query", "translation": "вопрос, запрос", "example": "I have a query about the schedule." }
+    {
+      "term": "dress smartly",
+      "translation": "одеваться официально/опрятно",
+      "example": "You don't have to dress smartly but you should look clean.",
+      "keyword": "дресс, смарт",
+      "mnemonic": "Дресс-код и смарт-часы: оденься как dress smartly — официально и опрятно, и выгляди чисто."
+    },
+    {
+      "term": "speak clearly",
+      "translation": "говорить чётко",
+      "example": "Speak clearly and try to offer full answers.",
+      "keyword": "спик, клир",
+      "mnemonic": "Спикер просит клир-сигнал: speak clearly — говори чётко и давай полные ответы."
+    },
+    {
+      "term": "shake hands firmly",
+      "translation": "пожимать руку твёрдо",
+      "example": "Shake hands firmly and make eye contact.",
+      "keyword": "шейк, фирма",
+      "mnemonic": "Шейк в фирме крепкий: shake hands firmly — пожми руку твёрдо и смотри в глаза."
+    },
+    {
+      "term": "arrive on time",
+      "translation": "приходить вовремя",
+      "example": "Arrive on time. Fifteen minutes early is OK.",
+      "keyword": "аррайв, тайм",
+      "mnemonic": "Аррайв вовремя, таймер в руке: arrive on time — приходи вовремя, лучше за пятнадцать минут."
+    },
+    {
+      "term": "be prepared",
+      "translation": "быть подготовленным",
+      "example": "Be prepared. Do some research about the company.",
+      "keyword": "би, припер",
+      "mnemonic": "Би-припер к доске все распечатки: be prepared — будь подготовленным, изучи компанию."
+    },
+    {
+      "term": "do some research",
+      "translation": "провести небольшое исследование",
+      "example": "Do some research about the university before the interview.",
+      "keyword": "ду, ресёрч",
+      "mnemonic": "Дуй в ресёрч-отдел: do some research — проведи небольшое исследование про университет."
+    },
+    {
+      "term": "show enthusiasm",
+      "translation": "проявлять энтузиазм",
+      "example": "Show enthusiasm by smiling and asking questions.",
+      "keyword": "шоу, энтузиазм",
+      "mnemonic": "Шоу с энтузиазмом: улыбайся, и будет тебе show enthusiasm — проявление энтузиазма."
+    },
+    {
+      "term": "avoid eye contact",
+      "translation": "избегать зрительного контакта",
+      "example": "Don't avoid eye contact. Look at them during the interview.",
+      "keyword": "авойд, ай",
+      "mnemonic": "Авойд-манёвр и «ай!» в глаза не смотри: не avoid eye contact на интервью — не избегай зрительного контакта."
+    },
+    {
+      "term": "eye contact",
+      "translation": "зрительный контакт",
+      "example": "First impressions are important, so make eye contact.",
+      "keyword": "ай, контакт",
+      "mnemonic": "«Ай!» — и контакт глазами установлен: держи eye contact — зрительный контакт, первое впечатление важно."
+    },
+    {
+      "term": "query",
+      "translation": "вопрос, запрос",
+      "example": "I have a query about the schedule.",
+      "keyword": "квери",
+      "mnemonic": "Квери в чат прилетело: у меня query — вопрос и запрос про расписание."
+    }
   ]
 }

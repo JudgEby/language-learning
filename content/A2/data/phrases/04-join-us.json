@@ -2,16 +2,82 @@
   "lessonId": "join-us",
   "title": "Join us! — фразы",
   "items": [
-    { "phrase": "join us", "translation": "присоединяйтесь к нам", "example": "Do you like meeting new people? Then join us." },
-    { "phrase": "This group is open to all ...", "translation": "Эта группа открыта для всех ...", "example": "This group is open to all film lovers." },
-    { "phrase": "we welcome new members", "translation": "мы рады новым участникам", "example": "We're a friendly group and we welcome new members." },
-    { "phrase": "Do you study ... or ...?", "translation": "Ты изучаешь ... или ...?", "example": "Do you study English or Italian?" },
-    { "phrase": "every week", "translation": "каждую неделю", "example": "Every week we meet in a café for conversation." },
-    { "phrase": "all day", "translation": "весь день", "example": "You work on a computer all day." },
-    { "phrase": "in the evening", "translation": "вечером", "example": "In the evening I play computer games." },
-    { "phrase": "get fit", "translation": "прийти в форму", "example": "Well, join our group — get fit and have fun!" },
-    { "phrase": "be interested in", "translation": "интересоваться", "example": "I'm interested in joining the English group." },
-    { "phrase": "from beginner to advanced", "translation": "от начинающего до продвинутого", "example": "We welcome all levels, from beginner to advanced." },
-    { "phrase": "especially ... speakers", "translation": "особенно носители ...", "example": "We welcome all nationalities, especially Italian speakers." }
+    {
+      "phrase": "join us",
+      "translation": "присоединяйтесь к нам",
+      "example": "Do you like meeting new people? Then join us.",
+      "keyword": "джойстик",
+      "mnemonic": "Хватай джойстик и join us — присоединяйся к нам."
+    },
+    {
+      "phrase": "This group is open to all ...",
+      "translation": "Эта группа открыта для всех ...",
+      "example": "This group is open to all film lovers.",
+      "keyword": "опен",
+      "mnemonic": "Дверь с табличкой «опен»: this group is open to all — эта группа открыта для всех."
+    },
+    {
+      "phrase": "we welcome new members",
+      "translation": "мы рады новым участникам",
+      "example": "We're a friendly group and we welcome new members.",
+      "keyword": "велкам",
+      "mnemonic": "Новичкам кричат «велкам!»: we welcome new members — мы рады новым участникам."
+    },
+    {
+      "phrase": "Do you study ... or ...?",
+      "translation": "Ты изучаешь ... или ...?",
+      "example": "Do you study English or Italian?",
+      "keyword": "стадион",
+      "mnemonic": "На стадионе спрашивают do you study English — ты изучаешь английский."
+    },
+    {
+      "phrase": "every week",
+      "translation": "каждую неделю",
+      "example": "Every week we meet in a café for conversation.",
+      "keyword": "викенд",
+      "mnemonic": "Каждую неделю викенд: every week — каждую неделю."
+    },
+    {
+      "phrase": "all day",
+      "translation": "весь день",
+      "example": "You work on a computer all day.",
+      "keyword": "дай",
+      "mnemonic": "Начальник орёт «дай!» all day — весь день."
+    },
+    {
+      "phrase": "in the evening",
+      "translation": "вечером",
+      "example": "In the evening I play computer games.",
+      "keyword": "ивняк",
+      "mnemonic": "Вечером у ивняка с геймпадом: in the evening — вечером."
+    },
+    {
+      "phrase": "get fit",
+      "translation": "прийти в форму",
+      "example": "Well, join our group — get fit and have fun!",
+      "keyword": "фит",
+      "mnemonic": "Фитнес-тренер орёт: get fit — приди в форму."
+    },
+    {
+      "phrase": "be interested in",
+      "translation": "интересоваться",
+      "example": "I'm interested in joining the English group.",
+      "keyword": "интрига",
+      "mnemonic": "Интрига держит группу: be interested in — интересоваться."
+    },
+    {
+      "phrase": "from beginner to advanced",
+      "translation": "от начинающего до продвинутого",
+      "example": "We welcome all levels, from beginner to advanced.",
+      "keyword": "бег",
+      "mnemonic": "Новички на бегу растут: from beginner to advanced — от начинающего до продвинутого."
+    },
+    {
+      "phrase": "especially ... speakers",
+      "translation": "особенно носители ...",
+      "example": "We welcome all nationalities, especially Italian speakers.",
+      "keyword": "спикер",
+      "mnemonic": "Спикер вещает особенно громко: especially Italian speakers — особенно носители итальянского."
+    }
   ]
 }

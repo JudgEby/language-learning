@@ -2,15 +2,75 @@
   "lessonId": "same-or-different",
   "title": "Same or different — фразы",
   "items": [
-    { "phrase": "take responsibility", "translation": "взять на себя ответственность", "example": "Fathers should take more responsibility for their children." },
-    { "phrase": "take part in", "translation": "принимать участие в", "example": "She took part in her first play last year." },
-    { "phrase": "take up a hobby", "translation": "начать заниматься хобби", "example": "A year ago she took up a new hobby: acting." },
-    { "phrase": "get married", "translation": "пожениться", "example": "We're getting married next year." },
-    { "phrase": "get on with someone", "translation": "ладить с кем-то", "example": "I get on well with my colleagues." },
-    { "phrase": "do research", "translation": "проводить исследование", "example": "I did a lot of research before I got my degree." },
-    { "phrase": "do someone a favour", "translation": "оказать услугу", "example": "Can you do me a favour and help me with this test?" },
-    { "phrase": "go for a walk", "translation": "пойти на прогулку", "example": "Last night we went for a walk after dinner." },
-    { "phrase": "go on a diet", "translation": "сесть на диету", "example": "Many women have gone on a diet at some point." },
-    { "phrase": "go grey", "translation": "поседеть", "example": "I hope I don't go grey when I'm thirty!" }
+    {
+      "phrase": "take responsibility",
+      "translation": "взять на себя ответственность",
+      "example": "Fathers should take more responsibility for their children.",
+      "keyword": "респонсибилити",
+      "mnemonic": "Респонсибилити-рюкзак на папе: take responsibility — взять на себя ответственность за детей."
+    },
+    {
+      "phrase": "take part in",
+      "translation": "принимать участие в",
+      "example": "She took part in her first play last year.",
+      "keyword": "парт",
+      "mnemonic": "Парт-роль в спектакле: take part in — принять участие в первой пьесе."
+    },
+    {
+      "phrase": "take up a hobby",
+      "translation": "начать заниматься хобби",
+      "example": "A year ago she took up a new hobby: acting.",
+      "keyword": "хабби",
+      "mnemonic": "Хабби-актёрство затянуло: take up a hobby — начать заниматься хобби год назад."
+    },
+    {
+      "phrase": "get married",
+      "translation": "пожениться",
+      "example": "We're getting married next year.",
+      "keyword": "меррид",
+      "mnemonic": "Меррид-марш играет: we're getting married — поженимся в следующем году."
+    },
+    {
+      "phrase": "get on with someone",
+      "translation": "ладить с кем-то",
+      "example": "I get on well with my colleagues.",
+      "keyword": "гет, он",
+      "mnemonic": "Гет-он с коллегами дружит: I get on with — ладить с кем-то отлично."
+    },
+    {
+      "phrase": "do research",
+      "translation": "проводить исследование",
+      "example": "I did a lot of research before I got my degree.",
+      "keyword": "ресёрч",
+      "mnemonic": "Ресёрч-ночь в библиотеке: I did research — проводил исследование перед дипломом."
+    },
+    {
+      "phrase": "do someone a favour",
+      "translation": "оказать услугу",
+      "example": "Can you do me a favour and help me with this test?",
+      "keyword": "фейвор",
+      "mnemonic": "Фейвор-записка в руке: do me a favour — окажи услугу, помоги с тестом."
+    },
+    {
+      "phrase": "go for a walk",
+      "translation": "пойти на прогулку",
+      "example": "Last night we went for a walk after dinner.",
+      "keyword": "вок",
+      "mnemonic": "Вок-вечер после ужина: we went for a walk — пошли на прогулку вчера."
+    },
+    {
+      "phrase": "go on a diet",
+      "translation": "сесть на диету",
+      "example": "Many women have gone on a diet at some point.",
+      "keyword": "дайет",
+      "mnemonic": "Дайет-весы пищат: she went on a diet — села на диету однажды."
+    },
+    {
+      "phrase": "go grey",
+      "translation": "поседеть",
+      "example": "I hope I don't go grey when I'm thirty!",
+      "keyword": "грей",
+      "mnemonic": "Грей-седина в тридцать: I don't want to go grey — поседеть в тридцать не хочу."
+    }
   ]
 }

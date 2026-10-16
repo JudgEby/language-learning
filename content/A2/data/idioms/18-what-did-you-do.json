@@ -1,0 +1,55 @@
+{
+  "lessonId": "what-did-you-do",
+  "title": "What did you do? — идиомы",
+  "items": [
+    {
+      "idiom": "ask follow-up questions",
+      "translation": "задавать уточняющие вопросы",
+      "example": "Ask follow-up questions to keep the conversation going.",
+      "keyword": "фол",
+      "mnemonic": "Фол в разговоре: ask follow-up questions — задавать уточняющие вопросы."
+    },
+    {
+      "idiom": "show interest",
+      "translation": "проявлять интерес",
+      "example": "Show interest when your friend tells you about the weekend.",
+      "keyword": "интрига",
+      "mnemonic": "Интрига держит: show interest — проявлять интерес."
+    },
+    {
+      "idiom": "give extra information",
+      "translation": "добавлять подробности",
+      "example": "Give extra information instead of answering with one word.",
+      "keyword": "экстрасенс",
+      "mnemonic": "Экстрасенс сыплет give extra information — добавлять подробности."
+    },
+    {
+      "idiom": "extend a conversation",
+      "translation": "поддерживать разговор",
+      "example": "Follow-up questions help you extend a conversation.",
+      "keyword": "эстафета",
+      "mnemonic": "Разговор как эстафета: extend a conversation — поддерживать разговор."
+    },
+    {
+      "idiom": "That's a shame",
+      "translation": "очень жаль",
+      "example": "You missed the party? That's a shame.",
+      "keyword": "шампунь",
+      "mnemonic": "Шампунь разлили: that's a shame — очень жаль."
+    },
+    {
+      "idiom": "It was amazing",
+      "translation": "это было потрясающе",
+      "example": "Our trip to Dublin was amazing.",
+      "keyword": "амазонка",
+      "mnemonic": "Амазонка в восторге: it was amazing — это было потрясающе."
+    },
+    {
+      "idiom": "have a perfect weekend",
+      "translation": "отлично провести выходные",
+      "example": "We had a perfect weekend by the sea.",
+      "keyword": "персик",
+      "mnemonic": "Викенд с персиком: have a perfect weekend — отлично провести выходные."
+    }
+  ]
+}

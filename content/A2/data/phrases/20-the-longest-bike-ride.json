@@ -2,17 +2,89 @@
   "lessonId": "the-longest-bike-ride",
   "title": "The longest bike ride — фразы",
   "items": [
-    { "phrase": "travel / go through ...", "translation": "путешествовать / проезжать через ...", "example": "You travel through seven different countries." },
-    { "phrase": "get on / off a bike", "translation": "сесть на / слезть с велосипеда", "example": "On a bike you do twenty-five kilometres in an hour." },
-    { "phrase": "along the way", "translation": "по пути", "example": "Along the way you see some of the most beautiful places." },
-    { "phrase": "at the end", "translation": "в конце", "example": "You arrive in Istanbul, Turkey, at the end." },
-    { "phrase": "the beginning / the end of ...", "translation": "начало / конец ...", "example": "The tour starts in Shanghai and ends in Istanbul." },
-    { "phrase": "the Roof of the World", "translation": "Крыша мира", "example": "They cycle across the Pamirs, the Roof of the World." },
-    { "phrase": "take turns doing ...", "translation": "чередоваться в ...", "example": "The cyclists take turns cooking dinner." },
-    { "phrase": "shop for food", "translation": "покупать еду", "example": "They shop in local markets for their food." },
-    { "phrase": "the best / worst thing was ...", "translation": "лучшее / худшее было ...", "example": "The best thing was the friendliness of the people." },
-    { "phrase": "the most + adjective ...", "translation": "самый + прилагательное ...", "example": "The most beautiful places in the world." },
-    { "phrase": "arrive in / at ...", "translation": "прибыть в ...", "example": "You arrive in Istanbul a completely changed person." },
-    { "phrase": "Would you like to ... ? Why / Why not?", "translation": "Хотел бы ты ... ? Почему / Почему нет?", "example": "Would you like to go on the Silk Route Tour? — Why not?" }
+    {
+      "phrase": "travel / go through ...",
+      "translation": "путешествовать / проезжать через ...",
+      "example": "You travel through seven different countries.",
+      "keyword": "труба",
+      "mnemonic": "Труба через семь стран: travel through seven countries — проезжать через семь стран."
+    },
+    {
+      "phrase": "get on / off a bike",
+      "translation": "сесть на / слезть с велосипеда",
+      "example": "On a bike you do twenty-five kilometres in an hour.",
+      "keyword": "байк",
+      "mnemonic": "Байкер запрыгивает get on a bike — сесть на велосипед."
+    },
+    {
+      "phrase": "along the way",
+      "translation": "по пути",
+      "example": "Along the way you see some of the most beautiful places.",
+      "keyword": "вейп",
+      "mnemonic": "Вейпер along the way — по пути."
+    },
+    {
+      "phrase": "at the end",
+      "translation": "в конце",
+      "example": "You arrive in Istanbul, Turkey, at the end.",
+      "keyword": "энт",
+      "mnemonic": "Энт стоит at the end — в конце."
+    },
+    {
+      "phrase": "the beginning / the end of ...",
+      "translation": "начало / конец ...",
+      "example": "The tour starts in Shanghai and ends in Istanbul.",
+      "keyword": "бегемот",
+      "mnemonic": "Бегемот на старте the beginning — начало."
+    },
+    {
+      "phrase": "the Roof of the World",
+      "translation": "Крыша мира",
+      "example": "They cycle across the Pamirs, the Roof of the World.",
+      "keyword": "руфер",
+      "mnemonic": "Руфер на the Roof of the World — Крыше мира."
+    },
+    {
+      "phrase": "take turns doing ...",
+      "translation": "чередоваться в ...",
+      "example": "The cyclists take turns cooking dinner.",
+      "keyword": "торт",
+      "mnemonic": "Велосипедисты делят торт: take turns cooking — чередоваться в готовке."
+    },
+    {
+      "phrase": "shop for food",
+      "translation": "покупать еду",
+      "example": "They shop in local markets for their food.",
+      "keyword": "шоп",
+      "mnemonic": "Турист в шопе shop for food — покупать еду."
+    },
+    {
+      "phrase": "the best / worst thing was ...",
+      "translation": "лучшее / худшее было ...",
+      "example": "The best thing was the friendliness of the people.",
+      "keyword": "бестселлер",
+      "mnemonic": "Бестселлер доброты: the best thing was friendliness — лучшее было дружелюбие."
+    },
+    {
+      "phrase": "the most + adjective ...",
+      "translation": "самый + прилагательное ...",
+      "example": "The most beautiful places in the world.",
+      "keyword": "мост",
+      "mnemonic": "Мост самый красивый: the most beautiful places — самые красивые места."
+    },
+    {
+      "phrase": "arrive in / at ...",
+      "translation": "прибыть в ...",
+      "example": "You arrive in Istanbul a completely changed person.",
+      "keyword": "аэропорт",
+      "mnemonic": "Аэропорт встречает arrive in Istanbul — прибыть в Стамбул."
+    },
+    {
+      "phrase": "Would you like to ... ? Why / Why not?",
+      "translation": "Хотел бы ты ... ? Почему / Почему нет?",
+      "example": "Would you like to go on the Silk Route Tour? — Why not?",
+      "keyword": "вуд",
+      "mnemonic": "Дятел вуд спрашивает would you like to go — хотел бы ты поехать."
+    }
   ]
 }

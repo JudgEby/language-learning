@@ -5,12 +5,16 @@
     {
       "idiom": "still waters run deep",
       "translation": "в тихом омуте черти водятся",
-      "example": "She's quiet, but still waters run deep."
+      "example": "She's quiet, but still waters run deep.",
+      "keyword": "ватерлиния",
+      "mnemonic": "Она тихая, но в омуте черти — держит ватерлинию: still waters run deep."
     },
     {
       "idiom": "the life and soul of the party",
       "translation": "душа компании",
-      "example": "He's the life and soul of the party."
+      "example": "He's the life and soul of the party.",
+      "keyword": "соул",
+      "mnemonic": "Он душа компании — поёт соул: life and soul of the party."
     }
   ]
 }

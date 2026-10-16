@@ -2,15 +2,75 @@
   "lessonId": "crime-and-punishment",
   "title": "Crime and punishment — новые слова",
   "items": [
-    { "term": "steal", "translation": "воровать, украсть", "example": "Someone stole my phone on the bus." },
-    { "term": "rob", "translation": "грабить (место или человека)", "example": "Two men robbed the bank yesterday." },
-    { "term": "burgle", "translation": "совершать кражу со взломом", "example": "Our house was burgled while we were on holiday." },
-    { "term": "arrest", "translation": "арестовывать", "example": "The police arrested the suspect early this morning." },
-    { "term": "prison", "translation": "тюрьма", "example": "He was sent to prison for five years." },
-    { "term": "fine", "translation": "штраф", "example": "She had to pay a fine for parking illegally." },
-    { "term": "court", "translation": "суд", "example": "The case will go to court next month." },
-    { "term": "crime", "translation": "преступление", "example": "The crime rate has gone down in recent years." },
-    { "term": "victim", "translation": "жертва", "example": "The victim called the police immediately." },
-    { "term": "witness", "translation": "свидетель", "example": "A witness saw the car speeding away." }
+    {
+      "term": "steal",
+      "translation": "воровать, украсть",
+      "example": "Someone stole my phone on the bus.",
+      "keyword": "стиль",
+      "mnemonic": "Вор в стиле steal — ворует и крадёт телефоны в автобусе."
+    },
+    {
+      "term": "rob",
+      "translation": "грабить (место или человека)",
+      "example": "Two men robbed the bank yesterday.",
+      "keyword": "робот",
+      "mnemonic": "Два робота rob — грабят банк вчерашним вечером."
+    },
+    {
+      "term": "burgle",
+      "translation": "совершать кражу со взломом",
+      "example": "Our house was burgled while we were on holiday.",
+      "keyword": "бургер",
+      "mnemonic": "Вор с бургером burgle — совершает кражу со взломом, пока все в отпуске."
+    },
+    {
+      "term": "arrest",
+      "translation": "арестовывать",
+      "example": "The police arrested the suspect early this morning.",
+      "keyword": "артист",
+      "mnemonic": "Полиция схватила артиста — arrest, арестовывать пришлось рано утром."
+    },
+    {
+      "term": "prison",
+      "translation": "тюрьма",
+      "example": "He was sent to prison for five years.",
+      "keyword": "приз",
+      "mnemonic": "Вместо приза получил prison — тюрьму на пять лет."
+    },
+    {
+      "term": "fine",
+      "translation": "штраф",
+      "example": "She had to pay a fine for parking illegally.",
+      "keyword": "финик",
+      "mnemonic": "Водитель с фиником платит fine — штраф за неправильную парковку."
+    },
+    {
+      "term": "court",
+      "translation": "суд",
+      "example": "The case will go to court next month.",
+      "keyword": "корт",
+      "mnemonic": "Дело перенесли на корт — оно go to court, пойдёт в суд в следующем месяце."
+    },
+    {
+      "term": "crime",
+      "translation": "преступление",
+      "example": "The crime rate has gone down in recent years.",
+      "keyword": "крамола",
+      "mnemonic": "Крамола в городе — это crime, преступление, хотя уровень и падает."
+    },
+    {
+      "term": "victim",
+      "translation": "жертва",
+      "example": "The victim called the police immediately.",
+      "keyword": "витаминка",
+      "mnemonic": "Жертва-витаминка звонит в полицию — она victim, жертва с иммунитетом."
+    },
+    {
+      "term": "witness",
+      "translation": "свидетель",
+      "example": "A witness saw the car speeding away.",
+      "keyword": "винт",
+      "mnemonic": "С винтом в кармане witness — свидетель видел, как машина умчалась."
+    }
   ]
 }

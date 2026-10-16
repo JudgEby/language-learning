@@ -5,27 +5,79 @@
     {
       "term": "cardio",
       "translation": "кардионагрузка",
-      "example": "Cardio strengthens your heart."
+      "example": "Cardio strengthens your heart.",
+      "keyword": "кардиган",
+      "mnemonic": "Кардио укрепляет сердце — бегает даже в кардигане: cardio strengthens your heart."
     },
     {
       "term": "stamina",
       "translation": "выносливость",
-      "example": "Running builds stamina."
+      "example": "Running builds stamina.",
+      "keyword": "стамеска",
+      "mnemonic": "Бег строит выносливость — точит, как стамеска: running builds stamina."
     },
     {
       "term": "sedentary",
       "translation": "сидячий (образ жизни)",
-      "example": "A sedentary lifestyle is unhealthy."
+      "example": "A sedentary lifestyle is unhealthy.",
+      "keyword": "седан",
+      "mnemonic": "Сидячий образ жизни — пересел с дивана в седан: sedentary lifestyle is unhealthy."
     },
     {
       "term": "workout",
       "translation": "тренировка",
-      "example": "I do a workout three times a week."
+      "example": "I do a workout three times a week.",
+      "keyword": "воркаут",
+      "mnemonic": "Делает воркаут три раза в неделю — do a workout, тренировка."
     },
     {
       "term": "endorphins",
       "translation": "эндорфины",
-      "example": "Exercise releases endorphins."
+      "example": "Exercise releases endorphins.",
+      "keyword": "дельфины",
+      "mnemonic": "Спорт выпускает эндорфины — плавает счастливая, как с дельфинами: exercise releases endorphins."
+    },
+    {
+      "term": "flexibility",
+      "translation": "гибкость",
+      "example": "Yoga improves flexibility.",
+      "keyword": "флекс",
+      "mnemonic": "Йога прокачивает гибкость — флексит на коврике: improves flexibility."
+    },
+    {
+      "term": "strength",
+      "translation": "сила",
+      "example": "Lifting weights builds strength.",
+      "keyword": "Стрэндж",
+      "mnemonic": "Тягает железо и строит силу, как доктор Стрэндж, — builds strength, сила."
+    },
+    {
+      "term": "aerobic exercise",
+      "translation": "аэробная нагрузка",
+      "example": "Jogging is good aerobic exercise.",
+      "keyword": "аэробика",
+      "mnemonic": "Джоггинг — отличная аэробная нагрузка: бабушки на аэробике подтвердят."
+    },
+    {
+      "term": "moderate exercise",
+      "translation": "умеренная нагрузка",
+      "example": "I do moderate exercise every day.",
+      "keyword": "модератор",
+      "mnemonic": "Делает умеренную нагрузку каждый день под надзором модератора чата — moderate exercise."
+    },
+    {
+      "term": "vigorous exercise",
+      "translation": "интенсивная нагрузка",
+      "example": "Seventy-five minutes of vigorous exercise is enough.",
+      "keyword": "фигура",
+      "mnemonic": "Интенсивная нагрузка лепит фигуру за 75 минут — vigorous exercise is enough."
+    },
+    {
+      "term": "low-impact exercise",
+      "translation": "низкоударная нагрузка",
+      "example": "Yoga is low-impact exercise.",
+      "keyword": "лоукостер",
+      "mnemonic": "Йога — низкоударная нагрузка даже для пассажиров лоукостера: low-impact exercise."
     }
   ]
 }

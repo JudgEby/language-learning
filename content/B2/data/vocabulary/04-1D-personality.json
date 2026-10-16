@@ -5,27 +5,79 @@
     {
       "term": "conscientious",
       "translation": "добросовестный",
-      "example": "She's a conscientious worker."
+      "example": "She's a conscientious worker.",
+      "keyword": "консьерж",
+      "mnemonic": "Консьерж моет подъезд добросовестно три раза в день — он conscientious."
     },
     {
       "term": "impulsive",
       "translation": "импульсивный",
-      "example": "Don't make impulsive decisions."
+      "example": "Don't make impulsive decisions.",
+      "keyword": "пульт",
+      "mnemonic": "Хватает пульт и импульсивно скупает всё из телемагазина — вот они, impulsive решения."
     },
     {
       "term": "reserved",
       "translation": "сдержанный",
-      "example": "He's quite reserved around strangers."
+      "example": "He's quite reserved around strangers.",
+      "keyword": "резерв",
+      "mnemonic": "Держит эмоции в резерве, как бензин на зиму, — он reserved, сдержанный."
     },
     {
       "term": "spontaneous",
       "translation": "спонтанный",
-      "example": "We made a spontaneous trip to the coast."
+      "example": "We made a spontaneous trip to the coast.",
+      "keyword": "спонсор",
+      "mnemonic": "Спонсор без предупреждения устроил поездку на море — вот это spontaneous, спонтанный сюрприз."
     },
     {
       "term": "assertive",
       "translation": "уверенный в себе",
-      "example": "You need to be more assertive at work."
+      "example": "You need to be more assertive at work.",
+      "keyword": "ассорти",
+      "mnemonic": "Заказывает ассорти уверенно, не глядя в меню, — он assertive, уверенный в себе."
+    },
+    {
+      "term": "bubbly",
+      "translation": "жизнерадостный",
+      "example": "Camille is really bubbly.",
+      "keyword": "бублик",
+      "mnemonic": "Сияет, как бублик с маком на витрине, — она bubbly, жизнерадостная."
+    },
+    {
+      "term": "committed",
+      "translation": "преданный делу",
+      "example": "He is very committed to his job.",
+      "keyword": "комитет",
+      "mnemonic": "Создал целый комитет по защите своей работы — он committed, предан делу."
+    },
+    {
+      "term": "enthusiastic",
+      "translation": "восторженный",
+      "example": "She's always enthusiastic about new ideas.",
+      "keyword": "энтузиаст",
+      "mnemonic": "Энтузиаст с плакатом встречает каждую идею визгом — она enthusiastic, восторженная."
+    },
+    {
+      "term": "happy-go-lucky",
+      "translation": "беззаботный",
+      "example": "I'd love to be more happy-go-lucky.",
+      "keyword": "хапает",
+      "mnemonic": "Хапает от жизни всё и улыбается — он happy-go-lucky, беззаботный."
+    },
+    {
+      "term": "welcoming",
+      "translation": "гостеприимный",
+      "example": "Everyone was very welcoming to new members.",
+      "keyword": "велкам",
+      "mnemonic": "Встречает гостей плакатом «велкам» и пирогами — they are welcoming, гостеприимные."
+    },
+    {
+      "term": "grumpy",
+      "translation": "ворчливый",
+      "example": "Try to be less grumpy in the morning.",
+      "keyword": "гром",
+      "mnemonic": "Ворчит с утра громче грома — он grumpy, ворчливый."
     }
   ]
 }

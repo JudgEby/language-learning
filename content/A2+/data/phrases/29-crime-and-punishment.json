@@ -2,11 +2,68 @@
   "lessonId": "crime-and-punishment",
   "title": "Crime and punishment — фразы",
   "items": [
-    { "phrase": "The window was broken", "translation": "Окно было разбито", "example": "The window was broken by someone during the night." },
-    { "phrase": "The thieves were caught", "translation": "Воры были пойманы", "example": "The thieves were caught on CCTV cameras." },
-    { "phrase": "He was taken to court", "translation": "Его привлекли к суду", "example": "He was taken to court for stealing a car." },
-    { "phrase": "She was given a fine", "translation": "Ей выписали штраф", "example": "She was given a fine for not having a ticket." },
-    { "phrase": "The money was stolen", "translation": "Деньги были украдены", "example": "The money was stolen from the office safe." },
-    { "phrase": "The building was damaged", "translation": "Здание было повреждено", "example": "The building was damaged in the fire." }
+    {
+      "phrase": "The window was broken",
+      "translation": "Окно было разбито",
+      "example": "The window was broken by someone during the night.",
+      "keyword": "брюква",
+      "mnemonic": "Вор с брюквой в руке — The window was broken, Окно было разбито ночью."
+    },
+    {
+      "phrase": "The thieves were caught",
+      "translation": "Воры были пойманы",
+      "example": "The thieves were caught on CCTV cameras.",
+      "keyword": "капкан",
+      "mnemonic": "Воры в капкане камер — The thieves were caught, Воры были пойманы на камеры."
+    },
+    {
+      "phrase": "He was taken to court",
+      "translation": "Его привлекли к суду",
+      "example": "He was taken to court for stealing a car.",
+      "keyword": "корт",
+      "mnemonic": "Угонщик на корте суда — He was taken to court, Его привлекли к суду за машину."
+    },
+    {
+      "phrase": "She was given a fine",
+      "translation": "Ей выписали штраф",
+      "example": "She was given a fine for not having a ticket.",
+      "keyword": "финик",
+      "mnemonic": "Зайчиха с фиником в руке — She was given a fine, Ей выписали штраф за безбилет."
+    },
+    {
+      "phrase": "The money was stolen",
+      "translation": "Деньги были украдены",
+      "example": "The money was stolen from the office safe.",
+      "keyword": "стол",
+      "mnemonic": "Кассирша под столом прячется — The money was stolen, Деньги были украдены из сейфа."
+    },
+    {
+      "phrase": "The building was damaged",
+      "translation": "Здание было повреждено",
+      "example": "The building was damaged in the fire.",
+      "keyword": "дама",
+      "mnemonic": "Дама с обгоревшим зонтом — The building was damaged, Здание было повреждено в пожаре."
+    },
+    {
+      "phrase": "What was her punishment?",
+      "translation": "Каким было её наказание?",
+      "example": "The shoplifter was caught three times. What was her punishment?",
+      "keyword": "пышка",
+      "mnemonic": "Воровка с пышкой в рукаве — What was her punishment? — Каким было её наказание, ловили трижды."
+    },
+    {
+      "phrase": "They were told to do community service",
+      "translation": "Им велели выполнять общественные работы",
+      "example": "The boys were caught writing graffiti. They were told to do community service.",
+      "keyword": "сервис",
+      "mnemonic": "Пацаны с сервисом краски — They were told to do community service, Им велели выполнять общественные работы за граффити."
+    },
+    {
+      "phrase": "The man was sent to read stories",
+      "translation": "Мужчину отправили читать истории",
+      "example": "The man was caught stealing books. The man was sent to read stories to hospital patients.",
+      "keyword": "староста",
+      "mnemonic": "Книгокрад-староста бубнит — The man was sent to read stories, Мужчину отправили читать истории пациентам."
+    }
   ]
 }

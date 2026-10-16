@@ -2,13 +2,61 @@
   "lessonId": "in-other-words",
   "title": "In other words — фразы",
   "items": [
-    { "phrase": "In other words, …", "translation": "Другими словами,…", "example": "In other words, your booking was for yesterday." },
-    { "phrase": "What I mean is…", "translation": "Я имею в виду…", "example": "What I mean is we need to start again from scratch." },
-    { "phrase": "Let me put it another way", "translation": "Позволь мне сказать иначе", "example": "Let me put it another way — this is not going to work." },
-    { "phrase": "Sorry, I didn't catch that", "translation": "Извините, я не расслышал", "example": "Sorry, I didn't catch that. Could you say it again?" },
-    { "phrase": "You've lost me", "translation": "Я запутался / потерял нить", "example": "I'm sorry, you've lost me. What are you talking about?" },
-    { "phrase": "Do you mean to say…?", "translation": "Хочешь сказать, что…?", "example": "Do you mean to tell me that there's nothing available?" },
-    { "phrase": "So you're saying…", "translation": "То есть ты говоришь…", "example": "So you're saying I can't stay here tonight?" },
-    { "phrase": "Could you repeat the last part?", "translation": "Не могли бы вы повторить последнюю часть?", "example": "Could you repeat the last part? I didn't hear you." }
+    {
+      "phrase": "In other words, …",
+      "translation": "Другими словами,…",
+      "example": "In other words, your booking was for yesterday.",
+      "keyword": "вордс",
+      "mnemonic": "Вордс-перефраз: in other words — другими словами, бронь была на вчера."
+    },
+    {
+      "phrase": "What I mean is…",
+      "translation": "Я имею в виду…",
+      "example": "What I mean is we need to start again from scratch.",
+      "keyword": "мин",
+      "mnemonic": "Мин-заново с нуля: what I mean is — я имею в виду, начнём с нуля."
+    },
+    {
+      "phrase": "Let me put it another way",
+      "translation": "Позволь мне сказать иначе",
+      "example": "Let me put it another way — this is not going to work.",
+      "keyword": "пут",
+      "mnemonic": "Пут-иначе переставь: let me put it another way — позволь сказать иначе, не сработает."
+    },
+    {
+      "phrase": "Sorry, I didn't catch that",
+      "translation": "Извините, я не расслышал",
+      "example": "Sorry, I didn't catch that. Could you say it again?",
+      "keyword": "кэтч",
+      "mnemonic": "Кэтч-мимо ушей: sorry, I didn't catch that — извините, я не расслышал, повторите."
+    },
+    {
+      "phrase": "You've lost me",
+      "translation": "Я запутался / потерял нить",
+      "example": "I'm sorry, you've lost me. What are you talking about?",
+      "keyword": "лост",
+      "mnemonic": "Лост-нить потеряна: you've lost me — я запутался, потерял нить, о чём ты?"
+    },
+    {
+      "phrase": "Do you mean to say…?",
+      "translation": "Хочешь сказать, что…?",
+      "example": "Do you mean to tell me that there's nothing available?",
+      "keyword": "минсей",
+      "mnemonic": "Мин-сей-вопрос в лоб: do you mean to say — хочешь сказать, что мест нет?"
+    },
+    {
+      "phrase": "So you're saying…",
+      "translation": "То есть ты говоришь…",
+      "example": "So you're saying I can't stay here tonight?",
+      "keyword": "сейинг",
+      "mnemonic": "Сейинг-ночёвка под вопросом: so you're saying — то есть ты говоришь, нельзя остаться?"
+    },
+    {
+      "phrase": "Could you repeat the last part?",
+      "translation": "Не могли бы вы повторить последнюю часть?",
+      "example": "Could you repeat the last part? I didn't hear you.",
+      "keyword": "репит, парт",
+      "mnemonic": "Репит-парт погромче: could you repeat — не могли бы повторить последнюю часть?"
+    }
   ]
 }

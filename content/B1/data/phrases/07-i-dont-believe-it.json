@@ -2,13 +2,61 @@
   "lessonId": "i-dont-believe-it",
   "title": "I don't believe it! — фразы",
   "items": [
-    { "phrase": "This happened when...", "translation": "Это случилось, когда...", "example": "This happened when I was on holiday in Portugal last year." },
-    { "phrase": "All of a sudden", "translation": "Внезапно", "example": "All of a sudden, the lights went out." },
-    { "phrase": "The next thing I knew", "translation": "Следующее, что я понял", "example": "The next thing I knew, I was lying on the floor." },
-    { "phrase": "Before long", "translation": "Вскоре", "example": "Before long, we were all sitting together in the living room." },
-    { "phrase": "In the end", "translation": "В конце концов", "example": "In the end, it was just a cat." },
-    { "phrase": "I don't believe it!", "translation": "Не могу поверить!", "example": "I don't believe it! That's really amazing." },
-    { "phrase": "You're joking!", "translation": "Ты шутишь!", "example": "You're joking! That can't be true." },
-    { "phrase": "Oh dear", "translation": "О боже", "example": "Oh dear, that sounds terrible." }
+    {
+      "phrase": "This happened when...",
+      "translation": "Это случилось, когда...",
+      "example": "This happened when I was on holiday in Portugal last year.",
+      "keyword": "хэппенд",
+      "mnemonic": "Хэппенд в Португалии: this happened when — это случилось, когда был в отпуске."
+    },
+    {
+      "phrase": "All of a sudden",
+      "translation": "Внезапно",
+      "example": "All of a sudden, the lights went out.",
+      "keyword": "садден",
+      "mnemonic": "Садден-тьма и хлопок: all of a sudden — внезапно погас свет."
+    },
+    {
+      "phrase": "The next thing I knew",
+      "translation": "Следующее, что я понял",
+      "example": "The next thing I knew, I was lying on the floor.",
+      "keyword": "нью",
+      "mnemonic": "Нью-очнулся на полу: the next thing I knew — следующее, что я понял, лежу на полу."
+    },
+    {
+      "phrase": "Before long",
+      "translation": "Вскоре",
+      "example": "Before long, we were all sitting together in the living room.",
+      "keyword": "лонг",
+      "mnemonic": "Лонг-гостиная собрала всех: before long — вскоре все сидели вместе в гостиной."
+    },
+    {
+      "phrase": "In the end",
+      "translation": "В конце концов",
+      "example": "In the end, it was just a cat.",
+      "keyword": "энд",
+      "mnemonic": "Энд-кот вылез: in the end — в конце концов это был просто кот."
+    },
+    {
+      "phrase": "I don't believe it!",
+      "translation": "Не могу поверить!",
+      "example": "I don't believe it! That's really amazing.",
+      "keyword": "билив",
+      "mnemonic": "Билив-глаза круглые: I don't believe it — не могу поверить, как потрясающе!"
+    },
+    {
+      "phrase": "You're joking!",
+      "translation": "Ты шутишь!",
+      "example": "You're joking! That can't be true.",
+      "keyword": "джоукинг",
+      "mnemonic": "Джоукинг-клоун хохочет: you're joking — ты шутишь, не может быть!"
+    },
+    {
+      "phrase": "Oh dear",
+      "translation": "О боже",
+      "example": "Oh dear, that sounds terrible.",
+      "keyword": "диар",
+      "mnemonic": "Диар-вздох жалости: oh dear — о боже, звучит ужасно."
+    }
   ]
 }

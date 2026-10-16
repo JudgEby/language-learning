@@ -1,0 +1,55 @@
+{
+  "lessonId": "keeping-in-touch",
+  "title": "Keeping in touch — остаёмся на связи",
+  "items": [
+    {
+      "idiom": "write a blog",
+      "translation": "вести блог",
+      "example": "How often do you write a blog?",
+      "keyword": "блок",
+      "mnemonic": "Графоман с блоком бумаги — write a blog, вести блог, как часто пишешь."
+    },
+    {
+      "idiom": "update your webpage",
+      "translation": "обновить свою страницу",
+      "example": "I need to update your webpage this week.",
+      "keyword": "упадок",
+      "mnemonic": "Админ в упадке сил — update your webpage, обновить свою страницу на неделе."
+    },
+    {
+      "idiom": "follow a blog",
+      "translation": "читать блог",
+      "example": "I follow a blog about travel and music.",
+      "keyword": "флагман",
+      "mnemonic": "Флагман тревел-чтения — follow a blog, читать блог про музыку и поездки."
+    },
+    {
+      "idiom": "learn how to do it myself",
+      "translation": "научиться делать это самому",
+      "example": "I have not learnt how to do it myself yet.",
+      "keyword": "мыс",
+      "mnemonic": "Самоучка на мысе с молотком — learn how to do it myself, научиться делать это самому, пока не умею."
+    },
+    {
+      "idiom": "get really annoyed",
+      "translation": "сильно раздражаться",
+      "example": "I get really annoyed when you text during a talk.",
+      "keyword": "анорак",
+      "mnemonic": "Болтун в анораке бесит — get really annoyed, сильно раздражаться, когда пишут на лекции."
+    },
+    {
+      "idiom": "think technology is wonderful",
+      "translation": "считать, что технологии прекрасны",
+      "example": "Generally, I think technology is wonderful.",
+      "keyword": "вандал",
+      "mnemonic": "Вандал с гаджетом умиляется — think technology is wonderful, считать, что технологии прекрасны, в целом."
+    },
+    {
+      "idiom": "have the same car since 1998",
+      "translation": "ездить на той же машине с 1998 года",
+      "example": "I have had the same car since 1998.",
+      "keyword": "карбюратор",
+      "mnemonic": "Дед с карбюратором того же года — have the same car since 1998, ездить на той же машине с 98-го."
+    }
+  ]
+}

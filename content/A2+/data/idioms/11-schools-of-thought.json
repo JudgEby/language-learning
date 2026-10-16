@@ -1,0 +1,55 @@
+{
+  "lessonId": "schools-of-thought",
+  "title": "Schools of thought — идиомы",
+  "items": [
+    {
+      "idiom": "study a foreign language",
+      "translation": "учить иностранный язык",
+      "example": "In our school we have to study a foreign language.",
+      "keyword": "лентяй",
+      "mnemonic": "Лентяй в школе зубрит — study a foreign language, учить иностранный язык приходится."
+    },
+    {
+      "idiom": "take a test",
+      "translation": "проходить тест, сдавать тест",
+      "example": "We take a test at the end of every term.",
+      "keyword": "тост",
+      "mnemonic": "С тостом на парте пишут — take a test, проходить тест в конце четверти."
+    },
+    {
+      "idiom": "wear a school uniform",
+      "translation": "носить школьную форму",
+      "example": "In France children do not have to wear a uniform to school.",
+      "keyword": "унитаз",
+      "mnemonic": "Француз без унитаза в школе — wear a school uniform, носить школьную форму не надо."
+    },
+    {
+      "idiom": "watch a video at home",
+      "translation": "смотреть видео дома",
+      "example": "In a flipped classroom children watch a video at home.",
+      "keyword": "вдова",
+      "mnemonic": "Вдова с проектором дома — watch a video at home, смотреть видео дома в перевёрнутом классе."
+    },
+    {
+      "idiom": "ask the teacher for help",
+      "translation": "просить учителя о помощи",
+      "example": "In class they can ask the teacher for help.",
+      "keyword": "тетрадь",
+      "mnemonic": "С тетрадью к учителю пристаёт — ask the teacher for help, просить учителя о помощи в классе."
+    },
+    {
+      "idiom": "learn by copying",
+      "translation": "учиться через повторение, копируя",
+      "example": "Small children learn music by copying what they hear.",
+      "keyword": "копейка",
+      "mnemonic": "Малыш с копейкой за ухом — learn by copying, учиться через повторение, копируя музыку."
+    },
+    {
+      "idiom": "practise for hours every day",
+      "translation": "тренироваться часами каждый день",
+      "example": "The children have to practise for hours every day.",
+      "keyword": "аура",
+      "mnemonic": "Дети с аурой зубрёжки — practise for hours every day, тренироваться часами каждый день приходится."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "green-living",
+  "title": "Green living — экологичная жизнь",
+  "items": [
+    {
+      "idiom": "work together",
+      "translation": "работать вместе",
+      "example": "Children and adults work together to build schools.",
+      "keyword": "тусовка",
+      "mnemonic": "Дети и взрослые с тусовкой кирпичей — work together, работать вместе, строить школы."
+    },
+    {
+      "idiom": "produce electricity",
+      "translation": "производить электричество",
+      "example": "People dancing produce electricity in the eco-nightclub.",
+      "keyword": "эликсир",
+      "mnemonic": "Танцоры с эликсиром тока — produce electricity, производить электричество в эко-клубе."
+    },
+    {
+      "idiom": "get in free",
+      "translation": "пройти бесплатно",
+      "example": "If you walk to the club, you can get in free.",
+      "keyword": "фриз",
+      "mnemonic": "Пешеход с фризом-льдом у входа — get in free, пройти бесплатно, пришёл пешком."
+    },
+    {
+      "idiom": "build schools in developing countries",
+      "translation": "строить школы в развивающихся странах",
+      "example": "The project uses plastic boxes to build schools in developing countries.",
+      "keyword": "девелопер",
+      "mnemonic": "Девелопер с ящиками пластика — build schools in developing countries, строить школы в развивающихся странах."
+    },
+    {
+      "idiom": "swim in the ocean",
+      "translation": "плавать в океане",
+      "example": "In Sydney you can swim in the Pacific Ocean.",
+      "keyword": "ошейник",
+      "mnemonic": "Серфер с ошейником из ракушек — swim in the ocean, плавать в океане в Сиднее."
+    },
+    {
+      "idiom": "climb a mountain",
+      "translation": "взбираться на гору",
+      "example": "Have you ever climbed a mountain?",
+      "keyword": "клим",
+      "mnemonic": "Альпинист Клим с ледорубом — climb a mountain, взбираться на гору, пробовал."
+    },
+    {
+      "idiom": "walk in a desert or a rainforest",
+      "translation": "гулять по пустыне или тропическому лесу",
+      "example": "Have you ever walked in a desert or a rainforest?",
+      "keyword": "десерт",
+      "mnemonic": "Турист с десертом-сахары — walk in a desert or a rainforest, гулять по пустыне или тропическому лесу."
+    }
+  ]
+}

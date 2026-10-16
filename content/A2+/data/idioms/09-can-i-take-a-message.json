@@ -1,0 +1,62 @@
+{
+  "lessonId": "can-i-take-a-message",
+  "title": "Can I take a message? — идиомы",
+  "items": [
+    {
+      "idiom": "book a table",
+      "translation": "забронировать столик",
+      "example": "Have you booked a table on the phone recently?",
+      "keyword": "табель",
+      "mnemonic": "Метрдотель с табелью столиков — book a table, забронировать столик по телефону."
+    },
+    {
+      "idiom": "arrange to meet friends",
+      "translation": "договориться о встрече с друзьями",
+      "example": "I called to arrange to meet friends for dinner.",
+      "keyword": "оранжерея",
+      "mnemonic": "Секретарь из оранжереи названивает — arrange to meet friends, договориться о встрече с друзьями на ужин."
+    },
+    {
+      "idiom": "have a chat",
+      "translation": "поболтать",
+      "example": "We had a chat on the phone last night.",
+      "keyword": "чай",
+      "mnemonic": "Ночные совы с чаем — have a chat, поболтать по телефону ночью."
+    },
+    {
+      "idiom": "cancel a booking",
+      "translation": "отменить бронь",
+      "example": "She called to cancel a booking for Saturday.",
+      "keyword": "канцелярия",
+      "mnemonic": "Дама с канцелярией бумаг — cancel a booking, отменить бронь на субботу."
+    },
+    {
+      "idiom": "check train times",
+      "translation": "уточнить расписание поездов",
+      "example": "I need to check train times before we leave.",
+      "keyword": "термос",
+      "mnemonic": "Проводник с термосом сверяется — check train times, уточнить расписание поездов до отъезда."
+    },
+    {
+      "idiom": "change a ticket",
+      "translation": "обменять билет, изменить билет",
+      "example": "He wants to change a ticket to a different date.",
+      "keyword": "такелаж",
+      "mnemonic": "Пассажир с такелажем чемоданов — change a ticket, обменять билет на другую дату."
+    },
+    {
+      "idiom": "get the sack",
+      "translation": "быть уволенным, потерять работу",
+      "example": "She got the sack today, so she lost her job.",
+      "keyword": "саквояж",
+      "mnemonic": "Клерк с саквояжем на выход — get the sack, быть уволенным, потерять работу сегодня."
+    },
+    {
+      "idiom": "pigs might fly",
+      "translation": "когда рак на горе свистнет (этого никогда не будет)",
+      "example": "He will call back soon, and pigs might fly.",
+      "keyword": "пятачок",
+      "mnemonic": "Поросёнок с пятачком в облаках — pigs might fly, когда рак на горе свистнет, перезвонит же."
+    }
+  ]
+}

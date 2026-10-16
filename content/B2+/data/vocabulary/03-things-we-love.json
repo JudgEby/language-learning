@@ -1,0 +1,132 @@
+{
+  "lessonId": "things-we-love",
+  "title": "1C Things We Love — Хобби и свободное время",
+  "items": [
+    {
+      "term": "mountain biking",
+      "translation": "катание на горном велосипеде",
+      "example": "I tried mountain biking for the first time last year.",
+      "keyword": "мутный велик",
+      "mnemonic": "Катание на горном велосипеде на мутном велике по лужам — вот тебе mountain biking."
+    },
+    {
+      "term": "steep hill",
+      "translation": "крутой склон, холм",
+      "example": "I stood at the top of a steep hill, about to set off towards the bottom.",
+      "keyword": "стих хилый",
+      "mnemonic": "На крутом склоне хилый читает стих перед спуском — вот тебе steep hill."
+    },
+    {
+      "term": "set off",
+      "translation": "отправляться в путь",
+      "example": "We had lunch and then set off towards the bottom of the hill.",
+      "keyword": "свет офф",
+      "mnemonic": "Чтобы отправиться в путь, он выключил свет с криком «офф!» — вот тебе set off."
+    },
+    {
+      "term": "landscaping project",
+      "translation": "проект озеленения",
+      "example": "A friend persuaded me to help him with a landscaping project in his garden.",
+      "keyword": "ладно скейт",
+      "mnemonic": "Проект озеленения, где ладно катаются на скейте по саду — вот тебе landscaping project."
+    },
+    {
+      "term": "physical work",
+      "translation": "физическая работа",
+      "example": "I had never been into gardening or doing physical work before.",
+      "keyword": "фискал",
+      "mnemonic": "Физическую работу в саду проверяет строгий фискал — вот тебе physical work."
+    },
+    {
+      "term": "bungee jump",
+      "translation": "прыжок на тарзанке",
+      "example": "Would you rather do a deep-sea dive or do a bungee jump?",
+      "keyword": "банный прыг",
+      "mnemonic": "Прыжок на тарзанке с банным прыгом и веником в руках — вот тебе bungee jump."
+    },
+    {
+      "term": "deep-sea dive",
+      "translation": "глубоководное погружение",
+      "example": "He would choose a bungee jump over a deep-sea dive any day.",
+      "keyword": "диво дай",
+      "mnemonic": "Глубоководное погружение, где диво — дай руку осьминогу, вот тебе deep-sea dive."
+    },
+    {
+      "term": "parachute",
+      "translation": "парашют; прыгать с парашютом",
+      "example": "Would you rather fly a plane or parachute out of a plane?",
+      "keyword": "пора шут",
+      "mnemonic": "Пора, шут прыгает с парашютом из самолёта — вот тебе parachute."
+    },
+    {
+      "term": "reality TV show",
+      "translation": "реалити-шоу",
+      "example": "I would go for being in a reality TV show every time.",
+      "keyword": "реалист",
+      "mnemonic": "В реалити-шоу реалист плачет прямо в камеру — вот тебе reality TV show."
+    },
+    {
+      "term": "binge-watch",
+      "translation": "смотреть запоем",
+      "example": "Would you rather binge watch a TV show all day or read a book all day?",
+      "keyword": "бензин вот",
+      "mnemonic": "Смотреть запоем сериал, нюхая бензин, — вот умора, это binge-watch."
+    },
+    {
+      "term": "kitesurfing",
+      "translation": "кайтсёрфинг",
+      "example": "Kitesurfing was one of the activities the speakers discussed.",
+      "keyword": "кит серфит",
+      "mnemonic": "Кайтсёрфинг, где кит серфит на доске лучше людей — вот тебе kitesurfing."
+    },
+    {
+      "term": "lazy day",
+      "translation": "ленивый день без дел",
+      "example": "Given the choice, I would go for a lazy day at home.",
+      "keyword": "лезет дай",
+      "mnemonic": "Ленивый день без дел, когда лень лезет — дай поспать, это lazy day."
+    },
+    {
+      "term": "dance competition",
+      "translation": "танцевальный конкурс",
+      "example": "Taking part in a dance competition is not really my thing.",
+      "keyword": "донёс",
+      "mnemonic": "На танцевальном конкурсе он донёс кубок до сцены — вот тебе dance competition."
+    },
+    {
+      "term": "helicopter tour",
+      "translation": "вертолётная экскурсия",
+      "example": "We could do a helicopter tour of the city!",
+      "keyword": "гелик тур",
+      "mnemonic": "Вертолётная экскурсия на гелике в тур по городу — вот тебе helicopter tour."
+    },
+    {
+      "term": "tour bus",
+      "translation": "экскурсионный автобус",
+      "example": "We could hop on a tour bus to get to know the city.",
+      "keyword": "турбаза",
+      "mnemonic": "Экскурсионный автобус едет мимо турбазы по городу — вот тебе tour bus."
+    },
+    {
+      "term": "free afternoon",
+      "translation": "свободное время после обеда",
+      "example": "I enjoy having a free afternoon when I can sit with a good book.",
+      "keyword": "фри полдник",
+      "mnemonic": "Свободное время после обеда с фри и полдником под книгу — вот тебе free afternoon."
+    },
+    {
+      "term": "sailing",
+      "translation": "парусный спорт",
+      "example": "We tried sailing on holiday and loved it.",
+      "keyword": "сели",
+      "mnemonic": "В парусный спорт влюбились, когда сели на яхту в отпуске — вот тебе sailing."
+    },
+    {
+      "term": "Formula One car",
+      "translation": "гоночный болид",
+      "example": "Last year I won the chance to drive a Formula One car.",
+      "keyword": "формула",
+      "mnemonic": "Гоночный болид мчится по формуле к победе — вот тебе Formula One car."
+    }
+  ]
+}

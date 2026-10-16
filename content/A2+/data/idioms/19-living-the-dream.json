@@ -1,0 +1,55 @@
+{
+  "lessonId": "living-the-dream",
+  "title": "Living the dream — перемены в жизни",
+  "items": [
+    {
+      "idiom": "follow one's dreams",
+      "translation": "следовать за своими мечтами",
+      "example": "Only a few people actually follow their dreams.",
+      "keyword": "дрель",
+      "mnemonic": "Мечтатели с дрелью звёзд — follow one's dreams, следовать за своими мечтами, мало кто следует."
+    },
+    {
+      "idiom": "make one's dream come true",
+      "translation": "осуществить свою мечту",
+      "example": "She tells how she made her dream come true.",
+      "keyword": "трюмо",
+      "mnemonic": "Звезда у трюмо хвастает — make one's dream come true, осуществить свою мечту, рассказывает как."
+    },
+    {
+      "idiom": "look for something new",
+      "translation": "искать что-то новое",
+      "example": "Perhaps it is time to look for something new.",
+      "keyword": "нюх",
+      "mnemonic": "С нюхом на перемены — look for something new, искать что-то новое, пора бы."
+    },
+    {
+      "idiom": "give up one's job",
+      "translation": "бросить работу",
+      "example": "Many people want to give up their jobs and start a new career.",
+      "keyword": "жук",
+      "mnemonic": "Клерк с жуком в портфеле — give up one's job, бросить работу ради новой карьеры."
+    },
+    {
+      "idiom": "start a new career",
+      "translation": "начать новую карьеру",
+      "example": "He decided to give up his job and start a new career.",
+      "keyword": "карета",
+      "mnemonic": "Чиновник пересел в карету новой жизни — start a new career, начать новую карьеру после старой работы."
+    },
+    {
+      "idiom": "travel around the world",
+      "translation": "путешествовать по миру",
+      "example": "They would like to travel around the world one day.",
+      "keyword": "траулер",
+      "mnemonic": "Мечтатели на траулере кругосветки — travel around the world, путешествовать по миру однажды."
+    },
+    {
+      "idiom": "go back to work as normal",
+      "translation": "вернуться к работе как обычно",
+      "example": "When the holiday finishes, they just go back to work as normal.",
+      "keyword": "норма",
+      "mnemonic": "Отпускники возвращаются в норму — go back to work as normal, вернуться к работе как обычно после отпуска."
+    }
+  ]
+}

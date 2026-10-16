@@ -1,0 +1,55 @@
+{
+  "lessonId": "hidden-talent",
+  "title": "Hidden talent — идиомы",
+  "items": [
+    {
+      "idiom": "make friends with someone from another country",
+      "translation": "подружиться с кем-то из другой страны",
+      "example": "Have you ever made friends with someone from another country?",
+      "keyword": "контрабанда",
+      "mnemonic": "Студент с контрабандой сувениров — make friends with someone from another country, подружиться с кем-то из другой страны."
+    },
+    {
+      "idiom": "make a meal for eight people",
+      "translation": "приготовить еду на восемь человек",
+      "example": "She once made a meal for more than eight people.",
+      "keyword": "миллион",
+      "mnemonic": "Повариха с миллионом котлет — make a meal for eight people, приготовить еду на восемь человек."
+    },
+    {
+      "idiom": "make a phone call in a foreign language",
+      "translation": "позвонить на иностранном языке",
+      "example": "Have you ever made a phone call in a foreign language?",
+      "keyword": "колбаса",
+      "mnemonic": "Студент с колбасой у телефона — make a phone call in a foreign language, позвонить на иностранном языке."
+    },
+    {
+      "idiom": "do a project with a big team",
+      "translation": "делать проект с большой командой",
+      "example": "We did a project with a big team last year.",
+      "keyword": "прожектор",
+      "mnemonic": "Команда под прожектором ваяет — do a project with a big team, делать проект с большой командой в том году."
+    },
+    {
+      "idiom": "do well in an exam",
+      "translation": "хорошо сдать экзамен",
+      "example": "She always does well in exams because she practises a lot.",
+      "keyword": "экзотика",
+      "mnemonic": "Отличница с экзотикой в билете — do well in an exam, хорошо сдать экзамен, практикуется много."
+    },
+    {
+      "idiom": "do sums in your head",
+      "translation": "считать в уме",
+      "example": "I am good with numbers and can do sums in my head.",
+      "keyword": "самовар",
+      "mnemonic": "Математик с самоваром в голове — do sums in your head, считать в уме, силён в цифрах."
+    },
+    {
+      "idiom": "practise on your own",
+      "translation": "тренироваться самостоятельно",
+      "example": "I listen carefully and practise on my own every day.",
+      "keyword": "уникум",
+      "mnemonic": "Уникум с наушниками зубрит — practise on your own, тренироваться самостоятельно каждый день."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "feeling-good",
+  "title": "Feeling good — идиомы",
+  "items": [
+    {
+      "idiom": "go on holiday",
+      "translation": "поехать в отпуск",
+      "example": "We usually go on holiday in August.",
+      "keyword": "хоровод",
+      "mnemonic": "Августовский хоровод чемоданов — go on holiday, поехать в отпуск."
+    },
+    {
+      "idiom": "spend time alone",
+      "translation": "проводить время в одиночестве",
+      "example": "Sometimes I just want to spend time alone and read.",
+      "keyword": "алло",
+      "mnemonic": "Интроверт с книгой шипит алло — spend time alone, проводить время в одиночестве и читать."
+    },
+    {
+      "idiom": "go out with friends",
+      "translation": "выходить гулять с друзьями",
+      "example": "We go out with friends every Friday evening.",
+      "keyword": "френч",
+      "mnemonic": "Пятничный френч с друзьями — go out with friends, выходить гулять с друзьями."
+    },
+    {
+      "idiom": "eat good food",
+      "translation": "есть вкусную еду",
+      "example": "We stayed at home and ate good food all weekend.",
+      "keyword": "фудкорт",
+      "mnemonic": "Домашний фудкорт на диване — eat good food, есть вкусную еду все выходные."
+    },
+    {
+      "idiom": "have time off",
+      "translation": "иметь свободное время, отдыхать от работы",
+      "example": "I have some time off next week, so I will relax.",
+      "keyword": "офис",
+      "mnemonic": "Сбежал из офиса в отпуск — have time off, иметь свободное время, отдыхать от работы."
+    },
+    {
+      "idiom": "have a party",
+      "translation": "устраивать вечеринку",
+      "example": "They had a party for her birthday last Saturday.",
+      "keyword": "партия",
+      "mnemonic": "Партия тортов в субботу — have a party, устраивать вечеринку на день рождения."
+    },
+    {
+      "idiom": "play a musical instrument",
+      "translation": "играть на музыкальном инструменте",
+      "example": "He plays a musical instrument every evening after school.",
+      "keyword": "мюсли",
+      "mnemonic": "Школьник с мюсли вместо нот — play a musical instrument, играть на музыкальном инструменте каждый вечер."
+    }
+  ]
+}

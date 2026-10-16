@@ -5,17 +5,23 @@
     {
       "idiom": "a dream come true",
       "translation": "мечта сбылась",
-      "example": "Getting this job is a dream come true for me."
+      "example": "Getting this job is a dream come true for me.",
+      "keyword": "дрим",
+      "mnemonic": "Дрим-работа случилась: a dream come true — мечта сбылась, получил эту работу."
     },
     {
       "idiom": "go the extra mile",
       "translation": "сделать больше, чем требуется",
-      "example": "She always goes the extra mile to help her customers."
+      "example": "She always goes the extra mile to help her customers.",
+      "keyword": "майл",
+      "mnemonic": "Лишний майл ради клиента: go the extra mile — сделать больше, чем требуется, она всегда помогает."
     },
     {
       "idiom": "learn the ropes",
       "translation": "освоиться, научиться основам",
-      "example": "It took me a few weeks to learn the ropes in my new job."
+      "example": "It took me a few weeks to learn the ropes in my new job.",
+      "keyword": "трос",
+      "mnemonic": "Трос основ освоен за недели: learn the ropes — освоиться, научиться основам на новой работе."
     }
   ]
 }

@@ -61,6 +61,10 @@ def validate_lexicon(level: str, category: str, errors: list[str]) -> None:
                 error(errors, f"{path}: items[{i}] missing {key}")
             if not item.get("translation"):
                 error(errors, f"{path}: items[{i}] missing translation")
+            has_keyword = bool(item.get("keyword"))
+            has_mnemonic = bool(item.get("mnemonic"))
+            if has_keyword != has_mnemonic:
+                error(errors, f"{path}: items[{i}] keyword and mnemonic must come as a pair")
 
 
 def validate_manifest(level: str, errors: list[str]) -> None:

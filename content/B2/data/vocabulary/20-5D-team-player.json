@@ -5,27 +5,79 @@
     {
       "term": "collaborate",
       "translation": "сотрудничать",
-      "example": "We collaborate on most projects."
+      "example": "We collaborate on most projects.",
+      "keyword": "коллаборация",
+      "mnemonic": "Сотрудничаем по большинству проектов — коллаборация с соседями: collaborate."
     },
     {
       "term": "delegate",
       "translation": "делегировать",
-      "example": "A good manager knows how to delegate."
+      "example": "A good manager knows how to delegate.",
+      "keyword": "делегация",
+      "mnemonic": "Хороший менеджер умеет делегировать — шлёт делегации: knows how to delegate."
     },
     {
       "term": "teamwork",
       "translation": "командная работа",
-      "example": "Teamwork is essential in this role."
+      "example": "Teamwork is essential in this role.",
+      "keyword": "тимлид",
+      "mnemonic": "Командная работа решает — ведёт тимлид: teamwork is essential."
     },
     {
       "term": "autonomous",
       "translation": "самостоятельный",
-      "example": "I prefer working autonomously."
+      "example": "I prefer working autonomously.",
+      "keyword": "автономия",
+      "mnemonic": "Люблю работать самостоятельно — моя автономия: working autonomously."
     },
     {
       "term": "accountability",
       "translation": "ответственность",
-      "example": "There's a culture of accountability here."
+      "example": "There's a culture of accountability here.",
+      "keyword": "аккаунт",
+      "mnemonic": "Тут культура ответственности — у каждого аккаунт с грехами: culture of accountability."
+    },
+    {
+      "term": "self-employed",
+      "translation": "самозанятый",
+      "example": "I am self-employed, so I work alone.",
+      "keyword": "самозванец",
+      "mnemonic": "Я самозанятый — самозванец с ноутбуком, работаю один: self-employed."
+    },
+    {
+      "term": "perfectionist",
+      "translation": "перфекционист",
+      "example": "She is a bit of a perfectionist.",
+      "keyword": "перфект",
+      "mnemonic": "Она немного перфекционист — гонится за перфектом: bit of a perfectionist."
+    },
+    {
+      "term": "support each other",
+      "translation": "поддерживать друг друга",
+      "example": "In a good team you support each other.",
+      "keyword": "саппорт",
+      "mnemonic": "В хорошей команде поддерживают друг друга — саппорт на связи: support each other."
+    },
+    {
+      "term": "share accomplishments",
+      "translation": "делиться достижениями",
+      "example": "I like to share accomplishments with the team.",
+      "keyword": "комплимент",
+      "mnemonic": "Люблю делиться достижениями — раздаю комплименты команде: share accomplishments."
+    },
+    {
+      "term": "bounce ideas off",
+      "translation": "обсуждать идеи друг с другом",
+      "example": "We bounce ideas off each other every day.",
+      "keyword": "баунти",
+      "mnemonic": "Каждый день кидаемся идеями, как баунти на острове, — bounce ideas off each other, обсуждаем идеи."
+    },
+    {
+      "term": "frustrating",
+      "translation": "раздражающий, досадный",
+      "example": "Delays at work were incredibly frustrating.",
+      "keyword": "фрустрация",
+      "mnemonic": "Задержки на работе дико бесят — сплошная фрустрация: incredibly frustrating, раздражает."
     }
   ]
 }

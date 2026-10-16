@@ -1,0 +1,55 @@
+{
+  "lessonId": "relax",
+  "title": "Relax — идиомы",
+  "items": [
+    {
+      "idiom": "spend the most time outdoors",
+      "translation": "проводить больше всего времени на улице",
+      "example": "People in New Zealand spend the most time outdoors.",
+      "keyword": "двор",
+      "mnemonic": "Новозеландцы со двором-лугом — spend the most time outdoors, проводить больше всего времени на улице."
+    },
+    {
+      "idiom": "watch the most TV",
+      "translation": "смотреть телевизор больше всех",
+      "example": "Which nation watches the most TV every week?",
+      "keyword": "табло",
+      "mnemonic": "Нация у табло-экрана — watch the most TV, смотреть телевизор больше всех каждую неделю."
+    },
+    {
+      "idiom": "exercise regularly",
+      "translation": "регулярно заниматься спортом",
+      "example": "Over eighty percent of people there exercise regularly.",
+      "keyword": "регби",
+      "mnemonic": "Восемьдесят процентов с регби-мячом — exercise regularly, регулярно заниматься спортом."
+    },
+    {
+      "idiom": "spend lots of time indoors",
+      "translation": "проводить много времени в помещении",
+      "example": "In winter people spend lots of time indoors.",
+      "keyword": "индюк",
+      "mnemonic": "Зимой все в индюшачьих пледах — spend lots of time indoors, проводить много времени в помещении."
+    },
+    {
+      "idiom": "go to the most parties",
+      "translation": "ходить на вечеринки чаще всех",
+      "example": "We asked who goes to the most parties in class.",
+      "keyword": "пари",
+      "mnemonic": "Староста держит пари на тусовщика — go to the most parties, ходить на вечеринки чаще всех в классе."
+    },
+    {
+      "idiom": "be the biggest sports fan",
+      "translation": "быть самым большим фанатом спорта",
+      "example": "He is the biggest sports fan in our group.",
+      "keyword": "феномен",
+      "mnemonic": "Феномен с шарфом клуба — be the biggest sports fan, быть самым большим фанатом спорта в группе."
+    },
+    {
+      "idiom": "try the tapas",
+      "translation": "попробовать тапас (испанскую закуску)",
+      "example": "In Spain a bar is an eating place, so try the tapas.",
+      "keyword": "тапочки",
+      "mnemonic": "В баре в тапочках закусывает — try the tapas, попробовать тапас в Испании."
+    }
+  ]
+}

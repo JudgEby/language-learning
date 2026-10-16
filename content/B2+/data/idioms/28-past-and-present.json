@@ -1,0 +1,104 @@
+{
+  "lessonId": "past-and-present",
+  "title": "7D Past and Present — Идиомы: воспоминания",
+  "items": [
+    {
+      "idiom": "a trip down memory lane",
+      "translation": "путешествие по волнам памяти",
+      "example": "The photos took us on a trip down memory lane.",
+      "keyword": "трип",
+      "mnemonic": "Фото отправили в трип-поездку: это путешествие по волнам памяти, — трип гудит a trip down memory lane."
+    },
+    {
+      "idiom": "a blast from the past",
+      "translation": "привет из прошлого",
+      "example": "This song is a real blast from the past.",
+      "keyword": "бласт",
+      "mnemonic": "Песня бахнула как бласт-сигнал: это привет из прошлого, — бласт гремит a blast from the past."
+    },
+    {
+      "idiom": "the good old days",
+      "translation": "старые добрые времена",
+      "example": "In the good old days we played outside all day.",
+      "keyword": "олдс",
+      "mnemonic": "Во дворе гремят олдс-хиты: это старые добрые времена, — олдс ностальгирует the good old days."
+    },
+    {
+      "idiom": "back in the day",
+      "translation": "в своё время",
+      "example": "Back in the day, we wrote letters by hand.",
+      "keyword": "бэк-дэй",
+      "mnemonic": "Письма писали в бэк-дэй эпоху: это было в своё время, — бэк-дэй шелестит back in the day."
+    },
+    {
+      "idiom": "ring a bell",
+      "translation": "звучать знакомо",
+      "example": "That name rings a bell.",
+      "keyword": "белл",
+      "mnemonic": "Имя звякнуло как белл-колокол: оно стало звучать знакомо, — белл звенит ring a bell."
+    },
+    {
+      "idiom": "jog one's memory",
+      "translation": "освежить память",
+      "example": "The smell of paint jogged my memory.",
+      "keyword": "джог",
+      "mnemonic": "Запах краски дал джог-толчок: он смог освежить память, — джог трусит jog one's memory."
+    },
+    {
+      "idiom": "those were the days",
+      "translation": "вот это были времена",
+      "example": "Summer holidays at grandma's — those were the days!",
+      "keyword": "дэйс",
+      "mnemonic": "Каникулы как дэйс-открытка: вот это были времена, — дэйс светит those were the days."
+    },
+    {
+      "idiom": "history repeats itself",
+      "translation": "история повторяется",
+      "example": "Fashion proves that history repeats itself.",
+      "keyword": "хистори",
+      "mnemonic": "Мода крутит хистори-пластинку: история повторяется, — хистори гудит history repeats itself."
+    },
+    {
+      "idiom": "a thing of the past",
+      "translation": "пережиток прошлого",
+      "example": "Phone boxes are a thing of the past.",
+      "keyword": "паст",
+      "mnemonic": "Будки как паст-экспонат: это пережиток прошлого, — паст пылится a thing of the past."
+    },
+    {
+      "idiom": "live in the past",
+      "translation": "жить прошлым",
+      "example": "You can't live in the past forever.",
+      "keyword": "лайв",
+      "mnemonic": "Ворчун завис в лайв-архиве: он стал жить прошлым, — лайв заел live in the past."
+    },
+    {
+      "idiom": "bygones be bygones",
+      "translation": "кто старое помянет...",
+      "example": "Let's forget the quarrel — bygones be bygones.",
+      "keyword": "байгонс",
+      "mnemonic": "Ссору закрыли как байгонс-досье: кто старое помянет, тому вон, — байгонс шуршит bygones be bygones."
+    },
+    {
+      "idiom": "through rose-tinted glasses",
+      "translation": "сквозь розовые очки",
+      "example": "We tend to see childhood through rose-tinted glasses.",
+      "keyword": "роуз",
+      "mnemonic": "Детство видится через роуз-стёкла: это взгляд сквозь розовые очки, — роуз розовеет through rose-tinted glasses."
+    },
+    {
+      "idiom": "the rest is history",
+      "translation": "остальное — история",
+      "example": "They met at school, fell in love, and the rest is history.",
+      "keyword": "рест",
+      "mnemonic": "Встреча перешла в рест-финал: остальное — история, — рест шепчет the rest is history."
+    },
+    {
+      "idiom": "a memory like an elephant",
+      "translation": "отличная память",
+      "example": "She never forgets birthdays — she has a memory like an elephant.",
+      "keyword": "элефант",
+      "mnemonic": "Именинница помнит всё как элефант-хранитель: у неё отличная память, — элефант трубит a memory like an elephant."
+    }
+  ]
+}

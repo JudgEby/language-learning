@@ -2,20 +2,110 @@
   "lessonId": "are-you-free-tonight",
   "title": "Are you free tonight? — новые слова",
   "items": [
-    { "term": "every day", "translation": "каждый день", "example": "Alicia and I go to a café every day after work." },
-    { "term": "once a week", "translation": "раз в неделю", "example": "I do sport with my friends once a week." },
-    { "term": "once a month", "translation": "раз в месяц", "example": "We meet once a month at the cinema." },
-    { "term": "twice a year", "translation": "дважды в год", "example": "We visit my parents twice a year." },
-    { "term": "three times a day", "translation": "три раза в день", "example": "He takes his tablets three times a day." },
-    { "term": "on Fridays", "translation": "по пятницам", "example": "I always feel tired on Fridays." },
-    { "term": "on Monday morning", "translation": "в понедельник утром", "example": "We play football on Sunday morning." },
-    { "term": "make arrangements", "translation": "договариваться, планировать встречу", "example": "Let's make arrangements for Saturday." },
-    { "term": "a cinema", "translation": "кинотеатр", "example": "Which cinema is the film showing at?" },
-    { "term": "a concert", "translation": "концерт", "example": "There's a concert in the park this weekend." },
-    { "term": "a club", "translation": "клуб", "example": "We sometimes go to a club after work." },
-    { "term": "be showing", "translation": "идти (о фильме)", "example": "Where is the new film showing?" },
-    { "term": "meet up", "translation": "встретиться", "example": "Let's meet up at half past five." },
-    { "term": "be a shame", "translation": "быть жаль", "example": "You can't come? That's a shame!" },
-    { "term": "a good listener", "translation": "хороший слушатель", "example": "Max is a good listener — he never interrupts." }
+    {
+      "term": "every day",
+      "translation": "каждый день",
+      "example": "Alicia and I go to a café every day after work.",
+      "keyword": "дэй",
+      "mnemonic": "Петух кричит «дэй» каждое утро — это every day, каждый день."
+    },
+    {
+      "term": "once a week",
+      "translation": "раз в неделю",
+      "example": "I do sport with my friends once a week.",
+      "keyword": "уик",
+      "mnemonic": "Сова ухает «уик» раз в неделю — это once a week."
+    },
+    {
+      "term": "once a month",
+      "translation": "раз в месяц",
+      "example": "We meet once a month at the cinema.",
+      "keyword": "манжета",
+      "mnemonic": "Клерк пишет на манжете даты — встреча once a month, раз в месяц."
+    },
+    {
+      "term": "twice a year",
+      "translation": "дважды в год",
+      "example": "We visit my parents twice a year.",
+      "keyword": "твикс",
+      "mnemonic": "Бабушка делит твикс на две части — видимся twice a year, дважды в год."
+    },
+    {
+      "term": "three times a day",
+      "translation": "три раза в день",
+      "example": "He takes his tablets three times a day.",
+      "keyword": "таймер",
+      "mnemonic": "Медсестра ставит таймер трижды в день — таблетки three times a day, три раза в день."
+    },
+    {
+      "term": "on Fridays",
+      "translation": "по пятницам",
+      "example": "I always feel tired on Fridays.",
+      "keyword": "фрай",
+      "mnemonic": "Повар жарит фрай по пятницам — встреча on Fridays."
+    },
+    {
+      "term": "on Monday morning",
+      "translation": "в понедельник утром",
+      "example": "We play football on Sunday morning.",
+      "keyword": "мандарин",
+      "mnemonic": "Дворник жонглирует мандарином в понедельник утром — смена on Monday morning."
+    },
+    {
+      "term": "make arrangements",
+      "translation": "договариваться, планировать встречу",
+      "example": "Let's make arrangements for Saturday.",
+      "keyword": "ранчо",
+      "mnemonic": "Ковбои делят ранчо у костра — они make arrangements, договариваются."
+    },
+    {
+      "term": "a cinema",
+      "translation": "кинотеатр",
+      "example": "Which cinema is the film showing at?",
+      "keyword": "синема",
+      "mnemonic": "Кассир кричит «синема открыта» — это a cinema, кинотеатр."
+    },
+    {
+      "term": "a concert",
+      "translation": "концерт",
+      "example": "There's a concert in the park this weekend.",
+      "keyword": "конус",
+      "mnemonic": "Дирижёр дирижирует конусом — это a concert, концерт."
+    },
+    {
+      "term": "a club",
+      "translation": "клуб",
+      "example": "We sometimes go to a club after work.",
+      "keyword": "клубок",
+      "mnemonic": "Бабушка мотает клубок у входа — там a club, клуб."
+    },
+    {
+      "term": "be showing",
+      "translation": "идти (о фильме)",
+      "example": "Where is the new film showing?",
+      "keyword": "шоу",
+      "mnemonic": "Клоун ведёт шоу на экране — фильм be showing, идёт."
+    },
+    {
+      "term": "meet up",
+      "translation": "встретиться",
+      "example": "Let's meet up at half past five.",
+      "keyword": "мёд",
+      "mnemonic": "Друзья липнут к мёду на лавочке — они meet up, встретились."
+    },
+    {
+      "term": "be a shame",
+      "translation": "быть жаль",
+      "example": "You can't come? That's a shame!",
+      "keyword": "шаман",
+      "mnemonic": "Шаман бьёт в бубен от досады — это be a shame, жаль."
+    },
+    {
+      "term": "a good listener",
+      "translation": "хороший слушатель",
+      "example": "Max is a good listener — he never interrupts.",
+      "keyword": "лист",
+      "mnemonic": "Сова притворилась листом и слушает — он a good listener, хороший слушатель."
+    }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "lessonId": "the-great-impostor",
+  "title": "The great impostor — история самозванца",
+  "items": [
+    {
+      "idiom": "pretend to be a doctor",
+      "translation": "притворяться врачом",
+      "example": "He pretended to be a doctor on a ship during the war.",
+      "keyword": "претензия",
+      "mnemonic": "Аферист с претензией на халат — pretend to be a doctor, притворяться врачом на корабле в войну."
+    },
+    {
+      "idiom": "pretend to be someone else",
+      "translation": "притворяться другим человеком",
+      "example": "An impostor is someone who pretends to be someone else to trick people.",
+      "keyword": "эльф",
+      "mnemonic": "Самозванец-эльф в человечьем — pretend to be someone else, притворяться другим человеком, дурит людей."
+    },
+    {
+      "idiom": "pull out a bad tooth",
+      "translation": "вырвать больной зуб",
+      "example": "He cured their illnesses and pulled out bad teeth.",
+      "keyword": "тушь",
+      "mnemonic": "Коновал с тушью вместо наркоза — pull out a bad tooth, вырвать больной зуб, лечил болезни."
+    },
+    {
+      "idiom": "spend six months in prison",
+      "translation": "провести шесть месяцев в тюрьме",
+      "example": "The police caught him and he spent six months in prison.",
+      "keyword": "пристань",
+      "mnemonic": "Мошенник на пристани в наручниках — spend six months in prison, провести шесть месяцев в тюрьме, поймала полиция."
+    },
+    {
+      "idiom": "be arrested for a crime",
+      "translation": "быть арестованным за преступление",
+      "example": "Later the police arrested him for a different crime.",
+      "keyword": "артист",
+      "mnemonic": "Артист-аферист в участке — be arrested for a crime, быть арестованным за преступление другое."
+    },
+    {
+      "idiom": "appear in a film",
+      "translation": "сняться в фильме",
+      "example": "He appeared in a 1960 film to make some money.",
+      "keyword": "эполеты",
+      "mnemonic": "Мошенник в эполетах статиста — appear in a film, сняться в фильме 60-го ради денег."
+    },
+    {
+      "idiom": "make a film of someone's life",
+      "translation": "снять фильм о чьей-то жизни",
+      "example": "Hollywood made a film of Demara's life in 1961.",
+      "keyword": "лайфхак",
+      "mnemonic": "Голливуд с лайфхаком Демары — make a film of someone's life, снять фильм о чьей-то жизни в 61-м."
+    }
+  ]
+}

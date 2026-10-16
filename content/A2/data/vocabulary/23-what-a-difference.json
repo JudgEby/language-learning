@@ -2,25 +2,145 @@
   "lessonId": "what-a-difference",
   "title": "What a difference! — новые слова",
   "items": [
-    { "term": "wear / wear something", "translation": "носить (одежду)", "example": "She is wearing make-up and a new dress." },
-    { "term": "look like", "translation": "выглядеть как", "example": "He looks like his father." },
-    { "term": "appearance", "translation": "внешность", "example": "He changes his appearance for every film." },
-    { "term": "make-up", "translation": "макияж", "example": "Is she wearing make-up?" },
-    { "term": "a suit", "translation": "костюм", "example": "He usually wears a suit to work." },
-    { "term": "a tie", "translation": "галстук", "example": "Men wear ties in the office but Sam isn't wearing one today." },
-    { "term": "jeans", "translation": "джинсы", "example": "I'm wearing jeans and a T-shirt today." },
-    { "term": "trousers", "translation": "брюки", "example": "Walkers don't usually wear a suit — they wear trousers and walking jackets." },
-    { "term": "a T-shirt", "translation": "футболка", "example": "A T-shirt, jeans and trainers — his favourite clothes." },
-    { "term": "trainers", "translation": "кроссовки", "example": "These trainers are more comfortable than shoes." },
-    { "term": "boots", "translation": "ботинки", "example": "Jenny is wearing boots because it's cold." },
-    { "term": "sandals", "translation": "сандалии, босоножки", "example": "Sandals are dangerous on a country walk." },
-    { "term": "shorts", "translation": "шорты", "example": "I never wear shorts to work." },
-    { "term": "a sweater", "translation": "свитер", "example": "Put on a sweater — it's cold outside." },
-    { "term": "a jacket", "translation": "куртка, пиджак", "example": "Walkers usually wear walking jackets." },
-    { "term": "a shirt", "translation": "рубашка", "example": "I'm wearing a grey shirt today." },
-    { "term": "sunglasses", "translation": "солнцезащитные очки", "example": "He's wearing sunglasses and most businessmen don't." },
-    { "term": "a backpack", "translation": "рюкзак", "example": "You need a backpack, not a suitcase, on a country walk." },
-    { "term": "glasses", "translation": "очки", "example": "My grandmother wears glasses for reading." },
-    { "term": "a job interview", "translation": "собеседование на работу", "example": "I usually wear a black suit to a job interview." }
+    {
+      "term": "wear / wear something",
+      "translation": "носить (одежду)",
+      "example": "She is wearing make-up and a new dress.",
+      "keyword": "веер",
+      "mnemonic": "Модница машет веером и носит платье — she wears it."
+    },
+    {
+      "term": "look like",
+      "translation": "выглядеть как",
+      "example": "He looks like his father.",
+      "keyword": "лук",
+      "mnemonic": "Парень с луком выглядит как Робин Гуд — he looks like him."
+    },
+    {
+      "term": "appearance",
+      "translation": "внешность",
+      "example": "He changes his appearance for every film.",
+      "keyword": "апельсин",
+      "mnemonic": "Актёр жонглирует апельсином и меняет внешность — это appearance."
+    },
+    {
+      "term": "make-up",
+      "translation": "макияж",
+      "example": "Is she wearing make-up?",
+      "keyword": "мейк",
+      "mnemonic": "Визажист делает мейк — это make-up, макияж."
+    },
+    {
+      "term": "a suit",
+      "translation": "костюм",
+      "example": "He usually wears a suit to work.",
+      "keyword": "салют",
+      "mnemonic": "Артист в костюме даёт салют — это a suit."
+    },
+    {
+      "term": "a tie",
+      "translation": "галстук",
+      "example": "Men wear ties in the office but Sam isn't wearing one today.",
+      "keyword": "тай",
+      "mnemonic": "Воин кричит «тай» и поправляет галстук — это a tie."
+    },
+    {
+      "term": "jeans",
+      "translation": "джинсы",
+      "example": "I'm wearing jeans and a T-shirt today.",
+      "keyword": "джинн",
+      "mnemonic": "Джинн вылез из джинсов — вот jeans."
+    },
+    {
+      "term": "trousers",
+      "translation": "брюки",
+      "example": "Walkers don't usually wear a suit — they wear trousers and walking jackets.",
+      "keyword": "трусы",
+      "mnemonic": "Турист натянул трусы поверх брюк — это trousers."
+    },
+    {
+      "term": "a T-shirt",
+      "translation": "футболка",
+      "example": "A T-shirt, jeans and trainers — his favourite clothes.",
+      "keyword": "тишка",
+      "mnemonic": "Кот Тишка растянул футболку — это a T-shirt."
+    },
+    {
+      "term": "trainers",
+      "translation": "кроссовки",
+      "example": "These trainers are more comfortable than shoes.",
+      "keyword": "тренер",
+      "mnemonic": "Тренер топает кроссовками — это trainers."
+    },
+    {
+      "term": "boots",
+      "translation": "ботинки",
+      "example": "Jenny is wearing boots because it's cold.",
+      "keyword": "бутсы",
+      "mnemonic": "Футболист греет бутсы у печки — это boots, ботинки."
+    },
+    {
+      "term": "sandals",
+      "translation": "сандалии, босоножки",
+      "example": "Sandals are dangerous on a country walk.",
+      "keyword": "сандал",
+      "mnemonic": "Дерево сандал обули в сандалии — вот sandals."
+    },
+    {
+      "term": "shorts",
+      "translation": "шорты",
+      "example": "I never wear shorts to work.",
+      "keyword": "шорох",
+      "mnemonic": "Шорох в шортах напугал офис — это shorts."
+    },
+    {
+      "term": "a sweater",
+      "translation": "свитер",
+      "example": "Put on a sweater — it's cold outside.",
+      "keyword": "свист",
+      "mnemonic": "Судья свистит и кутается в свитер — это a sweater."
+    },
+    {
+      "term": "a jacket",
+      "translation": "куртка, пиджак",
+      "example": "Walkers usually wear walking jackets.",
+      "keyword": "джек",
+      "mnemonic": "Джек натянул куртку — это a jacket."
+    },
+    {
+      "term": "a shirt",
+      "translation": "рубашка",
+      "example": "I'm wearing a grey shirt today.",
+      "keyword": "шёпот",
+      "mnemonic": "Шёпот в рубашке крадётся мимо — это a shirt."
+    },
+    {
+      "term": "sunglasses",
+      "translation": "солнцезащитные очки",
+      "example": "He's wearing sunglasses and most businessmen don't.",
+      "keyword": "санглаз",
+      "mnemonic": "Глаз в санглазах прячется от солнца — это sunglasses, очки."
+    },
+    {
+      "term": "a backpack",
+      "translation": "рюкзак",
+      "example": "You need a backpack, not a suitcase, on a country walk.",
+      "keyword": "пак",
+      "mnemonic": "Турист тащит огромный пак — это a backpack, рюкзак."
+    },
+    {
+      "term": "glasses",
+      "translation": "очки",
+      "example": "My grandmother wears glasses for reading.",
+      "keyword": "глаз",
+      "mnemonic": "Бабушкин глаз в очках читает — это glasses."
+    },
+    {
+      "term": "a job interview",
+      "translation": "собеседование на работу",
+      "example": "I usually wear a black suit to a job interview.",
+      "keyword": "интервью",
+      "mnemonic": "Кандидат даёт интервью на собеседовании — это a job interview."
+    }
   ]
 }

@@ -2,17 +2,89 @@
   "lessonId": "neighbours",
   "title": "Neighbours — новые слова",
   "items": [
-    { "term": "neighbour", "translation": "сосед", "example": "My neighbour is very friendly." },
-    { "term": "neighbourhood", "translation": "район, соседство", "example": "It's a quiet neighbourhood with nice parks." },
-    { "term": "community", "translation": "сообщество", "example": "There is a strong sense of community here." },
-    { "term": "get on well with", "translation": "ладить с", "example": "I get on well with my neighbours." },
-    { "term": "mind my own business", "translation": "заниматься своим делом", "example": "I prefer to mind my own business." },
-    { "term": "nosy", "translation": "любопытный (слишком)", "example": "My neighbour is very nosy." },
-    { "term": "get on my nerves", "translation": "действовать на нервы", "example": "His loud music gets on my nerves." },
-    { "term": "nuisance", "translation": "неприятность, помеха", "example": "The dog next door is a real nuisance." },
-    { "term": "keep myself to myself", "translation": "держаться особняком", "example": "I like to keep myself to myself." },
-    { "term": "make friends with", "translation": "подружиться с", "example": "We made friends with our neighbours immediately." },
-    { "term": "get to know", "translation": "узнать (познакомиться)", "example": "It took time to get to know our neighbours." },
-    { "term": "fall out with", "translation": "поссориться с", "example": "I fell out with my neighbour over a parking space." }
+    {
+      "term": "neighbour",
+      "translation": "сосед",
+      "example": "My neighbour is very friendly.",
+      "keyword": "нейба",
+      "mnemonic": "Нейба-дружелюбный за забором: my neighbour — сосед очень дружелюбный."
+    },
+    {
+      "term": "neighbourhood",
+      "translation": "район, соседство",
+      "example": "It's a quiet neighbourhood with nice parks.",
+      "keyword": "нейбахуд",
+      "mnemonic": "Нейбахуд-парк тихий: quiet neighbourhood — район и соседство с парками."
+    },
+    {
+      "term": "community",
+      "translation": "сообщество",
+      "example": "There is a strong sense of community here.",
+      "keyword": "комьюнити",
+      "mnemonic": "Комьюнити-двор гудит: strong community — сообщество крепкое здесь."
+    },
+    {
+      "term": "get on well with",
+      "translation": "ладить с",
+      "example": "I get on well with my neighbours.",
+      "keyword": "гет, он",
+      "mnemonic": "Гет-он с соседями дружит: I get on well — лажу с соседями отлично."
+    },
+    {
+      "term": "mind my own business",
+      "translation": "заниматься своим делом",
+      "example": "I prefer to mind my own business.",
+      "keyword": "майнд, бизнес",
+      "mnemonic": "Майнд-бизнес за закрытой дверью: I mind my own business — занимаюсь своим делом."
+    },
+    {
+      "term": "nosy",
+      "translation": "любопытный (слишком)",
+      "example": "My neighbour is very nosy.",
+      "keyword": "ноузи",
+      "mnemonic": "Ноузи-нос через забор: neighbour is nosy — любопытный слишком сосед."
+    },
+    {
+      "term": "get on my nerves",
+      "translation": "действовать на нервы",
+      "example": "His loud music gets on my nerves.",
+      "keyword": "нёрвс",
+      "mnemonic": "Нёрвс-музыка орёт: it gets on my nerves — действует на нервы громкая музыка."
+    },
+    {
+      "term": "nuisance",
+      "translation": "неприятность, помеха",
+      "example": "The dog next door is a real nuisance.",
+      "keyword": "ньюсенс",
+      "mnemonic": "Ньюсенс-пёс лает: dog is a nuisance — неприятность и помеха соседская."
+    },
+    {
+      "term": "keep myself to myself",
+      "translation": "держаться особняком",
+      "example": "I like to keep myself to myself.",
+      "keyword": "кип, майселф",
+      "mnemonic": "Кип-майселф-тихоня в углу: I keep myself — держусь особняком, тихо живу."
+    },
+    {
+      "term": "make friends with",
+      "translation": "подружиться с",
+      "example": "We made friends with our neighbours immediately.",
+      "keyword": "мейк, френдс",
+      "mnemonic": "Мейк-френдс сразу у калитки: we made friends — подружились с соседями мгновенно."
+    },
+    {
+      "term": "get to know",
+      "translation": "узнать (познакомиться)",
+      "example": "It took time to get to know our neighbours.",
+      "keyword": "гет, ноу",
+      "mnemonic": "Гет-ноу-знакомство неспешно: took time to get to know — узнать и познакомиться с соседями."
+    },
+    {
+      "term": "fall out with",
+      "translation": "поссориться с",
+      "example": "I fell out with my neighbour over a parking space.",
+      "keyword": "фол, аут",
+      "mnemonic": "Фол-аут из-за парковки: I fell out — поссорился с соседом из-за места."
+    }
   ]
 }

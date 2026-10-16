@@ -1,0 +1,55 @@
+{
+  "lessonId": "what-should-i-do",
+  "title": "What should I do? — идиомы",
+  "items": [
+    {
+      "idiom": "re-read articles",
+      "translation": "перечитывать статьи",
+      "example": "I re-read articles we use in class every weekend.",
+      "keyword": "артишок",
+      "mnemonic": "Зубрила с артишоком под мышкой — re-read articles, перечитывать статьи каждые выходные."
+    },
+    {
+      "idiom": "watch films with subtitles",
+      "translation": "смотреть фильмы с субтитрами",
+      "example": "I watch films with subtitles to learn new words.",
+      "keyword": "сапоги",
+      "mnemonic": "Киноман в сапогах с попкорном — watch films with subtitles, смотреть фильмы с субтитрами ради слов."
+    },
+    {
+      "idiom": "go online to read the news",
+      "translation": "выходить в интернет, чтобы читать новости",
+      "example": "She goes online to read the news in English.",
+      "keyword": "оленина",
+      "mnemonic": "С олениной у монитора — go online to read the news, выходить в интернет, чтобы читать новости на английском."
+    },
+    {
+      "idiom": "note down new phrases",
+      "translation": "записывать новые фразы",
+      "example": "I note down new phrases in my notebook.",
+      "keyword": "нота",
+      "mnemonic": "С нотой в блокноте бегает — note down new phrases, записывать новые фразы в тетрадь."
+    },
+    {
+      "idiom": "use message boards",
+      "translation": "пользоваться форумами, досками сообщений",
+      "example": "You should use message boards to make new friends.",
+      "keyword": "борщ",
+      "mnemonic": "С борщом на форуме флудит — use message boards, пользоваться форумами, чтобы найти друзей."
+    },
+    {
+      "idiom": "make mistakes",
+      "translation": "делать ошибки",
+      "example": "It does not matter if you make mistakes when you chat online.",
+      "keyword": "мостик",
+      "mnemonic": "Болтун с мостика в чат падает — make mistakes, делать ошибки, не страшно в сети."
+    },
+    {
+      "idiom": "use graded readers",
+      "translation": "читать адаптированные книги",
+      "example": "Why do you not use graded readers to learn new words?",
+      "keyword": "редиска",
+      "mnemonic": "Лентяй с редиской вместо книги — use graded readers, читать адаптированные книги ради слов."
+    }
+  ]
+}

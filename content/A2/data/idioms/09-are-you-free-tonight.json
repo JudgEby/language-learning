@@ -1,0 +1,55 @@
+{
+  "lessonId": "are-you-free-tonight",
+  "title": "Are you free tonight? — идиомы",
+  "items": [
+    {
+      "idiom": "Are you doing anything on Friday?",
+      "translation": "Ты что-нибудь делаешь в пятницу?",
+      "example": "Are you doing anything on Friday evening?",
+      "keyword": "фритюр",
+      "mnemonic": "В пятницу жарят фритюр: are you doing anything on Friday — ты что делаешь в пятницу."
+    },
+    {
+      "idiom": "fancy going to the cinema?",
+      "translation": "не хочешь пойти в кино?",
+      "example": "Fancy going to the cinema tonight?",
+      "keyword": "фанера",
+      "mnemonic": "С фанерой вместо билета зовут fancy going to the cinema — не хочешь в кино."
+    },
+    {
+      "idiom": "I'd love to, but I work late",
+      "translation": "С удовольствием, но я допоздна на работе",
+      "example": "I'd love to, but I work late tonight.",
+      "keyword": "лавка",
+      "mnemonic": "Продавец на лавке вздыхает I'd love to, but I work late — с удовольствием, но я допоздна на работе."
+    },
+    {
+      "idiom": "See you at seven",
+      "translation": "Увидимся в семь",
+      "example": "See you at seven outside the cinema.",
+      "keyword": "север",
+      "mnemonic": "Встреча на севере в семь: see you at seven — увидимся в семь."
+    },
+    {
+      "idiom": "be running late",
+      "translation": "опаздывать",
+      "example": "I am running late, start without me!",
+      "keyword": "ранчо",
+      "mnemonic": "Опаздываю, скачу как на ранчо: be running late — опаздывать."
+    },
+    {
+      "idiom": "cancel plans",
+      "translation": "отменить планы",
+      "example": "We had to cancel our plans last night.",
+      "keyword": "канцелярия",
+      "mnemonic": "Планы рвут в канцелярии: cancel plans — отменить планы."
+    },
+    {
+      "idiom": "a night out",
+      "translation": "вечер вне дома, развлечения",
+      "example": "Let's have a night out on Saturday.",
+      "keyword": "ночка",
+      "mnemonic": "Ночка вне дома: a night out — вечер развлечений."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "lessonId": "spend-or-save",
+  "title": "8C Spend or Save? — Фразы для дискуссии",
+  "items": [
+    {
+      "phrase": "Frankly, I think",
+      "translation": "честно говоря, я думаю",
+      "example": "Frankly, I think the idea of never going on holiday is crazy.",
+      "keyword": "франк",
+      "mnemonic": "Эксперт швырнул франк на стол: честно говоря, я думаю отпуск отменять глупо, — франк звенит Frankly, I think."
+    },
+    {
+      "phrase": "As I see it",
+      "translation": "как я это вижу",
+      "example": "As I see it, the future is completely unpredictable.",
+      "keyword": "си",
+      "mnemonic": "Мудрец жмёт ноту си и вещает: как я это вижу, будущее непредсказуемо, — си звучит As I see it."
+    },
+    {
+      "phrase": "I dare say",
+      "translation": "осмелюсь сказать",
+      "example": "I dare say most young people could save a small amount monthly.",
+      "keyword": "дар",
+      "mnemonic": "Оратор преподнёс дар красноречия: осмелюсь сказать, молодёжь накопит, — дар блестит I dare say."
+    },
+    {
+      "phrase": "It seems to me that",
+      "translation": "мне кажется, что",
+      "example": "It seems to me that saving young is the smartest move.",
+      "keyword": "симс",
+      "mnemonic": "Игра симс подсказала: мне кажется, что копить смолоду умно, — симс жужжит It seems to me that."
+    },
+    {
+      "phrase": "That makes two of us",
+      "translation": "нас уже двое (у меня так же)",
+      "example": "I am hopeless at saving. That makes two of us.",
+      "keyword": "тушь",
+      "mnemonic": "Неудачники мажут тушь и ноют: нас уже двое в неумении копить, — тушь течёт That makes two of us."
+    },
+    {
+      "phrase": "I can see what you're saying",
+      "translation": "понимаю, о чём ты",
+      "example": "I can see what you're saying. That makes sense to me.",
+      "keyword": "сей",
+      "mnemonic": "Переводчик кричит «сей!»: я понимаю, о чём ты, это логично, — сей ловит I can see what you're saying."
+    },
+    {
+      "phrase": "I'm with Alina here",
+      "translation": "я тут согласен с Алиной",
+      "example": "I'm with Alina here. We should plan for the future.",
+      "keyword": "виз",
+      "mnemonic": "Зал загудел «виз!» в поддержку: я тут согласен с Алиной про план, — виз гремит I'm with Alina here."
+    },
+    {
+      "phrase": "The other side of the coin is that",
+      "translation": "обратная сторона в том, что",
+      "example": "Saving is wise, but the other side of the coin is that life is short.",
+      "keyword": "коин",
+      "mnemonic": "Монета-коин упала решкой: обратная сторона в том, что жизнь коротка, — коин звенит The other side of the coin is that."
+    },
+    {
+      "phrase": "One way of looking at it",
+      "translation": "один взгляд на это",
+      "example": "I guess that's one way of looking at it, but I disagree.",
+      "keyword": "лук",
+      "mnemonic": "Критик навёл лук-взгляд: это один взгляд на это, но я не согласен, — лук целит One way of looking at it."
+    },
+    {
+      "phrase": "On the other hand",
+      "translation": "с другой стороны",
+      "example": "Spending is fun. On the other hand, debts grow fast.",
+      "keyword": "хэнд",
+      "mnemonic": "Долги жмут хэнд-капкан: а с другой стороны траты растут, — хэнд дёргает On the other hand."
+    },
+    {
+      "phrase": "Another way of looking at things",
+      "translation": "другой взгляд на вещи",
+      "example": "Another way of looking at things is that balance matters most.",
+      "keyword": "сфинкс",
+      "mnemonic": "Сфинкс загадал загадку: вот другой взгляд на вещи, важен баланс, — сфинкс молчит Another way of looking at things."
+    },
+    {
+      "phrase": "It's been great talking to you",
+      "translation": "было здорово поговорить",
+      "example": "Well, it's been great talking to you about money today.",
+      "keyword": "грейт",
+      "mnemonic": "Собеседник ставит оценку грейт: было здорово поговорить о деньгах, — грейт сияет It's been great talking to you."
+    },
+    {
+      "phrase": "We'll never agree",
+      "translation": "нам не договориться",
+      "example": "I don't think we'll ever agree on saving versus spending.",
+      "keyword": "агри",
+      "mnemonic": "Спорщики рычат «агри-нет!»: нам не договориться о тратах, — агри гудит We'll never agree."
+    },
+    {
+      "phrase": "We're all different",
+      "translation": "мы все разные",
+      "example": "We'll never agree, but I guess we're all different.",
+      "keyword": "дифер",
+      "mnemonic": "Машины гудят на дифере: мы все разные и не сойдёмся, — дифер крутит We're all different."
+    },
+    {
+      "phrase": "We seem to have similar ideas",
+      "translation": "у нас похожие взгляды",
+      "example": "It's surprising. We seem to have quite similar ideas.",
+      "keyword": "семинар",
+      "mnemonic": "На семинаре выяснилось: у нас похожие взгляды, вот сюрприз, — семинар шумит We seem to have similar ideas."
+    },
+    {
+      "phrase": "live in the moment",
+      "translation": "жить моментом",
+      "example": "I'm all for living in the moment and enjoying life.",
+      "keyword": "лайв",
+      "mnemonic": "Блогер вышел в лайв: он любит жить моментом и кайфовать, — лайв стримит live in the moment."
+    },
+    {
+      "phrase": "work hard, play hard",
+      "translation": "работать и гулять на полную",
+      "example": "My motto is work hard, play hard, and enjoy your salary.",
+      "keyword": "хард",
+      "mnemonic": "Девиз записан на хард-диске: работать и гулять на полную, — хард гудит work hard, play hard."
+    }
+  ]
+}

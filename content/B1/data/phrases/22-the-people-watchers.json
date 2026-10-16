@@ -2,13 +2,61 @@
   "lessonId": "the-people-watchers",
   "title": "The People Watchers — фразы",
   "items": [
-    { "phrase": "If I were you, I'd …", "translation": "На твоём месте я бы …", "example": "If I were you, I'd ask a lot of questions first." },
-    { "phrase": "What would you do if …?", "translation": "Что бы ты сделал(а), если бы …?", "example": "What would you do if you lost your keys?" },
-    { "phrase": "If I had more time, I'd …", "translation": "Если бы у меня было больше времени, я бы …", "example": "If I had more time, I'd learn to play the guitar." },
-    { "phrase": "… wouldn't … if …", "translation": "… не делал бы …, если бы …", "example": "I wouldn't worry if I were you." },
-    { "phrase": "Would you … if …?", "translation": "Вы бы …, если бы …?", "example": "Would you tell the police if you saw a crime?" },
-    { "phrase": "If I could … I'd …", "translation": "Если бы я мог …, я бы …", "example": "If I could speak perfect English, I'd move to London." },
-    { "phrase": "What if …?", "translation": "А что если …?", "example": "What if you won the lottery?" },
-    { "phrase": "I'd … if I got the chance", "translation": "Я бы …, если бы представилась возможность", "example": "I'd travel the world if I got the chance." }
+    {
+      "phrase": "If I were you, I'd …",
+      "translation": "На твоём месте я бы …",
+      "example": "If I were you, I'd ask a lot of questions first.",
+      "keyword": "вэрью",
+      "mnemonic": "Вэр-ю-совет: if I were you — на твоём месте я бы спросил сначала."
+    },
+    {
+      "phrase": "What would you do if …?",
+      "translation": "Что бы ты сделал(а), если бы …?",
+      "example": "What would you do if you lost your keys?",
+      "keyword": "вудью",
+      "mnemonic": "Вуд-ю-ключи потеряны: what would you do if — что бы ты сделал, если бы потерял ключи?"
+    },
+    {
+      "phrase": "If I had more time, I'd …",
+      "translation": "Если бы у меня было больше времени, я бы …",
+      "example": "If I had more time, I'd learn to play the guitar.",
+      "keyword": "хэдмор",
+      "mnemonic": "Хэд-мор-гитара ждёт: if I had more time — если бы было больше времени, выучил бы гитару."
+    },
+    {
+      "phrase": "… wouldn't … if …",
+      "translation": "… не делал бы …, если бы …",
+      "example": "I wouldn't worry if I were you.",
+      "keyword": "вуднт",
+      "mnemonic": "Вуднт-вори напрасно: I wouldn't worry if I were you — не делал бы, не волновался на твоём месте."
+    },
+    {
+      "phrase": "Would you … if …?",
+      "translation": "Вы бы …, если бы …?",
+      "example": "Would you tell the police if you saw a crime?",
+      "keyword": "вудью",
+      "mnemonic": "Вуд-ю-полиция рядом: would you tell police if — вы бы сказали полиции, если бы видели кражу?"
+    },
+    {
+      "phrase": "If I could … I'd …",
+      "translation": "Если бы я мог …, я бы …",
+      "example": "If I could speak perfect English, I'd move to London.",
+      "keyword": "кудайд",
+      "mnemonic": "Куд-айд-Лондон манит: if I could speak I'd move — если бы я мог говорить идеально, переехал бы."
+    },
+    {
+      "phrase": "What if …?",
+      "translation": "А что если …?",
+      "example": "What if you won the lottery?",
+      "keyword": "вотиф",
+      "mnemonic": "Вот-иф-лотерея: what if you won — а что если выиграл бы лотерею?"
+    },
+    {
+      "phrase": "I'd … if I got the chance",
+      "translation": "Я бы …, если бы представилась возможность",
+      "example": "I'd travel the world if I got the chance.",
+      "keyword": "чанс",
+      "mnemonic": "Чанс-кругосветка: I'd travel if I got the chance — я бы поехал, если бы представилась возможность."
+    }
   ]
 }

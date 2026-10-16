@@ -2,15 +2,75 @@
   "lessonId": "my-worst-week",
   "title": "My Worst Week — новые слова",
   "items": [
-    { "term": "memorable", "translation": "запоминающийся", "example": "That was one of the most memorable days of my life." },
-    { "term": "nightmare", "translation": "кошмар", "example": "The week before the wedding was a complete nightmare." },
-    { "term": "embarrassing", "translation": "неловкий, смущающий", "example": "The most embarrassing thing happened to me yesterday." },
-    { "term": "delighted", "translation": "восхищённый, очень довольный", "example": "I was absolutely delighted when I heard the news." },
-    { "term": "shocked", "translation": "шокированный", "example": "I was shocked when I saw the damage to the car." },
-    { "term": "terrified", "translation": "испуганный до смерти", "example": "I was terrified when the dog started barking at me." },
-    { "term": "out of the blue", "translation": "внезапно, как гром среди ясного неба", "example": "My brother phoned me out of the blue." },
-    { "term": "fairy-tale", "translation": "сказка", "example": "I always wanted a fairy-tale wedding." },
-    { "term": "tradition", "translation": "традиция", "example": "The ring has been passed down through generations." },
-    { "term": "surprise", "translation": "сюрприз", "example": "My colleagues organised a surprise party for me." }
+    {
+      "term": "memorable",
+      "translation": "запоминающийся",
+      "example": "That was one of the most memorable days of my life.",
+      "keyword": "меморабл",
+      "mnemonic": "Меморабл-день в рамке: most memorable day — запоминающийся день жизни."
+    },
+    {
+      "term": "nightmare",
+      "translation": "кошмар",
+      "example": "The week before the wedding was a complete nightmare.",
+      "keyword": "найтмэйр",
+      "mnemonic": "Найтмэйр-неделя перед свадьбой: complete nightmare — кошмар, а не неделя."
+    },
+    {
+      "term": "embarrassing",
+      "translation": "неловкий, смущающий",
+      "example": "The most embarrassing thing happened to me yesterday.",
+      "keyword": "эмбаррасинг",
+      "mnemonic": "Эмбаррасинг-падение в лужу: most embarrassing thing — неловкая, смущающая штука вчера."
+    },
+    {
+      "term": "delighted",
+      "translation": "восхищённый, очень довольный",
+      "example": "I was absolutely delighted when I heard the news.",
+      "keyword": "дилайт",
+      "mnemonic": "Дилайт-фейерверк в глазах: I was delighted — восхищённый, очень довольный новостью."
+    },
+    {
+      "term": "shocked",
+      "translation": "шокированный",
+      "example": "I was shocked when I saw the damage to the car.",
+      "keyword": "шокт",
+      "mnemonic": "Шокт-вмятина на бампере: I was shocked — шокированный видом разбитой машины."
+    },
+    {
+      "term": "terrified",
+      "translation": "испуганный до смерти",
+      "example": "I was terrified when the dog started barking at me.",
+      "keyword": "террифайд",
+      "mnemonic": "Террифайд-лай собаки: I was terrified — испуганный до смерти лаем пса."
+    },
+    {
+      "term": "out of the blue",
+      "translation": "внезапно, как гром среди ясного неба",
+      "example": "My brother phoned me out of the blue.",
+      "keyword": "блю",
+      "mnemonic": "Блю-молния среди неба: brother phoned out of the blue — внезапно, как гром среди ясного неба."
+    },
+    {
+      "term": "fairy-tale",
+      "translation": "сказка",
+      "example": "I always wanted a fairy-tale wedding.",
+      "keyword": "ферри, тейл",
+      "mnemonic": "Ферри-тейл-свадьба принцессы: I wanted fairy-tale wedding — сказку, а не банкет."
+    },
+    {
+      "term": "tradition",
+      "translation": "традиция",
+      "example": "The ring has been passed down through generations.",
+      "keyword": "традишн",
+      "mnemonic": "Традишн-кольцо по наследству: the ring is a tradition — традиция, идёт через поколения."
+    },
+    {
+      "term": "surprise",
+      "translation": "сюрприз",
+      "example": "My colleagues organised a surprise party for me.",
+      "keyword": "сюрпрайз",
+      "mnemonic": "Сюрпрайз-торт из коробки: colleagues organised surprise — сюрприз-вечеринку для меня."
+    }
   ]
 }

@@ -2,12 +2,61 @@
   "lessonId": "what-really-happened",
   "title": "What really happened — фразы",
   "items": [
-    { "phrase": "keep up-to-date with the news", "translation": "быть в курсе новостей", "example": "I use my phone to keep up-to-date with the news." },
-    { "phrase": "hear the news", "translation": "услышать новость", "example": "I heard the news about the accident on the radio." },
-    { "phrase": "break a story", "translation": "опубликовать сенсационную новость", "example": "The newspaper broke the story about the scandal." },
-    { "phrase": "make the headlines", "translation": "попасть в заголовки", "example": "The celebrity wedding made the headlines." },
-    { "phrase": "get coverage", "translation": "получить освещение в СМИ", "example": "The event got international coverage." },
-    { "phrase": "be on the run", "translation": "быть в бегах", "example": "The fugitive was on the run for three months." },
-    { "phrase": "in custody", "translation": "под стражей", "example": "The suspect is currently in custody." }
+    {
+      "phrase": "keep up-to-date with the news",
+      "translation": "быть в курсе новостей",
+      "example": "I use my phone to keep up-to-date with the news.",
+      "keyword": "дейт",
+      "mnemonic": "Дейт-новости в телефоне: keep up-to-date — быть в курсе новостей через телефон."
+    },
+    {
+      "phrase": "hear the news",
+      "translation": "услышать новость",
+      "example": "I heard the news about the accident on the radio.",
+      "keyword": "хиар, ньюс",
+      "mnemonic": "Хиар-ньюс из радио: I heard the news — услышал новость про аварию."
+    },
+    {
+      "phrase": "break a story",
+      "translation": "опубликовать сенсационную новость",
+      "example": "The newspaper broke the story about the scandal.",
+      "keyword": "брейк, стори",
+      "mnemonic": "Брейк-стори-сенсация в газете: newspaper broke the story — опубликовала сенсационную новость про скандал."
+    },
+    {
+      "phrase": "make the headlines",
+      "translation": "попасть в заголовки",
+      "example": "The celebrity wedding made the headlines.",
+      "keyword": "хедлайнс",
+      "mnemonic": "Хедлайнс-свадьба гремит: wedding made the headlines — попала в заголовки."
+    },
+    {
+      "phrase": "get coverage",
+      "translation": "получить освещение в СМИ",
+      "example": "The event got international coverage.",
+      "keyword": "кавередж",
+      "mnemonic": "Кавередж-мир смотрит: event got coverage — получила освещение в мировых СМИ."
+    },
+    {
+      "phrase": "be on the run",
+      "translation": "быть в бегах",
+      "example": "The fugitive was on the run for three months.",
+      "keyword": "ран",
+      "mnemonic": "Ран-беглец несётся: fugitive was on the run — был в бегах три месяца."
+    },
+    {
+      "phrase": "in custody",
+      "translation": "под стражей",
+      "example": "The suspect is currently in custody.",
+      "keyword": "кастоди",
+      "mnemonic": "Кастоди-камера закрыта: suspect is in custody — под стражей сидит подозреваемый."
+    },
+    {
+      "phrase": "Where were you when you heard the news?",
+      "translation": "Где ты был, когда услышал новость?",
+      "example": "What was the news story? Where were you when you heard the news?",
+      "keyword": "хиард, ньюс",
+      "mnemonic": "Хиард-ньюс-вопрос в лоб: where were you when you heard — где ты был, когда услышал новость?"
+    }
   ]
 }

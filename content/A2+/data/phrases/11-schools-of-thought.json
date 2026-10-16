@@ -2,13 +2,61 @@
   "lessonId": "schools-of-thought",
   "title": "Schools of thought — фразы",
   "items": [
-    { "phrase": "You have to…", "translation": "Ты должен / нужно…", "example": "You have to arrive at school before 8.30." },
-    { "phrase": "You don't have to…", "translation": "Тебе не обязательно…", "example": "You don't have to bring your own books — the school provides them." },
-    { "phrase": "You mustn't…", "translation": "Нельзя / запрещено…", "example": "You mustn't run in the corridors." },
-    { "phrase": "You can…", "translation": "Можно / ты можешь…", "example": "You can use a calculator in the exam." },
-    { "phrase": "You can't…", "translation": "Нельзя / ты не можешь…", "example": "You can't park your car in front of the school gate." },
-    { "phrase": "Is it compulsory?", "translation": "Это обязательно?", "example": "Is it compulsory to wear a tie with the uniform?" },
-    { "phrase": "There's a rule that…", "translation": "Есть правило, что…", "example": "There's a rule that you must switch off your phone in class." },
-    { "phrase": "It's optional", "translation": "Это по желанию / необязательно", "example": "Attending the after-school club is optional." }
+    {
+      "phrase": "You have to…",
+      "translation": "Ты должен / нужно…",
+      "example": "You have to arrive at school before 8.30.",
+      "keyword": "хавчик",
+      "mnemonic": "Завхоз с хавчиком требует You have to… — Ты должен прийти до полдевятого."
+    },
+    {
+      "phrase": "You don't have to…",
+      "translation": "Тебе не обязательно…",
+      "example": "You don't have to bring your own books — the school provides them.",
+      "keyword": "донат",
+      "mnemonic": "Библиотекарь с донатом успокаивает You don't have to… — Тебе не обязательно тащить книги, школа выдаст."
+    },
+    {
+      "phrase": "You mustn't…",
+      "translation": "Нельзя / запрещено…",
+      "example": "You mustn't run in the corridors.",
+      "keyword": "мамонт",
+      "mnemonic": "Мамонт в коридоре трубит You mustn't… — Нельзя бегать по коридорам."
+    },
+    {
+      "phrase": "You can…",
+      "translation": "Можно / ты можешь…",
+      "example": "You can use a calculator in the exam.",
+      "keyword": "конь",
+      "mnemonic": "Конь с калькулятором разрешает You can… — Можно, ты можешь на экзамене."
+    },
+    {
+      "phrase": "You can't…",
+      "translation": "Нельзя / ты не можешь…",
+      "example": "You can't park your car in front of the school gate.",
+      "keyword": "кент",
+      "mnemonic": "Кент у ворот машет — You can't… — Нельзя, ты не можешь парковаться у ворот."
+    },
+    {
+      "phrase": "Is it compulsory?",
+      "translation": "Это обязательно?",
+      "example": "Is it compulsory to wear a tie with the uniform?",
+      "keyword": "пульс",
+      "mnemonic": "Медсестра щупает пульс — Is it compulsory? — Это обязательно, галстук к форме."
+    },
+    {
+      "phrase": "There's a rule that…",
+      "translation": "Есть правило, что…",
+      "example": "There's a rule that you must switch off your phone in class.",
+      "keyword": "рулет",
+      "mnemonic": "Завуч с рулетом читает There's a rule that… — Есть правило, что телефон выключить в классе."
+    },
+    {
+      "phrase": "It's optional",
+      "translation": "Это по желанию / необязательно",
+      "example": "Attending the after-school club is optional.",
+      "keyword": "опция",
+      "mnemonic": "Физрук с опцией кружков — It's optional, Это по желанию, кружок после школы необязательно."
+    }
   ]
 }

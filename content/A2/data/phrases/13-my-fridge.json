@@ -2,17 +2,89 @@
   "lessonId": "my-fridge",
   "title": "My fridge — фразы",
   "items": [
-    { "phrase": "What do you usually have for breakfast?", "translation": "Что ты обычно ешь на завтрак?", "example": "What do you usually have for breakfast? — Coffee and toast." },
-    { "phrase": "have got some ...", "translation": "есть немного ...", "example": "We've got some pears and some grapes." },
-    { "phrase": "have got any ... ?", "translation": "есть ... ?", "example": "Have you got any tomatoes?" },
-    { "phrase": "there aren't any ...", "translation": "нет никаких ...", "example": "No, there aren't any apples in the fridge." },
-    { "phrase": "a piece of ...", "translation": "кусок ...", "example": "I'd like a piece of cheese and a glass of water." },
-    { "phrase": "a bottle of ...", "translation": "бутылка ...", "example": "There's a bottle of mineral water in the fridge." },
-    { "phrase": "a bag of ...", "translation": "пакет ...", "example": "He bought a bag of rice and a jar of jam." },
-    { "phrase": "a carton of ...", "translation": "пачка ...", "example": "A carton of milk is in the fridge." },
-    { "phrase": "a jar of ...", "translation": "банка ...", "example": "There's a jar of coffee on the table." },
-    { "phrase": "try to be healthy", "translation": "стараться питаться здорово", "example": "André tries to be healthy and to cook at home." },
-    { "phrase": "hate (a food)", "translation": "ненавидеть (что-то из еды)", "example": "I really hate mushrooms, they taste awful." },
-    { "phrase": "like having visitors", "translation": "любить, когда приходят гости", "example": "She likes having visitors and cooking big meals." }
+    {
+      "phrase": "What do you usually have for breakfast?",
+      "translation": "Что ты обычно ешь на завтрак?",
+      "example": "What do you usually have for breakfast? — Coffee and toast.",
+      "keyword": "Рекс",
+      "mnemonic": "Рекс завтракает кофе с тостом: what do you have for breakfast — что ты ешь на завтрак."
+    },
+    {
+      "phrase": "have got some ...",
+      "translation": "есть немного ...",
+      "example": "We've got some pears and some grapes.",
+      "keyword": "самовар",
+      "mnemonic": "В самоваре have got some pears — есть немного груш."
+    },
+    {
+      "phrase": "have got any ... ?",
+      "translation": "есть ... ?",
+      "example": "Have you got any tomatoes?",
+      "keyword": "аниме",
+      "mnemonic": "Аниме про помидоры: have you got any tomatoes — есть помидоры."
+    },
+    {
+      "phrase": "there aren't any ...",
+      "translation": "нет никаких ...",
+      "example": "No, there aren't any apples in the fridge.",
+      "keyword": "аренда",
+      "mnemonic": "В холодильнике аренда пуста: there aren't any apples — нет никаких яблок."
+    },
+    {
+      "phrase": "a piece of ...",
+      "translation": "кусок ...",
+      "example": "I'd like a piece of cheese and a glass of water.",
+      "keyword": "пицца",
+      "mnemonic": "Пицца куском: a piece of cheese — кусок сыра."
+    },
+    {
+      "phrase": "a bottle of ...",
+      "translation": "бутылка ...",
+      "example": "There's a bottle of mineral water in the fridge.",
+      "keyword": "батл",
+      "mnemonic": "Батл за минералку: a bottle of water — бутылка воды."
+    },
+    {
+      "phrase": "a bag of ...",
+      "translation": "пакет ...",
+      "example": "He bought a bag of rice and a jar of jam.",
+      "keyword": "бегемот",
+      "mnemonic": "Бегемот тащит a bag of rice — пакет риса."
+    },
+    {
+      "phrase": "a carton of ...",
+      "translation": "пачка ...",
+      "example": "A carton of milk is in the fridge.",
+      "keyword": "картон",
+      "mnemonic": "Молоко в картоне: a carton of milk — пачка молока."
+    },
+    {
+      "phrase": "a jar of ...",
+      "translation": "банка ...",
+      "example": "There's a jar of coffee on the table.",
+      "keyword": "жар",
+      "mnemonic": "На жаре стоит a jar of coffee — банка кофе."
+    },
+    {
+      "phrase": "try to be healthy",
+      "translation": "стараться питаться здорово",
+      "example": "André tries to be healthy and to cook at home.",
+      "keyword": "Хельга",
+      "mnemonic": "Хельга старается try to be healthy — питаться здорово."
+    },
+    {
+      "phrase": "hate (a food)",
+      "translation": "ненавидеть (что-то из еды)",
+      "example": "I really hate mushrooms, they taste awful.",
+      "keyword": "хейтер",
+      "mnemonic": "Хейтер грибов: hate mushrooms — ненавидеть грибы."
+    },
+    {
+      "phrase": "like having visitors",
+      "translation": "любить, когда приходят гости",
+      "example": "She likes having visitors and cooking big meals.",
+      "keyword": "визит",
+      "mnemonic": "Гости с визитом: like having visitors — любить, когда приходят гости."
+    }
   ]
 }

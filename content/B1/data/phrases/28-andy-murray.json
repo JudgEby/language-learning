@@ -2,13 +2,61 @@
   "lessonId": "andy-murray",
   "title": "Andy Murray — фразы",
   "items": [
-    { "phrase": "I've always wanted to…", "translation": "Я всегда хотел…", "example": "I've always wanted to run a marathon." },
-    { "phrase": "I managed to…", "translation": "Мне удалось…", "example": "I managed to finish the race in under four hours." },
-    { "phrase": "I'm proud of…", "translation": "Я горжусь…", "example": "I'm proud of what I've achieved this year." },
-    { "phrase": "The most important thing was…", "translation": "Самым важным было…", "example": "The most important thing was to keep going." },
-    { "phrase": "It was quite a challenge.", "translation": "Это было непросто.", "example": "Learning Chinese was quite a challenge, but I enjoyed it." },
-    { "phrase": "I've never been able to…", "translation": "Я никогда не мог…", "example": "I've never been able to swim very well." },
-    { "phrase": "One of my biggest achievements is…", "translation": "Одно из моих самых больших достижений…", "example": "One of my biggest achievements is graduating from university." },
-    { "phrase": "What I'm most proud of is…", "translation": "Чем я больше всего горжусь…", "example": "What I'm most proud of is learning to play the piano." }
+    {
+      "phrase": "I've always wanted to…",
+      "translation": "Я всегда хотел…",
+      "example": "I've always wanted to run a marathon.",
+      "keyword": "вон",
+      "mnemonic": "Вон та медаль манит: I've always wanted to… — я всегда хотел пробежать марафон."
+    },
+    {
+      "phrase": "I managed to…",
+      "translation": "Мне удалось…",
+      "example": "I managed to finish the race in under four hours.",
+      "keyword": "менеджер",
+      "mnemonic": "Менеджер финишировал за четыре часа: I managed to… — мне удалось добежать гонку."
+    },
+    {
+      "phrase": "I'm proud of…",
+      "translation": "Я горжусь…",
+      "example": "I'm proud of what I've achieved this year.",
+      "keyword": "пруд",
+      "mnemonic": "Пруд гордится своим отражением: I'm proud of… — я горжусь тем, что сделал за год."
+    },
+    {
+      "phrase": "The most important thing was…",
+      "translation": "Самым важным было…",
+      "example": "The most important thing was to keep going.",
+      "keyword": "импорт",
+      "mnemonic": "Импорт терпения — самое важное: The most important thing was… — самым важным было не сдаваться."
+    },
+    {
+      "phrase": "It was quite a challenge.",
+      "translation": "Это было непросто.",
+      "example": "Learning Chinese was quite a challenge, but I enjoyed it.",
+      "keyword": "челлендж",
+      "mnemonic": "Челлендж с китайским языком: It was quite a challenge — это было непросто, но весело."
+    },
+    {
+      "phrase": "I've never been able to…",
+      "translation": "Я никогда не мог…",
+      "example": "I've never been able to swim very well.",
+      "keyword": "облом",
+      "mnemonic": "Облом с плаванием: I've never been able to… — я никогда не мог хорошо плавать."
+    },
+    {
+      "phrase": "One of my biggest achievements is…",
+      "translation": "Одно из моих самых больших достижений…",
+      "example": "One of my biggest achievements is graduating from university.",
+      "keyword": "ачивка",
+      "mnemonic": "Главная ачивка светится в профиле: One of my biggest achievements is… — одно из моих самых больших достижений — диплом."
+    },
+    {
+      "phrase": "What I'm most proud of is…",
+      "translation": "Чем я больше всего горжусь…",
+      "example": "What I'm most proud of is learning to play the piano.",
+      "keyword": "мост",
+      "mnemonic": "Стоишь на мосту гордости: What I'm most proud of is… — чем я больше всего горжусь, так это пианино."
+    }
   ]
 }

@@ -5,27 +5,79 @@
     {
       "term": "passion",
       "translation": "страсть, увлечение",
-      "example": "She discovered a passion for pottery."
+      "example": "She discovered a passion for pottery.",
+      "keyword": "пассия",
+      "mnemonic": "Открыла страсть к гончарке — новая пассия: discovered a passion for pottery."
     },
     {
       "term": "coincidence",
       "translation": "совпадение",
-      "example": "It was pure coincidence."
+      "example": "It was pure coincidence.",
+      "keyword": "инцидент",
+      "mnemonic": "Чистое совпадение — инцидент с близнецами: pure coincidence."
     },
     {
       "term": "turning point",
       "translation": "переломный момент",
-      "example": "That workshop was a turning point."
+      "example": "That workshop was a turning point.",
+      "keyword": "турник",
+      "mnemonic": "Тот воркшоп стал переломным моментом — подтянулся на турнике: was a turning point."
     },
     {
       "term": "inspiration",
       "translation": "вдохновение",
-      "example": "Nature is her main inspiration."
+      "example": "Nature is her main inspiration.",
+      "keyword": "спираль",
+      "mnemonic": "Природа — её главное вдохновение: закрутило спиралью: main inspiration."
     },
     {
       "term": "hobby",
       "translation": "хобби",
-      "example": "His hobby became a career."
+      "example": "His hobby became a career.",
+      "keyword": "обида",
+      "mnemonic": "Хобби стало карьерой — без обид: his hobby became a career."
+    },
+    {
+      "term": "surgeon",
+      "translation": "хирург",
+      "example": "He trained as a successful surgeon.",
+      "keyword": "сержант",
+      "mnemonic": "Выучился на успешного хирурга — служил сержантом: trained as a surgeon."
+    },
+    {
+      "term": "lightning",
+      "translation": "молния",
+      "example": "He was struck by lightning.",
+      "keyword": "лайтер",
+      "mnemonic": "Его ударила молния — щёлкнул лайтер: struck by lightning."
+    },
+    {
+      "term": "piano",
+      "translation": "пианино",
+      "example": "He started playing the piano at night.",
+      "keyword": "пианист",
+      "mnemonic": "Начал играть на пианино по ночам — сосед-пианист: playing the piano."
+    },
+    {
+      "term": "sheet music",
+      "translation": "ноты",
+      "example": "He bought sheet music of famous pieces.",
+      "keyword": "щит",
+      "mnemonic": "Купил ноты знаменитых пьес — прикрылся щитом: bought sheet music, ноты."
+    },
+    {
+      "term": "melody",
+      "translation": "мелодия",
+      "example": "The melody stayed in his head.",
+      "keyword": "мел",
+      "mnemonic": "Мелодия засела в голове — хоть мелом выводи: stayed in his head, мелодия."
+    },
+    {
+      "term": "composition",
+      "translation": "произведение, композиция",
+      "example": "He played his own composition in New York.",
+      "keyword": "композитор",
+      "mnemonic": "Сыграл своё произведение в Нью-Йорке — аплодирует композитор: played his own composition."
     }
   ]
 }

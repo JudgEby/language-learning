@@ -2,12 +2,75 @@
   "lessonId": "hidden-talent",
   "title": "Hidden talent — фразы",
   "items": [
-    { "phrase": "Have you ever…?", "translation": "Ты когда-нибудь…?", "example": "Have you ever tried bungee jumping?" },
-    { "phrase": "Yes, I have. It was amazing!", "translation": "Да, было. Это было потрясающе!", "example": "A: Have you ever been to a live concert? B: Yes, I have. It was amazing!" },
-    { "phrase": "No, I've never… but I'd love to", "translation": "Нет, никогда… но я бы хотел", "example": "No, I've never been abroad, but I'd love to go." },
-    { "phrase": "I've never tried it", "translation": "Я никогда не пробовал(а) этого", "example": "I've never tried Korean food, but it looks delicious." },
-    { "phrase": "It was one of the best experiences of my life", "translation": "Это был один из лучших опытов в моей жизни", "example": "I went scuba diving last year. It was one of the best experiences of my life." },
-    { "phrase": "What was it like?", "translation": "И как это было?", "example": "A: I tried skydiving last weekend. B: What was it like?" },
-    { "phrase": "It sounds fascinating!", "translation": "Звучит захватывающе!", "example": "You've been to Iceland? It sounds fascinating!" }
+    {
+      "phrase": "Have you ever…?",
+      "translation": "Ты когда-нибудь…?",
+      "example": "Have you ever tried bungee jumping?",
+      "keyword": "эхо",
+      "mnemonic": "Эхо в каньоне пытает Have you ever…? — Ты когда-нибудь прыгал с тарзанки."
+    },
+    {
+      "phrase": "Yes, I have. It was amazing!",
+      "translation": "Да, было. Это было потрясающе!",
+      "example": "A: Have you ever been to a live concert? B: Yes, I have. It was amazing!",
+      "keyword": "амазонка",
+      "mnemonic": "Амазонка с концерта кричит Yes, I have. It was amazing! — Да, было, это было потрясающе."
+    },
+    {
+      "phrase": "No, I've never… but I'd love to",
+      "translation": "Нет, никогда… но я бы хотел",
+      "example": "No, I've never been abroad, but I'd love to go.",
+      "keyword": "невод",
+      "mnemonic": "Рыбак с неводом вздыхает No, I've never… but I'd love to — Нет, никогда за границей, но я бы хотел."
+    },
+    {
+      "phrase": "I've never tried it",
+      "translation": "Я никогда не пробовал(а) этого",
+      "example": "I've never tried Korean food, but it looks delicious.",
+      "keyword": "трава",
+      "mnemonic": "Кореец с травой для кимчи — I've never tried it, Я никогда не пробовал этого, хоть выглядит вкусно."
+    },
+    {
+      "phrase": "It was one of the best experiences of my life",
+      "translation": "Это был один из лучших опытов в моей жизни",
+      "example": "I went scuba diving last year. It was one of the best experiences of my life.",
+      "keyword": "экспонат",
+      "mnemonic": "Дайвер с экспонатом со дна — It was one of the best experiences of my life, Это был один из лучших опытов в моей жизни."
+    },
+    {
+      "phrase": "What was it like?",
+      "translation": "И как это было?",
+      "example": "A: I tried skydiving last weekend. B: What was it like?",
+      "keyword": "лайка",
+      "mnemonic": "Парашютист с лайкой пытают What was it like? — И как это было прыгать в выходные."
+    },
+    {
+      "phrase": "It sounds fascinating!",
+      "translation": "Звучит захватывающе!",
+      "example": "You've been to Iceland? It sounds fascinating!",
+      "keyword": "фасон",
+      "mnemonic": "Исландец в модном фасоне — It sounds fascinating! — Звучит захватывающе про Исландию."
+    },
+    {
+      "phrase": "Have you ever made a speech in public?",
+      "translation": "Ты когда-нибудь выступал с речью перед публикой?",
+      "example": "Have you ever made a speech in public? No, never.",
+      "keyword": "спич",
+      "mnemonic": "Заика со спичем в руке — Have you ever made a speech in public? — Ты когда-нибудь выступал с речью перед публикой, нет, никогда."
+    },
+    {
+      "phrase": "I was really nervous",
+      "translation": "Я очень нервничал",
+      "example": "I made a speech at work last year. I was really nervous.",
+      "keyword": "нерест",
+      "mnemonic": "Клерк на нересте дрожит — I was really nervous, Я очень нервничал на речи на работе."
+    },
+    {
+      "phrase": "Have you ever caught a fish?",
+      "translation": "Ты когда-нибудь ловил рыбу?",
+      "example": "Have you ever caught a fish? Yes, I have. I caught three last weekend!",
+      "keyword": "кот",
+      "mnemonic": "Кот с тремя рыбами хвастает Have you ever caught a fish? — Ты когда-нибудь ловил рыбу, да, трёх в выходные."
+    }
   ]
 }

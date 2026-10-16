@@ -2,13 +2,61 @@
   "lessonId": "gavin-and-stacey",
   "title": "Gavin and Stacey — фразы",
   "items": [
-    { "phrase": "I usually wake up at…", "translation": "Я обычно просыпаюсь в…", "example": "I usually wake up at about 6.30." },
-    { "phrase": "I have to leave home by…", "translation": "Мне нужно выйти из дома к…", "example": "I have to leave home by 8.30 at the latest." },
-    { "phrase": "The first thing I do when I get to work is…", "translation": "Первое, что я делаю, придя на работу —…", "example": "The first thing I do when I get to work is switch on the lights." },
-    { "phrase": "In the afternoon I…", "translation": "Днём я…", "example": "In the afternoon I usually have lunch with colleagues." },
-    { "phrase": "I try to be home by…", "translation": "Я стараюсь быть дома к…", "example": "I try to be home by about 7 o'clock." },
-    { "phrase": "I just cook supper and watch TV", "translation": "Я просто готовлю ужин и смотрю телевизор", "example": "In the evening I just cook supper and watch some television." },
-    { "phrase": "The best part of the job is…", "translation": "Лучшая часть работы — это…", "example": "The best part of the job is meeting new people." },
-    { "phrase": "A typical day in my life", "translation": "Обычный день в моей жизни", "example": "Let me describe a typical day in my life." }
+    {
+      "phrase": "I usually wake up at…",
+      "translation": "Я обычно просыпаюсь в…",
+      "example": "I usually wake up at about 6.30.",
+      "keyword": "вейкап",
+      "mnemonic": "Вейк-ап в полседьмого: I usually wake up — я обычно просыпаюсь в полседьмого."
+    },
+    {
+      "phrase": "I have to leave home by…",
+      "translation": "Мне нужно выйти из дома к…",
+      "example": "I have to leave home by 8.30 at the latest.",
+      "keyword": "ливхом",
+      "mnemonic": "Лив-хом к половине девятого: I have to leave home by — мне нужно выйти из дома к половине девятого."
+    },
+    {
+      "phrase": "The first thing I do when I get to work is…",
+      "translation": "Первое, что я делаю, придя на работу —…",
+      "example": "The first thing I do when I get to work is switch on the lights.",
+      "keyword": "фёрстсинг",
+      "mnemonic": "Фёрст-синг-свет включается: the first thing I do — первое, что я делаю, придя на работу."
+    },
+    {
+      "phrase": "In the afternoon I…",
+      "translation": "Днём я…",
+      "example": "In the afternoon I usually have lunch with colleagues.",
+      "keyword": "афтенун",
+      "mnemonic": "Афтенун-обед с коллегами: in the afternoon — днём я обедаю с коллегами."
+    },
+    {
+      "phrase": "I try to be home by…",
+      "translation": "Я стараюсь быть дома к…",
+      "example": "I try to be home by about 7 o'clock.",
+      "keyword": "бай",
+      "mnemonic": "Бай-домой к семи: I try to be home by — я стараюсь быть дома к семи."
+    },
+    {
+      "phrase": "I just cook supper and watch TV",
+      "translation": "Я просто готовлю ужин и смотрю телевизор",
+      "example": "In the evening I just cook supper and watch some television.",
+      "keyword": "саппэ",
+      "mnemonic": "Саппэ-телевечер: I just cook supper — я просто готовлю ужин и смотрю телевизор."
+    },
+    {
+      "phrase": "The best part of the job is…",
+      "translation": "Лучшая часть работы — это…",
+      "example": "The best part of the job is meeting new people.",
+      "keyword": "бестпарт",
+      "mnemonic": "Бест-парт-люди новые: the best part of the job — лучшая часть работы это встречи."
+    },
+    {
+      "phrase": "A typical day in my life",
+      "translation": "Обычный день в моей жизни",
+      "example": "Let me describe a typical day in my life.",
+      "keyword": "типикал, дей",
+      "mnemonic": "Типикал-дей-описание: a typical day in my life — обычный день в моей жизни расскажу."
+    }
   ]
 }

@@ -1,0 +1,125 @@
+{
+  "lessonId": "challenge",
+  "title": "2D Challenge — Словосочетания: состязание и дебаты",
+  "items": [
+    {
+      "phrase": "challenge yourself",
+      "translation": "бросить себе вызов",
+      "example": "When was the last time you challenged yourself?",
+      "keyword": "челлендж",
+      "mnemonic": "Принял безумный челлендж и бросил себе вызов — когда ты делал это в последний раз? — челлендж зовёт challenge yourself."
+    },
+    {
+      "phrase": "prepare in a day",
+      "translation": "подготовиться за день",
+      "example": "What helped Ryan to prepare in a day?",
+      "keyword": "препарат",
+      "mnemonic": "Выпил секретный препарат и подготовился за день, — препарат шипит prepare in a day."
+    },
+    {
+      "phrase": "determine the winner",
+      "translation": "определить победителя",
+      "example": "The winner will be determined after three rounds.",
+      "keyword": "термин",
+      "mnemonic": "Заумный термин помог определить победителя после трёх раундов, — термин решает determine the winner."
+    },
+    {
+      "phrase": "feel about the results",
+      "translation": "относиться к результатам",
+      "example": "How did both drivers feel about the race results?",
+      "keyword": "фильм",
+      "mnemonic": "Смотрим фильм про гонку и спорим, как относиться к результатам пилотов, — фильм крутится feel about the results."
+    },
+    {
+      "phrase": "reflect on something",
+      "translation": "размышлять о чём-то",
+      "example": "How often do you reflect on what you have done?",
+      "keyword": "рефлектор",
+      "mnemonic": "Велосипедный рефлектор мигает и заставляет размышлять о содеянном, — рефлектор бликует reflect on something."
+    },
+    {
+      "phrase": "argue for an opinion",
+      "translation": "отстаивать мнение",
+      "example": "Prepare to argue for opinion A in the debate.",
+      "keyword": "аргумент",
+      "mnemonic": "Достал убойный аргумент, чтобы отстаивать мнение в дебатах, — аргумент бьёт argue for an opinion."
+    },
+    {
+      "phrase": "form an argument",
+      "translation": "выстроить аргумент",
+      "example": "Form an argument and a counterargument.",
+      "keyword": "форма",
+      "mnemonic": "Солдаты встали в форму, чтобы выстроить аргумент и контраргумент, — форма строится form an argument."
+    },
+    {
+      "phrase": "debate the opinions",
+      "translation": "обсуждать мнения в споре",
+      "example": "Debate the opinions with your group.",
+      "keyword": "дебют",
+      "mnemonic": "На своём дебюте пришлось обсуждать мнения в споре с целой группой, — дебют волнуется debate the opinions."
+    },
+    {
+      "phrase": "compete with yourself",
+      "translation": "соревноваться с самим собой",
+      "example": "Think about competing with others and with yourself.",
+      "keyword": "компот",
+      "mnemonic": "Выпил компот и решил соревноваться с самим собой вчерашним, — компот булькает compete with yourself."
+    },
+    {
+      "phrase": "compete with others",
+      "translation": "соревноваться с другими",
+      "example": "Some people prefer to compete with others.",
+      "keyword": "компас",
+      "mnemonic": "Сверил компас и предпочёл соревноваться с другими, а не с собой, — компас указывает compete with others."
+    },
+    {
+      "phrase": "end up",
+      "translation": "оказаться в итоге",
+      "example": "If you lose too often, you end up giving up.",
+      "keyword": "эндшпиль",
+      "mnemonic": "Проиграл партию и оказался в итоге в безнадёжном эндшпиле, — эндшпиль душит end up."
+    },
+    {
+      "phrase": "more about than",
+      "translation": "больше о, чем о",
+      "example": "Winning is more about practice than luck.",
+      "keyword": "батут",
+      "mnemonic": "Победа — это больше о прыжках на батуте, чем об удаче и тренировках, — батут пружинит more about than."
+    },
+    {
+      "phrase": "problematic because",
+      "translation": "проблематично, потому что",
+      "example": "Constant rivalry is problematic because it causes stress.",
+      "keyword": "коза",
+      "mnemonic": "Упрямая коза устроила соперничество: проблематично, потому что она всех бодает, — коза мекает problematic because."
+    },
+    {
+      "phrase": "the result is that",
+      "translation": "в результате",
+      "example": "The result is that people train much harder.",
+      "keyword": "резина",
+      "mnemonic": "Лопнула резина — в результате все стали тренироваться гораздо усерднее, — резина тянется the result is that."
+    },
+    {
+      "phrase": "lead to",
+      "translation": "приводить к",
+      "example": "Fair competition leads to better results.",
+      "keyword": "лидер",
+      "mnemonic": "Честный лидер приводит команду к лучшим результатам, — лидер ведёт lead to."
+    },
+    {
+      "phrase": "car ownership",
+      "translation": "владение машиной",
+      "example": "How competitive are people about car ownership?",
+      "keyword": "овца",
+      "mnemonic": "Владение машиной обсуждают даже овца и пастух — так все помешались на соперничестве, — овца блеет car ownership."
+    },
+    {
+      "phrase": "at the gym",
+      "translation": "в спортзале",
+      "example": "People compete a lot at the gym.",
+      "keyword": "джинсы",
+      "mnemonic": "Порвал джинсы в спортзале, так усердно соревновался, — джинсы трещат at the gym."
+    }
+  ]
+}

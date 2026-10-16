@@ -2,13 +2,61 @@
   "lessonId": "pay-me-more",
   "title": "Pay me more — фразы",
   "items": [
-    { "phrase": "too much traffic", "translation": "слишком много движения", "example": "There's too much traffic on the roads at this time." },
-    { "phrase": "too many people", "translation": "слишком много людей", "example": "There are too many people in this lift, let's wait." },
-    { "phrase": "enough money", "translation": "достаточно денег", "example": "We don't have enough money to buy a house yet." },
-    { "phrase": "not enough time", "translation": "недостаточно времени", "example": "There's not enough time to finish the project today." },
-    { "phrase": "too expensive", "translation": "слишком дорого", "example": "This restaurant is too expensive for students." },
-    { "phrase": "good enough", "translation": "достаточно хорошо", "example": "Your English is good enough for the job." },
-    { "phrase": "too young to vote", "translation": "слишком молодой, чтобы голосовать", "example": "She's too young to vote, she's only 16." },
-    { "phrase": "fast enough", "translation": "достаточно быстро", "example": "Can you run fast enough to catch the bus?" }
+    {
+      "phrase": "too much traffic",
+      "translation": "слишком много движения",
+      "example": "There's too much traffic on the roads at this time.",
+      "keyword": "трофей",
+      "mnemonic": "Водитель с трофеем-пробкой — too much traffic, слишком много движения на дорогах."
+    },
+    {
+      "phrase": "too many people",
+      "translation": "слишком много людей",
+      "example": "There are too many people in this lift, let's wait.",
+      "keyword": "пепел",
+      "mnemonic": "Лифт в пепле толпы — too many people, слишком много людей, подождём."
+    },
+    {
+      "phrase": "enough money",
+      "translation": "достаточно денег",
+      "example": "We don't have enough money to buy a house yet.",
+      "keyword": "манка",
+      "mnemonic": "С манкой вместо накоплений — enough money, достаточно денег на дом пока нет."
+    },
+    {
+      "phrase": "not enough time",
+      "translation": "недостаточно времени",
+      "example": "There's not enough time to finish the project today.",
+      "keyword": "таймер",
+      "mnemonic": "Прораб с таймером паникует — not enough time, недостаточно времени добить проект."
+    },
+    {
+      "phrase": "too expensive",
+      "translation": "слишком дорого",
+      "example": "This restaurant is too expensive for students.",
+      "keyword": "экспресс",
+      "mnemonic": "Ресторан-экспресс без остановок — too expensive, слишком дорого для студентов."
+    },
+    {
+      "phrase": "good enough",
+      "translation": "достаточно хорошо",
+      "example": "Your English is good enough for the job.",
+      "keyword": "гусь",
+      "mnemonic": "Гусь с сертификатом крякает — good enough, достаточно хорошо для работы."
+    },
+    {
+      "phrase": "too young to vote",
+      "translation": "слишком молодой, чтобы голосовать",
+      "example": "She's too young to vote, she's only 16.",
+      "keyword": "юннат",
+      "mnemonic": "Юннат с бюллетенем — too young to vote, слишком молодой, чтобы голосовать, ей шестнадцать."
+    },
+    {
+      "phrase": "fast enough",
+      "translation": "достаточно быстро",
+      "example": "Can you run fast enough to catch the bus?",
+      "keyword": "фастфуд",
+      "mnemonic": "Спринтер с фастфудом несётся — fast enough, достаточно быстро, чтобы догнать автобус."
+    }
   ]
 }

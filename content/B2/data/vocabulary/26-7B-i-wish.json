@@ -5,7 +5,9 @@
     {
       "term": "regret",
       "translation": "сожаление",
-      "example": "He expressed deep regret."
+      "example": "He expressed deep regret.",
+      "keyword": "регги",
+      "mnemonic": "Выразил глубокое сожаление под регги — expressed deep regret."
     },
     {
       "term": "opportunity",
@@ -15,17 +17,65 @@
     {
       "term": "missed chance",
       "translation": "упущенный шанс",
-      "example": "It was a missed chance I'll never forget."
+      "example": "It was a missed chance I'll never forget.",
+      "keyword": "шансон",
+      "mnemonic": "Упущенный шанс, что не забуду, — поёт шансон: missed chance I'll never forget."
     },
     {
       "term": "hindsight",
       "translation": "задним числом",
-      "example": "In hindsight, I made the wrong choice."
+      "example": "In hindsight, I made the wrong choice.",
+      "keyword": "инсайт",
+      "mnemonic": "Задним числом понял, что выбор был неверным, — вот он, инсайт: in hindsight."
     },
     {
       "term": "remorse",
       "translation": "угрызения совести",
-      "example": "She felt remorse for years."
+      "example": "She felt remorse for years.",
+      "keyword": "морс",
+      "mnemonic": "Годами чувствовала угрызения совести — запивала морсом: felt remorse for years."
+    },
+    {
+      "term": "a piece of cake",
+      "translation": "лёгкое дело",
+      "example": "I thought Italian would be a piece of cake.",
+      "keyword": "кекс",
+      "mnemonic": "Думал, итальянский — лёгкое дело, как кекс съесть: piece of cake."
+    },
+    {
+      "term": "a blessing in disguise",
+      "translation": "скрытое благо",
+      "example": "Losing that job was a blessing in disguise.",
+      "keyword": "блесна",
+      "mnemonic": "Потеря работы оказалась скрытым благом — клюнул, как на блесну: blessing in disguise."
+    },
+    {
+      "term": "the grass is always greener",
+      "translation": "хорошо там, где нас нет",
+      "example": "The grass is always greener on the other side.",
+      "keyword": "грабли",
+      "mnemonic": "Трава всегда зеленее — грабли на чужой лужайке: grass is always greener."
+    },
+    {
+      "term": "cup of tea",
+      "translation": "то, что по душе",
+      "example": "Skiing just was not my cup of tea.",
+      "keyword": "купол",
+      "mnemonic": "Лыжи — не его: сидит под куполом с чаем — not my cup of tea, не по душе."
+    },
+    {
+      "term": "professional trial",
+      "translation": "профессиональный просмотр",
+      "example": "He was asked to play in a professional trial.",
+      "keyword": "триал",
+      "mnemonic": "Позвали на профессиональный просмотр — выступил, как на триале: professional trial."
+    },
+    {
+      "term": "tutor",
+      "translation": "наставник, репетитор",
+      "example": "My tutor said I had real talent.",
+      "keyword": "тутти",
+      "mnemonic": "Наставник сказал, у меня талант, — грянули тутти: tutor said I had talent."
     }
   ]
 }

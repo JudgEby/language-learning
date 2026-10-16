@@ -2,15 +2,75 @@
   "lessonId": "millionaires",
   "title": "Millionaires — новые слова",
   "items": [
-    { "term": "hard-working", "translation": "трудолюбивый", "example": "These people have to be hard-working and motivated." },
-    { "term": "ambitious", "translation": "амбициозный", "example": "He is very ambitious and wants to be successful." },
-    { "term": "competitive", "translation": "конкурентный, соревновательный", "example": "He's very competitive and hates to lose." },
-    { "term": "motivated", "translation": "мотивированный", "example": "They are a group of very motivated students." },
-    { "term": "a risk taker", "translation": "человек, склонный к риску", "example": "Being a racing driver, Anton has to be a risk taker." },
-    { "term": "a good leader", "translation": "хороший лидер", "example": "She's a very good leader who listens to people." },
-    { "term": "indecisive", "translation": "нерешительный", "example": "I find it difficult to make decisions. I'm a bit indecisive." },
-    { "term": "creative", "translation": "креативный", "example": "We need to be creative and think outside the box." },
-    { "term": "think outside the box", "translation": "мыслить нестандартно", "example": "In this job you need to think outside the box." },
-    { "term": "a good communicator", "translation": "хороший коммуникатор", "example": "He is a good communicator, so people enjoy listening to him." }
+    {
+      "term": "hard-working",
+      "translation": "трудолюбивый",
+      "example": "These people have to be hard-working and motivated.",
+      "keyword": "хард, воркинг",
+      "mnemonic": "Хард-воркинг пчёл гудит: they have to be hard-working — трудолюбивые и мотивированные."
+    },
+    {
+      "term": "ambitious",
+      "translation": "амбициозный",
+      "example": "He is very ambitious and wants to be successful.",
+      "keyword": "амбишн",
+      "mnemonic": "Амбишн-ракета взлетает: he is ambitious — амбициозный, хочет успеха."
+    },
+    {
+      "term": "competitive",
+      "translation": "конкурентный, соревновательный",
+      "example": "He's very competitive and hates to lose.",
+      "keyword": "компетитив",
+      "mnemonic": "Компетитив-борец рычит: he's competitive — конкурентный, соревновательный, ненавидит проигрывать."
+    },
+    {
+      "term": "motivated",
+      "translation": "мотивированный",
+      "example": "They are a group of very motivated students.",
+      "keyword": "мотивейт",
+      "mnemonic": "Мотивейт-мотор тарахтит: they are motivated — мотивированные студенты."
+    },
+    {
+      "term": "a risk taker",
+      "translation": "человек, склонный к риску",
+      "example": "Being a racing driver, Anton has to be a risk taker.",
+      "keyword": "риск, тейкер",
+      "mnemonic": "Риск-тейкер на трассе: Anton has to be a risk taker — человек, склонный к риску."
+    },
+    {
+      "term": "a good leader",
+      "translation": "хороший лидер",
+      "example": "She's a very good leader who listens to people.",
+      "keyword": "лидер",
+      "mnemonic": "Лидер с мегафоном слушает: she's a good leader — хороший лидер, слушает людей."
+    },
+    {
+      "term": "indecisive",
+      "translation": "нерешительный",
+      "example": "I find it difficult to make decisions. I'm a bit indecisive.",
+      "keyword": "индесайсив",
+      "mnemonic": "Инде-сайсив мнётся у витрины: I'm indecisive — нерешительный, трудно решить."
+    },
+    {
+      "term": "creative",
+      "translation": "креативный",
+      "example": "We need to be creative and think outside the box.",
+      "keyword": "криейтив",
+      "mnemonic": "Криейтив-фейерверк искрит: we need to be creative — креативные, мыслим нестандартно."
+    },
+    {
+      "term": "think outside the box",
+      "translation": "мыслить нестандартно",
+      "example": "In this job you need to think outside the box.",
+      "keyword": "бокс",
+      "mnemonic": "Бокс-коробка треснула: think outside the box — мысли нестандартно, вылезай из коробки."
+    },
+    {
+      "term": "a good communicator",
+      "translation": "хороший коммуникатор",
+      "example": "He is a good communicator, so people enjoy listening to him.",
+      "keyword": "комьюникейтор",
+      "mnemonic": "Комьюникейтор с рупором вещает: he's a good communicator — хороший коммуникатор, его слушают."
+    }
   ]
 }

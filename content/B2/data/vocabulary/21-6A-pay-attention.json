@@ -5,27 +5,79 @@
     {
       "term": "distraction",
       "translation": "отвлечение",
-      "example": "Social media is a major distraction."
+      "example": "Social media is a major distraction.",
+      "keyword": "экшен",
+      "mnemonic": "Соцсети — главное отвлечение: сплошной экшен: social media is a major distraction."
     },
     {
       "term": "concentration",
       "translation": "концентрация",
-      "example": "Noise affects my concentration."
+      "example": "Noise affects my concentration.",
+      "keyword": "концентрат",
+      "mnemonic": "Шум бьёт по концентрации — пей концентрат тишины: affects my concentration."
     },
     {
       "term": "multitask",
       "translation": "делать несколько дел сразу",
-      "example": "I try not to multitask."
+      "example": "I try not to multitask.",
+      "keyword": "мультик",
+      "mnemonic": "Стараюсь не делать сто дел сразу — даже мультик смотрю по одному: try not to multitask."
     },
     {
       "term": "mindfulness",
       "translation": "осознанность",
-      "example": "Mindfulness helps reduce stress."
+      "example": "Mindfulness helps reduce stress.",
+      "keyword": "майнд-карта",
+      "mnemonic": "Осознанность снижает стресс — рисуй майнд-карту: mindfulness helps reduce stress."
     },
     {
       "term": "procrastinate",
       "translation": "откладывать на потом",
-      "example": "I tend to procrastinate when bored."
+      "example": "I tend to procrastinate when bored.",
+      "keyword": "кровать",
+      "mnemonic": "Откладываю всё на потом, лёжа на кровати от скуки, — procrastinate when bored."
+    },
+    {
+      "term": "impractical",
+      "translation": "непрактичный",
+      "example": "Avoiding distractions completely is impractical.",
+      "keyword": "практикант",
+      "mnemonic": "Полностью избегать отвлечений непрактично — даже практикант отвлекается: impractical."
+    },
+    {
+      "term": "unnecessary",
+      "translation": "ненужный",
+      "example": "Switch off unnecessary notifications.",
+      "keyword": "несессер",
+      "mnemonic": "Выключи ненужные уведомления — оставь только несессер: switch off unnecessary notifications."
+    },
+    {
+      "term": "disconnect",
+      "translation": "отключать",
+      "example": "Disconnect your devices for an hour.",
+      "keyword": "дисконт",
+      "mnemonic": "Отключи гаджеты на час — получи дисконт на спокойствие: disconnect your devices."
+    },
+    {
+      "term": "redo",
+      "translation": "переделывать",
+      "example": "I had to redo the whole task.",
+      "keyword": "редис",
+      "mnemonic": "Пришлось переделывать всё задание — хоть редиску сажай: had to redo the whole task."
+    },
+    {
+      "term": "impatient",
+      "translation": "нетерпеливый",
+      "example": "He gets impatient with slow internet.",
+      "keyword": "пациент",
+      "mnemonic": "Бесится из-за медленного интернета — нетерпеливый пациент: gets impatient."
+    },
+    {
+      "term": "substandard",
+      "translation": "низкого качества",
+      "example": "Tired staff produce substandard work.",
+      "keyword": "стандарт",
+      "mnemonic": "Уставшие клепают работу низкого качества — ниже стандарта: substandard work."
     }
   ]
 }

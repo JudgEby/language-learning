@@ -2,15 +2,75 @@
   "lessonId": "pay-me-more",
   "title": "Pay me more — новые слова",
   "items": [
-    { "term": "give up", "translation": "бросить, отказаться (от привычки)", "example": "I gave up smoking last year." },
-    { "term": "save up", "translation": "копить (на что-то конкретное)", "example": "I'm saving up for a holiday in Thailand." },
-    { "term": "pay back", "translation": "вернуть долг", "example": "I'll pay you back on Friday." },
-    { "term": "take up", "translation": "начать заниматься (хобби, спорт)", "example": "I've decided to take up yoga." },
-    { "term": "end up", "translation": "в конечном итоге оказаться", "example": "We got lost and ended up in a different town." },
-    { "term": "carry on", "translation": "продолжать", "example": "Carry on with your work while I'm away." },
-    { "term": "set up", "translation": "основать, учредить", "example": "They set up their own business last year." },
-    { "term": "turn down", "translation": "отказаться (от предложения)", "example": "She turned down the job offer because of the low salary." },
-    { "term": "look into", "translation": "изучить, рассмотреть", "example": "I'll look into the problem and get back to you." },
-    { "term": "go through", "translation": "пройти через, пережить", "example": "She went through a difficult time after losing her job." }
+    {
+      "term": "give up",
+      "translation": "бросить, отказаться (от привычки)",
+      "example": "I gave up smoking last year.",
+      "keyword": "гипс",
+      "mnemonic": "Курильщик в гипсе give up — бросил курить и отказался от привычки."
+    },
+    {
+      "term": "save up",
+      "translation": "копить (на что-то конкретное)",
+      "example": "I'm saving up for a holiday in Thailand.",
+      "keyword": "суп",
+      "mnemonic": "Турист хлебает суп и save up — копит на отпуск в Таиланде."
+    },
+    {
+      "term": "pay back",
+      "translation": "вернуть долг",
+      "example": "I'll pay you back on Friday.",
+      "keyword": "бак",
+      "mnemonic": "Должник трясёт бак с мелочью, чтобы pay back — вернуть долг в пятницу."
+    },
+    {
+      "term": "take up",
+      "translation": "начать заниматься (хобби, спорт)",
+      "example": "I've decided to take up yoga.",
+      "keyword": "ток",
+      "mnemonic": "Йог взялся за ток и take up — начал заниматься йогой от удара бодрости."
+    },
+    {
+      "term": "end up",
+      "translation": "в конечном итоге оказаться",
+      "example": "We got lost and ended up in a different town.",
+      "keyword": "индюк",
+      "mnemonic": "Заблудившийся индюк end up — в конечном итоге оказался в чужом городе."
+    },
+    {
+      "term": "carry on",
+      "translation": "продолжать",
+      "example": "Carry on with your work while I'm away.",
+      "keyword": "карри",
+      "mnemonic": "Повар с карри велит carry on — продолжать работу, пока его нет."
+    },
+    {
+      "term": "set up",
+      "translation": "основать, учредить",
+      "example": "They set up their own business last year.",
+      "keyword": "сеть",
+      "mnemonic": "Друзья плели сеть и set up — основали свой бизнес по ловле клиентов."
+    },
+    {
+      "term": "turn down",
+      "translation": "отказаться (от предложения)",
+      "example": "She turned down the job offer because of the low salary.",
+      "keyword": "турник",
+      "mnemonic": "Невеста спрыгнула с турника и turn down — отказалась от предложения с низкой зарплатой."
+    },
+    {
+      "term": "look into",
+      "translation": "изучить, рассмотреть",
+      "example": "I'll look into the problem and get back to you.",
+      "keyword": "лук",
+      "mnemonic": "Детектив с луком look into — изучит проблему и рассмотрит улики."
+    },
+    {
+      "term": "go through",
+      "translation": "пройти через, пережить",
+      "example": "She went through a difficult time after losing her job.",
+      "keyword": "труба",
+      "mnemonic": "Она ползла по трубе и go through — прошла через трудное время после потери работы."
+    }
   ]
 }

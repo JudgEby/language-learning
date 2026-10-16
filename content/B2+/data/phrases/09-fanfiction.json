@@ -1,0 +1,125 @@
+{
+  "lessonId": "fanfiction",
+  "title": "3A Fanfiction — Словосочетания: фанфики и отзывы",
+  "items": [
+    {
+      "phrase": "alternative universe story",
+      "translation": "история в альтернативной вселенной",
+      "example": "It's an alternative universe story with a happier ending.",
+      "keyword": "универ",
+      "mnemonic": "Студенты универа сочинили историю в альтернативной вселенной со счастливым концом, — универ гудит alternative universe story."
+    },
+    {
+      "phrase": "what-if scenario",
+      "translation": "сценарий «что если»",
+      "example": "Write a what-if scenario based on the original story.",
+      "keyword": "вот и",
+      "mnemonic": "Вот и готов сценарий «что если» по мотивам оригинала, — вот и объявляет what-if scenario."
+    },
+    {
+      "phrase": "write about a character in a new setting",
+      "translation": "писать о герое в новых обстоятельствах",
+      "example": "This genre lets you write about a character in a new setting.",
+      "keyword": "характер",
+      "mnemonic": "Проявил характер и стал писать о герое в новых обстоятельствах, — характер требует write about a character in a new setting."
+    },
+    {
+      "phrase": "thorough research",
+      "translation": "тщательное исследование",
+      "example": "Do thorough research on the fictional universe first.",
+      "keyword": "труд",
+      "mnemonic": "Вложил труд в тщательное исследование вымышленной вселенной, — труд окупается thorough research."
+    },
+    {
+      "phrase": "fictional universe",
+      "translation": "вымышленная вселенная",
+      "example": "Decide which fictional universe to write about.",
+      "keyword": "униформа",
+      "mnemonic": "Примерил униформу героя вымышленной вселенной и решил, о чём писать, — униформа сидит fictional universe."
+    },
+    {
+      "phrase": "share stories online",
+      "translation": "делиться историями в сети",
+      "example": "Fans write stories and share them online.",
+      "keyword": "онлайн",
+      "mnemonic": "Вышел в онлайн, чтобы делиться историями в сети с фанатами, — онлайн мигает share stories online."
+    },
+    {
+      "phrase": "read and review stories",
+      "translation": "читать и рецензировать истории",
+      "example": "Millions of users read and review stories on the site.",
+      "keyword": "ревю",
+      "mnemonic": "Написал ревю: люблю читать и рецензировать истории миллионов авторов, — ревю шуршит read and review stories."
+    },
+    {
+      "phrase": "compete to win an award",
+      "translation": "бороться за награду",
+      "example": "Thousands of writers compete to win a writing award.",
+      "keyword": "а вот",
+      "mnemonic": "А вот и финал: тысячи писателей борются за награду, — а вот интригует compete to win an award."
+    },
+    {
+      "phrase": "take and use feedback",
+      "translation": "принимать и использовать отзывы",
+      "example": "I've learnt to take and use feedback on my stories.",
+      "keyword": "фидбэк",
+      "mnemonic": "Получил жёсткий фидбэк, научился принимать и использовать отзывы, — фидбэк жалит take and use feedback."
+    },
+    {
+      "phrase": "find a voice",
+      "translation": "найти свой голос",
+      "example": "Fanfiction helps people find a voice.",
+      "keyword": "вой",
+      "mnemonic": "Волчий вой в лесу помог мне найти свой голос, — вой разносится find a voice."
+    },
+    {
+      "phrase": "invest time in a character",
+      "translation": "вкладываться в героя",
+      "example": "I spent hours investing in a character, then he died.",
+      "keyword": "инвестор",
+      "mnemonic": "Важный инвестор вложился в героя, а тот взял и умер, — инвестор плачет invest time in a character."
+    },
+    {
+      "phrase": "kill off the hero",
+      "translation": "убить главного героя",
+      "example": "Killing off the hero upset many readers.",
+      "keyword": "киллер",
+      "mnemonic": "Нанял киллера, чтобы убить главного героя, и расстроил всех читателей, — киллер целится kill off the hero."
+    },
+    {
+      "phrase": "let the bad guy get away with it",
+      "translation": "позволить злодею уйти безнаказанно",
+      "example": "Letting the bad guy get away with it felt too dark.",
+      "keyword": "бедолага",
+      "mnemonic": "Бедолага-злодей ушёл безнаказанно, а позволить ему это было слишком мрачно, — бедолага крадётся let the bad guy get away with it."
+    },
+    {
+      "phrase": "throw it away",
+      "translation": "выбросить, упустить",
+      "example": "He was not going to throw it away like an old sweet wrapper.",
+      "keyword": "тряпка",
+      "mnemonic": "Схватил тряпку, но не стал выбрасывать шанс как фантик, — тряпка машет throw it away."
+    },
+    {
+      "phrase": "walk in the shoes of a character",
+      "translation": "побывать в шкуре героя",
+      "example": "I was excited to walk in the shoes of a young ruler.",
+      "keyword": "шузы",
+      "mnemonic": "Надел огромные шузы и побывал в шкуре юного правителя, — шузы топают walk in the shoes of a character."
+    },
+    {
+      "phrase": "paint a vivid image",
+      "translation": "создать яркий образ",
+      "example": "The author paints a vivid image of island life.",
+      "keyword": "пейнтбол",
+      "mnemonic": "Залил всех краской в пейнтболе и создал яркий образ островной жизни, — пейнтбол стреляет paint a vivid image."
+    },
+    {
+      "phrase": "come across as",
+      "translation": "выглядеть, производить впечатление",
+      "example": "She comes across as strong and sympathetic.",
+      "keyword": "кросс",
+      "mnemonic": "Пробежал кросс и выглядишь сильным и сочувствующим одновременно, — кросс финиширует come across as."
+    }
+  ]
+}

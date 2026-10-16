@@ -2,18 +2,96 @@
   "lessonId": "having-a-great-time",
   "title": "Having a great time — фразы",
   "items": [
-    { "phrase": "have a great time", "translation": "отлично проводить время", "example": "We're having a great time in Greece." },
-    { "phrase": "What are you thinking about?", "translation": "О чём ты думаешь?", "example": "What are you thinking about? — About my holiday." },
-    { "phrase": "What is he / she doing?", "translation": "Что он / она делает?", "example": "What is he doing? — He's packing the bags." },
-    { "phrase": "be waiting for ...", "translation": "ждать ...", "example": "We're waiting for the museum to open." },
-    { "phrase": "be getting bored", "translation": "надоедать", "example": "We're standing in the sun and we're getting very bored." },
-    { "phrase": "look at photos of ...", "translation": "смотреть фотографии ...", "example": "We are looking at photos of the buildings." },
-    { "phrase": "sit for a photo", "translation": "позировать для фотографии", "example": "Everyone is sitting for a photo by the pool." },
-    { "phrase": "sound great", "translation": "звучит здорово", "example": "Her new song sounds great!" },
-    { "phrase": "life is perfect", "translation": "жизнь прекрасна", "example": "They're in the sun, Brazil won the match — life is perfect." },
-    { "phrase": "Thinking about you all!", "translation": "Скучаю по всем вам!", "example": "Thinking about you all in the office! See you next week." },
-    { "phrase": "brought me breakfast in bed", "translation": "принёс мне завтрак в постель", "example": "He brought me breakfast in bed." },
-    { "phrase": "talk about ...", "translation": "говорить о ...", "example": "Men talk about sport, computers and videos." },
-    { "phrase": "look at your messages on a large screen", "translation": "смотреть свои сообщения на большом экране", "example": "We read our messages on a large screen in the kitchen." }
+    {
+      "phrase": "have a great time",
+      "translation": "отлично проводить время",
+      "example": "We're having a great time in Greece.",
+      "keyword": "грабли",
+      "mnemonic": "С граблями have a great time in Greece — отлично проводить время."
+    },
+    {
+      "phrase": "What are you thinking about?",
+      "translation": "О чём ты думаешь?",
+      "example": "What are you thinking about? — About my holiday.",
+      "keyword": "синтезатор",
+      "mnemonic": "Синтезатор думает: what are you thinking about — о чём ты думаешь."
+    },
+    {
+      "phrase": "What is he / she doing?",
+      "translation": "Что он / она делает?",
+      "example": "What is he doing? — He's packing the bags.",
+      "keyword": "дудка",
+      "mnemonic": "С дудкой пакуют: what is he doing — что он делает."
+    },
+    {
+      "phrase": "be waiting for ...",
+      "translation": "ждать ...",
+      "example": "We're waiting for the museum to open.",
+      "keyword": "вейп",
+      "mnemonic": "С вейпом ждут be waiting for the museum — ждать музей."
+    },
+    {
+      "phrase": "be getting bored",
+      "translation": "надоедать",
+      "example": "We're standing in the sun and we're getting very bored.",
+      "keyword": "борода",
+      "mnemonic": "Борода на солнце be getting bored — надоедать."
+    },
+    {
+      "phrase": "look at photos of ...",
+      "translation": "смотреть фотографии ...",
+      "example": "We are looking at photos of the buildings.",
+      "keyword": "фоторобот",
+      "mnemonic": "Фоторобот зданий: look at photos of buildings — смотреть фотографии зданий."
+    },
+    {
+      "phrase": "sit for a photo",
+      "translation": "позировать для фотографии",
+      "example": "Everyone is sitting for a photo by the pool.",
+      "keyword": "сито",
+      "mnemonic": "На сите позируют sit for a photo — позировать для фото."
+    },
+    {
+      "phrase": "sound great",
+      "translation": "звучит здорово",
+      "example": "Her new song sounds great!",
+      "keyword": "саундтрек",
+      "mnemonic": "Саундтрек звучит sound great — звучит здорово."
+    },
+    {
+      "phrase": "life is perfect",
+      "translation": "жизнь прекрасна",
+      "example": "They're in the sun, Brazil won the match — life is perfect.",
+      "keyword": "персик",
+      "mnemonic": "Жизнь с персиком life is perfect — жизнь прекрасна."
+    },
+    {
+      "phrase": "Thinking about you all!",
+      "translation": "Скучаю по всем вам!",
+      "example": "Thinking about you all in the office! See you next week.",
+      "keyword": "тинейджер",
+      "mnemonic": "Тинейджер скучает thinking about you all — скучаю по всем."
+    },
+    {
+      "phrase": "brought me breakfast in bed",
+      "translation": "принёс мне завтрак в постель",
+      "example": "He brought me breakfast in bed.",
+      "keyword": "брошь",
+      "mnemonic": "С брошью принёс brought me breakfast in bed — принёс завтрак в постель."
+    },
+    {
+      "phrase": "talk about ...",
+      "translation": "говорить о ...",
+      "example": "Men talk about sport, computers and videos.",
+      "keyword": "ток-шоу",
+      "mnemonic": "Ток-шоу про спорт: talk about sport — говорить о спорте."
+    },
+    {
+      "phrase": "look at your messages on a large screen",
+      "translation": "смотреть свои сообщения на большом экране",
+      "example": "We read our messages on a large screen in the kitchen.",
+      "keyword": "скрепка",
+      "mnemonic": "Сообщения на скрепке: look at messages on a screen — смотреть сообщения на экране."
+    }
   ]
 }

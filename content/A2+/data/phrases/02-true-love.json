@@ -2,11 +2,68 @@
   "lessonId": "true-love",
   "title": "True love — фразы",
   "items": [
-    { "phrase": "I remember when…", "translation": "Я помню, как…", "example": "I remember when we first met at that coffee shop." },
-    { "phrase": "That reminds me of…", "translation": "Это напоминает мне о…", "example": "That reminds me of our trip to Barcelona." },
-    { "phrase": "Back then", "translation": "В то время", "example": "Back then, we didn't have mobile phones." },
-    { "phrase": "In those days", "translation": "В те дни", "example": "In those days, we used to write letters to each other." },
-    { "phrase": "It all started when…", "translation": "Всё началось, когда…", "example": "It all started when we sat next to each other in class." },
-    { "phrase": "The funniest thing was…", "translation": "Самое смешное было…", "example": "The funniest thing was that he had spaghetti on his shirt the whole time." }
+    {
+      "phrase": "I remember when…",
+      "translation": "Я помню, как…",
+      "example": "I remember when we first met at that coffee shop.",
+      "keyword": "мем",
+      "mnemonic": "Дед показывает мем и вздыхает I remember when… — Я помню, как встретились в кофейне."
+    },
+    {
+      "phrase": "That reminds me of…",
+      "translation": "Это напоминает мне о…",
+      "example": "That reminds me of our trip to Barcelona.",
+      "keyword": "ром",
+      "mnemonic": "Глоток рома — That reminds me of… — Это напоминает мне о поездке в Барселону."
+    },
+    {
+      "phrase": "Back then",
+      "translation": "В то время",
+      "example": "Back then, we didn't have mobile phones.",
+      "keyword": "бак",
+      "mnemonic": "Дед лезет в бак за кирпичным телефоном — Back then, В то время не было мобильных."
+    },
+    {
+      "phrase": "In those days",
+      "translation": "В те дни",
+      "example": "In those days, we used to write letters to each other.",
+      "keyword": "деза",
+      "mnemonic": "Без всякой дезы — In those days, В те дни писали друг другу письма."
+    },
+    {
+      "phrase": "It all started when…",
+      "translation": "Всё началось, когда…",
+      "example": "It all started when we sat next to each other in class.",
+      "keyword": "старт",
+      "mnemonic": "На старт сели рядом — It all started when… — Всё началось, когда сели рядом в классе."
+    },
+    {
+      "phrase": "The funniest thing was…",
+      "translation": "Самое смешное было…",
+      "example": "The funniest thing was that he had spaghetti on his shirt the whole time.",
+      "keyword": "фан",
+      "mnemonic": "Фан с макаронами на рубашке — The funniest thing was… — Самое смешное было со спагетти."
+    },
+    {
+      "phrase": "We met at art school",
+      "translation": "Мы познакомились в художественной школе",
+      "example": "We met at art school and got on well immediately.",
+      "keyword": "артист",
+      "mnemonic": "Артист в берете твердит We met at art school — Мы познакомились в художественной школе и сразу поладили."
+    },
+    {
+      "phrase": "When did you last go on holiday?",
+      "translation": "Когда ты в последний раз ездил в отпуск?",
+      "example": "When did you last go on holiday? I went to Malta with some friends.",
+      "keyword": "оливье",
+      "mnemonic": "С тазом оливье спрашивают When did you last go on holiday? — Когда ты в последний раз ездил в отпуск, я вот на Мальту."
+    },
+    {
+      "phrase": "It was a few months ago",
+      "translation": "Это было несколько месяцев назад",
+      "example": "When did you last see your best friend? It was a few months ago.",
+      "keyword": "ага",
+      "mnemonic": "Друг кивает ага — It was a few months ago, Это было несколько месяцев назад, как видел друга."
+    }
   ]
 }

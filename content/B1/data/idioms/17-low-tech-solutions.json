@@ -5,17 +5,23 @@
     {
       "idiom": "back to basics",
       "translation": "возвращение к основам",
-      "example": "The company decided to go back to basics and focus on their core products."
+      "example": "The company decided to go back to basics and focus on their core products.",
+      "keyword": "бейсик",
+      "mnemonic": "Бейсик важнее наворотов: back to basics — возвращение к основам и фокус на главном."
     },
     {
       "idiom": "low-hanging fruit",
       "translation": "лёгкая цель",
-      "example": "Let's start with the low-hanging fruit and fix the easiest problems first."
+      "example": "Let's start with the low-hanging fruit and fix the easiest problems first.",
+      "keyword": "фрут",
+      "mnemonic": "Фрут висит низко: low-hanging fruit — лёгкая цель, чиним сначала простое."
     },
     {
       "idiom": "a wild goose chase",
       "translation": "пустая трата времени, бесполезное занятие",
-      "example": "Trying to find that document is a wild goose chase — it was lost years ago."
+      "example": "Trying to find that document is a wild goose chase — it was lost years ago.",
+      "keyword": "гусь",
+      "mnemonic": "Гусь уводит впустую: a wild goose chase — пустая трата времени, документ потерян годы назад."
     }
   ]
 }

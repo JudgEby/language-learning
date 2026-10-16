@@ -1,0 +1,18 @@
+# Keep the Docker build context small: only app/ sources and content/ matter.
+node_modules/
+app/node_modules/
+app/dist/
+app/public/content/
+app/test-results/
+app/playwright-report/
+toExtract/
+content/*/extract/
+.git/
+.github/
+.idea/
+.cursor/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.env
+.DS_Store

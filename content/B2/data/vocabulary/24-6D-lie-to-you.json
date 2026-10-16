@@ -5,27 +5,79 @@
     {
       "term": "bluff",
       "translation": "блефовать",
-      "example": "I think he's bluffing."
+      "example": "I think he's bluffing.",
+      "keyword": "блеф",
+      "mnemonic": "Кажется, он блефует — блеф виден за версту: he's bluffing, блефовать."
     },
     {
       "term": "convincing",
       "translation": "убедительный",
-      "example": "Her story sounded convincing."
+      "example": "Her story sounded convincing.",
+      "keyword": "конвой",
+      "mnemonic": "Её история звучала убедительно — вела конвой: sounded convincing."
     },
     {
       "term": "genuine",
       "translation": "искренний, подлинный",
-      "example": "Was his apology genuine?"
+      "example": "Was his apology genuine?",
+      "keyword": "джинн",
+      "mnemonic": "Его извинение было искренним — вылетел джинн: was his apology genuine?"
     },
     {
       "term": "suspicious",
       "translation": "подозрительный",
-      "example": "That explanation sounds suspicious."
+      "example": "That explanation sounds suspicious.",
+      "keyword": "саспенс",
+      "mnemonic": "Объяснение звучит подозрительно — сплошной саспенс: sounds suspicious."
     },
     {
       "term": "fib",
       "translation": "небольшая ложь",
-      "example": "It's just a little fib — no harm done."
+      "example": "It's just a little fib — no harm done.",
+      "keyword": "фибра",
+      "mnemonic": "Это всего лишь небольшая ложь — фибра души не задета: just a little fib."
+    },
+    {
+      "term": "anyway",
+      "translation": "в общем, кстати",
+      "example": "Anyway, how are you doing?",
+      "keyword": "эники",
+      "mnemonic": "В общем, как дела — эники-беники: anyway, how are you doing?"
+    },
+    {
+      "term": "mind you",
+      "translation": "заметь, учти",
+      "example": "Mind you, it is not easy.",
+      "keyword": "меню",
+      "mnemonic": "Учти, это непросто — читай меню: mind you, it is not easy, заметь."
+    },
+    {
+      "term": "as I say",
+      "translation": "как я говорю",
+      "example": "As I say, I really do not know.",
+      "keyword": "сейф",
+      "mnemonic": "Как я говорю — ничего не знаю, хоть сейф вскрывай: as I say, I do not know."
+    },
+    {
+      "term": "right",
+      "translation": "ладно, итак (филлер)",
+      "example": "Right, so I took a shirt with me.",
+      "keyword": "рай",
+      "mnemonic": "Итак, взял рубашку — и в рай: right, so I took a shirt."
+    },
+    {
+      "term": "let me think",
+      "translation": "дай подумать",
+      "example": "Let me think about it for a moment.",
+      "keyword": "тинктура",
+      "mnemonic": "Дай подумать минутку — выпью тинктуру: let me think, дай подумать."
+    },
+    {
+      "term": "that's a good question",
+      "translation": "хороший вопрос",
+      "example": "That is a good question, I need time.",
+      "keyword": "квест",
+      "mnemonic": "Хороший вопрос — целый квест: that's a good question, need time."
     }
   ]
 }

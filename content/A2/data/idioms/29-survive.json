@@ -1,0 +1,55 @@
+{
+  "lessonId": "survive",
+  "title": "Survive — идиомы",
+  "items": [
+    {
+      "idiom": "build a fire",
+      "translation": "развести костёр",
+      "example": "Build a fire so you can get warm.",
+      "keyword": "фаер",
+      "mnemonic": "Турист с фаером разводит костёр — build a fire."
+    },
+    {
+      "idiom": "make a plan",
+      "translation": "составлять план",
+      "example": "Make a plan before you go to the mountains.",
+      "keyword": "планка",
+      "mnemonic": "Скаут с планкой составляет план — make a plan."
+    },
+    {
+      "idiom": "stay away from windows",
+      "translation": "держаться подальше от окон",
+      "example": "Stay away from windows and mirrors in an earthquake.",
+      "keyword": "вей",
+      "mnemonic": "Спасатель кричит «вей» от окон — stay away from windows."
+    },
+    {
+      "idiom": "put an ice pack on your arm",
+      "translation": "приложить пакет со льдом",
+      "example": "You can put an ice pack on your arm.",
+      "keyword": "айсберг",
+      "mnemonic": "Турист с айсбергом прикладывает лёд — put an ice pack."
+    },
+    {
+      "idiom": "take painkillers",
+      "translation": "принять обезболивающее",
+      "example": "Take some painkillers and rest a little.",
+      "keyword": "пень",
+      "mnemonic": "Лесоруб с пнём глотает обезболивающее — take painkillers."
+    },
+    {
+      "idiom": "build a simple shelter",
+      "translation": "построить простое укрытие",
+      "example": "Build a simple shelter and make a fire.",
+      "keyword": "шёлк",
+      "mnemonic": "Путник с шёлком строит укрытие — build a simple shelter."
+    },
+    {
+      "idiom": "feel safer",
+      "translation": "чувствовать себя в безопасности",
+      "example": "Make a fire so you can feel safer as well.",
+      "keyword": "сейф",
+      "mnemonic": "Турист в сейфе чувствует безопасность — feel safer."
+    }
+  ]
+}

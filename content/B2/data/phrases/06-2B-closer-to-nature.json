@@ -5,17 +5,58 @@
     {
       "phrase": "carbon footprint",
       "translation": "углеродный след",
-      "example": "Try to reduce your carbon footprint."
+      "example": "Try to reduce your carbon footprint.",
+      "keyword": "принт",
+      "mnemonic": "Старайся уменьшить углеродный след — печатай принт на переработанном: reduce your carbon footprint."
     },
     {
       "phrase": "in the wild",
       "translation": "в дикой природе",
-      "example": "You can see dolphins in the wild here."
+      "example": "You can see dolphins in the wild here.",
+      "keyword": "вальс",
+      "mnemonic": "Дельфины в дикой природе танцуют вальс — see dolphins in the wild."
     },
     {
       "phrase": "at one with nature",
       "translation": "в гармонии с природой",
-      "example": "She feels at one with nature when hiking."
+      "example": "She feels at one with nature when hiking.",
+      "keyword": "ванна",
+      "mnemonic": "В гармонии с природой — принимает ванну из росы: at one with nature when hiking."
+    },
+    {
+      "phrase": "spend time in nature",
+      "translation": "проводить время на природе",
+      "example": "We try to spend more time in nature every week.",
+      "keyword": "дача",
+      "mnemonic": "Стараемся проводить время на природе — едем на дачу: spend more time in nature."
+    },
+    {
+      "phrase": "improve health and well-being",
+      "translation": "улучшать здоровье и самочувствие",
+      "example": "Two hours in nature is enough to improve health and well-being.",
+      "keyword": "боинг",
+      "mnemonic": "Два часа на природе — и здоровье взлетает, как боинг: improve health and well-being."
+    },
+    {
+      "phrase": "sit by the sea",
+      "translation": "сидеть у моря",
+      "example": "We sat by the sea and listened to the waves.",
+      "keyword": "сидр",
+      "mnemonic": "Сидели у моря и слушали волны под сидр: sat by the sea."
+    },
+    {
+      "phrase": "walk along the beach",
+      "translation": "гулять вдоль пляжа",
+      "example": "Several of us walk along the beach in the morning.",
+      "keyword": "бич",
+      "mnemonic": "Гуляем вдоль пляжа утром, как бичи на курорте, — walk along the beach."
+    },
+    {
+      "phrase": "a lack of (sth)",
+      "translation": "нехватка (чего-то)",
+      "example": "There is a lack of green public spaces in this district.",
+      "keyword": "лак",
+      "mnemonic": "Нехватка зелёных зон — покрой лаком: lack of green public spaces, нехватка."
     }
   ]
 }

@@ -2,17 +2,89 @@
   "lessonId": "around-town",
   "title": "Around town — фразы",
   "items": [
-    { "phrase": "You can ... at ...", "translation": "В ... можно ...", "example": "You can buy medicine at a pharmacy." },
-    { "phrase": "borrow a book from", "translation": "взять книгу в", "example": "You can borrow a book from a library." },
-    { "phrase": "send a letter", "translation": "отправить письмо", "example": "You can send a letter at a post office." },
-    { "phrase": "look at paintings", "translation": "смотреть картины", "example": "You can look at paintings at an art gallery." },
-    { "phrase": "see plays", "translation": "смотреть спектакли", "example": "You can see plays at a theatre." },
-    { "phrase": "be only open for ...", "translation": "быть открытым только ...", "example": "The post office is only open for one hour a day." },
-    { "phrase": "check the opening times", "translation": "проверить часы работы", "example": "Check the opening times before you go." },
-    { "phrase": "take it back", "translation": "вернуть (это)", "example": "You can borrow a book in Pakistan and return it in Canada." },
-    { "phrase": "the maximum is ...", "translation": "максимум — это ...", "example": "The maximum film length is ten minutes." },
-    { "phrase": "on the second floor", "translation": "на втором этаже", "example": "The café is on the second floor." },
-    { "phrase": "next to / near", "translation": "рядом с / недалеко от", "example": "There's a café next to the station." },
-    { "phrase": "in front of", "translation": "перед (зданием)", "example": "The pharmacy is in front of the bank." }
+    {
+      "phrase": "You can ... at ...",
+      "translation": "В ... можно ...",
+      "example": "You can buy medicine at a pharmacy.",
+      "keyword": "конь",
+      "mnemonic": "Конь в аптеке: you can buy medicine at a pharmacy — в аптеке можно купить лекарство."
+    },
+    {
+      "phrase": "borrow a book from",
+      "translation": "взять книгу в",
+      "example": "You can borrow a book from a library.",
+      "keyword": "борода",
+      "mnemonic": "Бородач берёт borrow a book from a library — взять книгу в библиотеке."
+    },
+    {
+      "phrase": "send a letter",
+      "translation": "отправить письмо",
+      "example": "You can send a letter at a post office.",
+      "keyword": "сэнсэй",
+      "mnemonic": "Сэнсэй шлёт send a letter — отправить письмо."
+    },
+    {
+      "phrase": "look at paintings",
+      "translation": "смотреть картины",
+      "example": "You can look at paintings at an art gallery.",
+      "keyword": "пингвин",
+      "mnemonic": "Пингвин смотрит look at paintings — смотреть картины."
+    },
+    {
+      "phrase": "see plays",
+      "translation": "смотреть спектакли",
+      "example": "You can see plays at a theatre.",
+      "keyword": "пляж",
+      "mnemonic": "На пляже ставят see plays — смотреть спектакли."
+    },
+    {
+      "phrase": "be only open for ...",
+      "translation": "быть открытым только ...",
+      "example": "The post office is only open for one hour a day.",
+      "keyword": "опен",
+      "mnemonic": "Дверь с табличкой «опен»: be only open for an hour — быть открытым только час."
+    },
+    {
+      "phrase": "check the opening times",
+      "translation": "проверить часы работы",
+      "example": "Check the opening times before you go.",
+      "keyword": "чек",
+      "mnemonic": "Кассир машет чеком: check the opening times — проверить часы работы."
+    },
+    {
+      "phrase": "take it back",
+      "translation": "вернуть (это)",
+      "example": "You can borrow a book in Pakistan and return it in Canada.",
+      "keyword": "тэйк",
+      "mnemonic": "Режиссёр кричит «тэйк!» и требует take it back — вернуть."
+    },
+    {
+      "phrase": "the maximum is ...",
+      "translation": "максимум — это ...",
+      "example": "The maximum film length is ten minutes.",
+      "keyword": "Максим",
+      "mnemonic": "Максим орёт the maximum is ten minutes — максимум десять минут."
+    },
+    {
+      "phrase": "on the second floor",
+      "translation": "на втором этаже",
+      "example": "The café is on the second floor.",
+      "keyword": "фломастер",
+      "mnemonic": "Кафе с фломастером on the second floor — на втором этаже."
+    },
+    {
+      "phrase": "next to / near",
+      "translation": "рядом с / недалеко от",
+      "example": "There's a café next to the station.",
+      "keyword": "нектарин",
+      "mnemonic": "Кафе с нектарином next to the station — рядом со станцией."
+    },
+    {
+      "phrase": "in front of",
+      "translation": "перед (зданием)",
+      "example": "The pharmacy is in front of the bank.",
+      "keyword": "фронт",
+      "mnemonic": "Аптека держит фронт перед банком: in front of the bank — перед банком."
+    }
   ]
 }

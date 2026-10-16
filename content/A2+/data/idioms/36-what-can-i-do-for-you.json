@@ -2,9 +2,54 @@
   "lessonId": "what-can-i-do-for-you",
   "title": "What can I do for you? — идиомы",
   "items": [
-    { "idiom": "lend a hand", "translation": "помочь, протянуть руку помощи", "example": "Could you lend a hand with moving the furniture?" },
-    { "idiom": "go the extra mile", "translation": "сделать больше, чем ожидается", "example": "The staff really went the extra mile to make our stay comfortable." },
-    { "idiom": "give someone a ring", "translation": "позвонить кому-то", "example": "Give me a ring when you're free and we'll chat." },
-    { "idiom": "take someone up on something", "translation": "принять чьё-то предложение", "example": "I'd like to take you up on your offer of help." }
+    {
+      "idiom": "lend a hand",
+      "translation": "помочь, протянуть руку помощи",
+      "example": "Could you lend a hand with moving the furniture?",
+      "keyword": "лента",
+      "mnemonic": "Грузчики с лентой для шкафа — lend a hand, помочь, протянуть руку помощи с мебелью."
+    },
+    {
+      "idiom": "go the extra mile",
+      "translation": "сделать больше, чем ожидается",
+      "example": "The staff really went the extra mile to make our stay comfortable.",
+      "keyword": "миля",
+      "mnemonic": "Персонал наматывает лишнюю милю — go the extra mile, сделать больше, чем ожидается, для уюта."
+    },
+    {
+      "idiom": "give someone a ring",
+      "translation": "позвонить кому-то",
+      "example": "Give me a ring when you're free and we'll chat.",
+      "keyword": "ринг",
+      "mnemonic": "Друг с рингтоном наготове — give someone a ring, позвонить кому-то, как освободишься."
+    },
+    {
+      "idiom": "take someone up on something",
+      "translation": "принять чьё-то предложение",
+      "example": "I'd like to take you up on your offer of help.",
+      "keyword": "талон",
+      "mnemonic": "Гость с талоном помощи — take someone up on something, принять чьё-то предложение помощи."
+    },
+    {
+      "idiom": "get tickets for a concert",
+      "translation": "достать билеты на концерт",
+      "example": "He can get you the best seats for the concert.",
+      "keyword": "тетрис",
+      "mnemonic": "Барыга с тетрисом мест — get tickets for a concert, достать билеты на концерт, лучшие места."
+    },
+    {
+      "idiom": "rent a car for the day",
+      "translation": "арендовать машину на день",
+      "example": "We often rent a car for the day on holiday.",
+      "keyword": "рентген",
+      "mnemonic": "Туристы с рентгеном бака — rent a car for the day, арендовать машину на день в отпуске."
+    },
+    {
+      "idiom": "organise a red carpet",
+      "translation": "организовать красную дорожку",
+      "example": "He can organise a red carpet for you at the Oscars.",
+      "keyword": "картон",
+      "mnemonic": "Распорядитель с картоном дорожки — organise a red carpet, организовать красную дорожку на Оскаре."
+    }
   ]
 }

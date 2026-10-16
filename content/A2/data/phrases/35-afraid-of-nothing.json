@@ -2,17 +2,89 @@
   "lessonId": "afraid-of-nothing",
   "title": "Afraid of nothing — фразы",
   "items": [
-    { "phrase": "drive through a tunnel", "translation": "ехать через тоннель", "example": "We drove through a very long tunnel." },
-    { "phrase": "go into a lift", "translation": "зайти в лифт", "example": "The building is so high that you go into a glass lift." },
-    { "phrase": "jump over a gap", "translation": "перепрыгнуть через пропасть", "example": "His car has to jump across a fifteen-metre gap." },
-    { "phrase": "go under the bridge", "translation": "пройти под мостом", "example": "We walked under the bridge when a train went over it." },
-    { "phrase": "walk towards something", "translation": "идти по направлению к чему-то", "example": "A man was running towards the exit." },
-    { "phrase": "move away from something", "translation": "отойти от чего-то", "example": "Please move away from the edge of the pool." },
-    { "phrase": "walk across something", "translation": "пройти по поверхности чего-то", "example": "We walked across the park on Sunday." },
-    { "phrase": "fall out of something", "translation": "выпасть из чего-то", "example": "The cat fell out of the car window." },
-    { "phrase": "take part in", "translation": "участвовать в", "example": "Have you ever taken part in a race?" },
-    { "phrase": "what do you think of it?", "translation": "что ты об этом думаешь?", "example": "I saw Titanic last year. What do you think of it?" },
-    { "phrase": "ask follow-up questions", "translation": "задавать уточняющие вопросы", "example": "Remember to ask follow-up questions." },
-    { "phrase": "in her first year as a ...", "translation": "в её первый год как ...", "example": "Eunice worked on Titanic in her first year as a stuntwoman." }
+    {
+      "phrase": "drive through a tunnel",
+      "translation": "ехать через тоннель",
+      "example": "We drove through a very long tunnel.",
+      "keyword": "тунец",
+      "mnemonic": "Водитель с тунцом едет через тоннель — drive through a tunnel."
+    },
+    {
+      "phrase": "go into a lift",
+      "translation": "зайти в лифт",
+      "example": "The building is so high that you go into a glass lift.",
+      "keyword": "эльф",
+      "mnemonic": "Эльф заходит в лифт — go into a lift."
+    },
+    {
+      "phrase": "jump over a gap",
+      "translation": "перепрыгнуть через пропасть",
+      "example": "His car has to jump across a fifteen-metre gap.",
+      "keyword": "гепард",
+      "mnemonic": "Гепард перепрыгивает пропасть — jump over a gap."
+    },
+    {
+      "phrase": "go under the bridge",
+      "translation": "пройти под мостом",
+      "example": "We walked under the bridge when a train went over it.",
+      "keyword": "андер",
+      "mnemonic": "Турист с надписью «андер» идёт под мостом — go under the bridge."
+    },
+    {
+      "phrase": "walk towards something",
+      "translation": "идти по направлению к чему-то",
+      "example": "A man was running towards the exit.",
+      "keyword": "тауэр",
+      "mnemonic": "Бегун мчится к тауэру — walk towards, идти по направлению к."
+    },
+    {
+      "phrase": "move away from something",
+      "translation": "отойти от чего-то",
+      "example": "Please move away from the edge of the pool.",
+      "keyword": "вей",
+      "mnemonic": "Спасатель кричит «вей» — move away, отойти."
+    },
+    {
+      "phrase": "walk across something",
+      "translation": "пройти по поверхности чего-то",
+      "example": "We walked across the park on Sunday.",
+      "keyword": "кросс",
+      "mnemonic": "Бегуны устроили кросс по парку — walk across."
+    },
+    {
+      "phrase": "fall out of something",
+      "translation": "выпасть из чего-то",
+      "example": "The cat fell out of the car window.",
+      "keyword": "фол",
+      "mnemonic": "Судья свистит фол, а кот выпадает — fall out."
+    },
+    {
+      "phrase": "take part in",
+      "translation": "участвовать в",
+      "example": "Have you ever taken part in a race?",
+      "keyword": "партия",
+      "mnemonic": "Шахматист с партией участвует — take part in."
+    },
+    {
+      "phrase": "what do you think of it?",
+      "translation": "что ты об этом думаешь?",
+      "example": "I saw Titanic last year. What do you think of it?",
+      "keyword": "танк",
+      "mnemonic": "Танкист спрашивает — what do you think of it, что думаешь."
+    },
+    {
+      "phrase": "ask follow-up questions",
+      "translation": "задавать уточняющие вопросы",
+      "example": "Remember to ask follow-up questions.",
+      "keyword": "футбол",
+      "mnemonic": "Журналист с футболом задаёт вопросы — ask follow-up questions."
+    },
+    {
+      "phrase": "in her first year as a ...",
+      "translation": "в её первый год как ...",
+      "example": "Eunice worked on Titanic in her first year as a stuntwoman.",
+      "keyword": "фарш",
+      "mnemonic": "Каскадёрша с фаршем вспоминает первый год — in her first year."
+    }
   ]
 }

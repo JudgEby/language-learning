@@ -5,17 +5,58 @@
     {
       "phrase": "come out of your shell",
       "translation": "раскрепоститься",
-      "example": "It took years to come out of my shell."
+      "example": "It took years to come out of my shell.",
+      "keyword": "шелуха",
+      "mnemonic": "Годами раскрепощался — сбрасывал шелуху: come out of my shell."
     },
     {
       "phrase": "need space",
       "translation": "нуждаться в личном пространстве",
-      "example": "Sometimes I just need space."
+      "example": "Sometimes I just need space.",
+      "keyword": "спейс",
+      "mnemonic": "Иногда нужно личное пространство — нужен спейс: sometimes I just need space."
     },
     {
       "phrase": "drain your energy",
       "translation": "высасывать энергию",
-      "example": "Small talk can drain my energy."
+      "example": "Small talk can drain my energy.",
+      "keyword": "дренаж",
+      "mnemonic": "Смол-ток высасывает энергию — открой дренаж: drain my energy."
+    },
+    {
+      "phrase": "spend time alone",
+      "translation": "проводить время в одиночестве",
+      "example": "She likes to spend time alone at weekends.",
+      "keyword": "алоэ",
+      "mnemonic": "Любит проводить время в одиночестве — поливает алоэ: spend time alone."
+    },
+    {
+      "phrase": "work from home",
+      "translation": "работать из дома",
+      "example": "He asked to work from home twice a week.",
+      "keyword": "хоум-офис",
+      "mnemonic": "Попросился работать из дома — оборудовал хоум-офис: work from home."
+    },
+    {
+      "phrase": "give a presentation",
+      "translation": "выступать с презентацией",
+      "example": "She gave a presentation to a large audience.",
+      "keyword": "презент",
+      "mnemonic": "Выступила с презентацией — получила презент: gave a presentation."
+    },
+    {
+      "phrase": "take the idea seriously",
+      "translation": "воспринимать идею всерьёз",
+      "example": "At first nobody took the idea seriously.",
+      "keyword": "сериал",
+      "mnemonic": "Сначала никто не воспринял идею всерьёз — приняли за сериал: took the idea seriously."
+    },
+    {
+      "phrase": "reduce the number of meetings",
+      "translation": "сокращать число встреч",
+      "example": "We agreed to reduce the number of meetings.",
+      "keyword": "митинг",
+      "mnemonic": "Договорились сокращать число встреч — меньше митингов: reduce meetings."
     }
   ]
 }

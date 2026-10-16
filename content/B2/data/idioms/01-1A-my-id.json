@@ -5,12 +5,16 @@
     {
       "idiom": "eye-opener",
       "translation": "открыло глаза",
-      "example": "The trip to India was a real eye-opener."
+      "example": "The trip to India was a real eye-opener.",
+      "keyword": "айфон",
+      "mnemonic": "Поездка в Индию открыла глаза — смотрел через айфон: real eye-opener."
     },
     {
       "idiom": "stand up for yourself",
       "translation": "постоять за себя",
-      "example": "You need to stand up for yourself sometimes."
+      "example": "You need to stand up for yourself sometimes.",
+      "keyword": "стендап",
+      "mnemonic": "Иногда надо постоять за себя — выйди в стендап: stand up for yourself."
     }
   ]
 }

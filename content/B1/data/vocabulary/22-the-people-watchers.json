@@ -2,17 +2,89 @@
   "lessonId": "the-people-watchers",
   "title": "The People Watchers — новые слова",
   "items": [
-    { "term": "hold a sale", "translation": "проводить распродажу", "example": "The shop held a sale to attract more customers." },
-    { "term": "raise money", "translation": "собирать деньги", "example": "They raised money for charity by selling cakes." },
-    { "term": "do an experiment", "translation": "проводить эксперимент", "example": "The team did an experiment on the street." },
-    { "term": "make a decision", "translation": "принимать решение", "example": "It's time to make a decision about the job." },
-    { "term": "tell a story", "translation": "рассказывать историю", "example": "He told us a funny story about his childhood." },
-    { "term": "do someone a favour", "translation": "делать одолжение", "example": "Could you do me a favour and lend me some money?" },
-    { "term": "tell a lie", "translation": "говорить неправду, лгать", "example": "It's easy to tell a lie, but hard to keep it." },
-    { "term": "jump a queue", "translation": "лезть без очереди", "example": "Someone jumped the queue and everyone got angry." },
-    { "term": "cut hair", "translation": "стричь волосы", "example": "She cuts hair for a living." },
-    { "term": "get a seat", "translation": "занять место", "example": "It's hard to get a seat on the crowded train." },
-    { "term": "persuade someone", "translation": "убеждать кого-то", "example": "How would you persuade someone to dress up as a tree?" },
-    { "term": "hidden camera", "translation": "скрытая камера", "example": "The psychologists filmed people with a hidden camera." }
+    {
+      "term": "hold a sale",
+      "translation": "проводить распродажу",
+      "example": "The shop held a sale to attract more customers.",
+      "keyword": "холд, сейл",
+      "mnemonic": "Холд-сейл-толпа давится: shop held a sale — проводил распродажу для клиентов."
+    },
+    {
+      "term": "raise money",
+      "translation": "собирать деньги",
+      "example": "They raised money for charity by selling cakes.",
+      "keyword": "рейз, мани",
+      "mnemonic": "Рейз-мани-копилка звенит: they raised money — собирали деньги пирогами на благотворительность."
+    },
+    {
+      "term": "do an experiment",
+      "translation": "проводить эксперимент",
+      "example": "The team did an experiment on the street.",
+      "keyword": "эксперимент",
+      "mnemonic": "Эксперимент на улице гудит: team did an experiment — проводила эксперимент на улице."
+    },
+    {
+      "term": "make a decision",
+      "translation": "принимать решение",
+      "example": "It's time to make a decision about the job.",
+      "keyword": "мейк, десижн",
+      "mnemonic": "Мейк-десижн-молот стучит: time to make a decision — принимать решение о работе."
+    },
+    {
+      "term": "tell a story",
+      "translation": "рассказывать историю",
+      "example": "He told us a funny story about his childhood.",
+      "keyword": "тел, стори",
+      "mnemonic": "Тел-стори у костра: he told a story — рассказывал историю детства, все смеялись."
+    },
+    {
+      "term": "do someone a favour",
+      "translation": "делать одолжение",
+      "example": "Could you do me a favour and lend me some money?",
+      "keyword": "фейвор",
+      "mnemonic": "Фейвор-записка в руке: do me a favour — сделай одолжение, одолжи денег."
+    },
+    {
+      "term": "tell a lie",
+      "translation": "говорить неправду, лгать",
+      "example": "It's easy to tell a lie, but hard to keep it.",
+      "keyword": "тел, лай",
+      "mnemonic": "Тел-лай-детектор пищит: it's easy to tell a lie — говорить неправду легко, скрывать трудно."
+    },
+    {
+      "term": "jump a queue",
+      "translation": "лезть без очереди",
+      "example": "Someone jumped the queue and everyone got angry.",
+      "keyword": "джамп, кью",
+      "mnemonic": "Джамп-кью через головы: someone jumped the queue — лез без очереди, все злятся."
+    },
+    {
+      "term": "cut hair",
+      "translation": "стричь волосы",
+      "example": "She cuts hair for a living.",
+      "keyword": "кат, хейр",
+      "mnemonic": "Кат-хейр-ножницы щёлкают: she cuts hair — стрижёт волосы, этим живёт."
+    },
+    {
+      "term": "get a seat",
+      "translation": "занять место",
+      "example": "It's hard to get a seat on the crowded train.",
+      "keyword": "сит",
+      "mnemonic": "Сит-место в вагоне занято: hard to get a seat — занять место в переполненном поезде."
+    },
+    {
+      "term": "persuade someone",
+      "translation": "убеждать кого-то",
+      "example": "How would you persuade someone to dress up as a tree?",
+      "keyword": "персуейд",
+      "mnemonic": "Персуейд-дерево уговаривает: how to persuade — убедить кого-то нарядиться деревом?"
+    },
+    {
+      "term": "hidden camera",
+      "translation": "скрытая камера",
+      "example": "The psychologists filmed people with a hidden camera.",
+      "keyword": "хидден, камера",
+      "mnemonic": "Хидден-камера в стене мигает: filmed with hidden camera — скрытой камерой сняли прохожих."
+    }
   ]
 }

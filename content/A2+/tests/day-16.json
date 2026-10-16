@@ -178,5 +178,50 @@
     "relatedRuleIds": [
       "make-a-difference"
     ]
+  },
+  {
+    "question": "Complete the sentence: ___ I'm going to visit an old friend.",
+    "options": [
+      "take a message",
+      "find a solution",
+      "What are you going to do tonight?",
+      "I set an alarm so that I wouldn't oversleep."
+    ],
+    "correctIndex": 2,
+    "explanation": "'What are you going to do tonight?' (Что ты собираешься делать сегодня вечером?). Full sentence: What are you going to do tonight? I'm going to visit an old friend.",
+    "relatedRuleIds": [
+      "free-in-nyc"
+    ],
+    "id": "f2ddeb867cf0"
+  },
+  {
+    "question": "Which word means 'молочные продукты'?",
+    "options": [
+      "dairy",
+      "make a discovery",
+      "Do you travel light?",
+      "rude"
+    ],
+    "correctIndex": 0,
+    "explanation": "'dairy' means молочные продукты. Example: Some people avoid dairy because they are lactose intolerant.",
+    "relatedRuleIds": [
+      "the-future-of-food"
+    ],
+    "id": "d02981a88048"
+  },
+  {
+    "question": "Complete the sentence: The boys were caught writing graffiti. ___.",
+    "options": [
+      "If I study hard, I'll pass",
+      "How long have you…?",
+      "They were told to do community service",
+      "I don't feel well"
+    ],
+    "correctIndex": 2,
+    "explanation": "'They were told to do community service' (Им велели выполнять общественные работы). Full sentence: The boys were caught writing graffiti. They were told to do community service.",
+    "relatedRuleIds": [
+      "crime-and-punishment"
+    ],
+    "id": "1380a2b88cbe"
   }
 ]

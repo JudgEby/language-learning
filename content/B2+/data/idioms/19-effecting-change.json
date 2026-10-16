@@ -1,0 +1,104 @@
+{
+  "lessonId": "effecting-change",
+  "title": "5C Effecting Change — Идиомы: перемены и активизм",
+  "items": [
+    {
+      "idiom": "make a difference",
+      "translation": "изменить что-то к лучшему",
+      "example": "Small local projects can really make a difference.",
+      "keyword": "дифферанс",
+      "mnemonic": "Проект дал дифферанс-эффект: он смог изменить что-то к лучшему, — дифферанс светит make a difference."
+    },
+    {
+      "idiom": "take the first step",
+      "translation": "сделать первый шаг",
+      "example": "Signing the petition was only the first step, but someone had to take it.",
+      "keyword": "степ",
+      "mnemonic": "Петиция как степ-старт: надо сделать первый шаг, — степ топает take the first step."
+    },
+    {
+      "idiom": "get the ball rolling",
+      "translation": "запустить процесс",
+      "example": "We got the ball rolling by organising a public debate.",
+      "keyword": "роллинг",
+      "mnemonic": "Дебаты дали роллинг-разгон: они смогли запустить процесс, — роллинг катится get the ball rolling."
+    },
+    {
+      "idiom": "do one's bit",
+      "translation": "внести свой вклад",
+      "example": "Everyone can do their bit to protect the environment.",
+      "keyword": "бит",
+      "mnemonic": "Каждый внёс бит-лепту: все смогли внести свой вклад, — бит звенит do one's bit."
+    },
+    {
+      "idiom": "stand up for",
+      "translation": "отстаивать, защищать",
+      "example": "She stood up for homeless people at the council meeting.",
+      "keyword": "стэнд",
+      "mnemonic": "Активистка встала на стэнд-трибуну: она стала отстаивать и защищать бездомных, — стэнд держит stand up for."
+    },
+    {
+      "idiom": "give a voice to",
+      "translation": "дать голос тем, кого не слышат",
+      "example": "The campaign gives a voice to neglected communities.",
+      "keyword": "войс",
+      "mnemonic": "Кампания включила войс-микрофон: она смогла дать голос тем, кого не слышат, — войс звучит give a voice to."
+    },
+    {
+      "idiom": "spread the word",
+      "translation": "распространять информацию",
+      "example": "Volunteers spread the word about the fundraiser on social media.",
+      "keyword": "спред",
+      "mnemonic": "Волонтёры мажут спред-новость по сетям: они стали распространять информацию, — спред липнет spread the word."
+    },
+    {
+      "idiom": "the tip of the iceberg",
+      "translation": "верхушка айсберга",
+      "example": "These statistics are just the tip of the iceberg.",
+      "keyword": "тип",
+      "mnemonic": "Статистика как тип-вершина: это верхушка айсберга проблем, — тип торчит the tip of the iceberg."
+    },
+    {
+      "idiom": "a drop in the ocean",
+      "translation": "капля в море",
+      "example": "Our donation felt like a drop in the ocean.",
+      "keyword": "дроп",
+      "mnemonic": "Пожертвование как дроп в море: это капля в море нужд, — дроп тонет a drop in the ocean."
+    },
+    {
+      "idiom": "turn the tide",
+      "translation": "переломить ситуацию",
+      "example": "The concert helped turn the tide of public opinion.",
+      "keyword": "тайд",
+      "mnemonic": "Концерт развернул тайд-мнение: он смог переломить ситуацию, — тайд повернул turn the tide."
+    },
+    {
+      "idiom": "a step in the right direction",
+      "translation": "шаг в верном направлении",
+      "example": "The new recycling law is a step in the right direction.",
+      "keyword": "дирекшн",
+      "mnemonic": "Закон как дирекшн-указатель: это шаг в верном направлении, — дирекшн ведёт a step in the right direction."
+    },
+    {
+      "idiom": "in a nutshell",
+      "translation": "в двух словах",
+      "example": "In a nutshell, we need more volunteers and more money.",
+      "keyword": "шелл",
+      "mnemonic": "Нужды уместились в шелл-скорлупку: это в двух словах — волонтёры и деньги, — шелл щёлкает in a nutshell."
+    },
+    {
+      "idiom": "long story short",
+      "translation": "короче говоря",
+      "example": "Long story short, the council finally agreed to fund the shelter.",
+      "keyword": "шорт-стори",
+      "mnemonic": "Совет свёл дебаты в шорт-стори: короче говоря, приют профинансировали, — шорт-стори режет long story short."
+    },
+    {
+      "idiom": "the pros and cons",
+      "translation": "плюсы и минусы",
+      "example": "We discussed the pros and cons of each awareness-raising idea.",
+      "keyword": "прос-конс",
+      "mnemonic": "На доске расписали прос-конс таблицу: это плюсы и минусы идей, — прос-конс спорит the pros and cons."
+    }
+  ]
+}

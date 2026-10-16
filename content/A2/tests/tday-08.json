@@ -298,5 +298,110 @@
     "relatedRuleIds": [
       "what-do-you-recommend"
     ]
+  },
+  {
+    "id": "26cb2a3e9a85",
+    "question": "Complete the sentence: ___ — No, that's all, thanks.",
+    "options": [
+      "Anything else?",
+      "bring up",
+      "like travelling by ...",
+      "in an eight-hour day"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Anything else?' (Что-нибудь ещё?). Full sentence: Anything else? — No, that's all, thanks.",
+    "relatedRuleIds": [
+      "can-i-have-a-coffee"
+    ]
+  },
+  {
+    "id": "5c109b5b4f14",
+    "question": "Which word means 'дружелюбный'?",
+    "options": [
+      "friendly",
+      "miss the train / a meeting",
+      "want to be a ...",
+      "a place outside"
+    ],
+    "correctIndex": 0,
+    "explanation": "'friendly' means дружелюбный. Example: Everyone in the group is friendly and helpful.",
+    "relatedRuleIds": [
+      "real-friends"
+    ]
+  },
+  {
+    "id": "fde13c749141",
+    "question": "Which word means 'зарядное устройство'?",
+    "options": [
+      "a charger",
+      "How much does it cost?",
+      "offer to help",
+      "a grandparent"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a charger' means зарядное устройство. Example: You can buy a charger for your mobile here.",
+    "relatedRuleIds": [
+      "can-i-help-you"
+    ]
+  },
+  {
+    "id": "ae0eea8b9a52",
+    "question": "Choose the correct collocation: He changed his mind and stayed at the same company.",
+    "options": [
+      "a packet",
+      "change one's mind",
+      "get cold",
+      "be (a) good travel partner"
+    ],
+    "correctIndex": 1,
+    "explanation": "'change one's mind' (передумать). Full sentence: He changed his mind and stayed at the same company.",
+    "relatedRuleIds": [
+      "time-twins"
+    ]
+  },
+  {
+    "id": "52efcfcbd30f",
+    "question": "Which word means 'свитер'?",
+    "options": [
+      "a sweater",
+      "Can I carry your bag?",
+      "lie on the ground",
+      "be different from"
+    ],
+    "correctIndex": 0,
+    "explanation": "'a sweater' means свитер. Example: Put on a sweater — it's cold outside.",
+    "relatedRuleIds": [
+      "what-a-difference"
+    ]
+  },
+  {
+    "id": "2a58f343f8e4",
+    "question": "Choose the correct collocation: My car broke down and I had to walk.",
+    "options": [
+      "the sunrise",
+      "What are those?",
+      "My car broke down.",
+      "How about ...?"
+    ],
+    "correctIndex": 2,
+    "explanation": "'My car broke down.' (Моя машина сломалась.). Full sentence: My car broke down and I had to walk.",
+    "relatedRuleIds": [
+      "sorry-im-late"
+    ]
+  },
+  {
+    "id": "8c426848de81",
+    "question": "Which word means 'ответить / получить сообщение'?",
+    "options": [
+      "Valentine's Day",
+      "answer / get a text message",
+      "My ... hurts",
+      "a pedestrian street"
+    ],
+    "correctIndex": 1,
+    "explanation": "'answer / get a text message' means ответить / получить сообщение. Example: She answered three text messages in one hour.",
+    "relatedRuleIds": [
+      "one-thing-at-a-time"
+    ]
   }
 ]

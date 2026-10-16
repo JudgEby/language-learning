@@ -2,15 +2,75 @@
   "lessonId": "in-other-words",
   "title": "In other words — новые слова",
   "items": [
-    { "term": "misunderstanding", "translation": "недоразумение", "example": "There was a misunderstanding about the time of the meeting." },
-    { "term": "get the wrong address", "translation": "ошибиться адресом", "example": "I ended up at the wrong house because I'd got the wrong address." },
-    { "term": "get the date wrong", "translation": "перепутать дату", "example": "We got the date wrong and arrived a day early." },
-    { "term": "wrong number", "translation": "неправильный номер", "example": "I answered the phone, but it was a wrong number." },
-    { "term": "not recognise someone's voice", "translation": "не узнать чей-то голос", "example": "She didn't recognise my voice on the phone." },
-    { "term": "reformulate", "translation": "переформулировать", "example": "Let me reformulate my question to make it clearer." },
-    { "term": "clarification", "translation": "уточнение", "example": "I need some clarification on this point." },
-    { "term": "realise", "translation": "осознавать, понимать", "example": "I didn't realise it was for today." },
-    { "term": "it was a different person with the same name", "translation": "это был другой человек с тем же именем", "example": "I was expecting Pete, but it was a different Peter Smith." },
-    { "term": "there are two streets with the same name", "translation": "есть две улицы с одинаковым названием", "example": "We went to the wrong street because there are two with the same name." }
+    {
+      "term": "misunderstanding",
+      "translation": "недоразумение",
+      "example": "There was a misunderstanding about the time of the meeting.",
+      "keyword": "мисандестенд",
+      "mnemonic": "Мис-андестенд напутал время: вышло misunderstanding — недоразумение о времени встречи."
+    },
+    {
+      "term": "get the wrong address",
+      "translation": "ошибиться адресом",
+      "example": "I ended up at the wrong house because I'd got the wrong address.",
+      "keyword": "ронг, адрес",
+      "mnemonic": "Ронг-адрес на конверте: я get the wrong address — ошибся адресом и попал не в тот дом."
+    },
+    {
+      "term": "get the date wrong",
+      "translation": "перепутать дату",
+      "example": "We got the date wrong and arrived a day early.",
+      "keyword": "дейт, ронг",
+      "mnemonic": "Дейт-ронг в календаре: we get the date wrong — перепутали дату и приехали раньше."
+    },
+    {
+      "term": "wrong number",
+      "translation": "неправильный номер",
+      "example": "I answered the phone, but it was a wrong number.",
+      "keyword": "ронг, намбер",
+      "mnemonic": "Ронг-намбер в трубке гудит: это wrong number — неправильный номер, не туда попал."
+    },
+    {
+      "term": "not recognise someone's voice",
+      "translation": "не узнать чей-то голос",
+      "example": "She didn't recognise my voice on the phone.",
+      "keyword": "рекогнайз, войс",
+      "mnemonic": "Рекогнайз-войс не сработал: я not recognise someone's voice — не узнал голос по телефону."
+    },
+    {
+      "term": "reformulate",
+      "translation": "переформулировать",
+      "example": "Let me reformulate my question to make it clearer.",
+      "keyword": "реформьюлейт",
+      "mnemonic": "Реформьюлейт-вопрос пересобери: reformulate — переформулируй вопрос, чтобы стало яснее."
+    },
+    {
+      "term": "clarification",
+      "translation": "уточнение",
+      "example": "I need some clarification on this point.",
+      "keyword": "кларификейшн",
+      "mnemonic": "Кларификейшн-лупа в руке: мне нужно clarification — уточнение по этому пункту."
+    },
+    {
+      "term": "realise",
+      "translation": "осознавать, понимать",
+      "example": "I didn't realise it was for today.",
+      "keyword": "риалайз",
+      "mnemonic": "Риалайз-лампочка вспыхнула: я вдруг realise — осознал и понял, что это на сегодня."
+    },
+    {
+      "term": "it was a different person with the same name",
+      "translation": "это был другой человек с тем же именем",
+      "example": "I was expecting Pete, but it was a different Peter Smith.",
+      "keyword": "диферент, нейм",
+      "mnemonic": "Диферент-нейм в списке: it was a different person with the same name — это был другой человек с тем же именем."
+    },
+    {
+      "term": "there are two streets with the same name",
+      "translation": "есть две улицы с одинаковым названием",
+      "example": "We went to the wrong street because there are two with the same name.",
+      "keyword": "стритс, нейм",
+      "mnemonic": "Стритс-нейм-двойники на карте: there are two streets with the same name — есть две улицы с одинаковым названием."
+    }
   ]
 }

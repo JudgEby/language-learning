@@ -2,11 +2,68 @@
   "lessonId": "the-company-4u",
   "title": "The company 4U — фразы",
   "items": [
-    { "phrase": "I'm in charge of…", "translation": "Я отвечаю за…", "example": "I'm in charge of the marketing department." },
-    { "phrase": "I work as…", "translation": "Я работаю… (кем-то)", "example": "I work as a software developer for a tech company." },
-    { "phrase": "My responsibilities include…", "translation": "Мои обязанности включают…", "example": "My responsibilities include training new staff members." },
-    { "phrase": "I'm responsible for…", "translation": "Я ответственен за…", "example": "I'm responsible for managing the team's budget." },
-    { "phrase": "I deal with…", "translation": "Я занимаюсь… / имею дело с…", "example": "I deal with customer complaints and enquiries." },
-    { "phrase": "I report to…", "translation": "Я подчиняюсь…", "example": "I report to the regional manager." }
+    {
+      "phrase": "I'm in charge of…",
+      "translation": "Я отвечаю за…",
+      "example": "I'm in charge of the marketing department.",
+      "keyword": "чашка",
+      "mnemonic": "Начальница с чашкой чая — I'm in charge of… — Я отвечаю за маркетинг."
+    },
+    {
+      "phrase": "I work as…",
+      "translation": "Я работаю… (кем-то)",
+      "example": "I work as a software developer for a tech company.",
+      "keyword": "ворона",
+      "mnemonic": "Ворона в очках — I work as… — Я работаю разработчиком в айти."
+    },
+    {
+      "phrase": "My responsibilities include…",
+      "translation": "Мои обязанности включают…",
+      "example": "My responsibilities include training new staff members.",
+      "keyword": "респондент",
+      "mnemonic": "Респондент с папкой — My responsibilities include… — Мои обязанности включают обучение новичков."
+    },
+    {
+      "phrase": "I'm responsible for…",
+      "translation": "Я ответственен за…",
+      "example": "I'm responsible for managing the team's budget.",
+      "keyword": "рубль",
+      "mnemonic": "Бухгалтер с рублём — I'm responsible for… — Я ответственен за бюджет команды."
+    },
+    {
+      "phrase": "I deal with…",
+      "translation": "Я занимаюсь… / имею дело с…",
+      "example": "I deal with customer complaints and enquiries.",
+      "keyword": "дятел",
+      "mnemonic": "Дятел долбит жалобы — I deal with… — Я занимаюсь жалобами клиентов."
+    },
+    {
+      "phrase": "I report to…",
+      "translation": "Я подчиняюсь…",
+      "example": "I report to the regional manager.",
+      "keyword": "рапорт",
+      "mnemonic": "Солдат с рапортом — I report to… — Я подчиняюсь региональному менеджеру."
+    },
+    {
+      "phrase": "Are you working on a special task at the moment?",
+      "translation": "Ты сейчас работаешь над каким-то особым заданием?",
+      "example": "Are you working on a special task at the moment?",
+      "keyword": "таз",
+      "mnemonic": "С тазом в руках спрашивают Are you working on a special task at the moment? — Ты сейчас работаешь над особым заданием."
+    },
+    {
+      "phrase": "Do you think your salary is good?",
+      "translation": "Как думаешь, у тебя хорошая зарплата?",
+      "example": "Do you think your salary is good?",
+      "keyword": "сало",
+      "mnemonic": "Бухгалтер с салом пытает Do you think your salary is good? — Как думаешь, у тебя хорошая зарплата."
+    },
+    {
+      "phrase": "I look forward to hearing from you",
+      "translation": "С нетерпением жду вашего ответа",
+      "example": "Best regards. I look forward to hearing from you.",
+      "keyword": "форд",
+      "mnemonic": "Секретарь с фордом на заставке — I look forward to hearing from you, С нетерпением жду вашего ответа."
+    }
   ]
 }

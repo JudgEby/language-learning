@@ -1,0 +1,125 @@
+{
+  "lessonId": "effecting-change",
+  "title": "5C Effecting Change — Фразы для резюмирования",
+  "items": [
+    {
+      "phrase": "So what you're saying is (that)",
+      "translation": "то есть ты говоришь, что",
+      "example": "So what you're saying is that the council is not doing anything.",
+      "keyword": "сено",
+      "mnemonic": "Ты ворошишь сено и уточняешь: то есть ты говоришь, что совет бездельничает? — сено шуршит So what you're saying is."
+    },
+    {
+      "phrase": "So what you mean is (that)",
+      "translation": "то есть ты имеешь в виду, что",
+      "example": "So what you mean is that we need more action from governments.",
+      "keyword": "мим",
+      "mnemonic": "Мим без слов показывает: то есть ты имеешь в виду, что нужно больше действий, — мим жестами лепит So what you mean is."
+    },
+    {
+      "phrase": "To put it another way",
+      "translation": "иными словами",
+      "example": "To put it another way, the police need more resources.",
+      "keyword": "путник",
+      "mnemonic": "Путник свернул на другую тропу: иными словами, полиции нужны ресурсы — путник ведёт To put it another way."
+    },
+    {
+      "phrase": "In other words",
+      "translation": "другими словами",
+      "example": "In other words, no one is taking responsibility for the problem.",
+      "keyword": "ворс",
+      "mnemonic": "Ковёр с длинным ворсом пересказали другими словами — никто не отвечает, а ворс топорщится In other words."
+    },
+    {
+      "phrase": "In brief",
+      "translation": "вкратце",
+      "example": "In brief, it is a choice between attention and annoying people.",
+      "keyword": "бриф",
+      "mnemonic": "Начальник трясёт брифом: расскажи вкратце, без воды! — бриф сжимает In brief."
+    },
+    {
+      "phrase": "In a nutshell",
+      "translation": "в двух словах",
+      "example": "So, in a nutshell, first raise awareness, then organise an event.",
+      "keyword": "нашёл",
+      "mnemonic": "Нашёл орех, расколол — и всё в двух словах поместилось в скорлупу, а нашёл прячет In a nutshell."
+    },
+    {
+      "phrase": "Basically",
+      "translation": "по сути",
+      "example": "Basically, a petition means collecting signatures for social action.",
+      "keyword": "басист",
+      "mnemonic": "Басист ударил по струнам: по сути, петиция — это подписи! — басист гудит Basically."
+    },
+    {
+      "phrase": "To recap",
+      "translation": "подводя итог",
+      "example": "To recap, we discussed a concert and an online donation scheme.",
+      "keyword": "кепка",
+      "mnemonic": "Снял кепку и, подводя итог, перечислил концерт и сборы — кепка венчает To recap."
+    },
+    {
+      "phrase": "So to summarise",
+      "translation": "итак, подведём итог",
+      "example": "So to summarise, we have talked about emissions from cars and buses.",
+      "keyword": "сумма",
+      "mnemonic": "Бухгалтер подбил сумму выбросов: итак, подведём итог по машинам и автобусам — сумма сводит So to summarise."
+    },
+    {
+      "phrase": "start a petition",
+      "translation": "начать петицию",
+      "example": "Start a petition where people sign to say they agree with the action.",
+      "keyword": "птичник",
+      "mnemonic": "В птичнике начали петицию за свободу попугаев — птичник квохчет start a petition."
+    },
+    {
+      "phrase": "sign their names",
+      "translation": "поставить подписи",
+      "example": "People sign their names to say they agree with social action.",
+      "keyword": "сигнал",
+      "mnemonic": "По сигналу все разом решили поставить подписи под акцией — сигнал запускает sign their names."
+    },
+    {
+      "phrase": "present the petition",
+      "translation": "вручить петицию",
+      "example": "Present the petition to the people in power in your city.",
+      "keyword": "презент",
+      "mnemonic": "Петицию упаковали как презент и пошли вручить петицию мэру — презент скрывает present the petition."
+    },
+    {
+      "phrase": "organise a public debate",
+      "translation": "организовать дебаты",
+      "example": "Organise a local public debate and invite speakers with different views.",
+      "keyword": "дебош",
+      "mnemonic": "Чтобы не устроить дебош, решили организовать дебаты по правилам — дебош усмирён organise a public debate."
+    },
+    {
+      "phrase": "organise a concert",
+      "translation": "организовать концерт",
+      "example": "Organise a concert to make people aware of the issue.",
+      "keyword": "консервы",
+      "mnemonic": "На афише вместо барабанщика — консервы, но нам удалось организовать концерт ради идеи — консервы гремят organise a concert."
+    },
+    {
+      "phrase": "raise money for",
+      "translation": "собирать деньги на",
+      "example": "He is raising money for an organisation that protects coastlines.",
+      "keyword": "рейс",
+      "mnemonic": "Объявили благотворительный рейс: собирать деньги на защиту берегов прямо в полёте — рейс собирает raise money for."
+    },
+    {
+      "phrase": "protect coastlines",
+      "translation": "защищать побережья",
+      "example": "The organisation seeks to protect coastlines from polluted water.",
+      "keyword": "костыль",
+      "mnemonic": "Берег подпёрли костылём, чтобы защищать побережья от волн, — костыль держит protect coastlines."
+    },
+    {
+      "phrase": "bring about change",
+      "translation": "добиться перемен",
+      "example": "To bring about change, we need to raise awareness of the problem.",
+      "keyword": "блин",
+      "mnemonic": "Первый блин комом, но мы смогли добиться перемен к третьему блину — блин переворачивает bring about change."
+    }
+  ]
+}

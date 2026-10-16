@@ -1,0 +1,132 @@
+{
+  "lessonId": "new-friends",
+  "title": "1A New Friends — Дружба и привычки",
+  "items": [
+    {
+      "term": "like-minded",
+      "translation": "близкий по духу, единомышленник",
+      "example": "It is not the easiest app to use, but I met a few like-minded people.",
+      "keyword": "лайк мне",
+      "mnemonic": "Единомышленники жмут друг другу «лайк мне» и сразу признают близкого по духу — вот что такое like-minded."
+    },
+    {
+      "term": "match",
+      "translation": "подходящий человек, пара",
+      "example": "Addy believes the best way to find a match is to look for people with similar passions.",
+      "keyword": "матч",
+      "mnemonic": "На теннисном матче она встретила свою пару — подходящего человека, идеальный match."
+    },
+    {
+      "term": "profile",
+      "translation": "профиль, анкета",
+      "example": "The app suggested some great people to chat to based on my profile.",
+      "keyword": "про филина",
+      "mnemonic": "В анкете он нацарапал историю про филина вместо фото — вот тебе и профиль, profile."
+    },
+    {
+      "term": "sign up",
+      "translation": "регистрироваться",
+      "example": "It is not the easiest app to use, but it is worth signing up.",
+      "keyword": "сигнал ап",
+      "mnemonic": "Чтобы зарегистрироваться, он ждал сигнал «ап!» и жал на кнопку — это и есть sign up."
+    },
+    {
+      "term": "colleague",
+      "translation": "коллега",
+      "example": "My colleagues are nice, but they are at least a decade older than me.",
+      "keyword": "к лиге",
+      "mnemonic": "Мой коллега рвётся к лиге чемпионов и зовёт всех с собой — вот тебе colleague."
+    },
+    {
+      "term": "decade",
+      "translation": "десятилетие",
+      "example": "My colleagues are at least a decade older than me.",
+      "keyword": "декан",
+      "mnemonic": "Декан отмечает десятилетие в институте с огромным тортом — запомни decade."
+    },
+    {
+      "term": "married",
+      "translation": "женатый, замужняя",
+      "example": "Most of my colleagues are married with children.",
+      "keyword": "мерил",
+      "mnemonic": "Жених целый час мерил кольцо перед свадьбой — теперь он женатый, married."
+    },
+    {
+      "term": "single",
+      "translation": "одинокий, не состоящий в браке",
+      "example": "Just what you want as a twenty-two-year-old single person!",
+      "keyword": "сингл",
+      "mnemonic": "Одинокий парень записал грустный сингл про одиночество — он single, не состоит в браке."
+    },
+    {
+      "term": "wallet",
+      "translation": "кошелёк",
+      "example": "His new friends laughed when he left his wallet at home.",
+      "keyword": "валет",
+      "mnemonic": "В кошельке вместо денег лежал карточный валет — загляни в wallet."
+    },
+    {
+      "term": "tend to",
+      "translation": "иметь склонность, как правило",
+      "example": "I tend to listen rather than speak in a group.",
+      "keyword": "тент",
+      "mnemonic": "Он как правило таскает с собой тент, потому что имеет склонность прятаться от дождя — вот тебе tend to."
+    },
+    {
+      "term": "be prone to",
+      "translation": "быть склонным к чему-то",
+      "example": "He is prone to turning up late for meetings.",
+      "keyword": "про нос",
+      "mnemonic": "Он склонен вечно бубнить про нос и чихать на встречах — он be prone to опозданиям."
+    },
+    {
+      "term": "be inclined to",
+      "translation": "быть склонным, тяготеть",
+      "example": "He is inclined to act now and think later.",
+      "keyword": "клин",
+      "mnemonic": "Он тяготеет всё чинить и везде забивает клин — он be inclined to действовать сразу."
+    },
+    {
+      "term": "keep on",
+      "translation": "продолжать делать (назойливо)",
+      "example": "Megan kept on criticising me during the meeting last week.",
+      "keyword": "кипень",
+      "mnemonic": "Она назойливо продолжает подливать кипень в чайник и критиковать всех — вот тебе keep on."
+    },
+    {
+      "term": "as a rule",
+      "translation": "как правило",
+      "example": "As a rule, I wake up at 6.30 every morning.",
+      "keyword": "руль",
+      "mnemonic": "Как правило он крутит руль каждое утро в шесть тридцать — вот тебе as a rule."
+    },
+    {
+      "term": "nine times out of ten",
+      "translation": "в девяти случаях из десяти",
+      "example": "Nine times out of ten, I let him win to avoid upsetting him.",
+      "keyword": "найди десятку",
+      "mnemonic": "В девяти случаях из десяти он канючит «найди десятку», чтобы не расстраивать друга — вот тебе nine times out of ten."
+    },
+    {
+      "term": "constantly",
+      "translation": "постоянно",
+      "example": "They were constantly competing with each other.",
+      "keyword": "константа",
+      "mnemonic": "Они постоянно спорят про константу в формуле — вот что значит constantly."
+    },
+    {
+      "term": "habit",
+      "translation": "привычка",
+      "example": "A good habit is to pay attention to how people pronounce words.",
+      "keyword": "обитает",
+      "mnemonic": "Голубь обитает на карнизе по привычке и слушает произношение — вот тебе habit."
+    },
+    {
+      "term": "rewarding",
+      "translation": "стоящий, приносящий удовлетворение",
+      "example": "Helping old friends is a rewarding habit.",
+      "keyword": "ревущий",
+      "mnemonic": "Помогать старым друзьям так приятно, что даже ревущий стадион стих от умиления — это rewarding."
+    }
+  ]
+}

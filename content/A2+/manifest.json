@@ -19,6 +19,10 @@
       "id": "feeling-good"
     },
     {
+      "type": "idioms",
+      "id": "feeling-good"
+    },
+    {
       "type": "rule",
       "id": "true-love"
     },
@@ -31,6 +35,10 @@
       "id": "true-love"
     },
     {
+      "type": "idioms",
+      "id": "true-love"
+    },
+    {
       "type": "rule",
       "id": "nice-day"
     },
@@ -40,6 +48,10 @@
     },
     {
       "type": "phrases",
+      "id": "nice-day"
+    },
+    {
+      "type": "idioms",
       "id": "nice-day"
     },
     {
@@ -52,6 +64,10 @@
     },
     {
       "type": "phrases",
+      "id": "the-company-4u"
+    },
+    {
+      "type": "idioms",
       "id": "the-company-4u"
     },
     {
@@ -64,6 +80,10 @@
     },
     {
       "type": "phrases",
+      "id": "risky-business"
+    },
+    {
+      "type": "idioms",
       "id": "risky-business"
     },
     {
@@ -95,6 +115,10 @@
       "id": "free-in-nyc"
     },
     {
+      "type": "idioms",
+      "id": "free-in-nyc"
+    },
+    {
       "type": "rule",
       "id": "relax"
     },
@@ -107,6 +131,10 @@
       "id": "relax"
     },
     {
+      "type": "idioms",
+      "id": "relax"
+    },
+    {
       "type": "rule",
       "id": "can-i-take-a-message"
     },
@@ -116,6 +144,10 @@
     },
     {
       "type": "phrases",
+      "id": "can-i-take-a-message"
+    },
+    {
+      "type": "idioms",
       "id": "can-i-take-a-message"
     },
     {
@@ -128,6 +160,10 @@
     },
     {
       "type": "phrases",
+      "id": "hidden-talent"
+    },
+    {
+      "type": "idioms",
       "id": "hidden-talent"
     },
     {
@@ -140,6 +176,10 @@
     },
     {
       "type": "phrases",
+      "id": "schools-of-thought"
+    },
+    {
+      "type": "idioms",
       "id": "schools-of-thought"
     },
     {
@@ -152,6 +192,10 @@
     },
     {
       "type": "phrases",
+      "id": "what-should-i-do"
+    },
+    {
+      "type": "idioms",
       "id": "what-should-i-do"
     },
     {
@@ -164,6 +208,10 @@
     },
     {
       "type": "phrases",
+      "id": "fantastic-film-trips"
+    },
+    {
+      "type": "idioms",
       "id": "fantastic-film-trips"
     },
     {
@@ -176,6 +224,10 @@
     },
     {
       "type": "phrases",
+      "id": "travel-tips"
+    },
+    {
+      "type": "idioms",
       "id": "travel-tips"
     },
     {
@@ -188,6 +240,10 @@
     },
     {
       "type": "phrases",
+      "id": "you-cant-miss-it"
+    },
+    {
+      "type": "idioms",
       "id": "you-cant-miss-it"
     },
     {
@@ -200,6 +256,10 @@
     },
     {
       "type": "phrases",
+      "id": "keeping-fit"
+    },
+    {
+      "type": "idioms",
       "id": "keeping-fit"
     },
     {
@@ -212,6 +272,10 @@
     },
     {
       "type": "phrases",
+      "id": "the-future-of-food"
+    },
+    {
+      "type": "idioms",
       "id": "the-future-of-food"
     },
     {
@@ -243,6 +307,10 @@
       "id": "living-the-dream"
     },
     {
+      "type": "idioms",
+      "id": "living-the-dream"
+    },
+    {
       "type": "rule",
       "id": "the-great-impostor"
     },
@@ -255,6 +323,10 @@
       "id": "the-great-impostor"
     },
     {
+      "type": "idioms",
+      "id": "the-great-impostor"
+    },
+    {
       "type": "rule",
       "id": "can-you-tell-me"
     },
@@ -264,6 +336,10 @@
     },
     {
       "type": "phrases",
+      "id": "can-you-tell-me"
+    },
+    {
+      "type": "idioms",
       "id": "can-you-tell-me"
     },
     {
@@ -292,6 +368,10 @@
     },
     {
       "type": "phrases",
+      "id": "pay-me-more"
+    },
+    {
+      "type": "idioms",
       "id": "pay-me-more"
     },
     {
@@ -304,6 +384,10 @@
     },
     {
       "type": "phrases",
+      "id": "im-just-looking"
+    },
+    {
+      "type": "idioms",
       "id": "im-just-looking"
     },
     {
@@ -316,6 +400,10 @@
     },
     {
       "type": "phrases",
+      "id": "green-living"
+    },
+    {
+      "type": "idioms",
       "id": "green-living"
     },
     {
@@ -328,6 +416,10 @@
     },
     {
       "type": "phrases",
+      "id": "into-the-wild"
+    },
+    {
+      "type": "idioms",
       "id": "into-the-wild"
     },
     {
@@ -340,6 +432,10 @@
     },
     {
       "type": "phrases",
+      "id": "it-could-be-because"
+    },
+    {
+      "type": "idioms",
       "id": "it-could-be-because"
     },
     {
@@ -352,6 +448,10 @@
     },
     {
       "type": "phrases",
+      "id": "top-cities"
+    },
+    {
+      "type": "idioms",
       "id": "top-cities"
     },
     {
@@ -364,6 +464,10 @@
     },
     {
       "type": "phrases",
+      "id": "crime-and-punishment"
+    },
+    {
+      "type": "idioms",
       "id": "crime-and-punishment"
     },
     {
@@ -376,6 +480,10 @@
     },
     {
       "type": "phrases",
+      "id": "theres-a-problem"
+    },
+    {
+      "type": "idioms",
       "id": "theres-a-problem"
     },
     {
@@ -388,6 +496,10 @@
     },
     {
       "type": "phrases",
+      "id": "keeping-in-touch"
+    },
+    {
+      "type": "idioms",
       "id": "keeping-in-touch"
     },
     {
@@ -400,6 +512,10 @@
     },
     {
       "type": "phrases",
+      "id": "make-a-difference"
+    },
+    {
+      "type": "idioms",
       "id": "make-a-difference"
     },
     {
@@ -412,6 +528,10 @@
     },
     {
       "type": "phrases",
+      "id": "i-totally-disagree"
+    },
+    {
+      "type": "idioms",
       "id": "i-totally-disagree"
     },
     {
@@ -424,6 +544,10 @@
     },
     {
       "type": "phrases",
+      "id": "caught-on-film"
+    },
+    {
+      "type": "idioms",
       "id": "caught-on-film"
     },
     {

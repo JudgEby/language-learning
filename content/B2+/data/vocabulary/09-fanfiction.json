@@ -5,102 +5,142 @@
     {
       "term": "opinion",
       "translation": "мнение",
-      "example": "In my opinion, the film was much better than the book."
+      "example": "In my opinion, the film was much better than the book.",
+      "keyword": "опилки",
+      "mnemonic": "Моё мнение в опилках не найдёшь — фильм лучше книги, вот тебе opinion."
     },
     {
       "term": "reaction",
       "translation": "реакция",
-      "example": "Her reaction to the news was one of complete surprise."
+      "example": "Her reaction to the news was one of complete surprise.",
+      "keyword": "рация",
+      "mnemonic": "Её реакция на новость прилетела по рации с удивлением — вот тебе reaction."
     },
     {
       "term": "express",
       "translation": "выражать",
-      "example": "Fans often express their love for the series through online forums."
+      "example": "Fans often express their love for the series through online forums.",
+      "keyword": "экспресс",
+      "mnemonic": "Фанаты выражают любовь к сериалу в экспрессе форумов — вот тебе express."
     },
     {
       "term": "convey",
       "translation": "передавать (мысль, чувство)",
-      "example": "The author uses simple language to convey complex emotions."
+      "example": "The author uses simple language to convey complex emotions.",
+      "keyword": "конвейер",
+      "mnemonic": "Сложные эмоции автор передаёт конвейером простых слов — вот тебе convey."
     },
     {
       "term": "stir emotions",
       "translation": "вызывать эмоции",
-      "example": "The ending of the story stirred strong emotions in the readers."
+      "example": "The ending of the story stirred strong emotions in the readers.",
+      "keyword": "стирает",
+      "mnemonic": "Концовка вызывает эмоции и стирает слёзы у читателей — вот тебе stir emotions."
     },
     {
       "term": "be down in the dumps",
       "translation": "быть в подавленном настроении",
-      "example": "He's been down in the dumps ever since he lost his job."
+      "example": "He's been down in the dumps ever since he lost his job.",
+      "keyword": "дамп",
+      "mnemonic": "Он в подавленном настроении лежит на дампе без работы — вот тебе be down in the dumps."
     },
     {
       "term": "make sense",
       "translation": "иметь смысл, быть понятным",
-      "example": "That explanation really makes sense now."
+      "example": "That explanation really makes sense now.",
+      "keyword": "сенсация",
+      "mnemonic": "Объяснение имеет смысл и понятно, как сенсация — вот тебе make sense."
     },
     {
       "term": "logical",
       "translation": "логичный",
-      "example": "Her argument was clear and logical, so everyone agreed."
+      "example": "Her argument was clear and logical, so everyone agreed.",
+      "keyword": "ложка",
+      "mnemonic": "Её логичный аргумент мешают ложкой и все согласны — вот тебе logical."
     },
     {
       "term": "tragic",
       "translation": "трагический",
-      "example": "The film has a tragic ending, where everyone dies."
+      "example": "The film has a tragic ending, where everyone dies.",
+      "keyword": "тряпка",
+      "mnemonic": "Трагический финал вытирают тряпкой со слезами — вот тебе tragic."
     },
     {
       "term": "profound",
       "translation": "глубокий (о мысли, словах)",
-      "example": "He said those beautiful and profound last words."
+      "example": "He said those beautiful and profound last words.",
+      "keyword": "профан",
+      "mnemonic": "Красивые глубокие слова не для профана — вот тебе profound."
     },
     {
       "term": "encouraging",
       "translation": "обнадёживающий",
-      "example": "It's encouraging that more young people are starting to read books."
+      "example": "It's encouraging that more young people are starting to read books.",
+      "keyword": "кураж",
+      "mnemonic": "Обнадёживающий кураж у молодёжи с книгами — вот тебе encouraging."
     },
     {
       "term": "eager",
       "translation": "стремящийся, желающий",
-      "example": "While I'm eager to promote it, others don't see it as proper literature."
+      "example": "While I'm eager to promote it, others don't see it as proper literature.",
+      "keyword": "егерь",
+      "mnemonic": "Желающий и стремящийся продвигать книги егерь в лесу — вот тебе eager."
     },
     {
       "term": "entertaining",
       "translation": "занимательный",
-      "example": "It's always entertaining to explore a minor character's back story."
+      "example": "It's always entertaining to explore a minor character's back story.",
+      "keyword": "антенна",
+      "mnemonic": "Занимательно копаться в антенне второстепенного героя — вот тебе entertaining."
     },
     {
       "term": "overwhelming",
       "translation": "ошеломляющий, непосильный",
-      "example": "Writing about a world you love is less overwhelming."
+      "example": "Writing about a world you love is less overwhelming.",
+      "keyword": "вельможа",
+      "mnemonic": "Непосильный и ошеломляющий труд для вельможи с миром — вот тебе overwhelming."
     },
     {
       "term": "pathetic",
       "translation": "жалкий",
-      "example": "My pathetic attempts aside, there are some brilliantly creative stories."
+      "example": "My pathetic attempts aside, there are some brilliantly creative stories.",
+      "keyword": "потёк",
+      "mnemonic": "Жалкие попытки, аж макияж потёк, — вот тебе pathetic."
     },
     {
       "term": "disturbing",
       "translation": "тревожный, беспокоящий",
-      "example": "That's too dark and disturbing for me."
+      "example": "That's too dark and disturbing for me.",
+      "keyword": "турбина",
+      "mnemonic": "Слишком тёмная тревожная жуть гудит, как турбина — вот тебе disturbing."
     },
     {
       "term": "convincing",
       "translation": "убедительный",
-      "example": "The author paints a vivid and convincing image."
+      "example": "The author paints a vivid and convincing image.",
+      "keyword": "конь в синем",
+      "mnemonic": "Яркий убедительный образ — конь в синем на картине, вот тебе convincing."
     },
     {
       "term": "unconvincing",
       "translation": "неубедительный",
-      "example": "The new character, however, is unconvincing."
+      "example": "The new character, however, is unconvincing.",
+      "keyword": "не конь",
+      "mnemonic": "Новый персонаж неубедительный — не конь, а пони, вот тебе unconvincing."
     },
     {
       "term": "frustrating",
       "translation": "разочаровывающий, досадный",
-      "example": "His two-dimensional character is limiting and frustrating."
+      "example": "His two-dimensional character is limiting and frustrating.",
+      "keyword": "фрукт ест",
+      "mnemonic": "Досадный плоский герой, пока автор фрукт ест, — вот тебе frustrating."
     },
     {
       "term": "fulfilling",
       "translation": "приносящий удовлетворение",
-      "example": "It allowed for a more fulfilling story."
+      "example": "It allowed for a more fulfilling story.",
+      "keyword": "филин",
+      "mnemonic": "Более приносящая удовлетворение история, где филин доволен, — вот тебе fulfilling."
     }
   ]
 }

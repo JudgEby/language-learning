@@ -2,13 +2,61 @@
   "lessonId": "dream-job",
   "title": "Dream job — фразы",
   "items": [
-    { "phrase": "I used to…", "translation": "Раньше я…", "example": "I used to play football when I was a kid." },
-    { "phrase": "I would always…", "translation": "Бывало, я всегда…", "example": "I would always collect insects as a child." },
-    { "phrase": "I didn't use to…", "translation": "Раньше я не…", "example": "I didn't use to like classical music, but now I love it." },
-    { "phrase": "When I was younger…", "translation": "Когда я был моложе…", "example": "When I was younger, I spent a lot of time with my grandparents." },
-    { "phrase": "As a child, I would…", "translation": "В детстве я часто…", "example": "As a child, I would practise my Oscar speech in the mirror." },
-    { "phrase": "My childhood dream was to…", "translation": "Моей детской мечтой было…", "example": "My childhood dream was to be an actress." },
-    { "phrase": "Things have changed — now I…", "translation": "Всё изменилось — теперь я…", "example": "Things have changed — now I work as a software developer." },
-    { "phrase": "I remember I used to…", "translation": "Помню, я раньше…", "example": "I remember I used to dream of being an artist." }
+    {
+      "phrase": "I used to…",
+      "translation": "Раньше я…",
+      "example": "I used to play football when I was a kid.",
+      "keyword": "юздту",
+      "mnemonic": "Юздту-футбол во дворе: I used to play — раньше я играл в футбол в детстве."
+    },
+    {
+      "phrase": "I would always…",
+      "translation": "Бывало, я всегда…",
+      "example": "I would always collect insects as a child.",
+      "keyword": "вудолвейз",
+      "mnemonic": "Вуд-олвейз с жуками: I would always collect — бывало, я всегда собирал насекомых."
+    },
+    {
+      "phrase": "I didn't use to…",
+      "translation": "Раньше я не…",
+      "example": "I didn't use to like classical music, but now I love it.",
+      "keyword": "юздту",
+      "mnemonic": "Юздту-классика зашла: I didn't use to like — раньше я не любил классику, а теперь обожаю."
+    },
+    {
+      "phrase": "When I was younger…",
+      "translation": "Когда я был моложе…",
+      "example": "When I was younger, I spent a lot of time with my grandparents.",
+      "keyword": "янгер",
+      "mnemonic": "Янгер-бабушкин дом: when I was younger — когда я был моложе, торчал у бабушки."
+    },
+    {
+      "phrase": "As a child, I would…",
+      "translation": "В детстве я часто…",
+      "example": "As a child, I would practise my Oscar speech in the mirror.",
+      "keyword": "чайлд, вуд",
+      "mnemonic": "Чайлд-вуд с Оскаром: as a child I would practise — в детстве я часто репетировал речь."
+    },
+    {
+      "phrase": "My childhood dream was to…",
+      "translation": "Моей детской мечтой было…",
+      "example": "My childhood dream was to be an actress.",
+      "keyword": "дрим",
+      "mnemonic": "Дрим-актриса в зеркале: my childhood dream was — моей детской мечтой было стать актрисой."
+    },
+    {
+      "phrase": "Things have changed — now I…",
+      "translation": "Всё изменилось — теперь я…",
+      "example": "Things have changed — now I work as a software developer.",
+      "keyword": "чейнджд",
+      "mnemonic": "Чейнджд-программист за ноутом: things have changed — всё изменилось, теперь я разработчик."
+    },
+    {
+      "phrase": "I remember I used to…",
+      "translation": "Помню, я раньше…",
+      "example": "I remember I used to dream of being an artist.",
+      "keyword": "римембер, юзд",
+      "mnemonic": "Римембер-юзд-художник: I remember I used to dream — помню, я раньше мечтал стать художником."
+    }
   ]
 }

@@ -5,17 +5,58 @@
     {
       "phrase": "get advice",
       "translation": "получить совет",
-      "example": "Where can I get advice on careers?"
+      "example": "Where can I get advice on careers?",
+      "keyword": "девайс",
+      "mnemonic": "Где получить совет по карьере? — спроси девайс: get advice on careers."
     },
     {
       "phrase": "take someone's advice",
       "translation": "послушать совет",
-      "example": "I should have taken her advice."
+      "example": "I should have taken her advice.",
+      "keyword": "тейк",
+      "mnemonic": "Надо было послушать её совет — дубль два, тейк: should have taken her advice."
     },
     {
       "phrase": "seek help",
       "translation": "обратиться за помощью",
-      "example": "Don't be afraid to seek help."
+      "example": "Don't be afraid to seek help.",
+      "keyword": "хелп",
+      "mnemonic": "Не бойся обратиться за помощью — кричи «хелп»: seek help."
+    },
+    {
+      "phrase": "get something off your chest",
+      "translation": "выговориться",
+      "example": "She just needed to get something off her chest.",
+      "keyword": "честь",
+      "mnemonic": "Ей нужно было выговориться — защищала честь: get something off her chest."
+    },
+    {
+      "phrase": "take your mind off problems",
+      "translation": "отвлечься от проблем",
+      "example": "Music helps him take his mind off problems.",
+      "keyword": "мина",
+      "mnemonic": "Музыка помогает отвлечься — обезвредила мину: take his mind off problems."
+    },
+    {
+      "phrase": "get through to someone",
+      "translation": "достучаться до кого-то",
+      "example": "I could not get through to him no matter what I said.",
+      "keyword": "труба",
+      "mnemonic": "Не мог до него достучаться — кричал в трубу: get through to him."
+    },
+    {
+      "phrase": "take it personally",
+      "translation": "принимать на свой счёт",
+      "example": "Do not take my advice personally, please.",
+      "keyword": "персона",
+      "mnemonic": "Не принимай совет на свой счёт — ты не персона: take my advice personally."
+    },
+    {
+      "phrase": "get the message",
+      "translation": "понять намёк",
+      "example": "He did not seem to get the message.",
+      "keyword": "месседж",
+      "mnemonic": "Он не понял намёка — месседж не дошёл: get the message."
     }
   ]
 }

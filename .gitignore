@@ -7,6 +7,8 @@ toExtract/*/*
 node_modules/
 dist/
 app/public/content/
+app/test-results/
+app/playwright-report/
 *.tsbuildinfo
 .idea/
 .cursor/
@@ -14,3 +16,4 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+docs/superpowers/
