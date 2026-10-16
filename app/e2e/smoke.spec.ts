@@ -40,6 +40,39 @@ test.describe('smoke', () => {
     await expect(page.getByRole('heading', { name: 'Настройки' })).toBeVisible();
   });
 
+  test('settings page holds theme and voice with a back link', async ({ page }) => {
+    await page.goto('/settings?from=%2FA2');
+    await expect(page.getByRole('heading', { name: 'Настройки' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Тема' })).toBeVisible();
+    await expect(page.getByRole('checkbox', { name: 'Тёмная тема' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Озвучка' })).toBeVisible();
+    await expect(page.getByLabel('Голос озвучки')).toBeVisible();
+    await expect(page.getByRole('link', { name: 'Назад' })).toBeVisible();
+  });
+
+  test('settings gear carries the current page and returns to it', async ({ page }) => {
+    await page.goto('/A2');
+    await page.getByRole('link', { name: 'Настройки' }).click();
+    await expect(page).toHaveURL(/\/settings\?from=%2FA2/);
+    await page.getByRole('link', { name: 'Назад' }).click();
+    await expect(page).toHaveURL('/A2');
+  });
+
+  test('settings voice select fits the card on mobile width', async ({ page }) => {
+    await page.setViewportSize({ width: 360, height: 800 });
+    await page.goto('/settings?from=%2F');
+    const card = page.locator('.settings-section', {
+      has: page.getByLabel('Голос озвучки'),
+    });
+    const cardBox = await card.boundingBox();
+    const selectBox = await page.getByLabel('Голос озвучки').boundingBox();
+    expect(cardBox).not.toBeNull();
+    expect(selectBox).not.toBeNull();
+    expect(selectBox!.x + selectBox!.width).toBeLessThanOrEqual(
+      cardBox!.x + cardBox!.width + 1,
+    );
+  });
+
   test('game lobby renders continue and restart', async ({ page }) => {
     await page.goto('/A2/game');
     await expect(page.getByRole('heading', { name: 'Игра' })).toBeVisible();

@@ -83,7 +83,7 @@ body {
     color 0.2s ease;
 }
 
-.theme-toggle {
+.settings-button {
   position: fixed;
   top: 1rem;
   right: 1rem;
@@ -98,6 +98,7 @@ body {
   border-radius: 8px;
   background: var(--color-surface);
   color: var(--color-text-secondary);
+  text-decoration: none;
   cursor: pointer;
   box-shadow: 0 1px 3px var(--color-shadow);
   transition:
@@ -107,13 +108,13 @@ body {
     box-shadow 0.15s;
 }
 
-.theme-toggle:hover {
+.settings-button:hover {
   background: var(--color-surface-hover);
   color: var(--color-primary);
   box-shadow: 0 2px 8px var(--color-shadow-hover);
 }
 
-.theme-toggle__icon {
+.settings-button__icon {
   width: 1.25rem;
   height: 1.25rem;
 }
@@ -862,7 +863,8 @@ body {
 /* Flashcards */
 
 .flash-scope,
-.flash-settings {
+.flash-settings,
+.settings-section {
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 8px;
@@ -871,7 +873,8 @@ body {
 }
 
 .flash-scope h2,
-.flash-settings h2 {
+.flash-settings h2,
+.settings-section h2 {
   margin: 0 0 0.75rem;
   font-size: 1rem;
 }
@@ -986,9 +989,12 @@ body {
   border-radius: 6px;
   padding: 0.4rem 0.6rem;
   font: inherit;
+  min-width: 0;
+  max-width: 100%;
 }
 
-.flash-settings .toggle {
+.flash-settings .toggle,
+.settings-section .toggle {
   display: flex;
   margin-bottom: 1rem;
 }
@@ -1191,6 +1197,12 @@ body {
 
   .flash-card {
     padding: 1.5rem 1rem;
+  }
+
+  .settings-section .flash-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
   }
 }
 

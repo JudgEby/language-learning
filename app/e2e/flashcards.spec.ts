@@ -33,7 +33,8 @@ test.describe('flashcards', () => {
     await expect(speak.first()).toBeVisible();
     await speak.first().click();
     await expect(page.getByText(/К повторению:/)).toBeVisible();
-    // Voice settings are always rendered, even with zero OS voices.
+    // Voice settings live on the settings page, rendered even with zero OS voices.
+    await page.goto('/settings?from=%2Fflashcards');
     await expect(page.getByLabel('Голос озвучки')).toBeVisible();
     await expect(page.getByText(/Как установить другие голоса/)).toBeVisible();
   });

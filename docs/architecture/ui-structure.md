@@ -13,7 +13,7 @@ Read when: adding a page, route, or component; changing UI copy; changing colour
 ```
 ThemeProvider          (app/src/components/ThemeProvider.tsx)
 └── BrowserRouter
-    ├── ThemeToggle     (fixed top-right, z-index 100, sibling of <main>)
+    ├── SettingsButton  (fixed top-right, z-index 100, sibling of <main>)
     └── main.app-shell (max-width 960px, centered)
         └── <Routes>
 ```
@@ -28,6 +28,7 @@ whether `dayId` is present in the params.
 |---|---|---|
 | `/` | `HomePage` | level list, plus the global «Карточки» entry |
 | `/flashcards` | `FlashcardsPage` | SM-2 review session, settings, scope picker |
+| `/settings` | `SettingsPage` | theme switch and speech voice/rate, back link to `?from=` |
 | `/:level` | `LevelPage` | choose study, tests, level-scoped cards, or game |
 | `/:level/game` | `GameLobbyPage` | continue a saved run, restart, run stats |
 | `/:level/game/play` | `GamePage` | association word game for the level (or one lesson) |
@@ -109,7 +110,8 @@ first, then the two configuration sections:
   on error, or when the deck is empty). Hidden in single-lesson mode (`?lesson=`), which
   instead shows a fixed-deck note with a «Показать выбор уровней и уроков» reset.
 - Settings («Настройки»): direction (`en-ru`/`ru-en`/`mixed`), `newPerDay`,
-  example toggle, speech voice/rate (`SpeechSettings`), progress reset behind `ConfirmModal`.
+  example toggle, progress reset behind `ConfirmModal`. Speech voice/rate
+  (`SpeechSettings`) used to live here but moved to the settings page.
 - Review: queue counters, then `FlashcardView` (front → «Показать ответ» →
   translation, example, keyword/mnemonic block → four grades
   «Снова»/«Трудно»/«Хорошо»/«Легко»). The English side (front or back,
@@ -123,6 +125,15 @@ visit selects all levels via `ensureInitialized`; afterwards stored settings win
 A plain visit (no params) clears a stuck lesson filter. The back link follows
 the entry: lesson deck → the lesson study page («К списку»), level preset →
 the level page («К уровню»), plain visit → `/` («Ко всем уровням»).
+
+### `SettingsPage.tsx`
+
+Route `/settings` (static, so it wins over `/:level`). Two sections: «Тема»
+(a `Toggle` bound to `themeStore`: on means dark) and «Озвучка» (the shared
+`SpeechSettings` component, backed by `flashcardsStore`). The gear that opens
+this page passes the current address as `?from=`; the `PageHeader` back link
+points at it («Назад»), falling back to `/` («Ко всем уровням») on a direct
+visit, a reload, or a `from` that points back at `/settings` itself.
 
 ### `GameLobbyPage.tsx`
 
@@ -226,12 +237,12 @@ rendered through `ReactMarkdown` + `remark-gfm` again.
 | `Layout.tsx` | `BackLink`, `PageHeader`, `CheckMark`, `Toggle` | despite the filename there is **no** `Layout` export |
 | `ConfirmModal.tsx` | `ConfirmModal` | controlled; returns `null` when closed |
 | `ThemeProvider.tsx` | `ThemeProvider` | effect-only sync, passes children through unchanged |
-| `ThemeToggle.tsx` | `ThemeToggle` | fixed top-right button |
+| `SettingsButton.tsx` | `SettingsButton` | fixed top-right gear `Link` to `/settings?from=…` |
 | `Logo.tsx` | `Logo`, `LogoProps` | two "L" glyphs, neon gradient `#ff1493 → #8338ec → #fb5607 → #ffbe0b` |
 | `FlashcardView.tsx` | `FlashcardView` | card front/answer, example, mnemonic block, four grade buttons, `SpeakButton` on the English side |
 | `SpeakButton.tsx` | `SpeakButton` | icon-only pronunciation button via `lib/speech.ts`; reads voice/rate from `flashcardsStore`, disabled where unsupported |
 | `ScreenFeedback.tsx` | `ScreenFeedback`, `FeedbackSignal`, `FeedbackKind` | full-screen answer glow, mounted by `GamePage` but portalled to `document.body` (so the `.app-shell` shake transform cannot re-base the fixed frame); `null` signal renders nothing |
-| `SpeechSettings.tsx` | `SpeechSettings` | voice (`voiceURI`, auto = best English) and rate selects for the flashcards settings; lists English voices first, shows the auto-picked voice, warns with install steps for the detected OS (`getSpeechPlatform`) when no English voice exists, plus an always-visible collapsed install guide for the current platform |
+| `SpeechSettings.tsx` | `SpeechSettings` | voice (`voiceURI`, auto = best English) and rate selects; rendered on the settings page; lists English voices first, shows the auto-picked voice, warns with install steps for the detected OS (`getSpeechPlatform`) when no English voice exists, plus an always-visible collapsed install guide for the current platform |
 
 `BackLink({to, label})` renders `.back-link` with a `← ` prefix. `PageHeader({title, backTo,
 backLabel, actions})` renders `.page-header`, `.page-header__row`, `.page-header__actions`.
@@ -297,6 +308,7 @@ There are **no** spacing, radius, z-index or typography scale tokens — those a
 | Breakpoint | Effect |
 |---|---|
 | `max-width: 600px` | markdown tables get `overflow-x: auto` |
+| `max-width: 600px` | `.flash-grades` collapses to two columns, `.flash-card` padding shrinks, `.settings-section .flash-row` stacks label above control |
 | `max-width: 700px` | `.test-layout` and `.test-sidebar` collapse to one column |
 
 ## Language of the interface

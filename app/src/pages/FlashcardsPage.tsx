@@ -3,7 +3,6 @@ import { useSearchParams, useNavigate } from 'react-router-dom';
 import { ConfirmModal } from '../components/ConfirmModal';
 import { PageHeader, Toggle } from '../components/Layout';
 import { FlashcardView } from '../components/FlashcardView';
-import { SpeechSettings } from '../components/SpeechSettings';
 import {
   buildDeck,
   buildSessionQueue,
@@ -345,7 +344,6 @@ export function FlashcardsPage() {
           onChange={(checked) => setShowExample(checked)}
           label="Показывать пример после ответа"
         />
-        <SpeechSettings />
         <button type="button" className="btn btn-secondary btn-sm" onClick={() => setConfirmReset(true)}>
           Сбросить прогресс повторений
         </button>
