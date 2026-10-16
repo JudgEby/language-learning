@@ -57,6 +57,7 @@ Everything else in `scripts/` is **stdlib-only** (`hashlib`, `json`, `pathlib`, 
 | `zustand` | ^5 | progress + theme stores, with `persist` middleware |
 | `react-markdown` + `remark-gfm` | ^9 / ^4 | renders rule `contentMd` (GFM tables) |
 | `vite` + `@vitejs/plugin-react` | ^6 | dev server, bundler, custom content-sync plugins |
+| `vite-plugin-pwa` | ^2 | service worker (Workbox `generateSW`): precached app shell + `CacheFirst` for `/content/**`, `registerType: 'prompt'` |
 | `typescript` | ~5.7 | `tsc -b` typecheck |
 
 Styling is a **single plain CSS file** (`app/src/index.css`, ~810 lines) with CSS custom

@@ -1,5 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ThemeProvider } from './components/ThemeProvider';
+import { PwaUpdatePrompt } from './components/PwaUpdatePrompt';
 import { SettingsButton } from './components/SettingsButton';
 import { HomePage } from './pages/HomePage';
 import { FlashcardsPage } from './pages/FlashcardsPage';
@@ -18,6 +19,7 @@ export default function App() {
     <ThemeProvider>
     <BrowserRouter>
       <SettingsButton />
+      <PwaUpdatePrompt />
       <main className="app-shell">
         <Routes>
           <Route path="/" element={<HomePage />} />

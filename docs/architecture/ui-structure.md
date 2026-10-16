@@ -243,6 +243,7 @@ rendered through `ReactMarkdown` + `remark-gfm` again.
 | `SpeakButton.tsx` | `SpeakButton` | icon-only pronunciation button via `lib/speech.ts`; reads voice/rate from `flashcardsStore`, disabled where unsupported |
 | `ScreenFeedback.tsx` | `ScreenFeedback`, `FeedbackSignal`, `FeedbackKind` | full-screen answer glow, mounted by `GamePage` but portalled to `document.body` (so the `.app-shell` shake transform cannot re-base the fixed frame); `null` signal renders nothing |
 | `SpeechSettings.tsx` | `SpeechSettings` | voice (`voiceURI`, auto = best English) and rate selects; rendered on the settings page; lists English voices first, shows the auto-picked voice, warns with install steps for the detected OS (`getSpeechPlatform`) when no English voice exists, plus an always-visible collapsed install guide for the current platform |
+| `PwaUpdatePrompt.tsx` | `PwaUpdatePrompt` | service-worker update banner (`registerType: 'prompt'`): fixed bottom bar with «Доступно обновление» plus «Обновить» / «Позже»; mounted by `App`, renders `null` until a new build is staged, so it never reloads a test or game session unasked |
 
 `BackLink({to, label})` renders `.back-link` with a `← ` prefix. `PageHeader({title, backTo,
 backLabel, actions})` renders `.page-header`, `.page-header__row`, `.page-header__actions`.
