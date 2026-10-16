@@ -61,11 +61,36 @@ function contentSyncBuild(): Plugin {
   }
 }
 
+function pwaRegisterStub(): Plugin {
+  // `vite-plugin-pwa` only serves `virtual:pwa-register` in dev when
+  // `devOptions.enabled` is true. We keep the service worker disabled in dev
+  // (so `npm run dev` and Playwright run without a worker), but the static
+  // import in `PwaUpdatePrompt.tsx` still needs to resolve — hence a no-op
+  // stub that only applies to `serve`. Production builds use the real module.
+  const id = 'virtual:pwa-register'
+  const resolved = `\0${id}`
+  return {
+    name: 'pwa-register-stub',
+    apply: 'serve',
+    resolveId(source) {
+      if (source === id) return resolved
+      return null
+    },
+    load(moduleId) {
+      if (moduleId === resolved) {
+        return 'export function registerSW() { return () => undefined }\n'
+      }
+      return null
+    },
+  }
+}
+
 export default defineConfig({
   plugins: [
     react(),
     contentSync(),
     contentSyncBuild(),
+    pwaRegisterStub(),
     VitePWA({
       // The web manifest is a hand-written file in public/; the plugin only
       // generates the service worker and precaches the build output.
