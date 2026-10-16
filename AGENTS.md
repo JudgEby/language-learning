@@ -35,7 +35,11 @@ AI agents generate rules, vocabulary and tests as JSON (`content/{LEVEL}/`), and
 │   ├── data/                  # rules/, vocabulary/, phrases/, idioms/
 │   └── tests/                 # day-01.json, day-02.json, ...
 ├── scripts/                   # Python CLI utilities (content_utils.py + 10 scripts)
-└── app/                       # React SPA (reads the generated app/public/content/)
+├── app/                       # React SPA (reads the generated app/public/content/)
+│   ├── Dockerfile               # prod image: node build -> nginx static
+│   └── nginx.conf               # SPA fallback, content/sw caching
+├── docker-compose.yml         # prod stack: single web service on :80
+└── .github/workflows/deploy.yml # CI: verify on push to main, redeploy via SSH
 ```
 
 `{LEVEL}` is a latin-only folder name (`A2`, `A2+`, `B1`, `B2`, `B2+`), used verbatim as the
@@ -140,6 +144,7 @@ the code they point to — never load the entire `docs/architecture/` folder at 
 | Progress tracking, `localStorage` keys | `state-and-storage.md` | `app/src/store/`, `app/src/lib/loadContent.ts` | `npm run typecheck` |
 | Content loading, caching, fetch errors | `state-and-storage.md` | `app/src/lib/loadContent.ts` | `npm run dev`, browser console |
 | Content does not load in the app | `architecture.md` | `app/vite.config.ts`, `scripts/run_app.py` | `npm run dev` |
+| Deploy to the server, CI, Docker image | `architecture.md` | `app/Dockerfile`, `app/nginx.conf`, `docker-compose.yml`, `.github/workflows/deploy.yml` | `docker build`, container HTTP checks |
 | Write or debug an e2e test | `ui-structure.md` | `app/e2e/`, `app/playwright.config.ts` | `npm run e2e` |
 | Add a new level | `overview.md`, `content-pipeline.md` | `scripts/extract_pdf.py`, `scripts/sync_level.py` | `validate_level.py {LEVEL}` |
 | File a bug or feature ticket | `ticket-workflow.md` | — | re-read the created ticket |

@@ -1,7 +1,7 @@
 # Architecture
 
-Covers: `app/vite.config.ts`, `scripts/run_app.py`, `scripts/content_utils.py`, `scripts/extract_pdf.py`, `scripts/extract_pdf_ocr.py`, `app/src/lib/loadContent.ts`, `content/{LEVEL}/manifest.json`
-Read when: content does not load in the app, changing the content sync or mirror, changing ordering derivation.
+Covers: `app/vite.config.ts`, `scripts/run_app.py`, `scripts/content_utils.py`, `scripts/extract_pdf.py`, `scripts/extract_pdf_ocr.py`, `app/src/lib/loadContent.ts`, `content/{LEVEL}/manifest.json`, `app/Dockerfile`, `app/nginx.conf`, `docker-compose.yml`, `.github/workflows/deploy.yml`
+Read when: content does not load in the app, changing the content sync or mirror, changing ordering derivation, deploying to the server.
 
 ## Layering
 
@@ -76,6 +76,22 @@ Two mechanisms perform the same copy, both rooted at `app/vite.config.ts`:
 
 All three are destructive full replaces of `app/public/content/`. The directory is listed in
 `.gitignore`.
+
+## L3 → production: Docker image and CI deploy
+
+The production delivery is a single nginx container serving the `dist/` bundle
+(`app/Dockerfile`: `node:20-alpine` builder runs `npm run build` with `content/`
+in place so `content-sync-build` bakes it in, then copies `dist/` into
+`nginx:alpine`). `app/nginx.conf` resolves SPA routes to `index.html`, caches
+`/content/*` as immutable for 90 days, and never caches `index.html`/`sw.js`.
+`docker-compose.yml` runs that image as one `web` service on port 80.
+
+`.github/workflows/deploy.yml` runs on every push to `main`: a `verify` job
+re-runs `typecheck`, `validate_level.py` for all levels and the production
+build, then a `deploy` job SSHes into the server (`SSH_HOST/USER/KEY/PORT`
+secrets), resets `/opt/lang-app` to `origin/main` and runs
+`docker compose up -d --build`. Releases merge `develop` into `main`
+(see [`ticket-workflow.md`](ticket-workflow.md)).
 
 ## L3 → L4: fetch at runtime
 
